@@ -1360,7 +1360,7 @@ msgstr "FXAA"
 
 msgctxt "options/video/fxaa#desc"
 msgid "Fast approximate anti-aliasing makes model edges look smoother and more natural but leads to a slight blur effect. It has only a minor impact on the performance."
-msgstr "O FXAA suaviza bordas com leve desfoque. Tem impacto mínimo no desempenho."
+msgstr "O antialiasing aproximado rápido (FXAA) torna as bordas dos modelos mais suaves e naturais, mas provoca um leve efeito de desfoque. Tem apenas um impacto mínimo no desempenho."
 
 msgctxt "options/video/clip_distance#desc"
 msgid "How far you can see in the game. Reducing this value can slightly improve performance, but may reduce the situational awareness from short-sightedness."
@@ -1792,7 +1792,7 @@ msgstr "Missão"
 
 msgctxt "options/keys/actions/attack_ground"
 msgid "Attack ground"
-msgstr "Atacar solo"
+msgstr "Atacar área"
 
 msgctxt "user_statistics/ranked/row/trust_rating/great"
 msgid "%1%"
@@ -6247,7 +6247,7 @@ msgstr "Som"
 
 msgctxt "options/workshop/tag/mp map"
 msgid "MP Map"
-msgstr "Mapa MP"
+msgstr "Mapa PM"
 
 msgctxt "options/workshop/tag/sp map"
 msgid "SP Map"
@@ -6259,7 +6259,7 @@ msgstr "Conjunto de Unidades"
 
 msgctxt "options/workshop/tag/mp compatible"
 msgid "MP Compatible"
-msgstr "Compatível MP"
+msgstr "Compatível PM"
 
 msgctxt "options/workshop/tag/total conversion"
 msgid "Total Conversion"
