@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/entity/panzernest_krab"
+msgid "Panzernest"
+msgstr "Panzernest"
+
+msgctxt "info/special/panzernest_krab"
+msgid "MG34 Bunker"
+msgstr "Bunker MG34"
+
+msgctxt "desc/entity/panzernest_krab_ger"
+msgid "Panzernest"
+msgstr "Panzernest"
+
+msgctxt "info/special/panzernest_krab_ger"
+msgid "MG34 Bunker"
+msgstr "Bunker MG34"
+
+msgctxt "desc/entity/ammo_trailer"
+msgid "Sd.Ah.51 (Supply)"
+msgstr "Sd.Ah.51 (Suministros)"
+
+msgctxt "info/special/ammo_trailer"
+msgid "Ammo Trailer"
+msgstr "Camión de munición"
+
+msgctxt "desc/entity/50mm_flak41"
+msgid "5cm Flak 41"
+msgstr "5cm Flak 41"
+
+msgctxt "info/special/50mm_flak41"
+msgid "<c(c3baae)>Medium AA Gun</c>"
+msgstr "<c(c3baae)>Cañón AA medio</c>"
+
+msgctxt "desc/entity/75mm_fk18"
+msgid "7.5cm FK 18"
+msgstr "7.5cm FK 18"
+
+msgctxt "info/special/75mm_fk18"
+msgid "<c(c3baae)>Light Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús ligero de campo</c>"
+
+msgctxt "desc/entity/75mm_lg40"
+msgid "7.5cm LG 40"
+msgstr "7.5cm LG 40"
+
+msgctxt "info/special/75mm_lg40"
+msgid "<c(c3baae)>Light Infantry Gun</c>"
+msgstr "<c(c3baae)>Arma de infantería ligera</c>"
+
+msgctxt "desc/entity/100mm_nbw35"
+msgid "10cm NbW 35"
+msgstr "10cm NbW 35"
+
+msgctxt "info/special/100mm_nbw35"
+msgid "<c(c3baae)>Heavy Mortar</c>"
+msgstr "<c(c3baae)>Mortero pesado</c>"
+
+msgctxt "desc/entity/105mm_sk18"
+msgid "10cm sK 18"
+msgstr "10cm sK 18"
+
+msgctxt "info/special/105mm_sk18"
+msgid "<c(c3baae)>Heavy Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús pesado de campaña</c>"
+
+msgctxt "desc/entity/200mm_ldgw40"
+msgid "20cm leLdgW"
+msgstr "20cm leLdgW"
+
+msgctxt "info/special/200mm_ldgw40"
+msgid "<c(c3baae)>Heavy Mortar</c>"
+msgstr "<c(c3baae)>Mortero pesado</c>"
+
+msgctxt "desc/entity/210mm_nebelwerfer42"
+msgid "21cm Nebelwerfer 42"
+msgstr "21cm Nebelwerfer 42"
+
+msgctxt "info/special/210mm_nebelwerfer42"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr "<c(c3baae)>Artillería de cohetes</c>"
+
+msgctxt "desc/entity/150mm_sw34"
+msgid "150cm Flak-Scheinwerfer 34"
+msgstr "150cm Flak-Scheinwerfer 34"
+
+msgctxt "info/special/150mm_sw34"
+msgid "<c(c3baae)>Search Light</c>"
+msgstr "<c(c3baae)>Foco</c>"
+
+msgctxt "desc/entity/150mm_sw34_ger"
+msgid "150cm Flak-Scheinwerfer 34"
+msgstr "150cm Flak-Scheinwerfer 34"
+
+msgctxt "info/special/150mm_sw34_ger"
+msgid "<c(c3baae)>Search Light</c>"
+msgstr "<c(c3baae)>Foco</c>"
+
+msgctxt "desc/entity/m42_truppenfahrrad"
+msgid "M42 Truppenfahrrad"
+msgstr "M42 Truppenfahrrad"
+
+msgctxt "info/special/m42_truppenfahrrad"
+msgid "<c(c3baae)>Military Bicycle</c>"
+msgstr "<c(c3baae)>Bicicleta militar</c>"
+
+msgctxt "desc/entity/bmw_r71"
+msgid "BMW R71 (MG34)"
+msgstr "BMW R71 (MG34)"
+
+msgctxt "info/special/bmw_r71"
+msgid "<c(c3baae)>Motorcycle</c>"
+msgstr "<c(c3baae)>Motocicleta</c>"
+
+msgctxt "desc/entity/kfz13"
+msgid "Kfz.13 (MG34)"
+msgstr "Kfz.13 (MG34)"
+
+msgctxt "info/special/kfz13"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/kfz14"
+msgid "Kfz.14 Command"
+msgstr "Comando Kfz.14"
+
+msgctxt "info/special/kfz14"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/kfz15"
+msgid "Kfz.15 (MG34)"
+msgstr "Kfz.15 (MG34)"
+
+msgctxt "info/special/kfz15"
+msgid "<c(c3baae)>Armed Transport</c>"
+msgstr "<c(c3baae)>Transporte armado</c>"
+
+msgctxt "desc/entity/sdkfz6_2"
+msgid "Sd.Kfz 6/2 (3.7cm FlaK)"
+msgstr "Sd.Kfz 6/2 (3.7cm FlaK)"
+
+msgctxt "info/special/sdkfz6_2"
+msgid "<c(c3baae)>AA Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga AA</c>"
+
+msgctxt "desc/entity/sdkfz251b"
+msgid "Sd.Kfz 251/1 (MG34)"
+msgstr "Sd.Kfz 251/1 (MG34)"
+
+msgctxt "info/special/sdkfz251b"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga</c>"
+
+msgctxt "desc/entity/sdkfz251c_2"
+msgid "Sd.Kfz 251/2 (8cm GrW)"
+msgstr "Sd.Kfz 251/2 (8cm GrW)"
+
+msgctxt "info/special/sdkfz251c_2"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga</c>"
+
+msgctxt "desc/entity/sdkfz7"
+msgid "Sd.Kfz 7 (Transport)"
+msgstr "Sd.Kfz 7 (Transporte)"
+
+msgctxt "info/special/sdkfz7"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga</c>"
+
+msgctxt "desc/entity/sdkfz7_2"
+msgid "Sd.Kfz 7/2 (3.7cm FlaK)"
+msgstr "Sd.Kfz 7/2 (3.7cm FlaK)"
+
+msgctxt "info/special/sdkfz7_2"
+msgid "<c(c3baae)>AA Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga AA</c>"
+
+msgctxt "desc/entity/sdkfz10_4"
+msgid "Sd.Kfz 10/4 (2cm)"
+msgstr "Sd.Kfz 10/4 (2cm)"
+
+msgctxt "info/special/sdkfz10_4"
+msgid "<c(c3baae)>AA Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga AA</c>"
+
+msgctxt "desc/entity/pz38h_735"
+msgid "Pz.Kpfw 38H 735(f)"
+msgstr "Pz.Kpfw 38H 735(f)"
+
+msgctxt "info/special/pz38h_735"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/pz38h_w40"
+msgid "Pz.Kpfw 38H 735(f) (Wurfrahmen 40)"
+msgstr "Pz.Kpfw 38H 735(f) (Wurfrahmen 40)"
+
+msgctxt "info/special/pz38h_w40"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzer35s"
+msgid "Pz.Kpfw 35S 739(f)"
+msgstr "Pz.Kpfw 35S 739(f)"
+
+msgctxt "info/special/panzer35s"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+msgctxt "desc/entity/panzer3h"
+msgid "Pz.Kpfw III Ausf.H"
+msgstr "Pz.Kpfw III Ausf.H"
+
+msgctxt "info/special/panzer3h"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+msgctxt "desc/entity/panzerb2"
+msgid "Pz.Kpfw B2 740(f)"
+msgstr "Pz.Kpfw B2 740(f)"
+
+msgctxt "info/special/panzerb2"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"

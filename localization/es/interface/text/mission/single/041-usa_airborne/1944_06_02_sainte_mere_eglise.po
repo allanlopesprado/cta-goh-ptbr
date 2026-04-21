@@ -1,0 +1,271 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_02_sainte_mere_eglise)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/allied/thunder"
+msgid "Thunder!"
+msgstr "¡Trueno!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/case1_failed"
+msgid "You wandered off and failed to find your Commander. You have been captured - Mission failure!"
+msgstr "Te has alejado y no has encontrado a tu comandante. Te han capturado ¡Misión fallida!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/date"
+msgid "June 6th, 1944 · Ste-Mere-Eglise, Normandy, France."
+msgstr "6 de junio de 1944. Ste-Mere-Eglise, Normandía, Francia."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/debugseen"
+msgid "Seen %1% Times"
+msgstr "Avistado %1% veces"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/lastwarning"
+msgid "Quick! Leave the southwest part of town (red zone) to avoid being captured!"
+msgstr "¡Rápido! ¡Abandona la parte suroeste de la ciudad (zona roja) para evitar que te capturen!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/recruitpara"
+msgid "To recruit landing paratroopers, approach close to one, and they will automatically be assigned to your team!"
+msgstr "Para unir fuerzas con paracaidistas que acaban de aterrizar, acércate a uno ¡y se sumarán automáticamente a tu equipo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/recruitpara2"
+msgid "Alternatively, move one of your units near the friendly unit you wish to recruit, hover your cursor over the allied unit, and a grabbing icon will appear."
+msgstr "Puedes mover una de tus unidades cerca de la unidad amiga que deseas unir a tus fuerzas. Pasa el cursor por encima de la unidad aliada y aparecerá un icono de agarrar."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/01avoid"
+msgid "Check your map and follow the alternating pointers to reach your objective. Avoid German patrols if you can. Above all, stay away from the southwest part of town (red zone) to avoid being captured!"
+msgstr "Consulta tu mapa y sigue las indicaciones que se van apareciendo para alcanzar tu objetivo. Evita las patrullas alemanas si puedes. Lo más importante: ¡aléjate de la parte suroeste de la ciudad (zona roja) para evitar que te capturen!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_killaaguns0"
+msgid "Destroy the AA guns! <c(e74236)>0/4 destroyed"
+msgstr "¡Destruye los cañones antiaéreos! <c(e74236)>0/4 destruidos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_killaaguns1"
+msgid "Destroy the AA guns! <c(e74236)>1/4 destroyed"
+msgstr "¡Destruye los cañones antiaéreos! <c(e74236)>1/4 destruidos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_killaaguns2"
+msgid "Destroy the AA guns! <c(e74236)>2/4 destroyed"
+msgstr "¡Destruye los cañones antiaéreos! <c(e74236)>2/4 destruidos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_killaaguns3"
+msgid "Destroy the AA guns! <c(e74236)>3/4 destroyed"
+msgstr "¡Destruye los cañones antiaéreos! <c(e74236)>3/4 destruidos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_killaaguns4"
+msgid "Destroy the AA guns! <c(4fe736)>4 destroyed"
+msgstr "¡Destruye los cañones antiaéreos! <c(4fe736)>4 destruidos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_recruit"
+msgid "Recruit ten paratroopers to your group."
+msgstr "Reune a diez paracaidistas para tu grupo."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_rescue_men"
+msgid "Free the captured paratroopers."
+msgstr "Libera a los paracaidistas capturados."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_sniper"
+msgid "Kill the German sniper!"
+msgstr "¡Mata al francotirador alemán!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/name"
+msgid "Dropped into the Fire"
+msgstr "Salto al infierno"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/name_big"
+msgid "Dropped into the Fire"
+msgstr "Salto al infierno"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/02a"
+msgid "Glad to see you! We might just be able to pull this off!"
+msgstr "¡Me alegro de verte! ¡Lo conseguiremos, lo sé!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/03"
+msgid "We must secure a foothold here in the northern section of town while we rally more troops."
+msgstr "Debemos preparar una zona segura aquí, en la zona norte de la ciudad, mientras reunimos más tropas."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/04"
+msgid "I saw the Krauts rounding up a number of our men. Let's get them outta there!"
+msgstr "He visto a los alemanes reuniendo a varios de nuestros hombres ¡Tenemos que ayudar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/05"
+msgid "Some of our boys are still landing in this town. I recommend you recruit any troopers you find!"
+msgstr "Algunos de nuestros muchachos siguen cayendo en esta ciudad. Intenta llevarte contigo a todo el que veas."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/06"
+msgid "Those Kraut Anti-Aircraft guns are still threatening our nearby drop zones. We need to knock them out before they do any more damage."
+msgstr "Esos cañones antiaéreos alemanes siguen amenazando nuestras zonas de salto. Tenemos que eliminarlos antes de que causen más daños."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/07"
+msgid "That looks like the German HQ! We should check for any radios and destroy them."
+msgstr "¡Eso parece el cuartel general alemán! Deberíamos comprobar si hay radios y destruirlas."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/08"
+msgid "Ah! We've found Jerry's vehicle depot. I bet we can blow it to smithereens!"
+msgstr "¡Vaya...! Hemos encontrado el depósito de vehículos de los boches ¡Seguro que podemos hacer una escabechina!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/avoidaa"
+msgid "Keep away from German AA guns until you regroup with your Commander! Search the area north of the church as indicated."
+msgstr "Mantente alejado de los cañones antiaéreos alemanes hasta que te reagrupes con tu comandante. Registra la zona al norte de la iglesia."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy01"
+msgid "The town is now fully under control, but Jerry is sure to counterattack."
+msgstr "Ahora la ciudad está totalmente bajo nuestro control, pero seguro que los alemanes contraatacan."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy02"
+msgid ""
+"The enemy counterattack will soon be gathering from different directions, as "
+"indicated on your map. You must ambush it and eliminate all enemy troops "
+"before they can deploy!"
+msgstr ""
+"El contraataque enemigo comenzará a organizarse pronto desde distintas "
+"direcciones, como se indica en tu mapa ¡Prepara una emboscada y elimina al "
+"enemigo antes de que puedan desplegarse!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/secret"
+msgid "Oh, what have we here? It seems a supply drop along with a mortar, landed all the way over here! Well, that's something!"
+msgstr "¿Qué tenemos aquí? Parecen suministros que nos han enviado, junto con un mortero. ¡Y justo ha aterrizado todo aquí! Con esto podemos hacer algo."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/outro_completed"
+msgid "Excellent work, we captured and defended Ste-Mere-Eglise against counterattack! Because we have control over the causeways, the 4th Infantry Division can assault Utah Beach without the threat of an enemy counterattack. Well done!"
+msgstr "Excelente trabajo, ¡hemos capturado y defendido Ste-Mere-Eglise! Como tenemos el control de las carreteras, la 4ª División de Infantería puede asaltar Utah sin la amenaza de un contraataque enemigo ¡Buen trabajo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/outro_failed"
+msgid "We failed to take Ste-Mere-Eglise! Now the Germans have a clear path to send reinforcements and counterattack our boys on the beaches. The outcome of the invasion is in serious jeopardy! You must try again!"
+msgstr "¡No pudimos tomar Ste-Mere-Eglise! Ahora los alemanes tienen vía libre para enviar refuerzos y contraatacar a nuestros chicos en las playas ¡El resultado de la invasión está en grave peligro! ¡Debes intentarlo de nuevo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr "82ª División Aerotransportada \"All American\""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/01"
+msgid "Shit, I lost all my equipment! All I have left is a knife. I need to find a proper weapon fast!"
+msgstr "¡Mierda, he perdido todo mi equipo! Sólo me queda un cuchillo ¡Necesito encontrar rápido un arma decente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/01_bis"
+msgid "Looks like Fritz hasn't noticed me yet. I'm sure he won't mind if I take his rifle..."
+msgstr "Parece que el alemán aún no se ha fijado en mí. Seguro que no le importará que tome prestado su rifle..."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/02"
+msgid "Hey boys! Glad we found you! Now, grab your rifles and move out!"
+msgstr "¡Hola, chicos! ¡Nos alegramos de haberos encontrado! ¡Venga, seguidme con vuestros rifles, vamos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/all_aadestroyed"
+msgid "Great! All flak guns are silent!"
+msgstr "¡Estupendo! ¡Todos los cañones antiaéreos neutralizados!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/convoy"
+msgid "Jerry is here! Let's give them a warm welcome. All The Way!"
+msgstr "¡Ya están aquí los boches! Démosle una calurosa bienvenida ¡Se van a enterar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/firstgundestroyed"
+msgid "First flak destroyed!"
+msgstr "¡Primer antiaéreo destruido!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/flash"
+msgid "Flash!"
+msgstr "¡Rayo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/gundestroyed"
+msgid "Scratch another Kraut AA!"
+msgstr "¡Un cañón antiaéreo boche menos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/gundestroyed2"
+msgid "One more AA gun knocked out!"
+msgstr "¡Otro cañón antiaéreo neutralizado!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/officerfind"
+msgid "I saw other men from my 'Stick' drop northwest of the church. I gotta make my way there and find them!"
+msgstr "Vi a otros hombres de mi unidad caer al noroeste de la iglesia ¡Tengo que llegar hasta allí y encontrarlos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/reinf_at"
+msgid "Reinforcements, finally! We sure could use the help!"
+msgstr "Refuerzos, ¡por fin! ¡Nos vendría muy bien la ayuda!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper"
+msgid "Shit! Taking sniper fire!"
+msgstr "¡Mierda! ¡Recibiendo fuego de francotirador!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper_alt"
+msgid "Under sniper fire!"
+msgstr "¡Me dispara un francotirador!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper_killed"
+msgid "German sniper eliminated!"
+msgstr "¡Francotirador alemán eliminado!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/stayonobj"
+msgid "Uh oh! Looks like I'll run into way more Krauts if I keep going this way."
+msgstr "¡Vaya! Parece que me encontraré con muchos más alemanes si sigo por este camino."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/recruit_status"
+msgid "You recruited %1%/10 paratroopers!"
+msgstr "¡Has reunido %1%/10 paracaidistas!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/story"
+msgid ""
+"  6th of June, 1944. The 82nd is on its way to France. In the early hours of D-Day, they will jump over Normandy!\n"
+"\n"
+"  There’s a simple yet ambitious objective for the 505th battalion: take the village of St. Mère-Église and do it quickly. The drop zone is just northwest of the town, so the plan is to assemble and then move southeast toward it.\n"
+"\n"
+"  Shortly before 2 AM the 505th jumps into the night, oblivious to the fact the formation is flying much higher than it should.\n"
+"\n"
+"Good luck!"
+msgstr ""
+"  6 de junio de 1944. La 82ª está de camino a Francia. En las primeras horas del Día D, saltarán sobre Normandía\n"
+"\n"
+"  El 505º batallón tiene un objetivo sencillo pero ambicioso: tomar el pueblo de St. Mère-Église y debe hacerlo rápidamente. La zona de salto está justo al noroeste del pueblo, así que el plan es reunirse y luego avanzar hacia el pueblo en dirección sureste.\n"
+"\n"
+"  Poco antes de las 2 de la madrugada, el 505º salta en la oscuridad noche, sin darse cuenta de que la formación está volando mucho más alto de lo que debería.\n"
+"\n"
+"¡Suerte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task0"
+msgid "Find a weapon!"
+msgstr "¡Encuentra un arma!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task1"
+msgid "Escape the German sentries and find your Commander!"
+msgstr "¡Evita de las patrullas alemanas y encuentra a tu comandante!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task2"
+msgid "Secure a foothold in the northern side of town!"
+msgstr "¡Asegura una posición en el norte de la ciudad!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task3_radio"
+msgid "Sabotage the German radio station by bringing your soldiers to it."
+msgstr "Sabotea la radio alemana llevando a tus soldados hasta ella."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task3_trucks"
+msgid "Destroy the German vehicle depot."
+msgstr "Destruye el depósito de vehículos alemán."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task4"
+msgid "Ambush and defeat the counterattack!"
+msgstr "¡Embosca y derrota a las fuerzas enemigas que están contraatacando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task_sec"
+msgid "Secret Objective #1"
+msgstr "Objetivo secreto nº 1"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task_sec_completed"
+msgid "Secret Objective - Find the lost supply drop."
+msgstr ""
+"Objetivo secreto - Encuentra los suministros lanzados que se han perdido."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/timerconvoy"
+msgid "German counterattack arrives in:"
+msgstr "El contraataque alemán llega en:"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/timerconvoywarn"
+msgid "<c(ff4200)>German counterattack arrives in:"
+msgstr "<c(ff4200)>El contraataque alemán llega en:"

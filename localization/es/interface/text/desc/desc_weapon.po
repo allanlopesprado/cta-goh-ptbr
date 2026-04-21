@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_weapon)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/weapon/type/main"
+msgid "Main MG"
+msgstr "Ametralladora principal"
+
+msgctxt "desc/weapon/type/coaxial"
+msgid "Coaxial MG"
+msgstr "Ametralladora coaxial"
+
+msgctxt "desc/weapon/type/hull"
+msgid "Hull MG"
+msgstr "Ametralladora de casco"
+
+msgctxt "desc/weapon/type/rear"
+msgid "Rear MG"
+msgstr "Ametralladora trasera"
+
+msgctxt "desc/weapon/type/aa"
+msgid "Anti-Aircraft MG"
+msgstr "Ametralladora antiaérea"
+
+msgctxt "desc/weapon/type/secondary_flamer"
+msgid "Hull Flamethrower"
+msgstr "Lanzallamas de casco"
+
+msgctxt "desc/weapon/type/coaxial_flamer"
+msgid "Coaxial Flamethrower"
+msgstr "Lanzallamas coaxial"
+
+msgctxt "desc/weapon/type/mgun_turret_left"
+msgid "Left Turret MG"
+msgstr "Ametralladora de torreta izquierda"
+
+msgctxt "desc/weapon/type/mgun_turret_right"
+msgid "Right Turret MG"
+msgstr "Ametralladora de torreta derecha"
+
+msgctxt "desc/weapon/type/mgun_turret_rear_left"
+msgid "Left Rear Turret MG"
+msgstr "MG Torreta trasera izq."
+
+msgctxt "desc/weapon/type/mgun_turret_rear_right"
+msgid "Right Rear Turret MG"
+msgstr "MG Torreta trasera der."
+
+msgctxt "desc/weapon/type/commander"
+msgid "Commander"
+msgstr "Comandante"
+
+msgctxt "desc/weapon/type/searchlight"
+msgid "Searchlight"
+msgstr "Reflector"
+
+msgctxt "desc/weapon/binocular"
+msgid "Binoculars"
+msgstr "Prismáticos"
+
+msgctxt "desc/stuff/binocular"
+msgid "Binoculars"
+msgstr "Prismáticos"
+
+msgctxt "desc/stuff/box"
+msgid "Box"
+msgstr "Caja"
+
+msgctxt "desc/stuff/small_box"
+msgid "Small Box"
+msgstr "Caja pequeña"
+
+msgctxt "desc/stuff/searchlight"
+msgid "Searchlight"
+msgstr "Reflector"
+
+msgctxt "desc/stuff/light"
+msgid ""
+msgstr ""
+
+msgctxt "desc/ammo/ap"
+msgid "Armor Piercing"
+msgstr "Perforación de blindaje"
+
+msgctxt "desc/ammo/ap2"
+msgid "Armor Piercing"
+msgstr "Perforación de blindaje"
+
+msgctxt "desc/ammo/aphe"
+msgid "AP w/ HE Filler"
+msgstr "AP con relleno HE"
+
+msgctxt "desc/ammo/aphe2"
+msgid "AP w/ HE Filler"
+msgstr "AP con relleno HE"
+
+msgctxt "desc/ammo/aphebc"
+msgid "AP Ballistic Cap w/ HE Filler"
+msgstr "Capa balística AP con relleno HE"
+
+msgctxt "desc/ammo/aphebc2"
+msgid "AP Ballistic Cap w/ HE Filler"
+msgstr "Capa balística AP con relleno HE"
+
+msgctxt "desc/ammo/apcbche"
+msgid "AP Capped Ballistic Cap w/ HE Filler"
+msgstr
+
+msgctxt "desc/ammo/apcbche2"
+msgid "AP Capped Ballistic Cap w/ HE Filler"
+msgstr "Capa balística penetrante AP con relleno HE"
+
+msgctxt "desc/ammo/apc"
+msgid "AP Capped"
+msgstr "Capa AP"
+
+msgctxt "desc/ammo/apc2"
+msgid "AP Capped"
+msgstr "Capa AP"
+
+msgctxt "desc/ammo/apbc"
+msgid "AP Ballistic Cap"
+msgstr "Capa balística AP"
+
+msgctxt "desc/ammo/apbc2"
+msgid "AP Ballistic Cap"
+msgstr "Capa balística AP"
+
+msgctxt "desc/ammo/apcbc"
+msgid "AP Capped Ballistic Cap"
+msgstr "Capa balística penetrante AP"
+
+msgctxt "desc/ammo/apcbc2"
+msgid "AP Capped Ballistic Cap"
+msgstr "Capa balística penetrante AP"
+
+msgctxt "desc/ammo/apche"
+msgid "AP Capped w/ HE Filler"
+msgstr "Capa AP con relleno HE"
+
+msgctxt "desc/ammo/apche2"
+msgid "AP Capped w/ HE Filler"
+msgstr "Capa AP con relleno HE"
+
+msgctxt "desc/ammo/apcr"
+msgid "AP Composite Rigid"
+msgstr "Rígida compuesta AP"
+
+msgctxt "desc/ammo/apcr2"
+msgid "AP Composite Rigid"
+msgstr "Rígida compuesta AP"
+
+msgctxt "desc/ammo/apds"
+msgid "AP Discarding Sabot"
+msgstr "Proyectil desechable AP"
+
+msgctxt "desc/ammo/apds2"
+msgid "AP Discarding Sabot"
+msgstr "Proyectil desechable AP"
+
+msgctxt "desc/ammo/he"
+msgid "High Explosive"
+msgstr "Alto explosivo"
+
+msgctxt "desc/ammo/he2"
+msgid "High Explosive"
+msgstr "Alto explosivo"
+
+msgctxt "desc/ammo/he2"
+msgid "High Explosive"
+msgstr "Incendiarias alto explosivo"
+
+msgctxt "desc/ammo/hei"
+msgid "High Explosive Incendiary"
+msgstr "Incendiarias alto explosivo"
+
+msgctxt "desc/ammo/heat"
+msgid "High Explosive Anti Tank"
+msgstr "Alto explosivo antitanque"
+
+msgctxt "desc/ammo/heat"
+msgid "High Explosive Anti Tank"
+msgstr "Alto explosivo antitanque"
+
+msgctxt "desc/ammo/heata"
+msgid "High Explosive Anti Tank"
+msgstr "Alto explosivo antitanque"
+
+msgctxt "desc/ammo/heatb"
+msgid "High Explosive Anti Tank"
+msgstr "Alto explosivo antitanque"
+
+msgctxt "desc/ammo/hvap"
+msgid "High Velocity Armor Piercing"
+msgstr "Proyectil AT de alta velocidad"
+
+msgctxt "desc/ammo/sm"
+msgid "Smoke"
+msgstr "Humo"
+
+msgctxt "desc/ammo/sm2"
+msgid "Smoke"
+msgstr "Humo"
+
+msgctxt "desc/ammo/ic"
+msgid "Incendiary"
+msgstr "Incendiaria"
+
+msgctxt "desc/ammo/ic2"
+msgid "Incendiary"
+msgstr "Incendiaria"
+
+msgctxt "desc/ammo/wp"
+msgid "White Phosphorus"
+msgstr "Fósforo blanco"
+
+msgctxt "desc/ammo/wp2"
+msgid "White Phosphorus"
+msgstr "Fósforo blanco"

@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (1942_09_elbrus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:18+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_01"
+msgid "Greetings! We are on our way to the \"Hot-Tau\" pass. "
+msgstr "¡Saludos! Nos dirigimos al paso de Hot-Tau. "
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_02"
+msgid "Negative, we're short on time and the soviets may get there first."
+msgstr "Negativo, nos quedamos sin tiempo y puede que los soviéticos lleguen antes."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_03"
+msgid "Roger, If we do get back, we will definitely be in need of a drink!"
+msgstr "Afirmativo, ¡si volvemos vamos a necesitar unas birras!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/date"
+msgid "September 1942 ·  Mount Elbrus, Caucasus"
+msgstr "Septiembre de 1942 ·  Monte Elbrús, Cáucaso"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_01"
+msgid "Damn, look, a corpse!"
+msgstr "Dios, mira, ¡un cadáver!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_02"
+msgid "The enemy is here. We need to raise the alarm!"
+msgstr "El enemigo está aquí, ¡tenemos que activar la alarma!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_03"
+msgid "Alarm! Enemy contact!"
+msgstr "¡Alarma! ¡Contacto enemigo!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_04"
+msgid "We're under attack! Sound the alarm immediately!"
+msgstr "¡Nos atacan! ¡Activad la alarma de inmediato!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_04_shot"
+msgid "This is shooting! We are under attack, raise the alarm, right now!"
+msgstr "¡Nos disparan! Están atacándonos, ¡activad la alarma ya!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_05_a"
+msgid "What is it ?"
+msgstr "¿Qué es?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_05_b"
+msgid "Hmm... What is it over there?"
+msgstr "Mmm... ¿Qué eso de allí?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_06_a"
+msgid "Who is there ?"
+msgstr "¿Quién anda ahí?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_06_b"
+msgid "What was it ?"
+msgstr "¿Qué ha sido eso?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/gameover/won"
+msgid "Good job!"
+msgstr "¡Bien hecho!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/name"
+msgid "Among the heavens"
+msgstr "Entre cielo y cielo"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/name_big"
+msgid "Among the heavens"
+msgstr "Entre cielo y cielo"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/outro_completed"
+msgid ""
+"Machine gun fire echoed across the mountains for several hours. Slowly the "
+"tide of battle turned against Lieutenant Grigoryants and his men. \n"
+"Only 4 men from his detachment made it back alive. The Lieutenants body was "
+"one of many that slipped down the mountain slope."
+msgstr "El sonido de la ametralladora resonó en las montañas durante varias horas. Poco a poco, el curso de la batalla se volvió en contra del sargento Grigoryants y sus hombres. \nSolo consiguieron volver cuatro del destacamento. El cuerpo del sargento fue uno de los muchos que se deslizaron montaña abajo."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/outro_failed"
+msgid ""
+"The Soviets, having seen the vulnerability of isolated stations like the one "
+"you just lost, will now raid every single strategic point in \n"
+"this mountain range and by the end of 1942 the entire Caucasus might be "
+"lost. \n"
+"The 11th army will very likely get pushed all the way back into the Taman "
+"peninsula."
+msgstr "Los soviéticos, tras haber descubierto una vulnerabilidad en las estaciones aisladas como la que tú acabas de perder, han asaltado todos los puntos estratégicos \nde la cordillera, con lo que para finales de 1942 el Cáucaso podría pertenecerles. \nEs probable que la 11.ª Armada tenga que retirarse a la península de Tamán."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_01"
+msgid "We are almost there."
+msgstr "Ya casi hemos llegado."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_02"
+msgid ""
+"Our task is to capture \"Shelter of the Eleven\", ideally without raising "
+"the alarm."
+msgstr "Nuestro objetivo es capturar el \"Refugio de los once\". Sin activar la alarma, si es posible."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_03"
+msgid "They don't expect us. We have the element of surprise."
+msgstr "No nos esperan, así que tenemos el factor sorpresa en nuestras manos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_04"
+msgid "We should eliminate any enemy patrols along the way."
+msgstr "Deberíamos eliminar a los patrullas que nos encontremos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_05"
+msgid ""
+"Correct, our tracks will go unseen. Visibility is poor and we can get close "
+"to their patrols without being seen."
+msgstr "Correcto, nuestros orugas pasarán desapercibidos. La visibilidad es escasa y podemos acercarnos a sus patrullas sin que nos vean."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_06"
+msgid "They raised the alarm! It's going to get much tougher."
+msgstr "¡Han activado la alarma! Esto complicará las cosas."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_07"
+msgid ""
+"Take defensive positions around the building, I will contact HQ. Our "
+"reinforcements will deal with the remaining enemy units."
+msgstr "Toma posiciones defensivas en torno al edificio mientras yo contacto con la sede. Los refuerzos acabarán con las unidades enemigas que quedan."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_08"
+msgid "The Reich will be proud of you soldiers. Excellent work."
+msgstr "El Reich se orgullece de vosotros. Excelente trabajo."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_09"
+msgid ""
+"The hotel is in front of us. You should quietly silence the perimeter "
+"without being spotted."
+msgstr "Tenemos el hotel enfrente. Trata de eliminar a los enemigos situados en la periferia sin que te vean."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_10"
+msgid ""
+"Capture the building, take out all the bolsheviks! Kill everyone around the "
+"shelter."
+msgstr "¡Capturad el edificio, que traguen plomo los bolcheviques! Acabad con los que rodean el refugio."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_01"
+msgid ""
+"The enemy will now make their next move. Gather the squad for a briefing!"
+msgstr "El enemigo va a contraatacar. Reúne a tu escuadrón para el informe."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_02"
+msgid "Gentlemen, listen up."
+msgstr "Escuchadme bien, caballeros."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_03"
+msgid ""
+"Our scouts have spotted soviet movement five kilometres to the east. We must "
+"assume that they will try to recapture this position."
+msgstr "Nuestros exploradores han detectado movimiento soviético a cinco kilómetros del este. Asumimos que van a intentar retomar esta posición."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_04"
+msgid "We need to get ready for anything. Plant explosives around the area."
+msgstr "Esperamos cualquier cosa. Plantad explosivos alrededor de la zona."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_05"
+msgid "What the hell?!"
+msgstr "¡¿Qué narices?!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_06"
+msgid "Save the explosives for the bolsheviks!"
+msgstr "¡Guardad los explosivos para cuando vengan los bolcheviques!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_07"
+msgid ""
+"Don't waste your bullets! We will need every round for the Soviets attack!"
+msgstr "¡No desperdiciéis balas! ¡Vamos a necesitar hasta el último proyectil para resistir el ataque!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_08"
+msgid ""
+"You have a good supply of mines at your disposal. Mine the four slopes in "
+"this sector, and prepare defensive positions. Choose the best defensive "
+"positions. We know that the Soviets can attack from 4 possible directions. "
+"Place the machine gun points among the stones, to control possible attack "
+"directions. Don't let the Soviets take over the Shelter!"
+msgstr "Dispones de una buena fuente de minas. Instala minas en las cuatro pendientes del sector y prepara posiciones defensivas. Trata de escoger bien, sabemos que los soviéticos pueden atacar en 4 direcciones. Coloca las ametralladoras entre las piedras para mantener las 4 direcciones bajo control. ¡Que los soviéticos no nos quiten el refugio!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_09"
+msgid ""
+"All slopes are mined - excellent work. This will give us an additional ace "
+"up our sleeves."
+msgstr "Has minado las pendientes, bien hecho. Ahora tenemos un as adicional bajo la manga."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_10"
+msgid "We'll hold this position for the time being."
+msgstr "De momento protegeremos esta posición."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_11"
+msgid "Nice to see you! Can we treat you to a warm drink?"
+msgstr "¡Un placer! ¿Quieres un tentempié calentito?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_12"
+msgid ""
+"Good luck on your mission! We found several bottles of vodka here, when you "
+"get back we can share them."
+msgstr "¡Buena suerte con la misión! Hemos encontrado varias botellas de vodka, cuando vuelvas podemos compartirlas."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_15"
+msgid "Any moment now, stay on high alert!"
+msgstr "¡Abrid bien los ojos!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_01"
+msgid "Move into position immediately!"
+msgstr "¡En posición, ya!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_02"
+msgid ""
+"Excellent! Get on the radio to HQ and report the enemy is attacking the "
+"\"Shelter of the eleven\". Tell them we are outnumbered and that we need "
+"reinforcements immediately!"
+msgstr "¡Excelente! Usa la radio para contactar con la sede e informarles de que el enemigo está asaltando el \"Refugio de los once\". ¡Diles que nos superan en número y que necesitamos refuerzos cuanto antes!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_03"
+msgid "Hold your positions at all costs and buy them some time!"
+msgstr "¡Aguantad cueste lo que cueste y ganad algo de tiempo!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_04"
+msgid "Great, now to the generator."
+msgstr "Genial, vamos al generador."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_05"
+msgid "There's too many of them! We need reinforcements."
+msgstr "¡Son demasiados! Necesitamos refuerzos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_06"
+msgid "Find a repair kit and fix the generator immediately!"
+msgstr "¡Busca un kit de reparación y repara el generador de inmediato!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_07"
+msgid "Just in time!"
+msgstr "¡Justo a tiempo!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_08"
+msgid "Damn! They have deployed mortars on the north!"
+msgstr "¡Joder, han desplegado morteros al norte!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_09"
+msgid "Destroy the enemy mortars immediately or we will be done for!"
+msgstr "¡Destruid los morteros enemigos o no lo contaremos!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_10"
+msgid "It looks like these are all their remaining troops. Kill them!"
+msgstr "Parece que no les quedan más tropas, ¡abatidlos!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_01"
+msgid "Numerous enemy patrols are to be expected."
+msgstr "Creemos que se aproximan numerosos patrullas enemigos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_02"
+msgid "The blizzard will conceal our movement."
+msgstr "La ventisca nos ocultará."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_03"
+msgid ""
+"The area is ours. There are still a few patrols around, but the hotel is "
+"secured."
+msgstr "La zona es nuestra. Todavía quedan algunos patrullas, pero al menos hemos asegurado el hotel."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_04"
+msgid ""
+"The area is secure! All hostiles have been silenced, the remaining soviets "
+"fled eastward."
+msgstr "¡Zona segura! Hemos abatido a los hostiles, aunque algunos soviéticos han huido hacia el este."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_01"
+msgid "The storm has cleared. What a beautiful view"
+msgstr "La tormenta se ha marchado, qué bonitas vistas."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_03"
+msgid "The eastern slope is mined."
+msgstr "Pendiente oriental minada."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_04"
+msgid "The southeast slope is mined."
+msgstr "Pendiente sudoriental minada."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_05"
+msgid "The northeastern slope is mined."
+msgstr "Pendiente nororiental minada."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_06"
+msgid "The northern slope is mined."
+msgstr "Pendiente al norte minada."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_07"
+msgid "I am glad we're done here. The Frostbite is starting to creep in..."
+msgstr "Menos mal que hemos cumplido aquí. Nos estamos congelando..."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_08"
+msgid "How much longer before the Soviets arrive?"
+msgstr "¿Cuánto queda para que lleguen los soviéticos?"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_01"
+msgid "Alarm! Alarm! Herr Leutnant, soviets are coming!"
+msgstr "¡Alarma, alarma! Herr Leutnant, ¡se aproximan los soviéticos!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_02"
+msgid ""
+"We ran into Russian forces on the northern slope. We exchanged fire, but we "
+"had to retreat. There's too many of them!"
+msgstr "Nos hemos encontrado con tropas rusas en la pendiente al norte. Hemos intercambiado algunos disparos, pero como eran muchos nos hemos visto obligados a retirarnos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_03"
+msgid "The generator is fixed! We can contact HQ now."
+msgstr "¡Generador arreglado! Ya podemos contactar con la sede."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_04"
+msgid ""
+"HQ is deploying a nearby squad to our position. It will take a couple "
+"minutes for them to arrive."
+msgstr "La sede nos va a enviar un escuadrón cercano. Llegarán en un par de minutos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_05"
+msgid "I think I see what's wrong with it. This is pretty easy to repair."
+msgstr "Ya veo el problema, la solución es sencilla."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_06"
+msgid ""
+"Herr Leutnant, We could use the generator to power the radio, but it's "
+"broken down."
+msgstr "Herr Leutnant, podríamos encender la radio con el generador, pero está estropeado."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_07"
+msgid ""
+"Yes sir! If I remember correctly, I saw one around the houses on the "
+"southeastern slope."
+msgstr "¡Sí, señor! Si no me falla la memoria, me pareció ver uno junto a las casas, en la pendiente sudoriental."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_08"
+msgid "Yes sir! I think I saw one around the huts near the hotel."
+msgstr "¡Sí, señor! Me pareció ver uno por las cabañas del hotel."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_09"
+msgid "Yes sir! I vividly remember seeing a repair kit near the hotel."
+msgstr "¡Sí, señor! Recuerdo haber visto un kit de reparación junto al hotel."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_10"
+msgid "Reinforcements have arrived."
+msgstr "Han llegado refuerzos."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_11"
+msgid "Soviet infantry coming from the eastern slope!"
+msgstr "¡Se aproxima infantería soviética por la pendiente oriental!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_12"
+msgid "Soviet squad spotted on the southeast slope!"
+msgstr "¡Hay un escuadrón soviético en la pendiente sudoriental!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_13"
+msgid "Enemies spotted coming from the northeastern slope!"
+msgstr "¡Se aproximan enemigos por la pendiente nororiental!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_14"
+msgid "Enemy approaching from the northern slope!"
+msgstr "¡Se acercan enemigos por la pendiente al norte!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_15"
+msgid "Mortars eliminated!"
+msgstr "¡Morteros eliminados!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_16"
+msgid "They are retreating! We repelled the attack!"
+msgstr "¡Se retiran! ¡Hemos resistido el ataque!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/place"
+msgid "1st Gebirgsjägerdivision"
+msgstr "1.ª Gebirgsjägerdivision"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/story"
+msgid "During the 'Fall Blau' offensive, the 'Shelter of the Eleven', a mountaineer hotel, becomes a refuge to the Gebirgsjäger. An attempt to recapture the refuge should be expected."
+msgstr "Durante la ofensiva \"Fall Blau\", el \"Refugio de los once\", un hotel de montaña, sirve de refugio para la Gebirgsjäger. Se espera que los soviéticos traten de recapturarlo."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_01"
+msgid "Don't raise the alarm!"
+msgstr "¡No actives la alarma!"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02"
+msgid "Find a repair kit"
+msgstr "Busca un kit de reparación"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02_1"
+msgid "Take the repair kit to the generator room"
+msgstr "Lleva el kit de reparación a la sala del generador"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_03"
+msgid "Mine the eastern slope"
+msgstr "Instala minas en la pendiente oriental"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_04"
+msgid "Mine the southeast slope"
+msgstr "Instala minas en la pendiente sudoriental"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_05"
+msgid "Mine the northeast slope"
+msgstr "Instala minas en la pendiente nororiental"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_06"
+msgid "Mine the northern slope"
+msgstr "Instala minas en la pendiente al norte"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_01"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_03"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_01"
+msgid "Capture the \"Shelter of the Eleven\""
+msgstr "Captura el \"Refugio de los once\""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_02"
+msgid "Prepare to defend the hotel"
+msgstr "Prepárate para defender el hotel"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_03"
+msgid "Defend shelter 11"
+msgstr "Defiende el \"Refugio de los once\""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_04"
+msgid "Destroy the enemy mortar battery"
+msgstr "Destruye la batería de morteros enemiga"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_05"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_01"
+msgid "August 1942. Mountain Elbrus, near the \"Shelter of the Eleven\"."
+msgstr "Agosto de 1942. Monte Elbrús, cerca del \"Refugio de los once\"."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_03"
+msgid "Finish the preparation phase"
+msgstr "Termina la fase de preparación"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_03_hint"
+msgid "If you are sure you are ready, click to complete the preparation phase."
+msgstr "Si estás listo, haz clic para completar la fase de preparación"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_04"
+msgid ""
+"Prepare to defend your position. Lay down explosives and use this time to "
+"resupply your men. When you are ready, press the button to end the "
+"preparation phase."
+msgstr "Prepárate para defender tu posición. Planta explosivos y aprovecha para reabastecer a tus hombres. Cuando estés listo, pulsa el botón para terminar la fase de preparación."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_05"
+msgid "You can find additional ammunition in boxes."
+msgstr "Las cajas contienen munición adicional."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_05_1"
+msgid ""
+"Place charges on mountain slopes. Place them in places where you expect the "
+"enemy to pass in the direction of the shelter. Use the scout to detonate the "
+"charges when the enemy passes there."
+msgstr "Coloca explosivos en las pendientes de la montaña. Plántalos en los lugares que consideres que el enemigo cruzará de camino al refugio. Detona las cargas con el explorador cuando el enemigo se aproxime."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_06"
+msgid "Reinforcements will arrive in:"
+msgstr "Los refuerzos llegarán en:"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_07"
+msgid "Blow up the east"
+msgstr "Detona las minas al este"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_07_hint"
+msgid "Detonate the charges on the east side."
+msgstr "Estalla los explosivos en la zona este."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_08"
+msgid "Blow up the southeast"
+msgstr "Detona las minas al sureste"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_08_hint"
+msgid "Detonate the charges on the souhteast side."
+msgstr "Estalla los explosivos en la zona sureste."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_09"
+msgid "Blow up the northeast"
+msgstr "Detona las minas al noreste"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_09_hint"
+msgid "Explosive charges laid in the northeast."
+msgstr "Estalla los explosivos al noreste."
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_10"
+msgid "Blow up the charges on the north side"
+msgstr "Detona las minas al norte"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_10_hint"
+msgid "Detonate the charges on the north side."
+msgstr "Estalla los explosivos en la zona norte."

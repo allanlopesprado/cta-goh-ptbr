@@ -19,13 +19,10 @@ Obrigado por ajudar a melhorar esta tradução PT-BR para Call to Arms - Gates o
 
 - descreva claramente o que foi alterado e por quê
 - inclua exemplos de antes/depois quando fizer sentido
-- mantenha a estrutura do localization pack:
-  - `localization/<idioma>/`
-  - `default/`
-  - `default/interface/`
-  - `default/localization.info`
+
+- mantenha a estrutura do localization pack em `localization/<idioma>/`
 - não adicione arquivos não relacionados
-- verifique se as alterações não quebram o empacotamento
+- verifique se as alterações não quebram o empacotamento ou scripts existentes
 
 ## Notas de estilo
 

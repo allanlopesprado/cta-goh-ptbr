@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (dlg_mp_talvisota)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "mp/army/fin_early"
+msgid "Finland (Early)"
+msgstr "Finlandia (primera guerra)"
+
+msgctxt "mp/army/fin_mid"
+msgid "Finland (Mid)"
+msgstr "Finlandia (mediados de la guerra)"
+
+msgctxt "mp/army/fin_late"
+msgid "Finland (Late)"
+msgstr "Finlandia (guerra tardía)"
+
+msgctxt "mp/army/fin"
+msgid "Finland"
+msgstr "Finlandia"
+
+msgctxt "mp/alliance/fin"
+msgid "Finland"
+msgstr "Finlandia"
+
+msgctxt "mp/army/finland"
+msgid "Finland"
+msgstr "Finlandia"

@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "desc/entity/155mm_gpf_ger"
+msgid "15.5cm GPF K 418(f)"
+msgstr "15.5cm GPF K 418(f)"
+
+#, fuzzy
+msgctxt "info/special/155mm_gpf_ger"
+msgid "<c(c3baae)>Heavy Field Gun</c>"
+msgstr "<c(c3baae)>Obús de campaña</c>"
+
+#, fuzzy
+msgctxt "desc/entity/155mm_gpf_platform"
+msgid "15.5cm GPF K 418(f)"
+msgstr "15.5cm GPF K 418(f)"
+
+#, fuzzy
+msgctxt "info/special/155mm_gpf_platform"
+msgid "<c(c3baae)>Heavy Field Gun</c>"
+msgstr "<c(c3baae)>Obús de campaña</c>"
+
+#, fuzzy
+msgctxt "desc/entity/h39_turret"
+msgid "H39 Turret"
+msgstr "Torreta H39"
+
+#, fuzzy
+msgctxt "info/special/h39_turret"
+msgid "<c(c3baae)>Turret Emplacement</c>"
+msgstr "<c(c3baae)>Torreta</c>"
+
+msgctxt "desc/entity/mgun_ring"
+msgid "MG42 Mount"
+msgstr "Torreta MG42"
+
+msgctxt "info/special/mgun_ring"
+msgid "<c(c3baae)>Ringstadt</c>"
+msgstr "<c(c3baae)>Emplazamiento</c>"
+
+#, fuzzy
+msgctxt "desc/entity/schwimmwagen"
+msgid "VW166 Schwimmwagen"
+msgstr "VW166 Schwimmwagen"
+
+#, fuzzy
+msgctxt "info/special/schwimmwagen"
+msgid "<c(c3baae)>Amphibious Transport</c>"
+msgstr "<c(c3baae)>Transporte anfibio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/hummel"
+msgid "Hummel"
+msgstr "Hummel"
+
+#, fuzzy
+msgctxt "info/special/hummel"
+msgid "<c(c3baae)>Self-Propelled Howitzer</c>"
+msgstr "<c(c3baae)>Obús autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/jagdpanzer4_l48"
+msgid "Jagdpanzer IV"
+msgstr "Jagdpanzer IV"
+
+msgctxt "info/special/jagdpanzer4_l48"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cañón AT autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/jagdpanzer4_l48_early"
+msgid "Jagdpanzer IV (Early)"
+msgstr "Jagdpanzer IV (Inicial)"
+
+msgctxt "info/special/jagdpanzer4_l48_early"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cañón AT autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/panzer4_70_v"
+msgid "Panzer IV/70 (V)"
+msgstr "Panzer IV/70 (V)"
+
+msgctxt "info/special/panzer4_70_v"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cañón AT autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/nashorn"
+msgid "Nashorn"
+msgstr "Nashorn"
+
+msgctxt "info/special/nashorn"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cañón AT autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/infantry_cart_if8"
+msgid "Infantry Cart If.8 (Supply)"
+msgstr "Carro de infantería If.8 (Suministros)"
+
+msgctxt "info/special/infantry_cart_if8"
+msgid "<c(c3baae)>Ammo Trailer</c>"
+msgstr "<c(c3baae)>Remolque Abastecedor</c>"
+
+#, fuzzy
+msgctxt "desc/entity/wespe"
+msgid "Wespe"
+msgstr "Wespe"
+
+#, fuzzy
+msgctxt "info/special/wespe"
+msgid "<c(c3baae)>Self-Propelled Howitzer</c>"
+msgstr "<c(c3baae)>Obús autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/panzerwerfer42"
+msgid "Panzerwerfer 42"
+msgstr "Panzerwerfer 42"
+
+msgctxt "info/special/panzerwerfer42"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr "<c(c3baae)>Lanzacohetes autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_1"
+msgid "Sd.Kfz 251/1 Ausf. D"
+msgstr "Sd.Kfz 251/1 Ausf. D"
+
+#, fuzzy
+msgctxt "info/special/sdkfz251d_1"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_1_stuka"
+msgid "Sd.Kfz 251/1 Ausf. D (Wurfrahmen 40)"
+msgstr "Sd.Kfz 251/1 Ausf. D (Wurfrahmen 40)"
+
+msgctxt "info/special/sdkfz251d_1_stuka"
+msgid "<c(c3baae)>Rocket Halftrack</c>"
+msgstr "<c(c3baae)>semioruga lanzacohetes</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_16"
+msgid "Sd.Kfz 251/16 Ausf. D (14mm Flamm)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251/16 Ausf. D (Lanzallamas)"
+
+#, fuzzy
+msgctxt "info/special/sdkfz251d_16"
+msgid "<c(c3baae)>Flame Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga lanzallamas</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_17"
+msgid "Sd.Kfz 251/17 Ausf. D (2cm)"
+msgstr "Sd.Kfz 251/17 Ausf. D (2cm)"
+
+#, fuzzy
+msgctxt "info/special/sdkfz251d_17"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_21"
+msgid "Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
+
+#, fuzzy
+msgctxt "info/special/sdkfz251d_21"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz251d_22"
+msgid "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
+msgstr "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
+
+#, fuzzy
+msgctxt "info/special/sdkfz251d_22"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"

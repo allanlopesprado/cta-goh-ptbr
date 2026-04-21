@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_vehicles_rus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/entity/broneschitok_2_dp"
+msgid "Gun Shield (Ski)"
+msgstr "Escudo de arma (esquí)"
+
+msgctxt "info/special/broneschitok_2_dp"
+msgid "<c(c3baae)></c>"
+msgstr "<c(c3baae)></c>"
+
+msgctxt "desc/entity/ds39_stand"
+msgid "DS-39 Stand"
+msgstr "Soporte DS-39"
+
+msgctxt "info/special/ds39_stand"
+msgid "<c(c3baae)>Medium MG</c>"
+msgstr "<c(c3baae)>MG medio</c>"
+
+msgctxt "desc/entity/maxim_x4"
+msgid "Quad M4 Maxim"
+msgstr "Quad M4 Maxim"
+
+msgctxt "info/special/maxim_x4"
+msgid "<c(c3baae)>AA MMG</c>"
+msgstr "<c(c3baae)>AA MMG</c>"
+
+msgctxt "desc/entity/76mm_bpk76"
+msgid "76mm BPK-76"
+msgstr "76mm BPK-76"
+
+msgctxt "info/special/76mm_bpk76"
+msgid "<c(c3baae)>Recoilless Gun</c>"
+msgstr "<c(c3baae)>Arma sin retroceso</c>"
+
+msgctxt "desc/entity/76mm_m1933"
+msgid "76mm M1933"
+msgstr "76mm M1933"
+
+msgctxt "info/special/76mm_m1933"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr "<c(c3baae)>Cañón de campo ligero</c>"
+
+msgctxt "desc/entity/107mm_m1910_30"
+msgid "107mm M1910/30"
+msgstr "107mm M1910/30"
+
+msgctxt "info/special/107mm_m1910_30"
+msgid "<c(c3baae)>Medium Field Gun</c>"
+msgstr "<c(c3baae)>Cañón de campo medio</c>"
+
+msgctxt "desc/entity/122mm_m1910"
+msgid "122mm M1910/30"
+msgstr "122mm M1910/30"
+
+msgctxt "info/special/122mm_m1910"
+msgid "<c(c3baae)>Medium Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús de campo medio</c>"
+
+msgctxt "desc/entity/152mm_br2"
+msgid "152mm Br-2 M1935"
+msgstr "152mm Br-2 M1935"
+
+msgctxt "info/special/152mm_br2"
+msgid "<c(c3baae)>Heavy Artillery</c>"
+msgstr "<c(c3baae)>Artillería pesada</c>"
+
+msgctxt "desc/entity/280mm_br5"
+msgid "280mm Br-5 M1939"
+msgstr "280mm Br-5 M1939"
+
+msgctxt "info/special/280mm_br5"
+msgid "<c(c3baae)>Heavy Mortar</c>"
+msgstr "<c(c3baae)>Mortero pesado</c>"
+
+msgctxt "desc/entity/ap_2"
+msgid "2-AP-3 (Supply)"
+msgstr "2-AP-3 (Suministros)"
+
+msgctxt "info/special/ap_2"
+msgid "<c(c3baae)>Ammo Trailer</c>"
+msgstr "<c(c3baae)>Camión de munición</c>"
+
+msgctxt "desc/entity/m72"
+msgid "M72 (DP-27)"
+msgstr "M72 (DP-27)"
+
+msgctxt "info/special/m72"
+msgid "<c(c3baae)>Motorcycle</c>"
+msgstr "<c(c3baae)>Motocicleta</c>"
+
+msgctxt "desc/entity/gaz98"
+msgid "RF-8-GAZ-98"
+msgstr "RF-8-GAZ-98"
+
+msgctxt "info/special/gaz98"
+msgid "<c(c3baae)>Aerosled</c>"
+msgstr "<c(c3baae)>Aerosled (trineo motorizado)</c>"
+
+msgctxt "desc/entity/gaz_aaa_maximx4"
+msgid "GAZ-AAA (Quad Maxim)"
+msgstr "GAZ-AAA (Quad Maxim)"
+
+msgctxt "info/special/gaz_aaa_maximx4"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr "<c(c3baae)>Camión AA</c>"
+
+msgctxt "desc/entity/zis5_dshk"
+msgid "ZIS-5 (DShK)"
+msgstr "ZIS-5 (DShK)"
+
+msgctxt "info/special/zis5_dshk"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr "<c(c3baae)>Camión AA</c>"
+
+msgctxt "desc/entity/fai_m"
+msgid "FAI-M"
+msgstr "FAI-M"
+
+msgctxt "info/special/fai_m"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/ba20_command"
+msgid "BA-20 Command"
+msgstr "Comando BA-20"
+
+msgctxt "info/special/ba20_command"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/t50"
+msgid "T-50"
+msgstr "T-50"
+
+msgctxt "info/special/t50"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/t28e"
+msgid "T-28E"
+msgstr "T-28E"
+
+msgctxt "info/special/t28e"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+msgctxt "desc/entity/t35"
+msgid "T-35 M1936"
+msgstr "T-35 M1936"
+
+msgctxt "info/special/t35"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/t35_late"
+msgid "T-35 M1938"
+msgstr "T-35 M1938"
+
+msgctxt "info/special/t35_late"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/kht26"
+msgid "KhT-26 (Flame)"
+msgstr "KhT-26 (Lanzallamas)"
+
+msgctxt "desc/entity/t3476_43_flame"
+msgid "OT-34 M1943 (Flame)"
+msgstr "OT-34 M1943 (Lanzallamas)"
+
+msgctxt "desc/entity/kv1_39"
+msgid "KV-1 M1939"
+msgstr "KV-1 M1939"
+
+msgctxt "info/special/kv1_39"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/kv1_40e"
+msgid "KV-1E"
+msgstr "KV-1E"
+
+msgctxt "info/special/kv1_40e"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/kv1_42"
+msgid "KV-1 M1942"
+msgstr "KV-1 M1942"
+
+msgctxt "info/special/kv1_42"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/smk"
+msgid "SMK"
+msgstr "SMK"
+
+msgctxt "info/special/smk"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/180mm_tm1"
+msgid "TM-1-180"
+msgstr "TM-1-180"
+
+msgctxt "info/special/180mm_tm1"
+msgid "<c(c3baae)>Railway Artillery</c>"
+msgstr "<c(c3baae)>Artillería ferroviaria</c>"

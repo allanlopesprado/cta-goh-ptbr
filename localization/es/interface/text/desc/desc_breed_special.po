@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_breed_special)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/human/bf110_e2"
+msgid "Bf 110 E-2"
+msgstr "Bf 110 E-2"
+
+msgctxt "desc/human/bf109_g6"
+msgid "Bf 109 G-6"
+msgstr"Bf 109 G-6"
+
+msgctxt "desc/human/bf109_f4"
+msgid "Bf 109 F-4"
+msgstr "Bf 109 F-4"
+
+msgctxt "desc/human/blenheim_mk1"
+msgid "Blenheim Mk.1"
+msgstr "Blenheim Mk.1"
+
+msgctxt "desc/human/blenheim_mk1_recon"
+msgid "Blenheim Mk.1"
+msgstr "Blenheim Mk.1"
+
+msgctxt "desc/human/fi156"
+msgid "Fi-156"
+msgstr "Fi-156"
+
+msgctxt "desc/human/i16"
+msgid "Polikarpov I-16"
+msgstr "Polikarpov I-16"
+
+msgctxt "desc/human/il2_mod42"
+msgid "IL-2 M1942"
+msgstr "IL-2 M1942"
+
+msgctxt "desc/human/po2"
+msgid "U-2"
+msgstr "U-2"
+
+msgctxt "desc/human/yak1_ser69"
+msgid "Yak-1-69"
+msgstr "Yak-1-69"
+
+msgctxt "desc/human/narrator/hint"
+msgid "Hint"
+msgstr "Pista"
+
+msgctxt "desc/human/narrator/assistant"
+msgid "Combat Advisor"
+msgstr "Asesor de combate"
+
+msgctxt "desc/human/narrator/ger-player"
+msgid "Player"
+msgstr "Jugador"
+
+msgctxt "desc/human/narrator/ger-Officer"
+msgid "Hauptmann"
+msgstr "Hauptmann"
+
+msgctxt "desc/human/narrator/ger-soldier"
+msgid "Soldier"
+msgstr "Soldado"
+
+msgctxt "desc/human/narrator/ger-tanker"
+msgid "Tankman"
+msgstr "Operador de tanque"
+
+msgctxt "desc/human/narrator/ger-gebirgsjaeger"
+msgid "Gebirgsjäger"
+msgstr "Gebirgsjäger"
+
+msgctxt "desc/human/narrator/rus-commissar"
+msgid "Comissar"
+msgstr "Comisario"
+
+msgctxt "desc/human/narrator/rus-partisan"
+msgid "Partisan"
+msgstr "Partisano"
+
+msgctxt "desc/human/narrator/rus-player"
+msgid "Player"
+msgstr "Jugador"
+
+msgctxt "desc/human/narrator/rus-radioman"
+msgid "Radioman"
+msgstr "Operador de radio"
+
+msgctxt "desc/human/narrator/rus-soldier"
+msgid "Soldier"
+msgstr "Soldado"
+
+msgctxt "desc/human/narrator/rus-chuikov"
+msgid "Vasily Chuikov"
+msgstr "Vasily Chuikov"
+
+msgctxt "desc/human/narrator/rus-winter"
+msgid "Special Ops Soldier"
+msgstr "Soldado de operaciones especiales"
+
+msgctxt "desc/human/narrator/fin-soldier"
+msgid "Soldier"
+msgstr "Soldado"
+
+msgctxt "desc/human/narrator/fin-officer"
+msgid "Kapteeni"
+msgstr "Capitán"
+
+msgctxt "desc/human/narrator/fin-sniper"
+msgid "Simo Häyhä"
+msgstr "Simo Häyhä"
+
+msgctxt "desc/human/narrator/ger-hellmann"
+msgid "Dietrich Hellmann"
+msgstr "Dietrich Hellmann"
+
+msgctxt "desc/human/narrator/yug-partisan1"
+msgid "Yugoslavian Partisan leader"
+msgstr "Líder partisano yugoslavo"
+
+msgctxt "desc/human/narrator/yug-partisan2"
+msgid "Bolshoy Iosif"
+msgstr "Bolshoy Iosif"
+
+msgctxt "desc/human/narrator/rus-tankist"
+msgid "Soviet tank commander"
+msgstr "Comandante de tanque soviético"
+
+msgctxt "desc/human/narrator/rus-aydinov"
+msgid "Lt. Arkady Aydinov"
+msgstr "Teniente Arkady Aydinov"

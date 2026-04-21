@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_tali-ilhantala)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/date"
+msgid "26th June, 1944 · Tali-Ilhantala, Portinhoikka crossroads, Finland"
+msgstr "26 de junio de 1944 - Tali-Ilhantala, cruce de Portinhoikka, Finlandia"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/men"
+msgid "You lost all your men!"
+msgstr "¡Has perdido a todos tus hombres!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/name"
+msgid "Thor's Hammer"
+msgstr "El martillo de Thor"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/name_big"
+msgid "Thor's Hammer"
+msgstr "El martillo de Thor"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/story"
+msgid ""
+" June 26th, 1944. After a Soviet artillery bombardment that lasts for an hour - and which includes waves of ground attack aircraft - a major Soviet offensive bursts forward from Tali village. Somewhere west of Lake Leitimojärvi, the Soviet attack comes to a standstill in front of defensive positions that have been dug out of the hilltops of Kuokkalan Vuoret. They are manned and defended by infantry regiment JR48.\n"
+"\n"
+" As Soviet tanks move forward aggressively, the situation becomes critical for the Finns, with a real threat of getting surrounded. The survival of the defenders is at stake. Not only that; if this Soviet attack succeeds, it will open up a gap in the VKT line, which would compromise many more units! A counterattack has been organised, and the armored division is being sent forward to arrive in the afternoon.\n"
+"\n"
+" In this mission, you will command the defence of the hills. You need to hold off the Soviet armor until your own tanks arrive. If you cannot hold the line at the village, use the second line at the crossroads. Use the terrain to your advantage, you have to stop those tanks!"
+msgstr ""
+" 26 de junio de 1944. Tras un bombardeo de artillería soviético que dura una hora —y que incluye oleadas de aviones de ataque a tierra—, una gran ofensiva soviética irrumpe desde la aldea de Tali. En algún lugar al oeste del lago Leitimojärvi, el ataque soviético se detiene frente a las posiciones defensivas excavadas en las cimas de las colinas de Kuokkalan Vuoret. Están guarnecidas y defendidas por el regimiento de infantería JR48.\n"
+"\n"
+"A medida que los carros soviéticos avanzan con fuerza, la situación se vuelve crítica para los finlandeses, con una amenaza real de quedar rodeados. La supervivencia de los defensores está en juego. Y no solo eso: si este ataque soviético tiene éxito, abrirá una brecha en la línea VKT, lo que pondría en peligro a muchas más unidades. Se ha organizado un contraataque, y la división acorazada ha sido enviada al frente para llegar por la tarde. \n"
+"\n"
+"En esta misión, tendrás que comandar la defensa de las colinas. Debes resistir el avance de los blindados soviéticos hasta que lleguen tus propios tanques. Si no puedes mantener la línea en la aldea, utiliza la segunda línea en el cruce de caminos. ¡Usa el terreno a tu favor, tienes que detener esos carros!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/outro_completed"
+msgid "What a victory! Your tactical skill is beyond doubt, and once more we have dealt the enemy a huge blow. Instead of getting surrounded ourselves, we’ve now surrounded the enemy. What’s more, the VKT line is still intact and we live to fight another day. We will file the necessary papers for your promotion. Excellent work!"
+msgstr "¡Qué victoria! Tu habilidad táctica está fuera de toda duda, y una vez más hemos asestado un gran golpe al enemigo. En lugar de quedar rodeados nosotros, ahora hemos rodeado al enemigo. Además, la línea VKT sigue intacta y vivimos para luchar otro día. Presentaremos los papeles necesarios para tu promoción. ¡Excelente trabajo!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/outro_failed"
+msgid "The VKT line has been breached! Soviet armoured spearheads race toward the line Imatra-Lappeenranta-Suurpäälä, while the second attack wave has a free hand to attack other VKT line positions in the back, surrounding brigade after brigade and opening up breach after breach. Marshal Mannerheim has no choice but to surrender."
+msgstr "¡La línea del VKT ha sido violada! Las puntas de lanza soviéticas corren hacia la línea Imatra-Lappeenranta-Suurpäälä, mientras que la segunda oleada de ataque tiene vía libre para atacar otras posiciones de la línea VKT en la retaguardia, rodeando brigada tras brigada y abriendo brecha tras brecha. El mariscal Mannerheim no tiene más remedio que rendirse."
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/01"
+msgid "Welcome back to Karelia, Soldiers. The Soviets are about to start a large scale assault, and we are to stop them dead in their tracks!"
+msgstr "Bienvenidos de nuevo a Carelia, soldados. Los soviéticos están a punto de iniciar un asalto a gran escala, ¡y nosotros debemos detenerlos en seco!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/02"
+msgid "Our main objective is to protect the crossroads to the north. These roads are the bloodline for the logistics of our army. You must defend it at all costs!"
+msgstr "Nuestro principal objetivo es proteger las encrucijadas del norte. Estos caminos son clave para la logística de nuestro ejército. ¡Hay que defenderlas a toda costa!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/03"
+msgid "The enemy is expected to come from the south, but in this terrain their advance is slow and this gives you time to fortify the positions. Use this time wisely!"
+msgstr "Se espera que el enemigo venga desde el sur, pero en este terreno su avance es lento y esto te da tiempo para fortificar las posiciones. ¡Utiliza este tiempo sabiamente!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/04"
+msgid "The soviet re-purposed railway guns are at your disposal to provide artillery support. We also have the Air Force at our disposal, but the weather must improve for them to be able to operate."
+msgstr "Los cañones ferroviarios soviéticos reconvertidos están a tu disposición para proporcionar apoyo de artillería. También tenemos la Fuerza Aérea a nuestra disposición, pero el tiempo debe mejorar para que puedan operar."
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/05"
+msgid "The enemy is approaching! Get ready to defend! Show them how we fight in Karelia!"
+msgstr "¡El enemigo se acerca! ¡Prepárate para defender! ¡Enséñales cómo luchamos en Carelia!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/06a"
+msgid "Another enemy wave is approaching your position!"
+msgstr "¡Otra oleada enemiga se acerca a tu posición!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/06b"
+msgid "The enemy is launching another assault!"
+msgstr "¡El enemigo está lanzando otro asalto!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/06c"
+msgid "The Soviets are coming toward us again!"
+msgstr "¡Los soviéticos vienen hacia nosotros otra vez!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/06d"
+msgid "Attention! Another enemy wave incoming!"
+msgstr "¡Atención! ¡Otra oleada enemiga se aproxima!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/07"
+msgid "Great job soldiers! The enemy has been held back sufficiently for our armoured reinforcements to arrive. I proudly present: the Armoured Division. "
+msgstr "¡Gran trabajo, soldados! El enemigo ha sido retenido lo suficiente para que lleguen nuestros refuerzos blindados. Les presento con orgullo: la División Blindada. "
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/08"
+msgid "I want you to take command of a detachment of armoured vehicles and drive the enemy off the field. We will accept nothing less than a total retreat to their starting position. Forward, to victory!"
+msgstr "Quiero que tomes el mando de un destacamento de vehículos blindados y expulses al enemigo del campo. No aceptaremos nada menos que una retirada total a su posición inicial. ¡Adelante, hacia la victoria!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/narrator/officer/fail"
+msgid "The enemy has reached the crossroads! Eliminate them immediately, you are failing to comply with your orders!"
+msgstr "¡El enemigo ha llegado a la encrucijada! Elimínalos inmediatamente, ¡estás incumpliendo tus órdenes!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/place"
+msgid "48th Jaeger Regiment & Finnish Armored Division"
+msgstr "48º Regimiento Jaeger y División Blindada Finlandesa"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/timer"
+msgid "Time until enemy arrival:"
+msgstr "Tiempo hasta la llegada del enemigo:"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/bt42"
+msgid "BT-42"
+msgstr "BT-42"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/tm1"
+msgid "180mm TM-1 strike"
+msgstr "180mm asalto TM-1"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/t34"
+msgid "T-34/84"
+msgstr "T-34/84"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/isu152"
+msgid "JSU 152"
+msgstr "JSU 152"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/stug"
+msgid "Stu 40 G"
+msgstr "Stu 40 G"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/t50"
+msgid "T-50"
+msgstr "T-50"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/kv1"
+msgid "KV-1A (Late)"
+msgstr "KV-1A (Prod. tardía)"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/inf"
+msgid "Regular Squad"
+msgstr "Escuadrón normal"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/eng"
+msgid "Heavy Engineers"
+msgstr "Ingenieros pesados"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/resupply"
+msgid "Re-supply truck"
+msgstr "Camión de reabastecimiento"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/pak9738"
+msgid "75 PstK/97-38"
+msgstr "75 PstK/97-38"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/203"
+msgid "203 H/17"
+msgstr "203 H/17"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/reinf/mortar"
+msgid "81 Krh/36"
+msgstr "81 Krh/36"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/task1"
+msgid "Prepare for the enemy attack!"
+msgstr "¡Prepárate para el ataque del enemigo!"
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/task2"
+msgid "Hold the crossroads at all costs until the arrival of the Armoured Division."
+msgstr "Manten el cruce a toda costa hasta la llegada de la División Blindada."
+
+msgctxt "mission/single/03-fin/1944_06_tali-ilhantala/task3"
+msgid "Counter-attack with the armoured reinforcements and drive the enemy off the battlefield."
+msgstr "Contraataca con los refuerzos blindados y expulsa al enemigo del campo de batalla."

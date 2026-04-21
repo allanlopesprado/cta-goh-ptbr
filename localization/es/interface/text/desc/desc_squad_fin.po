@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/squad/squad_assault(fin)"
+msgid "<c(A5A095)>(2)</c> Assault Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de asalto"
+
+msgctxt "desc/squad/squad_marksmen(fin)"
+msgid "<c(A5A095)>(3)</c> Marksmen"
+msgstr "<c(A5A095)>(3)</c> Tiradores"
+
+msgctxt "desc/squad/squad_civil_guard_early(fin)"
+msgid "<c(A5A095)>(1)</c> Civil Guard Squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de la Guardia Civil"
+
+msgctxt "desc/squad/squad_civil_guard_early_con(fin)"
+msgid "<c(A5A095)>(1)</c> Civil Guard Squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de la Guardia Civil"
+
+msgctxt "desc/squad/squad_scout_early(fin)"
+msgid "<c(A5A095)>(2)</c> Scout Section"
+msgstr "<c(A5A095)>(2)</c> Sección de exploradores"
+
+msgctxt "desc/squad/squad_rifle_early(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_rifle_early_con(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_rifle_lmg_early(fin)"
+msgid "<c(A5A095)>(2)</c> LMG Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón LMG"
+
+msgctxt "desc/squad/squad_rifle_lmg_early_con(fin)"
+msgid "<c(A5A095)>(2)</c> LMG Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón LMG"
+
+msgctxt "desc/squad/squad_border_guard_early_con(fin)"
+msgid "<c(A5A095)>(3)</c> Border Guard Squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de la Guardia de Fronteras"
+
+msgctxt "desc/squad/squad_cav_early(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de Caballería"
+
+msgctxt "desc/squad/squad_jaeger_early(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jaeger"
+
+msgctxt "desc/squad/squad_jaeger_lmg_early(fin)"
+msgid "<c(A5A095)>(4)</c> Jaeger LMG Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jaeger LMG"
+
+msgctxt "desc/squad/white_death_con(fin)"
+msgid "<c(A5A095)>(4)</c> Elite Sniper"
+msgstr "<c(A5A095)>(4)</c> Francotirador de élite"
+
+msgctxt "desc/squad/single_auxiliary(fin)"
+msgid "Auxiliary Detachment"
+msgstr "Destacamento Auxiliar"
+
+msgctxt "desc/squad/single_mg2(fin)"
+msgid "Reserve LMG Detachment"
+msgstr "Destacamento LMG de reserva"
+
+msgctxt "desc/squad/single_mg(fin)"
+msgid "LMG Detachment"
+msgstr "Destacamento LMG"
+
+msgctxt "desc/squad/single_at(fin)"
+msgid "AT Detachment"
+msgstr "Destacamento Anti-tanque"
+
+msgctxt "desc/squad/single_at_miner(fin)"
+msgid "AT Miners"
+msgstr "Mineros Anti-tanque"
+
+msgctxt "desc/squad/single_ap_miner(fin)"
+msgid "AP Miners"
+msgstr "Mineros Anti-persona"
+
+msgctxt "desc/squad/single_engineer(fin)"
+msgid "Field Engineers"
+msgstr "Mineros de campo"
+
+msgctxt "desc/squad/single_flamer(fin)"
+msgid "Flamethrower"
+msgstr "Lanzallamas"
+
+msgctxt "desc/squad/single_tankman(fin)"
+msgid "Tank crew"
+msgstr "Unidad de tanques"
+
+msgctxt "desc/squad/single_medic(fin)"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "desc/squad/single_sniper(fin)"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "desc/squad/single_officer(fin)"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "desc/squad/squad_reserves_mid(fin)"
+msgid "<c(A5A095)>(1)</c> Reserve Rifle Squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de Fusileros de Reserva"
+
+msgctxt "desc/squad/squad_reserves_mid_con(fin)"
+msgid "<c(A5A095)>(1)</c> Reserve Rifle Squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de Fusileros de Reserva"
+
+msgctxt "desc/squad/squad_scout_mid(fin)"
+msgid "<c(A5A095)>(2)</c> Scout Section"
+msgstr "<c(A5A095)>(2)</c> Sección de exploradores"
+
+msgctxt "desc/squad/squad_scout_mid_con(fin)"
+msgid "<c(A5A095)>(2)</c> Scout Section"
+msgstr "<c(A5A095)>(2)</c> Sección de exploradores"
+
+msgctxt "desc/squad/squad_rifle_mid(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_rifle_mid_con(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_cav_mid(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de Caballería"
+
+msgctxt "desc/squad/squad_cav_mid_con(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de Caballería"
+
+msgctxt "desc/squad/squad_jag_mid(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jaeger"
+
+msgctxt "desc/squad/squad_jag_mid_con(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jaeger"
+
+msgctxt "desc/squad/squad_border_jag_mid(fin)"
+msgid "<c(A5A095)>(4)</c> Border Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón de Jäger Fronterizos"
+
+msgctxt "desc/squad/squad_border_jag_mid_con(fin)"
+msgid "<c(A5A095)>(4)</c> Border Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón de Jäger Fronterizos"
+
+msgctxt "desc/squad/squad_engineer_mid_con(fin)"
+msgid "Engineer Squad"
+msgstr "Escuadrón de ingenieros"
+
+msgctxt "desc/squad/squad_marksmen_mid_con(fin)"
+msgid "<c(A5A095)>(2)</c> Marksmen"
+msgstr "<c(A5A095)>(2)</c> Tiradores"
+
+msgctxt "desc/squad/squad_assault_mid_con(fin)"
+msgid "<c(A5A095)>(3)</c> Assault Squad"
+msgstr "<c(A5A095)>(3)</c>Escuadrón de asalto"
+
+msgctxt "desc/squad/squad_sissi_mid_con(fin)"
+msgid "<c(A5A095)>(4)</c> Sissi Commandos"
+msgstr "<c(A5A095)>(4)</c> Comando Sissi"
+
+msgctxt "desc/squad/squad_heavy_engineer_mid_con(fin)"
+msgid "Heavy Engineers"
+msgstr "Ingenieros pesados"
+
+msgctxt "desc/squad/single_at_pzs_late_con(fin)"
+msgid "Panzerschreck Team"
+msgstr "Equipo Panzerschreck"
+
+msgctxt "desc/squad/squad_at_late_con(fin)"
+msgid "Anti-Tank Squad"
+msgstr "Escuadrón antitanque"
+
+msgctxt "desc/squad/team_officer_con(fin)"
+msgid "Command Team"
+msgstr "Equipo de mando"
+
+msgctxt "desc/squad/squad_officer_con(fin)"
+msgid "Command Squad"
+msgstr "Escuadrón de mando"
+
+msgctxt "desc/squad/conquest_blenheim"
+msgid "Blenheim 250kg Bomb"
+msgstr "Bomba Blenheim 250kg"
+
+msgctxt "desc/squad/conquest_blenheim_light"
+msgid "Blenheim 50kg Bomb"
+msgstr "Bomba Blenheim 50kg"
+
+msgctxt "desc/squad/conquest_blenheim_recon"
+msgid "Blenheim Recon"
+msgstr "Blenheim Reconocimiento"
+
+msgctxt "desc/squad/fin_captured_v"
+msgid "Captured Vehicles"
+msgstr "Vehículos capturados"

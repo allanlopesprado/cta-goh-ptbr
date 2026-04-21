@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/squad/single_battlerifle(rus)"
+msgid "Battle Rifles"
+msgstr "Fusiles de combate"
+
+msgctxt "desc/squad/squad_border_early(rus)"
+msgid "<c(A5A095)>(1)</c> Border Guards squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de guardias fronterizos"
+
+msgctxt "desc/squad/squad_recon_early(rus)"
+msgid "<c(A5A095)>(2)</c> Recon squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de reconocimiento"
+
+msgctxt "desc/squad/squad_rifleunit_early(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_rifle_heavy_early(rus)"
+msgid "<c(A5A095)>(2)</c> Heavy Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros pesados"
+
+msgctxt "desc/squad/squad_mountain_rifle_early(rus)"
+msgid "<c(A5A095)>(3)</c> Mountain Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de fusileros de montaña"
+
+msgctxt "desc/squad/squad_paras_early(rus)"
+msgid "<c(A5A095)>(3)</c> Paratrooper squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de paracaidistas"
+
+msgctxt "desc/squad/single_at2(rus)"
+msgid "AT Detachment (PTRS)"
+msgstr "Destacamento AT (PTRS)"
+
+msgctxt "desc/squad/single_at_pzs_late_con(rus)"
+msgid "Panzerschreck Team"
+msgstr "Equipo Panzerschreck"
+
+msgctxt "desc/squad/single_at_late_con(rus)"
+msgid "Anti-Tank Team"
+msgstr "Equipo antitanque"
+
+msgctxt "desc/squad/squad_landwehr_early(ger)"
+msgid "<c(A5A095)>(1)</c> Landesschützen rifle squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón de fusileros Landesschützen"
+
+msgctxt "desc/squad/squad_feldgendarmerie(ger)"
+msgid "<c(A5A095)>(2)</c> Feldgendarmerie squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de la Feldgendarmerie"
+
+msgctxt "desc/squad/squad_recon_early(ger)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón Aufklärer"
+
+msgctxt "desc/squad/squad_regular_early(ger)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_pionier_early(ger)"
+msgid "<c(A5A095)>(2)</c> Pionier squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de pioneros"
+
+msgctxt "desc/squad/squad_at_rifles_early(ger)"
+msgid "<c(A5A095)>(2)</c> Anti-tank Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros antitanque"
+
+msgctxt "desc/squad/squad_gd_early(ger)"
+msgid "<c(A5A095)>(3)</c> Großdeutschland Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de fusileros Großdeutschland"
+
+msgctxt "desc/squad/squad_gebirgsjaeger_early(ger)"
+msgid "<c(A5A095)>(4)</c> Gebirgsjäger squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Gebirgsjäger"
+
+msgctxt "desc/squad/single_at_pzs_late_con(ger)"
+msgid "Panzerschreck Team"
+msgstr "Equipo Panzerschreck"
+
+msgctxt "desc/squad/squad_at_late_con(ger)"
+msgid "Anti-Tank Squad"
+msgstr "Escuadrón antitanque"

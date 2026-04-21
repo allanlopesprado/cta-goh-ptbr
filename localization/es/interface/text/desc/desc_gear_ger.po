@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_gear_ger)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/stuff/m24"
+msgid "M24 Grenade"
+msgstr "Granada M24"
+
+msgctxt "desc/stuff/m24_splinter"
+msgid "M24 Splinter Grenade"
+msgstr "Esquirla de granada M24"
+
+msgctxt "desc/stuff/m24_smoke"
+msgid "M24 Nb. (Smoke)"
+msgstr "M24 Nb. (Humo)"
+
+msgctxt "desc/stuff/m24_smoke_supplies"
+msgid "M24 Nb. (Supplies)"
+msgstr "M24 Nb. (Suministros)"
+
+msgctxt "desc/stuff/m24_geballteladung"
+msgid "M24 AT Grenade 'Geballte Ladung'"
+msgstr "Granada M24 AT \"Geballte Ladung\""
+
+msgctxt "desc/stuff/pwm_l"
+msgid "PWM-1 AT Grenade 'Lang'"
+msgstr "Granada PWM-1 AT \"Lang\""
+
+msgctxt "desc/stuff/nbk39"
+msgid "Nb.K. 39 (Smoke)"
+msgstr "Nb.K. 39 (humo)"
+
+msgctxt "desc/stuff/nbks"
+msgid "Nb.K.S. (Smoke)"
+msgstr "Nb.K.S. (humo)"
+
+msgctxt "desc/stuff/hafthohlladung"
+msgid "Hafthohladung Magnetic Mine"
+msgstr "Mina magnética Hafthohladung"
+
+msgctxt "desc/stuff/geballteladung_3kg"
+msgid "3kg demolition charge 'Geballte Ladung'"
+msgstr "Carga de demolición de 3 kg \"Geballte Ladung\""
+
+msgctxt "desc/stuff/dynamite_ger_x3"
+msgid "Dynamite (3 Sticks)"
+msgstr "Dinamita (3 cargas)"
+
+msgctxt "desc/stuff/dynamite_ger_x7"
+msgid "Dynamite (7 Sticks)"
+msgstr "Dinamita (7 cargas)"
+
+msgctxt "desc/stuff/s mine"
+msgid "Antipersonnel S-Mine 'Bouncing Betty'"
+msgstr "Mina-S antipersona \"Bouncing Betty\""
+
+msgctxt "desc/stuff/tmi_35 mine"
+msgid "Anti-Tank Tellermine 35"
+msgstr "Tellermine 35 antitanque"
+
+msgctxt "desc/stuff/tmi_43 mine"
+msgid "Anti-Tank Tellermine 43"
+msgstr "Tellermine 43 antitanque"
+
+msgctxt "desc/stuff/bandage_ger"
+msgid "German Bandage"
+msgstr "Vendaje alemán"
+
+msgctxt "desc/stuff/german_medkit"
+msgid "German Medical Cabinet"
+msgstr "Gabinete médico alemán"
+
+msgctxt "desc/stuff/ger_m28_beret"
+msgid "Tanker's Mütze M28"
+msgstr "Mütze M28 de op. tanque"
+
+msgctxt "desc/stuff/ger_Officer_cap"
+msgid "Schirmmütze M40 Officer's cap"
+msgstr "Gorra de oficial Schirmmütze M40"
+
+msgctxt "desc/stuff/ger_km_officer_cap"
+msgid "Schirmmütze M40 Officer's cap"
+msgstr "Gorra de oficial Schirmmütze M40"
+
+msgctxt "desc/stuff/ger_Officer_cap_tank"
+msgid "'Crusher Cap' Tank Officer's cap"
+msgstr "Gorra de oficial de tanque \"Gorra Crusher\""
+
+msgctxt "desc/stuff/ger_Officer_cap_goggles"
+msgid "Schirmmütze M40 Officer's cap"
+msgstr "Gorra de oficial Schirmmütze M40 "
+
+msgctxt "desc/stuff/ger_Officer_cap_luftwaffe"
+msgid "Schirmmütze M40 Officer's cap (Luftwaffe)"
+msgstr "Gorra de oficial Schirmmütze M40 (Luftwaffe)"
+
+msgctxt "desc/stuff/ger_crusher_cap"
+msgid "'Crusher' Officer's cap"
+msgstr "Gorra de oficial \"Crusher\""
+
+msgctxt "desc/stuff/ger_crusher_cap_arty"
+msgid "'Crusher' Officer's cap"
+msgstr "Gorra de oficial \"Crusher\""
+
+msgctxt "desc/stuff/ger_crusher_cap_tank"
+msgid "'Crusher' Officer's cap (Panzerwaffe)"
+msgstr "Gorra de oficial \"Crusher\" (Panzerwaffe)"
+
+msgctxt "desc/stuff/ger_m34_sidecap"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m34_sidecap_arty"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m34_sidecap_goggles"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m34_sidecap_km"
+msgid "Feldmütze M34 (Kriegsmarine)"
+msgstr "Feldmütze M34 (Kriegsmarine)"
+
+msgctxt "desc/stuff/ger_m34_sidecap_luftwaffe"
+msgid "Feldmütze M34 (Luftwaffe)"
+msgstr "Feldmütze M34 (Luftwaffe)"
+
+msgctxt "desc/stuff/ger_m34_sidecap_nco"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m34_sidecap_radio"
+msgid "Feldmütze M34 (Radio)"
+msgstr "Feldmütze M34 (radio)"
+
+msgctxt "desc/stuff/ger_m34_sidecap_tank"
+msgid "Feldmütze M34 (Panzerwaffe)"
+msgstr "Feldmütze M34 (Panzerwaffe)"
+
+msgctxt "desc/stuff/ger_m34_sidecap_pz_scout"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m34_sidecap_pz_scout_off"
+msgid "Feldmütze M34"
+msgstr "Feldmütze M34"
+
+msgctxt "desc/stuff/ger_m43_cap"
+msgid "Feldmütze M43"
+msgstr "Feldmütze M43"
+
+msgctxt "desc/stuff/ger_m43_cap_camo"
+msgid "Feldmütze M43"
+msgstr "Feldmütze M43"
+
+msgctxt "desc/stuff/ger_m43_cap_gebirgs"
+msgid "Feldmütze M43 (Gebirgsjäger)"
+msgstr "Feldmütze M43 (Gebirgsjäger)"
+
+msgctxt "desc/stuff/ger_m43_cap_luftwaffe"
+msgid "Feldmütze M43 (Luftwaffe)"
+msgstr "Feldmütze M43 (Luftwaffe)"
+
+msgctxt "desc/stuff/ger_m43_cap_tank"
+msgid "Feldmütze M43 (Panzerwaffe)"
+msgstr "Feldmütze M43 (Panzerwaffe)"
+
+msgctxt "desc/stuff/ger_marine_cap"
+msgid "Kriegsmarine Sailor's Cap"
+msgstr "Gorra de marinero Kriegsmarine"
+
+msgctxt "desc/stuff/ger_mask_sniper"
+msgid "Facial Splinter mask"
+msgstr "Máscara de camuflaje"
+
+msgctxt "desc/stuff/ger_luftschutz_helmet"
+msgid "Luftschütz helmet"
+msgstr "Casco Luftschütz"
+
+msgctxt "desc/stuff/ger_m38_luftschutz_helmet"
+msgid "Luftschütz M38 helmet"
+msgstr "Casco Luftschütz M38"
+
+msgctxt "desc/stuff/ger_m38_helmet"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_camo"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_blue"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_desert"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_winter"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_desert"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_medic"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_medic_desert"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_medic_winter"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_net"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_net_desert"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_net_winter"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m38_helmet_winter"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr "Casco Stahlhelm M38 Fallschirmjäger"
+
+msgctxt "desc/stuff/ger_m40_helmet"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo1"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo1_wire"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo2"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo2_wire"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo3"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_camo3_wire"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_wire"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_early"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_mid"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_blau"
+msgid "Stahlhelm M40 helmet Blau"
+msgstr "Casco Stahlhelm M40 Blau"
+
+msgctxt "desc/stuff/ger_m40_helmet_desert"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_feldgendarmerie"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_feldgendarmie_googles"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_goggles"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_green_mg"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_green_net"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_green_strapontop"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_grey_strapontop"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_luftwaffe"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_medic"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_mg"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_volkssturm"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m40_helmet_winter"
+msgid "Stahlhelm M40 helmet"
+msgstr "Casco Stahlhelm M40"
+
+msgctxt "desc/stuff/ger_m42_helmet_hessian"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_italian"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_oak"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_peadot"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_plaintree"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_splinter"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_sumpf"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_marsh"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_winter"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_m42_helmet_winter_cover"
+msgid "Stahlhelm M42 helmet"
+msgstr "Casco Stahlhelm M42"
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr "Stahlhelm 35 - Camuflaje [Francotirador]"
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_ital_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr "Stahlhelm 35 - Camuflaje [Francotirador]"
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_sumpf_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr "Stahlhelm 35 - Camuflaje [Francotirador]"
+
+msgctxt "desc/stuff/ger_gasmask_1"
+msgid "Gasmaske 38"
+msgstr "Máscara de Gas - Gasmaske 38"
+
+msgctxt "desc/stuff/ger_gasmask_2"
+msgid "Gasmaske 38"
+msgstr "Máscara de Gas - Gasmaske 38"

@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Russian vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+#, fuzzy
+msgctxt "desc/entity/305mm_mb_2_12"
+msgid "305mm MB-2-12"
+msgstr "305mm MB-2-12"
+
+msgctxt "info/special/305mm_mb_2_12"
+msgid "<c(c3baae)>Coastal Artillery</c>"
+msgstr "<c(c3baae)>Artillería pesada</c>"
+
+msgctxt "desc/entity/kv8"
+msgid "KV-8 (Flame)"
+msgstr "KV-8 (Lanzallamas)"
+
+#, fuzzy
+msgctxt "info/special/kv8"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/is2_45"
+msgid "IS-2 M1945"
+msgstr "IS-2 M1945"
+
+#, fuzzy
+msgctxt "info/special/is2_45"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/m3_stuart_late_rus"
+msgid "M3 Stuart (Late)"
+msgstr "M3 Stuart (tardío)"
+
+msgctxt "info/special/m3_stuart_late_rus"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+#, fuzzy
+msgctxt "desc/entity/m4a2_75_late_rus"
+msgid "M4A2 (Late)"
+msgstr "M4A2 (tardío)"
+
+msgctxt "info/special/m4a2_75_late_rus"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/m4a2_76w_early_rus"
+msgid "M4A2(76)W (Early)"
+msgstr "M4A2(76)W (Temprano)"
+
+msgctxt "info/special/m4a2_76w_early_rus"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/m4a2_76w_late_rus"
+msgid "M4A2(76)W (Late)"
+msgstr "M4A2(76)W (tardío)"
+
+msgctxt "info/special/m4a2_76w_late_rus"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/po2"
+msgid "U-2"
+msgstr "U-2"
+
+#, fuzzy
+msgctxt "info/special/po2"
+msgid "<c(c3baae)>Recon Plane</c>"
+msgstr "<c(c3baae)>Avión de reconocimiento</c>"
+
+#, fuzzy
+msgctxt "desc/entity/su26"
+msgid "SU-26"
+msgstr "SU-26"
+
+msgctxt "info/special/su26"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+#, fuzzy
+msgctxt "desc/entity/su85m"
+msgid "SU-85M"
+msgstr "SU-85M"
+
+msgctxt "info/special/su85m"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cañón AT autopropulsado</c>"
+
+#, fuzzy
+msgctxt "desc/entity/t3476_41e"
+msgid "Shielded T-34"
+msgstr "T-34 blindado"
+
+msgctxt "info/special/t3476_41e"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+msgctxt "desc/entity/t3485_44_flame"
+msgid "OT-34-85 (Flame)"
+msgstr "OT-34-85 (Lanzallamas)"
+
+msgctxt "info/special/t3485_44_flame"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/t3485_44a"
+msgid "T-34-85 M1944"
+msgstr "T-34-85 M1944"
+
+msgctxt "info/special/t3485_44a"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+msgctxt "desc/entity/t3485_44a_flame"
+msgid "OT-34-85 (Flame)"
+msgstr "OT-34-85 (Lanzallamas)"
+
+msgctxt "info/special/t3485_44a_flame"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"
+
+#, fuzzy
+msgctxt "desc/entity/t3485_44b"
+msgid "T-34-85 M1944"
+msgstr "T-34-85 M1944"
+
+msgctxt "info/special/t3485_44b"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque medio</c>"

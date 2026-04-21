@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms - Gates of Hell: Ostfront (dlg_ingame)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "actionbar/injection"
+msgid "Morphine shot"
+msgstr "Inyección de morfina"
+
+#, fuzzy
+msgctxt "actionbar/injection/usage"
+msgid "Instantly revive a fallen soldier with a consumable morphine shot"
+msgstr "Revive al instante a un soldado caído con una inyección de morfina consumible"
+
+#, fuzzy
+msgctxt "actionbar/call_ally"
+msgid "Recruit Soldiers"
+msgstr "Reclutar soldados"
+
+#, fuzzy
+msgctxt "actionbar/call_ally/usage"
+msgid "Recruit nearby AI soldiers into your command"
+msgstr "Recluta soldados de la IA cercanos a tu mando"
+
+msgctxt "actionbar/suppression_fire"
+msgid "Suppression Fire"
+msgstr "Fuego a discreción"
+
+msgctxt "actionbar/suppression_fire/usage"
+msgid "Unleash intense firepower at the overall vicinity of a designated target o"
+msgstr "Dispara a mansalva a las inmediaciones de un objetivo o terreno indicado durante 60 segundos."
+
+msgctxt "entity_info/armor_hull"
+msgid "Hull Armor"
+msgstr "Blindaje del Chasis"
+
+msgctxt "entity_info/armor_turret"
+msgid "Turret Armor"
+msgstr "Blindaje de la torreta"
+
+msgctxt "entity_info/armor_shield"
+msgid "Extra Armor"
+msgstr "Blindaje adicional"

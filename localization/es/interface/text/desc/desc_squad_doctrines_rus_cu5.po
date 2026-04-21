@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet Doctrines\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_ba10"
+msgid "<c(B29557)>( I )</c> BA-10"
+msgstr "<c(B29557)>( I )</c> BA-10"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_45mm_m37"
+msgid "<c(B29557)>( I )</c> 45mm M-37 M1937"
+msgstr "<c(B29557)>( I )</c> 45mm M-37 M1937"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_m41_ampulomet_early"
+msgid "<c(B29557)>( I )</c> Ampulomet M1941"
+msgstr "<c(B29557)>( I )</c> Ampulomet M1941"
+
+msgctxt "desc/squad/doctrine_rus_logistics_early"
+msgid "<c(B29557)>( II )</c> Key Logistics"
+msgstr "<c(B29557)>( II )</c> Unidad de Logística"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_76mm_m1938_early"
+msgid "<c(B29557)>( II )</c> 76mm M1938"
+msgstr "<c(B29557)>( II )</c> 76mm M1938"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_76mm_m1938_mid"
+msgid "<c(B29557)>( II )</c> 76mm M1938"
+msgstr "<c(B29557)>( II )</c> 76mm M1938"
+
+msgctxt "desc/squad/doctrine_bt5_mid"
+msgid "<c(B29557)>( I )</c> BT-5"
+msgstr "<c(B29557)>( I )</c> BT-5"
+
+msgctxt "desc/squad/doctrine_122mm_m1910_mid"
+msgid "<c(B29557)>( II )</c> 122mm M1910"
+msgstr "<c(B29557)>( II )</c> 122mm M1910"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_yak1_mid"
+msgid "<c(B29557)>( I )</c> Yak-1 50kg Bomb"
+msgstr "<c(B29557)>( I )</c> Yak-1 Bomba de 50kg"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_yak1_late"
+msgid "<c(B29557)>( I )</c> Yak-1 50kg Bomb"
+msgstr "<c(B29557)>( I )</c> Yak-1 Bomba de 50kg"
+
+msgctxt "desc/squad/doctrine_ba20_mid"
+msgid "<c(B29557)>( I )</c> Ba-20 Command Vehicle"
+msgstr "<c(B29557)>( I )</c> Ba-20 de Mando"
+
+msgctxt "desc/squad/doctrine_ba20_late"
+msgid "<c(B29557)>( I )</c> Ba-20 Command Vehicle"
+msgstr "<c(B29557)>( I )</c> Ba-20 de Mando"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_t70_mid"
+msgid "<c(B29557)>( I )</c> T-70"
+msgstr "<c(B29557)>( I )</c> T-70"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_valentine2_mid"
+msgid "<c(B29557)>( I )</c> Valentine Mk.II"
+msgstr "<c(B29557)>( I )</c> Valentine Mk.II"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_mmg_carrier_mid"
+msgid "<c(B29557)>( I )</c> Carrier Medium MG"
+msgstr "<c(B29557)>( I )</c> Carrier Medium MG"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_107mm_m1910_30_mid"
+msgid "<c(B29557)>( III )</c> 107mm M1910/30"
+msgstr "<c(B29557)>( III )</c> 107mm M1910/30"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_107mm_m1910_30_late"
+msgid "<c(B29557)>( II )</c> 107mm M1910/30"
+msgstr "<c(B29557)>( II )</c> 107mm M1910/30"
+
+msgctxt "desc/squad/doctrine_t50_mid"
+msgid "<c(B29557)>( I )</c> T-50"
+msgstr "<c(B29557)>( I )</c> T-50"
+
+msgctxt "desc/squad/doctrine_280mm_br5_mid"
+msgid "<c(B29557)>( III )</c> 280mm Br-5"
+msgstr "<c(B29557)>( III )</c> 280mm Br-5"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_122mm_a19_late"
+msgid "<c(B29557)>( III )</c> 122mm A-19"
+msgstr "<c(B29557)>( III )</c> 122mm A-19"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_bt7a_late"
+msgid "<c(B29557)>( I )</c> BT-7A"
+msgstr "<c(B29557)>( I )</c> BT-7A"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_300mm_bm30"
+msgid "<c(B29557)>( III )</c> 300mm BM-30"
+msgstr "<c(B29557)>( III )</c> 300mm BM-30"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_300mm_bm31"
+msgid "<c(B29557)>( III )</c> 300mm BM-31"
+msgstr "<c(B29557)>( III )</c> 300mm BM-31"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_sapper_motorised_early"
+msgid "<c(B29557)>( I )</c> Motorised Sappers"
+msgstr "<c(B29557)>( I )</c> Zapadores motorizados"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_sapper_motorised_mid"
+msgid "<c(B29557)>( I )</c> Motorised Sappers"
+msgstr "<c(B29557)>( I )</c> Zapadores motorizados"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_sapper_motorised_late"
+msgid "<c(B29557)>( I )</c> Motorised Sappers"
+msgstr "<c(B29557)>( I )</c> Zapadores motorizados"
+
+msgctxt "desc/squad/doctrine_zis2_scoutcar_mg_mid"
+msgid "<c(B29557)>( II )</c> Scout Car + ZIS-2"
+msgstr "<c(B29557)>( II )</c> Scout Car + ZIS-2"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_2x_m4a2_75_early_rus_mid"
+msgid "<c(B29557)>( III )</c> 2x M4A2"
+msgstr "<c(B29557)>( III )</c> 2x M4A2"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_m3_lee_rus_mid"
+msgid "<c(B29557)>( II )</c> M3 Lee"
+msgstr "<c(B29557)>( II )</c> M3 Lee"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_m3a1_stuart_rus"
+msgid "<c(B29557)>( I )</c> M3A1 Stuart"
+msgstr "<c(B29557)>( I )</c> M3A1 Stuart"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_zis6_bm13_16_mid"
+msgid "<c(B29557)>( III )</c> BM-13-16 (ZiS-6)"
+msgstr "<c(B29557)>( III )</c> BM-13-16 (ZiS-6)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_zis6_bm13_16_late"
+msgid "<c(B29557)>( III )</c> BM-13-16 (ZiS-6)"
+msgstr "<c(B29557)>( III )</c> BM-13-16 (ZiS-6)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_zis6_bm8_48_mid"
+msgid "<c(B29557)>( II )</c> BM-8-48 (ZiS-6)"
+msgstr "<c(B29557)>( II )</c> BM-8-48 (ZiS-6)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_zis6_bm8_48_late"
+msgid "<c(B29557)>( II )</c> BM-8-48 (ZiS-6)"
+msgstr "<c(B29557)>( II )</c> BM-8-48 (ZiS-6)"
+
+#, fuzzy
+msgctxt "desc/entity/doctrine_yag10_29k_early"
+msgid "<c(B29557)>( III )</c> YaG-10 29-K"
+msgstr "<c(B29557)>( III )</c> YaG-10 29-K"
+
+#, fuzzy
+msgctxt "desc/entity/doctrine_yag10_29k_mid"
+msgid "<c(B29557)>( II )</c> YaG-10 29-K"
+msgstr "<c(B29557)>( II )</c> YaG-10 29-K"
+
+#, fuzzy
+msgctxt "desc/entity/doctrine_t60_bm8_24_mid"
+msgid "<c(B29557)>( II )</c> BM-8-24 (T-60)"
+msgstr "<c(B29557)>( II )</c> BM-8-24 (T-60)"
+
+#, fuzzy
+msgctxt "desc/entity/doctrine_t60_bm8_24_late"
+msgid "<c(B29557)>( II )</c> BM-8-24 (T-60)"
+msgstr "<c(B29557)>( II )</c> BM-8-24 (T-60)"

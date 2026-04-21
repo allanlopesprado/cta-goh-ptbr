@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_squad)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/squad/squad_guards(rus)"
+msgid "Guards Inf."
+msgstr "Inf. de guardias"
+
+msgctxt "info/squad/squad_guards(rus)"
+msgid ""
+"When one of the frontline divisions achieved corageous success in the "
+"ongoing battles, the USSR high command granted them the honorary position of "
+"Guards of the Soviet Union. They were prioritised when considering the "
+"operation battle plans, likewise they were usually better equipped. "
+"<c(DB465A)>Soviet Guard divisions have more experience in battle and better "
+"equipment than regular regular infantry, and they carry a MG in the squad "
+"for suppession.</c>"
+msgstr "Cuando una división de la primera línea tenía éxito, el alto comando de la URSS le concedía el honorario denominado \"Guardia de la Unión Soviética\". Esto significaba que, a la hora de elaborar una estrategia de combate, los guardias serían prioridad y recibirían un equipamiento mejor. <c(DB465A)>Las divisiones de guardias soviéticos poseen más experiencia en el campo de batalla y mejor equipo que la infantería convencional. Además, llevan una ametralladora para dar cobertura.</c>"
+
+msgctxt "desc/squad/squad_guards_heavy(rus)"
+msgid "Heavy Guards Inf."
+msgstr "Inf. de guardias pesados"
+
+msgctxt "info/squad/squad_guards_heavy(rus)"
+msgid ""
+"When one of the frontline divisions achieved corageous success in the "
+"ongoing battles, the USSR high command granted them the honorary position of "
+"Guards of the Soviet Union. They were prioritised when considering the "
+"operation battle plans, likewise they were usually better equipped. "
+"<c(DB465A)>Soviet Guard divisions have more experience in battle and better "
+"equipment than regular regular infantry, and they carry a MG in the squad "
+"for suppession.</c>"
+msgstr "Cuando una división de la primera línea tenía éxito, el alto comando de la URSS le concedía el honorario denominado \"Guardia de la Unión Soviética\". Esto significaba que, a la hora de elaborar una estrategia de combate, los guardias serían prioridad y recibirían un equipamiento mejor. <c(DB465A)>Las divisiones de guardias soviéticos poseen más experiencia en el campo de batalla y mejor equipo que la infantería convencional. Además, llevan una ametralladora para dar cobertura.</c>"
+
+msgctxt "desc/squad/squad_partisan(rus)"
+msgid "Partisans"
+msgstr "Partisanos"
+
+msgctxt "info/squad/squad_partisan(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_suppression(rus)"
+msgid "Suppression Inf."
+msgstr "Inf. de supresión"
+
+msgctxt "info/squad/squad_suppression(rus)"
+msgid ""
+"Suppression units utilised long range automatic and semi-automatic weaponry "
+"to create density of fire to support advancing troops<c(DB465A)>Tips "
+"description.</c>"
+msgstr "Las unidades de supresión utilizaban armas automáticas y semiautomáticas de largo alcance para crear barreras de fuego y apoyar a las tropas en maniobras de aproximación<c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_border(rus)"
+msgid "Border Patrol"
+msgstr "Patrulla fronteriza"
+
+msgctxt "info/squad/squad_border(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_basic(rus)"
+msgid "Light Inf."
+msgstr "Inf. ligera"
+
+msgctxt "info/squad/squad_basic(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_heavy(rus)"
+msgid "Heavy Inf."
+msgstr "Inf. pesada"
+
+msgctxt "info/squad/squad_heavy(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_guardsrifle(rus)"
+msgid "Guards Rifles"
+msgstr "Guardias fusileros"
+
+msgctxt "info/squad/squad_guardsrifle(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_rifleunit(rus)"
+msgid "Rifle Squad"
+msgstr "Escuadrón de fusileros"
+
+msgctxt "info/squad/squad_rifleunit(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_marines(rus)"
+msgid "Black Jackets"
+msgstr "Black Jackets"
+
+msgctxt "info/squad/squad_marines(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_shock(rus)"
+msgid "Shock Inf."
+msgstr "Inf. de choque"
+
+msgctxt "info/squad/squad_shock(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_nkvd(rus)"
+msgid "Penal Unit"
+msgstr "Unidad de castigo"
+
+msgctxt "info/squad/squad_nkvd(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica de escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_sappers(rus)"
+msgid "Assault Sappers"
+msgstr "Zapadores de asalto"
+
+msgctxt "info/squad/squad_sappers(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_assaultsappers(rus)"
+msgid "Assault Sappers"
+msgstr "Zapadores de asalto"
+
+msgctxt "info/squad/squad_assaultsappers(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_penal(rus)"
+msgid "Penal Battalion"
+msgstr "Batallón de castigo"
+
+msgctxt "info/squad/squad_penal(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_mountainrifles(rus)"
+msgid "Mountain Rifles"
+msgstr "Fusileros de montaña"
+
+msgctxt "info/squad/squad_mountainrifles(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_rifle_motorised"
+msgid "Motorised rifle squad"
+msgstr "Escuadrón de fusileros motorizado"
+
+msgctxt "info/squad/squad_rifle_motorised"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_paratrooper(rus)"
+msgid "Paratroopers"
+msgstr "Paracaidistas"
+
+msgctxt "info/squad/squad_paratrooper(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_paratrooper_early(rus)"
+msgid "Paratroopers"
+msgstr "Paracaidistas"
+
+msgctxt "info/squad/squad_paratrooper_early(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_spetsnaz(rus)"
+msgid "Spetsnaz Unit"
+msgstr "Unidad Spetsnaz"
+
+msgctxt "info/squad/squad_spetsnaz(rus)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Descripción histórica del escuadrón <c(DB465A)>Descripción de consejo.</c>"
+
+msgctxt "desc/squad/squad_spetsnaz_early(rus)"
+msgid "Spetsnaz Unit"
+msgstr "Unidad Spetsnaz"
+
+msgctxt "desc/squad/squad_spetsnaz_mid(rus)"
+msgid "Spetsnaz Unit"
+msgstr "Unidad Spetsnaz"
+
+msgctxt "desc/squad/squad_spetsnaz_late(rus)"
+msgid "Spetsnaz Unit"
+msgstr "Unidad Spetsnaz"
+
+msgctxt "desc/squad/conquest_il2"
+msgid "IL-2 250kg Bomb"
+msgstr "Bomba IL-2 250kg"
+
+msgctxt "desc/squad/conquest_po2"
+msgid "U-2 Recon"
+msgstr "U-2 Reconocimiento"
+
+msgctxt "desc/squad/conquest_yak1"
+msgid "Yak-1 50kg Bomb"
+msgstr "Bomba Yak-1 50kg"
+
+msgctxt "desc/squad/single_at(rus)"
+msgid "AT Detachment"
+msgstr "Destacamento AT"
+
+msgctxt "desc/squad/single_atgrenade(rus)"
+msgid "AT Detachment"
+msgstr "Destacamento AT"
+
+msgctxt "desc/squad/single_bazooker(rus)"
+msgid "AT Detachment"
+msgstr "Destacamento AT"
+
+msgctxt "desc/squad/single_mg(rus)"
+msgid "MG Detachment"
+msgstr "Destacamento ametralladora"
+
+msgctxt "desc/squad/single_tankman(rus)"
+msgid "Tank Crew"
+msgstr "Tripulación de tanque"
+
+msgctxt "desc/squad/single_auxiliary(rus)"
+msgid "Auxiliary Detachment"
+msgstr "Destacamento auxiliar"
+
+msgctxt "desc/squad/single_medic(rus)"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "desc/squad/single_engineer(rus)"
+msgid "Field Engineer"
+msgstr "Ingeniero de campo"
+
+msgctxt "desc/squad/single_sniper(rus)"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "desc/squad/single_ap_miner(rus)"
+msgid "AP Miners"
+msgstr "Minero AP"
+
+msgctxt "desc/squad/single_at_miner(rus)"
+msgid "AT Miners"
+msgstr "Mina AT"
+
+msgctxt "desc/squad/single_riflegrenade(rus)"
+msgid "Gren. Riflemen"
+msgstr "Fusileros con granada"
+
+msgctxt "desc/squad/single_flamer(rus)"
+msgid "Flamer"
+msgstr "Lanzallamas"
+
+msgctxt "desc/squad/single_Officer(rus)"
+msgid "Commissar"
+msgstr "Comisario"
+
+msgctxt "desc/squad/squad_light(ger)"
+msgid "Light Inf."
+msgstr "Inf. ligera"
+
+msgctxt "desc/squad/squad_regular(ger)"
+msgid "Regular Inf."
+msgstr "Inf. estándar"
+
+msgctxt "desc/squad/squad_regular_motorised(ger)"
+msgid "Sd.Kfz 251 + Inf."
+msgstr "Sd.Kfz 251 + Inf."
+
+msgctxt "desc/squad/squad_regular_motorised"
+msgid "Sd.Kfz 251 + Inf."
+msgstr "Sd.Kfz 251 + Inf."
+
+msgctxt "desc/squad/squad_grenadiere(ger)"
+msgid "Grenadiere"
+msgstr "Grenadiere"
+
+msgctxt "desc/squad/squad_sturm(ger)"
+msgid "Sturmgrenadiere"
+msgstr "Sturmgrenadiere"
+
+msgctxt "desc/squad/squad_brandenburger(ger)"
+msgid "Brandenburger"
+msgstr "Brandenburgo"
+
+msgctxt "desc/squad/squad_brandenburger_early(ger)"
+msgid "Brandenburger"
+msgstr "Brandenburgo"
+
+msgctxt "desc/squad/squad_brandenburger_mid(ger)"
+msgid "Brandenburger"
+msgstr "Brandenburgo"
+
+msgctxt "desc/squad/squad_brandenburger_late(ger)"
+msgid "Brandenburger"
+msgstr "Brandenburgo"
+
+msgctxt "desc/squad/squad_osttruppen(ger)"
+msgid "Osttruppen"
+msgstr "Osttruppen"
+
+msgctxt "desc/squad/squad_stosstrupp(ger)"
+msgid "Stosstrupp"
+msgstr "Stosstrupp"
+
+msgctxt "desc/squad/squad_stosstrupp"
+msgid "Stosstrupp"
+msgstr "Stosstrupp"
+
+msgctxt "desc/squad/squad_blau(ger)"
+msgid "Blau Division"
+msgstr "Blau Division"
+
+msgctxt "desc/squad/squad_reserve(ger)"
+msgid "Reserves"
+msgstr "Reservas"
+
+msgctxt "desc/squad/squad_fallschirmjaeger(ger)"
+msgid "Fallschirmjäger"
+msgstr "Fallschirmjäger"
+
+msgctxt "desc/squad/squad_fallschirmjaeger_late(ger)"
+msgid "Fallschirmjäger"
+msgstr "Fallschirmjäger"
+
+msgctxt "desc/squad/squad_luftwaffe_early(ger)"
+msgid "LW. field unit"
+msgstr "Unidad de campo LW [Luftwaffe]"
+
+msgctxt "desc/squad/squad_luftwaffe_mid(ger)"
+msgid "LW. field unit"
+msgstr "Unidad de campo LW [Luftwaffe]"
+
+msgctxt "desc/squad/squad_luftwaffe_late(ger)"
+msgid "LW. field unit"
+msgstr "Unidad de campo LW [Luftwaffe]"
+
+msgctxt "desc/squad/squad_luftwaffe(ger)"
+msgid "LW. field unit"
+msgstr "Unidad de campo LW [Luftwaffe]"
+
+msgctxt "desc/squad/squad_gebirgsjaeger(ger)"
+msgid "Gebirgsjäger"
+msgstr "Gebirgsjäger"
+
+msgctxt "desc/squad/squad_gebirgsjaeger_late(ger)"
+msgid "Gebirgsjäger"
+msgstr "Gebirgsjäger"
+
+msgctxt "desc/squad/squad_heavy(ger)"
+msgid "Regular Inf."
+msgstr "Inf. estándar"
+
+msgctxt "desc/squad/squad_pionier(ger)"
+msgid "Pioniere"
+msgstr "Pioniere"
+
+msgctxt "desc/squad/squad_pionier_late(ger)"
+msgid "Pioniere"
+msgstr "Pioniere"
+
+msgctxt "desc/squad/squad_sturmpionier(ger)"
+msgid "Sturmpioniere"
+msgstr "Sturmpioniere"
+
+msgctxt "desc/squad/squad_strafbatallion(ger)"
+msgid "Strafbatallion"
+msgstr "Strafbatallion"
+
+msgctxt "desc/squad/squad_volkssturm(ger)"
+msgid "Volkssturm"
+msgstr "Volkssturm"
+
+msgctxt "desc/squad/single_auxiliary(ger)"
+msgid "Filler Detachment"
+msgstr "Destacamento de relleno"
+
+msgctxt "desc/squad/single_scout(ger)"
+msgid "Aufklärer"
+msgstr "Aufklärer"
+
+msgctxt "desc/squad/single_riflegrenade(ger)"
+msgid "Gren. Riflemen"
+msgstr "Fusileros con granada"
+
+msgctxt "desc/squad/single_at_miner(ger)"
+msgid "AT Miners"
+msgstr "Minero AT"
+
+msgctxt "desc/squad/single_tankman(ger)"
+msgid "Tank Crew"
+msgstr "Tripulación de tanque"
+
+msgctxt "desc/squad/single_medic(ger)"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "desc/squad/single_mg(ger)"
+msgid "MG Detachment"
+msgstr "Destacamento ametralladora"
+
+msgctxt "desc/squad/single_ap_miner(ger)"
+msgid "AP Miners"
+msgstr "Minero AP"
+
+msgctxt "desc/squad/single_engineer(ger)"
+msgid "Field Engineer"
+msgstr "Ingeniero de campo"
+
+msgctxt "desc/squad/single_at(ger)"
+msgid "AT Detachment"
+msgstr "Destacamento AT"
+
+msgctxt "desc/squad/single_bazooker(ger)"
+msgid "AT Detachment"
+msgstr "Destacamento AT"
+
+msgctxt "desc/squad/single_flamer(ger)"
+msgid "Flamer"
+msgstr "Lanzallamas"
+
+msgctxt "desc/squad/single_sniper(ger)"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "desc/squad/single_Officer(ger)"
+msgid "Officer"
+msgstr "Oficial"

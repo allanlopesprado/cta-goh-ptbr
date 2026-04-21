@@ -1,0 +1,1653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German MP soldiers CU5\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_mg"
+msgid "Elite MG Operator [Heer]"
+msgstr "Operador MG de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_mg_ammo"
+msgid "Elite MG Ammo Bearer [Heer]"
+msgstr "Portador de Munición MG de Élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_mg_asst"
+msgid "Elite MG Asst. [Heer]"
+msgstr "Elite MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_rifle"
+msgid "Elite Rifleman [Heer]"
+msgstr "Fusilero de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_sl"
+msgid "Elite Squadleader [Heer]"
+msgstr "Líder de escuadrón de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_sl_asst"
+msgid "Elite Asst. Leader [Heer]"
+msgstr "Asistente del Líder de Élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/elite_sl_smg"
+msgid "Elite Squadleader [Heer]"
+msgstr "Líder de escuadrón de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/ersatz_rifle"
+msgid "Ersatz-Rifleman [Heer]"
+msgstr "Fusilero Ersatz [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/ersatz_sl"
+msgid "Ersatz-Squadleader [Heer]"
+msgstr "Ersatz-Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/ersatz_sl_asst"
+msgid "Ersatz-Asst. Leader [Heer]"
+msgstr "Asistente del Líder Ersatz [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_mg"
+msgid "Fallschirmpionier MG Operator [Luftwaffe]"
+msgstr "Fallschirmpionier Operador MG [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_mg_ammo"
+msgid "Fallschirmpionier MG Ammo Bearer [Luftwaffe]"
+msgstr "Fallschirmpionier MG Portador de Munición [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_mg_asst"
+msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
+msgstr "Fallschirmpionier MG Asst. [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_rifle"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_sl"
+msgid "Fallschirmpionier Squadleader [Luftwaffe]"
+msgstr "Fallschirmpionier Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_pio_sl_asst"
+msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_recon_mg"
+msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_recon_mg_asst"
+msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_recon_rifle"
+msgid "Fallschirmaufklärer [Luftwaffe]"
+msgstr "Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_recon_sl"
+msgid "Fallschirmaufklärer Squadleader [Luftwaffe]"
+msgstr "Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_recon_sl_asst"
+msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/fallsch_rifle_marksman"
+msgid "Fallschirmjäger Marksman [Luftwaffe]"
+msgstr "Tirador Fallschirmjäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/feldg_mg"
+msgid "MG Operator [Feldgendarmerie]"
+msgstr "Operador MG [Feldgendarmerie]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_flame"
+msgid "Großdeutschland Pionier Flamer [Heer]"
+msgstr "Großdeutschland Pionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_mg"
+msgid "Großdeutschland Pionier MG Operator [Heer]"
+msgstr "Großdeutschland Pionier MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_mg_ammo"
+msgid "Großdeutschland Pionier MG Ammo Bearer [Heer]"
+msgstr "Großdeutschland Pionier MG Ammo Bearer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_mg_asst"
+msgid "Großdeutschland Pionier MG Asst. [Heer]"
+msgstr "Großdeutschland Pionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_rifle"
+msgid "Großdeutschland Pionier [Heer]"
+msgstr "Großdeutschland Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_rifle_gren"
+msgid "Großdeutschland Pionier [Heer]"
+msgstr "Großdeutschland Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_rifle_mine"
+msgid "Großdeutschland Pionier [Heer]"
+msgstr "Großdeutschland Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_sl"
+msgid "Großdeutschland Pionier Squadleader [Heer]"
+msgstr "Großdeutschland Pionier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gd_pio_sl_asst"
+msgid "Großdeutschland Pionier Asst. Leader [Heer]"
+msgstr "Großdeutschland Pionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg"
+msgid "Gebirgspionier MG Operator [Heer]"
+msgstr "Gebirgspionier Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg_ammo"
+msgid "Gebirgspionier MG Ammo Bearer [Heer]"
+msgstr "Gebirgspionier MG Portador de Munición [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg_asst"
+msgid "Gebirgspionier MG Asst. [Heer]"
+msgstr "Gebirgspionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_rifle"
+msgid "Gebirgspionier [Heer]"
+msgstr "Gebirgspionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_sl"
+msgid "Gebirgspionier Squadleader [Heer]"
+msgstr "Gebirgspionier Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_pio_sl_asst"
+msgid "Gebirgspionier Asst. Leader [Heer]"
+msgstr "Gebirgspionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_recon_mg"
+msgid "Gebirgsaufklärer MG Operator [Heer]"
+msgstr "Gebirgsaufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_recon_mg_asst"
+msgid "Gebirgsaufklärer MG Asst. [Heer]"
+msgstr "Gebirgsaufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_recon_rifle"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_recon_sl"
+msgid "Gebirgsaufklärer Squadleader [Heer]"
+msgstr "Gebirgsaufklärer Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/gebirgs_recon_sl_asst"
+msgid "Gebirgsaufklärer Asst. Leader [Heer]"
+msgstr "Asistente del líder Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/marine_stoss_mg"
+msgid "Marine-Stoßtrupp MG Operator [Kriegsmarine]"
+msgstr "Operador MG Marine-Stoßtrupp [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/marine_stoss_mg_asst"
+msgid "Marine-Stoßtrupp MG Asst. [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp MG Asst. [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/marine_stoss_rifle"
+msgid "Marine-Stoßtrupp [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/marine_stoss_sl"
+msgid "Marine-Stoßtrupp Squadleader [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp Líder [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/marine_stoss_sl_asst"
+msgid "Marine-Stoßtrupp Asst. Leader [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp Asst. Leader [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/mg_26t"
+msgid "MG Operator [Heer]"
+msgstr "Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/mg_asst_26t"
+msgid "MG Asst. [Heer]"
+msgstr "Asistente MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pioneer_at_rifle"
+msgid "Pionier AT inf. [Heer]"
+msgstr "Pionier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pioneer_builder"
+msgid "Pionier Engineer [Heer]"
+msgstr "Ingeniero Pionero [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pioneer_builder"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pioneer_builder"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_mg"
+msgid "Panzerschütze MG Operator [Heer]"
+msgstr "Panzerschütze MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_mg_ammo"
+msgid "Panzerschütze MG Ammo Bearer [Heer]"
+msgstr "Panzerschütze MG Portador de Munición [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_mg_asst"
+msgid "Panzerschütze MG Asst. [Heer]"
+msgstr "Panzerschütze MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_pio_at_rifle"
+msgid "Panzerpionier AT inf. [Heer]"
+msgstr "Panzerpionier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_recon_mg"
+msgid "Panzeraufklärer MG Operator [Heer]"
+msgstr "Panzeraufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_recon_mg_asst"
+msgid "Panzeraufklärer MG Asst. [Heer]"
+msgstr "Panzeraufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_recon_rifle"
+msgid "Panzeraufklärer [Heer]"
+msgstr "Panzeraufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_recon_sl"
+msgid "Panzeraufklärer Squadleader [Heer]"
+msgstr "Panzeraufklärer Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_recon_sl_asst"
+msgid "Panzeraufklärer Asst. Leader [Heer]"
+msgstr "Panzeraufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_rifle"
+msgid "Panzerschütze [Heer]"
+msgstr "Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_sl"
+msgid "Panzerschütze Squadleader [Heer]"
+msgstr "Líder Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_sl_asst"
+msgid "Panzerschütze Asst. Leader [Heer]"
+msgstr "Panzerschütze Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/pz_sl_smg"
+msgid "Panzerschütze Squadleader [Heer]"
+msgstr "Líder Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/sl"
+msgid "Squadleader [Heer]"
+msgstr "Líder de escuadrón [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/sl_asst"
+msgid "Asst. Leader [Heer]"
+msgstr "Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/sl_smg"
+msgid "Squadleader [Heer]"
+msgstr "Líder de escuadrón [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_mg"
+msgid "Veteran MG Operator [Heer]"
+msgstr "Operador MG Veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_mg_ammo"
+msgid "Veteran MG Ammo Bearer [Heer]"
+msgstr "Portador de munición MG Veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_mg_asst"
+msgid "Veteran MG Asst. [Heer]"
+msgstr "Asistente MG Veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_rifle"
+msgid "Veteran Rifleman [Heer]"
+msgstr "Fusilero veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_sl"
+msgid "Veteran Squadleader [Heer]"
+msgstr "Líder de escuadrón veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_sl_asst"
+msgid "Veteran Asst. Leader [Heer]"
+msgstr "Veteran Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/early/vet_sl_smg"
+msgid "Veteran Squadleader [Heer]"
+msgstr "Líder de escuadrón veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_mg"
+msgid "Elite MG Operator [Heer]"
+msgstr "Operador MG de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_mg_ammo"
+msgid "Elite MG Ammo Bearer [Heer]"
+msgstr "Portador de Munición MG de Élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_mg_asst"
+msgid "Elite MG Asst. [Heer]"
+msgstr "Elite MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_rifle"
+msgid "Elite Rifleman [Heer]"
+msgstr "Fusilero de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_sl"
+msgid "Elite Squadleader [Heer]"
+msgstr "Líder de escuadrón de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_sl_asst"
+msgid "Elite Asst. Leader [Heer]"
+msgstr "Asistente del Líder de Élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/elite_sl_smg"
+msgid "Elite Squadleader [Heer]"
+msgstr "Líder de escuadrón de élite [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/convict_mg"
+msgid "Convict MG Operator [Feldgendarmerie]"
+msgstr "Operador MG convicto [Feldgendarmerie]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/ersatz_rifle"
+msgid "Ersatz-Rifleman [Heer]"
+msgstr "Fusilero Ersatz [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/ersatz_sl"
+msgid "Ersatz-Squadleader [Heer]"
+msgstr "Ersatz-Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/ersatz_sl_asst"
+msgid "Ersatz-Asst. Leader [Heer]"
+msgstr "Asistente del Líder Ersatz [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_mg"
+msgid "Fallschirmpionier MG Operator [Luftwaffe]"
+msgstr "Fallschirmpionier Operador MG [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_mg_asst"
+msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
+msgstr "Fallschirmpionier MG Asst. [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_rifle"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_rifle_grenadier"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_sl"
+msgid "Fallschirmpionier Squadleader [Luftwaffe]"
+msgstr "Fallschirmpionier Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_pio_sl_asst"
+msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg"
+msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg_asst"
+msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg_asst_gren"
+msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg34"
+msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_sl"
+msgid "Fallschirmaufklärer Squadleader [Luftwaffe]"
+msgstr "Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_recon_sl_asst"
+msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/fallsch_rifle_marksman"
+msgid "Fallschirmjäger Marksman [Luftwaffe]"
+msgstr "Tirador Fallschirmjäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_flame"
+msgid "Großdeutschland Pionier Flamer [Heer]"
+msgstr "Großdeutschland Pionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_mg"
+msgid "Großdeutschland Pionier MG Operator [Heer]"
+msgstr "Großdeutschland Pionier MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_mg_asst"
+msgid "Großdeutschland Pionier MG Asst. [Heer]"
+msgstr "Großdeutschland Pionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_rifle"
+msgid "Großdeutschland Pionier [Heer]"
+msgstr "Großdeutschland Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_sa"
+msgid "Großdeutschland Pionier [Heer]"
+msgstr "Großdeutschland Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_sl"
+msgid "Großdeutschland Pionier Squadleader [Heer]"
+msgstr "Großdeutschland Pionier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gd_pio_sl_asst"
+msgid "Großdeutschland Pionier Asst. Leader [Heer]"
+msgstr "Großdeutschland Pionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_pio_mg"
+msgid "Gebirgspionier MG Operator [Heer]"
+msgstr "Gebirgspionier Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_pio_mg_asst"
+msgid "Gebirgspionier MG Asst. [Heer]"
+msgstr "Gebirgspionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_pio_rifle"
+msgid "Gebirgspionier [Heer]"
+msgstr "Gebirgspionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_pio_sl"
+msgid "Gebirgspionier Squadleader [Heer]"
+msgstr "Gebirgspionier Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_pio_sl_asst"
+msgid "Gebirgspionier Asst. Leader [Heer]"
+msgstr "Gebirgspionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_mg"
+msgid "Gebirgsaufklärer MG Operator [Heer]"
+msgstr "Gebirgsaufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_mg_asst"
+msgid "Gebirgsaufklärer MG Asst. [Heer]"
+msgstr "Gebirgsaufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_rifle"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_sl"
+msgid "Gebirgsaufklärer Squadleader [Heer]"
+msgstr "Gebirgsaufklärer Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_sl_asst"
+msgid "Gebirgsaufklärer Asst. Leader [Heer]"
+msgstr "Asistente del líder Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/gebirgs_recon_smg"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/mg_26t"
+msgid "MG Operator [Heer]"
+msgstr "Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/mg_asst_26t"
+msgid "MG Asst. [Heer]"
+msgstr "Asistente MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/mgun_42"
+msgid "MG Operator [Heer]"
+msgstr "Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pioneer_builder"
+msgid "Pionier Engineer [Heer]"
+msgstr "Ingeniero Pionero [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_mg_asst"
+msgid "Panzerschütze MG Asst. [Heer]"
+msgstr "Panzerschütze MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_mg34"
+msgid "Panzerschütze MG Operator [Heer]"
+msgstr "Panzerschütze MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_mg42"
+msgid "Panzerschütze MG Operator [Heer]"
+msgstr "Panzerschütze MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_rifle"
+msgid "Panzerschütze [Heer]"
+msgstr "Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_sa"
+msgid "Panzerschütze [Heer]"
+msgstr "Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_sl"
+msgid "Panzerschütze Squadleader [Heer]"
+msgstr "Líder Panzerschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_sl_asst"
+msgid "Panzerschütze Asst. Leader [Heer]"
+msgstr "Panzerschütze Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/pz_sl_asst_sa"
+msgid "Panzerschütze Asst. Leader [Heer]"
+msgstr "Panzerschütze Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/recon_mg42"
+msgid "Aufklärer MG Operator [Heer]"
+msgstr "Aufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/rifle_gren"
+msgid "Rifle Grenadier [Heer]"
+msgstr "Granadero de fusil [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sl"
+msgid "Squadleader [Heer]"
+msgstr "Líder de escuadrón [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sl_asst"
+msgid "Asst. Leader [Heer]"
+msgstr "Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sl_asst_sa"
+msgid "Asst. Leader [Heer]"
+msgstr "Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_flame"
+msgid "Sturmpionier Flamer [Heer]"
+msgstr "Sturmpionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_mg"
+msgid "Sturmpionier MG Operator [Heer]"
+msgstr "Operador MG Sturmpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_mg_asst"
+msgid "Sturmpionier MG Asst. [Heer]"
+msgstr "Sturmpionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_rifle"
+msgid "Sturmpionier [Heer]"
+msgstr "Sturmpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_rifle_gren"
+msgid "Sturmpionier [Heer]"
+msgstr "Sturmpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_rifle_mine"
+msgid "Sturmpionier [Heer]"
+msgstr "Sturmpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_sl"
+msgid "Sturmpionier Squadleader [Heer]"
+msgstr "Sturmpionier Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/sturm_pio_sl_asst"
+msgid "Sturmpionier Asst. Leader [Heer]"
+msgstr "Sturmpionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/tank_commander_pzjag"
+msgid "Tank Commander [Panzerwaffe]"
+msgstr "Comandante de Tanques [Panzerwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/tank_commander_scout"
+msgid "Tank Commander [Heer]"
+msgstr "Comandante de Tanque [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/tankman_pzjag"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tankman [Panzerwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/tankman_scout"
+msgid "Tankman [Heer]"
+msgstr "Tankman [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/mid/vet_mg_ammo"
+msgid "Veteran MG Ammo Bearer [Heer]"
+msgstr "Portador de munición MG Veterano [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_1"
+msgid "Blau Legion SMG Inf. [Heer]"
+msgstr "Legión Azul SMG Inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_2"
+msgid "Blau Legion Rifleman [Heer]"
+msgstr "Fusilero de la Legión Azul [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_3"
+msgid "Blau Legion Rifleman [Heer]"
+msgstr "Fusilero de la Legión Azul [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_4"
+msgid "Blau Legion MG Operator [Heer]"
+msgstr "Operador MG de la Legión Azul [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_5"
+msgid "Blau Legion Squadleader [Heer]"
+msgstr "Líder de escuadrón de la Legión Azul [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_6"
+msgid "Blau Legion MG Asst. [Heer]"
+msgstr "Blau Legion MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/blau_sl_asst"
+msgid "Blau Legion Asst. Leader [Heer]"
+msgstr "Asistente del Líder de la Legión Azul [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_at"
+msgid "Begleitgrenadier AT inf. [Heer]"
+msgstr "Begleitgrenadier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_rifle"
+msgid "Begleitgrenadier [Heer]"
+msgstr "Begleitgrenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_rifle_pzf"
+msgid "Begleitgrenadier [Heer]"
+msgstr "Begleitgrenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_sl"
+msgid "Begleitgrenadier Squadleader [Heer]"
+msgstr "Begleitgrenadier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_sl_asst"
+msgid "Begleitgrenadier Asst. Leader [Heer]"
+msgstr "Begleitgrenadier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_sl_asst_stg"
+msgid "Begleitgrenadier Asst. Leader [Heer]"
+msgstr "Begleitgrenadier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitgren_sl_stg"
+msgid "Begleitgrenadier Squadleader [Heer]"
+msgstr "Begleitgrenadier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_flame"
+msgid "Begleitpionier Flamer [Heer]"
+msgstr "Begleitpionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_mg"
+msgid "Begleitpionier MG Operator [Heer]"
+msgstr "Begleitpionier MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_mg_asst"
+msgid "Begleitpionier MG Asst. [Heer]"
+msgstr "Begleitpionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_rifle"
+msgid "Begleitpionier [Heer]"
+msgstr "Begleitpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_rifle_pzf"
+msgid "Begleitpionier [Heer]"
+msgstr "Begleitpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_sl_asst_stg"
+msgid "Begleitpionier Asst. Leader [Heer]"
+msgstr "Begleitpionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_sl_stg"
+msgid "Begleitpionier Squadleader [Heer]"
+msgstr "Begleitpionier Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/begleitpio_stg"
+msgid "Begleitpionier [Heer]"
+msgstr "Begleitpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/company_com"
+msgid "Company Commander [Heer]"
+msgstr "Comandante de Compañía [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/company_com_stg"
+msgid "Company Commander [Heer]"
+msgstr "Comandante de Compañía [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/company_hauptfeldwebel"
+msgid "Company Hauptfeldwebel [Heer]"
+msgstr "Compañía Hauptfeldwebel [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/company_tl"
+msgid "Company Teamleader [Heer]"
+msgstr "Jefe de equipo de empresa [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/company_tl_stg"
+msgid "Company Teamleader [Heer]"
+msgstr "Jefe de equipo de empresa [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/ersatz_gren_rifle"
+msgid "Ersatz-Grenadier [Heer]"
+msgstr "Ersatz-Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/ersatz_gren_rifle_pzf"
+msgid "Ersatz-Grenadier [Heer]"
+msgstr "Ersatz-Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/ersatz_gren_rifle_pzf2"
+msgid "Ersatz-Grenadier [Heer]"
+msgstr "Ersatz-Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/ersatz_gren_sl"
+msgid "Ersatz-Grenadier Squadleader [Heer]"
+msgstr "Ersatz-Granadier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/ersatz_gren_sl_asst"
+msgid "Ersatz-Grenadier Asst. Leader [Heer]"
+msgstr "Ersatz-Granadier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_pio_rifle"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_pio_rifle_pzf"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_pio_rifle_scope"
+msgid "Fallschirmpionier [Luftwaffe]"
+msgstr "Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_pio_sl_asst"
+msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_pio_sl_asst_stg"
+msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmpionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_mg"
+msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_mg_asst"
+msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_mg_asst_gren"
+msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_mg34"
+msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_sl"
+msgid "Fallschirmaufklärer Squadleader [Luftwaffe]"
+msgstr "Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst"
+msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst_fg"
+msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst_stg"
+msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmaufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_rifle_pzf"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_sa_pzf"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fallsch_sl_asst_fg"
+msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
+msgstr "Asistente del Líder Fallschirmjäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_mg_asst_smg"
+msgid "Füsilier MG Asst. [Heer]"
+msgstr "Asistente MG Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_sa_scope"
+msgid "Füsilier Asst. Leader [Heer]"
+msgstr "Asistente del líder Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_scope"
+msgid "Füsilier Asst. Leader [Heer]"
+msgstr "Asistente del líder Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_smg"
+msgid "Füsilier Asst. Leader [Heer]"
+msgstr "Asistente del líder Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_smg_pzf"
+msgid "Füsilier [Heer]"
+msgstr "Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_smg_pzf2"
+msgid "Füsilier [Heer]"
+msgstr "Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/fusilier_stg"
+msgid "Füsilier [Heer]"
+msgstr "Füsilier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_at"
+msgid "GD.Pz.Pionier AT inf. [Heer]"
+msgstr "GD.Pz.Pionier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_builder"
+msgid "GD.Pz.Pionier Engineer [Heer]"
+msgstr "GD.Pz.Pionier Ingeniero [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_flame"
+msgid "GD.Pz.Pionier Flamer [Heer]"
+msgstr "GD.Pz.Pionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_mg"
+msgid "GD.Pz.Pionier MG Operator [Heer]"
+msgstr "GD.Pz.Pionier Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_mg_asst"
+msgid "GD.Pz.Pionier MG Asst. [Heer]"
+msgstr "GD.Pz.Pionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_rifle"
+msgid "GD.Pz.Pionier [Heer]"
+msgstr "GD.Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_rifle_pzf"
+msgid "GD.Pz.Pionier [Heer]"
+msgstr "GD.Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_sa"
+msgid "GD.Pz.Pionier [Heer]"
+msgstr "GD.Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_sl"
+msgid "GD.Pz.Pionier Squadleader [Heer]"
+msgstr "GD.Pz.Pionier Líder de escuadra [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gd_pz_pio_sl_asst"
+msgid "GD.Pz.Pionier Asst. Leader [Heer]"
+msgstr "GD.Pz.Pionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg"
+msgid "Gebirgsaufklärer MG Operator [Heer]"
+msgstr "Gebirgsaufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg_asst"
+msgid "Gebirgsaufklärer MG Asst. [Heer]"
+msgstr "Gebirgsaufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg34"
+msgid "Gebirgsaufklärer MG Operator [Heer]"
+msgstr "Gebirgsaufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_rifle"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_rifle_pzf"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_rifle_pzf2"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_sl"
+msgid "Gebirgsaufklärer Squadleader [Heer]"
+msgstr "Gebirgsaufklärer Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_sl_asst"
+msgid "Gebirgsaufklärer Asst. Leader [Heer]"
+msgstr "Asistente del líder Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_sl_asst_smg"
+msgid "Gebirgsaufklärer Asst. Leader [Heer]"
+msgstr "Asistente del líder Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_smg"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_smg_pzf"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gebirgs_recon_smg_pzf2"
+msgid "Gebirgsaufklärer [Heer]"
+msgstr "Gebirgsaufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gren_rifle_pzf"
+msgid "Grenadier [Heer]"
+msgstr "Granadero [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gren_sl_asst"
+msgid "Grenadier Asst. Leader [Heer]"
+msgstr "Asistente del líder de Granaderos [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gren_sl_asst_smg"
+msgid "Grenadier Asst. Leader [Heer]"
+msgstr "Asistente del líder de Granaderos [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/gren_sl_asst_sniper"
+msgid "Grenadier Asst. Leader [Heer]"
+msgstr "Asistente del líder de Granaderos [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/landes_rifle"
+msgid "Landesschütze [Heer]"
+msgstr "Landesschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/landes_sl"
+msgid "Landesschütze Squadleader [Heer]"
+msgstr "Líder Landesschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/landes_sl_asst"
+msgid "Landesschütze Asst. Leader [Heer]"
+msgstr "Asistente del líder Landesschütze [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_at"
+msgid "Pz-Lehr Pz.Pionier AT inf. [Heer]"
+msgstr "Pz-Lehr Pz.Pionier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_builder"
+msgid "Pz-Lehr Pz.Pionier Engineer [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Ingeniero [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_flame"
+msgid "Pz-Lehr Pz.Pionier Flamer [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Lanzallamas [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_mg"
+msgid "Pz-Lehr Pz.Pionier MG Operator [Heer]"
+msgstr "Operador MG Pz-Lehr Pz.Pionier[Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_mg_asst"
+msgid "Pz-Lehr Pz.Pionier MG Asst. [Heer]"
+msgstr "Asistente MG Pz-Lehr Pz.Pionier[Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_rifle"
+msgid "Pz-Lehr Pz.Pionier [Heer]"
+msgstr "Pz-Lehr Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_rifle_pzf"
+msgid "Pz-Lehr Pz.Pionier [Heer]"
+msgstr "Pz-Lehr Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_sa"
+msgid "Pz-Lehr Pz.Pionier [Heer]"
+msgstr "Pz-Lehr Pz.Pionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_sl"
+msgid "Pz-Lehr Pz.Pionier Squadleader [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Líder de Escuadra [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_pio_sl_asst"
+msgid "Pz-Lehr Pz.Pionier Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_mg"
+msgid "Pz-Lehr Pz.Aufklärer MG Operator [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Operador MG [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_mg_asst"
+msgid "Pz-Lehr Pz.Aufklärer MG Asst. [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_rifle"
+msgid "Pz-Lehr Pz.Aufklärer [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_rifle_pzf"
+msgid "Pz-Lehr Pz.Aufklärer [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl"
+msgid "Pz-Lehr Pz.Aufklärer Squadleader [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst"
+msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst_sa"
+msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst_stg"
+msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_stg"
+msgid "Pz-Lehr Pz.Aufklärer Squadleader [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_at"
+msgid "Pz-Lehr Pz.Grenadier AT inf. [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_mg"
+msgid "Pz-Lehr Pz.Grenadier MG Operator [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_mg_asst"
+msgid "Pz-Lehr Pz.Grenadier MG Asst. [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_rifle"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_rifle_pzf"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_rifle_pzf2"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sa"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sa_pzf"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sl"
+msgid "Pz-Lehr Pz.Grenadier Squadleader [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sl_asst"
+msgid "Pz-Lehr Pz.Grenadier Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_stg"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_sl"
+msgid "Pz-Lehr Pz.Sturmgrenadier Squadleader [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_sl_asst"
+msgid "Pz-Lehr Pz.Sturmgrenadier Asst. Leader [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_stg"
+msgid "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_stg_pzf"
+msgid "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_stg_pzf2"
+msgid "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_fus_sl_asst"
+msgid "LW Füsilier Asst. Leader [Luftwaffe]"
+msgstr "LW Füsilier Asistente del Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_mg"
+msgid "LW Jäger MG Operator [Luftwaffe]"
+msgstr "Operador MG LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_mg_asst"
+msgid "LW Jäger MG Asst. [Luftwaffe]"
+msgstr "LW Jäger MG Asst. [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_mg34"
+msgid "LW Jäger MG Operator [Luftwaffe]"
+msgstr "Operador MG LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_rifle"
+msgid "LW Jäger [Luftwaffe]"
+msgstr "LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_rifle_gren"
+msgid "LW Jäger [Luftwaffe]"
+msgstr "LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_rifle_pzf"
+msgid "LW Jäger [Luftwaffe]"
+msgstr "LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_sa"
+msgid "LW Jäger [Luftwaffe]"
+msgstr "LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_sl"
+msgid "LW Jäger Squadleader [Luftwaffe]"
+msgstr "Líder LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_sl_asst"
+msgid "LW Jäger Asst. Leader [Luftwaffe]"
+msgstr "LW Jäger Asistente del Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_sl_asst_scope"
+msgid "LW Jäger Asst. Leader [Luftwaffe]"
+msgstr "LW Jäger Asistente del Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_jag_smg"
+msgid "LW Jäger [Luftwaffe]"
+msgstr "LW Jäger [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_builder"
+msgid "LW Pionier Engineer [Luftwaffe]"
+msgstr "LW Pionier Ingeniero [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_mg"
+msgid "LW Pionier MG Operator [Luftwaffe]"
+msgstr "Operador MG LW Pionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_mg_asst"
+msgid "LW Pionier MG Asst. [Luftwaffe]"
+msgstr "LW Pionier MG Asst. [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_mg34"
+msgid "LW Pionier MG Operator [Luftwaffe]"
+msgstr "Operador MG LW Pionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_rifle"
+msgid "LW Pionier [Luftwaffe]"
+msgstr "LW Pionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_rifle_pzf"
+msgid "LW Pionier [Luftwaffe]"
+msgstr "LW Pionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_sa"
+msgid "LW Pionier [Luftwaffe]"
+msgstr "LW Pionier [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_sl"
+msgid "LW Pionier Squadleader [Luftwaffe]"
+msgstr "LW Pionier Líder de Escuadra [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_pio_sl_asst"
+msgid "LW Pionier Asst. Leader [Luftwaffe]"
+msgstr "LW Pionier Asistente del Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_mg"
+msgid "LW Aufklärer MG Operator [Luftwaffe]"
+msgstr "LW Aufklärer Operador MG [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_mg_asst"
+msgid "LW Aufklärer MG Asst. [Luftwaffe]"
+msgstr "LW Aufklärer MG Asst. [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_rifle"
+msgid "LW Aufklärer [Luftwaffe]"
+msgstr "LW Aufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_rifle_gren"
+msgid "LW Aufklärer [Luftwaffe]"
+msgstr "LW Aufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_rifle_pzf"
+msgid "LW Aufklärer [Luftwaffe]"
+msgstr "LW Aufklärer [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_sl"
+msgid "LW Aufklärer Squadleader [Luftwaffe]"
+msgstr "LW Aufklärer Jefe de Escuadrilla [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/lw_recon_sl_asst"
+msgid "LW Aufklärer Asst. Leader [Luftwaffe]"
+msgstr "LW Aufklärer Asistente del Líder [Luftwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/marine_mg"
+msgid "Marine MG Operator [Kriegsmarine]"
+msgstr "Operador MG de la Marina [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/marine_mg_asst"
+msgid "Marine MG Asst. [Kriegsmarine]"
+msgstr "Marine MG Asst. [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/marine_rifle_pzf"
+msgid "Marine [Kriegsmarine]"
+msgstr "Marina [Kriegsmarine]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/platoon_nco"
+msgid "Platoon Leader [Heer]"
+msgstr "Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/platoon_nco_stg"
+msgid "Platoon Leader [Heer]"
+msgstr "Líder [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/platoon_officer"
+msgid "Platoon Commander [Heer]"
+msgstr "Comandante de Pelotón [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/platoon_officer_stg"
+msgid "Platoon Commander [Heer]"
+msgstr "Comandante de Pelotón [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_at"
+msgid "Panzerpionier AT inf. [Heer]"
+msgstr "Panzerpionier AT inf. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_flame"
+msgid "Panzerpionier Flamer [Heer]"
+msgstr "Panzerpionier Flamer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_gren"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_mg"
+msgid "Panzerpionier MG Operator [Heer]"
+msgstr "Panzerpionier MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_mg_asst"
+msgid "Panzerpionier MG Asst. [Heer]"
+msgstr "Panzerpionier MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_mine"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_pzf"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_rifle"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_rifle_gren"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_sa"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_sl"
+msgid "Panzerpionier Squadleader [Heer]"
+msgstr "Líder de escuadrón Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_sl_asst"
+msgid "Panzerpionier Asst. Leader [Heer]"
+msgstr "Panzerpionier Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_pio_sl_stg"
+msgid "Panzerpionier Squadleader [Heer]"
+msgstr "Líder de escuadrón Panzerpionier [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_mg"
+msgid "Panzeraufklärer MG Operator [Heer]"
+msgstr "Panzeraufklärer MG Operator [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_mg_asst"
+msgid "Panzeraufklärer MG Asst. [Heer]"
+msgstr "Panzeraufklärer MG Asst. [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_rifle"
+msgid "Panzeraufklärer [Heer]"
+msgstr "Panzeraufklärer [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_rifle"
+msgid "Panzeraufklärer Asst. Leader [Heer]"
+msgstr "Panzeraufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_sa"
+msgid "Panzeraufklärer Asst. Leader [Heer]"
+msgstr "Panzeraufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_stg"
+msgid "Panzeraufklärer Asst. Leader [Heer]"
+msgstr "Panzeraufklärer Asst. Leader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_sl_rifle"
+msgid "Panzeraufklärer Squadleader [Heer]"
+msgstr "Panzeraufklärer Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/pz_recon_sl_smg"
+msgid "Panzeraufklärer Squadleader [Heer]"
+msgstr "Panzeraufklärer Squadleader [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/tank_commander_pzjag"
+msgid "Tank Commander [Panzerwaffe]"
+msgstr "Comandante de Tanques [Panzerwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/tank_commander_scout"
+msgid "Tank Commander [Heer]"
+msgstr "Comandante de Tanque [Heer]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/tankman_pzjag"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tankman [Panzerwaffe]"
+
+#, fuzzy
+msgctxt "desc/human/mp/ger/late/tankman_scout"
+msgid "Tankman [Heer]"
+msgstr "Tankman [Heer]"

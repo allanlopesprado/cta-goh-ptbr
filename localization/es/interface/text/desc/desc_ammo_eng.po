@@ -1,0 +1,566 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Commonwealth ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "desc/ammo/flare_eng artillery_88"
+msgid "Flare (Eng 25-pdr)"
+msgstr "Bengala (cañón 25 libras)"
+
+msgctxt "desc/ammo/flare_eng artillery_114"
+msgid "Flare (Eng 4.5-inch)"
+msgstr "Bengala (cañón 4,5 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng artillery_127"
+msgid "Flare (Eng 5-inch)"
+msgstr "Bengala (cañón 5 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng artillery_140"
+msgid "Flare (Eng 5.5-inch)"
+msgstr "Bengala (cañón 5,5 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng artillery_152"
+msgid "Flare (Eng 6-inch)"
+msgstr "Bengala (cañón 6 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng artillery_183"
+msgid "Flare (Eng 7.2-inch)"
+msgstr "Bengala (cañón 7,2 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng artillery_203"
+msgid "Flare (Eng 8-inch)"
+msgstr "Bengala (cañón 8 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng mortar_81"
+msgid "Flare (Eng Mortar 3-inch)"
+msgstr "Bengala (mortero inglés de 3 pulgadas)"
+
+msgctxt "desc/ammo/flare_eng mortar_107"
+msgid "Flare (Eng Mortar 4.2-inch)"
+msgstr "Bengala (mortero inglés de 4,2 pulgadas)"
+
+msgctxt "desc/ammo/7_65mm_pistol"
+msgid ".32 ACP Welrod Magazine"
+msgstr "Cargador Welrod .32 ACP"
+
+msgctxt "desc/ammo/eng_revolver_clip_38"
+msgid ".38 Revolver Mk.IIz Clip"
+msgstr "Revólver .38 Mk.IIz Clip"
+
+msgctxt "desc/ammo/eng_revolver_clip_45"
+msgid ".455 Webley Revolver Clip"
+msgstr "Cargador para revólver Webley .455"
+
+msgctxt "desc/ammo/sten_mag eng_smg"
+msgid "9mm Sten Magazine"
+msgstr "Cargador Sten de 9 mm"
+
+msgctxt "desc/ammo/lanchester_mag eng_smg"
+msgid "9mm Lanchester Magazine"
+msgstr "Cargador Lanchester de 9 mm"
+
+msgctxt "desc/ammo/de_lisle_carbine_mag"
+msgid ".45 ACP De Lisle Carbine Magazine"
+msgstr "Cargador para carabina De Lisle calibre .45 ACP"
+
+msgctxt "desc/ammo/rifle_eng clip"
+msgid ".303 Mk.VII Rifle Clip"
+msgstr "Cargador para rifle .303 Mk.VII"
+
+msgctxt "desc/ammo/mgun_eng belt"
+msgid ".303 Mk.VIIIz Belt"
+msgstr "Cinturón .303 Mk.VIIIz"
+
+msgctxt "desc/stuff/mgun_ger belt mk2"
+msgid "7.92mm Mk.IIz Belt"
+msgstr "Cinturón Mk.IIz de 7,92 mm"
+
+msgctxt "desc/ammo/hmgun_eng"
+msgid "S.A. AP .5 inch W.I Belt"
+msgstr "Cinturón S.A. AP .5 pulgadas W.I"
+
+msgctxt "desc/stuff/hmgun_eng"
+msgid "S.A. AP .5 inch W.I Belt"
+msgstr "Cinturón S.A. AP .5 pulgadas W.I"
+
+msgctxt "desc/ammo/bulleteng_15_auto ap"
+msgid "S.A. AP 15mm W.G Mk.IZ Belt"
+msgstr "Cinturón S.A. AP 15 mm W.G Mk.IZ"
+
+msgctxt "desc/stuff/bulleteng_15_auto ap"
+msgid "S.A. AP 15mm W.G Mk.IZ Belt"
+msgstr "Cinturón S.A. AP 15 mm W.G Mk.IZ"
+
+msgctxt "desc/ammo/bren_mag"
+msgid ".303 Bren Magazine"
+msgstr "Cargador Bren .303"
+
+msgctxt "desc/ammo/bren_drum_mag"
+msgid ".303 Bren Drum Magazine"
+msgstr "Cargador de tambor Bren .303"
+
+msgctxt "desc/ammo/vickers_berthier_mag"
+msgid ".303 Vickers-Berthier Magazine"
+msgstr "Cargador Vickers-Berthier .303"
+
+msgctxt "desc/ammo/lewis_mag"
+msgid ".303 Lewis Gun Magazine"
+msgstr "Cargador para ametralladora Lewis calibre .303"
+
+msgctxt "desc/ammo/vickers_go_mag"
+msgid ".303 Vickers GO Magazine"
+msgstr "Cargador .303 Vickers GO "
+
+msgctxt "desc/ammo/atrifle_eng ap2"
+msgid "RG .55 Boys Mk.II AP rounds"
+msgstr "Balas AP RG .55 Boys Mk.II"
+
+msgctxt "desc/ammo/atrifle_eng ap"
+msgid "RG .55 Boys Mk.I AP rounds"
+msgstr "Balas AP RG .55 Boys Mk.I"
+
+msgctxt "desc/ammo/atrifle_eng"
+msgid "RG .55 Boys AP rounds"
+msgstr "Balas AP RG .55 Boys"
+
+msgctxt "desc/ammo/bullet_37x257 eng ap"
+msgid "37mm AP Shot Mk.I [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
+msgstr ""
+"Proyectil AP 37 mm AP Shot Mk.I [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bullet_37x257 eng he"
+msgid "37mm HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+msgstr "Proyectil HE Mk.I de 37 mm [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bullet_40x158mm_auto eng he"
+msgid "40mm HE Shell [<c(ff1200)>HE</c>] <c(65696d)>L/39</c>"
+msgstr "Proyectil HE de 40 mm [<c(ff1200)>HE</c>] <c(65696d)>L/39</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng apbc"
+msgid "40mm APBC Shot Mk.V.T [<c(ff6a00)>APBC</c>] <c(65696d)>L/60</c>"
+msgstr ""
+"Proyectil 40 mm APBC Shot Mk.V.T [<c(ff6a00)>APBC</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng he"
+msgid "40mm HE Shell Mk.X.T [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+msgstr "Proyectil HE Mk.X.T de 40 mm [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng sap"
+msgid "40mm SAP Shot Mk.IX.T [<c(ff6a00)>SAP</c>] <c(65696d)>L/60</c>"
+msgstr ""
+"Proyectil 40 mm SAP Shot Mk.IX.T [<c(ff6a00)>SAP</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bullet_57x307 eng ap"
+msgid "6-pdr Hotchkiss AP Shot[<c(ff6a00)>AP</c>] <c(65696d)>L/40</c>"
+msgstr ""
+"Proyectil AP Hotchkiss de 6 libras [<c(ff6a00)>AP</c>] <c(65696d)>L/40</c>"
+
+msgctxt "desc/ammo/bullet_57x307 eng he"
+msgid "6-pdr Hotchkiss HE Shell [<c(ff1200)>HE</c>] <c(65696d)>L/40</c>"
+msgstr ""
+"Proyectil HE Hotchkiss de 6 libras [<c(ff1200)>HE</c>] <c(65696d)>L/40</c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng ap"
+msgid "6-pdr AP Shot Mk.II.T [<c(ff6a00)>AP</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr AP Shot Mk.II.T [<c(ff6a00)>AP</c>] <c(65696d)>L/43 L/50</c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng apc"
+msgid "6-pdr APC Shot Mk.VIII.T [<c(ff6a00)>APC</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr APC Shot Mk.VIII.T [<c(ff6a00)>APC</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng apcbc"
+msgid ""
+"6-pdr APCBC Shot Mk.IX.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil APCBC de 6 libras Mk.IX.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng apcr"
+msgid "6-pdr APCR Shot Mk.I.T [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr APCR Shot Mk.I.T [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/50</"
+"c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng apds"
+msgid "6-pdr APDS Shot Mk.I.T [<c(48c445)>APDS</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil APDS Mk.I.T de 6 libras [<c(48c445)>APDS</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bullet_57x441 eng he"
+msgid "6-pdr HE Shell Mk.X.T [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil HE Mk.X.T de 6 libras [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto ap"
+msgid "20mm AP Shot Mk.IX.T belt [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr ""
+"Cinturón AP Shot Mk.IX.T de 20 mm [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto he"
+msgid "20mm HE/HE-T Shell belt [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr ""
+"Cinturón de proyectiles HE/HE-T de 20 mm [<c(ff1200)>HE</c>] <c(65696d)>L/"
+"70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto hei"
+msgid "20mm HEI/HEI-T Shell belt [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr ""
+"Cinturón de proyectiles HEI/HEI-T de 20 mm [<c(ff1200)>HE-I</c>] "
+"<c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulletusa_37 littlejohn apcr"
+msgid "37mm APSV Shot Mk.I.T [<c(48c445)>APCNR</c>] <c(65696d)>L/53</c>"
+msgstr ""
+"Proyectil 37 mm APSV Shot Mk.I.T [<c(48c445)>APCNR</c>] <c(65696d)>L/53</c>"
+
+msgctxt "desc/ammo/bulleteng_40 ap"
+msgid "2-pdr APHV Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil 2-pdr APHV Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_40 ap2"
+msgid "2-pdr AP Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+msgstr "Proyectil 2-pdr AP Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_40 apcbc"
+msgid "2-pdr APCBC Shot Mk.I.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil APCBC Mk.I.T de 2 libras [<c(ff6a00)>APCBC</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_40 he"
+msgid "2-pdr HE Shell Mk.II.T [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil HE Mk.II.T de 2 libras [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_40 littlejohn apcr"
+msgid "2-pdr APSV Shot Mk.I.T [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil 2-pdr APSV Shot Mk.I.T [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_40 littlejohn apcr2"
+msgid "2-pdr APSV Shot Mk.II.T [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil 2-pdr APSV Shot Mk.II.T [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_57 ap"
+msgid "6-pdr AP Shot Mk.II.T [<c(ff6a00)>AP</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr AP Shot Mk.II.T [<c(ff6a00)>AP</c>] <c(65696d)>L/43 L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_57 apc"
+msgid "6-pdr APC Shot Mk.VIII.T [<c(ff6a00)>APC</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr APC Shot Mk.VIII.T [<c(ff6a00)>APC</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bulleteng_57 apcbc"
+msgid ""
+"6-pdr APCBC Shot Mk.IX.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil APCBC de 6 libras Mk.IX.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bulleteng_57 apcr"
+msgid "6-pdr APCR Shot Mk.I.T [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil 6-pdr APCR Shot Mk.I.T [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/50</"
+"c>"
+
+msgctxt "desc/ammo/bulleteng_57 apds"
+msgid "6-pdr APDS Shot Mk.I.T [<c(48c445)>APDS</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil APDS Mk.I.T de 6 libras [<c(48c445)>APDS</c>] <c(65696d)>L/43 L/"
+"50</c>"
+
+msgctxt "desc/ammo/bulleteng_57 he"
+msgid "6-pdr HE Shell Mk.X.T [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/50</c>"
+msgstr ""
+"Proyectil HE Mk.X.T de 6 libras [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_76 ap"
+msgid "17-pdr AP Shot Mk.III.T [<c(ff6a00)>AP</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil AP Mk.III.T de 17 libras [<c(ff6a00)>AP</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulleteng_76 apc"
+msgid "17-pdr APC Shot Mk.IV.T [<c(ff6a00)>APC</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil de 17-pdr Mk.IV.T [<c(ff6a00)>Cañón antitanque</c>] <c(65696d)>L/"
+"55</c>"
+
+msgctxt "desc/ammo/bulleteng_76 apcbc"
+msgid "17-pdr APCBC Shot Mk.VIII.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil APCBC de 17 libras Mk.VIII.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/"
+"55</c>"
+
+msgctxt "desc/ammo/bulleteng_76 apds"
+msgid "17-pdr APDS Shot Mk.I.T [<c(48c445)>APDS</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil APDS Mk.I.T de 17 libras [<c(48c445)>APDS</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulleteng_76 he"
+msgid "17-pdr HE Shell Mk.II.T [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil HE Mk.II.T de 17 libras [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulleteng_76 he2"
+msgid "17-pdr HE/HC Shell Mk.I.T [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+msgstr ""
+"Proyectil HE/HC Mk.I.T de 17 libras [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulleteng_76_l25 he"
+msgid "3-inch HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/25</c>"
+msgstr ""
+"Proyectil HE Mk.I de 3 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/25</c>"
+
+msgctxt "desc/ammo/bulleteng_76_l25 sm"
+msgid "3-inch Smoke Shell Mk.I [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/25</c>"
+msgstr ""
+"Proyectil de humo de 3 pulgadas Mk.I [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/25</"
+"c>"
+
+msgctxt "desc/ammo/bulleteng_77 apcbc"
+msgid "77mm HV APCBC Shot Mk.VIII.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/49</c>"
+msgstr ""
+"Proyectil APCBC de 77 mm Mk.VIII.T [<c(ff6a00)>APCBC</c>] <c(65696d)>L/49</c>"
+
+msgctxt "desc/ammo/bulleteng_77 apds"
+msgid "77mm HV APDS Shot Mk.I.T [<c(48c445)>APDS</c>] <c(65696d)>L/49</c>"
+msgstr ""
+"Proyectil 77 mm HV APDS Shot Mk.I.T [<c(48c445)>APDS</c>] <c(65696d)>L/49</c>"
+
+msgctxt "desc/ammo/bulleteng_77 he"
+msgid "77mm HV HE Shell Mk.II.T [<c(ff1200)>HE</c>] <c(65696d)>L/49</c>"
+msgstr ""
+"Proyectil HV HE Mk.II.T de 77 mm [<c(ff1200)>HE</c>] <c(65696d)>L/49</c>"
+
+msgctxt "desc/ammo/bullet_84x294 eng ap"
+msgid "18-pdr AP Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/28</c>"
+msgstr ""
+"Proyectil AP Mk.I.T de 18 libras [<c(ff6a00)>AP</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bullet_84x294 eng he"
+msgid "18-pdr HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr "Proyectil HE Mk.I de 18 libras [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulleteng_88 ap"
+msgid "25-pdr AP Shot Mk.I.T [<c(ff6a00)>AP</c>] <c(65696d)>L/28</c>"
+msgstr ""
+"Proyectil AP Mk.I.T de 25 libras [<c(ff6a00)>AP</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulleteng_88 he"
+msgid "25-pdr HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr ""
+"Proyectil HE Mk.I.D de 25 libras [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulleteng_88 sm"
+msgid "25-pdr Smoke Shell Mk.I.D [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/28</c>"
+msgstr ""
+"Proyectil de humo de 25 libras Mk.I.D [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/"
+"28</c>"
+
+msgctxt "desc/ammo/bulleteng_94 he"
+msgid "3.7-inch HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/11.7</c>"
+msgstr ""
+"Proyectil HE Mk.I de 3,7 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/11,7</c>"
+
+msgctxt "desc/ammo/bulleteng_94 heat"
+msgid "3.7-inch H.E/A.T. Shell [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/11.7</c>"
+msgstr ""
+"Proyectil de 3,7 pulgadas H.E/A.T. Shell [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/"
+"11,7</c>"
+
+msgctxt "desc/ammo/bulleteng_94 wp"
+msgid "3.7-inch Smoke Shell Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/11.7</c>"
+msgstr ""
+"Proyectil 3,7 pulgadas Smoke Shell Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/"
+"11,7</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 ap"
+msgid "3.7-inch AP Shot Mk.V.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil 3,7 pulgadas AP Shot Mk.V.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 he"
+msgid "3.7-inch HE Shell Mk.V [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil HE Mk.V de 3,7 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 aphe"
+msgid "3.7-inch SAP Shot Mk.IV.T [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
+msgstr ""
+"Proyectil SAP Shot Mk.IV.T de 3,7 pulgadas [<c(ff6a00)>APHE</c>] "
+"<c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_95 he"
+msgid "95mm HE Shell Mk.XI.D [<c(ff1200)>HE</c>] <c(65696d)>L/18</c>"
+msgstr "Proyectil HE Mk.XI.D de 95 mm [<c(ff1200)>HE</c>] <c(65696d)>L/18</c>"
+
+msgctxt "desc/ammo/bulleteng_95 heat"
+msgid "95mm H.E/A.T. Shell [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/18</c>"
+msgstr "Proyectil H.E/A.T. de 95 mm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/18</c>"
+
+msgctxt "desc/ammo/bulleteng_95 sm"
+msgid ""
+"95mm Smoke emission Shell Mk.I [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/18</c>"
+msgstr ""
+"Proyectil de humo de 95 mm Mk.I [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/18</c>"
+
+msgctxt "desc/ammo/bullet_114x86 eng he"
+msgid "4.5-inch HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/13.2</c>"
+msgstr ""
+"Proyectil HE Mk.I.D de 4,5 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/13,2</c>"
+
+msgctxt "desc/ammo/bullet_114x86 eng wp"
+msgid ""
+"4.5-inch Smoke Bursting Shell Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/13.2</"
+"c>"
+msgstr ""
+"Proyectil fumígeno de 4,5 pulgadas Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/"
+"13,2</c>"
+
+msgctxt "desc/ammo/bulleteng_114 he"
+msgid "4.5-inch HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/43</c>"
+msgstr ""
+"Proyectil HE Mk.I.D de 4,5 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/43</c>"
+
+msgctxt "desc/ammo/bulleteng_120 he"
+msgid "4.7-inch 50-lb HE Shell [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+msgstr ""
+"Proyectil HE de 4,7 pulgadas y 50 libras [<c(ff1200)>HE</c>] <c(65696d)>L/"
+"45</c>"
+
+msgctxt "desc/ammo/bulleteng_127 he"
+msgid "5-inch 56-lb HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/37</c>"
+msgstr ""
+"Proyectil HE Mk.I.D de 5 pulgadas y 56 libras [<c(ff1200)>HE</c>] "
+"<c(65696d)>L/37</c>"
+
+msgctxt "desc/ammo/bulleteng_140 he"
+msgid "5.5-inch HE 100-lb Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/30</c>"
+msgstr ""
+"Proyectil HE de 5,5 pulgadas y 100 libras Mk.I.D [<c(ff1200)>HE</c>] "
+"<c(65696d)>L/30</c>"
+
+msgctxt "desc/ammo/bulleteng_140 he2"
+msgid "5.5-inch HE 80-lb Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/30</c>"
+msgstr ""
+"Proyectil HE de 5,5 pulgadas y 80 libras Mk.I.D [<c(ff1200)>HE</c>] "
+"<c(65696d)>L/30</c>"
+
+msgctxt "desc/ammo/bulleteng_140 sm"
+msgid "5.5-inch Smoke Shell Mk.I.D [SMOKE] <c(65696d)>L/30</c>"
+msgstr "Proyectil de humo de 5,5 pulgadas Mk.I.D [SMOKE] <c(65696d)>L/30</c>"
+
+msgctxt "desc/ammo/bulleteng_152 he"
+msgid "6-inch HE Shell Mk.II.D [<c(ff1200)>HE</c>] <c(65696d)>L/13</c>"
+msgstr ""
+"Proyectil HE Mk.II.D de 6 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/13</c>"
+
+msgctxt "desc/ammo/bulleteng_152 he2"
+msgid "6-inch HE Shell Mk.XX.B [<c(ff1200)>HE</c>] <c(65696d)>L/35</c>"
+msgstr ""
+"Proyectil HE de 6 pulgadas Mk.XX.B [<c(ff1200)>HE</c>] <c(65696d)>L/35</c>"
+
+msgctxt "desc/ammo/bulleteng_183 he"
+msgid "7.2-inch HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/22</c>"
+msgstr ""
+"Proyectil HE Shell Mk.I de 7,2 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/22</"
+"c>"
+
+msgctxt "desc/ammo/bulleteng_203 he"
+msgid "8-inch HE Shell Mk.III [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"
+msgstr ""
+"Proyectil HE Mk.III de 8 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"
+
+msgctxt "desc/ammo/bulleteng_230 he"
+msgid "No. 1 Demolition Bomb [<c(ff1200)>HE</c>] <c(65696d)>Flying Dustbin</c>"
+msgstr ""
+"Bomba de demolición n.º 1 [<c(ff1200)>HE</c>] <c(65696d)>Cubo de basura "
+"volador</c>"
+
+msgctxt "desc/ammo/mgun_ger belt mk2"
+msgid "7.92mm S.A. Mk.IIz Belt-Fed Rounds"
+msgstr "Cartuchos de 7,92 mm S.A. Mk.IIz alimentados por cinta"
+
+msgctxt "desc/ammo/mortareng_50 he"
+msgid "2-inch HE Bomb [<c(ff1200)>HE</c>]"
+msgstr "Bomba HE de 2 pulgadas [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/mortareng_50 sm"
+msgid "2-inch Smoke Bomb [<c(FFFFFF)>SMOKE</c>]"
+msgstr "Bomba de humo de 2 pulgadas [<c(FFFFFF)>SMOKE</c>]"
+
+msgctxt "desc/ammo/mortareng_50 wp"
+msgid "2-inch Bursting Smoke Bomb [<c(FFFFFF)>WP</c>]"
+msgstr "Bomba de humo explosiva de 2 pulgadas [<c(FFFFFF)>WP</c>]"
+
+msgctxt "desc/ammo/mortareng_81 he"
+msgid "3-inch HE Bomb [<c(ff1200)>HE</c>]"
+msgstr "Bomba HE de 3 pulgadas [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/mortareng_81 sm"
+msgid "3-inch Smoke Bomb [<c(FFFFFF)>SMOKE</c>]"
+msgstr "Bomba de humo de 3 pulgadas [<c(FFFFFF)>SMOKE</c>]"
+
+msgctxt "desc/ammo/mortareng_81 wp"
+msgid "3-inch Bursting Smoke Bomb [<c(FFFFFF)>WP</c>]"
+msgstr "Bomba de humo explosiva de 3 pulgadas [<c(FFFFFF)>WP</c>]"
+
+msgctxt "desc/ammo/mortareng_107 he"
+msgid "4.2-inch HE Bomb [<c(ff1200)>HE</c>]"
+msgstr "Bomba HE de 4,2 pulgadas [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/mortareng_107 sm"
+msgid "4.2-inch Smoke Bomb [<c(FFFFFF)>SMOKE</c>]"
+msgstr "Bomba de humo de 4,2 pulgadas [<c(FFFFFF)>SMOKE</c>]"
+
+msgctxt "desc/ammo/mortareng_107 wp"
+msgid "4.2-inch Bursting Smoke Bomb [<c(FFFFFF)>WP</c>]"
+msgstr "Bomba de humo explosiva de 4,2 pulgadas [<c(FFFFFF)>WP</c>]"
+
+msgctxt "desc/stuff/mgun_ger belt mk2"
+msgid "7.92mm S.A. Mk.IIz Belt-Fed Rounds"
+msgstr "Cartuchos de 7,92 mm S.A. Mk.IIz alimentados por cinta"
+
+msgctxt "desc/ammo/eng_grenade he"
+msgid "[<c(ff1200)>HE</c>] Rifle Grenade No.36M Mk.I"
+msgstr "[<c(ff1200)>HE</c>] Granada de fusil n.º 36M Mk.I"
+
+msgctxt "desc/ammo/eng_grenade heat"
+msgid "[<c(c9a6ff)>HEAT</c>] Rifle Grenade No.68/AT"
+msgstr "[<c(c9a6ff)>HEAT</c>] Granada de fusil n.º 68/AT"
+
+msgctxt "desc/ammo/piat_bomb heat"
+msgid "[<c(c9a6ff)>HEAT</c>] PIAT Bomb Mk.IA"
+msgstr "[<c(c9a6ff)>HEAT</c>] Bomba PIAT Mk.IA"
+
+msgctxt "desc/ammo/piat_bomb heata"
+msgid "[<c(c9a6ff)>HEAT</c>] PIAT Bomb Mk.IV"
+msgstr "[<c(c9a6ff)>HEAT</c>] Bomba PIAT Mk.IV"
+
+msgctxt "desc/ammo/76mm_rp3 he"
+msgid "RP-3 60lb Rocket [<c(ff1200)>HE</c>]"
+msgstr "Cohete RP-3 de 60 libras [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_eng_250lb"
+msgid "250lb GP Mk.IV Bomb"
+msgstr "Bomba GP Mk.IV de 250 libras"
+
+msgctxt "desc/ammo/air_bomb_eng_500lb"
+msgid "500lb MC Bomb"
+msgstr "Bomba MC de 500 libras"

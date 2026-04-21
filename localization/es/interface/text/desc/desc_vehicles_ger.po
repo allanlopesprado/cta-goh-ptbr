@@ -1,0 +1,1089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_vehicles_ger)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/entity/20mm_flakvierling38"
+msgid "2cm Flakvierling 38"
+msgstr "2cm Flakvierling 38"
+
+msgctxt "info/special/20mm_flakvierling38"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr "<c(c3baae)>Cañón antiaéreo ligero</c>"
+
+msgctxt "desc/entity/105mm_lefh18_40"
+msgid "10.5cm LeFH 18/40"
+msgstr "10.5cm LeFH 18/40"
+
+msgctxt "info/special/105mm_lefh18_40"
+msgid "<c(c3baae)>Light Field Howitzer</c>"
+msgstr "<c(c3baae)>Artillería ligera de campo</c>"
+
+msgctxt "desc/entity/210mm_k39"
+msgid "21cm Kanone 39"
+msgstr "21cm Kanone 39"
+
+msgctxt "info/special/210mm_k39"
+msgid "<c(c3baae)>Heavy Howitzer</c>"
+msgstr "<c(c3baae)>Artillería pesada</c>"
+
+msgctxt "desc/entity/citroen_7_ger"
+msgid "Citroën 7 (WH)"
+msgstr "Citroën 7 (WH)"
+
+msgctxt "info/special/citroen_7_ger"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/inf_crate_ger"
+msgid "German Ammo Crate"
+msgstr "Caja de munición Wehrmacht"
+
+msgctxt "info/special/inf_crate_ger"
+msgid "<c(c3baae)>Supply</c>"
+msgstr "<c(c3baae)>Suministro</c>"
+
+msgctxt "desc/entity/sdah_57_1"
+msgid "Sd.Ah. 51/1 Ammo Trailer"
+msgstr "Remolque de munición Sd.Ah. 51/1"
+
+msgctxt "desc/entity/mg34_lafette"
+msgid "Lafette MG 34"
+msgstr "Lafette MG 34"
+
+msgctxt "info/special/mg34_lafette"
+msgid "<c(c3baae)>Heavy MG</c>"
+msgstr "<c(c3baae)>Ametralladora pesada</c>"
+
+msgctxt "desc/entity/mg42_lafette"
+msgid "Lafette MG 42"
+msgstr "Lafette MG 42"
+
+msgctxt "info/special/mg42_lafette"
+msgid "<c(c3baae)>Heavy MG</c>"
+msgstr "<c(c3baae)>Ametralladora pesada</c>"
+
+msgctxt "desc/entity/heavy_mg_mg34"
+msgid "Lafette MG 34"
+msgstr "Lafette MG 34"
+
+msgctxt "info/special/heavy_mg_mg34"
+msgid "<c(c3baae)>Heavy MG</c>"
+msgstr "<c(c3baae)>Ametralladora pesada</c>"
+
+msgctxt "desc/entity/20mm_flak30"
+msgid "2cm FlaK 30"
+msgstr "FlaK 30 de 2 cm"
+
+msgctxt "info/special/20mm_flak30"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AA</c>"
+
+msgctxt "desc/entity/20mm_flak38"
+msgid "2cm FlaK 38"
+msgstr "FlaK 38 de 2 cm"
+
+msgctxt "info/special/20mm_flak38"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AA</c>"
+
+msgctxt "desc/entity/flak38"
+msgid "2cm FlaK 38 Vierling"
+msgstr "FlaK 38 Vierling 2 cm"
+
+msgctxt "desc/entity/28mm_pzb41"
+msgid "2.8cm sPzB 41"
+msgstr "sPzB 41 2,8 cm "
+
+msgctxt "info/special/28mm_pzb41"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AT</c>"
+
+msgctxt "desc/entity/37mm_flak37"
+msgid "3.7cm FlaK 37"
+msgstr "FlaK 37 de 3,7 cm"
+
+msgctxt "info/special/37mm_flak37"
+msgid "<c(c3baae)>Medium AA Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AA</c>"
+
+msgctxt "desc/entity/37mm_pak36"
+msgid "3.7cm PaK 36"
+msgstr "PaK 36 de 3,7 cm"
+
+msgctxt "info/special/37mm_pak36"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AT</c>"
+
+msgctxt "desc/entity/37mm_pak36_late"
+msgid "3.7cm PaK 36"
+msgstr "PaK 36 de 3,7 cm"
+
+msgctxt "info/special/37mm_pak36_late"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AT</c>"
+
+msgctxt "desc/entity/47mm_pakt"
+msgid "4.7cm PaK 38(t)"
+msgstr "PaK 38(t) de 4,7 cm"
+
+msgctxt "info/special/47mm_pakt"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr "<c(c3baae)>Cañón ligero AT</c>"
+
+msgctxt "desc/entity/50mm_pak38"
+msgid "5cm PaK 38"
+msgstr "PaK 38 de 5 cm"
+
+msgctxt "info/special/50mm_pak38"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AT</c>"
+
+msgctxt "desc/entity/50mm_pak38_late"
+msgid "5cm PaK 38"
+msgstr "PaK 38 de 5 cm"
+
+msgctxt "info/special/50mm_pak38_late"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AT</c>"
+
+msgctxt "desc/entity/75mm_legebig18"
+msgid "7.5cm le Gebirgs IG 18"
+msgstr "Le Gebirgs IG 18 de 7,5 cm"
+
+msgctxt "info/special/75mm_legebig18"
+msgid "<c(c3baae)>Light Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería ligero</c>"
+
+msgctxt "desc/entity/75mm_legebig18_snow"
+msgid "7.5cm le Gebirgs IG 18"
+msgstr "Le Gebirgs IG 18 de 7,5 cm"
+
+msgctxt "info/special/75mm_legebig18_snow"
+msgid "<c(c3baae)>Light Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería ligero</c>"
+
+msgctxt "desc/entity/75mm_leig18"
+msgid "7.5cm leIG 18"
+msgstr "LeIG 18 de 7,5 cm"
+
+msgctxt "info/special/75mm_leig18"
+msgid "<c(c3baae)>Light Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería ligero</c>"
+
+msgctxt "desc/entity/75mm_pak40"
+msgid "7.5cm PaK 40"
+msgstr "PaK 40 de 7,5 cm"
+
+msgctxt "info/special/75mm_pak40"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AT</c>"
+
+msgctxt "desc/entity/75mm_pak9738"
+msgid "7.5cm PaK 97/38"
+msgstr "PaK 97/38 de 7,5 cm"
+
+msgctxt "info/special/75mm_pak9738"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AT</c>"
+
+msgctxt "desc/entity/75mm_pak9738_late"
+msgid "7.5cm PaK 97/38"
+msgstr "PaK 97/38 de 7,5 cm"
+
+msgctxt "info/special/75mm_pak9738_late"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr "<c(c3baae)>Cañón mediano AT</c>"
+
+msgctxt "desc/entity/80mm_sgrw34"
+msgid "8cm sGrW 34"
+msgstr "sGrW 34 de 8 cm"
+
+msgctxt "info/special/80mm_sgrw34"
+msgid "<c(c3baae)>Medium Mortar</c>"
+msgstr "<c(c3baae)>Mortero mediano</c>"
+
+msgctxt "desc/entity/80mm_sgrw34_mortar_barrage"
+msgid "Medium Mortar Barrage"
+msgstr "Andanada de mortero medio"
+
+msgctxt "desc/squad/80mm_sgrw34_mortar_barrage"
+msgid "8cm sGrW 34"
+msgstr "sGrW 34 de 8 cm"
+
+msgctxt "desc/entity/80mm_sgrw34_rapid"
+msgid "8cm sGrW 34"
+msgstr "sGrW 34 de 8 cm"
+
+msgctxt "info/special/80mm_sgrw34_rapid"
+msgid "<c(c3baae)>Medium Mortar</c>"
+msgstr "<c(c3baae)>Mortero mediano</c>"
+
+msgctxt "desc/entity/88mm_flak18"
+msgid "8.8cm FlaK 18"
+msgstr "FlaK 18 de 8,8 cm"
+
+msgctxt "info/special/88mm_flak18"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr "<c(c3baae)>Cañón AA pesado</c>"
+
+msgctxt "desc/entity/88mm_flak36"
+msgid "8.8cm FlaK 36"
+msgstr "FlaK 36 de 8,8 cm"
+
+msgctxt "info/special/88mm_flak36"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr "<c(c3baae)>Cañón AA pesado</c>"
+
+msgctxt "desc/entity/88mm_pak43"
+msgid "8.8cm PaK 43"
+msgstr "PaK 43 de 8,8 cm"
+
+msgctxt "info/special/88mm_pak43"
+msgid "<c(c3baae)>Heavy AT Gun</c>"
+msgstr "<c(c3baae)>Cañón AT pesado</c>"
+
+msgctxt "desc/entity/105mm_lefh18"
+msgid "10.5cm LeFH 18"
+msgstr "LeFH 18 de 10,5 cm"
+
+msgctxt "info/special/105mm_lefh18"
+msgid "<c(c3baae)>Light Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús ligero terrestre</c>"
+
+msgctxt "desc/entity/105mm_lefh18_smoke_barrage"
+msgid "Medium Smoke Barrage"
+msgstr "Medium Smoke Barrage"
+
+msgctxt "desc/squad/105mm_lefh18_smoke_barrage"
+msgid "10.5cm LeFH 18"
+msgstr "LeFH 18 de 10,5 cm"
+
+msgctxt "desc/entity/105mm_lefh18_artillery_barrage"
+msgid "Medium Artillery Barrage"
+msgstr "Andanada de artillería media"
+
+msgctxt "desc/squad/105mm_lefh18_artillery_barrage"
+msgid "10.5cm LeFH 18"
+msgstr "LeFH 18 de 10,5 cm"
+
+msgctxt "desc/entity/105mm_lefh18m"
+msgid "10.5cm LeFH 18/M"
+msgstr "LeFH 18/M de 10,5 cm"
+
+msgctxt "info/special/105mm_lefh18m"
+msgid "<c(c3baae)>Light Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús ligero terrestre</c>"
+
+msgctxt "desc/entity/120mm_sgrw42"
+msgid "12cm sGrW 42"
+msgstr "sGrW 42 de 12 cm"
+
+msgctxt "info/special/120mm_sgrw42"
+msgid "<c(c3baae)>Heavy Mortar</c>"
+msgstr "<c(c3baae)>Mortero pesado</c>"
+
+msgctxt "desc/entity/120mm_sgrw42_mortar_barrage"
+msgid "Heavy Mortar Barrage"
+msgstr "Andanada de mortero pesado"
+
+msgctxt "desc/squad/120mm_sgrw42_mortar_barrage"
+msgid "12cm sGrW 42"
+msgstr "sGrW 42 de 12 cm"
+
+msgctxt "desc/entity/150mm_nebelwerfer41"
+msgid "15cm Nebelwerfer 41"
+msgstr "Nebelwerfer 41 de 15 cm"
+
+msgctxt "info/special/150mm_nebelwerfer41"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr "<c(c3baae)>Cohete de artillería</c>"
+
+msgctxt "desc/entity/150mm_sfh18"
+msgid "15cm sFH 18"
+msgstr "sFH 18 de 15 cm"
+
+msgctxt "info/special/150mm_sfh18"
+msgid "<c(c3baae)>Heavy Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús pesado terrestre</c>"
+
+msgctxt "desc/entity/150mm_sfh18_artillery_barrage"
+msgid "Heavy Artillery Barrage"
+msgstr "Andanada de artillería pesada"
+
+msgctxt "desc/squad/150mm_sfh18_artillery_barrage"
+msgid "15cm sFH 18"
+msgstr "sFH 18 de 15 cm"
+
+msgctxt "desc/entity/150mm_sig33"
+msgid "15cm sIG 33"
+msgstr "sIG 33 de 15 cm"
+
+msgctxt "info/special/150mm_sig33"
+msgid "<c(c3baae)>Heavy Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería pesado</c>"
+
+msgctxt "desc/entity/150mm_sig33_late"
+msgid "15cm sIG 33"
+msgstr "sIG 33 de 15 cm"
+
+msgctxt "info/special/150mm_sig33_late"
+msgid "<c(c3baae)>Heavy Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería pesado</c>"
+
+msgctxt "desc/entity/210mm_morser18"
+msgid "21cm Mörser 18"
+msgstr "Mörser 18 de 21 cm"
+
+msgctxt "info/special/210mm_morser18"
+msgid "<c(c3baae)>Heavy Field Howitzer</c>"
+msgstr "<c(c3baae)>Obús pesado terrestre</c>"
+
+msgctxt "desc/entity/300mm_nebelwerfer42"
+msgid "30cm Nebelwerfer 42"
+msgstr "Nebelwerfer 42 de 30 cm"
+
+msgctxt "info/special/300mm_nebelwerfer42"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr "<c(c3baae)>Cohete de artillería</c>"
+
+msgctxt "desc/entity/kettenkrad"
+msgid "Sd.Kfz 2"
+msgstr "Sd.Kfz 2"
+
+msgctxt "info/special/kettenkrad"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/kettenkrad_eng"
+msgid "Sd.Kfz 2 (Engineer)"
+msgstr "Sd.Kfz 2 (ingeniero)"
+
+msgctxt "info/special/kettenkrad_eng"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/kubelwagen"
+msgid "VW82 Kubelwagen"
+msgstr "VW82 Kubelwagen"
+
+msgctxt "info/special/kubelwagen"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/kubelwagen_mg"
+msgid "VW82 Kubelwagen"
+msgstr "VW82 Kubelwagen"
+
+msgctxt "info/special/kubelwagen_mg"
+msgid "<c(c3baae)>Armed Transport</c>"
+msgstr "<c(c3baae)>Transporte armado</c>"
+
+msgctxt "desc/entity/kubelwagen_dak"
+msgid "VW82 Kubelwagen"
+msgstr "VW82 Kubelwagen"
+
+msgctxt "info/special/kubelwagen_dak"
+msgid "<c(c3baae)>Armed Transport</c>"
+msgstr "<c(c3baae)>Transporte armado</c>"
+
+msgctxt "desc/entity/blitz3_6"
+msgid "Opel Blitz (Transport)"
+msgstr "Opel Blitz (transporte)"
+
+msgctxt "info/special/blitz3_6"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/blitz3_6_art_ammo"
+msgid "Opel Blitz (Supply)"
+msgstr "Opel Blitz (suministro)"
+
+msgctxt "info/special/blitz3_6_art_ammo"
+msgid "<c(c3baae)>Ammo Truck</c>"
+msgstr "<c(c3baae)>Camión de munición</c>"
+
+msgctxt "desc/entity/blitz3_6_flak30"
+msgid "Opel Blitz mit 2cm FlaK 30"
+msgstr "Opel Blitz mit FlaK 30 de 2 cm"
+
+msgctxt "info/special/blitz3_6_flak30"
+msgid "<c(c3baae)>Light AA Truck</c>"
+msgstr "<c(c3baae)>Camión ligero AA</c>"
+
+msgctxt "desc/entity/blitz3_6_engineering"
+msgid "Opel Blitz (Engineer)"
+msgstr "Opel Blitz (ingeniería)"
+
+msgctxt "info/special/blitz3_6_engineering"
+msgid "<c(c3baae)>Engineering Truck</c>"
+msgstr "<c(c3baae)>Camión de ingeniería</c>"
+
+msgctxt "desc/entity/blitz3_6_fuel"
+msgid "Opel Blitz (Fuel)"
+msgstr "Opel Blitz (combustible)"
+
+msgctxt "info/special/blitz3_6_fuel"
+msgid "<c(c3baae)>Fuel Truck</c>"
+msgstr "<c(c3baae)>Camión de repostaje</c>"
+
+msgctxt "desc/entity/blitz3_6_radio"
+msgid "Opel Blitz"
+msgstr "Opel Blitz"
+
+msgctxt "info/special/blitz3_6_radio"
+msgid "<c(c3baae)>Radio Truck</c>"
+msgstr "<c(c3baae)>Camión con radio</c>"
+
+msgctxt "desc/entity/opel_maultier"
+msgid "Opel Maultier"
+msgstr "Opel Maultier"
+
+msgctxt "info/special/opel_maultier"
+msgid "<c(c3baae)>Ammo Truck</c>"
+msgstr "<c(c3baae)>Camión de munición</c>"
+
+msgctxt "desc/entity/sdkfz10"
+msgid "Sd.Kfz 10"
+msgstr "Sd.Kfz 10"
+
+msgctxt "info/special/sdkfz10"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"
+
+msgctxt "desc/entity/sdkfz10_pak38"
+msgid "Sd.Kfz 10 mit 5cm PaK 38"
+msgstr "Sd.Kfz 10 mit PaK 38 de 5 cm"
+
+msgctxt "info/special/sdkfz10_pak38"
+msgid "<c(c3baae)>Medium AT Truck</c>"
+msgstr "<c(c3baae)>Camión mediano AT</c>"
+
+msgctxt "desc/entity/sdkfz221"
+msgid "Sd.Kfz 221"
+msgstr "Sd.Kfz 221"
+
+msgctxt "info/special/sdkfz221"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz222"
+msgid "Sd.Kfz 222"
+msgstr "Sd.Kfz 222"
+
+msgctxt "info/special/sdkfz222"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz223"
+msgid "Sd.Kfz 223"
+msgstr "Sd.Kfz 223"
+
+msgctxt "info/special/sdkfz223"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz231"
+msgid "Sd.Kfz 231"
+msgstr "Sd.Kfz 231"
+
+msgctxt "info/special/sdkfz231"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz232"
+msgid "Sd.Kfz 231"
+msgstr "Sd.Kfz 231"
+
+msgctxt "info/special/sdkfz232"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz234_2"
+msgid "Sd.Kfz 234/2 (5cm)"
+msgstr "Sd.Kfz 234/2 (5cm)"
+
+msgctxt "info/special/sdkfz234_2"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/sdkfz250a_1"
+msgid "Sd.Kfz 250/1"
+msgstr "Sd.Kfz 250/1"
+
+msgctxt "info/special/sdkfz250a_1"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz250a_3"
+msgid "Sd.Kfz 250/3"
+msgstr "Sd.Kfz 250/3"
+
+msgctxt "info/special/sdkfz250a_3"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz250a_7"
+msgid "Sd.Kfz 250/7 (8cm sGrW)"
+msgstr "Sd.Kfz 250/7 (8cm sGrW)"
+
+msgctxt "info/special/sdkfz250a_7"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz250a_9"
+msgid "Sd.Kfz 250/9 (2cm)"
+msgstr "Sd.Kfz 250/9 (2cm)"
+
+msgctxt "info/special/sdkfz250a_9"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz250a_10"
+msgid "Sd.Kfz 250/10 (3.7cm PaK)"
+msgstr "Sd.Kfz 250/10 (PaK de 3,7 cm)"
+
+msgctxt "info/special/sdkfz250a_10"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz250a_11"
+msgid "Sd.Kfz 250/11 (sPzB 41)"
+msgstr "Sd.Kfz 250/11 (sPzB 41)"
+
+msgctxt "info/special/sdkfz250a_11"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga ligero</c>"
+
+msgctxt "desc/entity/sdkfz251d_1"
+msgid "Sd.Kfz 251/1 Ausf. D"
+msgstr "Sd.Kfz 251/1 Ausf. D"
+
+msgctxt "info/special/sdkfz251d_1"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+msgctxt "desc/entity/sdkfz251c"
+msgid "Sd.Kfz 251/1 Ausf. C"
+msgstr "Sd.Kfz 251/1 Ausf. C"
+
+msgctxt "info/special/sdkfz251c"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+msgctxt "desc/entity/sdkfz251c_tarp"
+msgid "Sd.Kfz 251/1 Ausf. C"
+msgstr "Sd.Kfz 251/1 Ausf. C"
+
+msgctxt "info/special/sdkfz251c_tarp"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga medio</c>"
+
+msgctxt "desc/entity/p204_f"
+msgid "Pz.SpW. P204(f)"
+msgstr "Pz.SpW. P204(f)"
+
+msgctxt "info/special/p204_f"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr "<c(c3baae)>Vehículo blindado</c>"
+
+msgctxt "desc/entity/p204_f_rail"
+msgid "Pz.SpW. P204(f) Rail"
+msgstr "Pz.SpW. P204(f) Rail"
+
+msgctxt "info/special/p204_f_rail"
+msgid "<c(c3baae)>Armored Railcar</c>"
+msgstr "<c(c3baae)>Automotor blindado</c>"
+
+msgctxt "desc/entity/sdkfz4"
+msgid "Sd.Kfz 4"
+msgstr "Sd.Kfz 4"
+
+msgctxt "desc/entity/sdkfz8_flak18"
+msgid "Sd.Kfz 8 (8.8cm)"
+msgstr "Sd.Kfz 8 (8.8cm)"
+
+msgctxt "info/special/sdkfz8_flak18"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/sdkfz302"
+msgid "Sd.Kfz 302"
+msgstr "Sd.Kfz 302"
+
+msgctxt "info/special/sdkfz302"
+msgid "<c(c3baae)>Demolition Carrier</c>"
+msgstr "<c(c3baae)>Carguero de demolición</c>"
+
+msgctxt "desc/entity/sdkfz303b"
+msgid "Sd.Kfz 303b"
+msgstr "Sd.Kfz 303b"
+
+msgctxt "info/special/sdkfz303b"
+msgid "<c(c3baae)>Demolition Carrier</c>"
+msgstr "<c(c3baae)>Carguero de demolición</c>"
+
+msgctxt "desc/entity/panzer1b"
+msgid "Pz.Kpfw I Ausf.B"
+msgstr "Pz.Kpfw I Ausf.B"
+
+msgctxt "info/special/panzer1b"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzer1f"
+msgid "Pz.Kpfw I Ausf.F"
+msgstr "Pz.Kpfw I Ausf.F"
+
+msgctxt "info/special/panzer1f"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzerjager1"
+msgid "Panzerjäger I"
+msgstr "Panzerjäger I"
+
+msgctxt "info/special/panzerjager1"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/bison"
+msgid "Sturmpanzer I"
+msgstr "Sturmpanzer I"
+
+msgctxt "info/special/bison"
+msgid "<c(c3baae)>Self-Propelled Infantry Gun</c>"
+msgstr "<c(c3baae)>Cañón de infantería autopropulsado</c>"
+
+msgctxt "desc/entity/grille_m"
+msgid "Grille Ausf.M (3cm MK 103)"
+msgstr "Grille Ausf.M (3cm MK 103)"
+
+msgctxt "info/special/grille_m"
+msgid "<c(c3baae)>Light AA Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero AA</c>"
+
+msgctxt "desc/entity/panzer2c"
+msgid "Pz.Kpfw II Ausf.C"
+msgstr "Pz.Kpfw II Ausf.C"
+
+msgctxt "info/special/panzer2c"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzer2f"
+msgid "Pz.Kpfw II Ausf.F"
+msgstr "Pz.Kpfw II Ausf.F"
+
+msgctxt "info/special/panzer2f"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzer2l"
+msgid "Pz.Kpfw II Ausf.L"
+msgstr "Pz.Kpfw II Ausf.L"
+
+msgctxt "info/special/panzer2l"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/marder2"
+msgid "Marder II"
+msgstr "Marder II"
+
+msgctxt "info/special/marder2"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/marder3m"
+msgid "Marder III Ausf.M"
+msgstr "Marder III Ausf.M"
+
+msgctxt "info/special/marder3m"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/pz35t"
+msgid "Pz.Kpfw 35(t)"
+msgstr "Pz.Kpfw 35(t)"
+
+msgctxt "info/special/pz35t"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/pz38t_a"
+msgid "Pz.Kpfw 38(t) Ausf.A"
+msgstr "Pz.Kpfw 38(t) Ausf.A"
+
+msgctxt "info/special/pz38t_a"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/pz38t_f"
+msgid "Pz.Kpfw 38(t) Ausf.F"
+msgstr "Pz.Kpfw 38(t) Ausf.F"
+
+msgctxt "info/special/pz38t_f"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/pz38t_g"
+msgid "Pz.Kpfw 38(t) Ausf.G"
+msgstr "Pz.Kpfw 38(t) Ausf.G"
+
+msgctxt "info/special/pz38t_g"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr "<c(c3baae)>Tanque ligero</c>"
+
+msgctxt "desc/entity/panzer742r"
+msgid "Pz.Kpfw 742(r) 'BT'"
+msgstr "Pz.Kpfw 742(r) 'BT'"
+
+msgctxt "info/special/panzer742r"
+msgid "<c(c3baae)>Beutepanzer</c>"
+msgstr "<c(c3baae)>Beutepanzer</c>"
+
+msgctxt "desc/entity/panzer731r"
+msgid "Pz.Kpfw 731(r) 'T-37'"
+msgstr "Pz.Kpfw 731(r) 'T-37'"
+
+msgctxt "info/special/panzer731r"
+msgid "<c(c3baae)>Beutepanzer</c>"
+msgstr "<c(c3baae)>Beutepanzer</c>"
+
+msgctxt "desc/entity/hetzer"
+msgid "Jagdpanzer 38"
+msgstr "Jagdpanzer 38"
+
+msgctxt "info/special/hetzer"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/panzer3e"
+msgid "Pz.Kpfw III Ausf.E"
+msgstr "Pz.Kpfw III Ausf.E"
+
+msgctxt "info/special/panzer3e"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3f"
+msgid "Pz.Kpfw III Ausf.F"
+msgstr "Pz.Kpfw III Ausf.F"
+
+msgctxt "info/special/panzer3f"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3j"
+msgid "Pz.Kpfw III Ausf.J"
+msgstr "Pz.Kpfw III Ausf.J"
+
+msgctxt "info/special/panzer3j"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3j1"
+msgid "Pz.Kpfw III Ausf.J (L/60)"
+msgstr "Pz.Kpfw III Ausf.J (L/60)"
+
+msgctxt "info/special/panzer3j1"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3l"
+msgid "Pz.Kpfw III Ausf.L"
+msgstr "Pz.Kpfw III Ausf.L"
+
+msgctxt "info/special/panzer3l"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3m"
+msgid "Pz.Kpfw III Ausf.M"
+msgstr "Pz.Kpfw III Ausf.M"
+
+msgctxt "info/special/panzer3m"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3n"
+msgid "Pz.Kpfw III Ausf.N"
+msgstr "Pz.Kpfw III Ausf.N"
+
+msgctxt "info/special/panzer3n"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer3_flamm"
+msgid "Pz.Kpfw III Flamm"
+msgstr "Pz.Kpfw III Flamm"
+
+msgctxt "info/special/panzer3_flamm"
+msgid "<c(c3baae)>Medium Flame Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano con lanzallamas</c>"
+
+msgctxt "desc/entity/stug3b"
+msgid "StuG III Ausf.B"
+msgstr "StuG III Ausf.B"
+
+msgctxt "info/special/stug3b"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr "<c(c3baae)>Cañón autopropulsado</c>"
+
+msgctxt "desc/entity/stug3f"
+msgid "StuG III Ausf.F"
+msgstr "StuG III Ausf.F"
+
+msgctxt "info/special/stug3f"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/stug3g"
+msgid "StuG III Ausf.G (Early)"
+msgstr "StuG III Ausf.G (primera)"
+
+msgctxt "info/special/stug3g"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/stug3g_late"
+msgid "StuG III Ausf.G (Late)"
+msgstr "StuG III Ausf.G (final)"
+
+msgctxt "info/special/stug3g_late"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/stuh42"
+msgid "StuH 42 Ausf.G"
+msgstr "StuH 42 Ausf.G"
+
+msgctxt "info/special/stuh42"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr "<c(c3baae)>Cañón autopropulsado</c>"
+
+msgctxt "desc/entity/sig33b"
+msgid "StuIG 33"
+msgstr "StuIG 33"
+
+msgctxt "info/special/sig33b"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr "<c(c3baae)>Cañón autopropulsado</c>"
+
+msgctxt "desc/entity/panzer4d"
+msgid "Pz.Kpfw IV Ausf.D"
+msgstr "Pz.Kpfw IV Ausf.D"
+
+msgctxt "info/special/panzer4d"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer4f1"
+msgid "Pz.Kpfw IV Ausf.F1"
+msgstr "Pz.Kpfw IV Ausf.F1"
+
+msgctxt "info/special/panzer4f1"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer4f2"
+msgid "Pz.Kpfw IV Ausf.F2"
+msgstr "Pz.Kpfw IV Ausf.F2"
+
+msgctxt "info/special/panzer4f2"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer4g"
+msgid "Pz.Kpfw IV Ausf.G"
+msgstr "Pz.Kpfw IV Ausf.G"
+
+msgctxt "info/special/panzer4g"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer4h"
+msgid "Pz.Kpfw IV Ausf.H"
+msgstr "Pz.Kpfw IV Ausf.H"
+
+msgctxt "info/special/panzer4h"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer4j"
+msgid "Pz.Kpfw IV Ausf.J"
+msgstr "Pz.Kpfw IV Ausf.J"
+
+msgctxt "info/special/panzer4j"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/sturmpanzer4"
+msgid "Sturmpanzer IV"
+msgstr "Sturmpanzer IV"
+
+msgctxt "info/special/sturmpanzer4"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr "<c(c3baae)>Cañón autopropulsado</c>"
+
+msgctxt "desc/entity/jagdpanzer_iv"
+msgid "Jagdpanzer IV/70"
+msgstr "Jagdpanzer IV/70"
+
+msgctxt "info/special/jagdpanzer_iv"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/panzer5d"
+msgid "Pz.Kpfw Panther Ausf.D"
+msgstr "Pz.Kpfw Panther Ausf.D"
+
+msgctxt "info/special/panzer5d"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer5a"
+msgid "Pz.Kpfw Panther Ausf.A"
+msgstr "Pz.Kpfw Panther Ausf.A"
+
+msgctxt "info/special/panzer5a"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer5a_armor"
+msgid "Pz.Kpfw Panther Ausf.A"
+msgstr "Pz.Kpfw Panther Ausf.A"
+
+msgctxt "info/special/panzer5a_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/panzer5g"
+msgid "Pz.Kpfw Panther Ausf.G"
+msgstr "Pz.Kpfw Panther Ausf.G"
+
+msgctxt "info/special/panzer5g"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr "<c(c3baae)>Tanque mediano</c>"
+
+msgctxt "desc/entity/jagdpanther"
+msgid "Jagdpanther"
+msgstr "Jagdpanther"
+
+msgctxt "info/special/jagdpanther"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/tiger1h"
+msgid "Pz.Kpfw VI H Ausf.H1"
+msgstr "Pz.Kpfw VI H Ausf.H1"
+
+msgctxt "info/special/tiger1h"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/tiger1e"
+msgid "Pz.Kpfw Tiger Ausf.E"
+msgstr "Pz.Kpfw Tiger Ausf.E"
+
+msgctxt "info/special/tiger1e"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/tiger1hunt"
+msgid "Pz.Kpfw Tiger Ausf.E 'Ace'"
+msgstr "Pz.Kpfw Tiger Ausf.E \"Ace\""
+
+msgctxt "info/special/tiger1hunt"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/ferdinand"
+msgid "Panzerjäger Tiger (P) 'Ferdinand'"
+msgstr "Panzerjäger Tiger (P) \"Ferdinand\""
+
+msgctxt "info/special/ferdinand"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/sturmtiger"
+msgid "Sturmmörser"
+msgstr "Sturmmörser"
+
+msgctxt "info/special/sturmtiger"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr "<c(c3baae)>Cañón autopropulsado</c>"
+
+msgctxt "desc/entity/tiger2h"
+msgid "Pz.Kpfw Tiger II Ausf.B"
+msgstr "Pz.Kpfw Tiger II Ausf.B"
+
+msgctxt "info/special/tiger2h"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/tiger2p"
+msgid "Pz.Kpfw Tiger II Ausf.B (Early)"
+msgstr "Pz.Kpfw Tiger II Ausf.B (primera)"
+
+msgctxt "info/special/tiger2p"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr "<c(c3baae)>Tanque pesado</c>"
+
+msgctxt "desc/entity/jagdtiger"
+msgid "Panzerjäger Tiger Ausf.B 'Jagdtiger'"
+msgstr "Panzerjäger Tiger Ausf.B 'Jagdtiger'"
+
+msgctxt "info/special/jagdtiger"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr "<c(c3baae)>Cazacarros</c>"
+
+msgctxt "desc/entity/bf109_f4"
+msgid "Bf 109 F-4"
+msgstr "Bf 109 F-4"
+
+msgctxt "info/special/bf109_f4"
+msgid "<c(c3baae)>Fighter</c>"
+msgstr "<c(c3baae)>Aeronave</c>"
+
+msgctxt "desc/entity/bf109_g6"
+msgid "Bf 109 G-6"
+msgstr "Bf 109 G-6"
+
+msgctxt "info/special/bf109_g6"
+msgid "<c(c3baae)>Fighter</c>"
+msgstr "<c(c3baae)>Aeronave</c>"
+
+msgctxt "desc/entity/bf110_e2"
+msgid "Bf 110 E-2"
+msgstr "Bf 110 E-2"
+
+msgctxt "info/special/bf110_e2"
+msgid "<c(c3baae)>Fighter Bomber</c>"
+msgstr "<c(c3baae)>Aeronave bombardera</c>"
+
+msgctxt "desc/entity/sdkfz7_1"
+msgid "Sd.Kfz 7/1 (2cm)"
+msgstr "Sd.Kfz 7/1 (2cm)"
+
+msgctxt "info/special/sdkfz7_1"
+msgid "<c(c3baae)>AA Halftrack</c>"
+msgstr "<c(c3baae)>Semioruga antiaéreo</c>"
+
+msgctxt "desc/entity/kfz70"
+msgid "Kfz.70 (Transport)"
+msgstr "Kfz.70 (Transporte)"
+
+msgctxt "info/special/kfz70"
+msgid "<c(c3baae)>Transport</c>"
+msgstr "<c(c3baae)>Transporte</c>"

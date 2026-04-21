@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgctxt "desc/human/mp/fin/early/jag_scout_rifle"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/early/jag_scout_sa"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/early/jag_scout_sl"
+msgid "Jääkäri Scout Squadleader [Maavoimat]"
+msgstr "Líder de exploradores Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/early/vet_mg"
+msgid "Veteran MG Operator [Maavoimat]"
+msgstr "Operador MG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/early/vet_mg_asst"
+msgid "Veteran MG Asst. [Maavoimat]"
+msgstr "Asistente MG Veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/vet_squadleader"
+msgid "Veteran Squadleader [Maavoimat]"
+msgstr "Jefe de escuadrón veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/pio_builder"
+msgid "Pioneeri Engineer [Maavoimat]"
+msgstr "Ingeniero Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/pio_mg"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/pio_rifle"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/pio_sa"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/early/pio_sl"
+msgid "Pioneeri Squadleader [Maavoimat]"
+msgstr "Líder de escuadrón Pioneeri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/jag_scout_rifle"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/jag_scout_sa"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/jag_scout_sl"
+msgid "Jääkäri Scout Squadleader [Maavoimat]"
+msgstr "Líder de exploradores Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/elite_mg_dp"
+msgid "Elite MG Operator [Maavoimat]"
+msgstr "Operador MG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/elite_mg_dp_asst"
+msgid "Elite MG Asst. [Maavoimat]"
+msgstr "Asistente MG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/elite_rifleman"
+msgid "Elite Rifleman [Maavoimat]"
+msgstr "Fusilero de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/elite_rifleman_sa"
+msgid "Elite Automatic Rifleman [Maavoimat]"
+msgstr "Fusilero automático de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/elite_smg_drum"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/elite_smg_stick"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/elite_squadleader"
+msgid "Elite Squadleader [Maavoimat]"
+msgstr "Líder de escuadrón de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/mg_dt"
+msgid "MG Operator [Maavoimat]"
+msgstr "Operador MG [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/mg_dt_asst"
+msgid "MG Asst. [Maavoimat]"
+msgstr "Asistente MG [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_mg"
+msgid "Veteran Ratsuväki MG Operator [Maavoimat]"
+msgstr "Operador MG Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_mg_asst"
+msgid "Veteran Ratsuväki MG Asst. [Maavoimat]"
+msgstr "Asistente MG Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_rifle"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_sa"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_sl"
+msgid "Veteran Ratsuväki Squadleader [Maavoimat]"
+msgstr "Lider Ratsuväki Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_smg"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_cav_smg_stick"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_mg_dp"
+msgid "Veteran MG Operator [Maavoimat]"
+msgstr "Operador MG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_mg_dp_asst"
+msgid "Veteran MG Asst. [Maavoimat]"
+msgstr "Asistente MG veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/vet_rifleman"
+msgid "Veteran Rifleman [Maavoimat]"
+msgstr "Fusilero veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/vet_rifleman_sa"
+msgid "Veteran Rifleman [Maavoimat]"
+msgstr "Fusilero veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/vet_scout"
+msgid "Veteran Scout [Maavoimat]"
+msgstr "Explorador veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_scout_sl"
+msgid "Veteran Scout Squadleader [Maavoimat]"
+msgstr "Líder de exploradores veteranos [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_smg_drum"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_smg_stick"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/vet_squadleader"
+msgid "Veteran Squadleader [Maavoimat]"
+msgstr "Jefe de escuadrón veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/pio_builder"
+msgid "Pioneeri Engineer [Maavoimat]"
+msgstr "Ingeniero Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/pio_mg"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/pio_rifle"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/pio_sa"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/pio_sl"
+msgid "Pioneeri Squadleader [Maavoimat]"
+msgstr "Líder de escuadrón Pioneeri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_jag_mg"
+msgid "Veteran Jääkäri MG Operator [Maavoimat]"
+msgstr "Operador MG Jääkäri Veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/mid/vet_jag_mg_asst"
+msgid "Veteran Jääkäri MG Asst. [Maavoimat]"
+msgstr "Veterano Jääkäri MG Asst. [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_jag_rifle"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_jag_sa"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_jag_sl"
+msgid "Veteran Jääkäri Squadleader [Maavoimat]"
+msgstr "Líder Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/mid/vet_jag_smg"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/jag_scout_rifle"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/jag_scout_sa"
+msgid "Jääkäri Scout [Maavoimat]"
+msgstr "Explorador Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/jag_scout_sl"
+msgid "Jääkäri Scout Squadleader [Maavoimat]"
+msgstr "Líder de Exploradores Jääkäri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/border_jag_ptrd"
+msgid "Rajajääkäri AT rifle inf. [Rajavartiolaitos]"
+msgstr "Rajajääkäri AT [Rajavartiolaitos]"
+
+msgctxt "desc/human/mp/fin/late/border_jag_ptrd_asst"
+msgid "Rajajääkäri AT support Inf. [Rajavartiolaitos]"
+msgstr "Rajajääkäri Asistente AT [Rajavartiolaitos]"
+
+msgctxt "desc/human/mp/fin/late/border_jag_pzs"
+msgid "Rajajääkäri AT inf. [Rajavartiolaitos]"
+msgstr "Rajajääkäri AT [Rajavartiolaitos]"
+
+msgctxt "desc/human/mp/fin/late/border_jag_pzs_ammo"
+msgid "Rajajääkäri AT support Inf. [Rajavartiolaitos]"
+msgstr "Rajajääkäri Asistente AT [Rajavartiolaitos]"
+
+msgctxt "desc/human/mp/fin/late/border_jag_sl_smg"
+msgid "Rajajääkäri Squadleader [Rajavartiolaitos]"
+msgstr "Líder Rajajääkäri [Rajavartiolaitos]"
+
+msgctxt "desc/human/mp/fin/late/cav_mg"
+msgid "Ratsuväki MG Operator [Maavoimat]"
+msgstr "Operador MG Ratsuväki [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/cav_mg_asst"
+msgid "Ratsuväki MG Asst. [Maavoimat]"
+msgstr "Asistente MG Ratsuväki [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/cav_rifle"
+msgid "Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/cav_sa"
+msgid "Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/cav_sl"
+msgid "Ratsuväki Squadleader [Maavoimat]"
+msgstr "Líder Ratsuväki [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/cav_smg"
+msgid "Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/cav_smg_stick"
+msgid "Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_mg"
+msgid "Elite MG Operator [Maavoimat]"
+msgstr "Operador MG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/elite_mg_asst"
+msgid "Elite MG Asst. [Maavoimat]"
+msgstr "Asistente MG de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_mg_dp"
+msgid "Elite MG Operator [Maavoimat]"
+msgstr "Operador MG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/elite_mg_dp_asst"
+msgid "Elite MG Asst. [Maavoimat]"
+msgstr "Asistente MG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/elite_rifle"
+msgid "Elite Rifleman [Maavoimat]"
+msgstr "Fusilero de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/elite_rifle_sa"
+msgid "Elite Automatic Rifleman [Maavoimat]"
+msgstr "Fusilero automático de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_smg_drum"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_smg_pps"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_smg_ppsh"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/elite_smg_stick"
+msgid "Elite SMG inf. [Maavoimat]"
+msgstr "Soldado SMG de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/elite_squadleader"
+msgid "Elite Squadleader [Maavoimat]"
+msgstr "Líder de escuadrón de élite [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/mg_dt"
+msgid "MG Operator [Maavoimat]"
+msgstr "Operador MG [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/mg_dt_asst"
+msgid "MG Asst. [Maavoimat]"
+msgstr "Asistente MG [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/pio_builder"
+msgid "Pioneeri Engineer [Maavoimat]"
+msgstr "Ingeniero Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/pio_mg"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/pio_rifle"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/pio_sa"
+msgid "Pioneeri [Maavoimat]"
+msgstr "Pioneeri [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/pio_sl"
+msgid "Pioneeri Squadleader [Maavoimat]"
+msgstr "Líder de escuadrón Pioneeri [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_mg"
+msgid "Veteran Ratsuväki MG Operator [Maavoimat]"
+msgstr "Operador MG Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_mg_asst"
+msgid "Veteran Ratsuväki MG Asst. [Maavoimat]"
+msgstr "Asistente MG Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_rifle"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_sa"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_sl"
+msgid "Veteran Ratsuväki Squadleader [Maavoimat]"
+msgstr "Lider de Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_smg"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_cav_smg_stick"
+msgid "Veteran Ratsuväki [Maavoimat]"
+msgstr "Ratsuväki veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_mg"
+msgid "Veteran MG Operator [Maavoimat]"
+msgstr "Operador MG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_mg_asst"
+msgid "Veteran MG Asst. [Maavoimat]"
+msgstr "Asistente MG Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_mg_dp"
+msgid "Veteran MG Operator [Maavoimat]"
+msgstr "Operador MG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_mg_dp_asst"
+msgid "Veteran MG Asst. [Maavoimat]"
+msgstr "Asistente MG Veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/vet_rifle"
+msgid "Veteran Rifleman [Maavoimat]"
+msgstr "Fusilero veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/vet_rifle_sa"
+msgid "Veteran Rifleman [Maavoimat]"
+msgstr "Fusilero veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/vet_scout"
+msgid "Veteran Scout [Maavoimat]"
+msgstr "Explorador veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_scout_sl"
+msgid "Veteran Scout Squadleader [Maavoimat]"
+msgstr "Líder de exploradores veteranos [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_smg_drum"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_smg_pps"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_smg_ppsh"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_smg_stick"
+msgid "Veteran SMG inf. [Maavoimat]"
+msgstr "Soldado SMG veterano [Maavoimat]"
+
+#, fuzzy
+msgctxt "desc/human/mp/fin/late/vet_squadleader"
+msgid "Veteran Squadleader [Maavoimat]"
+msgstr "Jefe de escuadrón veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_mg"
+msgid "Veteran Jääkäri MG Operator [Maavoimat]"
+msgstr "Operador MG Jääkäri veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_mg_asst"
+msgid "Veteran Jääkäri MG Asst. [Maavoimat]"
+msgstr "Asistente MG Jääkäri veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_rifle"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_sa"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_sl"
+msgid "Veteran Jääkäri Squadleader [Maavoimat]"
+msgstr "Líder de Jääkäri Veterano [Maavoimat]"
+
+msgctxt "desc/human/mp/fin/late/vet_jag_smg"
+msgid "Veteran Jääkäri [Maavoimat]"
+msgstr "Jääkäri Veterano [Maavoimat]"

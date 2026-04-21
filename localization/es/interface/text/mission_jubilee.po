@@ -1,0 +1,33 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "mission/multi/2v2_glubinka/name"
+msgid "Glubinka <c(7e5be4)>[Jubilee]"
+msgstr "Glubinka <c(7e5be4)>[Misiones extra]"
+
+msgctxt "mission/multi/2v2_hunting/name"
+msgid "Hunting <c(7e5be4)>[Jubilee]"
+msgstr "Caza <c(7e5be4)>[Misiones extra]"
+
+msgctxt "mission/multi/2v2_hutor/name"
+msgid "Hutor <c(7e5be4)>[Jubilee]"
+msgstr "Hutor <c(7e5be4)>[Misiones extra]"
+
+msgctxt "mission/multi/3v3_general_winter/name"
+msgid "General Winter <c(7e5be4)>[Jubilee]"
+msgstr "General Invierno <c(7e5be4)>[Misiones extra]"
+
+msgctxt "mission/multi/4v4_winter_walk/name"
+msgid "Winter Walk <c(7e5be4)>[Jubilee]"
+msgstr "Paseo de invierno <c(7e5be4)>[Misiones extra]"

@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_ger)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzglehr_sq"
+msgid "Pz-Lehr Pz.Grenadier squad"
+msgstr "Escuadrón Pz.Grenadier Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehraufk_sq"
+msgid "Pz-Lehr Pz.Aufklarer squad"
+msgstr "Escuadrón Pz.Aufklarer Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehraufk_ht"
+msgid "Pz-Lehr Armored Pz.Aufklarer"
+msgstr "Blindados Pz.Aufklarer Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehstgr_sq"
+msgid "Pz-Lehr Pz.Sturmgrenadier squad"
+msgstr "Escuadrón Pz.Sturmgrenadier Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehstgr_ht"
+msgid "Pz-Lehr Armored Pz.Sturmgrenadier"
+msgstr "Blindados Pz.Sturmgrenadier Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehpio_sq"
+msgid "Pz-Lehr Pz.Pionier squad"
+msgstr "Escuadrón Pz.Pionier Pz-Lehr"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pzlehpio_ht"
+msgid "Pz-Lehr Armored Pz.Pionier"
+msgstr "Pz-Lehr Blindado Pz.Pionier"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz234_1"
+msgid "Sd.Kfz 234/1 (2cm)"
+msgstr "Sd.Kfz 234/1 (2 cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz234_3"
+msgid "Sd.Kfz 234/3 (7.5cm)"
+msgstr "Sd.Kfz 234/3 (7,5 cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz250a_9"
+msgid "Sd.Kfz 250/9 (2cm)"
+msgstr "Sd.Kfz 250/9 (2 cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz251d_16"
+msgid "Sd.Kfz 251/16 Ausf. D (14mm Flamm)"
+msgstr "Sd.Kfz 251/16 Ausf. D (14 mm Flamm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/artymen"
+msgid "Artillerymen"
+msgstr "Tripulación de arma"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz251d_22"
+msgid "Sd.Kfz 251/22 Ausf.D (7.5cm PaK 40)"
+msgstr "Sd.Kfz 251/22 Ausf.D (7,5 cm PaK 40)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/105mm_lefh18_40"
+msgid "10.5cm LeFH 18/40"
+msgstr "10,5 cm LeFH 18/40"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz7_1"
+msgid "Sd.Kfz 7/1 (2cm)"
+msgstr "Sd.Kfz 7/1 (2cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz234_4"
+msgid "Sd.Kfz 234/4 (7.5cm PaK 40)"
+msgstr "Sd.Kfz 234/4 (7,5 cm PaK 40)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz7_2"
+msgid "Sd.Kfz 7/2 (3.7cm FlaK)"
+msgstr "Sd.Kfz 7/2 (3,7 cm FlaK)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz251d_21"
+msgid "Sd.Kfz 251/21 Ausf.D (15mm Drilling)"
+msgstr "Sd.Kfz 251/21 Ausf.D (Calibre 15 mm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/mg42_lafette"
+msgid "Lafette MG 42"
+msgstr "Lafette MG 42"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/hintartybonus"
+msgid "Artillery strike of the selected area"
+msgstr "Ataque de artillería sobre la zona Indicada."
+
+msgctxt "mission/single/0x-skirmish/menu_ger/artystrike_heavy"
+msgid "Heavy Artillery Barrage"
+msgstr "Ataque de artillería pesada"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/artystrike_heavy"
+msgid "Heavy artillery barrage"
+msgstr "Fuego de artillería pesado"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/artystrike"
+msgid "Artillery barrage"
+msgstr "Salva de artillería"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz251d_1_stuka"
+msgid "Sd.Kfz 251/1 Ausf.D (Wurfrahmen 40)"
+msgstr "Sd.Kfz 251/1 Ausf.D (Wurfrahmen 40)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/hummel"
+msgid "Hummel"
+msgstr "Hummel"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/wespe"
+msgid "Wespe"
+msgstr "Wespe"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/grille_k"
+msgid "Grille Ausf.K (15cm)"
+msgstr "Grille Ausf.K (15cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/wirbelwind"
+msgid "FlakPz.IV Wirbelwind"
+msgstr "FlakPz.IV Wirbelwind"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/ostwind"
+msgid "FlakPz.IV Ostwind"
+msgstr "FlakPz.IV Ostwind"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/jagdpanzer4_l48"
+msgid "Jagdpanzer IV"
+msgstr "Jagdpanzer IV"

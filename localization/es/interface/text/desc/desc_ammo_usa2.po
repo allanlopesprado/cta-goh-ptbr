@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell USA ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgctxt "desc/stuff/flare_usa"
+msgid "Artillery Flare"
+msgstr "Bengala de artillería"
+
+msgctxt "desc/ammo/flare_usa"
+msgid "Artillery Flare"
+msgstr "Bengala de artillería"
+
+msgctxt "desc/ammo/flare_usa artillery_105"
+msgid "Flare (USA 105mm)"
+msgstr "Bengala (EE.UU. 105 mm)"
+
+msgctxt "desc/ammo/flare_usa artillery_105_vt"
+msgid "Flare (USA 105mm 'Air')"
+msgstr "Bengala (EEUU 105mm 'Aire')"
+
+msgctxt "desc/ammo/flare_usa artillery_155"
+msgid "Flare (USA 155mm)"
+msgstr "Bengala (EE.UU. 155 mm)"
+
+msgctxt "desc/ammo/flare_usa artillery_155_vt"
+msgid "Flare (USA 155mm 'Air')"
+msgstr "Bengala (EEUU 155mm 'Aire')"
+
+msgctxt "desc/ammo/flare_usa artillery_203"
+msgid "Flare (USA 203mm)"
+msgstr "Bengala (EE.UU. 203 mm)"
+
+msgctxt "desc/ammo/flare_usa artillery_203_vt"
+msgid "Flare (USA 203mm 'Air')"
+msgstr "Bengala (EEUU 203mm 'Aire')"
+
+msgctxt "desc/ammo/flare_usa artillery_240"
+msgid "Flare (USA 240mm)"
+msgstr "Bengala (EE.UU. 240 mm)"
+
+msgctxt "desc/ammo/flare_usa mortar_60"
+msgid "Flare (USA 60mm)"
+msgstr "Bengala (EE.UU. 60 mm)"
+
+msgctxt "desc/ammo/flare_usa mortar_81"
+msgid "Flare (USA 81mm)"
+msgstr "Bengala (EE.UU. 81 mm)"
+
+msgctxt "desc/ammo/usa_grenade"
+msgid "Rifle Grenade"
+msgstr "Granada de fusil"
+
+msgctxt "desc/ammo/air_bomb_usa_100lb"
+msgid "AN-M30 100lb GP Bomb"
+msgstr "Bomba GP 100lb AN-M30"
+
+msgctxt "desc/ammo/air_bomb_usa_500lb"
+msgid "AN-M64 500lb GP Bomb"
+msgstr "Bomba GP 500lb AN-M64"
+
+msgctxt "desc/ammo/127mm_hvar aphe"
+msgid "5-inch APHE, HVAR [<c(ff6a00)>APHE</c>]"
+msgstr "Cohete 5 pulgadas APHE, HVAR [<c(ff6a00)>APHE</c>]"
+
+msgctxt "desc/ammo/127mm_hvar he"
+msgid "5-inch HE, HVAR [<c(ff1200)>HE</c>]"
+msgstr "Cohete 5 pulgadas HE, HVAR [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bullet_155_l15 usa he"
+msgid "155mm HE, Shell M101 [<c(ff1200)>HE</c>] <c(65696d)>L15</c>"
+msgstr "155 mm de Alto Explosivo, Modelo M101 [<c(ff1200)>HE</c>] <c(65696d)>L15</c>"

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "mission/multi/1v1_crossing/name"
+msgid "Crossing"
+msgstr "Arroyo"
+
+msgctxt "mission/multi/1v1_farmland/name"
+msgid "Farmland"
+msgstr "Granjas"
+
+msgctxt "mission/multi/1v1_nevel/name"
+msgid "Nevel"
+msgstr "Nevel"
+
+msgctxt "mission/multi/1v1_kalinin/name"
+msgid "Kalinin"
+msgstr "Kalinin"
+
+msgctxt "mission/multi/1v1_riverbank/name"
+msgid "River Bank"
+msgstr "Orilla del rio"
+
+msgctxt "mission/multi/1v1_uran/name"
+msgid "Uran"
+msgstr "Uran"
+
+msgctxt "mission/multi/1v1_valley/name"
+msgid "Valley"
+msgstr "Valle"
+
+msgctxt "mission/multi/1v1_volokolamsk/name"
+msgid "Frostbite"
+msgstr "Helada"
+
+msgctxt "mission/multi/2v2_urban_hell/name"
+msgid "Urban Hell"
+msgstr "Infierno urbano"
+
+msgctxt "mission/multi/2v2_balaton/name"
+msgid "Spring Awakening"
+msgstr "Primavera al alba"
+
+msgctxt "mission/multi/1v1_balzerweg/name"
+msgid "Balzerweg swamp"
+msgstr "Pantano de Balzerweg"
+
+msgctxt "mission/multi/2v2_barrikady/name"
+msgid "Barrikadiy"
+msgstr "Fábrica de Barrikadiy"
+
+msgctxt "mission/multi/2v2_blizzard/name"
+msgid "Blizzard"
+msgstr "Ventisca"
+
+msgctxt "mission/multi/2v2_courtyard/name"
+msgid "Courtyard"
+msgstr "Patio"
+
+msgctxt "mission/multi/2v2_fall/name"
+msgid "Fall"
+msgstr "Otoño"
+
+msgctxt "mission/multi/2v2_stalingrad/name"
+msgid "Stalingrad"
+msgstr "Stalingrado"
+
+msgctxt "mission/multi/2v2_monestary/name"
+msgid "Monestary"
+msgstr "Monasterio"
+
+msgctxt "mission/multi/2v2_katrinovo/name"
+msgid "Katrinovo"
+msgstr "Katrinovo"
+
+msgctxt "mission/multi/2v2_gelid/name"
+msgid "Gelid"
+msgstr "Gélido"
+
+msgctxt "mission/multi/2v2_industry/name"
+msgid "Industry"
+msgstr "Industria"
+
+msgctxt "mission/multi/2v2_suburbs/name"
+msgid "Suburbs"
+msgstr "Suburbios"
+
+msgctxt "mission/multi/2v2_tikhvin/name"
+msgid "Tikhvin"
+msgstr "Tikhvin"
+
+msgctxt "mission/multi/2v2_ziborovo/name"
+msgid "Ziborovo"
+msgstr "Ziborovo"
+
+msgctxt "mission/multi/3v3_barrikady/name"
+msgid "Barrikadiy"
+msgstr "Fábrica de Barrikadiy"
+
+msgctxt "mission/multi/3v3_brozha/name"
+msgid "Brozha"
+msgstr "Brozha"
+
+msgctxt "mission/multi/3v3_glushkovo/name"
+msgid "Glushkovo"
+msgstr "Glushkovo"
+
+msgctxt "mission/multi/3v3_factory/name"
+msgid "Steelworks factory"
+msgstr "Fábrica metalúrgica"
+
+msgctxt "mission/multi/3v3_trenches/name"
+msgid "Trenches of Hell"
+msgstr "Trincheras del infierno"
+
+msgctxt "mission/multi/3v3_hungary/name"
+msgid "Carpathians"
+msgstr "Montes de Cárpatos"
+
+msgctxt "mission/multi/3v3_steppe/name"
+msgid "Steppe"
+msgstr "Estepa"
+
+msgctxt "mission/multi/3v3_wotan/name"
+msgid "Wotan"
+msgstr "Wotan"
+
+msgctxt "mission/multi/3v3_radusha_airfield/name"
+msgid "Radusha Airfield"
+msgstr "Aeródromo de Radusha"
+
+msgctxt "mission/multi/3v3_voronezh/name"
+msgid "Voronezh"
+msgstr "Voronezh"
+
+msgctxt "mission/multi/4v4_dubovka/name"
+msgid "Dubovka"
+msgstr "Dubovka"
+
+msgctxt "mission/multi/4v4_hills/name"
+msgid "Hills"
+msgstr "Colinas"
+
+msgctxt "mission/multi/4v4_shiryayevo/name"
+msgid "Shiryayevo"
+msgstr "Shiryayevo"
+
+msgctxt "mission/multi/4v4_niemen/name"
+msgid "Niemen"
+msgstr "Rio Niemen"
+
+msgctxt "mission/multi/4v4_swamp/name"
+msgid "Pinsk Marshes"
+msgstr "Ciénaga de Pinsk"
+
+msgctxt "mission/multi/4v4_vitebsk/name"
+msgid "Vitebsk"
+msgstr "Vitebsk"
+
+msgctxt "mission/multi/dcg_a_kalinin/name"
+msgid "Kalinin Airfield"
+msgstr "Aeródromo de Kalinin"
+
+msgctxt "mission/multi/dcg_a_runway/name"
+msgid "Runway"
+msgstr "Pista de despegue"
+
+msgctxt "mission/multi/dcg_d_uran/name"
+msgid "Narva"
+msgstr "Narva"
+
+msgctxt "mission/multi/dcg_d_vyazma/name"
+msgid "Vyazma"
+msgstr "Vyazma"
+
+msgctxt "mission/multi/dcg_f_barrikady/name"
+msgid "Barrikadiy Factory"
+msgstr "Fábrica de Barrikadiy"
+
+msgctxt "mission/multi/dcg_f_bykovo/name"
+msgid "Bykovo Factory"
+msgstr "Factoría de Bykovo"
+
+msgctxt "mission/multi/dcg_f_factory/name"
+msgid "Steelworks Factory"
+msgstr "Fábrica metalúrgica"
+
+msgctxt "mission/multi/dcg_f_lazurnyi/name"
+msgid "Lazurnyi"
+msgstr "Lazurnyi"
+
+msgctxt "mission/multi/dcg_f_bridges_of_lysovo/name"
+msgid "Lysovo"
+msgstr "Lysovo"
+
+msgctxt "mission/multi/dcg_glushkovo/name"
+msgid "Glushkovo"
+msgstr "Glushkovo"
+
+msgctxt "mission/multi/dcg_narofominsk/name"
+msgid "Narofominsk"
+msgstr "Narofominsk"
+
+msgctxt "mission/multi/dcg_niemen/name"
+msgid "Neman"
+msgstr "Rio Niemen"
+
+msgctxt "mission/multi/dcg_hilltop/name"
+msgid "Hilltop"
+msgstr "Meseta"
+
+msgctxt "mission/multi/dcg_pinsk/name"
+msgid "Pinsk"
+msgstr "Ciénaga de Pinsk"
+
+msgctxt "mission/multi/dcg_radekhiv/name"
+msgid "Radevkiy"
+msgstr "Radevkiy"
+
+msgctxt "mission/multi/dcg_raseiniai/name"
+msgid "Raseiniai"
+msgstr "Raseiniai"
+
+msgctxt "mission/multi/dcg_rasputitsa/name"
+msgid "Rasputitsa"
+msgstr "Rasputitsa"
+
+msgctxt "mission/multi/dcg_ruetzen/name"
+msgid "Rützen"
+msgstr "Rützen"
+
+msgctxt "mission/multi/dcg_rzhev/name"
+msgid "Rzhev"
+msgstr "Rzhev"
+
+msgctxt "mission/multi/dcg_velikiyeluki/name"
+msgid "Velikiy Luki"
+msgstr "Velikiy Luki"
+
+msgctxt "mission/multi/dcg_shiryayevo/name"
+msgid "Shiryayevo"
+msgstr "Shiryayevo"
+
+msgctxt "mission/multi/dcg_hills/name"
+msgid "Hills"
+msgstr "Colinas"
+
+msgctxt "mission/multi/dcg_dubovka/name"
+msgid "Dubovka"
+msgstr "Dubovka"
+
+msgctxt "mission/multi/dcg_olkhovatka/name"
+msgid "Olkhovatka"
+msgstr "Olkhovatka"
+
+msgctxt "mission/multi/dcg_shaforovo/name"
+msgid "Shaforovo"
+msgstr "Shaforovo"
+
+msgctxt "mission/multi/dcg_wasteland/name"
+msgid "Wasteland"
+msgstr "Yermo"
+
+msgctxt "mission/multi/dcg_frozen_highlands/name"
+msgid "Frozen Highlands"
+msgstr "Colinas Heladas"
+
+msgctxt "mission/multi/dcg_black_sea_coast/name"
+msgid "Black Sea Coast"
+msgstr "Costa del mar negro"
+
+msgctxt "mission/multi/dcg_radusha_airfield/name"
+msgid "Radusha Airfield"
+msgstr "Aeródromo de Radusha "
+
+msgctxt "mission/multi/dcg_hungarian_swamps/name"
+msgid "Hungarian Swamps"
+msgstr "Ciénagas Húngaras"
+
+msgctxt "mission/multi/dcg_stalingrad_outskirts/name"
+msgid "Stalingrad Outskirts"
+msgstr "Afueras de Estalingrado"
+
+msgctxt "mission/multi/0_frontlines/1v1_barbarossa/name"
+msgid "Operation Barbarossa"
+msgstr "Operación Barbarroja"
+
+msgctxt "mission/multi/0_frontlines/2v2_stalingrad_factory/name"
+msgid "Stalingrad Factory"
+msgstr "Fábrica de Stalingrado"
+
+msgctxt "mission/multi/0_frontlines/3v3_crimea/name"
+msgid "Crimea"
+msgstr "Crimea"
+
+msgctxt "mission/multi/0_frontlines/4v4_kursk/name"
+msgid "Kursk"
+msgstr "Kursk"
+
+msgctxt "mission/multi/0_frontlines/1v1_karjala/name"
+msgid "Karjala <c(7e5be4)>[Talvisota]"
+msgstr "Carelia <c(7e5be4)>[Talvisota]"
+
+msgctxt "mission/multi/0_frontlines/2v2_tali_ihantala/name"
+msgid "Tali-Ihantala <c(7e5be4)>[Talvisota]"
+msgstr "Tali-Ihantala <c(7e5be4)>[Talvisota]"
+
+msgctxt "mission/multi/0_frontlines/3v3_volga/name"
+msgid "Volga <c(7e5be4)>[Talvisota]"
+msgstr "Volga <c(7e5be4)>[Talvisota]"
+
+msgctxt "mission/multi/0_frontlines/4v4_mannerheim/name"
+msgid "Mannerheim Line <c(7e5be4)>[Talvisota]"
+msgstr "Línea Mannerheim <c(7e5be4)>[Talvisota]"

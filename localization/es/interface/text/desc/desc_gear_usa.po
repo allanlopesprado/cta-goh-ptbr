@@ -1,0 +1,2813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+
+msgctxt "desc/stuff/compositionb_x4"
+msgid "Composition B"
+msgstr "Composición B"
+
+msgctxt "desc/stuff/compositionb_x4_mission"
+msgid "Composition B"
+msgstr "Composición B"
+
+msgctxt "desc/stuff/anm8_smoke"
+msgid "AN-M8 HC Grenade [Smoke]"
+msgstr "Granada AN-M8 HC [Humo]"
+
+
+msgctxt "desc/stuff/bandage_usa"
+msgid "US First-Aid Dressing"
+msgstr "Apósito de primeros auxilios US"
+
+
+msgctxt "desc/stuff/knife_usa"
+msgid "M3 Fighting Knife"
+msgstr "Cuchillo de combate M3"
+
+
+msgctxt "desc/stuff/m1a1 mine"
+msgid "Anti-Tank M1A1 Mine"
+msgstr "Mina antitanque M1A1"
+
+
+msgctxt "desc/stuff/m2 mine"
+msgid "Anti-Personnel M2 Mine"
+msgstr "Mina antipersona M2"
+
+
+msgctxt "desc/stuff/m6 mine"
+msgid "Heavy Anti-Tank M6 Mine"
+msgstr "Mina antitanque pesada M6"
+
+
+msgctxt "desc/stuff/m7"
+msgid "Light Anti-Tank M7 Mine"
+msgstr "Mina antitanque ligera M7"
+
+msgctxt "desc/stuff/m15_wp"
+msgid "M15 White Phosphorus Grenade"
+msgstr "Granada de fósforo M15"
+
+
+msgctxt "desc/stuff/mk2"
+msgid "Mk II Grenade"
+msgstr "Granada Mk II"
+
+
+msgctxt "desc/stuff/satchel_charge_usa"
+msgid "M37 Demolition Kit"
+msgstr "Kit de demolición M37"
+
+
+msgctxt "desc/stuff/shovel_usa"
+msgid "M1910 Field Shovel"
+msgstr "Pala de campo M1910"
+
+msgctxt "desc/stuff/usa_radio"
+msgid "SCR-300 Radio Transceiver Set"
+msgstr "Radio portátil SCR-300"
+
+
+msgctxt "desc/stuff/us_cap_jeep"
+msgid "M41 Wool Cap"
+msgstr "Gorro de lana M41"
+
+
+msgctxt "desc/stuff/us_cap_jeep_rough"
+msgid "M41 Wool Cap"
+msgstr "Gorro de lana M41"
+
+
+msgctxt "desc/stuff/us_cap_jeep_gog"
+msgid "M41 Wool Cap - Goggles"
+msgstr "Gorro de lana M41 - Gafas"
+
+
+msgctxt "desc/stuff/us_cap_jeep_gog_down"
+msgid "M41 Wool Cap - Goggles"
+msgstr "Gorro de lana M41 - Gafas"
+
+
+msgctxt "desc/stuff/us_cap_patrol"
+msgid "M43 Field Cap"
+msgstr "Gorra de campo M43"
+
+
+msgctxt "desc/stuff/us_cap_patrol_rough"
+msgid "M43 Field Cap"
+msgstr "Gorra de campo M43"
+
+
+msgctxt "desc/stuff/us_cap_patrol_gog"
+msgid "M43 Field Cap - Goggles"
+msgstr "Gorra de campo M43 - Gafas"
+
+
+msgctxt "desc/stuff/us_cap_patrol_gog_down"
+msgid "M43 Field Cap - Goggles"
+msgstr "Gorra de campo M43 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_camo_b"
+msgid "M1 Helmet - Camo"
+msgstr "Casco M1 - Camuflaje"
+
+
+msgctxt "desc/stuff/us_m1_camo_b_net_var1"
+msgid "M1 Helmet - Camo"
+msgstr "Casco M1 - Camuflaje"
+
+
+msgctxt "desc/stuff/us_m1_camo_b_net_var2"
+msgid "M1 Helmet - Camo"
+msgstr "Casco M1 - Camuflaje"
+
+
+msgctxt "desc/stuff/us_m1_engi"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_b"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_b_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_b_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_b_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_b_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_t"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_t_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_t_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_t_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_t_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_u"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_u_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_u_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_u_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_u_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_b"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_b_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_b_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_b_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_b_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_t"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_t_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_t_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_t_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_t_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_u"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_u_gog"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_u_gog_down"
+msgid "M1 Helmet - Goggles [Engineer]"
+msgstr "Casco M1 - Gafas [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_u_net_var1"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_engi_nco_u_net_var2"
+msgid "M1 Helmet [Engineer]"
+msgstr "Casco M1 [Ingeniero]"
+
+
+msgctxt "desc/stuff/us_m1_327gir"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_b"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_b_net_var1"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_b_net_var2"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_net_var1"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_net_var2"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_t"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_t_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap [327 GIR]"
+msgstr "Casco M1 - Gorro de lana M41 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_t_net_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap [327 GIR]"
+msgstr "Casco M1 - Gorro de lana M41 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_t_net_var1"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_t_net_var2"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_u"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_u_net_var1"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_u_net_var2"
+msgid "M1 Helmet [327 GIR]"
+msgstr "Casco M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b"
+msgid "M1 Helmet Officer [327 GIR]"
+msgstr "Casco de Oficial M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_1lt"
+msgid "M1 Helmet 1LT [327 GIR]"
+msgstr "Casco M1 1LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_2lt"
+msgid "M1 Helmet 2LT [327 GIR]"
+msgstr "Casco M1 2LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_col"
+msgid "M1 Helmet COL [327 GIR]"
+msgstr "Casco M1 COL [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_cpt"
+msgid "M1 Helmet CPT [327 GIR]"
+msgstr "Casco M1 CPT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_ltcol"
+msgid "M1 Helmet LTC [327 GIR]"
+msgstr "Casco M1 LTC [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_maj"
+msgid "M1 Helmet MAJ [327 GIR]"
+msgstr "Casco M1 MAJ [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1"
+msgid "M1 Helmet Officer [327 GIR]"
+msgstr "Casco de Oficial M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT [327 GIR]"
+msgstr "Casco M1 1LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT [327 GIR]"
+msgstr "Casco M1 2LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT [327 GIR]"
+msgstr "Casco M1 CPT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2"
+msgid "M1 Helmet Officer [327 GIR]"
+msgstr "Casco de Oficial M1 [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT [327 GIR]"
+msgstr "Casco M1 1LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT [327 GIR]"
+msgstr "Casco M1 2LT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT [327 GIR]"
+msgstr "Casco M1 CPT [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_b"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_b_net_var1"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_b_net_var2"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_net_var1"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_net_var2"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_t"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_t_net_var1"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_t_net_var2"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_u"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_u_net_var1"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_327gir_nco_u_net_var2"
+msgid "M1 Helmet NCO [327 GIR]"
+msgstr "M1 Casco Suboficial [327 GIR]"
+
+
+msgctxt "desc/stuff/us_m1_medic"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_b"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_b_net_var1"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_b_net_var2"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_net_var1"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_net_var2"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_t"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_t_net_var1"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_t_net_var2"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_u"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_u_net_var1"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_medic_u_net_var2"
+msgid "M1 Helmet [Medic]"
+msgstr "Casco M1 [Medic]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_b"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_b_gog"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_b_gog_down"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_gog"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_gog_down"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_t"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_t_gog"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_t_gog_down"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_u"
+msgid "M1 Helmet [MP]"
+msgstr "Casco M1 [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_u_gog"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_mp_coy_u_gog_down"
+msgid "M1 Helmet - Goggles [MP]"
+msgstr "Casco M1 - Gafas [MP]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_1"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_2"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_3"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_4"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_5"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_camo_1"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_camo_2"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_camo_3"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_b_net_camo_4"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_j"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_j_net_camo_1"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_j_net_camo_2"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_j_net_camo_3"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_j_net_camo_4"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_ju"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_ju_net_camo_1"
+msgid "M1 Helmet [Airborne]"
+msgstr "Casco M1 [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_ju_net_camo_2"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_ju_net_camo_3"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_ju_net_camo_4"
+msgid "M1 Helmet - Bandage [Airborne]"
+msgstr "Casco M1 - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_b_gog"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_b_gog_down"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_b_net_camo_gog"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_b_net_camo_gog_down"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_nco_b_gog"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_nco_b_gog_down"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_nco_b_net_camo_gog"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326aer_nco_b_net_camo_gog_down"
+msgid "M1 Helmet - Goggles [326 AER]"
+msgstr "Casco M1 - Gafas [326 AER]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_b"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_b_net_1"
+msgid "M1 Helmet - Bandage [326 AMC]"
+msgstr "Casco M1 - Vendaje [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_b_net_camo_1"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_j"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_j_net_camo_1"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_ju"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_ju_net_camo_1"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_326amc_u"
+msgid "M1 Helmet [326 AMC]"
+msgstr "Casco M1 [326 AMC]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_1"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_2"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_3"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_4"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_5"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_camo_1"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_camo_2"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_camo_3"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_b_net_camo_4"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_j"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_j_net_camo_1"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_j_net_camo_2"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_j_net_camo_3"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_j_net_camo_4"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_ju"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_ju_net_camo_1"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_ju_net_camo_2"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_ju_net_camo_3"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_ju_net_camo_4"
+msgid "M1 Helmet - Bandage [501 PIR]"
+msgstr "Casco M1 - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_u"
+msgid "M1 Helmet [501 PIR]"
+msgstr "Casco M1 [501 PIR]"
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b"
+msgid "M1 Helmet Officer [501 PIR]"
+msgstr "Casco de Oficial M1 [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_1lt"
+msgid "M1 Helmet 1LT [501 PIR]"
+msgstr "Casco M1 1LT [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_2lt"
+msgid "M1 Helmet 2LT [501 PIR]"
+msgstr "Casco M1 2LT [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_col"
+msgid "M1 Helmet COL [501 PIR]"
+msgstr "Casco M1 COL [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_cpt"
+msgid "M1 Helmet CPT [501 PIR]"
+msgstr "Casco M1 CPT [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_ltcol"
+msgid "M1 Helmet LTC [501 PIR]"
+msgstr "Casco M1 LTC [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_maj"
+msgid "M1 Helmet MAJ [501 PIR]"
+msgstr "Casco M1 MAJ [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_1lt"
+msgid "M1 Helmet 1LT - Bandage [501 PIR]"
+msgstr "Casco M1 1LT - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_2lt"
+msgid "M1 Helmet 2LT - Bandage [501 PIR]"
+msgstr "Casco M1 2LT - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_camo_1lt"
+msgid "M1 Helmet 1LT [501 PIR]"
+msgstr "Casco M1 1LT [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_camo_2lt"
+msgid "M1 Helmet 2LT - Bandage [501 PIR]"
+msgstr "Casco M1 2LT - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_camo_cpt"
+msgid "M1 Helmet CPT - Bandage [501 PIR]"
+msgstr "Casco M1 CPT - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_cpt"
+msgid "M1 Helmet CPT - Bandage [501 PIR]"
+msgstr "Casco M1 CPT - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_b"
+msgid "M1 Helmet NCO [501 PIR]"
+msgstr "M1 Casco Suboficial [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_b_net_3"
+msgid "M1 Helmet NCO - Bandage [501 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_b_net_camo_4"
+msgid "M1 Helmet NCO - Bandage [501 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [501 PIR]"
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_j"
+msgid "M1 Helmet NCO [501 PIR]"
+msgstr "Casco M1 Suboficial [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_j_net_camo_2"
+msgid "M1 Helmet NCO - Bandage [501 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_ju"
+msgid "M1 Helmet NCO [501 PIR]"
+msgstr "M1 Casco Suboficial [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_ju_net_camo_1"
+msgid "M1 Helmet NCO - Bandage [501 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_501pir_nco_u"
+msgid "M1 Helmet NCO [501 PIR]"
+msgstr "M1 Casco Suboficial [501 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_1"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_2"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_3"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_4"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_5"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_camo_1"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_camo_2"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_camo_3"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_b_net_camo_4"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_j"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_j_net_camo_1"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_j_net_camo_2"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_j_net_camo_3"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_j_net_camo_4"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_ju"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_ju_net_camo_1"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_ju_net_camo_2"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_ju_net_camo_3"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_ju_net_camo_4"
+msgid "M1 Helmet - Bandage [502 PIR]"
+msgstr "Casco M1 - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_u"
+msgid "M1 Helmet [502 PIR]"
+msgstr "Casco M1 [502 PIR]"
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b"
+msgid "M1 Helmet Officer [502 PIR]"
+msgstr "Casco de Oficial M1 [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_1lt"
+msgid "M1 Helmet 1LT [502 PIR]"
+msgstr "Casco M1 1LT [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_2lt"
+msgid "M1 Helmet 2LT [502 PIR]"
+msgstr "Casco M1 2LT [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_col"
+msgid "M1 Helmet COL [502 PIR]"
+msgstr "Casco M1 COL [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_ltcol"
+msgid "M1 Helmet LTC [502 PIR]"
+msgstr "Casco M1 LTC [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_maj"
+msgid "M1 Helmet MAJ [502 PIR]"
+msgstr "Casco M1 MAJ [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_1lt"
+msgid "M1 Helmet 1LT - Bandage [502 PIR]"
+msgstr "Casco M1 1LT - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_2lt"
+msgid "M1 Helmet 2LT - Bandage [502 PIR]"
+msgstr "Casco M1 2LT - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_camo_1lt"
+msgid "M1 Helmet 1LT [502 PIR]"
+msgstr "Casco M1 1LT [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_camo_2lt"
+msgid "M1 Helmet 2LT - Bandage [502 PIR]"
+msgstr "Casco M1 2LT - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_camo_cpt"
+msgid "M1 Helmet CPT - Bandage [502 PIR]"
+msgstr "Casco M1 CPT - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_cpt"
+msgid "M1 Helmet CPT - Bandage [502 PIR]"
+msgstr "Casco M1 CPT - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_b"
+msgid "M1 Helmet NCO [502 PIR]"
+msgstr "M1 Casco Suboficial [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_b_net_3"
+msgid "M1 Helmet NCO - Bandage [502 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_b_net_camo_4"
+msgid "M1 Helmet NCO - Bandage [502 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [502 PIR]"
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_j"
+msgid "M1 Helmet NCO [502 PIR]"
+msgstr "Casco M1 Suboficial [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_j_net_camo_2"
+msgid "M1 Helmet NCO - Bandage [502 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_ju"
+msgid "M1 Helmet NCO [502 PIR]"
+msgstr "M1 Casco Suboficial [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_ju_net_camo_1"
+msgid "M1 Helmet NCO - Bandage [502 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_502pir_nco_u"
+msgid "M1 Helmet NCO [502 PIR]"
+msgstr "M1 Casco Suboficial [502 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_1"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_2"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_3"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_4"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_5"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_camo_1"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_camo_2"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_camo_3"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_b_net_camo_4"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_j"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_j_net_camo_1"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_j_net_camo_2"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_j_net_camo_3"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_j_net_camo_4"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_ju"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_ju_net_camo_1"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_ju_net_camo_2"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_ju_net_camo_3"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_ju_net_camo_4"
+msgid "M1 Helmet - Bandage [506 PIR]"
+msgstr "Casco M1 - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_u"
+msgid "M1 Helmet [506 PIR]"
+msgstr "Casco M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b"
+msgid "M1 Helmet Officer [506 PIR]"
+msgstr "Casco de Oficial M1 [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_1lt"
+msgid "M1 Helmet 1LT [506 PIR]"
+msgstr "Casco M1 1LT [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_2lt"
+msgid "M1 Helmet 2LT [506 PIR]"
+msgstr "Casco M1 2LT [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_col"
+msgid "M1 Helmet COL [506 PIR]"
+msgstr "Casco M1 COL [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_ltcol"
+msgid "M1 Helmet LTC [506 PIR]"
+msgstr "Casco M1 LTC [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_maj"
+msgid "M1 Helmet MAJ [506 PIR]"
+msgstr "Casco M1 MAJ [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_1lt"
+msgid "M1 Helmet 1LT - Bandage [506 PIR]"
+msgstr "Casco M1 1LT - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_2lt"
+msgid "M1 Helmet 2LT - Bandage [506 PIR]"
+msgstr "Casco M1 2LT - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_camo_1lt"
+msgid "M1 Helmet 1LT [506 PIR]"
+msgstr "Casco M1 1LT [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_camo_2lt"
+msgid "M1 Helmet 2LT - Bandage [506 PIR]"
+msgstr "Casco M1 2LT - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_camo_cpt"
+msgid "M1 Helmet CPT - Bandage [506 PIR]"
+msgstr "Casco M1 CPT - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_cpt"
+msgid "M1 Helmet CPT - Bandage [506 PIR]"
+msgstr "Casco M1 CPT - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_b"
+msgid "M1 Helmet NCO [506 PIR]"
+msgstr "Casco M1 Suboficial [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_b_net_3"
+msgid "M1 Helmet NCO - Bandage [506 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_b_net_camo_4"
+msgid "M1 Helmet NCO - Bandage [506 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [506 PIR]"
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_j"
+msgid "M1 Helmet NCO [506 PIR]"
+msgstr "Casco M1 Suboficial [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_j_net_camo_2"
+msgid "M1 Helmet NCO - Bandage [506 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_ju"
+msgid "M1 Helmet NCO [506 PIR]"
+msgstr "Casco M1 Suboficial [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_ju_net_camo_1"
+msgid "M1 Helmet NCO - Bandage [506 PIR]"
+msgstr "Casco M1 Suboficial - Vendaje [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_506pir_nco_u"
+msgid "M1 Helmet NCO [506 PIR]"
+msgstr "Casco M1 Suboficial [506 PIR]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_1lt"
+msgid "M1 Helmet 1LT - Bandage [Airborne]"
+msgstr "Casco M1 1LT - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_2lt"
+msgid "M1 Helmet 2LT - Bandage [Airborne]"
+msgstr "Casco M1 2LT - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_camo_1lt"
+msgid "M1 Helmet 1LT [Airborne]"
+msgstr "Casco M1 1LT [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_camo_2lt"
+msgid "M1 Helmet 2LT - Bandage [Airborne]"
+msgstr "Casco M1 2LT - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_camo_cpt"
+msgid "M1 Helmet CPT - Bandage [Airborne]"
+msgstr "Casco M1 CPT - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_co_b_net_cpt"
+msgid "M1 Helmet CPT - Bandage [Airborne]"
+msgstr "Casco M1 CPT - Vendaje [Airborne]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_b_net_3"
+msgid "M1 Helmet NCO - Bandage [Airborne]"
+msgstr "M1 Casco Suboficial - Vendaje [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_b_net_camo_4"
+msgid "M1 Helmet NCO - Bandage [Airborne]"
+msgstr "M1 Casco Suboficial - Vendaje [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_j"
+msgid "M1 Helmet NCO [Airborne]"
+msgstr "Casco Suboficial M1 [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_j_net_camo_2"
+msgid "M1 Helmet NCO - Bandage [Airborne]"
+msgstr "M1 Casco Suboficial - Vendaje [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_ju"
+msgid "M1 Helmet NCO [Airborne]"
+msgstr "Casco Suboficial M1 [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_para_nco_ju_net_camo_1"
+msgid "M1 Helmet NCO [Airborne]"
+msgstr "Casco Suboficial M1 [Aerotransportado]"
+
+
+msgctxt "desc/stuff/us_m1_ranger"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_b"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_b_net_var1"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_b_net_var2"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_net_var1"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_net_var2"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_t"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_t_net_var1"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_t_net_var2"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_u"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_u_net_var1"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_u_net_var2"
+msgid "M1 Helmet [2 RBN]"
+msgstr "Casco M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co"
+msgid "M1 Helmet Officer [2 RBN]"
+msgstr "Casco de Oficial M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b"
+msgid "M1 Helmet Officer [2 RBN]"
+msgstr "Casco de Oficial M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_1lt"
+msgid "M1 Helmet 1LT [2 RBN]"
+msgstr "Casco M1 1LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_2lt"
+msgid "M1 Helmet 2LT [2 RBN]"
+msgstr "Casco M1 2LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_col"
+msgid "M1 Helmet COL [2 RBN]"
+msgstr "Casco M1 COL [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_cpt"
+msgid "M1 Helmet CPT [2 RBN]"
+msgstr "Casco M1 CPT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_ltcol"
+msgid "M1 Helmet LTC [2 RBN]"
+msgstr "Casco M1 LTC [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_maj"
+msgid "M1 Helmet MAJ [2 RBN]"
+msgstr "Casco M1 MAJ [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1"
+msgid "M1 Helmet Officer [2 RBN]"
+msgstr "Casco de Oficial M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT [2 RBN]"
+msgstr "Casco M1 1LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT [2 RBN]"
+msgstr "Casco M1 2LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT [2 RBN]"
+msgstr "Casco M1 CPT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2"
+msgid "M1 Helmet Officer [2 RBN]"
+msgstr "Casco de Oficial M1 [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT [2 RBN]"
+msgstr "Casco M1 1LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT [2 RBN]"
+msgstr "Casco M1 2LT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT [2 RBN]"
+msgstr "Casco M1 CPT [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_b"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_b_net_var1"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_b_net_var2"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_net_var1"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_net_var2"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_t"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_t_net_var1"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_t_net_var2"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_u"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_u_net_var1"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1_ranger_nco_u_net_var2"
+msgid "M1 Helmet NCO [2 RBN]"
+msgstr "M1 Casco Suboficial [2 RBN]"
+
+
+msgctxt "desc/stuff/us_m1"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_b"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_b_gog"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_b_gog_down"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_b_net_gog"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_b_net_gog_down"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_b_net_var1"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_b_net_var2"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_gog"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_gog_down"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_net_var1"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_net_var2"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_t"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_t_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap"
+msgstr "Casco M1 - Gorro de lana M41"
+
+
+msgctxt "desc/stuff/us_m1_t_cap_patrol"
+msgid "M1 Helmet - M43 Field Cap"
+msgstr "Casco M1 - Gorra de campaña M43"
+
+
+msgctxt "desc/stuff/us_m1_t_gog"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_t_gog_down"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_t_net_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap"
+msgstr "Casco M1 - Gorro de lana M41"
+
+
+msgctxt "desc/stuff/us_m1_t_net_cap_patrol"
+msgid "M1 Helmet - M43 Field Cap"
+msgstr "Casco M1 - Gorra de campaña M43"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var1"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var2"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_u"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_u_gog"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_u_gog_down"
+msgid "M1 Helmet - Goggles"
+msgstr "Casco M1 - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var1"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var2"
+msgid "M1 Helmet"
+msgstr "Casco M1"
+
+
+msgctxt "desc/stuff/us_m1_1st"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_b"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_b_net_var1"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_b_net_var2"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_net_var1"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_net_var2"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap [1st ID]"
+msgstr "Casco M1 - Gorro de lana M41 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_cap_patrol"
+msgid "M1 Helmet - M43 Field Cap [1st ID]"
+msgstr "Casco M1 - Gorra de campaña M43 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_net_cap_jeep"
+msgid "M1 Helmet - M41 Wool Cap [1st ID]"
+msgstr "Casco M1 - Gorro de lana M41 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_net_cap_patrol"
+msgid "M1 Helmet - M43 Field Cap [1st ID]"
+msgstr "Casco M1 - Gorra de campaña M43 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_net_var1"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_t_net_var2"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_u"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_u_net_var1"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_u_net_var2"
+msgid "M1 Helmet [1st ID]"
+msgstr "Casco M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_1lt"
+msgid "M1 Helmet 1LT [1st ID]"
+msgstr "Casco M1 1LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_2lt"
+msgid "M1 Helmet 2LT [1st ID]"
+msgstr "Casco M1 2LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var1"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT [1st ID]"
+msgstr "Casco M1 1LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT [1st ID]"
+msgstr "Casco M1 2LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT [1st ID]"
+msgstr "Casco M1 CPT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var2"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT [1st ID]"
+msgstr "Casco M1 1LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT [1st ID]"
+msgstr "Casco M1 2LT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT [1st ID]"
+msgstr "Casco M1 CPT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_cpt"
+msgid "M1 Helmet CPT [1st ID]"
+msgstr "Casco M1 CPT [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_net_var1"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_co_net_var2"
+msgid "M1 Helmet Officer [1st ID]"
+msgstr "Casco de Oficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_b"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_b_net_var1"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_b_net_var2"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_net_var1"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_net_var2"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_t"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_t_net_var1"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_t_net_var2"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_u"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_u_net_var1"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_1st_nco_u_net_var2"
+msgid "M1 Helmet NCO [1st ID]"
+msgstr "Casco Suboficial M1 [1ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_b"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_b_net_var1"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_b_net_var2"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var1"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var2"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var1"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var2"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var1"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var2"
+msgid "M1 Helmet [3rd ID]"
+msgstr "Casco M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_1lt"
+msgid "M1 Helmet 1LT [3rd ID]"
+msgstr "Casco M1 1LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_2lt"
+msgid "M1 Helmet 2LT [3rd ID]"
+msgstr "Casco M1 2LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT [3rd ID]"
+msgstr "Casco M1 1LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT [3rd ID]"
+msgstr "Casco M1 2LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT [3rd ID]"
+msgstr "Casco M1 CPT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT [3rd ID]"
+msgstr "Casco M1 1LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT [3rd ID]"
+msgstr "Casco M1 2LT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT [3rd ID]"
+msgstr "Casco M1 CPT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_co_cpt"
+msgid "M1 Helmet CPT [3rd ID]"
+msgstr "Casco M1 CPT [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_b"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_b_net_var1"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_b_net_var2"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_net_var1"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_net_var2"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_t"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_t_net_var1"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_t_net_var2"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_u"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_u_net_var1"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_3rd_nco_u_net_var2"
+msgid "M1 Helmet NCO [3rd ID]"
+msgstr "Casco Suboficial M1 [3ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_b"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_b_net_var1"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_b_net_var2"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var1"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var2"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var1"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var2"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var1"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var2"
+msgid "M1 Helmet [29th ID]"
+msgstr "Casco M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_co"
+msgid "M1 Helmet Officer [29th ID]"
+msgstr "Casco de Oficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_co_b_net_var1"
+msgid "M1 Helmet Officer [29th ID]"
+msgstr "Casco de Oficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_co_b_net_var2"
+msgid "M1 Helmet Officer [29th ID]"
+msgstr "Casco de Oficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_b"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_b_net_var1"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_b_net_var2"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_net_var1"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_net_var2"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_t"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_t_net_var1"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_t_net_var2"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_u"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_u_net_var1"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_29th_nco_u_net_var2"
+msgid "M1 Helmet NCO [29th ID]"
+msgstr "Casco Suboficial M1 [29ª ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_b"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_b_net_var1"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_b_net_var2"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var1"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_net_var2"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_t"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var1"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_t_net_var2"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_u"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var1"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_u_net_var2"
+msgid "M1 Helmet [45th ID]"
+msgstr "Casco M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_1lt"
+msgid "M1 Helmet 1LT [45th ID]"
+msgstr "Casco M1 1LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_2lt"
+msgid "M1 Helmet 2LT [45th ID]"
+msgstr "Casco M1 2LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT [45th ID]"
+msgstr "Casco M1 1LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT [45th ID]"
+msgstr "Casco M1 2LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT [45th ID]"
+msgstr "Casco M1 CPT [45th ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT [45th ID]"
+msgstr "Casco M1 1LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT [45th ID]"
+msgstr "Casco M1 2LT [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT [45th ID]"
+msgstr "Casco M1 CPT [45th ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_co_cpt"
+msgid "M1 Helmet CPT [45th ID]"
+msgstr "Casco M1 CPT [45th ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_b"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_b_net_var1"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_b_net_var2"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_net_var1"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_net_var2"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_t"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_t_net_var1"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_t_net_var2"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_u"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_u_net_var1"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_45th_nco_u_net_var2"
+msgid "M1 Helmet NCO [45th ID]"
+msgstr "Casco Suboficial M1 [45º ID]"
+
+
+msgctxt "desc/stuff/us_m1_co"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_co_1lt"
+msgid "M1 Helmet 1LT"
+msgstr "Casco M1 1LT"
+
+
+msgctxt "desc/stuff/us_m1_co_2lt"
+msgid "M1 Helmet 2LT"
+msgstr "Casco M1 2LT"
+
+
+msgctxt "desc/stuff/us_m1_co_b"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var1"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var1_1lt"
+msgid "M1 Helmet 1LT"
+msgstr "Casco M1 1LT"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var1_2lt"
+msgid "M1 Helmet 2LT"
+msgstr "Casco M1 2LT"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var1_cpt"
+msgid "M1 Helmet CPT"
+msgstr "Casco M1 CPT"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var2"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var2_1lt"
+msgid "M1 Helmet 1LT"
+msgstr "Casco M1 1LT"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var2_2lt"
+msgid "M1 Helmet 2LT"
+msgstr "Casco M1 2LT"
+
+
+msgctxt "desc/stuff/us_m1_co_b_net_var2_cpt"
+msgid "M1 Helmet CPT"
+msgstr "Casco M1 CPT"
+
+
+msgctxt "desc/stuff/us_m1_co_col"
+msgid "M1 Helmet COL"
+msgstr "Casco M1 COL"
+
+
+msgctxt "desc/stuff/us_m1_co_cpt"
+msgid "M1 Helmet CPT"
+msgstr "Casco M1 CPT"
+
+
+msgctxt "desc/stuff/us_m1_co_gen1"
+msgid "M1 Helmet BG"
+msgstr "Casco M1 BG"
+
+
+msgctxt "desc/stuff/us_m1_co_gen2"
+msgid "M1 Helmet MG"
+msgstr "Casco M1 MG"
+
+
+msgctxt "desc/stuff/us_m1_co_gen3"
+msgid "M1 Helmet LTG"
+msgstr "Casco M1 LTG"
+
+
+msgctxt "desc/stuff/us_m1_co_gen4"
+msgid "M1 Helmet GEN"
+msgstr "Casco M1 GEN"
+
+
+msgctxt "desc/stuff/us_m1_co_gen4_var1"
+msgid "M1 Helmet GEN"
+msgstr "Casco M1 GEN"
+
+
+msgctxt "desc/stuff/us_m1_co_ltcol"
+msgid "M1 Helmet LTC"
+msgstr "Casco M1 LTC"
+
+
+msgctxt "desc/stuff/us_m1_co_maj"
+msgid "M1 Helmet MAJ"
+msgstr "Casco M1 MAJ"
+
+
+msgctxt "desc/stuff/us_m1_co_net_var1"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_co_net_var2"
+msgid "M1 Helmet Officer"
+msgstr "Casco de Oficial M1"
+
+
+msgctxt "desc/stuff/us_m1_nco"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_b"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_b_gog"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_b_gog_down"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_b_net_var1"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_b_net_var2"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_gog"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_gog_down"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_net_var1"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_net_var2"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_t"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_t_gog"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_t_gog_down"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_t_net_var1"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_t_net_var2"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_u"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_u_gog"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_u_gog_down"
+msgid "M1 Helmet NCO - Goggles"
+msgstr "Casco M1 NCO - Gafas"
+
+
+msgctxt "desc/stuff/us_m1_nco_u_net_var1"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m1_nco_u_net_var2"
+msgid "M1 Helmet NCO"
+msgstr "Casco M1 Suboficial"
+
+
+msgctxt "desc/stuff/us_m38_tank"
+msgid "M38 Tank Helmet"
+msgstr "Casco de Tanque M38"
+
+
+msgctxt "desc/stuff/us_m38_tank_gog"
+msgid "M38 Tank Helmet - Goggles"
+msgstr "Casco de Tanque M38 - Gafas"
+
+
+msgctxt "desc/stuff/us_m38_tank_gog_down"
+msgid "M38 Tank Helmet - Goggles"
+msgstr "Casco de Tanque M38 - Gafas"
+
+
+msgctxt "desc/stuff/us_m38_tank_m1"
+msgid "M1 Helmet - M38 Tank Helmet"
+msgstr "Casco M1 - Casco de Tanque M38"
+
+
+msgctxt "desc/stuff/us_m38_tank_m1_gog_down"
+msgid "M1 Helmet - M38 and Goggles"
+msgstr "Casco M1 - M38 y Gafas"
+
+
+msgctxt "desc/stuff/us_m38_tank_m1_gog1"
+msgid "M1 Helmet - M38 and Goggles"
+msgstr "Casco M1 - M38 y Gafas"
+
+
+msgctxt "desc/stuff/us_m38_tank_m1_gog2"
+msgid "M1 Helmet - M38 and Goggles"
+msgstr "Casco M1 - M38 y Gafas"
+
+
+msgctxt "desc/stuff/us_m1_usn_1_b"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_1_t"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_1_u"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_2_b"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_2_t"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_2_u"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_3_b"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_3_t"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"
+
+
+msgctxt "desc/stuff/us_m1_usn_3_u"
+msgid "M1 Helmet [USN]"
+msgstr "Casco M1 [USN]"

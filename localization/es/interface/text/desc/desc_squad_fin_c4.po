@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgctxt "desc/squad/squad_reserves_late(fin)"
+msgid "<c(A5A095)>(1)</c> Reserve Rifle Squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros reservistas"
+
+msgctxt "desc/squad/squad_scout_late(fin)"
+msgid "<c(A5A095)>(2)</c> Scout Section"
+msgstr "<c(A5A095)>(2)</c> Sección de reconocimiento"
+
+msgctxt "desc/squad/squad_rifle_late(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón de fusileros"
+
+msgctxt "desc/squad/squad_antitank_late(fin)"
+msgid "<c(A5A095)>(2)</c> AT Squad"
+msgstr "<c(A5A095)>(2)</c> Escuadrón Anti-tanque"
+
+msgctxt "desc/squad/squad_cav_late(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrón de Caballería"
+
+msgctxt "desc/squad/squad_jag_late(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jäger"
+
+msgctxt "desc/squad/squad_jag_antitank_late(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger AT Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jäger Anti-tanque"
+
+msgctxt "desc/squad/squad_border_jag_late(fin)"
+msgid "<c(A5A095)>(4)</c> Border Jäger Squad"
+msgstr "<c(A5A095)>(4)</c> Escuadrón Jäger fronterizo"
+
+msgctxt "desc/squad/single_bazooker(fin)"
+msgid "AT Detachment"
+msgstr "Destacamento Anti-tanque"
+
+msgctxt "desc/squad/fin_captured_v_t26_late"
+msgid "Captured Vehicles"
+msgstr "Tanques capturados"
+
+msgctxt "desc/squad/fin_captured_v_t3476_mid"
+msgid "Captured Vehicles"
+msgstr "Tanques capturados"
+
+msgctxt "desc/squad/fin_captured_v_t3476"
+msgid "Captured Vehicles"
+msgstr "Tanques capturados"
+
+msgctxt "desc/squad/fin_captured_v_t3485"
+msgid "Captured Vehicles"
+msgstr "Tanques capturados"

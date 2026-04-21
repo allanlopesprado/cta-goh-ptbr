@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Airborne narrators\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgctxt "desc/human/narrator/fra-civilian1"
+msgid "French Farmer"
+msgstr "Granjero francés"
+
+msgctxt "desc/human/narrator/fra-civilian2"
+msgid "French Civilian"
+msgstr "Civil francés"
+
+msgctxt "desc/human/narrator/ger-civilian"
+msgid "German Civilian"
+msgstr "Civil alemán"
+
+msgctxt "desc/human/narrator/usa-airborne_officer"
+msgid "82nd Airborne Platoon Commander"
+msgstr "Comandante de pelotón de la 82ª División Aerotransportada"
+
+msgctxt "desc/human/narrator/usa-airborne_officer101"
+msgid "101st Airborne Platoon Commander"
+msgstr "Comandante de pelotón de la 101 Aerotransportada"
+
+msgctxt "desc/human/narrator/usa-airborne_soldier"
+msgid "82nd Paratrooper"
+msgstr "Paracaidista de la 82.ª"
+
+msgctxt "desc/human/narrator/usa-airborne_soldier101"
+msgid "101st Paratrooper"
+msgstr "Paracaidista de la 101.ª"
+
+msgctxt "desc/human/narrator/usa-desobry"
+msgid "Maj. William R. Desobry"
+msgstr "Mayor William R. Desobry"
+
+msgctxt "desc/human/narrator/usa-winters"
+msgid "Lt. Richard Winters"
+msgstr "Teniente Richard Winters"
+
+msgctxt "desc/human/narrator/usa-lipton"
+msgid "Sgt. Carwood Lipton"
+msgstr "Sargento Carwood Lipton"
+
+msgctxt "desc/human/narrator/usa-mcauliffe"
+msgid "Gen. Anthony McAuliffe"
+msgstr "General Anthony McAuliffe"
+
+msgctxt "desc/human/narrator/usa-spiers"
+msgid "Lt. Ronald Speirs"
+msgstr "Teniente Ronald Speirs"
+
+msgctxt "desc/human/narrator/usa-airborne_officer_winter"
+msgid "82nd Airborne Platoon Commander"
+msgstr "Comandante de pelotón de la 82ª División Aerotransportada"
+
+msgctxt "desc/human/narrator/usa-airborne_officer101_winter"
+msgid "101st Airborne Platoon Commander"
+msgstr "Comandante de pelotón de la 101 Aerotransportada"
+
+msgctxt "desc/human/narrator/usa-airborne_soldier_winter"
+msgid "82nd Paratrooper"
+msgstr "Paracaidista de la 82.ª"
+
+msgctxt "desc/human/narrator/usa-airborne_soldier101_winter"
+msgid "101st Paratrooper"
+msgstr "Paracaidista de la 101.ª"

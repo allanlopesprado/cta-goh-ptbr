@@ -1,0 +1,565 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (1943_07_petrovka)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:18+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/a_soliders_reinf"
+msgid "Infantry squad"
+msgstr "Escuadrón de infantería"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/art_strike"
+msgid "Support fire"
+msgstr "Fuego de apoyo"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/date"
+msgid "9th July 1943 · Petrovka, south of Kursk"
+msgstr "9 de julio de 1943 · Petrovka, al sur de Kursk"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/gameover_lose"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/gameover_won"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/name"
+msgid "The Ace of Swords"
+msgstr "As de espadas"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/name_big"
+msgid "The Ace of Swords"
+msgstr "As de espadas"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_00"
+msgid "Good! Keep pushing forward."
+msgstr "¡Genial! Sigue avanzando."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_01"
+msgid "Get a move on! Faster!"
+msgstr "¡Avanza! ¡Más rápido!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_02"
+msgid "Great work soldier! Keep advancing."
+msgstr "¡Bien hecho, soldado! Continúa."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_03"
+msgid ""
+"Attack the next line! We must capture the village before the enemy "
+"reinforces the line."
+msgstr "¡Ataca la próxima línea! Tenemos que capturar la aldea antes de que el enemigo envíe refuerzos."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_04"
+msgid "Attack the village right now!"
+msgstr "¡Asalta la aldea, ya!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_05"
+msgid ""
+"It looks like the pilot survived, we must save him! Push forward quickly."
+msgstr "Parece que el piloto ha sobrevivido, ¡tenemos que salvarlo! Ejerce presión."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_06"
+msgid "Maybe the pilot was injured, let's not lose any time."
+msgstr "Puede que el piloto haya sufrido heridas, no perdamos ni un segundo."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_07"
+msgid ""
+"Great, the village is ours. Prepare to defend it. We must hold the village "
+"until the main force gets here."
+msgstr "Perfecto, la aldea es nuestra. Prepárate para defenderla. Hay que proteger la aldea hasta que lleguen las tropas principales."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_08"
+msgid "Damn it!"
+msgstr "¡Mierda!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_09"
+msgid "Find that pilot! Search the whole village, we must save him."
+msgstr "¡Busca al piloto! Registra la aldea, hay que salvarlo."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_10"
+msgid "We saw you come down! We did our best to pick you up!"
+msgstr "¡Te vimos caer y vinimos corriendo a por ti!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_11"
+msgid ""
+"We will take you back to the nearest airfield. Stay close to us, the enemy "
+"will soon respond to our attack!"
+msgstr "Vamos a llevarte al campo aéreo más cercano. No te separes de nosotros, ¡que el enemigo va a contratacar!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_12"
+msgid "Fine. Move to the village, check each house, kill any enemies you find."
+msgstr "De acuerdo. Dirígete a la aldea, registra las casas y elimina a los enemigos que encuentres."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_13"
+msgid "Now we are deprived of support for our tanks."
+msgstr "Nos hemos quedado sin apoyo para nuestros tanques."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_14"
+msgid "Kolkrabe-5, stay on the road!"
+msgstr "Kolkrabe-5, ¡permanece en la carretera!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_15"
+msgid ""
+"Herr Leutnant, our task is to capture and hold the village ahead until our "
+"main forces can arrive to reinforce the position."
+msgstr "Herr Leutnant, nuestra misión es capturar y defender la aldea hasta que nuestras tropas principales lleguen para reforzar la posición."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_16"
+msgid ""
+"The fields are mined, our tanks will remain on the road and advance behind "
+"you."
+msgstr "Se han minado los campos, por lo que nuestros tanques permanecerán en la carretera y seguirán tus pasos."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_17"
+msgid "You have enough soldiers under command."
+msgstr "Ya hay suficientes soldados a tus órdenes."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_18"
+msgid ""
+"Your infantry must destroy the obstacles and fortifications on the road "
+"using dynamite. You can find dynamite in the trucks!"
+msgstr "Consigue que tu infantería destruya con dinamita los obstáculos y fortificaciones que hay en la carretera. ¡Los camiones contienen dinamita!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_19"
+msgid ""
+"As long as you keep your Radio Operator alive, we can signal the Panzers "
+"where to fire."
+msgstr "Siempre y cuando tu operador de radio siga con vida, podremos indicar a los Panzer dónde disparar."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_20"
+msgid "You have lost control of the village."
+msgstr "Has perdido el control de la aldea."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_21"
+msgid "Our radio operators did a perfect job. Target destroyed."
+msgstr "Nuestros operadores de radio han hecho un gran trabajo: objetivo destruido."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_22"
+msgid "Take the village now, or risk a counterattack!"
+msgstr "¡Toma la aldea antes de que nos contrataquen!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_23"
+msgid ""
+"Intelligence reports that Russian troops have begun to move toward the "
+"village."
+msgstr "Nuestros agentes nos informan de que las tropas rusas han comenzado su aproximación a la aldea."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_24"
+msgid "You failed to capture the village. Your superiors will not be amused."
+msgstr "No has conseguido capturar la aldea. Tus superiores no estarán muy contentos."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_25"
+msgid ""
+"You still haven't found him? Get on with it! The enemy could be here any "
+"moment!"
+msgstr "¿Todavía no lo has encontrado?"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_26"
+msgid ""
+"Intelligence reports on the appearance of large concentrations of enemy "
+"troops, they will begin the offensive very soon! Hurry up!"
+msgstr "Nuestros agentes nos informan de que han aparecido grandes concentraciones de tropas rusas, ¡no tardarán en atacar! ¡Date prisa!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_27"
+msgid "Find that pilot!"
+msgstr "¡Busca al piloto!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_28"
+msgid ""
+"I will not allow a repeat of Stalingrad. Retreat! They are breaking through "
+"to our positions!"
+msgstr "No consentiré que se repita lo de Stalingrado. ¡Retirada! ¡Están alcanzando nuestra posición!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_29"
+msgid ""
+"Stay calm and hold positions, our reinforcements will break through their "
+"positions."
+msgstr "Calmaos y defended, los refuerzos se encargarán."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_30"
+msgid "We are leaving, but we will return."
+msgstr "Nos marchamos, pero no para siempre."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_31"
+msgid ""
+"On all fronts we're losing a collosal amount of armor to mines. This "
+"situation is completely unsustainable."
+msgstr "Nuestro blindaje ha sufrido grandes daños por culpa de las minas en todos los frentes. Esto no puede seguir así."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_32"
+msgid ""
+"The sappers got held up when their column was destroyed by Soviet strike "
+"aircraft."
+msgstr "Los zapadores fueron retenidos cuando un avión soviético destruyó la columna."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_33"
+msgid "Affirmative. Stay on the main road for now. "
+msgstr "Afirmativo. De momento quédate en la carretera principal. "
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_34"
+msgid "You are suffering many losses. You can call for reinforcements."
+msgstr "Estás sufriendo demasiadas bajas, puedes solicitar refuerzos."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/outro_completed"
+msgid ""
+"This mission, based on Rall’s biography, is the story of a very lucky "
+"pilot.  In his own words, \n"
+"he was ‘lucky an energetic Panzer commander rushed a column forward and "
+"offered a ride to safety’. \n"
+"The battle of Kursk was \n"
+"followed by ‘Operation Kutuzov’, during which the Soviet army took the "
+"initiative for the remainder of the war. \n"
+"Günther Rall was fortunate enough to survive this adventure and the war as "
+"well."
+msgstr "Esta misión, según la biografía de Rall, trata la historia de un piloto con suerte. En palabras suyas, \n\"la misma suerte que un comandante de un Panzer que rompe una columna te ofrezca a llevarte a un lugar seguro\". \nLa batalla de Kursk \nprecedió a la \"Operación Kutuzov\", mediante la cual el ejército soviético tomó la iniciativa durante lo que restaba de guerra. \nGünther Rall gozó de la suerte de poder sobrevivir tanto a su aventura como a la guerra."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/outro_failed"
+msgid ""
+"As a result of your actions, JG52 has just lost its most talented commander. "
+"When the news of the death \n"
+"of Günther Rall reaches his unit, their morale will slump and in absence of "
+"leadership, the standards will slip \n"
+"and losses will mount, making a reorganisation necessary to dissolve III./"
+"JG52."
+msgstr "Como consecuencia de tus acciones, JG52 acaba de perder a su comandante más talentoso. Cuando su unidad descubra que Günther ha muerto, \nla moral de los soldados bajará notablemente al haber perdido a su líder. Los estándares se reducirán \ny las pérdidas se acumularán hasta el punto de que será necesaria una reorganización para disolver III./JG52."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/place"
+msgid "An unidentified armored column"
+msgstr "Columna blindada no identificada"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_00"
+msgid ""
+"Don't shoot! This is Hauptmann Günther Rall, I belong to Jagdgeschwader 52. "
+"I had to ditch my plane nearby after an engagement!"
+msgstr "¡No dispares! Soy Hauptmann Günther Rall, formo parte de la Jagdgeschwader 52. ¡He tenido que abandonar el avión después de que me atacaran!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_01"
+msgid ""
+"I am most grateful! If it wasn't for your swift assault, I'd be captured and "
+"on my way to Siberia!"
+msgstr "¡Mil gracias! De no ser por el asalto, ¡me habrían capturado y enviado a Siberia!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_02"
+msgid "Roger that, Herr Leutnant."
+msgstr "Recibido, Herr Leutnant."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_03"
+msgid "Thank you soldier."
+msgstr "Gracias, soldado."
+
+#, boost-format
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_hp"
+msgid "Captain Rall's survival chance is %1% Percent."
+msgstr "La probabilidad de supervivencia del capitán Rall es de un %1% porciento."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/reinf/officer"
+msgid ""
+"Send a radio message to HQ and request a reinforcement squad immediately! "
+msgstr "¡Envía un mensaje por radio a la sede y solicita un escuadrón de refuerzos ya! "
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_00"
+msgid "We have captured the right flank!"
+msgstr "¡Hemos capturado el flanco derecho!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_01"
+msgid "We have breached the center!"
+msgstr "¡Hemos roto el centro!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_02"
+msgid "We have captured the left flank!"
+msgstr "¡Hemos capturado el flanco izquierdo!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_03"
+msgid "We have broken through the entire first line of defence!"
+msgstr "¡Hemos atravesado la primera línea defensiva al completo!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_04"
+msgid "We have stormed the second line of defence!"
+msgstr "¡Hemos asaltado la segunda línea defensiva!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_05"
+msgid "Take cover! Fire in the hole!"
+msgstr "¡A cubierto! ¡Nos disparan!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_06"
+msgid ""
+"Herr Leutnant! One of our fighter aircraft just crash landed in the village "
+"ahead!"
+msgstr "¡Herr Leutnant! ¡Una de nuestras unidades aéreas se acaba de estrellar con la aldea ubicada más adelante!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_07"
+msgid ""
+"Herr Leutnant, we found the plane, but not the pilot. He must be hiding "
+"somewhere, or maybe he was captured."
+msgstr "Herr Leutnant, hemos encontrado el avión pero no al piloto. O lo han capturado o está escondido en alguna parte."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_08"
+msgid ""
+"We captured the last line of defence. Nothing stops us from reaching the "
+"village!"
+msgstr "Hemos capturado la última línea defensiva, ¡tenemos vía libre hasta la aldea!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_09"
+msgid "Our radio operators were killed!"
+msgstr "¡Se han cargado a nuestros operadores de radio!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_10"
+msgid ""
+"Captain, we'll give you a ride back, we need to evacuate you immediately!"
+msgstr "Te vamos a llevar de vuelta, capitán, ¡necesitamos que huyas de inmediato!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_11"
+msgid "There is a Russian tank in the village!"
+msgstr "¡Hay un tanque ruso en la aldea!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_12"
+msgid "This car looks like it's in running order. Maybe we can use it."
+msgstr "Parece que el vehículo funciona perfectamente, quizá podamos usarlo."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_13"
+msgid "Scheisse! Soviet troops behind us! We are surrounded!"
+msgstr "¡Scheisse! ¡Nos persiguen tropas soviéticas! ¡Estamos rodeados!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_14"
+msgid "Reinforcements have arrived!"
+msgstr "¡Han llegado refuerzos!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_15"
+msgid "Damn! how are we going to get past these minefields?"
+msgstr "¡Maldita sea! ¿Cómo vamos a atravesar el campo de minas?"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_00"
+msgid "Requesting fire!"
+msgstr "¡Disparad!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_01"
+msgid "Direct fire, high explosive shell, square seven, angle thirty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 7, ángulo 30."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_02"
+msgid "Direct fire, high explosive shell, square eight, angle sixty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 8, ángulo 60."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_03"
+msgid "Direct fire, high explosive shell, square nine, angle ninety."
+msgstr "Fuego directo, proyectil explosivo, cuadro 9, ángulo 90."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_04"
+msgid ""
+"Direct fire, high explosive shell, square ten, angle one hundred twenty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 10, ángulo 120."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_05"
+msgid "Direct fire, high explosive shell, square eleven, angle forty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 11, ángulo 40."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_06"
+msgid "Direct fire, high explosive shell, square twelve, angle sixty five."
+msgstr "Fuego directo, proyectil explosivo, cuadro 12, ángulo 65."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_07"
+msgid "Direct fire, high explosive shell, square thirteen, angle ninety five."
+msgstr "Fuego directo, proyectil explosivo, cuadro 13, ángulo 95."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_08"
+msgid ""
+"Direct fire, high explosive shell, square fourteen, angle one hundred thirty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 14, ángulo 130."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_09"
+msgid ""
+"Direct fire, high explosive shell, square fifteen, angle three hundred fifty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 15, ángulo 350."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_10"
+msgid "Direct fire, high explosive shell, square sixteen, angle ten."
+msgstr "Fuego directo, proyectil explosivo, cuadro 16, ángulo 10."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_11"
+msgid "Direct fire, high explosive shell, square seventeen, angle fourty five."
+msgstr "Fuego directo, proyectil explosivo, cuadro 17, ángulo 45."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_12"
+msgid "Direct fire, high explosive shell, square eighteen, angle seventy five."
+msgstr "Fuego directo, proyectil explosivo, cuadro 18, ángulo 75."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_13"
+msgid ""
+"Direct fire, high explosive shell, square nineteen, angle three hundred "
+"fourty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 19, ángulo 340."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_14"
+msgid "Direct fire, high explosive shell, square twenty, angle ten."
+msgstr "Fuego directo, proyectil explosivo, cuadro 20, ángulo 10."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_15"
+msgid "Direct fire, high explosive shell, square twenty one, angle sixty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 21, ángulo 60."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_16"
+msgid "Direct fire, high explosive shell, square twenty two, angle eighty."
+msgstr "Fuego directo, proyectil explosivo, cuadro 22, ángulo 80."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_17"
+msgid "Negative. This is too close!"
+msgstr "Negativo, ¡demasiado cerca!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_18"
+msgid "We cannot request supporting fire there. Our pilot is in that area."
+msgstr "No podemos solicitar fuego de apoyo en la zona. Nuestro piloto se encuentra allí."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_19"
+msgid "Too far, tanks need to get closer."
+msgstr "Demasiado lejos, los tanques necesitan acercarse. "
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_20"
+msgid ""
+"Herr Leutnant, I'm ready to transmit the target area. Indicate the desired "
+"firing location."
+msgstr "Herr Leutnant, estoy listo para transmitir la zona objetivo. Indica la ubicación de la línea de fuego."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/story"
+msgid "When the battle of Kursk began, expectations were high - and tank busters flew low. Soviet defenses were layered and there were minefields everywhere."
+msgstr "Cuando comenzó la batalla de Kursk había grandes expectativas y los cazacarros volaban a ras de suelo. Los soviéticos desplegaron sus defensas y había campos de minas por todas partes."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_00"
+msgid "Not yet, we've not finished the previous barrage yet"
+msgstr "Aún no, todavía no hemos terminado la barrera anterior"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_01"
+msgid "Firing!"
+msgstr "¡Fuego!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_02"
+msgid "Obstacle destroyed. Push forward to the next position!"
+msgstr "Obstáculo destruido. ¡Avanza a la próxima posición!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_04"
+msgid "The tank squad reached the village without loss. Great job, Сaptain."
+msgstr "El escuadrón del tanque ha llegado a la aldea sin problemas. Bien hecho, capitán."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_05"
+msgid "The tanks are under under your command now."
+msgstr "Ahora los tanques se encuentran a tu disposición."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_06"
+msgid "Damn!"
+msgstr "¡Mierda!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_07"
+msgid "This bloody place is full of mines."
+msgstr "Este sitio está lleno de minas, joder."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_08"
+msgid "Advance, Stay on the road!"
+msgstr "¡Avanza, sin abandonar la carretera!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_09"
+msgid "They have maps of the area. They know where the minefields are."
+msgstr "Disponen de mapas de la zona, saben dónde hay campos de minas."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_10"
+msgid ""
+"Herr Hauptmann, our Panzers are in position. Your Sappers will need to sweep "
+"ahead."
+msgstr "Herr Hauptmann, nuestros Panzer están en posición. Tus zapadores tienen que despejar el camino."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_11"
+msgid ""
+"Advancing in the open, We risk all our tanks getting blown up before we even "
+"arrive to the enemy lines!"
+msgstr "¡Al aproximarnos por campo abierto existe el riesgo de que nuestros tanques exploten antes de que lleguemos a las líneas enemigas!"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_12"
+msgid "The request was denied. The convoy is moving towards the point."
+msgstr "Solicitud denegada. El convoy se acerca al punto."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1"
+msgid "Capture the village of Petrovka"
+msgstr "Captura la aldea de Petrovka"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_1"
+msgid "Break the first line of defense"
+msgstr "Rompe la primera línea defensiva"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_2"
+msgid "Break the second line of defense"
+msgstr "Rompe la segunda línea defensiva"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_3"
+msgid "Break the third line of defense"
+msgstr "Rompe la tercera línea defensiva"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2"
+msgid "Clear the way for the tanks to the village"
+msgstr "Despeja el camino para que los tanques lleguen a la aldea"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1"
+msgid "Destroy the obstacles on the road"
+msgstr "Destruye los vehículos de la carretera"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_1"
+msgid "Obstacles destroyed 1/4"
+msgstr "Obstáculos destruidos 1/4"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_2"
+msgid "Obstacles destroyed 2/4"
+msgstr "Obstáculos destruidos 2/4"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_3"
+msgid "Obstacles destroyed 3/4"
+msgstr "Obstáculos destruidos 3/4"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_4"
+msgid "Obstacles destroyed 4/4"
+msgstr "Obstáculos destruidos 4/4"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task3"
+msgid "Find the shot down aircraft"
+msgstr "Derriba el avión"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task3_1"
+msgid "Find the german pilot"
+msgstr "Encuentra al piloto alemán"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task4"
+msgid "Take Hauptmann Rall to safety"
+msgstr "Lleva a Hauptmann Rall a un lugar seguro"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task5"
+msgid "Defend the captured positions"
+msgstr "Defiende las posiciones capturadas"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task6"
+msgid "Retreat to the initial position"
+msgstr "Retrocede hasta llegar a la posición inicial"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_opt1"
+msgid "Ensure the survival of your radio operator"
+msgstr "Asegúrate de que tu operador de radio sobrevive"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_opt2"
+msgid "At least one tank must survive"
+msgstr "Debe sobrevivir al menos un tanque"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_sec"
+msgid "Secret Objective #1."
+msgstr "Objetivo secreto #1."
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_sec1"
+msgid "Find a car and use it to get Rall back safely"
+msgstr "Busca un coche y úsalo para traer a Rall de vuelta"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/text1"
+msgid ""
+msgstr ""

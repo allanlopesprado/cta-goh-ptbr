@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_fin)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/hintbonus"
+msgid "Air attack of the selected area"
+msgstr "Ataque aéreo de la zona seleccionada"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Despliega tus refuerzos en el campo de batalla"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/menu:1_1"
+msgid "Infantry"
+msgstr "Infantería"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/menu:2_1"
+msgid "Support"
+msgstr "Apoyo"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/menu:3_1"
+msgid "Vehicles"
+msgstr "Vehículos"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/menu:4_1"
+msgid "Tanks"
+msgstr "Tanques"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/menu:back"
+msgid "Return to menu"
+msgstr "Volver al menú"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/airstrike"
+msgid "strafing run"
+msgstr "carrera de ametrallamiento"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/airstrike2"
+msgid "bombing run"
+msgstr "bombardeo"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/officer"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/signaller"
+msgid "Battery Signaller"
+msgstr "Señalizador de artillería"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/riflesq"
+msgid "Rifle squad"
+msgstr "Escuadrón de fusileros"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/inf"
+msgid "Infantry squad"
+msgstr "Escuadrón de infantería"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_scout"
+msgid "Scout Section"
+msgstr "Escuadrón de reconocimiento"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/lmg_squad"
+msgid "LMG squad"
+msgstr "Escuadrón con MG"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/civil_guard"
+msgid "Civil guard"
+msgstr "Guardia nacional"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_cav"
+msgid "Cavalry squad"
+msgstr "Escuadrón de caballería"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/border_guard"
+msgid "Border Guard"
+msgstr "Escuadrón fronterizo"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/gebirgsjag"
+msgid "Gebirgsjager"
+msgstr "Gebirgsjager"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_border_jag"
+msgid "Border Jaeger Sq"
+msgstr "Escuadrón Jaeger fronterizo"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_engineer"
+msgid "Engineer squad"
+msgstr "Escuadrón de ingenieros"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/reservist"
+msgid "Reservist squad"
+msgstr "Escuadrón de reserva"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_jaeger"
+msgid "Jaeger Squad"
+msgstr "Escuadrón Jaeger"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ger_squad"
+msgid "German Infantry"
+msgstr "Infantería alemana"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/jaeger_lmg"
+msgid "Jaeger LMG squad"
+msgstr "Escuadrón Jaeger con MG"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/jaeger_ger_sq"
+msgid "Jaeger German Sq"
+msgstr "Escuadrón aleman Jaeger"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/37mm_pak36"
+msgid "3.7cm PaK 36"
+msgstr "3.7cm PaK 36"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/assault_squad"
+msgid "Assault squad"
+msgstr "Escuadrón de asalto"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ger_vet_inf"
+msgid "German veterans"
+msgstr "Veteranos alemanes"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/sdkfz10_4"
+msgid "Sd.Kfz 10/4 (2cm)"
+msgstr "Sd.Kfz 10/4 (2cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/squad_sissi"
+msgid "Sissi commandos"
+msgstr "Comandos Sissi"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/crew"
+msgid "Tank crew"
+msgstr "Unidad de tanquistas"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/atsq"
+msgid "AT squad"
+msgstr "Escuadrón AT"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/flamer"
+msgid "Flamer"
+msgstr "Lanzallamas"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/sniper"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/whitedeath"
+msgid "Elite sniper"
+msgstr "Francotirador de élite"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/crate"
+msgid "Ammo crate"
+msgstr "Caja de munición"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_fuel"
+msgid "Ford 3-Ton(Fuel)"
+msgstr "Ford 3-Ton(Combust.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_ammo"
+msgid "Ford 3-Ton(Supply)"
+msgstr "Ford 3-Ton(Suminist.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_eng"
+msgid "Ford(Engineer)"
+msgstr "Ford(Ingeniería)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/heavy_mg_maxim_m1910_30"
+msgid "Maxim M/09-09"
+msgstr "Maxim M/09-09"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/37mm_pstk36"
+msgid "37 PstK/36"
+msgstr "37 PstK/36"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/50mm_krh38"
+msgid "50 Krh/38"
+msgstr "50 Krh/38"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_m1927_fin"
+msgid "76 RK/27"
+msgstr "76 RK/27"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ds39_stand_fin"
+msgid "DS-39/VKT Stand"
+msgstr "DS-39/VKT"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/20mm_itk35"
+msgid "20 ItK/35 Breda"
+msgstr "20 ItK/35 Breda"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/20mm_itk40"
+msgid "20 ItK/40 VKT"
+msgstr "20 ItK/40 VKT"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/200mm_ldgw40"
+msgid "20cm leLdgW"
+msgstr "20cm leLdgW"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/p204_f"
+msgid "Pz.SpW. P204(f)"
+msgstr "Pz.SpW. P204(f)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/panzer3j"
+msgid "Pz.Kpfw III J"
+msgstr "Pz.Kpfw III J"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/panzer3h"
+msgid "Pz.Kpfw III H"
+msgstr "Pz.Kpfw III H"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/sdkfz231"
+msgid "Sd.Kfz 231"
+msgstr "Sd.Kfz 231"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/100mm_nbw35"
+msgid "10cm NbW 35"
+msgstr "10cm NbW 35"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_leig18"
+msgid "7.5cm leIG 18"
+msgstr "7.5cm leIG 18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/panzer35s"
+msgid "Pz.Kpfw 35S 739"
+msgstr "Pz.Kpfw 35S 739"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/20mm_l39"
+msgid "20 Pst Kiv/39"
+msgstr "20 Pst Kiv/39"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/40mm_itk38b"
+msgid "40 ItK/38b"
+msgstr "40 ItK/38b"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32"
+msgid "45 PstK/32"
+msgstr "45 PstK/32"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/47mm_pstk39"
+msgid "47 PstK/39"
+msgstr "47 PstK/39"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32_tow"
+msgid "45 PstK/32(towed)"
+msgstr "45 PstK/32(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_m1902"
+msgid "76mm M1902"
+msgstr "76mm M1902"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/81mm_krh36"
+msgid "81 Krh/36"
+msgstr "81 Krh/36"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/120mm_krh40"
+msgid "120 Krh/40"
+msgstr "120 Krh/40"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_pstk9738"
+msgid "75 PstK/97-38"
+msgstr "75 PstK/97-38"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/203mm_h17"
+msgid "203 H/17"
+msgstr "203 H/17"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin"
+msgid "Stu 40 G (Late)"
+msgstr "Stu 40 G (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ba10_fin"
+msgid "BAF C"
+msgstr "BAF C"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/bt5_fin"
+msgid "BT-5"
+msgstr "BT-5"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t3476_41_fin"
+msgid "T-34B"
+msgstr "T-34B"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/l62"
+msgid "Anti II L-62"
+msgstr "Anti II L-62"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/bt42"
+msgid "BT-42"
+msgstr "BT-42"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/105mm_k34"
+msgid "105 K/34"
+msgstr "105 K/34"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/kv1_42_fin"
+msgid "KV-1A"
+msgstr "KV-1A"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/kv1_40e_fin"
+msgid "KV-1B"
+msgstr "KV-1B"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/isu152_fin"
+msgid "JSU 152"
+msgstr "JSU 152"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t3485_44_fin"
+msgid "T-34/85"
+msgstr "T-34/85"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t50_fin"
+msgid "T-50"
+msgstr "T-50"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/pz38h_735"
+msgid "Hotchkiss H39"
+msgstr "Hotchkiss H39"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/kht130_fin"
+msgid "KhT-130(Flame)"
+msgstr "KhT-130(Lanzall.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t26_33_fin"
+msgid "T-26 M1933"
+msgstr "T-26 M1933"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/l182"
+msgid "Landsverk 182"
+msgstr "Landsverk 182"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ft17_mg_fin"
+msgid "FT-17 (Naaras)"
+msgstr "FT-17 (Naaras)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ft17_fin"
+msgid "FT-17 (Koiras)"
+msgstr "FT-17 (Koiras)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_f22"
+msgid "76mm F-22 M1936"
+msgstr "76mm F-22 M1936"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_k40_tow"
+msgid "75 K/40(towed)"
+msgstr "75 K/40(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_k40"
+msgid "75 K/40"
+msgstr "75 K/40"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_f22_tow"
+msgid "76mm-F-22(towed)"
+msgstr "76mm-F-22(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k36"
+msgid "76 K/36"
+msgstr "76 K/36"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k36_tow"
+msgid "76 K/36(towed)"
+msgstr "76 K/36(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_30_40"
+msgid "76 K/02-30/40"
+msgstr "76 K/02-30/40"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02"
+msgid "76 K/02"
+msgstr "76 K/02"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/sdkfz10_pak38"
+msgid "Sd.Kfz10(PaK 38)"
+msgstr "Sd.Kfz10(PaK 38)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_30_40_tow"
+msgid "76 K/02(towed)"
+msgstr "76 K/02(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/50mm_pak38_tow"
+msgid "5cm PaK38(towed)"
+msgstr "5cm PaK38(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/50mm_pak38"
+msgid "5cm PaK38"
+msgstr "5cm PaK38"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/50mm_ptsk38"
+msgid "50 PstK/38"
+msgstr "50 PstK/38"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_itk37"
+msgid "75 ItK/37"
+msgstr "75 ItK/37"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/105mm_sk18"
+msgid "10cm sK 18"
+msgstr "10cm sK 18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/panzer1b"
+msgid "Pz.Kpfw I Ausf.B"
+msgstr "Pz.Kpfw I Ausf.B"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/panzer2c"
+msgid "Pz II Ausf.C"
+msgstr "Pz II Ausf.C"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/88mm_flak18_tow"
+msgid "8.8cm FlaK18(tow)"
+msgstr "8.8cm FlaK18(remolc.)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/105mm_lefh18"
+msgid "10.5cm LeFH 18"
+msgstr "10.5cm LeFH 18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/122mm_a19"
+msgid "122mm A-19 M1931/3"
+msgstr "122mm A-19 M1931/3"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/122mm_a19_tow"
+msgid "122mm A-19(towed)"
+msgstr "122mm A-19(remolcado)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/75mm_itk37_tow"
+msgid "75ItK/37(towed)"
+msgstr "75 ItK/37(remolcado)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/107mm_k10"
+msgid "107 K/10"
+msgstr "107 K/10"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/107mm_k10_tow"
+msgid "107 K/10(towed)"
+msgstr "107 K/10(remolcado)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/105mm_h33"
+msgid "105 H/33"
+msgstr "105 H/33"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/150mm_h40"
+msgid "150 H/40"
+msgstr "150 H/40"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/150mm_nebelwerfer41"
+msgid "Nebelwerfer 41"
+msgstr "Nebelwerfer 41"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/150mm_sfh18"
+msgid "15cm sFH 18"
+msgstr "15cm sFH 18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_breda"
+msgid "Ford(20 ItK/35)"
+msgstr "Ford(20 ItK/35)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/vickers_6t_altb"
+msgid "Vickers 6T Alt.B"
+msgstr "Vickers 6T Alt.B"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/122mm_m1910_fin"
+msgid "122 H/10-30"
+msgstr "122 H/10-30"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t28_38_fin"
+msgid "T-28 M1938"
+msgstr "T-28 M1938"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t26e"
+msgid "T-26E"
+msgstr "T-26E"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/155mm_h17"
+msgid "155 H/17"
+msgstr "155 H/17"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/170mm_minewerfer"
+msgid "17cm Minenwerfer"
+msgstr "17cm Minenwerfer"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/105mm_k13"
+msgid "105 K/13"
+msgstr "105 K/13"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_rk27_39"
+msgid "76 RK/27-39"
+msgstr "76 RK/27-39"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_lk13"
+msgid "76 LK/13"
+msgstr "76 LK/13"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/maxim_m32_33"
+msgid "Maxim M/32-33"
+msgstr "Maxim M/32-33"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/114mm_h18_how_early"
+msgid "114 H/18"
+msgstr "114 H/18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/114mm_h18_how_late"
+msgid "114 H/18"
+msgstr "114 H/18"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/25mm_pstk37"
+msgid "25 PstK/37"
+msgstr "25 PstK/37"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/mg08_fin"
+msgid "Maxim MG 08"
+msgstr "Maxim MG 08"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/volvo_127d_itk40"
+msgid "Volvo LV 127D (20 ItK/40)"
+msgstr "Volvo LV 127D (20 ItK/40)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/300mm_krh42"
+msgid "300 Krh/42"
+msgstr "300 Krh/42"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/155mm_k17"
+msgid "155 K/17"
+msgstr "155 K/17"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/210mm_h17"
+msgid "210 H/17"
+msgstr "210 H/17"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_itk31"
+msgid "76 ItK/31"
+msgstr "76 ItK/31"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_itk31tow"
+msgid "76 ItK/31(towed)"
+msgstr "76 ItK/31(remolcado)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_late"
+msgid "76 K/02 (Late)"
+msgstr "76 K/02 (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32_mid"
+msgid "45 PstK/32 (Mid)"
+msgstr "45 PstK/32 (Prod. media)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/ba10m_fin"
+msgid "BAF C"
+msgstr "BAF C"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t26_33_fin_mid"
+msgid "T-26B (Mid)"
+msgstr "T-26B (Prod. media)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t26e_mid"
+msgid "T-26E (Mid)"
+msgstr "T-26E (Prod. media)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t28e_fin_late"
+msgid "T-28E (Late)"
+msgstr "T-28E (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/t3476_41_fin_late"
+msgid "T-34B (Late)"
+msgstr "T-34B (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/kv1_40e_fin_late"
+msgid "KV-1B (Late)"
+msgstr "KV-1B (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/kv1_42_fin_late"
+msgid "KV-1A (Late)"
+msgstr "KV-1A (Prod. tardía)"
+
+msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin_early"
+msgid "Stu 40 G"
+msgstr "Stu 40 G"

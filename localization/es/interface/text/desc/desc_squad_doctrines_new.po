@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Doctrine squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/squad/doctrine_squad_pioteam(ger)"
+msgid "<c(B29557)>( I )</c> Pionier team"
+msgstr "<c(B29557)>( I )</c> Pioneros"
+
+msgctxt "desc/squad/doctrine_squad_heavyvolkssturm(ger)"
+msgid "<c(B29557)>( I )</c> Large Volkssturm unit"
+msgstr "<c(B29557)>( II )</c> Gran unidad Volkssturm"
+
+msgctxt "desc/squad/doctrine_sdkfz250a_3_mid"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 250/3 (Observation)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 250/3 (Observación)"
+
+msgctxt "desc/squad/doctrine_sdkfz250a_3_late"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 250/3 (Observation)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 250/3 (Observación)"
+
+msgctxt "desc/squad/doctrine_37mm_flak37_late"
+msgid "<c(B29557)>( II )</c> 3.7cm Flak 37"
+msgstr "<c(B29557)>( I )</c> Flak 37 de 3,7cm"
+
+msgctxt "desc/squad/doctrine_150mm_nebelwerfer41_late"
+msgid "<c(B29557)>( III )</c> 15cm NbW 41"
+msgstr "<c(B29557)>( III )</c> NbW 41 de 15cm"
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadieredetach(ger)"
+msgid "<c(B29557)>( I )</c> Volksgrenadier support Detachment"
+msgstr "<c(B29557)>( I )</c> Destacamiento apoyo Volksgrenadier"
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadier(ger)"
+msgid "<c(B29557)>( I )</c> Volksgrenadier squad"
+msgstr "<c(B29557)>( I )</c> Volksgrenadier"
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadiersturm(ger)"
+msgid "<c(B29557)>( I )</c> Volksgrenadier sturm squad"
+msgstr "<c(B29557)>( I )</c> Volksgrenadier de asalto"
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadierheavy(ger)"
+msgid "<c(B29557)>( II )</c> Volksgrenadier heavy sturm squad"
+msgstr "<c(B29557)>( II )</c> Volksgrenadier pesado"
+
+msgctxt "desc/squad/doctrine_squad_sturmgrenadiere"
+msgid "<c(B29557)>( II )</c> Sturmgrenadier squad (armored)"
+msgstr "<c(B29557)>( II )</c> Sturmgrenadier motorizado"
+
+msgctxt "desc/squad/doctrine_squad_panzergrenadiere"
+msgid "<c(B29557)>( II )</c> Panzergrenadier squad (armored)"
+msgstr "<c(B29557)>( II )</c> Panzergrenadier motorizado"
+
+msgctxt "desc/squad/doctrine_sturmartillerie_unit"
+msgid "<c(B29557)>( II )</c> Sturmartillerie unit (begleitgrenadiere)"
+msgstr "<c(B29557)>( II )</c> Unidad Sturmartillerie"
+
+msgctxt "desc/squad/doctrine_squad_fallschirmjager_late(ger)"
+msgid "<c(B29557)>( II )</c> Fallschirmjäger squad"
+msgstr "<c(B29557)>( II )</c> Paracaidistas Fallschirmjäger"
+
+msgctxt "desc/squad/doctrine_panzer3flamm_late"
+msgid "<c(B29557)>( I )</c> Panzer III Flamm."
+msgstr "<c(B29557)>( I )</c> Panzer III Lanzallamas"
+
+msgctxt "desc/squad/doctrine_300mm_nebelwerfer42"
+msgid "<c(B29557)>( III )</c> 30cm NbW 42"
+msgstr "<c(B29557)>( III )</c> NbW 42 de 30cm"
+
+msgctxt "desc/squad/doctrine_squad_pz_recon"
+msgid "<c(B29557)>( I )</c> Panzeraufklärer squad (armored)"
+msgstr "<c(B29557)>( I )</c> Reconocimiento Panzeraufklärer motorizado"
+
+msgctxt "desc/squad/doctrine_squad_stosstrupp"
+msgid "<c(B29557)>( II )</c> Panzerpionier squad (armored)"
+msgstr "<c(B29557)>( II )</c> Panzerpionieros motorizados"
+
+msgctxt "desc/squad/doctrine_squad_fallsch_mid(ger)"
+msgid "<c(B29557)>( II )</c> Fallschirmjäger squad"
+msgstr "<c(B29557)>( II )</c> Paracaidistas Fallschirmjäger"
+
+msgctxt "desc/squad/doctrine_pz756r"
+msgid "<c(B29557)>( III )</c> Pz.Kpfw KV-1B 756(r)"
+msgstr "<c(B29557)>( III )</c> Pz.Kpfw KV-1B 756(r)"
+
+msgctxt "desc/squad/doctrine_squad_sapperteam(rus)"
+msgid "<c(B29557)>( I )</c> Sapper team"
+msgstr "<c(B29557)>( I )</c> Zapadores"
+
+msgctxt "desc/squad/doctrine_squad_faustniki(rus)"
+msgid "<c(B29557)>( I )</c> AT Assault engineer team"
+msgstr "<c(B29557)>( I )</c> Ingenieros de asalto antitanque"
+
+msgctxt "desc/squad/doctrine_squad_flame(rus)"
+msgid "<c(B29557)>( II )</c> Flamer Assault engineer squad"
+msgstr "<c(B29557)>( II )</c> Ingenieros de asalto lanzallamas"
+
+msgctxt "desc/squad/doctrine_squad_assaultsappers(rus)"
+msgid "<c(B29557)>( II )</c> Sapper Assault engineer squad"
+msgstr "<c(B29557)>( II )</c> Ingenieros de asalto zapadores"
+
+msgctxt "desc/squad/doctrine_squad_rifle_motorised"
+msgid "<c(B29557)>( I )</c> Motorized rifle squad"
+msgstr "<c(B29557)>( I )</c> Unidad de fusileros motorizada"
+
+msgctxt "desc/squad/doctrine_squad_heavymarines(rus)"
+msgid "<c(B29557)>( II )</c> Marine squad"
+msgstr "<c(B29557)>( II )</c> Marines"
+
+msgctxt "desc/squad/doctrine_squad_smgunit(rus)"
+msgid "<c(B29557)>( I )</c> Recon squad (SMG)"
+msgstr "<c(B29557)>( I )</c> Unidad de reconocimiento (SMG)"
+
+msgctxt "desc/squad/doctrine_squad_guards_mid(rus)"
+msgid "<c(B29557)>( II )</c> Guards Rifle squad"
+msgstr "<c(B29557)>( II )</c> Fusileros de la Guardia"
+
+msgctxt "desc/squad/doctrine_bt7a_mid"
+msgid "<c(B29557)>( I )</c> BT-7A"
+msgstr "<c(B29557)>( I )</c> BT-7A"
+
+msgctxt "desc/squad/doctrine_bt7a_late"
+msgid "<c(B29557)>( I )</c> BT-7A"
+msgstr "<c(B29557)>( I )</c> BT-7A"

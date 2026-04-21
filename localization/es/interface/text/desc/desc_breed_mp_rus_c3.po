@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/human/mp/rus/early/antitank_5"
+msgid "Rifle AT ammo bearer [KA]"
+msgstr "Portador de munición rifle AT [KA]"
+
+msgctxt "desc/human/mp/rus/early/conscript_nco"
+msgid "Conscript squadleader [KA]"
+msgstr "Líder de escuadrón de reclutas [KA]"
+
+msgctxt "desc/human/mp/rus/early/conscript_rifle"
+msgid "Conscript rifleman [KA]"
+msgstr "Fusilero recluta [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_1"
+msgid "Mountain Trooper [KA]"
+msgstr "Soldado de montaña [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_2"
+msgid "Mountain Trooper [KA]"
+msgstr "Soldado de montaña [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_3"
+msgid "Mountain Trooper [KA]"
+msgstr "Soldado de montaña [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_mg"
+msgid "Mountain Trooper MG Operator [KA]"
+msgstr "Soldado de montaña Operador MG [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_mg_asst"
+msgid "Mountain Trooper MG asst. [KA]"
+msgstr "Soldado de montaña asistente MG [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_nco"
+msgid "Mountain Trooper Squadleader [KA]"
+msgstr "Soldado de montaña líder de escuadrón [KA]"
+
+msgctxt "desc/human/mp/rus/early/mountain_senior"
+msgid "Senior Mountain Trooper [KA]"
+msgstr "Soldado de Montaña Senior [KA]"
+
+msgctxt "desc/human/mp/rus/early/mg_crew"
+msgid "MG crew [KA]"
+msgstr "Unidad MG [KA]"
+
+msgctxt "desc/human/mp/rus/early/mg_crew_asst"
+msgid "MG crew asst. [KA]"
+msgstr "Asistente de unidad MG [KA]"
+
+msgctxt "desc/human/mp/rus/early/nco"
+msgid "Squadleader [KA]"
+msgstr "Líder de escuadrón [KA]"
+
+msgctxt "desc/human/mp/rus/early/nco_rifle"
+msgid "Squadleader [KA]"
+msgstr "Líder de escuadrón [KA]"
+
+msgctxt "desc/human/mp/rus/early/nco_sa"
+msgid "Squadleader [KA]"
+msgstr "Líder de escuadrón [KA]"
+
+msgctxt "desc/human/mp/rus/early/para_5"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/mp/rus/early/para_mg"
+msgid "Desantnik MG Operator [VVS]"
+msgstr "Operador MG Desantnik [VVS]"
+
+msgctxt "desc/human/mp/rus/early/para_mg_asst"
+msgid "Desantnik MG asst. [VVS]"
+msgstr "Asistente MG Desantnik [VVS]"
+
+msgctxt "desc/human/mp/rus/early/para_nco"
+msgid "Desantnik Squadleader [VVS]"
+msgstr "Líder de escuadrón Desantnik [VVS]"
+
+msgctxt "desc/human/mp/rus/early/recon_nco"
+msgid "Recon Squadleader [KA]"
+msgstr "Líder del escuadrón de reconocimiento [KA]"
+
+msgctxt "desc/human/mp/rus/early/recon_rifle"
+msgid "Recon [KA]"
+msgstr "Reconocimiento [KA]"
+
+msgctxt "desc/human/mp/rus/early/rifleman_sniper"
+msgid "Sniper [KA]"
+msgstr "Francotirador [KA]"
+
+msgctxt "desc/human/mp/rus/early/rifle-avs"
+msgid "Rifleman [KA]"
+msgstr "Fusilero [KA]"
+
+msgctxt "desc/human/mp/rus/early/senior_sa"
+msgid "Senior Rifleman [KA]"
+msgstr "Fusilero Senior [KA]"

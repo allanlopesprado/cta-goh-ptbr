@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet Gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+#, fuzzy
+msgctxt "desc/stuff/rdg1_smoke_supplies"
+msgid "RGD-1 (Supplies)"
+msgstr "RGD-1 (Suministros)"
+
+#, fuzzy
+msgctxt "desc/stuff/rus_cossack_hat"
+msgid "Cossack cap"
+msgstr "Gorra de cosaco"
+
+msgctxt "desc/stuff/ger_poa_m39_sidecap"
+msgid "M39 side cap"
+msgstr "Gorra M39"
+
+#, fuzzy
+msgctxt "desc/stuff/ger_poa_m43_fieldcap"
+msgid "Feldmütze M43"
+msgstr "Feldmütze M43"
+
+msgctxt "desc/stuff/ger_poa_helmet"
+msgid "Helmet"
+msgstr "Casco"
+
+msgctxt "desc/stuff/ger_poa_cap"
+msgid "Field cap"
+msgstr "Gorra"
+
+#, fuzzy
+msgctxt "desc/stuff/ger_poa_cap_officer"
+msgid "Schirmmütze M40 Officer's cap"
+msgstr "Gorra de oficial Schirmmütze M40"

@@ -1,0 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_bar"
+msgid "17th Glider Automatic Rifleman [USAGF]"
+msgstr "Operador de ametralladora de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_bar_ammo"
+msgid "17th Glider AR Ammo Bearer [USAGF]"
+msgstr "Portador de munición de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_mg"
+msgid "17th Glider MG Operator [USAGF]"
+msgstr "Operador de ametralladora de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_mg_ammo"
+msgid "17th Glider MG Ammo Bearer [USAGF]"
+msgstr "Portador de munición de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_rifle"
+msgid "17th Glider Rifleman [USAGF]"
+msgstr "Fusilero de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_rifle_band2"
+msgid "17th Glider Rifleman [USAGF]"
+msgstr "Fusilero de la 17ª de planeadores [USAGF]"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_sl_smg"
+msgid "17th Glider Squadleader [USAGF]"
+msgstr "Líder de escuadrón de la 17ª de planeadores [USAGF]"
