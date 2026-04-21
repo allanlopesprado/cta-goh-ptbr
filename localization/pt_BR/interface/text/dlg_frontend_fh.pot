@@ -1,0 +1,29 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (dlg_frontend)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "gameover/mission_completed"
+msgid "<f(pobeda)s(42)b+c(EEEEEE)e(shadow)>Mission Completed!"
+msgstr "<f(pobeda)s(42)b+c(EEEEEE)e(shadow)>Missão Concluída!"
+
+msgctxt "gameover/mission_failed"
+msgid "<f(pobeda)s(42)b+c(EEEEEE)e(shadow)>Mission Failed!"
+msgstr "<f(pobeda)s(42)b+c(EEEEEE)e(shadow)>Missão Fracassada!"
+
+msgctxt "main_menu2/dynamic_campaign/region_hint_finest_hour"
+msgid "Western Europe - (Finest Hour Maps)"
+msgstr "Europa Ocidental - (Mapas Finest Hour)"
+
+msgctxt "main_menu2/dynamic_campaign/region_hint_west_fh"
+msgid "Western Europe - (Finest Hour + Liberation Maps)"
+msgstr "Europa Ocidental - (Mapas Finest Hour + Liberation)"

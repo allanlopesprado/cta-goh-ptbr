@@ -1,0 +1,185 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_01_thirimont)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/date"
+msgid "January 13th, 1945 · Thirimont, Ardennes, Belgium"
+msgstr "13 de janeiro de 1945 · Thirimont, Ardenas, Bélgica"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/name"
+msgid "The Bloody Ardennes"
+msgstr "As Ardenas Sangrentas"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/name_big"
+msgid "The Bloody Ardennes"
+msgstr "As Ardenas Sangrentas"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/01"
+msgid "Attention Fallschirmjäger! There is no time to lose! The Americans have retaken the initiative and are now on the assault!"
+msgstr "Atenção, Fallschirmjäger! Não há tempo a perder! Os americanos retomaram a iniciativa e estão no assalto!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/02"
+msgid "You are tasked with defending our main line, here in the valley of Thirimont. We will try to pin the Americans down, laying intense crossfire as they hopefully get stuck in the snow. You have several AT guns at your disposal."
+msgstr "Você tem a missão de defender nossa linha principal, aqui no vale de Thirimont. Tentaremos imobilizar os americanos com fogo cruzado intenso enquanto eles ficarem presos na neve. Você tem vários canhões AT à sua disposição."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/03"
+msgid "The Americans will be here any minute now. Deploy your squads around the emplacements. There is no time to lose!"
+msgstr "Os americanos estarão aqui a qualquer momento. Implante seus esquadrões ao redor das posições. Não há tempo a perder!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/04"
+msgid "Enemy artillery just opened fire. Position your men on the camouflaged foxholes and trenches that were prepared. We don't expect the americans to hit those."
+msgstr "A artilharia inimiga acabou de abrir fogo. Posicione seus homens em abrigos individuais e trincheiras camuflados preparados. Não esperamos que os americanos acertem essas posições."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/05"
+msgid "What the hell is that! We're getting bombed by airburst artillery!"
+msgstr "O que diabos é isso! Estamos sendo bombardeados por artilharia de estilhaços aéreos!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/06"
+msgid "Here they come! Let us spoil some new year's resolutions! Hold the line!"
+msgstr "Aí vêm eles! Vamos frustrar algumas resoluções de ano novo! Segure a linha!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/07"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/08"
+msgid "Well done Fallschirmjäger. Our choice of position and our tactics have decimated the Americans."
+msgstr "Muito bem, Fallschirmjäger. Nossa escolha de posição e nossas táticas dizimaram os americanos."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/09"
+msgid "Fallschirmjäger! The Americans have slipped through the defences of our neighboring sector! They've swiftly snatched Thirimont from under our noses!"
+msgstr "Fallschirmjäger! Os americanos passaram pelas defesas do nosso setor vizinho! Tomaram Thirimont rapidamente de baixo do nosso nariz!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/10"
+msgid "I order you to take back the town and bust any of our troops out of captivity immediately! "
+msgstr "Ordeno que retome a cidade e liberte quaisquer de nossas tropas em cativeiro imediatamente!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/11"
+msgid "Repair as many American vehicles as possible to help us in the assault! Use mortars and AT guns to provide support fire."
+msgstr "Repare o maior número possível de veículos americanos para nos ajudar no assalto! Use morteiros e canhões AT para fornecer fogo de apoio."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/12"
+msgid "Good job, Kameraden! But stop celebrating, we're not done yet. The Americans are storing the captured weapons in the boxes on the stables."
+msgstr "Bom trabalho, Kameraden! Mas parem de comemorar — ainda não terminamos. Os americanos estão armazenando as armas capturadas nas caixas dos estábulos."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/13"
+msgid "Now, gentlemen! We mustn't let Thirimont fall once again to the Americans, but it's clear our flanks are vulnerable. The only way to ensure success is to defend the town itself."
+msgstr "Agora, senhores! Não devemos deixar Thirimont cair mais uma vez para os americanos, mas está claro que nossos flancos são vulneráveis. A única maneira de garantir o sucesso é defender a própria cidade."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/14"
+msgid "Fall back and get all of our emplacements to the town; be ready to defend it! Loot all the boxes and supplies, find mines and obstacles. Make Thirimont our unbreakable fortress!"
+msgstr "Recue e leve todas as nossas posições para a cidade — esteja pronto para defendê-la! Saquei todas as caixas e suprimentos, encontre minas e obstáculos. Faça de Thirimont nossa fortaleza inquebrável!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/15"
+msgid "I've ordered our neighboring units in to defend Thirimont with us. Take command of these men!"
+msgstr "Ordenei às nossas unidades vizinhas que entrem para defender Thirimont conosco. Assuma o comando desses homens!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/16"
+msgid "The enemy has started an intense artillery bombardment on the southern part of town! I expect their attack to come from there!"
+msgstr "O inimigo iniciou um intenso bombardeio de artilharia na parte sul da cidade! Espero que o ataque venha de lá!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/17"
+msgid "The enemy is throwing heavier armor at us! Watch out for those sluggers. They can take out our heaviest of tanks at a distance!"
+msgstr "O inimigo está jogando blindados mais pesados contra nós! Fique atento a esses leviatas — eles podem destruir nossos tanques mais pesados à distância!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/18"
+msgid "Excellent job! Once again you have proven the might of the Fallschirmjäger forces. If only all of our foces would have fought as gallantly as you have, our winter offensive would have reached Antwerp!"
+msgstr "Excelente trabalho! Mais uma vez você provou a força das forças Fallschirmjäger. Se apenas todas as nossas forças tivessem lutado tão galantemente quanto você, nossa ofensiva de inverno teria alcançado Antuérpia!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/19"
+msgid "Well, those were the main scouting forces. I wonder what the Americans will serve us up with next."
+msgstr "Bem, essas eram as principais forças de reconhecimento. Imagino o que os americanos vão nos apresentar a seguir."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/artywarning"
+msgid "The Americans like to shoot the hell out of everything, and anything that looks even slightly suspicious. Do not set up positions in the open, deploy your men around the camouflaged emplacements the engineers dugout during the night."
+msgstr "Os americanos gostam de atirar em tudo, e em qualquer coisa que pareça minimamente suspeita. Não estabeleça posições a céu aberto — implante seus homens ao redor das posições camufladas que os engenheiros escavaram durante a noite."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/calliope"
+msgid "Achtung! The Americans have brought Calliope rocket launchers! Keep your heads down!"
+msgstr "Achtung! Os americanos trouxeram lançadores de foguetes Calliope! Mantenham as cabeças baixas!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/normalarty"
+msgid "Well, that wasn't so bad! They actually improved our line of fire! Stupid Americans!"
+msgstr "Bem, não foi tão ruim! Na verdade melhoraram nossa linha de fogo! Americanos estúpidos!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/reinf1"
+msgid "Some of our friendly forces from the collapsing flanks have arrived. I place them under your command! Take Thirimont, Herr Leutnant!"
+msgstr "Algumas de nossas forças amigas dos flancos em colapso chegaram. Coloco-as sob seu comando! Tome Thirimont, Herr Leutnant!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/outro_completed"
+msgid "That was very well executed! You have shown the enemy our definition of resilience and grit, and in doing so, you have made your unit look almost invincible. The enemy will probably not try again very soon. Good job!"
+msgstr "Muito bem executado! Você mostrou ao inimigo nossa definição de resiliência e determinação, e ao fazer isso, fez sua unidade parecer quase invencível. O inimigo provavelmente não tentará novamente tão cedo. Bom trabalho!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/outro_failed"
+msgid "That did not go as planned, not at all. We have suffered losses we can’t replace, how are we to recover from this blow? You will have to find an explanation for this very quickly."
+msgstr "Isso não saiu como planejado, de jeito nenhum. Sofremos perdas que não podemos repor; como nos recuperaremos deste golpe? Você terá de encontrar uma explicação para isso muito rapidamente."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/place"
+msgid "3rd Fallschirmjäger Division"
+msgstr "3ª Divisão Fallschirmjäger"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/story"
+msgid " It is now 1945. The Ardennes offensive is grinding to a halt. The Germans are still very badly hampered by fuel shortages; all along the front line, allied forces have taken the initiative. The weather has improved too, so the allied air forces once more rule the sky above the Ardennes. It looks like things have taken a turn for the worse for you and the 3rd Fallschirmjäger division as well.\n\n You are now in Thirimont, where the Americans are expected to attack soon. It will be your mission to stop them. You and your men have been sent forward from the 3rd Fallschirmjäger Division reserve as replacements for the losses which the 9th Regiment has suffered. The 9th regiment has orders to hold the line at Thirimont itself, which dominates the area. You are to defend this position and where possible, support the defenders on the neighboring hill when the Americans attack. We might be able to get you armored support at some point, but right now a handful of AT guns is all we can spare. So, prepare to defend the village, and await further orders.\n\nGood luck!"
+msgstr " Agora é 1945. A ofensiva das Ardenas está se esgotando. Os alemães ainda estão gravemente prejudicados pela escassez de combustível; ao longo de toda a linha de frente, as forças aliadas tomaram a iniciativa. O tempo também melhorou, e as forças aéreas aliadas voltam a dominar os céus sobre as Ardenas. Parece que a situação também piorou para você e para a 3ª Divisão Fallschirmjäger.\n\n Você está agora em Thirimont, onde se espera um ataque americano em breve. Sua missão será detê-los. Você e seus homens foram destacados da reserva da 3ª Divisão Fallschirmjäger como reforços para suprir as perdas sofridas pelo 9º Regimento. O 9º Regimento tem ordens de manter a linha em Thirimont, que domina a área. Você deve defender esta posição e, quando possível, apoiar os defensores na colina vizinha quando os americanos atacarem. Talvez consigamos apoio blindado em algum momento, mas, por enquanto, um punhado de canhões AT é tudo o que podemos disponibilizar. Portanto, prepare-se para defender a aldeia e aguarde novas ordens.\n\nBoa sorte!"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/task1"
+msgid "Hold the defensive line at the valley."
+msgstr "Mantenha a linha defensiva no vale."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/task2"
+msgid "Recapture the village of Thirimont and liberate the prisoners."
+msgstr "Recapture a aldeia de Thirimont e liberte os prisioneiros."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/task3"
+msgid "Create a new defensive line around Thirimont"
+msgstr "Crie uma nova linha defensiva ao redor de Thirimont"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/task4"
+msgid "Do not let the village of Thirimont fall to the Americans again."
+msgstr "Não deixe a aldeia de Thirimont cair para os americanos novamente."
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/timer1"
+msgid "Time until the arrival of US forces:"
+msgstr "Tempo até a chegada das forças americanas:"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/timer2"
+msgid "Fortify the town of Thirimont:"
+msgstr "Fortifique a cidade de Thirimont:"
+
+msgctxt "mission/single/02-ger-west/1945_01_thirimont/timer3"
+msgid "Defend the town of Thirimont!"
+msgstr "Defenda a cidade de Thirimont!"

@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_07-rus_op_bagration)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/name"
+msgid "Operation Bagration"
+msgstr "Operação Bagration"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/name_big"
+msgid "Operation Bagration"
+msgstr "Operação Bagration"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/story"
+msgid "Belorussian Front, Minsk offensive. After several delays our forces are finally on the move. We will overwhelm the nazis, now that the numbers are stacked in our favor.\n\nGoals:\n - Liberation of Minsk.\n - Destruction of the german Fourth Army."
+msgstr "Frente Bielorrussa, ofensiva de Minsk. Após vários atrasos, nossas forças estão finalmente em movimento. Vamos esmagar os nazistas, agora que os números estão a nosso favor.\n\nObjetivos:\n - Libertação de Minsk.\n - Destruição do 4º Exército alemão."
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/place"
+msgid "Berezina line"
+msgstr "Linha do Berezina"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/date"
+msgid "4 July, 1944"
+msgstr "4 de julho de 1944"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/outro_completed"
+msgid "Mission accomplished!"
+msgstr "Missão cumprida!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/outro_failed"
+msgid "Mission failure!"
+msgstr "Missão fracassada!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/outro_failed_hq"
+msgid "Mission failed! - Enemy captured your HQ!"
+msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_attack"
+msgid "Capture the river east of Minsk!"
+msgstr "Capture o rio a leste de Minsk!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/narrator_start0"
+msgid "Welcome to Belarus, Major! This is our field HQ. It has to remain in our control at all times!"
+msgstr "Bem-vindo à Bielorrússia, Major! Este é o nosso QG de campo. Deve permanecer sob nosso controle o tempo todo!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/narrator_start1"
+msgid "Comrade, you are tasked with the assault of the enemy defenses in this region and crossing the river. We must capture the German defenses east of Minsk!"
+msgstr "Camarada, você está encarregado do assalto às defesas inimigas nesta região e da travessia do rio. Devemos capturar as defesas alemãs a leste de Minsk!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/narrator_start2"
+msgid "Germans are planning to reinforce their lines with heavy panzers. Make sure you capture these vital positions!"
+msgstr "Os alemães planejam reforçar suas linhas com blindados pesados. Certifique-se de capturar estas posições vitais!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/narrator_start3"
+msgid "Begin securing the objectives, while we bring forward some reinforcements for you to deploy!"
+msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você implantar!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/allied_enemy_near_hq"
+msgid "Comrades! Germans are close to our Field HQ!"
+msgstr "Camaradas! Os alemães estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/player_enemy_near_hq"
+msgid "We must hold the command post! There can be no talk of retreat here!"
+msgstr "Devemos manter nosso posto de comando! Nada de falar em retirada aqui!"
+
+msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr "Major! Agora você pode solicitar um ataque aéreo."

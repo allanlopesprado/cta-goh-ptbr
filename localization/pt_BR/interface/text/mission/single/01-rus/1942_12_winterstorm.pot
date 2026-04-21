@@ -1,0 +1,503 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_12_winterstorm)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/alias1"
+msgid "player"
+msgstr "jogador"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/alias2"
+msgid "AI"
+msgstr "IA"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/alias3"
+msgid "ger"
+msgstr "ger"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/date"
+msgid "December 19-22, 1942 · Gromoslavka"
+msgstr "19–22 de dezembro de 1942 · Gromoslavka"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/date2"
+msgid "December 19th, 1942"
+msgstr "19 de dezembro de 1942"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/date3"
+msgid "Dawn..."
+msgstr "Amanhecer..."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/date4"
+msgid "Early morning, December 20th."
+msgstr "Início da manhã, 20 de dezembro."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/header"
+msgid "\"Winter Storm\""
+msgstr "\"Tempestade de Inverno\""
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/location"
+msgid "Late evening. Southwest of Gromoslavka"
+msgstr "Final da tarde. Sudoeste de Gromoslavka"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/loose_units"
+msgid "You lost all your units."
+msgstr "Você perdeu todas as suas unidades."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/loose_village"
+msgid "All defensive positions were lost to the enemy"
+msgstr "Todas as posições defensivas foram perdidas para o inimigo"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/name"
+msgid "Winter Storm"
+msgstr "Tempestade de Inverno"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/name_big"
+msgid "Winter Storm"
+msgstr "Tempestade de Inverno"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/angling"
+msgid "Angled armor is extremely effective against lower caliber shells. While large calibers have better overmatching, the Panzer III's 50mm shells will have a very hard time penetrating your T-34's armor if you angle it correctly."
+msgstr "A blindagem inclinada é extremamente eficaz contra projéteis de menor calibre. Embora calibres maiores tenham melhor capacidade de penetração, os projéteis de 50mm do Panzer III terão muita dificuldade para penetrar a blindagem do T-34 se você a inclinar corretamente."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/apcr_5"
+msgid "Your gun now has APCR rounds. They penetrate much further than regular rounds, but their smaller core deals less damage, they are uncommon, and the accuracy/penetration drop is stronger."
+msgstr "Seu canhão agora tem projéteis APCR. Eles penetram muito mais do que os projéteis comuns, mas seu núcleo menor causa menos dano, são incomuns e a queda de precisão/penetração é maior."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/apcr_6"
+msgid "The enemy frontal armor is tough, and the APCR shells do not have as much normalization (they struggle against angled armor). This means you should immobilize the target and then reposition for a side shot with APCR."
+msgstr "A blindagem frontal inimiga é resistente, e os projéteis APCR não têm tanta normalização (têm dificuldade contra blindagem inclinada). Isso significa que você deve imobilizar o alvo e depois se reposicionar para um tiro lateral com APCR."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/at_weaponry"
+msgid "Amongst the wealth of weaponry, it is easy to detect anti-tank troops, since their weapons appear with a red highlight on the 'Unit state icon'. There is a variety of AT weapons, some of which are also useful for anti-personnel."
+msgstr "Entre a variedade de armamentos, é fácil detectar tropas antitanque, já que suas armas aparecem com destaque vermelho no 'ícone de estado da unidade'. Há uma variedade de armas AT, algumas das quais também são úteis contra pessoal."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/bison"
+msgid "Enemy artillery taking new aim!"
+msgstr "Artilharia inimiga tomando nova mira!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/boxes"
+msgid "Boxes scattered along the allied territory may contain ammunition and useful resources. You must use these calm moments before the storm to re-fit your soldiers for combat."
+msgstr "Caixas espalhadas pelo território aliado podem conter munição e recursos úteis. Você deve usar esses momentos de calma antes da tempestade para reequipar seus soldados para o combate."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/mines"
+msgid "Vehicles and boxes may contain mines or other defensive equipment. You may drive these vehicles up to the front line to carry all the equipment - but remember to manually switch off the engine, so you will not arouse any suspicion."
+msgstr "Veículos e caixas podem conter minas ou outros equipamentos defensivos. Você pode conduzir esses veículos até a linha de frente para transportar todo o equipamento — mas lembre-se de desligar o motor manualmente para não despertar suspeitas."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/pz1f"
+msgid "Attention! Unidentified tanks approaching!"
+msgstr "Atenção! Tanques não identificados se aproximando!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/recon"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/secret"
+msgid "Secret objectives unlock mission segments or open hidden features in every battle. In order to complete them, you must scan the map for unusual locations and spend time exploring."
+msgstr "Os objetivos secretos desbloqueiam segmentos da missão ou abrem recursos ocultos em cada batalha. Para completá-los, você deve escanear o mapa em busca de locais incomuns e explorar."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/shields"
+msgid "Every scenario offers unique units. During the hardships of winter battles, it was usual to see skis being used as a platform for a variety of military equipment. You may switch weapons mounted on the shields through their inventory."
+msgstr "Cada cenário oferece unidades únicas. Durante as dificuldades das batalhas de inverno, era comum ver esquis sendo usados como plataforma para uma variedade de equipamentos militares. Você pode trocar as armas montadas nos escudos pelo inventário."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/skip"
+msgid "If you are ready, you can skip the defensive preparations by clicking on the right button."
+msgstr "Se estiver pronto, você pode pular as preparações defensivas clicando no botão à direita."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/01"
+msgid "Artillery barrage!!!"
+msgstr "Barragem de artilharia!!!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/02"
+msgid "Coming up right now comrade commissar!"
+msgstr "Já vem, camarada Comissário!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/03"
+msgid "Snow drifting on the horizon! The breeze also brings a distant rumble!"
+msgstr "Neve no horizonte! A brisa também traz um rumor distante!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/04"
+msgid "They have... stopped?"
+msgstr "Eles... pararam?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/06"
+msgid "No! Don't be foolish comrade - mine the approaches to our anti-aircraft batteries. That is what they're after. If nothing stands between the Luftwaffe and us, Von Manstein will have their troops spectate an aerial massacre!"
+msgstr "Não! Não seja tolo, camarada — mine as aproximações às nossas baterias antiaéreas. É isso que eles querem. Se nada estiver entre a Luftwaffe e nós, Von Manstein fará suas tropas assistirem a um massacre aéreo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/08"
+msgid "They're coming! Dig trenches! Prepare to defend!"
+msgstr "Eles estão vindo! Cavem trincheiras! Preparem-se para defender!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/09"
+msgid "The Germans will not risk losing too many tanks - they will advance through the river over tracks of previous vehicles that got across. They will also prioritize any AT equipment! Try to lure them into a trap!"
+msgstr "Os alemães não vão arriscar perder muitos tanques — avançarão pelo rio sobre as trilhas de veículos anteriores que cruzaram. Eles também priorizarão qualquer equipamento AT! Tente atraí-los para uma armadilha!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/11"
+msgid "Damn! That means they plan to use it to good effect. Comrades, place dynamite on the airstrip! Something tells me we'd better deny the Germans use of the airfield."
+msgstr "Droga! Isso significa que planejam usá-lo com bom efeito. Camaradas, coloquem dinamite na pista de pouso! Algo me diz que é melhor negarmos o uso do aeródromo aos alemães."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/12"
+msgid "The artillery is much more accurate than before! This cannot be sustained! Someone must be directing their fire!"
+msgstr "A artilharia está muito mais precisa do que antes! Isso não pode ser sustentado! Alguém deve estar dirigindo o fogo deles!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/13"
+msgid "We're being cut to shreds!"
+msgstr "Estamos sendo despedaçados!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/14"
+msgid "Sir, the defenses further back are not yet ready!"
+msgstr "Senhor, as defesas mais atrás ainda não estão prontas!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/15"
+msgid "Welcome to our Motherland, fascist scum!"
+msgstr "Bem-vindos à nossa Mãe Pátria, escória fascista!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/16"
+msgid "... Yes, comrade!"
+msgstr "... Sim, camarada!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/17"
+msgid "Panzers!"
+msgstr "Panzers!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/18"
+msgid "Comrade Commissar, the northern flank has been breached. They blew up the communication lines, sorry if the bad news could not be delivered earlier..."
+msgstr "Camarada Comissário, o flanco norte foi rompido. Eles explodiram as linhas de comunicação — desculpe se as más notícias não puderam ser entregues antes..."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/19"
+msgid "My soldiers will work on the barbed wire and inspect the trenches. You take care of the rest comrade!"
+msgstr "Meus soldados trabalharão no arame farpado e inspecionarão as trincheiras. Você cuida do resto, camarada!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/20"
+msgid "Hell! All village perimeters have been lost!!!"
+msgstr "Inferno! Todos os perímetros da aldeia foram perdidos!!!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/demolition"
+msgid "Fire in the hole!"
+msgstr "Fogo no buraco!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/detonator_override"
+msgid "I've had enough! The Germans already know we're here - I'm going to blow that detonator. "
+msgstr "Já chega! Os alemães já sabem que estamos aqui — vou acionar aquele detonador."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/p2_02"
+msgid "We do not have enough men to cover all the approaches to the village - we will need to reposition with each subsequent wave! The Germans will test all our positions!"
+msgstr "Não temos homens suficientes para cobrir todas as aproximações à aldeia — precisaremos nos reposicionar a cada onda subsequente! Os alemães testarão todas as nossas posições!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/p2_04"
+msgid "We've retreated by 10 kilometers already and regrouped near this village - We have had a taste of them already. They know they don't have men to spare, so they advance cautiously with terrible effectiveness. "
+msgstr "Já recuamos 10 quilômetros e nos reagrupamos perto desta aldeia — já os provamos. Eles sabem que não têm homens para desperdiçar, então avançam com cautela e terrível eficácia."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/sec01_02"
+msgid "Hmm. Maybe they were the ones directing the fire."
+msgstr "Hmm. Talvez eles fossem os que dirigiam o fogo."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/01"
+msgid "Damn it! Like I thought... they're coming this way!"
+msgstr "Droga! Como eu pensava... eles estão vindo por aqui!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/02"
+msgid "Grishenko, where is the bloody mining truck? Are we going to stop a panzer regiment scratching our asses out here?"
+msgstr "Grishenko, onde está o maldito caminhão de minas? Vamos parar um regimento de panzers coçando o traseiro aqui?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/03"
+msgid "Comrades! Listen carefully, we do not have much time......."
+msgstr "Camaradas! Ouçam com atenção — não temos muito tempo......."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/04"
+msgid "Very well. Let's go over it again. Surely the Germans will try ALL the approaches until they find a weak spot. I think it's our turn next..."
+msgstr "Muito bem. Vamos revisar. Com certeza os alemães tentarão TODAS as aproximações até encontrarem um ponto fraco. Acho que é nossa vez a seguir..."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/05"
+msgid "Comrade, take command of the small outpost squad and do your best to withstand the Germans. Follow my instructions carefully."
+msgstr "Camarada, assuma o comando do pequena esquadra do posto avançado e faça o seu melhor para resistir aos alemães. Siga minhas instruções com atenção."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/06"
+msgid "Those swine came very soon. "
+msgstr "Esses porcos chegaram muito cedo."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/07"
+msgid "They are scouting... Move in for a swift ambush. It would be unwise to reveal all our firepower on such a small group."
+msgstr "Estão fazendo reconhecimento... Avance para uma emboscada rápida. Seria imprudente revelar todo nosso poder de fogo em um grupo tão pequeno."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/08"
+msgid "Brace yourselves comrades. "
+msgstr "Preparem-se, camaradas."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/09"
+msgid "Let's see how those swine like our mines."
+msgstr "Vamos ver como esses porcos gostam de nossas minas."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/10"
+msgid "This is no time for complacency comrades. The Germans will not be gone for long. We must rearm and dig deeper..."
+msgstr "Não é hora de complacência, camaradas. Os alemães não ficarão fora por muito tempo. Devemos nos rearmar e cavar mais fundo..."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/11"
+msgid "We put this damaged tank back in action yesterday. Let's see if we can give those bastards a good impression!"
+msgstr "Colocamos este tanque danificado de volta em ação ontem. Vamos ver se podemos dar uma boa impressão a esses bastardos!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/12"
+msgid "Let some of them go! It may take them more time to come back if they really think we have an armored column with us!"
+msgstr "Deixe alguns deles ir! Pode levar mais tempo para voltarem se realmente pensarem que temos uma coluna blindada conosco!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/13"
+msgid "I want all the reserves to gather around the village. Nightfall is approaching and we have the longest night of our lives ahead!"
+msgstr "Quero todas as reservas reunidas ao redor da aldeia. A noite se aproxima e temos a noite mais longa de nossas vidas pela frente!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/14"
+msgid "Comrades, time is of the essence. "
+msgstr "Camaradas, o tempo é essencial."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/15"
+msgid "The 2nd Guards Army is coming as we speak, we stand here alone until their arrival."
+msgstr "O 2º Exército da Guarda está chegando enquanto falamos — ficamos aqui sozinhos até sua chegada."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/16"
+msgid "However, the Germans may be thinking the village is occupied by an entire army. The thick weather has not allowed for aerial reconnaissance from either side. We too do not know what awaits us."
+msgstr "No entanto, os alemães podem estar pensando que a aldeia é ocupada por um exército inteiro. O tempo fechado não permitiu reconhecimento aéreo de nenhum dos lados. Nós também não sabemos o que nos aguarda."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/17"
+msgid "I expect the enemy to attack in full force at dusk. We must do the impossible during the night. Prepare to defend against the fascist scum."
+msgstr "Espero que o inimigo ataque com força total ao entardecer. Devemos fazer o impossível durante a noite. Prepare-se para defender contra a escória fascista."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/18"
+msgid "I want this village to be the last piece of the Motherland they see before we hammer the last nail in their coffins. Is that clear?"
+msgstr "Quero que esta aldeia seja o último pedaço da Mãe Pátria que eles vejam antes de cravarmos o último prego em seus caixões. Está claro?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/19"
+msgid "See if you can make some of our damaged units fit for action again. We have several abandoned vehicles around here."
+msgstr "Veja se consegue colocar algumas de nossas unidades danificadas em condições de ação novamente. Temos vários veículos abandonados por aqui."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/20"
+msgid "I want ammunitions distributed and all supply reserves thrown into our front line! You will find them in the awnings."
+msgstr "Quero munições distribuídas e todas as reservas de suprimentos jogadas em nossa linha de frente! Você as encontrará nas coberturas."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/21"
+msgid "We won't take a step back! We won't be leaving Gromoslavka - the fuel that is left can be used to create boobytraps. Blow the barrels when the Germans are close!"
+msgstr "Não daremos um passo atrás! Não deixaremos Gromoslavka — o combustível restante pode ser usado para criar armadilhas. Exploda os barris quando os alemães estiverem perto!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/22"
+msgid "There are mines and other tools around the village! Find every piece of useful equipment!"
+msgstr "Há minas e outras ferramentas ao redor da aldeia! Encontre cada peça de equipamento útil!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/23"
+msgid "It seems they will attack from the west first. Apparently, they want to take the airfield!"
+msgstr "Parece que atacarão pelo oeste primeiro. Aparentemente querem tomar o aeródromo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/24"
+msgid "The enemy took the hill by the airfield! "
+msgstr "O inimigo tomou o morro perto do aeródromo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/25"
+msgid "The Fascists are advancing into the village! Hold the line!"
+msgstr "Os fascistas estão avançando para a aldeia! Segurem a linha!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/26"
+msgid "Those pigs are securing positions on the south flank! Don't let them push you out!"
+msgstr "Esses porcos estão assegurando posições no flanco sul! Não os deixe expulsar você!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/27"
+msgid "Their main attack comes from the southwest - Hold on!"
+msgstr "O ataque principal deles vem do sudoeste — Aguente!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/28"
+msgid "Enemy coming from the south! Hold the position!"
+msgstr "Inimigo vindo do sul! Mantenha a posição!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/29"
+msgid "We have lost the airfield perimeter to the enemy!"
+msgstr "Perdemos o perímetro do aeródromo para o inimigo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/30"
+msgid "The high ground is ours again!"
+msgstr "A posição elevada é nossa novamente!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/31"
+msgid "They have overrun our position at the village entrance! We have to push them out to the other side of the river!"
+msgstr "Eles invadiram nossa posição na entrada da aldeia! Precisamos expulsá-los para o outro lado do rio!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/32"
+msgid "Yes! The central perimeter is ours again! Make sure it stays that way!"
+msgstr "Sim! O perímetro central é nosso novamente! Certifique-se de que continue assim!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/33"
+msgid "Damn it! The enemy has driven us out of the southern sector! Counterattack!"
+msgstr "Droga! O inimigo nos expulsou do setor sul! Contra-ataque!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/34"
+msgid "The southern flank is ours again! Hold on to it!"
+msgstr "O flanco sul é nosso novamente! Segure-o!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/apcr_3"
+msgid "Shoot the tracks off! Hit the flat surfaces, don't let them come close!!"
+msgstr "Acerte as lagartas! Atinja as superfícies planas — não os deixe se aproximar!!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/aprc_1"
+msgid "Bloody hell! What on earth are those things?"
+msgstr "Que diabo! O que diabos são aquelas coisas?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/ger_defence1"
+msgid "What are they up to now??"
+msgstr "O que eles estão tramando agora??"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/ger_defence2"
+msgid "It's pointless to stay here! We have to fall back!"
+msgstr "É inútil ficar aqui! Precisamos recuar!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/ger_defence3"
+msgid "The Germans advance cautiously. While they move up their forces we will help the regiment finish the village defenses."
+msgstr "Os alemães avançam com cautela. Enquanto eles movem suas forças, ajudaremos o regimento a terminar as defesas da aldeia."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun"
+msgid "Comrade, you might want to reposition that AT-gun. The Germans will take according measures! I remind you these are not recruits we're dealing with."
+msgstr "Camarada, talvez você queira reposicionar aquele canhão AT. Os alemães tomarão as medidas correspondentes! Lembro-lhe que não estamos lidando com recrutas."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_01"
+msgid "Comrades, gather around, we have one more surprise planned for the Germans."
+msgstr "Camaradas, reúnam-se — temos mais uma surpresa planejada para os alemães."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_02"
+msgid "I trust you with the command of our only AT-gun in the sector."
+msgstr "Confio a você o comando de nosso único canhão AT no setor."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_03"
+msgid "We have found a great position for it, comrade, it is on higher ground and out of sight from the road."
+msgstr "Encontramos uma ótima posição para ele, camarada — está em terreno elevado e fora da visão da estrada."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_04"
+msgid "It is intentionally concealed behind the trees. This is why we have placed land mines amongst the shrubberies. The detonator is ready by the mortar position. Wait until the fascists bring armored vehicles, and then, press the detonator! "
+msgstr "Está intencionalmente camuflado atrás das árvores. Por isso colocamos minas terrestres entre os arbustos. O detonador está pronto na posição do morteiro. Espere até os fascistas trazerem veículos blindados e então pressione o detonador!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_early"
+msgid "What was that? You just completely wasted the element of surprise!"
+msgstr "O que foi isso? Você acabou de desperdiçar completamente o elemento surpresa!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/gun_player"
+msgid "Gun's ready! Now let's shred those swine to bits! "
+msgstr "Canhão pronto! Agora vamos despedaçar esses porcos!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/secret1"
+msgid "Damn it! We were supposed to keep the fuel from falling into enemy hands. In fact, we should not let them use this airfield at all!! They would be close enough to Stalingrad to overcome our blockade and supply their troops!"
+msgstr "Droga! Devíamos impedir que o combustível caísse nas mãos do inimigo. Na verdade, não devemos deixá-los usar este aeródromo de jeito nenhum!! Eles estariam perto o suficiente de Stalingrado para superar nosso bloqueio e abastecer suas tropas!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/03"
+msgid "Comrade Commissar! What makes you think the Germans won't attack in full force!?"
+msgstr "Camarada Comissário! O que faz você pensar que os alemães não atacarão com força total!?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/05"
+msgid "Comrade Commissar, we brought mines with us! Should we mine the roads to the village?"
+msgstr "Camarada Comissário, trouxemos minas conosco! Devemos minar as estradas para a aldeia?"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/07"
+msgid "Comrade Commissar - snow dust is visible on the horizon!"
+msgstr "Camarada Comissário — poeira de neve visível no horizonte!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/10"
+msgid "They're heading towards the airfield!"
+msgstr "Eles estão indo em direção ao aeródromo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/apcr_2"
+msgid "They... look like tough guys, comrade Commissar!"
+msgstr "Eles... parecem caras durões, camarada Comissário!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/apcr_4"
+msgid "Right away, comrade Commissar!"
+msgstr "Imediatamente, camarada Comissário!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/gun_dead"
+msgid "Gun out of action!!!"
+msgstr "Canhão fora de combate!!!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_player/sec1_01"
+msgid "What the hell? Did this truck slide on the ice while evacuating fuel?"
+msgstr "Que diabo? Esse caminhão deslizou no gelo enquanto evacuava combustível?"
+
+#, boost-format
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/obj_progress"
+msgid "%1% out of 3 sectors secured!"
+msgstr "%1% de 3 setores assegurados!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/outro_completed"
+msgid "Helped by appalling weather and their growing battle experience, the Red Army held the line at Gromoslavka. The 6th Army would have to soldier on without help, short of ammunition and food - despite an attempt to supply the pocket from the air. The only relief operation came to a standstill\n at the hands of the 51st Army, shattering the false hopes of the Germans inside the Stalingrad pocket. In early February 1943, they surrendered."
+msgstr "Ajudado pelo tempo horrível e pela crescente experiência de batalha, o Exército Vermelho segurou a linha em Gromoslavka. O 6º Exército teria que seguir sem ajuda, escasso de munição e comida — apesar de uma tentativa de abastecer o bolso pelo ar. A única operação de alívio chegou a um impasse\n nas mãos do 51º Exército, destruindo as falsas esperanças dos alemães dentro do bolso de Stalingrado. No início de fevereiro de 1943, eles se renderam."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/outro_failed"
+msgid "The Germans break through to the north as a result of this battle. You should have held the village! Now the Germans can \nbreak out and save hundreds of thousands of their comrades. The next spring they will be back at the front and all hope of a counteroffensive is now lost!"
+msgstr "Os alemães avançam para o norte como resultado desta batalha. Você deveria ter mantido a aldeia! Agora os alemães podem \nromper o cerco e salvar centenas de milhares de seus camaradas. Na próxima primavera eles estarão de volta à frente e toda esperança de uma contra-ofensiva está perdida!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/place"
+msgid "2nd Guards Army"
+msgstr "2º Exército da Guarda"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/skip"
+msgid "Skip defense buildup."
+msgstr "Pular construção de defesa."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/story"
+msgid "The situation at Stalingrad is hopeless for the encircled Germans. They start an offensive from the south to relieve their trapped army. All eyes are now on the 51st Army, which stands between them and Stalingrad."
+msgstr "A situação em Stalingrado é desesperadora para os alemães cercados. Eles iniciam uma ofensiva pelo sul para socorrer seu exército encurralado. Todos os olhos estão agora no 51º Exército, que se interpõe entre eles e Stalingrado."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task0"
+msgid "Hold the checkpoint"
+msgstr "Segure o posto de controle"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task1"
+msgid "Hold the village of Gromoslavka"
+msgstr "Segure a aldeia de Gromoslavka"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task1a"
+msgid "Gather for the briefing."
+msgstr "Reúnam-se para o briefing."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task2"
+msgid "Drive the Germans out of the village"
+msgstr "Expulse os alemães da aldeia"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task3"
+msgid "Keep the AAA operational."
+msgstr "Mantenha as baterias antiaéreas operacionais."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_opt1"
+msgid "Demolish the foliage when heavy armored vehicles arrive and take control of the gun."
+msgstr "Demola a vegetação quando veículos blindados pesados chegarem e tome o controle do canhão."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_opt2"
+msgid "Fortify the positions in the village and prepare for the enemy attack!"
+msgstr "Fortifique as posições na aldeia e prepare-se para o ataque inimigo!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_sec1"
+msgid "Blow up the airstrip to prevent German reinforcements from landing."
+msgstr "Exploda a pista de pouso para impedir que reforços alemães pousem."
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_sec1_hidden"
+msgid "Secret objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_sec2"
+msgid "Board the Bf 109"
+msgstr "Entre no Bf 109"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/task_sec2_hidden"
+msgid "Secret objective #2"
+msgstr "Objetivo Secreto nº 2"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/timer"
+msgid "German arrival is imminent!"
+msgstr "A chegada dos alemães é iminente!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/timer_attack"
+msgid "Defend the positions!"
+msgstr "Defenda as posições!"
+
+msgctxt "mission/single/01-rus/1942_12_winterstorm/timer_night"
+msgid "Prepare defenses."
+msgstr "Prepare as defesas."

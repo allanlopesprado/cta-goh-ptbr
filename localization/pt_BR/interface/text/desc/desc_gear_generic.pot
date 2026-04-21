@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell generic gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/stuff/ammo_box_inf_ger"
+msgid "Ammo Box"
+msgstr "Caixa de Munição"
+
+msgctxt "desc/stuff/ammo_box_shell_ger"
+msgid "Shell Ammo Box"
+msgstr "Caixa de Munição de Projéteis"
+
+msgctxt "desc/stuff/b33r"
+msgid "Rack with Beverages"
+msgstr "Prateleira de Bebidas"
+
+msgctxt "desc/stuff/barbwire_kit"
+msgid "Barbwire Kit"
+msgstr "Kit de Arame Farpado"
+
+msgctxt "desc/stuff/barrel"
+msgid "Barrel"
+msgstr "Barril"
+
+msgctxt "desc/stuff/box1"
+msgid "Box 1"
+msgstr "Caixa 1"
+
+msgctxt "desc/stuff/box2"
+msgid "Box 2"
+msgstr "Caixa 2"
+
+msgctxt "desc/stuff/can"
+msgid "Jerry Can"
+msgstr "Jerricã"
+
+msgctxt "desc/stuff/canned_meat"
+msgid "Canned Meat"
+msgstr "Carne Enlatada"
+
+msgctxt "desc/stuff/chicken"
+msgid "Chicken"
+msgstr "Galinha"
+
+msgctxt "desc/stuff/civilian_beanie"
+msgid "Cap"
+msgstr "Boné"
+
+msgctxt "desc/stuff/civilian_cook_cap"
+msgid "Cap"
+msgstr "Boné"
+
+msgctxt "desc/stuff/civilian_dockyard_cap"
+msgid "Cap"
+msgstr "Boné"
+
+msgctxt "desc/stuff/civilian_fedora_black"
+msgid "Hat"
+msgstr "Chapéu"
+
+msgctxt "desc/stuff/civilian_fedora_brown"
+msgid "Hat"
+msgstr "Chapéu"
+
+msgctxt "desc/stuff/civilian_fedora_green"
+msgid "Hat"
+msgstr "Chapéu"
+
+msgctxt "desc/stuff/civilian_fedora_grey"
+msgid "Hat"
+msgstr "Chapéu"
+
+msgctxt "desc/stuff/civilian_fedora_orange"
+msgid "Hat"
+msgstr "Chapéu"
+
+msgctxt "desc/stuff/civilian_flat_cap_leather"
+msgid "Cap"
+msgstr "Boné"
+
+msgctxt "desc/stuff/commander_vision"
+msgid "Commander Vision"
+msgstr "Visão do Comandante"
+
+msgctxt "desc/stuff/cord_wood"
+msgid "Wood"
+msgstr "Madeira"
+
+msgctxt "desc/stuff/cumulative_charge"
+msgid "Cumulative Charge"
+msgstr "Carga Cumulativa"
+
+msgctxt "desc/stuff/cumulative_launcher"
+msgid "Cumulative Launcher"
+msgstr "Lançador de Carga Cumulativa"
+
+msgctxt "desc/stuff/diesel"
+msgid "Diesel"
+msgstr "Diesel"
+
+msgctxt "desc/stuff/dummy"
+msgid "Dummy"
+msgstr "Alvo de Treinamento"
+
+msgctxt "desc/stuff/feltbahn_combat_pack"
+msgid "German Combat Pack"
+msgstr "Mochila de Combate Alemã"
+
+msgctxt "desc/stuff/filling_empty"
+msgid "Empty"
+msgstr "Vazio"
+
+msgctxt "desc/stuff/german_radio"
+msgid "German Feld.Fu.B Radio"
+msgstr "Rádio Alemão Feld.Fu.B"
+
+msgctxt "desc/stuff/hedgehog_kit"
+msgid "Hedgehog Kit"
+msgstr "Kit Ouriço Antitanque"
+
+msgctxt "desc/stuff/human"
+msgid "Human"
+msgstr "Humano"
+
+msgctxt "desc/stuff/knife_ger"
+msgid "German Knife"
+msgstr "Faca Alemã"
+
+msgctxt "desc/stuff/knife_rus"
+msgid "Soviet Knife"
+msgstr "Faca Soviética"
+
+msgctxt "desc/stuff/lamp"
+msgid "Lamp"
+msgstr "Lamparina"
+
+msgctxt "desc/stuff/liquid"
+msgid "Fuel"
+msgstr "Combustível"
+
+msgctxt "desc/stuff/matchbox"
+msgid "Match Box"
+msgstr "Caixa de Fósforos"
+
+msgctxt "desc/stuff/medkit"
+msgid "Medical Kit"
+msgstr "Kit Médico"
+
+msgctxt "desc/stuff/mine_detector"
+msgid "Mine Detector"
+msgstr "Detector de Minas"
+
+msgctxt "desc/stuff/morphine"
+msgid "Morphine"
+msgstr "Morfina"
+
+msgctxt "desc/stuff/panzershreck_carrycase"
+msgid "Panzershreck Ammunition Carrycase"
+msgstr "Maleta de Munição Panzerschreck"
+
+msgctxt "desc/stuff/petrol"
+msgid "Petrol"
+msgstr "Gasolina"
+
+msgctxt "desc/stuff/pickaxe"
+msgid "Trench Pickaxe"
+msgstr "Picareta de Trincheira"
+
+msgctxt "desc/stuff/plant"
+msgid "Camouflage Kit"
+msgstr "Kit de Camuflagem"
+
+msgctxt "desc/stuff/plash_palatka_a"
+msgid "Plash Palatka A"
+msgstr "Plash Palatka A"
+
+msgctxt "desc/stuff/plash_palatka_b"
+msgid "Plash Palatka B"
+msgstr "Plash Palatka B"
+
+msgctxt "desc/stuff/plash_palatka_c"
+msgid "Plash Palatka C"
+msgstr "Plash Palatka C"
+
+msgctxt "desc/stuff/repair_kit"
+msgid "Repair Kit"
+msgstr "Kit de Reparo"
+
+msgctxt "desc/stuff/round_sandbag_kit"
+msgid "Round Sandbag Kit"
+msgstr "Kit de Sacos de Areia Redondos"
+
+msgctxt "desc/stuff/sandbag_kit"
+msgid "Sandbags"
+msgstr "Sacos de Areia"
+
+msgctxt "desc/stuff/sandbag_kit_vehicle"
+msgid "Sandbags, Vehicle Kit"
+msgstr "Sacos de Areia, Kit para Veículo"
+
+msgctxt "desc/stuff/sandbag_vehicle"
+msgid "Sandbag Kit (Vehicle)"
+msgstr "Kit de Sacos de Areia (Veículo)"
+
+msgctxt "desc/stuff/secret_doc_bag2"
+msgid "Confidential Documents"
+msgstr "Documentos Confidenciais"
+
+msgctxt "desc/stuff/secret_doc_bag3"
+msgid "Confidential Documents"
+msgstr "Documentos Confidenciais"
+
+msgctxt "desc/stuff/shell_cannon"
+msgid "Empty Casing"
+msgstr "Estojo Vazio"
+
+msgctxt "desc/stuff/shell_cannon_auto"
+msgid "Empty Casing"
+msgstr "Estojo Vazio"
+
+msgctxt "desc/stuff/shell_flare"
+msgid "Shell Flare"
+msgstr "Sinalizador"
+
+msgctxt "desc/stuff/shovel_ger"
+msgid "German Shovel"
+msgstr "Pá Alemã"
+
+msgctxt "desc/stuff/shovel_rus"
+msgid "Soviet Shovel"
+msgstr "Pá Soviética"
+
+msgctxt "desc/stuff/smokescreen"
+msgid "Smoke Screen"
+msgstr "Cortina de Fumaça"
+
+msgctxt "desc/stuff/sn40_body_armor"
+msgid "SN40 Body Armor"
+msgstr "Colete Balístico SN40"
+
+msgctxt "desc/stuff/sugar"
+msgid "Fuel-Soluble Chemicals"
+msgstr "Químicos Solúveis em Combustível"
+
+msgctxt "desc/stuff/tent_kit"
+msgid "Tent building kit"
+msgstr "Kit de Montagem de Tenda"
+
+msgctxt "desc/stuff/veshmeshok_basic"
+msgid "Veshmeshok Basic"
+msgstr "Veshmeshok Básico"
+
+msgctxt "desc/stuff/veshmeshok_full"
+msgid "Veshmeshok Full"
+msgstr "Veshmeshok Completo"
+
+msgctxt "desc/stuff/veshmeshok_regular"
+msgid "Veshmeshok Regular"
+msgstr "Veshmeshok Regular"
+
+msgctxt "desc/stuff/water"
+msgid "Water"
+msgstr "Água"
+
+msgctxt "desc/stuff/wirecutters"
+msgid "Wire Cutters"
+msgstr "Alicate de Corte"
+
+msgctxt "desc/stuff/steak"
+msgid "Meat"
+msgstr "Carne"
+
+msgctxt "desc/stuff/gold_bar"
+msgid "Gold bar"
+msgstr "Barra de Ouro"

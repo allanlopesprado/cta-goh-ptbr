@@ -1,0 +1,261 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet Gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "desc/stuff/bandage_rus"
+msgid "Soviet Bandage"
+msgstr "Curativo Soviético"
+
+msgctxt "desc/stuff/f1"
+msgid "F1 Grenade"
+msgstr "Granada F1"
+
+msgctxt "desc/stuff/molotov_cocktail"
+msgid "Molotov Cocktail"
+msgstr "Coquetel Molotov"
+
+msgctxt "desc/stuff/pmd mine"
+msgid "Antipersonnel PMD Mine"
+msgstr "Mina Antipessoal PMD"
+
+msgctxt "desc/stuff/rdg1_smoke"
+msgid "RGD-1 (Smoke)"
+msgstr "RGD-1 (Fumaça)"
+
+msgctxt "desc/stuff/rdg1_smoke_supplies"
+msgid "RGD-1 (Supplies)"
+msgstr "RGD-1 (Suprimentos)"
+
+msgctxt "desc/stuff/rgd33"
+msgid "RGD M/33 Grenade"
+msgstr "Granada RGD M/33"
+
+msgctxt "desc/stuff/rgd33_smoke"
+msgid "RGD M/43 (Smoke)"
+msgstr "RGD M/43 (Fumaça)"
+
+msgctxt "desc/stuff/rgd33_smoke_ammo"
+msgid "RGD M/43 (Ammo paradrop)"
+msgstr "RGD M/43 (Lançamento de Munição)"
+
+msgctxt "desc/stuff/rgd33_smoke_weapons"
+msgid "RGD M/43 (Weapons paradrop)"
+msgstr "RGD M/43 (Lançamento de Armas)"
+
+msgctxt "desc/stuff/rpd43_grenade"
+msgid "RPD M/43 AT Grenade"
+msgstr "Granada AT RPD M/43"
+
+msgctxt "desc/stuff/rpg40"
+msgid "RPG M/40 AT Grenade"
+msgstr "Granada AT RPG M/40"
+
+msgctxt "desc/stuff/rpg43"
+msgid "RPG M/43 AT Grenade"
+msgstr "Granada AT RPG M/43"
+
+msgctxt "desc/stuff/rus_cossack_hat"
+msgid "Cossack cap"
+msgstr "Gorro Cossaco"
+
+msgctxt "desc/stuff/satchel_charge"
+msgid "Satchel Charge"
+msgstr "Carga Explosiva"
+
+msgctxt "desc/stuff/satchel_charge_rus"
+msgid "Soviet Satchel Charge"
+msgstr "Carga Explosiva Soviética"
+
+msgctxt "desc/stuff/soviet_adrian"
+msgid "Adrian Mod.16 Helmet"
+msgstr "Capacete Adrian Mod.16"
+
+msgctxt "desc/stuff/soviet_budinovka"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_artillery"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_border"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_down"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_down_artillery"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_down_border"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_down_early"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_down_nkvd"
+msgid "Budinovka (NKVD)"
+msgstr "Budinovka (NKVD)"
+
+msgctxt "desc/stuff/soviet_budinovka_early"
+msgid "Budinovka"
+msgstr "Budinovka"
+
+msgctxt "desc/stuff/soviet_budinovka_nkvd"
+msgid "Budinovka (NKVD)"
+msgstr "Budinovka (NKVD)"
+
+msgctxt "desc/stuff/soviet_commisar_cap"
+msgid "Commisar's Visor"
+msgstr "Quepe do Comissário"
+
+msgctxt "desc/stuff/soviet_commisar_cap_artillery"
+msgid "Artillery Commisar's Visor"
+msgstr "Quepe do Comissário de Artilharia"
+
+msgctxt "desc/stuff/soviet_commisar_cap_border"
+msgid "Border Guard officer's Visor"
+msgstr "Quepe de Oficial da Guarda de Fronteira"
+
+msgctxt "desc/stuff/soviet_commisar_cap_early"
+msgid "Commisar's Visor"
+msgstr "Quepe do Comissário"
+
+msgctxt "desc/stuff/soviet_marine_pilotka"
+msgid "Sailor's Cap"
+msgstr "Boné de Marinheiro"
+
+msgctxt "desc/stuff/soviet_naval_commisar_cap"
+msgid "Commisar's Visor"
+msgstr "Quepe do Comissário"
+
+msgctxt "desc/stuff/soviet_nkvd_cap"
+msgid "NKVD Political Officer's Visor"
+msgstr "Quepe do Oficial Político NKVD"
+
+msgctxt "desc/stuff/soviet_pilotka"
+msgid "Pilotka"
+msgstr "Pilotka"
+
+msgctxt "desc/stuff/soviet_pilotka_artillery"
+msgid "Pilotka"
+msgstr "Pilotka"
+
+msgctxt "desc/stuff/soviet_pilotka_border"
+msgid "Pilotka"
+msgstr "Pilotka"
+
+msgctxt "desc/stuff/soviet_pilotka_early"
+msgid "Pilotka"
+msgstr "Pilotka"
+
+msgctxt "desc/stuff/soviet_pilotka_grey"
+msgid "Pilotka"
+msgstr "Pilotka"
+
+msgctxt "desc/stuff/soviet_pilotka_nkvd"
+msgid "NKVD Pilotka"
+msgstr "Pilotka NKVD"
+
+msgctxt "desc/stuff/soviet_ssh35_helmet"
+msgid "'Steel Helmet' Ssh-36"
+msgstr "'Capacete de Aço' Ssh-36"
+
+msgctxt "desc/stuff/soviet_ssh35_helmet_strapontop"
+msgid "'Steel Helmet' Ssh-36"
+msgstr "'Capacete de Aço' Ssh-36"
+
+msgctxt "desc/stuff/soviet_ssh39_brown"
+msgid "'Steel Helmet' Ssh-39"
+msgstr "'Capacete de Aço' Ssh-39"
+
+msgctxt "desc/stuff/soviet_ssh39_helmet"
+msgid "'Steel Helmet' Ssh-39"
+msgstr "'Capacete de Aço' Ssh-39"
+
+msgctxt "desc/stuff/soviet_ssh39_marine"
+msgid "'Steel Helmet' Ssh-39 (Naval)"
+msgstr "'Capacete de Aço' Ssh-39 (Naval)"
+
+msgctxt "desc/stuff/soviet_ssh39_medic"
+msgid "'Steel Helmet' Ssh-39 (Medic)"
+msgstr "'Capacete de Aço' Ssh-39 (Médico)"
+
+msgctxt "desc/stuff/soviet_ssh39_winter"
+msgid "'Steel Helmet' Ssh-39"
+msgstr "'Capacete de Aço' Ssh-39"
+
+msgctxt "desc/stuff/soviet_ssh40_brown"
+msgid "'Steel Helmet' Ssh-40"
+msgstr "Capacete de Aço Ssh-40"
+
+msgctxt "desc/stuff/soviet_ssh40_helmet"
+msgid "'Steel Helmet' Ssh-40"
+msgstr "Capacete de Aço Ssh-40"
+
+msgctxt "desc/stuff/soviet_ssh40_marine"
+msgid "'Steel Helmet' Ssh-40 (Naval)"
+msgstr "Capacete de Aço Ssh-40 (Naval)"
+
+msgctxt "desc/stuff/soviet_ssh40_medic"
+msgid "'Steel Helmet' Ssh-40 (Medic)"
+msgstr "Capacete de Aço Ssh-40 (Médico)"
+
+msgctxt "desc/stuff/soviet_tankist_cap"
+msgid "Tank Commander's Visor"
+msgstr "Quepe do Comandante de Tanque"
+
+msgctxt "desc/stuff/soviet_tankovy_helmet"
+msgid "Tanker's Cap"
+msgstr "Boné de Tanqueiro"
+
+msgctxt "desc/stuff/soviet_tankovy_helmet_rubber"
+msgid "Tanker's Cap"
+msgstr "Boné de Tanqueiro"
+
+msgctxt "desc/stuff/soviet_ushanka"
+msgid "Ushanka"
+msgstr "Ushanka"
+
+msgctxt "desc/stuff/soviet_ushanka_naval"
+msgid "Ushanka (Naval)"
+msgstr "Ushanka (Naval)"
+
+msgctxt "desc/stuff/soviet_ushanka_untied"
+msgid "Ushanka"
+msgstr "Ushanka"
+
+msgctxt "desc/stuff/soviet_warden_furcap"
+msgid "Ushanka"
+msgstr "Ushanka"
+
+msgctxt "desc/stuff/tm_35 mine"
+msgid "Anti-Tank TM Obr.35 Mine"
+msgstr "Mina Antitanque TM Obr.35"
+
+msgctxt "desc/stuff/tm_41 mine"
+msgid "Anti-Tank TM Obr.41 Mine"
+msgstr "Mina Antitanque TM Obr.41"
+
+msgctxt "desc/stuff/tmd_44 mine"
+msgid "Anti-Tank TMD Obr.44 Mine"
+msgstr "Mina Antitanque TMD Obr.44"
+
+msgctxt "desc/stuff/tmd_b mine"
+msgid "Anti-Tank TMD-B mine"
+msgstr "Mina Antitanque TMD-B"

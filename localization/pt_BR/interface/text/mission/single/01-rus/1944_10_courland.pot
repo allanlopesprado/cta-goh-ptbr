@@ -1,0 +1,321 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_10_courland)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1944_10_courland/date"
+msgid "October 8, 1944 · South of Memel, Lithuania"
+msgstr "8 de outubro de 1944 · Sul de Memel, Lituânia"
+
+msgctxt "mission/single/01-rus/1944_10_courland/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus/1944_10_courland/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus/1944_10_courland/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus/1944_10_courland/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus/1944_10_courland/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus/1944_10_courland/name"
+msgid "Closing the Pocket"
+msgstr "Fechando o Bolso"
+
+msgctxt "mission/single/01-rus/1944_10_courland/name_big"
+msgid "Closing the Pocket"
+msgstr "Fechando o Bolso"
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/01"
+msgid "Comrades! Today is the day of reckoning for the Hitlerite hordes! Whilst our glorious 5th Guards Tank Army is breaching the Fascist defenses around Memel, we will secure this area and cut them off. "
+msgstr "Camaradas! Hoje é o dia do ajuste de contas para as hordas hitlerists! Enquanto nosso glorioso 5º Exército de Tanques da Guarda está rompendo as defesas fascistas ao redor de Memel, asseguraremos esta área e os cortaremos."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/02"
+msgid "The Germans attacked us last night, and today you are to counter-attack and drive them out of this sector. "
+msgstr "Os alemães nos atacaram ontem à noite, e hoje você deve contra-atacar e expulsá-los deste setor."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/03"
+msgid "Expect high enemy presence, as they will be armed to the teeth!"
+msgstr "Espere forte presença inimiga — eles estarão armados até os dentes!"
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/04"
+msgid "There are certain key locations in the area which the High Command expects to be captured. I will divert additional troops and resources to your command as you progress with your mission. Good luck, comrades! Onward, to victory!"
+msgstr "Há certos locais-chave na área que o Alto Comando espera que sejam capturados. Desviarei tropas e recursos adicionais ao seu comando conforme você progredir na missão. Boa sorte, camaradas! Avante, à vitória!"
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/05"
+msgid "The Luftwaffe may make an appearance. You must always advance with support from the AA guns. Our forward observers will inform when enemy ground-attack aircraft are inbound."
+msgstr "A Luftwaffe pode aparecer. Você deve sempre avançar com apoio dos canhões antiaéreos. Nossos observadores avançados informarão quando aeronaves de ataque ao solo inimigas estiverem se aproximando."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/06"
+msgid "An enemy column is bound to arrive shortly, from the south! Get ready to greet them!"
+msgstr "Uma coluna inimiga deve chegar em breve, pelo sul! Prepare-se para recebê-los!"
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task1_complete"
+msgid "Good job. You now have access to supplies and logistical vehicles."
+msgstr "Bom trabalho. Você agora tem acesso a suprimentos e veículos logísticos."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task2_complete"
+msgid "Excellent. AT-guns and other support weaponry are now at your disposal."
+msgstr "Excelente. Canhões AT e outros armamentos de apoio estão agora à sua disposição."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task3_complete"
+msgid "The Fascists have been driven out of the settlement once and for all! You now have command of our medium tanks."
+msgstr "Os fascistas foram expulsos do assentamento de uma vez por todas! Você agora tem o comando de nossos tanques médios."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task4_complete"
+msgid "Nothing can stop our glorious Red Army. And now nothing will stop your heavy tanks, comrade. Use them wisely, we don't have many of them."
+msgstr "Nada pode parar nosso glorioso Exército Vermelho. E agora nada vai parar seus tanques pesados, camarada. Use-os com sabedoria — não temos muitos."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task5_complete"
+msgid "Those miserable Hitlerite lowlives will no longer be able to bombard our neighboring regiments. Comrade, I am giving you command of our long-range weaponry reserves."
+msgstr "Esses miseráveis patifes hitlerists não conseguirão mais bombardear nossos regimentos vizinhos. Camarada, estou dando a você o comando de nossas reservas de armamentos de longo alcance."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task6_complete"
+msgid "These Fascists have excellent radio equipment. We will use their equipment to relay ground attack coordinates for our Sturmoviks."
+msgstr "Esses fascistas têm excelente equipamento de rádio. Usaremos o equipamento deles para retransmitir coordenadas de ataque ao solo para nossos Sturmoviks."
+
+msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task7_complete"
+msgid "The enemy headquarters are ours. The end of the Fascist occupation is at hand."
+msgstr "O quartel-general inimigo é nosso. O fim da ocupação fascista está próximo."
+
+msgctxt "mission/single/01-rus/1944_10_courland/outro_completed"
+msgid "The glorious 43rd Army completed the surrounding of Memel. During the offensive, the German 3rd Panzer Army HQ was overrun. Army Group North had been successfully trapped in North Courland."
+msgstr "O glorioso 43º Exército completou o cerco de Memel. Durante a ofensiva, o QG do 3º Exército Panzer alemão foi tomado. O Grupo de Exércitos Norte foi com sucesso aprisionado no norte da Curlândia."
+
+msgctxt "mission/single/01-rus/1944_10_courland/outro_failed"
+msgid "This failure will prove very costly. The Germans now have the option to either reinforce or evacuate their 3rd Panzer Army! This means we will lose countless more comrades than we already have. You will be in the front echelon when we attack again!"
+msgstr "Este fracasso se provará muito custoso. Os alemães agora têm a opção de reforçar ou evacuar seu 3º Exército Panzer! Isso significa que perderemos incontáveis camaradas a mais. Você estará no primeiro escalão quando atacarmos novamente!"
+
+msgctxt "mission/single/01-rus/1944_10_courland/place"
+msgid "43rd Army"
+msgstr "43º Exército"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/100mm_bs3"
+msgid "100mm BS-3 M1944"
+msgstr "100mm BS-3 M1944"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/120mm_pm38"
+msgid "120mm PM-38 M1938"
+msgstr "120mm PM-38 M1938"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/122mm_m30"
+msgid "122mm M-30 M1938"
+msgstr "122mm M-30 M1938"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/152mm_ml20"
+msgid "152mm ML-20 M1937"
+msgstr "152mm ML-20 M1937"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/203mm_b4"
+msgid "203mm B-4 M1931"
+msgstr "203mm B-4 M1931"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/25mm_72k"
+msgid "25mm 72-K M1940"
+msgstr "25mm 72-K M1940"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/37mm_61k"
+msgid "37mm 61-K M1939"
+msgstr "37mm 61-K M1939"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/45mm_m42"
+msgid "45mm M-42 M1942"
+msgstr "45mm M-42 M1942"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/57mm_zis2"
+msgid "57mm ZIS-2 M1941"
+msgstr "57mm ZIS-2 M1941"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/76mm_m43"
+msgid "76mm OB-25 M1943"
+msgstr "76mm OB-25 M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/76mm_zis3"
+msgid "76mm ZIS-3 M1942"
+msgstr "76mm ZIS-3 M1942"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/82mm_bm37"
+msgid "82mm BM-37 M1937"
+msgstr "82mm BM-37 M1937"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/85mm_52k"
+msgid "85mm 52-K M1939"
+msgstr "85mm 52-K M1939"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/airstrike"
+msgid "Air strike"
+msgstr "Ataque aéreo"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/assaultsappers"
+msgid "Assault Sappers"
+msgstr "Sapadores de Assalto"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/ba64"
+msgid "BA-64B"
+msgstr "BA-64B"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/bm13_studebaker"
+msgid "BM-13 Katyusha"
+msgstr "BM-13 Katyusha"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/dshk_stan"
+msgid "DShK M1938 MG"
+msgstr "DShK M1938 MG"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/gaz_aaa_eng"
+msgid "GAZ-AAA (Engineer)"
+msgstr "GAZ-AAA (Engenheiro)"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/gaz_aaa_supply"
+msgid "GAZ-AAA (Supply)"
+msgstr "GAZ-AAA (Suprimentos)"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Implante seus reforços no campo de batalha"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/inf"
+msgid "Infantry squad"
+msgstr "Esquadra de Infantaria"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/is1_43"
+msgid "IS-1 M1943"
+msgstr "IS-1 M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/is2_44"
+msgid "IS-2 M1944"
+msgstr "IS-2 M1944"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/menu:1_1"
+msgid "Infantry"
+msgstr "Infantaria"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/menu:2_1"
+msgid "Support"
+msgstr "Apoio"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/menu:3_1"
+msgid "Vehicles"
+msgstr "Veículos"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/menu:4_1"
+msgid "Tanks"
+msgstr "Tanques"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/menu:back"
+msgid "Return to menu"
+msgstr "Voltar ao menu"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/sniper"
+msgid "Sniper"
+msgstr "Franco-atirador"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/su100"
+msgid "SU-100"
+msgstr "SU-100"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/su122"
+msgid "SU-122"
+msgstr "SU-122"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/su152"
+msgid "ISU-152"
+msgstr "ISU-152"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/su76"
+msgid "SU-76"
+msgstr "SU-76"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/su85"
+msgid "SU-85"
+msgstr "SU-85"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t3457_43"
+msgid "T-34/57 M1943"
+msgstr "T-34/57 M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t3476_43"
+msgid "T-34/76 M1943"
+msgstr "T-34/76 M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t3476_43_flame"
+msgid "OT-34 M1943"
+msgstr "OT-34 M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t3485_44"
+msgid "T-34/85 M1944"
+msgstr "T-34/85 M1944"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t60"
+msgid "T-60 M1941"
+msgstr "T-60 M1941"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/t70m"
+msgid "T-70M M1943"
+msgstr "T-70M M1943"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/crew"
+msgid "Tank crew"
+msgstr "Tripulação de tanque"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/zis5"
+msgid "ZIS-5 truck"
+msgstr "Caminhão ZIS-5"
+
+msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/crate"
+msgid "Ammo crate"
+msgstr "Caixa de Munição"
+
+msgctxt "mission/single/01-rus/1944_10_courland/story"
+msgid "Army Group North suffers the unstoppable tide of the Red Army. Stavka proceeds to encircle the city of Memel. In the south, the 43rd Army dashes towards the coast to cut the Germans off from the south. A brutal engagement is about to unfold..."
+msgstr "O Grupo de Exércitos Norte sofre com a maré imparável do Exército Vermelho. A Stavka procede ao cerco da cidade de Memel. Ao sul, o 43º Exército avança em direção à costa para cortar os alemães pelo sul. Um confronto brutal está prestes a se desenrolar..."
+
+msgctxt "mission/single/01-rus/1944_10_courland/task1"
+msgid "Recapture the depot for acquiring supplies"
+msgstr "Retome o depósito para adquirir suprimentos"
+
+msgctxt "mission/single/01-rus/1944_10_courland/task2"
+msgid "Capture the first line of defense to get access to AT equipment and support weaponry"
+msgstr "Capture a primeira linha de defesa para obter acesso a equipamentos AT e armamentos de apoio"
+
+msgctxt "mission/single/01-rus/1944_10_courland/task3"
+msgid "Recapture the village of Daukšaičiai to gain access to medium armor."
+msgstr "Retome a aldeia de Daukšaičiai para obter acesso à blindagem média."
+
+msgctxt "mission/single/01-rus/1944_10_courland/task4"
+msgid "Secure the road checkpoint to pave way for our heavy tanks."
+msgstr "Assegure o posto de controle da estrada para abrir caminho para nossos tanques pesados."
+
+msgctxt "mission/single/01-rus/1944_10_courland/task5"
+msgid "Take out the German Heavy Artillery position and gain access to heavy howitzers"
+msgstr "Destrua a posição de Artilharia Pesada alemã e obtenha acesso a obuses pesados"
+
+msgctxt "mission/single/01-rus/1944_10_courland/task6"
+msgid "Seize the enemy communications outpost to establish communications with our air force"
+msgstr "Tome o posto de comunicações inimigo para estabelecer comunicações com nossa força aérea"
+
+msgctxt "mission/single/01-rus/1944_10_courland/task7"
+msgid "Assault the German headquarters and surrounding defenses"
+msgstr "Assalte o quartel-general alemão e as defesas circundantes"

@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1939_12_summa)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/03-fin/1939_12_summa/date"
+msgid "December 18th, 1939 · Summa, Finland"
+msgstr "18 de dezembro de 1939 · Summa, Finlândia"
+
+msgctxt "mission/single/03-fin/1939_12_summa/men"
+msgid "You lost all your men!"
+msgstr "Você perdeu todos os seus homens!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/name"
+msgid "Through Ice and Fire"
+msgstr "Através do Gelo e do Fogo"
+
+msgctxt "mission/single/03-fin/1939_12_summa/name_big"
+msgid "Through Ice and Fire"
+msgstr "Através do Gelo e do Fogo"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/01"
+msgid "Welcome to the Mannerheim line, soldiers! The soviets are about to run into the strongest fortifications our country has to offer!"
+msgstr "Bem-vindos à linha Mannerheim, soldados! Os soviéticos estão prestes a se deparar com as mais fortes fortificações que nosso país tem a oferecer!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/02"
+msgid "Our main bunkers are designed to provide cross-fire as the enemy tries to surround them. Anti-tank and machinegun emplacements will make short work of the aggressors!"
+msgstr "Nossos bunkers principais são projetados para fornecer fogo cruzado enquanto o inimigo tenta cercá-los. As posições antitanque e de metralhadora farão trabalho rápido dos agressores!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/03"
+msgid "The enemy is already deploying their artillery. We expect a full-blown frontal assault. Use this time to take positions on the trenches!"
+msgstr "O inimigo já está implantando sua artilharia. Esperamos um assalto frontal completo. Use este tempo para tomar posições nas trincheiras!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/04"
+msgid "The enemy artillery is targetting anti-tank obstacles! They are made out of stone, so they will shatter!  The enemy tanks will undoubtedly roll through the holes."
+msgstr "A artilharia inimiga está mirando os obstáculos antitanque! São feitos de pedra, então se despedaçarão! Os tanques inimigos sem dúvida passarão pelos buracos."
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/05"
+msgid "The aggressors are launching their armored assault! Prepare to hold the line! Focus on immobilising the armor and keep the infantry pinned down!"
+msgstr "Os agressores estão lançando seu assalto blindado! Prepare-se para manter a linha! Concentre-se em imobilizar os blindados e mantenha a infantaria imobilizada!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/05b"
+msgid "The enemy is launching another attack!"
+msgstr "O inimigo está lançando outro ataque!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/06"
+msgid "Good job. Prepare to defend from subsequent enemy waves!"
+msgstr "Bom trabalho. Prepare-se para defender das ondas inimigas subsequentes!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/06b"
+msgid "Another enemy armored assault has been defeated. Good work!"
+msgstr "Outro assalto blindado inimigo foi derrotado. Bom trabalho!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/07"
+msgid "The communists are planning to hit us on the western flank! Take positions and spread out your men - we don't want them all blown to bits from the enemy heavy artillery."
+msgstr "Os comunistas estão planejando nos atacar no flanco oeste! Tome posições e espalhe seus homens — não queremos que todos sejam destruídos pela artilharia pesada inimiga."
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/08"
+msgid "The enemy is launching another assault toward the centre!"
+msgstr "O inimigo está lançando outro assalto em direção ao centro!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/09"
+msgid "The soviets are launching another wave on the western flank!"
+msgstr "Os soviéticos estão lançando outra onda no flanco oeste!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/10"
+msgid "The enemy is advancing on the eastern flank! "
+msgstr "O inimigo está avançando no flanco leste!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/11"
+msgid "Good job, soldiers! You have earned my respect and the admiration of our great nation!"
+msgstr "Bom trabalho, soldados! Vocês conquistaram meu respeito e a admiração de nossa grande nação!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/12"
+msgid "The SJ-5 bunker is designed specifically to bait the enemy into a crossfire. Let them come around it, and open fire from the sides!"
+msgstr "O bunker SJ-5 é projetado especificamente para atrair o inimigo para um fogo cruzado. Deixe-os contorná-lo e abra fogo pelos lados!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/aa"
+msgid "Enemy vehicles with automatic weaponry have been spotted coming this way!"
+msgstr "Veículos inimigos com armamento automático foram avistados vindo por aqui!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/arty_down"
+msgid "The enemy heavy artillery has been taken out! Great job!"
+msgstr "A artilharia pesada inimiga foi neutralizada! Ótimo trabalho!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/b4m"
+msgid "If you can afford it, take a trip to the enemy heavy artillery and see if you can take them out!"
+msgstr "Se puder, faça uma incursão até a artilharia pesada inimiga e veja se consegue neutralizá-la!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/fail1"
+msgid "No! All your soldiers are dead! Unacceptable!"
+msgstr "Não! Todos os seus soldados estão mortos! Inaceitável!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/fail2"
+msgid "The enemy has penetrated our lines! Surround them and destroy them!"
+msgstr "O inimigo penetrou em nossas linhas! Cerque-os e destrua-os!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/scouts"
+msgid "Enemy scout vehicles are approaching!"
+msgstr "Veículos batedores inimigos se aproximando!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/officer/smk"
+msgid "The enemy has brought a huge armored monster. You must immobilise and eliminate it as swiftly as possible!"
+msgstr "O inimigo trouxe um enorme monstro blindado. Você deve imobilizá-lo e eliminá-lo o mais rapidamente possível!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/soldier/br5"
+msgid "Sir! Our forward scouts have detected enemy heavy guns on our western flank. "
+msgstr "Senhor! Nossos batedores avançados detectaram canhões pesados inimigos em nosso flanco oeste."
+
+msgctxt "mission/single/03-fin/1939_12_summa/narrator/soldier/smk"
+msgid "What the hell is that tank? It's a bloody battleship!"
+msgstr "O que diabos é aquele tanque? É um maldito navio de guerra!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/outro_completed"
+msgid "Excellent work! You have given the Soviets more than just a black eye, and morale got a real boost out of this battle. If you continue like this, your military career will get a boost too!\nWe have given the population of Viipuri hope, and we’ve taken a lot of equipment from the enemy. That extra equipment will greatly help our situation. This is not over yet!"
+msgstr "Excelente trabalho! Você deu aos soviéticos mais do que um simples golpe, e o moral recebeu um grande impulso nesta batalha. Se continuar assim, sua carreira militar também receberá um impulso.\nDemos esperança à população de Viipuri e tomamos muito equipamento do inimigo. Esse equipamento extra ajudará muito nossa situação. Isso ainda não acabou!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/outro_failed"
+msgid "All that is now left to defend Finland is an unfinished second fortified line, which is much less of a defence than the Mannerheim line was. The Soviets race toward Helsinki and it looks like we’ve been dealt a knock- out punch. All we can do is surrender. This is not how it’s supposed to end!"
+msgstr "Tudo o que sobra para defender a Finlândia é uma segunda linha de defesa inacabada, muito menos eficaz do que a Linha Mannerheim. Os soviéticos correm em direção a Helsinki e parece que levamos um nocaute. Tudo o que podemos fazer é nos render. Não é assim que isso deveria terminar!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/place"
+msgid "2nd battalion of the 9th JR"
+msgstr "2º Batalhão do 9º JR"
+
+msgctxt "mission/single/03-fin/1939_12_summa/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/03-fin/1939_12_summa/story"
+msgid " The USSR has invaded Finland. After initial skirmishes, the main force of the red army arrives at the Finnish main line of defence in december of 1939. This line, known as the Mannerheim line, will have to stop the red army where the main axis of the Soviet attack leads past Summa and toward Viipuri. Bitter fighting ensues. But this is not the Maginot line, and the defenders know this fight will be anything but a walk-over.\n\n In this mission, you will have to prove your leadership by making sure you don’t get flanked while you hold on to Finland’s only defensive line that has a chance of stopping the red army."
+msgstr " A URSS invadiu a Finlândia. Após os primeiros confrontos, a força principal do Exército Vermelho chega à principal linha de defesa finlandesa em dezembro de 1939. Esta linha, conhecida como Linha Mannerheim, terá de deter o Exército Vermelho onde o eixo principal do ataque soviético passa por Summa em direção a Viipuri. Travou-se um combate amargo. Mas esta não é a Linha Maginot, e os defensores sabem que esta luta não será nada fácil.\n\n Nesta missão, você terá de provar sua liderança garantindo que não seja flanqueado enquanto segura a única linha defensiva da Finlândia com chance de deter o Exército Vermelho."
+
+msgctxt "mission/single/03-fin/1939_12_summa/task1"
+msgid "Hold the Mannerheim line!"
+msgstr "Segure a linha Mannerheim!"
+
+msgctxt "mission/single/03-fin/1939_12_summa/task2"
+msgid "Destroy the enemy experimental heavy tank"
+msgstr "Destrua o tanque pesado experimental inimigo"
+
+msgctxt "mission/single/03-fin/1939_12_summa/taskopt1"
+msgid "Raid the enemy super-heavy mortars"
+msgstr "Ataque os morteiros super-pesados inimigos"
+
+msgctxt "mission/single/03-fin/1939_12_summa/timer"
+msgid "Time until enemy attack!"
+msgstr "Tempo até o ataque inimigo!"

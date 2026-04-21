@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_08_mortain)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/capture"
+msgid "Destroy the German force occupying the village!"
+msgstr "Destrua a força alemã que ocupa a aldeia!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/cut_escape"
+msgid "Destroy 10 german vehicles!"
+msgstr "Destrua 10 veículos alemães!"
+
+#, boost-format
+
+msgctxt "mission/single/04-usa/1944_08_mortain/cut_escape_progress"
+msgid "%1% out of 10 german vehicles destroyed."
+msgstr "%1% de 10 veículos alemães destruídos."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/date"
+msgid "August 7th, 1944 · Mortain, Normandy, France"
+msgstr "7 de agosto de 1944 · Mortain, Normandia, França"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/flank"
+msgid "Flank the panther through the hedgerows and take it out!"
+msgstr "Flanqueie o Panther pelos bocages e o elimine!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/name"
+msgid "Mortain Counterattack"
+msgstr "Contra-ataque em Mortain"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/name_big"
+msgid "Mortain Counterattack"
+msgstr "Contra-ataque em Mortain"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/01"
+msgid "Alright, stop it gentlemen! The 119th Infantry Regiment should be straight in front of us. "
+msgstr "Certo, parem! O 119º Regimento de Infantaria deveria estar bem à nossa frente."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/02"
+msgid "I couldn't reach anyone from the 119th, but I can see their position ahead as marked on the map. Move the tanks slowly around the bend, it could be a trap."
+msgstr "Não consegui contato com ninguém do 119º, mas posso ver sua posição à frente conforme marcado no mapa. Mova os tanques devagar pela curva — pode ser uma armadilha."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/03"
+msgid "God damn it! We're being fired upon! That is not the 119th. Germans, here?!"
+msgstr "Maldição! Estamos sendo alvejados! Esse não é o 119º. Alemães, aqui?!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/04"
+msgid "Infantry! Flank that roadblock and silence the AT gun. Our tanks cannot go through the hedgerows, and the road is a choke point!"
+msgstr "Infantaria! Flanqueie aquele bloqueio e silencie o canhão AT. Nossos tanques não podem passar pelos bocages, e a estrada é um ponto de passagem obrigatória!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/05"
+msgid "Good job! Now our column can move forward again."
+msgstr "Bom trabalho! Agora nossa coluna pode avançar novamente."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/06"
+msgid "Panther! Panther blocking the road! Combat spread!"
+msgstr "Panther! Panther bloqueando a estrada! Formação de combate!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/07"
+msgid "Alright, I need that Panther to be taken out! Take the infantry carriers and flank the enemy through the west. We cannot risk losing more tanks, and we're no match for a Panther's frontal armour."
+msgstr "Certo — preciso que aquele Panther seja eliminado! Pegue os transportes de infantaria e flanqueie o inimigo pelo oeste. Não podemos arriscar perder mais tanques, e não somos páreo para a blindagem frontal de um Panther."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/08"
+msgid "Good work taking the Panther now. You've definitely shown your tactical prowess, and for this reason I place the remaining Shermans under your command. Your orders are to take the village of Le-Mesnil-Adelée with our remaining armour."
+msgstr "Bom trabalho ao capturar o Panther. Você definitivamente demonstrou sua habilidade tática, e por isso coloco os Shermans restantes sob seu comando. Suas ordens são tomar a aldeia de Le-Mesnil-Adelée com a blindagem restante."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/09"
+msgid "Watch out for these Panzergrenadiers. They've got plenty of AT weapons and move around quite fast with those pesky Hanomags."
+msgstr "Cuidado com esses Panzergranadeiros. Têm bastante armamento AT e se movem muito rápido com aqueles irritantes Hanomags."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/10"
+msgid "They're retreating! "
+msgstr "Estão recuando!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/11"
+msgid "Never mind, they're not retreating, they're regrouping! This must be their main assault! More panthers!"
+msgstr "Não importa — não estão recuando, estão se reagrupando! Este deve ser o assalto principal deles! Mais Panthers!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator/12"
+msgid "Reinforcements are at your disposal. Maintain control of that village, Lieutenant. "
+msgstr "Os reforços estão à sua disposição. Mantenha o controle daquela aldeia, Tenente."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator2/01"
+msgid "Aye, Sir. "
+msgstr "Sim, senhor."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/narrator2/02"
+msgid "Alright, boys, we have places to go, keep moving! .... "
+msgstr "Certo, rapazes — temos lugares a ir, continuem avançando!..."
+
+msgctxt "mission/single/04-usa/1944_08_mortain/outro_completed"
+msgid "Well done! You just repelled a huge German counterattack. The threat of a breakthrough is off the table now, and your tactical skill has not gone unnoticed. Who knows, maybe General Watson will even reward you for this. Keep it up!"
+msgstr "Muito bem! Você acabou de repelir um enorme contra-ataque alemão. A ameaça de ruptura está descartada agora, e sua habilidade tática não passou despercebida. Quem sabe — talvez o General Watson até o recompense por isso. Continue assim!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/outro_failed"
+msgid "Ouch! That was not the outcome we planned for. The Germans will be able to break through to Brittany now. How are we going to explain this to General Watson?"
+msgstr "Au! Esse não era o resultado que planejávamos. Os alemães poderão agora romper em direção à Bretanha. Como vamos explicar isso ao General Watson?"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/place"
+msgid "3rd Armored Division “Spearhead”"
+msgstr "3ª Divisão Blindada 'Spearhead'"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/recapture"
+msgid "Recapture the roadblock!"
+msgstr "Retome o bloqueio!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/story"
+msgid " August 7th, 1944. You have been in France for two months now, and there’s no end in sight. Operation Cobra was a success, and the breakout from Normandy is a fact. Officially, Operation Cobra ended yesterday. Today, the enemy is counterattacking from the area of Mortain!\n\n We have orders to support the infantry that is taking the brunt of the counteroffensive. Move your armored column forward on the road to le Mesnil- Adelee, to establish contact with the 199th infantry Regiment at their roadblock, south of the town. When you get there, assess the situation and act accordingly. Your goal is to take the village. You must maintain a high level of situational awareness at all times, and keep communications to HQ open for further orders.\n\nGood luck!"
+msgstr " 7 de agosto de 1944. Você está na França há dois meses e não há fim à vista. A Operação Cobra foi um sucesso, e a saída da Normandia é um fato. Oficialmente, a Operação Cobra terminou ontem. Hoje, o inimigo está contra-atacando a partir da área de Mortain!\n\n Temos ordens de apoiar a infantaria que está suportando o peso da contra-ofensiva. Mova sua coluna blindada pela estrada até Le Mesnil-Adelee, para estabelecer contato com o 199º Regimento de Infantaria em seu bloqueio de estrada, ao sul da cidade. Quando chegar lá, avalie a situação e aja de acordo. Seu objetivo é tomar a vila. Você deve manter um alto nível de consciência situacional o tempo todo, e manter as comunicações com o QG abertas para ordens adicionais.\n\nBoa sorte!"
+
+msgctxt "mission/single/04-usa/1944_08_mortain/task4"
+msgid "Fend off the main enemy force."
+msgstr "Repila a força inimiga principal."

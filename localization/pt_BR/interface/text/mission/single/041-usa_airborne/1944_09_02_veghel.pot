@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_02_veghel)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/date"
+msgid "September 24th, 1944 · Veghel, Netherlands."
+msgstr "24 de setembro de 1944 · Veghel, Países Baixos."
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name"
+msgid "Contesting Hell's Highway"
+msgstr "Disputando a Autoestrada do Inferno"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name_big"
+msgid "Contesting Hell's Highway"
+msgstr "Disputando a Autoestrada do Inferno"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator01"
+msgid "Incoming! Take cover!"
+msgstr "Fogo inimigo! Cubra-se!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator_soldier01"
+msgid "Panzers! I see German armor coming from the north!"
+msgstr "Panzers! Vejo blindados alemães vindo do norte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator03"
+msgid "Get to defensive positions! We have to protect our supply trucks!"
+msgstr "Assumam posições defensivas! Precisamos proteger nossos caminhões de suprimentos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator14"
+msgid "Look alive! More Krauts are coming from along the highway!"
+msgstr "Atenção! Mais alemães chegando ao longo da autoestrada!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator13"
+msgid "A Panther! Gun crew, aim for a weak spot, or it will kill us!"
+msgstr "Um Panther! Artilheiros, mire num ponto fraco, ou ele nos matará!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator15"
+msgid "Our 57 mil is down! Someone deal with that Panther!"
+msgstr "Nosso canhão de 57mm está fora! Alguém cuide daquele Panther!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator04"
+msgid "They are retreating!"
+msgstr "Eles estão recuando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator05"
+msgid "Looks like they've had enough! We need to ensure the highway ahead is clear of any Germans."
+msgstr "Parece que já chegaram ao limite! Precisamos garantir que a autoestrada à frente esteja livre de alemães."
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator12"
+msgid "Continue to protect our trucks. They must deliver supplies to our troops!"
+msgstr "Continue protegendo nossos caminhões. Eles precisam entregar suprimentos às nossas tropas!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator06"
+msgid "German tank destroyers are operating nearby. Locate and destroy them."
+msgstr "Caça-tanques alemães estão operando nas proximidades. Localize e destrua-os."
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator09"
+msgid "Support has arrived!"
+msgstr "O apoio chegou!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator16"
+msgid "We have been granted limited artillery support from a nearby battery. One high-explosive and two smoke barrages are available."
+msgstr "Recebemos apoio de artilharia limitado de uma bateria próxima. Uma barragem de explosivo de alto poder e duas de fumaça estão disponíveis."
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator10"
+msgid "We need to clear any remaining enemies from the village and nearby woods."
+msgstr "Precisamos limpar os inimigos restantes da aldeia e das matas próximas."
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator07"
+msgid "Good job! The enemy tank destroyers won't threaten our convoys anymore!"
+msgstr "Bom trabalho! Os caça-tanques inimigos não ameaçarão mais nossos comboios!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator08"
+msgid "The highway is clear of enemy troops! Let's get those trucks moving!"
+msgstr "A autoestrada está livre de tropas inimigas! Vamos colocar esses caminhões em movimento!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/outro_completed"
+msgid "Excellent work! You have thwarted the enemy’s attempts to take Highway 69. The road to Arnhem is still open to XXX Corps. Congratulations, soldier!"
+msgstr "Excelente trabalho! Você frustrou as tentativas do inimigo de tomar a Rodovia 69. A estrada para Arnhem ainda está aberta para o XXX Corpo. Parabéns, soldado!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/outro_failed"
+msgid "Losing this part of the highway to the Germans will delay the operation. It’s absolutely necessary to take back the road. You must try again!"
+msgstr "Perder esta parte da rodovia para os alemães atrasará a operação. É absolutamente necessário retomar a estrada. Você deve tentar novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/reinf_arty"
+msgid "Artillery barrage"
+msgstr "Barragem de artilharia"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/reinf_smoke"
+msgid "Smoke barrage"
+msgstr "Barragem de fumaça"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/story"
+msgid "  Having secured Veghel five days ago, the 101st is thrown into battle once more. The allied ground forces approach from the south along Highway 69, which is the only road available for their advance.\n\n  If the British XXX Corps is to succeed, you need to fend off any enemy attacks and prevent the narrow stretch of highway from falling into German hands.\n\n  With the success of Operation Market Garden hanging in the balance, the importance of your task cannot be overstated.\n\n Good luck!"
+msgstr "  Tendo assegurado Veghel cinco dias atrás, o 101º é lançado na batalha mais uma vez. As forças terrestres aliadas se aproximam pelo sul ao longo da Rodovia 69, a única estrada disponível para seu avanço.\n\n  Para que o XXX Corpo Britânico tenha êxito, você precisa repelir quaisquer ataques inimigos e impedir que o trecho estreito de rodovia caia em mãos alemãs.\n\n  Com o sucesso da Operação Market Garden na balança, a importância de sua missão não pode ser subestimada.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task01"
+msgid "Protect the supply trucks (at least 3 must survive)"
+msgstr "Proteja os caminhões de suprimentos (pelo menos 3 devem sobreviver)"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task02"
+msgid "Clear the enemies from the highway!"
+msgstr "Limpe os inimigos da autoestrada!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task03"
+msgid "Find and neutralize German tank destroyers!"
+msgstr "Encontre e neutralize os caça-tanques alemães!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task04"
+msgid "Clear the remaining enemies!"
+msgstr "Elimine os inimigos restantes!"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task05"
+msgid "Escort the supply trucks safely to the end of the highway (at least 3 trucks must get there)."
+msgstr "Escorte os caminhões de suprimentos com segurança até o fim da autoestrada (pelo menos 3 caminhões devem chegar)."

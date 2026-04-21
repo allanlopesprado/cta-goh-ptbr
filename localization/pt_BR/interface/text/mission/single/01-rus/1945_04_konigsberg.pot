@@ -1,0 +1,141 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_04_konigsberg)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/doctrine_support"
+msgid "Doctrine: Support"
+msgstr "Doutrina: Apoio"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/mission_option_select1"
+msgid "Select Doctrine for the mission:"
+msgstr "Selecione a Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/date"
+msgid "April 6th, 1945 · Königsberg, Eastern Prussia"
+msgstr "6 de abril de 1945 · Königsberg, Prússia Oriental"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/lose"
+msgid "You lost all your troops!"
+msgstr "Você perdeu todas as suas tropas!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/lose2"
+msgid "You were not able to relieve your comrades in time. The neighboring unit of the 31st Guard Rifle Division has been decimated."
+msgstr "Você não conseguiu socorrer seus camaradas a tempo. A unidade vizinha da 31ª Divisão de Fuzileiros da Guarda foi dizimada."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/name"
+msgid "The Koenigsberg Cauldron <c(a655af)>[DLC]</c>"
+msgstr "O Caldeirão de Königsberg <c(a655af)>[DLC]</c>"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/name_big"
+msgid "The Koenigsberg Cauldron"
+msgstr "O Caldeirão de Königsberg"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/01"
+msgid "Welcome to the lair of the beast, Comrades. This is Königsberg, the heart of Prussia."
+msgstr "Bem-vindos ao covil da besta, camaradas. Esta é Königsberg, o coração da Prússia."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/02"
+msgid "Show no mercy! We need to break through to the railway to assist the 31st Guard Rifle Division."
+msgstr "Não mostrem misericórdia! Precisamos abrir caminho até a ferrovia para auxiliar a 31ª Divisão de Fuzileiros da Guarda."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/03"
+msgid "Chase the fascists from their positions and pave the way to the railway station, commander! Good luck."
+msgstr "Expulse os fascistas de suas posições e abra caminho até a estação ferroviária, comandante! Boa sorte."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/04"
+msgid "Excellent job. Fascist resistance is too weak to stop the red tide!"
+msgstr "Excelente trabalho. A resistência fascista é fraca demais para parar a maré vermelha!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/05"
+msgid "Good work Comrades! The Königsberg railway system will be useless soon!"
+msgstr "Bom trabalho, camaradas! O sistema ferroviário de Königsberg será inútil em breve!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/06"
+msgid "Attention! Our neighboring regiment has come under intense fire from Germans on the other side of the railway lines. Assist them immediately, they need to be relieved at once!"
+msgstr "Atenção! Nosso regimento vizinho está sob fogo intenso de alemães do outro lado das linhas ferroviárias. Auxilie-os imediatamente — precisam ser socorridos imediatamente!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/07"
+msgid "Comrades, it's our pleasure to releive you and fight together to crush the fascist resistance. Onward, to victory!"
+msgstr "Camaradas, é uma honra socorrê-los e lutar juntos para esmagar a resistência fascista. Avante, à vitória!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/08"
+msgid "The Germans have clearly reinforced the defences further as we penetrate deeper into the city. We still need to capture the citadel and the city downtown, and this won't be easy. "
+msgstr "Os alemães claramente reforçaram ainda mais as defesas à medida que penetramos mais fundo na cidade. Ainda precisamos capturar a cidadela e o centro da cidade — isso não será fácil."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/09"
+msgid "I bring you the solution to the German fortifications! Stalin's hammers will breach right through their citadel. Show them the way to Hell, Comrades!"
+msgstr "Trago a solução para as fortificações alemãs! Os martelos de Stalin romperão sua cidadela. Mostrem-lhes o caminho para o inferno, camaradas!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/10"
+msgid "Down with the fascist citadel! To victory!"
+msgstr "Abaixo a cidadela fascista! À vitória!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/11"
+msgid "Let's go Comrades, the enemy is close to being crushed!"
+msgstr "Vamos, camaradas — o inimigo está perto de ser esmagado!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/narrator/12"
+msgid "King Tiger, moving up the road from the northwest!!"
+msgstr "King Tiger avançando pela estrada a partir do noroeste!!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/outro_completed"
+msgid "Very good! The former East Prussian capital - or whatever is left of it - is ours. This will surely do your reputation a lot of good. You have shown there is no stopping the red army anymore. Morale couldn’t be higher, great job. On to Berlin! "
+msgstr "Muito bem! A antiga capital da Prússia Oriental — ou o que sobrou dela — é nossa. Isso certamente fortalecerá sua reputação. Você demonstrou que não há mais como deter o Exército Vermelho. O moral não poderia estar mais alto. Ótimo trabalho. Em direção a Berlim!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/outro_failed"
+msgid "What happened? This is far from the expected result. How is the enemy still able to beat you despite his lack of supplies? You must try again immediately. We can’t afford to be the only unsuccessful siege on the entire front."
+msgstr "O que aconteceu? Este resultado está muito aquém do esperado. Como o inimigo ainda consegue vencê-lo apesar da falta de suprimentos? Você deve tentar novamente imediatamente. Não podemos ser o único cerco malsucedido em toda a frente."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/place"
+msgid "31st Guard Rifle Division"
+msgstr "31ª Divisão de Fuzileiros da Guarda"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/story"
+msgid "By the end of January 1945, Königsberg is isolated. The Germans are not evacuating, instead they prepare to defend the city to the last. In early April, the Soviets start an artillery bombardment that lasts for 4 days. On april 6th the barrage finally ends and the attack begins. The Red army storms the city from all sides. Massive attacks break line after line until they reach the inner city.\n\nIn this mission, you will be leading your troops into Königsberg. The Germans have turned the city into a fortress. There are strongholds everywhere; you must take these out first and then take the railway station. Then, you can advance into the city center. You will have to take out the old fortress “Haberberg”, which dominates the old city gate. You will receive heavy artillery to deal with the fortress as soon as it can be spared. Get your troops ready to storm Koenigsberg.\n\nGood luck!"
+msgstr "No final de janeiro de 1945, Königsberg está isolada. Os alemães não estão evacuando; pelo contrário, preparam-se para defender a cidade até o fim. No início de abril, os soviéticos iniciam um bombardeio de artilharia que dura 4 dias. Em 6 de abril, o barrage finalmente cessa e o ataque começa. O Exército Vermelho assalta a cidade por todos os lados. Ataques maciços rompem linha após linha até atingirem o centro da cidade.\n\nNesta missão, você liderará suas tropas para dentro de Königsberg. Os alemães transformaram a cidade numa fortaleza. Há pontos fortes em toda parte; você deve eliminá-los primeiro e depois tomar a estação ferroviária. Em seguida, poderá avançar para o centro da cidade. Você precisará destruir a velha fortaleza de Haberberg, que domina o portão da cidade antiga. Receberá artilharia pesada para lidar com a fortaleza assim que puder ser disponibilizada. Prepare suas tropas para assaltar Königsberg.\n\nBoa sorte!"
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/task1"
+msgid "Drive the Germans away from the railway depot."
+msgstr "Expulse os alemães do depósito ferroviário."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/task2"
+msgid "Eliminate the Germans in the factory area."
+msgstr "Elimine os alemães na área da fábrica."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/task3"
+msgid "Assist the 31st Guard Rifle Division in getting a foothold by the railway."
+msgstr "Auxilie a 31ª Divisão de Fuzileiros da Guarda a se firmar perto da ferrovia."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/task4"
+msgid "Storm the citadel."
+msgstr "Assalte a cidadela."
+
+msgctxt "mission/single/01-rus/1945_04_konigsberg/task5"
+msgid "Advance toward the city centre."
+msgstr "Avance em direção ao centro da cidade."

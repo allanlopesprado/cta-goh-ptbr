@@ -1,0 +1,25 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell French weaponry\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/weapon/chauchat"
+msgid "Chauchat M/15"
+msgstr "Chauchat M/15"
+
+msgctxt "desc/weapon/berthier_m1916"
+msgid "Berthier Mle.1907/15 M16"
+msgstr "Berthier Mle.1907/15 M16"
+
+msgctxt "desc/weapon/fm_24_29"
+msgid "FM 24/29"
+msgstr "FM 24/29"

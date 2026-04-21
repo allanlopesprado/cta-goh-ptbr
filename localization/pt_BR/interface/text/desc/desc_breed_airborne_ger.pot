@@ -1,0 +1,290 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German Airborne soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/mp/ger/late/lw_flak_crew"
+msgid "Flak crew [Luftwaffe]"
+msgstr "Tripulação Flak [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/late/lw_flak_nco"
+msgid "Flak crew Squadleader [Luftwaffe]"
+msgstr "Líder de Equipe Flak [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/late/lw_flak_rifle"
+msgid "Flak crew [Luftwaffe]"
+msgstr "Tripulação Flak [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/late/waffen_arty"
+msgid "Artilleryman [Waffen --]"
+msgstr "Artilheiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_mg"
+msgid "Grenadier MG Operator [Waffen --]"
+msgstr "Granadeiro Operador de MG [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_mg_asst"
+msgid "Grenadier MG Asst. [Waffen --]"
+msgstr "Aux. MG Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle_gren"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle_pzf"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sa"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl"
+msgid "Grenadier Gruppenführer [Waffen --]"
+msgstr "Granadeiro Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst"
+msgid "Grenadier Asst. [Waffen --]"
+msgstr "Aux. Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst_sa_scope"
+msgid "Grenadier Asst. (Sniper) [Waffen --]"
+msgstr "Aux. Granadeiro (Franco-atirador) [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst_smg"
+msgid "Grenadier Asst. [Waffen --]"
+msgstr "Aux. Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_smg"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_stg"
+msgid "Grenadier [Waffen --]"
+msgstr "Granadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_medic"
+msgid "Medic [Waffen --]"
+msgstr "Médico [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_mg_crew"
+msgid "MG Crew [Waffen --]"
+msgstr "Tripulação MG [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_mg_crew_asst"
+msgid "MG crew Asst. [Waffen --]"
+msgstr "Aux. Tripulação MG [Waffen-SS]"""
+
+msgctxt "desc/human/mp/ger/late/waffen_nco_plt"
+msgid "Oberscharführer [Waffen --]"
+msgstr "Oberscharführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_bat"
+msgid "Sturmbannführer [Waffen --]"
+msgstr "Sturmbannführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_coy"
+msgid "Hauptsturmführer [Waffen --]"
+msgstr "Hauptsturmführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_plt"
+msgid "Untersturmführer [Waffen --]"
+msgstr "Untersturmführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_flame"
+msgid "Panzerpionier Flamer [Waffen --]"
+msgstr "Panzerpionier Lança-chamas [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mg"
+msgid "Panzerpionier MG Operator [Waffen --]"
+msgstr "Panzerpionier Operador de MG [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mg_asst"
+msgid "Panzerpionier MG Asst. [Waffen --]"
+msgstr "Aux. MG Panzerpionier [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mine"
+msgid "Panzerpionier Miner [Waffen --]"
+msgstr "Panzerpionier Minador [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_rifle"
+msgid "Panzerpionier [Waffen --]"
+msgstr "Panzerpionier [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_rifle_pzf"
+msgid "Panzerpionier [Waffen --]"
+msgstr "Panzerpionier [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sa"
+msgid "Panzerpionier [Waffen --]"
+msgstr "Panzerpionier [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sl"
+msgid "Panzerpionier Gruppenführer [Waffen --]"
+msgstr "Panzerpionier Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sl_asst"
+msgid "Panzerpionier Asst. [Waffen --]"
+msgstr "Aux. Panzerpionier [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_mg"
+msgid "Panzer Aufklärer MG Operator [Waffen --]"
+msgstr "Panzer Aufklärer MG Operador [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_mg_asst"
+msgid "Panzer Aufklärer MG Asst. [Waffen --]"
+msgstr "Panzer Aufklärer MG Aux. [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_rifle"
+msgid "Panzer Aufklärer [Waffen --]"
+msgstr "Panzer Aufklärer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sa"
+msgid "Panzer Aufklärer [Waffen --]"
+msgstr "Panzer Aufklärer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl"
+msgid "Panzer Aufklärer Gruppenführer [Waffen --]"
+msgstr "Panzer Aufklärer Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_rifle"
+msgid "Panzer Aufklärer Asst. [Waffen --]"
+msgstr "Panzer Aufklärer Aux. [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_sa"
+msgid "Panzer Aufklärer Asst. [Waffen --]"
+msgstr "Panzer Aufklärer Aux. [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_stg"
+msgid "Panzer Aufklärer Asst. [Waffen --]"
+msgstr "Panzer Aufklärer Aux. [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_at"
+msgid "Panzergrenadier AT Inf. [Waffen --]"
+msgstr "Inf. AT Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_mg"
+msgid "Panzergrenadier MG Operator [Waffen --]"
+msgstr "Panzergranadeiro Operador de MG [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_mg_asst"
+msgid "Panzergrenadier MG Asst. [Waffen --]"
+msgstr "Aux. MG Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_rifle"
+msgid "Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_rifle_pzf"
+msgid "Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sa"
+msgid "Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sa_pzf"
+msgid "Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl"
+msgid "Panzergrenadier Gruppenführer [Waffen --]"
+msgstr "Panzergranadeiro Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl_stg"
+msgid "Panzergrenadier Gruppenführer [Waffen --]"
+msgstr "Panzergranadeiro Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl_asst"
+msgid "Panzergrenadier Asst. [Waffen --]"
+msgstr "Aux. Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl_asst_stg"
+msgid "Panzergrenadier Asst. [Waffen --]"
+msgstr "Aux. Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_stg"
+msgid "Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_sniper"
+msgid "Sniper [Waffen --]"
+msgstr "Franco-atirador [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander"
+msgid "Tank commander [Waffen --]"
+msgstr "Comandante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander_aufklar"
+msgid "Tank commander [Waffen --]"
+msgstr "Comandante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander_stug"
+msgid "Tank commander [Waffen --]"
+msgstr "Comandante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman"
+msgid "Tankman [Waffen --]"
+msgstr "Tripulante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman_aufklar"
+msgid "Tankman [Waffen --]"
+msgstr "Tripulante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman_stug"
+msgid "Tankman [Waffen --]"
+msgstr "Tripulante de Tanque [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_mg"
+msgid "Veteran Panzergrenadier MG Operator [Waffen --]"
+msgstr "Panzergranadeiro Veterano Operador de MG [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_mg_asst"
+msgid "Veteran Panzergrenadier MG Asst. [Waffen --]"
+msgstr "Aux. MG Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_rifle"
+msgid "Veteran Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_rifle_pzf"
+msgid "Veteran Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sa"
+msgid "Veteran Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl"
+msgid "Veteran Panzergrenadier Gruppenführer [Waffen --]"
+msgstr "Veterano Panzergranadeiro Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_stg"
+msgid "Veteran Panzergrenadier Gruppenführer [Waffen --]"
+msgstr "Veterano Panzergranadeiro Gruppenführer [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_asst"
+msgid "Veteran Panzergrenadier Asst. [Waffen --]"
+msgstr "Aux. Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_asst_stg"
+msgid "Veteran Panzergrenadier Asst. [Waffen --]"
+msgstr "Aux. Panzergranadeiro Veterano [Waffen-SS]"
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_stg"
+msgid "Veteran Panzergrenadier [Waffen --]"
+msgstr "Panzergranadeiro Veterano [Waffen-SS]"

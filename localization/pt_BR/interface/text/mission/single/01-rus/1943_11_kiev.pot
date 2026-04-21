@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_11_kiev)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/date"
+msgid "November 7th, 1943 · Fastiv, Kyiv oblast"
+msgstr "7 de novembro de 1943 · Fastiv, Oblast de Kiev"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/name"
+msgid "Street to Street <c(a655af)>[DLC]</c>"
+msgstr "Rua a Rua <c(a655af)>[DLC]</c>"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/name_big"
+msgid "Street to Street"
+msgstr "Rua a Rua"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/01"
+msgid "Comrades, welcome to Fastiv! The city is crawling with Fascists behind every window, our job is to liberate the city by force!"
+msgstr "Camaradas, bem-vindos a Fastiv! A cidade está infestada de fascistas atrás de cada janela — nossa missão é libertar a cidade pela força!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/02"
+msgid "Show no mercy! Drive the invaders from our city, but be cautious at every corner. The enemy is well prepared for our arrival."
+msgstr "Não mostre misericórdia! Expulse os invasores de nossa cidade, mas seja cauteloso em cada esquina. O inimigo está bem preparado para nossa chegada."
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/03"
+msgid "The enemy has barricaded the streets. Some of those rubble piles are too damn high to climb or to blow up. You will have to go around them to get to the city centre!"
+msgstr "O inimigo barricadou as ruas. Algumas dessas pilhas de escombros são altas demais para escalar ou explodir. Você terá que contorná-las para chegar ao centro da cidade!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/04"
+msgid "Reinforcements are at your disposal. Crush the enemy, Comrade. There is no room for defeat."
+msgstr "Reforços estão à sua disposição. Esmague o inimigo, camarada. Não há espaço para a derrota."
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/05"
+msgid "Tiger tank, coming from the east!"
+msgstr "Tanque Tiger, vindo do leste!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/06"
+msgid "Watch out! There's an anti-tank gun at the end of this street!"
+msgstr "Cuidado! Há um canhão 
+e no final desta rua!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/07"
+msgid "Great work, Soldiers!"
+msgstr "Ótimo trabalho, soldados!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/08"
+msgid "Enemy heavy tank destroyer spotted on the southeast!"
+msgstr "Caça-tanque pesado inimigo avistado no sudeste!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/09"
+msgid "An enemy tank is approaching from the south!"
+msgstr "Um tanque inimigo está se aproximando pelo sul!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/outro_completed"
+msgid "Congratulations on a job well done! Your veterancy really showed in this battle. It won’t be long until we reach the Polish border, and the liberation of the entire Soviet Union is a matter of time. A favorable report, describing how your actions led to victory, will be sent to HQ. Great job!"
+msgstr "Parabéns pelo excelente trabalho! Sua veterania realmente se destacou nesta batalha. Em breve chegaremos à fronteira polonesa, e a libertação de toda a União Soviética é uma questão de tempo. Um relatório favorável, descrevendo como suas ações levaram à vitória, será enviado ao QG. Ótimo trabalho!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/outro_failed"
+msgid "That is rather unexpected to say the least! Did you really just allow these exhausted and starving Germans to mess up your attack? We need more resolve and aggression for the next attempt. You should try a different approach. Go back out there and try again."
+msgstr "Isso é bastante inesperado, para dizer o mínimo! Você realmente deixou esses alemães exaustos e famintos arruinarem seu ataque? Precisamos de mais determinação e agressividade para a próxima tentativa. Você deveria tentar uma abordagem diferente. Volte lá e tente novamente."
+
+msgctxt "mission/single/01-rus/1943_11_kiev/place"
+msgid "3rd Guards Tank Army (1st Ukranian Front)"
+msgstr "3º Exército de Tanques da Guarda (1ª Frente Ucraniana)"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_assaultsapper"
+msgid "Assault Sappers"
+msgstr "Sapadores de Assalto"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_bm37"
+msgid "82mm BM-37"
+msgstr "82mm BM-37"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_kv142"
+msgid "KV-1 M1942"
+msgstr "KV-1 M1942"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_kv8"
+msgid "KV-8 (flame)"
+msgstr "KV-8 (lança-chamas)"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_su152"
+msgid "SU-152"
+msgstr "SU-152"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_supply"
+msgid "Gaz-AAA Supply"
+msgstr "Gaz-AAA Suprimentos"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t34"
+msgid "Shielded T-34"
+msgstr "Shielded T-34"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t50"
+msgid "T-60"
+msgstr "T-60"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_tankmen"
+msgid "Tankmen"
+msgstr "Tripulação de tanque"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_zis3"
+msgid "76mm Zis-3"
+msgstr "76mm Zis-3"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/story"
+msgid "After a last push on the east of the Dnieper, the Soviets have now regained all territory east of the river. The Germans have decided to construct a defense line on the west bank. Even before the work is finished, the Soviets are already across the Dnieper at Lyutezh, north of Kiev. From there, the Soviets break out to the south in a wide sweep west of Kiev. Brushing any opposition aside, the third Guards tank army leads the way toward Fastiv, a railway node south of Kiev.\n\nIn this mission, you will need to use the lessons you learned in Stalingrad to win. Most roads to the center seem to have been blocked thoroughly, so you will need to flank the enemy if your troops are to reach the final objective, which is to eliminate the enemy’s core position in this part of the town.\n\nGood luck!"
+msgstr "Após um último impulso no leste do Dnieper, os soviéticos reconquistaram todo o território a leste do rio. Os alemães decidiram construir uma linha de defesa na margem oeste. Antes mesmo que o trabalho seja concluído, os soviéticos já cruzaram o Dnieper em Lyutezh, ao norte de Kiev. De lá, os soviéticos avançam para o sul num amplo movimento a oeste de Kiev. Varrendo qualquer oposição, o 3º Exército de Tanques da Guarda lidera o avanço em direção a Fastiv, um nó ferroviário ao sul de Kiev.\n\nNesta missão, você precisará usar as lições aprendidas em Stalingrado para vencer. A maioria das estradas para o centro parece estar completamente bloqueada, portanto você precisará flanquear o inimigo para que suas tropas alcancem o objetivo final: eliminar a posição central do inimigo nesta parte da cidade.\n\nBoa sorte!"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/task1"
+msgid "Drive the enemy out of the city"
+msgstr "Expulse o inimigo da cidade"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/task2"
+msgid "Secure the food supplies"
+msgstr "Assegure os suprimentos de alimentos"

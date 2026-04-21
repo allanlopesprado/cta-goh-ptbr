@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_12_02_elsenborn)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/date"
+msgid "December 21st, 1944 · Elsenborn Ridge, Ardennes, Belgium."
+msgstr "21 de dezembro de 1944 · Crista de Elsenborn, Ardenas, Bélgica."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/name"
+msgid "Crimson Ridge"
+msgstr "Crista Carmesim"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/name_big"
+msgid "Crimson Ridge"
+msgstr "Crista Carmesim"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator01"
+msgid "The bridge shouldn't be much farther... In fact, I can see it now."
+msgstr "A ponte não deve estar muito longe... Na verdade, posso vê-la agora."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator02"
+msgid "Wait, I see movement by the bridge!"
+msgstr "Espera, vejo movimento perto da ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator03"
+msgid "Kraut vehicles approaching! Take cover!"
+msgstr "Veículos alemães se aproximando! Cubra-se!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator04"
+msgid "Hold your fire until they right on us!"
+msgstr "Segurem o fogo até estarem bem sobre nós!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator05"
+msgid "Well, they didn't put up much of a fight, but now they know we're here..."
+msgstr "Bem, eles não resistiram muito, mas agora sabem que estamos aqui..."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator07"
+msgid "Let's move out and take back our fuel depot!"
+msgstr "Vamos partir e retomar nosso depósito de combustível!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator09"
+msgid "Look! They are keeping prisoners in that barn! We need to free our boys!"
+msgstr "Olhe! Estão mantendo prisioneiros naquele celeiro! Precisamos libertar nossos rapazes!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator08"
+msgid "We've secured the fuel depot! Check the area for any heavy weapons or equipment we can use."
+msgstr "Asseguramos o depósito de combustível! Verifique a área em busca de armas pesadas ou equipamentos que possamos usar."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier01"
+msgid "Thanks for rescuing us! Those Krauts came out of nowhere!"
+msgstr "Obrigado por nos resgatar! Aqueles alemães surgiram do nada!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator10"
+msgid "Don’t mention it. Just grab a weapon and fall in."
+msgstr "Não há de quê. Pegue uma arma e caia na formação."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator25"
+msgid "Hmm... this cannon needs ammo."
+msgstr "Hmm... este canhão precisa de munição."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator11"
+msgid "See that radio tower by the buildings to the north? That’s not supposed to be there. Let’s go have a look."
+msgstr "Viu aquela torre de rádio perto dos prédios ao norte? Ela não deveria estar lá. Vamos dar uma olhada."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator12"
+msgid "The tower is ours!... I hear Kraut chatter coming from the radio. Does anyone speak German?"
+msgstr "A torre é nossa!... Ouço vozes alemãs vindo do rádio. Alguém fala alemão?"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier05"
+msgid "I speak some German, Sir! I’ll see if I can catch what they’re saying."
+msgstr "Falo um pouco de alemão, Senhor! Vejo se consigo entender o que estão dizendo."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier06"
+msgid "Well, Sir, if I understand them correctly, a German armored column is almost here, at the river crossing!"
+msgstr "Bem, Senhor, se os entendo corretamente, uma coluna blindada alemã está quase aqui, na travessia do rio!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator14"
+msgid "Men! There is no time to waste! We need to set up a defense at the bridge immediately."
+msgstr "Homens! Não há tempo a perder! Precisamos estabelecer uma defesa na ponte imediatamente."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator16"
+msgid "Place explosives under the bridge in case we cannot hold our position. We'll need to destroy the bridge as a last resort."
+msgstr "Coloque explosivos sob a ponte caso não possamos manter nossa posição. Precisaremos destruir a ponte como último recurso."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier02"
+msgid "I'll take care of the explosives, Sir! Just give me some time!"
+msgstr "Cuido dos explosivos, Senhor! Só me dê um tempo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator19"
+msgid "German scout vehicles incoming!"
+msgstr "Veículos de reconhecimento alemães chegando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier03"
+msgid "Explosive planted! One more to go!"
+msgstr "Explosivo instalado! Mais um por fazer!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator_soldier04"
+msgid "All explosives planted, Sir!"
+msgstr "Todos os explosivos instalados, Senhor!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator17"
+msgid "Shit! They killed him! Now, we cannot destroy the bridge as a last resort!"
+msgstr "Merda! Eles o mataram! Agora não podemos destruir a ponte como último recurso!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator18"
+msgid "Excellent! Destroying the bridge is our last resort. If at all possible, we need to keep the crossing open."
+msgstr "Excelente! Destruir a ponte é nosso último recurso. Se possível, precisamos manter a travessia aberta."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator20"
+msgid "Hold the bridge at all costs, men! We cannot let any German armor cross!"
+msgstr "Segurem a ponte a qualquer custo, homens! Não podemos deixar nenhum blindado alemão cruzar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator24"
+msgid "A few tank destroyers have come to help us hold the crossing!"
+msgstr "Alguns caça-tanques vieram nos ajudar a manter a travessia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator22"
+msgid "More German armor approaching! If we cannot stop them, now's a good time to blow the bridge!"
+msgstr "Mais blindados alemães se aproximando! Se não pudermos pará-los, agora é uma boa hora para explodir a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/narrator23"
+msgid "Looks like they're giving up!"
+msgstr "Parece que estão desistindo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/outro_completed"
+msgid "Congratulations! The Germans did not get through! They’ve been denied the precious fuel they needed, and now all they can do is look for another bridge to go west."
+msgstr "Parabéns! Os alemães não passaram! Foram privados do precioso combustível de que precisavam, e agora tudo o que podem fazer é procurar outra ponte para seguir para o oeste."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/outro_failed"
+msgid "Kampfgruppe Peiper now has open roads up to the Meuse River. With all of the fuel they’ve captured, they just might get all the way to Antwerp. You must try again!"
+msgstr "O Kampfgruppe Peiper agora tem estradas abertas até o Rio Mosa. Com todo o combustível que capturaram, podem chegar até Antuérpia. Você deve tentar novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr "82ª Divisão Aerotransportada \"All American\""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/reinf_blow_up_bridge"
+msgid "Blow up the bridge!"
+msgstr "Exploda a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/story"
+msgid "  The Germans have launched a massive surprise attack in the Ardennes. On their right flank, the route to Brussels leads past Elsenborn Ridge, which dominates the area. The 277th Volksgrenadier Division is sent to take the ridge and the villages around it. Meanwhile, Kampfgruppe Peiper continues west in the Amblève valley.\n\n  The 82nd Airborne Division is one of a few US units available to block the German advance. The situation is desperate. If the Germans cross here, they will acquire all the fuel they need from the local fuel depot.\n\n  That’s why you have been brought here. Secure the bridge and ensure that the Germans cannot use it.\n\n Good luck!"
+msgstr "  Os alemães lançaram um enorme ataque surpresa nas Ardenas. Em seu flanco direito, a rota para Bruxelas passa pela Crista de Elsenborn, que domina a área. A 277ª Divisão Volksgrenadier é enviada para tomar a crista e as aldeias ao seu redor. Enquanto isso, o Kampfgruppe Peiper continua para o oeste no vale do Amblève.\n\n  A 82ª Divisão Aerotransportada é uma das poucas unidades americanas disponíveis para bloquear o avanço alemão. A situação é desesperadora. Se os alemães cruzarem aqui, terão todo o combustível de que precisam do depósito local.\n\n  É por isso que você foi trazido aqui. Assegure a ponte e garanta que os alemães não possam usá-la.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task01"
+msgid "Destroy the enemy convoy!"
+msgstr "Destrua o comboio inimigo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task02"
+msgid "Secure the fuel depot."
+msgstr "Assegure o depósito de combustível."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task03"
+msgid "Rescue the prisoners!"
+msgstr "Resgate os prisioneiros!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task04"
+msgid "Investigate the radio tower."
+msgstr "Investigue a torre de rádio."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task05"
+msgid "Listen to the Radio."
+msgstr "Ouça o rádio."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task06"
+msgid "Secure the bridge!"
+msgstr "Assegure a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task07"
+msgid "Protect the soldier planting explosives under the bridge!"
+msgstr "Proteja o soldado instalando explosivos sob a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task08"
+msgid "Hold the bridge!"
+msgstr "Segure a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task_secret01"
+msgid "(Secret objective) Secure all the fuel trucks intact!"
+msgstr "(Objetivo Secreto) Assegure todos os caminhões de combustível intactos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task_secret01_uncomp"
+msgid "(Secret objective #1)"
+msgstr "(Objetivo Secreto nº 1)"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task_secret02"
+msgid "(Secret objective) Repel the enemy attack without blowing up the bridge!"
+msgstr "(Objetivo Secreto) Repila o ataque inimigo sem explodir a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/task_secret02_uncomp"
+msgid "(Secret objective #2)"
+msgstr "(Objetivo Secreto nº 2)"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/timer_explosives"
+msgid "Protect the soldier planting the explosives under the bridge:"
+msgstr "Proteja o soldado instalando os explosivos sob a ponte:"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_02_elsenborn/timer_go_to_bridge"
+msgid "Secure the bridge!"
+msgstr "Assegure a ponte!"

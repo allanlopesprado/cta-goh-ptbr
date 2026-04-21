@@ -1,0 +1,713 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "desc/stuff/bandage_fin"
+msgid "Finnish Bandages"
+msgstr "Curativos Finlandeses"
+
+msgctxt "desc/stuff/fin_fieldcap"
+msgid "Verikauha M/36"
+msgstr "Verikauha M/36"
+
+msgctxt "desc/stuff/fin_fieldcap_tilted"
+msgid "Verikauha M/36"
+msgstr "Verikauha M/36"
+
+msgctxt "desc/stuff/fin_furcap"
+msgid "Mannerheimari"
+msgstr "Mannerheimari"
+
+msgctxt "desc/stuff/fin_stalhelm"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_buckled"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_medic"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_skull_buckled"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_skull_tilted"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_tilted"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1_buckled"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1_skull"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1_skull_buckled"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1_skull_tilted"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_stalhelm_ww1_tilted"
+msgid "Stahlhelm M16 helmet"
+msgstr "Stahlhelm M16 capacete"
+
+msgctxt "desc/stuff/fin_tank_helmet"
+msgid "Tankman's crash helmet"
+msgstr "Capacete de Tanquista"
+
+msgctxt "desc/stuff/fin_ushanka"
+msgid "M/22 Officer's Cap"
+msgstr "M/22 Boné de Oficial"
+
+msgctxt "desc/stuff/knife_fin"
+msgid "Puukko knife"
+msgstr "Faca Puukko"
+
+msgctxt "desc/stuff/m32"
+msgid "M/32 Grenade"
+msgstr "M/32 Granada"
+
+msgctxt "desc/stuff/m32_satchel"
+msgid "M/32 Anti-tank Satchel"
+msgstr "M/32 Carga Antitanque"
+
+msgctxt "desc/stuff/m32_stick"
+msgid "M/32 (Stick) Grenade"
+msgstr "M/32 (Stick) Granada"
+
+msgctxt "desc/stuff/m36"
+msgid "M/36 Impact Grenade"
+msgstr "M/36 Impact Granada"
+
+msgctxt "desc/stuff/m39 mine"
+msgid "Anti-Tank M/39 mine"
+msgstr "Mina Antitanque M/39"
+
+msgctxt "desc/stuff/luhas mine"
+msgid "Antipersonnel Luhas mine"
+msgstr "Antipersonnel Luhas mina"
+
+msgctxt "desc/stuff/m42_wp"
+msgid "M/42F (White Phosphorus)"
+msgstr "M/42F (Fósforo Branco)"
+
+msgctxt "desc/stuff/m43_smoke"
+msgid "M/43 SN (Smoke)"
+msgstr "M/43 SN (Fumaça)"
+
+msgctxt "desc/stuff/molotov_bundle_fin"
+msgid "Molotov Cocktail Bundle"
+msgstr "Feixe de Coquetéis Molotov"
+
+msgctxt "desc/stuff/molotov_cocktail_fin"
+msgid "Molotov Cocktail"
+msgstr "Coquetel Molotov"
+
+msgctxt "desc/stuff/shovel_engineer_fin"
+msgid "Heavy Engineering Shovel"
+msgstr "Pá Pesada de Engenharia"
+
+msgctxt "desc/stuff/shovel_fin"
+msgid "Entrenching tool"
+msgstr "Ferramenta de Escavação"
+
+msgctxt "desc/stuff/svkkr_pm"
+msgid "Svkkr PM (Smoke)"
+msgstr "Svkkr PM (Fumaça)"
+
+msgctxt "desc/stuff/fin_helm_cze"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_arm"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_camo1"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_camo2"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_camo3"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_camo4"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_arm"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_camo1"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_camo2"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_camo3"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_camo4"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_foliage_var2"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_cze_var2"
+msgid "Czech M/32 Steel Helmet"
+msgstr "Czech M/32 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_arm"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_camo1"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_camo2"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_camo3"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_camo4"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_arm"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_camo1"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_camo2"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_camo3"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_camo4"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_fieldcap_skull"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_arm"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_camo1"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_camo2"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_camo3"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_camo4"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_furcap_skull"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m17_skull"
+msgid "M/17 Steel Helmet"
+msgstr "M/17 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_arm1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_arm"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_camo1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_camo2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_camo3"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_green"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var1_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_arm"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_camo1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_camo2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_camo3"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_green"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_band_var2_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_camo1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_camo2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_camo3"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_arm"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_camo1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_camo2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_camo3"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_green"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_foliage_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_arm"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_camo1"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_camo2"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_camo3"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_green"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m38_var1_skull"
+msgid "M/38 Steel Helmet"
+msgstr "M/38 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m40"
+msgid "M/40 Steel Helmet"
+msgstr "M/40 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m40_band"
+msgid "M/40 Steel Helmet"
+msgstr "M/40 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_helm_m40_foliage"
+msgid "M/40 Steel Helmet"
+msgstr "M/40 Capacete de Aço"
+
+msgctxt "desc/stuff/swe_helm"
+msgid "Swedish M/26 Steel Helmet"
+msgstr "Swedish M/26 Capacete de Aço"
+
+msgctxt "desc/stuff/swe_helm_m37"
+msgid "Swedish M/37 Steel Helmet"
+msgstr "Swedish M/37 Capacete de Aço"
+
+msgctxt "desc/stuff/swe_helm_m37_band"
+msgid "Swedish M/37 Steel Helmet"
+msgstr "Swedish M/37 Capacete de Aço"
+
+msgctxt "desc/stuff/swe_helm_m37_foliage"
+msgid "Swedish M/37 Steel Helmet"
+msgstr "Swedish M/37 Capacete de Aço"
+
+msgctxt "desc/stuff/fin_fieldcap_m27"
+msgid "M/27 Field Hat"
+msgstr "M/27 Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m27_brown"
+msgid "M/27 Field Hat"
+msgstr "M/27 Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m27_brown_nco"
+msgid "M/27 Field Hat (NCO)"
+msgstr "M/27 Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m27_brown_officer"
+msgid "M/27 Field Hat (Officer)"
+msgstr "M/27 Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m27_nco"
+msgid "M/27 Field Hat (NCO)"
+msgstr "M/27 Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m27_officer"
+msgid "M/27 Field Hat (Officer)"
+msgstr "M/27 Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_air"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_arm"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_arm_nco_inf"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_arm_officer_tank"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_foliage"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_arm"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_arm_nco_inf"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_arm_officer_tank"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_foliage"
+msgid "M/36 Verikauha Field Hat"
+msgstr "M/36 Verikauha Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_nco"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_nco_inf"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_gray_officer_inf"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_nco"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_nco_arty"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_nco_cav"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_nco_inf"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_nco_tank"
+msgid "M/36 Verikauha Field Hat (NCO)"
+msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_officer_air"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_officer_arty"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_officer_cav"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_officer_inf"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_fieldcap_m36_officer_tank"
+msgid "M/36 Verikauha Field Hat (Officer)"
+msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_furcap_m27"
+msgid "M/27 Field Hat"
+msgstr "M/27 Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_furcap_m27_brown"
+msgid "M/27 Field Hat"
+msgstr "M/27 Chapéu de Campo"
+
+msgctxt "desc/stuff/fin_furcap_m27_brown_nco"
+msgid "M/27 Field Hat (NCO)"
+msgstr "M/27 Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_furcap_m27_brown_officer"
+msgid "M/27 Field Hat (Officer)"
+msgstr "M/27 Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_furcap_m27_nco"
+msgid "M/27 Field Hat (NCO)"
+msgstr "M/27 Chapéu de Campo (Suboficial)"
+
+msgctxt "desc/stuff/fin_furcap_m27_officer"
+msgid "M/27 Field Hat (Officer)"
+msgstr "M/27 Chapéu de Campo (Oficial)"
+
+msgctxt "desc/stuff/fin_furcap_m39_closed"
+msgid "M/39 Fur Hat"
+msgstr "Gorro de Pele M/39"
+
+msgctxt "desc/stuff/fin_furcap_m39_down"
+msgid "M/39 Fur Hat"
+msgstr "Gorro de Pele M/39"
+
+msgctxt "desc/stuff/fin_furcap_m39_up"
+msgid "M/39 Fur Hat"
+msgstr "Gorro de Pele M/39"
+
+msgctxt "desc/stuff/fin_furcap_m39_up_officer"
+msgid "M/39 Fur Hat (Officer)"
+msgstr "Gorro de Pele M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_hat_koivistolainen"
+msgid "Koivistolainen"
+msgstr "Koivistolainen"
+
+msgctxt "desc/stuff/fin_hat_m27"
+msgid "M/27 Hat"
+msgstr "Chapéu M/27"
+
+msgctxt "desc/stuff/fin_hat_m27_brown"
+msgid "M/27 Hat"
+msgstr "Chapéu M/27"
+
+msgctxt "desc/stuff/fin_helm_tank"
+msgid "Nakkipipo Tank Helmet"
+msgstr "Capacete de Tanque Nakkipipo"
+
+msgctxt "desc/stuff/fin_summercap_m39"
+msgid "M/39 Summer Hat"
+msgstr "Chapéu de Verão M/39"
+
+msgctxt "desc/stuff/fin_summercap_m39_air"
+msgid "M/39 Summer Hat"
+msgstr "Chapéu de Verão M/39"
+
+msgctxt "desc/stuff/fin_summercap_m39_arm"
+msgid "M/39 Summer Hat"
+msgstr "Chapéu de Verão M/39"
+
+msgctxt "desc/stuff/fin_summercap_m39_arm_nco_inf"
+msgid "M/39 Summer Hat (NCO)"
+msgstr "Chapéu de Verão M/39 (Suboficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_arm_officer_tank"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_nco_cav"
+msgid "M/39 Summer Hat (NCO)"
+msgstr "Chapéu de Verão M/39 (Suboficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_nco_inf"
+msgid "M/39 Summer Hat (NCO)"
+msgstr "Chapéu de Verão M/39 (Suboficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_nco_tank"
+msgid "M/39 Summer Hat (NCO)"
+msgstr "Chapéu de Verão M/39 (Suboficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_officer_air"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_officer_arty"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_officer_cav"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_officer_inf"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_officer_tank"
+msgid "M/39 Summer Hat (Officer)"
+msgstr "Chapéu de Verão M/39 (Oficial)"
+
+msgctxt "desc/stuff/fin_summercap_m39_side"
+msgid "M/39 Summer Hat"
+msgstr "Chapéu de Verão M/39"
+
+msgctxt "desc/stuff/fin_summercap_m39_strap"
+msgid "M/39 Summer Hat"
+msgstr "Chapéu de Verão M/39"
+
+msgctxt "desc/stuff/swe_furcap"
+msgid "Swedish Palsmössa M1909 Fur Hat"
+msgstr "Gorro de Pele Sueco Palsmössa M1909"
+
+msgctxt "desc/stuff/swe_sidecap"
+msgid "Swedish Side Cap"
+msgstr "Boné Lateral Sueco"
+
+msgctxt "desc/stuff/swe_sidecap_green"
+msgid "Swedish Side Cap"
+msgstr "Boné Lateral Sueco"
+
+msgctxt "desc/stuff/swe_sidecap_side"
+msgid "Swedish Side Cap"
+msgstr "Boné Lateral Sueco"
+
+msgctxt "desc/stuff/swe_sidecap_side_green"
+msgid "Swedish Side Cap"
+msgstr "Boné Lateral Sueco"
+
+msgctxt "desc/stuff/swe_skicap"
+msgid "Swedish Skidmössa Ski Cap"
+msgstr "Gorro de Esqui Sueco Skidmössa"
+
+msgctxt "desc/stuff/swe_skicap_green"
+msgid "Swedish Skidmössa Ski Cap"
+msgstr "Gorro de Esqui Sueco Skidmössa"

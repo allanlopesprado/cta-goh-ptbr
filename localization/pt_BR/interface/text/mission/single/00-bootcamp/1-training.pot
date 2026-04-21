@@ -1,0 +1,330 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1-training)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "mission/single/00-bootcamp/1-training/date"
+msgid "August 20th, 1939"
+msgstr "20 de agosto de 1939"
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_barrel"
+msgid "Do not blow things up in the fuel area!"
+msgstr "Não exploda nada na área de combustível!"
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_die"
+msgid "A man has been killed! Unacceptable!"
+msgstr "Um homem foi morto! Inaceitável!"
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_grenades"
+msgid "Grenades must not explode in the area of the shooting range."
+msgstr "As granadas não devem explodir na área do campo de tiro."
+
+msgctxt "mission/single/00-bootcamp/1-training/mission_fail"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/mission_win"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/name"
+msgid "Military Camp"
+msgstr "Campo Militar"
+
+msgctxt "mission/single/00-bootcamp/1-training/name_big"
+msgid "Military Camp"
+msgstr "Campo Militar"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/fuel"
+msgid "There are 2 ways you can refuel a vehicle: automatically, by driving a refueling supply truck close to it, or manually, with fuel cans. To use fuel cans, collect them into your soldier's inventory, and while holding them, clicking on a fuel source like fuel trucks and big barrels to fill the empty can with fuel. When the can is full, you can \"pour out\" the fuel contents into the empty vehicle."
+msgstr "Há 2 formas de abastecer um veículo: automaticamente, aproximando um caminhão de abastecimento, ou manualmente, com jerricans. Para usar jerricans, colete-os no inventário do soldado e, segurando-os, clique em uma fonte de combustível como caminhões ou barris para encher o jerrican. Quando estiver cheio, despeje o combustível no veículo."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grabweapon"
+msgid "Select your soldier, and move him around with your mouse clicks. You can examine boxes by clicking on them to transfer the items between the box's and soldier's inventories. Grab a helmet, rifle, and ammo from the different boxes."
+msgstr "Selecione seu soldado e mova-o clicando com o mouse. Você pode examinar caixas clicando nelas para transferir itens entre o inventário da caixa e do soldado. Pegue um capacete, um fuzil e munição das diferentes caixas."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grenade"
+msgid "You can throw grenades to eliminate targets behind cover. For the most effective use of grenades, you can 'cook' them in direct control mode (select a single soldier and press the direct control button on the bottom left of the interface or press the hotkey 'E' by default). Direct control allows you to micro-control one unit with WASD movement and mouse aiming/shooting."
+msgstr "Você pode atirar granadas para eliminar alvos atrás de cobertura. Para o uso mais eficaz, pode 'cozinhá-las' no modo de controle direto (selecione um soldado e pressione o botão de controle direto no canto inferior esquerdo da interface ou pressione a tecla 'E' por padrão). O controle direto permite microcontrolar uma unidade com movimento WASD e mira/tiro pelo mouse."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/highlight"
+msgid "You can highlight objects that can be collected by your units - like the weapons on the table - by clicking on the 'highlight items' button on the bottom right corner of the interface 'cubed shape button' or by holding the hotkey 'C' by default"
+msgstr "Você pode destacar objetos que podem ser coletados — como armas sobre a mesa — clicando no botão 'destacar itens' no canto inferior direito da interface (botão em forma de cubo) ou mantendo a tecla 'C' pressionada por padrão."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/objectives"
+msgid "You can always open the Mission Objectives menu using the button on the bottom right of the interface or by clicking 'O' by default. You can click on each mission objective to show where it takes place on the map. Secondary mission objectives are not essential for the completion of the mission."
+msgstr "Você pode sempre abrir o menu de Objetivos da Missão usando o botão no canto inferior direito da interface ou pressionando 'O' por padrão. Clique em cada objetivo para ver onde ele ocorre no mapa. Objetivos secundários não são essenciais para concluir a missão."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/pak"
+msgid "You will need to manually shoot the targets in direct control. Press \"E\" by default to switch to direct control with the selected unit. Press \"T\" by default to toggle \"Classic\" and \"Third Person\" modes. Note that the longer you aim at a target, the more accurate your shot will be."
+msgstr "Você precisará atirar manualmente nos alvos no controle direto. Pressione \"E\" por padrão para alternar para controle direto com a unidade selecionada. Pressione \"T\" por padrão para alternar entre os modos \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo você mirar em um alvo, mais preciso será o tiro."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/reinf"
+msgid "You now have control of three more soldiers."
+msgstr "Agora você tem controle de mais três soldados."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/repair"
+msgid "Different components of vehicles can be damaged on the battlefield (tracks, engine, gun, turret, body, etc.). You will need repair kits to repair these components. You can find them in most vehicle's inventory. Repair kits are a single-use item. If multiple components are broken, you will need a repair kit for each component. Take a repair kit from the vehicle into your soldier's inventory, then with the soldier selected, press the repair button in the bottom right corner of the interface (Wrench icon). Lastly, click on the vehicle to order your soldier to repair it."
+msgstr "Diferentes componentes de veículos podem ser danificados no campo de batalha (esteiras, motor, canhão, torre, casco, etc.). Você precisará de kits de reparo para consertar esses componentes. Eles podem ser encontrados no inventário da maioria dos veículos. Kits de reparo são de uso único. Se vários componentes estiverem danificados, você precisará de um kit para cada um. Pegue um kit de reparo do veículo para o inventário do soldado, então com o soldado selecionado, pressione o botão de reparo no canto inferior direito da interface (ícone de chave inglesa). Por último, clique no veículo para ordenar ao soldado que o repare."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/sandbag"
+msgid "Get to cover behind the sandbags and get ready to fire. Select your soldiers, and hover the cursor close to the sandbag. A silhouette previews the position of your soldiers behind cover. Utilize cover as much as possible to increase the survivability and accuracy of your soldiers."
+msgstr "Vá para a cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos de areia. Uma silhueta mostra a prévia da posição dos soldados atrás da cobertura. Use cobertura sempre que possível para aumentar a sobrevivência e a precisão dos soldados."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/spec"
+msgid "Do not leave the hideout area before completing the task. If you leave the hideout, new targets will not appear."
+msgstr "Não saia da área de esconderijo antes de completar a tarefa. Se sair, novos alvos não aparecerão."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/tripod"
+msgid "You can place different weapons on the tripod. Start off by collecting an MG-34 machine gun from the box and put it in the tripod's inventory. You can examine vehicles' inventory by pressing \"X\"."
+msgstr "Você pode colocar diferentes armas no tripé. Comece coletando uma metralhadora MG-34 da caixa e coloque-a no inventário do tripé. Você pode examinar o inventário dos veículos pressionando \"X\"."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/tripod2"
+msgid "Now you have to mount the machinegun. To do so, crew the tripod and open the tripod’s inventory by selecting it and hitting the hotkey 'I' by default. Double click on the machinegun in the inventory to mount it. Now shoot all the targets in the firing range. You will notice mounted weapons are more accurate and have less recoil."
+msgstr "Agora você deve montar a metralhadora. Para isso, tripule o tripé e abra seu inventário selecionando-o e pressionando a tecla 'I' (padrão). Dê duplo clique na metralhadora no inventário para montá-la. Agora atire em todos os alvos no estande de tiro. Você notará que armas montadas são mais precisas e têm menos recuo."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/end"
+msgid "Good luck, Soldiers. Make the fatherland proud!"
+msgstr "Boa sorte, Soldados. Honrem a pátria!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/fuel"
+msgid "That is the fuel station. Our vehicles need fuel to keep on running. You should familiarize yourself with the refueling process."
+msgstr "Essa é a estação de combustível. Nossos veículos precisam de combustível para continuar funcionando. Familiarize-se com o processo de reabastecimento."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/fuellimit"
+msgid "That truck must stay within the gasoline station grounds."
+msgstr "Aquele caminhão deve permanecer dentro dos limites do posto de combustível."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/grenades"
+msgid "Good work, Soldiers. Now head over to the grenade area. Use the hand grenades to blow up some of the fuel barrels."
+msgstr "Bom trabalho, Soldados. Agora vão para a área de granadas. Use granadas de mão para explodir alguns barris de combustível."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/k98"
+msgid "The Karabiner 98-K is the standard infantry weapon. A precise bolt action rifle, ideal for engaging the enemy at medium and long ranges."
+msgstr "O Karabiner 98-K é a arma de infantaria padrão. Um fuzil de ferrolho preciso, ideal para engajar o inimigo em médias e longas distâncias."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/mgrange"
+msgid "This is the MG and Mortar range. Infantry support weapons are essential, and you should train using them. You need to man these vehicles with at least two operators to move them, and they are very effective when placed in strategic positions."
+msgstr "Este é o campo de tiro de MG e Morteiro. Armas de apoio à infantaria são essenciais e você deve treinar com elas. Você precisa de pelo menos dois operadores para movê-las, e são muito eficazes em posições estratégicas."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak1"
+msgid "This is the Cannon range. Here we will show you how to engage enemy armored targets with a variety of projectiles. Crew the 3.7cm PaK anti-tank gun with your soldiers to begin the ballistics briefing!"
+msgstr "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar alvos blindados inimigos com uma variedade de projéteis. Tripule o canhão antitanque PaK de 3,7 cm com seus soldados para iniciar o briefing de balística!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak2"
+msgid "The 3.7cm PaK Light Anti-Tank Gun fires various types of ammunition. To penetrate and destroy armored targets, use Armor Piercing (AP) and Armor Piercing Composite Rigid (APCR) rounds. To penetrate the thicker plates in front of you, use APCR. Against angled armor APCR it will ricochet off instead of penetrating. AP shells are more effective in this case."
+msgstr "O canhão antitanque leve 3.7cm PaK dispara vários tipos de munição. Para penetrar e destruir alvos blindados, use projéteis Perfurantes de Armadura (AP) e Perfurantes Compostos Rígidos (APCR). Para penetrar as placas mais espessas à sua frente, use APCR. Contra blindagem inclinada, o APCR ricocheteia em vez de penetrar. Os projéteis AP são mais eficazes nesse caso."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak3"
+msgid "For wooden or other soft targets, High Explosive (HE) shells are best. These shells detonate on impact and cause a lot of damage to non-armored objects, unlike AP shells that would pass through and cause little damage."
+msgstr "Para alvos de madeira ou outros alvos macios, os projéteis de Alta Explosão (HE) são os melhores. Esses projéteis detonam no impacto e causam muito dano a objetos não blindados, ao contrário dos projéteis AP que os atravessam causando pouco dano."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak4"
+msgid "The high-velocity APCR shells are lightweight and penetrate more than AP shells at close ranges but they lose their kinetic energy quickly at longer ranges. It is better to use AP shells to engage distant targets."
+msgstr "Os projéteis APCR de alta velocidade são mais leves e penetram mais que os AP em curtas distâncias, mas perdem energia cinética rapidamente a longas distâncias. É melhor usar projéteis AP para engajar alvos distantes."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/part2"
+msgid "Now you have acquired basic weapons training. You may look around the facilities and explore all the testing grounds which Kummersdorf has to offer. You will find the latest military equipment on various testing grounds."
+msgstr "Agora você concluiu o treinamento básico de armas. Pode explorar as instalações e todos os campos de teste que Kummersdorf tem a oferecer. Você encontrará os mais modernos equipamentos militares nos vários campos de teste."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/part2_1"
+msgid "Once you consider yourself ready for posting, board the trucks at the dispersal area. You will be delivered to your regiments."
+msgstr "Quando se considerar pronto para o serviço, embarque nos caminhões na área de dispersão. Você será levado ao seu regimento."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/shootingrange"
+msgid "Now you must learn your weapon and put your aim to the test. Head to the western shooting range!"
+msgstr "Agora você deve conhecer sua arma e testar sua pontaria. Dirija-se ao campo de tiro ocidental!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/shootingrange2"
+msgid "Get ready to shoot at the targets! Take cover behind the sandbags! "
+msgstr "Prepare-se para atirar nos alvos! Abrigue-se atrás dos sacos de areia!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec01"
+msgid "Welcome to the intensive training camp for special forces soldiers. In front of you is a combined obstacle course for different types of battles, which will help you get acquainted with the weapon in the closest possible conditions."
+msgstr "Bem-vindo ao campo de treinamento intensivo para soldados de forças especiais. À sua frente há um percurso de obstáculos combinado para diferentes tipos de batalhas, que ajudará a se familiarizar com a arma nas condições mais próximas da realidade."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec02"
+msgid "When you're ready to take the course, go to the entrance."
+msgstr "Quando estiver pronto para o percurso, vá até a entrada."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec03"
+msgid "It is better to use a machine gun to pass the first stage. The most effective medium to long-range weapon against superior opponents."
+msgstr "É melhor usar uma metralhadora para passar o primeiro estágio. A arma de médio a longo alcance mais eficaz contra adversários superiores."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec04"
+msgid "Once you're ready to climb over the fence, the obstacle course timer will begin. Take a position at the indicated point and hit all targets that rise."
+msgstr "Quando estiver pronto para escalar a cerca, o cronômetro do percurso começará. Tome uma posição no ponto indicado e acerte todos os alvos que surgirem."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec05"
+msgid "Well done! Not bad at all. Now, move on to the next stage."
+msgstr "Muito bem! Nada mal. Avance para o próximo estágio."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec06"
+msgid "For combat in confined spaces, a submachine gun is best suited. Also, use grenades to quickly and safely clean the rooms."
+msgstr "Para combate em espaços confinados, uma submetralhadora é a mais adequada. Use também granadas para limpar os cômodos de forma rápida e segura."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec07"
+msgid "Hit all targets to complete this stage!"
+msgstr "Acerte todos os alvos para completar este estágio!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec08"
+msgid "Excellent. Keep moving."
+msgstr "Excelente. Continue avançando."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec09"
+msgid "Remember, heavy anti-tank grenades can be used to blow up obstacles in your path."
+msgstr "Lembre-se, granadas pesadas antitanque podem ser usadas para explodir obstáculos em seu caminho."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec10"
+msgid "You can accurately throw grenades in direct control mode. Narrow windows and cracks are not a hindrance for you. Throw grenades inside these two fortifications and damage the barrels."
+msgstr "Você pode atirar granadas com precisão no modo de controle direto. Janelas estreitas e frestas não são obstáculo para você. Jogue granadas dentro dessas duas fortificações e danifique os barris."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec11"
+msgid "You are a very capable soldier, just what the Reich needs. Let's proceed to the final stage."
+msgstr "Você é um soldado muito capaz, exatamente o que o Reich precisa. Vamos ao estágio final."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec12"
+msgid "Get on the motorcycle. Hook up the cannon and move to the final point. In strategic mode, you can set the path for the unit if you hold down the \"Shift\" and give orders with the left mouse button."
+msgstr "Suba na motocicleta. Conecte o canhão e mova-se até o ponto final. No modo estratégico, você pode definir o caminho da unidade mantendo \"Shift\" pressionado e dando ordens com o botão esquerdo do mouse."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec13"
+msgid "You're damn good. In the upcoming battles, Germany can rely on you."
+msgstr "Você é muito bom. Nas batalhas que virão, a Alemanha pode contar com você."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec14"
+msgid "Complete amateurs are being hired now. You are a disgrace to Germany."
+msgstr "Amadores completos estão sendo contratados agora. Você é uma vergonha para a Alemanha."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start1"
+msgid "Soldiers! Welcome to the Kummersdorf training camp. "
+msgstr "Soldados! Bem-vindos ao campo de treinamento de Kummersdorf."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start1_01"
+msgid "We expect nothing but the very best from all of you."
+msgstr "Esperamos apenas o melhor de todos vocês."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start2"
+msgid "We are on the brink of war! Here you will undergo basic combat training to defend the fatherland! First off, grab a helmet, grab your weapon and grab some ammunition. "
+msgstr "Estamos à beira da guerra! Aqui vocês receberão treinamento básico de combate para defender a pátria! Primeiro, peguem um capacete, peguem suas armas e peguem munição."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/tanklimit"
+msgid "That tank must stay within the test-drive grounds."
+msgstr "Aquele tanque deve permanecer dentro do campo de teste."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/targets1"
+msgid "Shoot at the targets, soldiers! Steady your aim for as long as possible to get the most accurate shots."
+msgstr "Atirem nos alvos, soldados! Mantenham a mira por tempo suficiente para obter os tiros mais precisos."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/targets2"
+msgid "The Wehrmacht counts with the finest weaponry available to any infantryman. A variety of automatic and precision weapons are available on the tables. Some are more effective for short-range fights and others favor long-distance engagements. Use your preferred armament against the next set of targets!"
+msgstr "A Wehrmacht conta com o melhor armamento disponível para qualquer soldado de infantaria. Uma variedade de armas automáticas e de precisão está disponível sobre as mesas. Algumas são mais eficazes em combates de curto alcance, outras favorecem engajamentos a longa distância. Use seu armamento preferido contra o próximo conjunto de alvos!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive"
+msgid "Behold the latest design of our armed forces! The Panzer III. With this kind of armor, nobody can stop us. Feel free to board this tank and take it for a test drive."
+msgstr "Contemplem o mais recente projeto das nossas forças armadas! O Panzer III. Com esse tipo de blindagem, ninguém pode nos deter. Sintam-se à vontade para embarcar nesse tanque e fazer um test drive."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive2"
+msgid "In front of you is an obstacle course. Move to the highlighted points and destroy targets as quickly as possible!"
+msgstr "À sua frente há um percurso de obstáculos. Mova-se para os pontos destacados e destrua os alvos o mais rápido possível!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive3"
+msgid "For effective control of the tank, switch to direct control mode using the \"E\" key."
+msgstr "Para controle eficaz do tanque, alterne para o modo de controle direto usando a tecla \"E\"."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive4"
+msgid "Remember to choose the right weapon type. Use machine guns to destroy the infantry. In direct control mode, switch quickly to specific weapons using the keys 1-4 or right mouse click to cycle through all the weapons."
+msgstr "Lembre-se de escolher o tipo de arma correto. Use metralhadoras para destruir a infantaria. No modo de controle direto, alterne rapidamente para armas específicas usando as teclas 1–4 ou clique direito para percorrer todas as armas."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive_complete"
+msgid "Great job! I see this tank will become your favorite in battle."
+msgstr "Ótimo trabalho! Vejo que este tanque se tornará seu favorito em batalha."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive_fail"
+msgid "You disappoint me. You better not mess with the tank troops."
+msgstr "Você me decepciona. É melhor não se meter com as tropas de tanques."
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/tankman/ask"
+msgid "Damn it! Aaahhh! .... Hey, you! Can you lend me a hand here? I've injured my hand but I still have to get this tank up and running for this evening's exercises. If you can, get some repair tools and fix it!"
+msgstr "Droga! Aahhh! .... Ei, você! Pode me dar uma mão aqui? Machuquei minha mão mas ainda preciso deixar esse tanque funcionando para os exercícios desta noite. Se puder, pegue ferramentas de reparo e conserte-o!"
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/tankman/complete"
+msgid "Thank you very much, soldier. I see you have some useful skills!"
+msgstr "Muito obrigado, soldado. Vejo que você tem habilidades úteis!"
+
+msgctxt "mission/single/00-bootcamp/1-training/outro_completed"
+msgid "Just 2 weeks after this, the second world war started. The Gates of Hell were opened."
+msgstr "Apenas 2 semanas depois disso, a Segunda Guerra Mundial começou. As Portas do Inferno foram abertas."
+
+msgctxt "mission/single/00-bootcamp/1-training/outro_failed"
+msgid "Make sure you're ready to go to war. You will not survive without the right skills! Keep going, you will learn."
+msgstr "Certifique-se de estar pronto para ir à guerra. Você não sobreviverá sem as habilidades certas! Continue, você aprenderá."
+
+msgctxt "mission/single/00-bootcamp/1-training/place"
+msgid "Military training facility, Kummersdorf, Brandenburg"
+msgstr "Instalação de treinamento militar, Kummersdorf, Brandemburgo"
+
+msgctxt "mission/single/00-bootcamp/1-training/story"
+msgid "In this mission, you can learn the basics of gameplay."
+msgstr "Nesta missão, você pode aprender os fundamentos do jogo."
+
+msgctxt "mission/single/00-bootcamp/1-training/task1"
+msgid "Equip your soldier with a helmet, a rifle and ammo (at least 20 rifle rounds)."
+msgstr "Equipe seu soldado com um capacete, um fuzil e munição (pelo menos 20 cartuchos de fuzil)."
+
+msgctxt "mission/single/00-bootcamp/1-training/task2"
+msgid "Eliminate all the targets at the shooting range."
+msgstr "Elimine todos os alvos no campo de tiro."
+
+msgctxt "mission/single/00-bootcamp/1-training/task2_1"
+msgid "Blow up all the barrels with grenades."
+msgstr "Exploda todos os barris com granadas."
+
+msgctxt "mission/single/00-bootcamp/1-training/task3"
+msgid "Board the vehicle to conclude the military camp training."
+msgstr "Embarque no veículo para concluir o treinamento do campo militar."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt1"
+msgid "Go to the armored vehicle test area for vehicle test driving."
+msgstr "Vá para a área de teste de veículos blindados para o test drive."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt2"
+msgid "Go to the repair workshop for mechanic training."
+msgstr "Vá para a oficina de reparo para o treinamento de mecânica."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt3"
+msgid "Go to the AT gun shooting range for armored combat training."
+msgstr "Vá para o campo de tiro de canhão AT para o treinamento de combate blindado."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt4"
+msgid "Go to the supply station for refuel training."
+msgstr "Vá para o posto de suprimento para o treinamento de reabastecimento."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt5"
+msgid "Attend the MG and mortar shooting range training."
+msgstr "Participe do treinamento no campo de tiro de MG e morteiro."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt6"
+msgid "Go to the advanced training course for special forces."
+msgstr "Vá para o curso de treinamento avançado de forças especiais."
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt7"
+msgid "Go to the engineering course."
+msgstr "Vá para o curso de engenharia."
+
+msgctxt "mission/single/00-bootcamp/1-training/timer"
+msgid "Time to overcome the obstacle course:"
+msgstr "Tempo para superar o percurso de obstáculos:"
+
+msgctxt "mission/single/00-bootcamp/1-training/timer_spec"
+msgid "Time to complete the special training course:"
+msgstr "Tempo para completar o curso de treinamento especial:"

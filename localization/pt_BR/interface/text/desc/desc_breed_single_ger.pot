@@ -1,0 +1,1386 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German singleplayer soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/single/ger/1941_summer/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/Recruit1"
+msgid "Recruit"
+msgstr "Recruta"
+
+msgctxt "desc/human/single/ger/1941_summer/Recruit"
+msgid "Recruit"
+msgstr "Recruta"
+
+msgctxt "desc/human/single/ger/1941_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_summer/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_summer/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_summer/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_summer/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1941_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1941_summer/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/artilleryman"
+msgid "Artilleryman [Heer]"
+msgstr "Artilheiro [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1941_win/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_win/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_win/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1941_win/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/signaller"
+msgid "Artillery Signaller [Heer]"
+msgstr "Sinaleiro de Artilharia [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1941_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1941_win/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1941_win/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/artilleryman"
+msgid "Artilleryman [Heer]"
+msgstr "Artilheiro [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/collaborator_1"
+msgid "Collaborator"
+msgstr "Colaborador"
+
+msgctxt "desc/human/single/ger/1942_autumn/collaborator_2"
+msgid "Collaborator"
+msgstr "Colaborador"
+
+msgctxt "desc/human/single/ger/1942_autumn/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_autumn/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_autumn/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_summer/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/pilot"
+msgid "Pilot [Luftwaffe]"
+msgstr "Piloto [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1942_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1942_summer/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_1"
+msgid "Blau Div. SMG Inf. [Heer]"
+msgstr "Blau Div. Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_2"
+msgid "Blau Div. Rifleman [Heer]"
+msgstr "Blau Div. Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_3"
+msgid "Blau Div. Rifleman [Heer]"
+msgstr "Blau Div. Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_4"
+msgid "Blau Div. MG Operator [Heer]"
+msgstr "Blau Div. Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_5"
+msgid "Blau Div. Feldwebel [Heer]"
+msgstr "Blau Div. Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_6"
+msgid "Blau Div. MG Asst. [Heer]"
+msgstr "Blau Div. Aux. de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_antitank_1"
+msgid "Blau Div. AT Inf. [Heer]"
+msgstr "Blau Div. Inf. AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_antitank_2"
+msgid "Blau Div. AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT Div. Azul [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_artilleryman"
+msgid "Blau Div. Artilleryman [Heer]"
+msgstr "Blau Div. Artilheiro [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_engineer"
+msgid "Blau Div. Field Engineer [Heer]"
+msgstr "Blau Div. Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_medic"
+msgid "Blau Div. Medic [Heer]"
+msgstr "Blau Div. Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_miner_ap"
+msgid "Blau Div. AP Miner. [Heer]"
+msgstr "Minador AP Div. Azul [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/blau_miner_at"
+msgid "Blau Div. AT miner. [Heer]"
+msgstr "Minador AT Div. Azul [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1942_win/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_win/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_win/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1942_win/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1942_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1942_win/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1942_win/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Heer]"
+msgstr "Panzerbüchse. Inf. [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/brand_1"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/brand_2"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/brand_3"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [Luftwaffe]"
+msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_2"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_3"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_4"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1943_summer/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_1"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_2"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_3"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/luft_1"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1943_summer/luft_2"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1943_summer/luft_3"
+msgid "LW Field Inf. [Luftwaffe]"
+msgstr "Inf. de Campo LW [Luftwaffe]"
+
+msgctxt "desc/human/single/ger/1943_summer/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_summer/rall"
+msgid "Hauptmann Günther Rall [Luftwaffe]"
+msgstr "Hauptmann Günther Rall [Força Aérea]"
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1943_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1943_summer/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/antitank_1"
+msgid "AT Inf. [Heer]"
+msgstr "Inf. AT [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/mgun_1"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/mgun_2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1943_win/sturm_1"
+msgid "Panzergrenadier [Heer]"
+msgstr "Panzergrenadier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/sturm_2"
+msgid "Panzergrenadier [Heer]"
+msgstr "Panzergrenadier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/sturm_3"
+msgid "Panzergrenadier [Heer]"
+msgstr "Panzergrenadier [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/tank_commander"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1943_win/tank_commander_stug"
+msgid "Leutnant [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1943_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"
+
+msgctxt "desc/human/single/ger/1943_win/tankman_stug"
+msgid "Tankman [Heer]"
+msgstr "Tripulante de Tanque [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/Officer"
+msgid "Leutnant  [Heer]"
+msgstr "Leutnant [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/antitank_1"
+msgid "AT Inf. [Heer]"
+msgstr "Inf. AT [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/antitank_2"
+msgid "AT support Inf. [Heer]"
+msgstr "Inf. de Apoio AT [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/artilleryman"
+msgid "Artilleryman [Heer]"
+msgstr "Artilheiro [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/engineer_1"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/engineer_2"
+msgid "Field Engineer [Heer]"
+msgstr "Engenheiro de Campo [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/flamer"
+msgid "Flamethrower Inf. [Heer]"
+msgstr "Inf. Lança-chamas [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/logistics"
+msgid "Logistics Operator [Heer]"
+msgstr "Operador Logístico [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/logistics_manager"
+msgid "Transport Officer [Heer]"
+msgstr "Oficial de Transporte [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/medic"
+msgid "Medic [Heer]"
+msgstr "Médico [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/mgun2"
+msgid "MG Support [Heer]"
+msgstr "Apoio de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/mgun"
+msgid "MG Operator [Heer]"
+msgstr "Operador de MG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/miner-ap"
+msgid "AP-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AP [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/miner-at"
+msgid "AT-Mine Engineer [Heer]"
+msgstr "Engenheiro de Minas AT [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/nco"
+msgid "Feldwebel [Heer]"
+msgstr "Feldwebel [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/oberst"
+msgid "Oberst [Heer]"
+msgstr "Oberst [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_1"
+msgid "Pionier NCO [Heer]"
+msgstr "Sub-oficial Pioneiro [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_2"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_3"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_4"
+msgid "Pionier [Heer]"
+msgstr "Pionier [Exército]"
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_1"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_2"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_3"
+msgid "Rifleman [Heer]"
+msgstr "Atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/sapper"
+msgid "Mine disposal Sapper [Heer]"
+msgstr "Sapador de Destruição de Minas [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/smg_1"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/smg_2"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/smg_3"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/smg_mkb"
+msgid "SMG Inf. [Heer]"
+msgstr "Inf. SMG [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/sniper"
+msgid "Sniper [Heer]"
+msgstr "Franco-atirador [Heer]"
+
+msgctxt "desc/human/single/ger/1944_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr "Leutnant [Força Blindada]"
+
+msgctxt "desc/human/single/ger/1944_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr "Tripulante de Tanque [Panzerwaffe]"

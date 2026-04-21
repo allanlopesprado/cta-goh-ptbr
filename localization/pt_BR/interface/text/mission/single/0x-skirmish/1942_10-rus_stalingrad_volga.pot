@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1942_10-rus_stalingrad_volga)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/name"
+msgid "No Land Beyond the Volga!"
+msgstr "Não Há Terra Além do Volga!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/name_big"
+msgid "No Land Beyond the Volga!"
+msgstr "Não Há Terra Além do Volga!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/story"
+msgid "Street fighting, Stalingrad. Take control of the key sectors in the area.\n\nGoals:\n - Gain control of a bridgehead on the Volga.\n - Stop enemy counterattacks."
+msgstr "Combate urbano, Stalingrado. Tome o controle dos setores-chave da área.\n\nObjetivos:\n - Conquiste uma cabeça de ponte no Volga.\n - Repila os contra-ataques inimigos."
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/place"
+msgid "Central Stalingrad, near the banks of the Volga"
+msgstr "Centro de Stalingrado, próximo às margens do Volga"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/date"
+msgid "October, 1942"
+msgstr "Outubro de 1942"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/outro_completed"
+msgid "Good job! We now have control over this area. The German vermin shall soon be pushed out of our city!"
+msgstr "Bom trabalho! Agora temos o controle desta área. A escória alemã logo será expulsa de nossa cidade!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/outro_failed"
+msgid "We failed! How are we to regain control of our city? We have to try again!"
+msgstr "Falhamos! Como recuperaremos o controle de nossa cidade? Temos de tentar novamente!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/outro_failed_hq"
+msgid "Mission failure! - Enemy captured your HQ!"
+msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/mission_attack"
+msgid "Capture the key buildings!"
+msgstr "Capture os edifícios-chave!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/narrator_start0"
+msgid "Welcome to the city named after our great Leader! This is our field HQ, it must remain in our control!"
+msgstr "Bem-vindo à cidade que recebe o nome do nosso grande Líder! Este é o nosso QG de campo, deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/narrator_start1"
+msgid "Comrades, we have to be in control of the flanks if we want to push further into the city. Secure the key locations in the area by eliminating pockets of resistance!"
+msgstr "Camaradas, precisamos controlar os flancos se quisermos avançar ainda mais pela cidade. Assegure as posições-chave da área eliminando os focos de resistência!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/narrator_start2"
+msgid "Make sure you capture these vital positions!"
+msgstr "Certifique-se de capturar estas posições vitais!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/narrator_start3"
+msgid "Begin securing your objectives, meanwhile more reinforcements will be brought up for assistance!"
+msgstr "Comece a assegurar seus objetivos, enquanto mais reforços serão trazidos para assistência!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/allied_enemy_near_hq"
+msgid "Comrades! Germans are close to our Field HQ!"
+msgstr "Camaradas! Os alemães estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr "Avião inimigo!!!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/player_enemy_near_hq"
+msgid "We must hold the command post! There is no room for cowards and traitors in our Red Army!"
+msgstr "Devemos manter nosso posto de comando! Não há espaço para covardes e traidores!"
+
+msgctxt "mission/single/01-rus_skirmish/1942_10-rus_stalingrad_volga/hq_bonus"
+msgid "Comrade! Now you can request an airstrike."
+msgstr "Camarada! Agora você pode solicitar um ataque aéreo."

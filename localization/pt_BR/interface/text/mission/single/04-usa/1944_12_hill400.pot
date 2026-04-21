@@ -1,0 +1,271 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_12_hill400)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/capture400"
+msgid "Capture Hill 400!"
+msgstr "Capture o Morro 400!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/date"
+msgid "December 16th, 1944 · Hill 400, Hürtgen Forest, Germany "
+msgstr "16 de dezembro de 1944 · Morro 400, Floresta de Hürtgen, Alemanha"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/hold400"
+msgid "Hold the hill!"
+msgstr "Segure o morro!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/killmortars"
+msgid "Destroy the mortars!"
+msgstr "Destrua os morteiros!"
+
+#, boost-format
+
+msgctxt "mission/single/04-usa/1944_12_hill400/marker_progress"
+msgid "%1% out of 5\tareas marked for precise artillery bombardment."
+msgstr "%1% de 5\táreas marcadas para bombardeio de artilharia de precisão."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/name"
+msgid "Hill 400 "
+msgstr "Morro 400"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/name_big"
+msgid "Hill 400"
+msgstr "Morro 400"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/01"
+msgid "Well, here we are, blessed with the beautiful colours of fall, the first snowfall of the year and with a god damn hill full of Krauts stands in our way."
+msgstr "Bem, aqui estamos — abençoados com as belas cores do outono, a primeira neve do ano, e uma maldita colina cheia de alemães no nosso caminho."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/02"
+msgid "We're gonna take Hill 400, Lieutenant. My boys will test the German defences and find a gap in their line."
+msgstr "Vamos tomar o Morro 400, Tenente. Meus rapazes vão testar as defesas alemãs e encontrar uma brecha em sua linha."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/03"
+msgid "Knock it off! Those M12s are here to blow the hell out of the Germans. Alright Soldiers, scout hill 400 and give us some coordinates for bombardment."
+msgstr "Chega! Esses M12s estão aqui para destruir os alemães. Certo, soldados — reconheçam o Morro 400 e nos dêem coordenadas para bombardeio."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/04"
+msgid "Listen Up!! I want that hill taken by nightfall, let's go! Reinforcements and Artillery are at your disposal. Rangers lead the way!"
+msgstr "Escutem!! Quero aquele morro tomado antes do anoitecer — vamos! Reforços e artilharia estão à sua disposição. Rangers abrem o caminho!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/05"
+msgid "The Krauts have some flak guns by the farm complex, threatening our aircraft. If you can take them out, our boys will be able to rain hellfire from the sky."
+msgstr "Os alemães têm alguns canhões antiaéreos perto do complexo da fazenda, ameaçando nossas aeronaves. Se puder eliminá-los, nossos rapazes poderão chuver fogo do céu."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/06"
+msgid "Well done boys! The Hill is ours. Judging by the way they fought for it, I don't think they'll let it go that easily. Set up a defensive perimeter and prepare for possible counterattack."
+msgstr "Muito bem, rapazes! O morro é nosso. A julgar pela forma como lutaram por ele, não acho que vão deixá-lo ir facilmente. Monte um perímetro defensivo e prepare-se para possível contra-ataque."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/07"
+msgid "As you move through the forest keep your eyes peeled for the enemy. You could be leaving pockets of resistance behind you. These Krauts know how to camouflage their positions. Fan out and comb the entire area slowly."
+msgstr "Ao avançar pela floresta, fique atento ao inimigo. Você pode estar deixando bolsões de resistência para trás. Esses alemães sabem como camuflar suas posições. Espalhem-se e vasculhem toda a área lentamente."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/08"
+msgid "Look Alive! Enemy counterattack! Hold the Line!"
+msgstr "Atenção! Contra-ataque inimigo! Segurem a linha!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/09"
+msgid "Alright, I don't think Jerry is done just yet, scan your sectors!"
+msgstr "Certo — acho que os alemães ainda não terminaram. Escanear seus setores!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/10"
+msgid "They're on the run! Pour it on em!!"
+msgstr "Eles estão em fuga! Manda mais!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/11"
+msgid "Well, we're not out of the woods just yet. These documents show that German Command thinks very highly of this hill. They're going to want it back for sure. We need to dig in."
+msgstr "Bem — ainda não estamos fora de perigo. Esses documentos mostram que o Comando Alemão dá muita importância a este morro. Com certeza vão querer de volta. Precisamos nos entrincheirar."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/12"
+msgid "Engineers have arrived. Lay mines and set up defense positions. I want you to make these Jerry suffer as much as we did to taking this damn thing."
+msgstr "Os engenheiros chegaram. Coloquem minas e montem posições defensivas. Quero que façam esses alemães sofrerem tanto quanto nós sofremos para tomar essa maldita colina."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/13"
+msgid "We don't have much time, so lay down mines on the most obvious spots and don't get caught out of your foxholes when the Krauts show up!"
+msgstr "Não temos muito tempo, coloquem minas nos locais mais óbvios e não sejam pegos fora de seus abrigos individuais quando os alemães aparecerem!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/14"
+msgid "Incoming Artillery!!!"
+msgstr "Artilharia chegando!!!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/15"
+msgid "Kraut mortars, watch out!"
+msgstr "Morteiros alemães — cuidado!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/16"
+msgid "We've received reports that the Kraut 6th Paratrooper Regiment is in the fight. Their very best! Send them to hell with the rest!"
+msgstr "Recebemos relatórios de que o 6º Regimento Paraquedista alemão está no combate. Os melhores deles! Mande-os para o inferno junto com o resto!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/17"
+msgid "The weather has significantly worsened, so we can forget about air support..."
+msgstr "O tempo piorou significativamente — podemos esquecer o apoio aéreo..."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/18"
+msgid "Shit! They brought mobile field guns!"
+msgstr "Merda! Eles trouxeram canhões de campanha móveis!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/airstrike1"
+msgid "P47 inbound, watch out for our bird!"
+msgstr "P-47 chegando — cuidado com nosso pássaro!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/airstrike2"
+msgid "Look alive, fly boys are inbound to hit that position!"
+msgstr "Atenção — os aviadores estão chegando para atacar aquela posição!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/airstrike3"
+msgid "Airstrike underway, angels on our shoulders!"
+msgstr "Ataque aéreo em andamento — anjos nos protegem!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak1"
+msgid "Flak gun down! Flak gun down! "
+msgstr "Canhão antiaéreo abatido!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak2"
+msgid "Flak gun disabled, good job boys!"
+msgstr "Canhão antiaéreo desativado — bom trabalho, rapazes!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak3"
+msgid "Enemy triple-A down!"
+msgstr "Antiaéreo inimigo abatido!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/01"
+msgid "You hate to see it... What happens now, Sir?"
+msgstr "É horrível ver isso... O que acontece agora, senhor?"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/02"
+msgid "We could just go around it, Sir... For cryin' out loud, it's starting to snow. What a beautiful day."
+msgstr "Poderíamos simplesmente contorná-lo, senhor... Pelo amor de Deus, está começando a nevar. Que dia bonito."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/03"
+msgid "Well guys, it's time for us to catch some rays, you know? 5th Armoured division need us back at Bergstein. Pleasure to have slayed some nazis with y'all today."
+msgstr "Bem, rapazes — é hora de apanharmos um sol, sabe? A 5ª Divisão Blindada nos quer de volta em Bergstein. Foi um prazer combater nazistas com vocês hoje."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/unable"
+msgid "Target out of our range, you're gonna have to give us new coordinates."
+msgstr "Alvo fora do nosso alcance — você vai ter que nos dar novas coordenadas."
+
+msgctxt "mission/single/04-usa/1944_12_hill400/outro_completed"
+msgid "Excellent work soldiers! This victory shows the tenacity of the US Rangers, keeping calm in the face of overwhelming odds. This hill seemed impregnable at first sight, but you took it anyway. People will remember this battle for a long time. You certainly made your mark as a commander today!"
+msgstr "Excelente trabalho, soldados! Esta vitória mostra a tenacidade dos Rangers americanos, mantendo a calma diante de probabilidades esmagadoras. Este morro parecia inexpugnável à primeira vista, mas você o tomou assim mesmo. As pessoas vão lembrar desta batalha por muito tempo. Você certamente deixou sua marca como comandante hoje!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/outro_failed"
+msgid "This turned into a bad day somehow. If we fail to take this hill, our sole advantage for the next battle is lost. This can’t be happening to the 2nd Rangers, you must try again!"
+msgstr "De alguma forma, este se tornou um dia ruim. Se não conseguirmos tomar este morro, nossa única vantagem para a próxima batalha está perdida. Isso não pode estar acontecendo com os Rangers do 2º Batalhão — você deve tentar novamente!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/place"
+msgid "2nd Ranger Battalion"
+msgstr "2º Batalhão Ranger"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/player/01"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_hill400/player/02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_hill400/recon_hill"
+msgid "Recon the hill before the assault!"
+msgstr "Reconheça o morro antes do assalto!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/recon_markers"
+msgid "Place markers for the artillery!"
+msgstr "Coloque marcadores para a artilharia!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_105mm"
+msgid "105mm M3"
+msgstr "M3 de 105mm"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_30cal"
+msgid "M1919A4 .30 cal"
+msgstr "M1919A4 calibre .30"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_50cal"
+msgid "M2 .50 cal"
+msgstr "M2 calibre .50"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_6pounder"
+msgid "57mm M1"
+msgstr "M1 de 57mm"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_assaultrangers"
+msgid "Assault Rangers"
+msgstr "Rangers de Assalto"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_m12"
+msgid "M12 155mm Bombardment"
+msgstr "Bombardeio M12 de 155mm"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_m15"
+msgid "M15A1"
+msgstr "M15A1"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_mortar"
+msgid "81mm M1 Mortar"
+msgstr "81mm M1 Morteiro"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_officer"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_p47"
+msgid "P47D-22 Airstrike"
+msgstr "Ataque Aéreo P-47D-22"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_rangers"
+msgid "Rangers"
+msgstr "Rangers"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_scott"
+msgid "M8 GMC Scott"
+msgstr "M8 GMC Scott"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_sniper"
+msgid "Sniper"
+msgstr "Franco-atirador"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/reinf_supply"
+msgid "CCKW (Supply)"
+msgstr "CCKW (Suprimento)"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/story"
+msgid " December 1944. You have been in Europe for half a year now. Progress has been steady and the allied advance seems unstoppable.\n\n Today, just like on D-Day, you will be taking an enemy position on high ground, a crucial hill that would give us the high ground in the upcoming battle for the Hürtgen forest. On your map, it’s named Hill 400, near Bergstein. You must gather intel on the enemy position first, and then decide how you’re going to take this hill. When you have control of the area, you must reinforce the position, set up radio communications, and defend  against potential counterattacks. Only when you have radio contact, will you get access to artillery support. Use it to your advantage whenever you can.\n\nGood luck!"
+msgstr " Dezembro de 1944. Você está na Europa há meio ano e o avanço aliado parece imparável.\n\n Hoje, assim como no Dia D, você tomará uma posição inimiga em ponto elevado, um morro crucial que nos daria vantagem topográfica na próxima batalha pela Floresta de Hürtgen. No mapa, está identificado como Morro 400, próximo a Bergstein. Você deve primeiro coletar inteligência sobre a posição inimiga e então decidir como tomar este morro. Quando tiver controle da área, deve reforçar a posição, estabelecer comunicações por rádio e se defender contra possíveis contra-ataques. Somente quando tiver contato por rádio, terá acesso ao apoio de artilharia. Use-o a seu favor sempre que puder.\n\nBoa sorte!"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/task_aa"
+msgid "Eliminate the German AA guns to get access to airstrikes"
+msgstr "Elimine os canhões antiaéreos alemães para ter acesso a ataques aéreos"
+
+msgctxt "mission/single/04-usa/1944_12_hill400/timer"
+msgid "Prepare the defences:"
+msgstr "Preparar as defesas:"

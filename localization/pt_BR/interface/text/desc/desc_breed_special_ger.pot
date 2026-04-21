@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finest Hour narrators\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/human/narrator/ger-woensdrecht-officer"
+msgid "Oberleutnant Werner Meyer"
+msgstr "Oberleutnant Werner Meyer"
+
+msgctxt "desc/human/narrator/ger-woensdrecht-soldier1"
+msgid "Gefreiter Herbert Lange"
+msgstr "Gefreiter Herbert Lange"
+
+msgctxt "desc/human/narrator/ger-woensdrecht-soldier2"
+msgid "Obergefreiter Karl Bergmann"
+msgstr "Obergefreiter Karl Bergmann"
+
+msgctxt "desc/human/narrator/ger-koevering-squadleader"
+msgid "Oberfeldwebel Ludwig Weissmann"
+msgstr "Oberfeldwebel Ludwig Weissmann"
+
+msgctxt "desc/human/narrator/ger-koevering-soldier1"
+msgid "Gefreiter Otto Reinhardt"
+msgstr "Gefreiter Otto Reinhardt"
+
+msgctxt "desc/human/narrator/ger-koevering-soldier2"
+msgid "Obergefreiter Dieter Vogel"
+msgstr "Obergefreiter Dieter Vogel"
+
+msgctxt "desc/human/narrator/ger-arras_officer"
+msgid "Oberleutnant Friedrich von Hohenfeld"
+msgstr "Oberleutnant Friedrich von Hohenfeld"
+
+msgctxt "desc/human/narrator/ger-arras_soldier"
+msgid "Gefreiter Hans Richter"
+msgstr "Gefreiter Hans Richter"
+
+msgctxt "desc/human/narrator/ger-stvalery_officer"
+msgid "Leutnant Wilhelm Albrecht"
+msgstr "Leutnant Wilhelm Albrecht"
+
+msgctxt "desc/human/narrator/ger-stvalery_soldier"
+msgid "Obergefreiter Rudolf Schwarz"
+msgstr "Obergefreiter Rudolf Schwarz"
+
+msgctxt "desc/human/narrator/ger-swordbeach-officer"
+msgid "Leutnant Franz Schneider"
+msgstr "Leutnant Franz Schneider"
+
+msgctxt "desc/human/narrator/ger-swordbeach-soldier"
+msgid "Gefreiter Kurt Hoffmann"
+msgstr "Gefreiter Kurt Hoffmann"
+
+msgctxt "desc/human/narrator/ger-wittmann"
+msgid "Michael Wittmann"
+msgstr "Michael Wittmann"

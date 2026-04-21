@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_06_bloody_gulch)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/airstrike"
+msgid "Artillery barrage"
+msgstr "Barragem de artilharia"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/date"
+msgid "June 13th, 1944 · near Carentan, Normandy, France."
+msgstr "13 de junho de 1944 · próximo a Carentan, Normandia, França."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/name"
+msgid "Battle of Bloody Gulch"
+msgstr "Batalha de Bloody Gulch"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/name_big"
+msgid "Battle of Bloody Gulch"
+msgstr "Batalha de Bloody Gulch"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator01"
+msgid "Easy Company! Our scouts reported that an enemy formation is coming our way and will be here soon!"
+msgstr "Easy Company! Nossos batedores relataram que uma formação inimiga está a caminho e chegará em breve!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator03"
+msgid "Take up defensive positions along these hedgerows. Reinforce them if you need to. Use the mines to cover possible enemy approaches."
+msgstr "Assumam posições defensivas ao longo desses bocages. Reforce-os se necessário. Use as minas para cobrir possíveis abordagens inimigas."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator04"
+msgid "Hold your ground and let them come to us. Hang tough, men!"
+msgstr "Segurem o terreno e deixem-nos vir até nós. Aguentem firme, homens!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator05"
+msgid "The enemy has trapped our scout team behind their lines. They’ve held up in this compound!"
+msgstr "O inimigo encurralou nossa equipe de batedores por trás das linhas deles. Eles se refugiaram neste complexo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator06"
+msgid "Third squad! Break through the German line, link up with the scout team, and fall back before the enemy attack arrives."
+msgstr "Terceira esquadra! Rompa a linha alemã, una-se à equipe de batedores e recue antes que o ataque inimigo chegue."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator07"
+msgid "Come on, Blithe! Stand up! Get on your feet, soldier! Fire your weapon, Blithe!"
+msgstr "Vamos, Blithe! Levante-se! Ponha-se de pé, soldado! Atire sua arma, Blithe!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator08"
+msgid "Here they come! Get ready, soldiers!"
+msgstr "Lá vêm eles! Preparem-se, soldados!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator09"
+msgid "Enemy halftracks! Take them out!"
+msgstr "Halftracks inimigos! Destruam-nos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator10"
+msgid "They are bringing mortars!"
+msgstr "Eles estão trazendo morteiros!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator11"
+msgid "I hear tank tracks in the distance! Enemy armor inbound!"
+msgstr "Ouço lagartas de tanque ao longe! Blindados inimigos a caminho!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator12"
+msgid "We need to neutralize the German armor. Bazooka teams, flank and destroy them!"
+msgstr "Precisamos neutralizar os blindados alemães. Equipes de bazuca, flanqueiem e destruam-nos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator13"
+msgid "Tanks destroyed!"
+msgstr "Tanques destruídos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator14"
+msgid "We've repelled the enemy assault! Now that we have armor, it's time to go on the offensive."
+msgstr "Repelimos o assalto inimigo! Agora que temos blindados, é hora de passar à ofensiva."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator15"
+msgid "No time to rest, let's push 'em back!"
+msgstr "Sem tempo para descansar, vamos empurrá-los de volta!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator16"
+msgid "Germans have breached the perimeter!"
+msgstr "Os alemães romperam o perímetro!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator18"
+msgid "Well done! Those German mortars are done for!"
+msgstr "Bem feito! Aqueles morteiros alemães estão destruídos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator_soldier01"
+msgid "You guys made it just in time. I thought we were goners for sure! If you help me get back to HQ, I can call for additional support with my radio."
+msgstr "Vocês chegaram bem a tempo. Achei que estávamos perdidos com certeza! Se me ajudarem a voltar ao QG, posso pedir apoio adicional pelo rádio."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_completed"
+msgid "Easy Company successfully repelled the German attack with support from the 2nd Armored Division. With the German attackers routed, the Allies were able to push west and cut off the German forces in the Cotentin Peninsula from German-occupied France."
+msgstr "A Easy Company repeliu com sucesso o ataque alemão com apoio da 2ª Divisão Blindada. Com os atacantes alemães derrotados, os Aliados conseguiram avançar para o oeste e cortar as forças alemãs na Península Cotentin da França ocupada."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_failed"
+msgid "Easy Company was destroyed by the Germans while defending its position west of Carentan. Now, nothing stands in the way of the German advance towards Carentan. You must try again!"
+msgstr "A Easy Company foi destruída pelos alemães ao defender sua posição a oeste de Carentan. Agora, nada está no caminho do avanço alemão em direção a Carentan. Tente novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/lose_winters"
+msgid "Lt. Winters is dead!"
+msgstr "O Ten. Winters está morto!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/preparation"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/preparation_hint"
+msgid "Press on this button to skip the preparation countdown and move on to the next part of the mission."
+msgstr "Pressione este botão para pular a contagem regressiva de preparação e passar para a próxima parte da missão."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/skip_prep"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/story"
+msgid "  The 101st has been in action constantly since the jump into Normandy over a week ago. After clearing Carentan yesterday, it’s time to push forward and capitalize on this victory.\n\n  Easy company will be covering the extreme right flank. Headquarters has sent scouts forward along the axis of advance. Depending on what they report, we will proceed accordingly. Report to the 506th Parachute Infantry Regiment for further orders and prepare for what could be a bloody battle.\n\n Good luck!"
+msgstr "  O 101º está em ação constantemente desde o salto sobre a Normandia há mais de uma semana. Após limpar Carentan ontem, é hora de avançar e capitalizar sobre esta vitória.\n\n  A Easy Company cobrirá o flanco extremo direito. O Quartel-General enviou batedores à frente ao longo do eixo de avanço. Dependendo do que reportarem, procederemos conforme necessário. Apresente-se ao 506º Regimento de Infantaria de Paraquedistas para mais ordens e prepare-se para o que pode ser uma batalha sangrenta.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task1"
+msgid "Prepare a defense line along the hedgerow!"
+msgstr "Prepare uma linha de defesa ao longo do bocage!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task2"
+msgid "Rescue the scout team!"
+msgstr "Resgate a equipe de batedores!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task3"
+msgid "Save the radio operator from the scout team."
+msgstr "Salve o operador de rádio da equipe de batedores."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task4"
+msgid "Escort the radio operator to your HQ for additional support."
+msgstr "Escorte o operador de rádio até seu QG para apoio adicional."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task5"
+msgid "Hold your position and defend the HQ!"
+msgstr "Mantenha sua posição e defenda o QG!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task6"
+msgid "Flank and neutralize enemy StuGs!"
+msgstr "Flanqueie e neutralize os StuGs inimigos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task7"
+msgid "Clear the remaining enemy troops from the battlefield!"
+msgstr "Limpe as tropas inimigas restantes do campo de batalha!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_winters"
+msgid "Lt. Winters must survive."
+msgstr "O Ten. Winters deve sobreviver."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_heal_winters"
+msgid "Treat Lt. Winters before he bleeds to death!"
+msgstr "Trate o Ten. Winters antes que ele morra de hemorragia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_secret"
+msgid "Secret Objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_secret_comp"
+msgid "(Secret Objective #1): Encourage Blithe"
+msgstr "(Objetivo Secreto nº 1): Encoraje o Blithe"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/timer1"
+msgid "Remaining time before enemy attack:"
+msgstr "Tempo restante antes do ataque inimigo:"

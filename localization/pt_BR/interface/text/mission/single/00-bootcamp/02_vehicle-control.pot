@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (02_vehicle-control)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/complete"
+msgid "Congratulations, you have finished the second tutorial (basic vehicle control)."
+msgstr "Parabéns, você concluiu o segundo tutorial (controle básico de veículos)."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/date"
+msgid "June 23nd, 1941 · Border with the USSR"
+msgstr "23 de junho de 1941 · Fronteira com a URSS"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/hint_video"
+msgid "Press this button to re-watch the video for this tutorial phase."
+msgstr "Pressione este botão para rever o vídeo desta fase do tutorial."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/name"
+msgid "Tutorial 2: Vehicle Control"
+msgstr "Tutorial 2: Controle de Veículos"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/name_big"
+msgid "Vehicle Control"
+msgstr "Controle de Veículos"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/00"
+msgid "Welcome to the front line! This will be your first tank combat experience, so pay attention for your own survival."
+msgstr "Bem-vindo à linha de frente! Esta será sua primeira experiência de combate em tanque, então preste atenção para sua própria sobrevivência."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/02"
+msgid "Now, Soldiers. We don't have much time. Move the tank to a suitable firing position."
+msgstr "Agora, Soldados. Não temos muito tempo. Movam o tanque para uma posição de tiro adequada."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/04"
+msgid "Enemy vehicles down the road! Wipe them out!"
+msgstr "Veículos inimigos pela estrada! Eliminê-los!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/05"
+msgid "Excellent job! Now you must turn your attention to the broken track. We must keep our vehicles operational at all times!"
+msgstr "Excelente trabalho! Agora devem prestar atenção à esteira danificada. Devemos manter nossos veículos operacionais a todo momento!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/06"
+msgid "Ah! The supply truck has arrived! Just in time to replenish the shells you just used up!"
+msgstr "Ah! O caminhão de suprimentos chegou! Bem a tempo de reabastecer os projéteis que acabou de usar!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/07"
+msgid "Very well. Now, move forward and take control of the enemy checkpoint ahead!"
+msgstr "Muito bem. Agora, avance e tome o controle do posto de controle inimigo à frente!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/08"
+msgid "Enemy tank! A heavily armored one!"
+msgstr "Tanque inimigo! Um fortemente blindado!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/09"
+msgid "Good shot! That's how it's done!"
+msgstr "Bom tiro! É assim que se faz!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/10"
+msgid "Alright, commander! You seem to have gotten the hang of it. Now, go forward, and eliminate the last enemy position. Choose your targets wisely, and feel free to return to the supply truck for resupply."
+msgstr "Certo, comandante! Parece que pegou o jeito. Avance e elimine a última posição inimiga. Escolha seus alvos com sabedoria e retorne ao caminhão de suprimentos quando precisar."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/11"
+msgid "The Bolsheviks left us some fuel trucks! What a lovely surprise. No doubt, you should consider refueling after this arduous trip. Go see to it."
+msgstr "Os bolcheviques nos deixaram alguns caminhões de combustível! Que surpresa agradável. Sem dúvida, considere reabastecer após esta viagem árdua. Cuide disso."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/ger_officer/12"
+msgid "Well done! You have acquired all the basic skills to fight in armored vehicles. I'm sure you will become a highly skilled tank commander!"
+msgstr "Muito bem! Você adquiriu todas as habilidades básicas para combater em veículos blindados. Tenho certeza de que se tornará um comandante de tanque altamente habilidoso!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/01"
+msgid "Behold, the Panzer IV Ausf. F1. This is the best our Wehrmacht has to offer. A multi-role tank, capable of supporting our infantry and dealing with enemy armor."
+msgstr "Contemplem o Panzer IV Ausf. F1. O melhor que nossa Wehrmacht tem a oferecer. Um tanque multiuso, capaz de apoiar a infantaria e enfrentar blindados inimigos."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/02"
+msgid "Now, move the tank to position behind the sandbags."
+msgstr "Agora, movam o tanque para a posição atrás dos sacos de areia."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/03"
+msgid ""
+"Your tank is immobilised, because the track was broken. We will deal with it later. The first order of business is eliminating the enemy threat. Engage enemy tanks "
+"with AP shells. The tank will automatically load the correct shell type for its target, but you can control ammo selection manually in third person or direct control."
+msgstr "Seu tanque está imobilizado porque a lagarta foi quebrada. Cuidaremos disso depois. A prioridade é eliminar a ameaça inimiga. Engaje tanques inimigos com projéteis AP. O tanque selecionará automaticamente o alvo mais próximo."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/04"
+msgid ""
+"Your tank is equipped with 5 repair kits. Each repair kit will repair one vehicle component, then it is consumed. To begin the repair, select the tank and click on the "
+"\"repair\" button. A crew will automatically disembark and repair the tank's damaged components in order of priority. You can also manually disembark a crew member, "
+"select the repair button, and click on the tank."
+msgstr "Seu tanque está equipado com 5 kits de reparo. Cada kit repara um componente do veículo e então é consumido. Para iniciar o reparo, selecione o tanque e clique no botão \"reparar\". Um tripulante irá automaticamente sair e reparar o dano."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/05"
+msgid ""
+"Your tank automatically prioritized firing at the enemy tanks first, then the armored car. When armored threats are eliminated, tanks will automatically switch to "
+"high-exposive shells to engage infantry."
+msgstr "Seu tanque priorizou automaticamente o disparo nos tanques inimigos primeiro, depois no carro blindado. Quando ameaças blindadas são eliminadas, os tanques mudam automaticamente para projéteis explosivos para engajar infantaria."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/06"
+msgid ""
+"Tank crew, artillerymen, and engineers can repair vehicles much faster than ordinary soldiers. Tank crew also have greater skill and accuracy with the tank's main "
+"cannon. Always try to replace any lost crew with properly trained tankmen."
+msgstr "Tripulantes de tanque, artilheiros e engenheiros podem reparar veículos muito mais rápido que soldados comuns. Tripulantes de tanque também têm maior habilidade e precisão com o canhão principal. Sempre tente repor qualquer tripulante perdido."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/07"
+msgid "Resupply your tank by bringing it within the resupply radius of the supply vehicle. "
+msgstr "Reabastecça seu tanque levando-o para dentro do raio de reabastecimento do veículo de suprimentos."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/08"
+msgid ""
+"Enemy infantry are most easily dealt with using High Explosive (HE) shells and with the tank's secondary armament. However, it may be inconvenient if enemy armor "
+"arrives and your tank has to spend valuable time switching to AP shells to engage it. For this reason, there is a button to \"lock\" the vehicle to only use the currently "
+"selected shell type and to not switch to other shells on its own."
+msgstr "A infantaria inimiga é mais facilmente eliminada com projéteis Explosivos (HE) e com o armamento secundário do tanque. No entanto, pode ser inconveniente se blindados inimigos chegarem e o tanque tiver que gastar tempo valioso trocando de munição."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/09"
+msgid "You will have to use HEAT shells to penetrate the thicker, sloped armor of the enemy T-34 tank."
+msgstr "Você precisará usar projéteis HEAT para penetrar a blindagem mais espessa e inclinada do tanque T-34 inimigo."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/10"
+msgid "To refuel your tank, bring it within the refuel radius of the fuel trucks."
+msgstr "Para reabastecer o tanque de combustível, aproxime-o do raio de reabastecimento dos caminhões de combustível."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/outro_completed"
+msgid "Mission Accomplished!\n\n"
+"Click on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission."
+msgstr "Missão Cumprida!\n\nClique em 'continuar' para continuar jogando esta missão ou clique em 'próxima' para ir diretamente à próxima missão."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/place"
+msgid "Army Group Centre"
+msgstr "Grupo de Exércitos Centro"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/reinf_video"
+msgid "Re-watch steps."
+msgstr "Rever etapas."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/story"
+msgid ""
+"Welcome to vehicle training, Soldier.\n\n"
+"In this tutorial, you will learn how to control armor, how to maximize their effectiveness, and to be a successful tank commander.\n\n"
+"Due to the complexity of armored combat, a well-managed tank can make all the difference in the battlefield.\n\n"
+"                                        Good luck!"
+msgstr "Bem-vindo ao treinamento de veículos, Soldado.\n\nNeste tutorial, você aprenderá a controlar blindados, como maximizar sua eficácia em combate e como gerenciar suas tripulações.\n\nDevido à complexidade do combate blindado, um tanque bem comandado pode ser decisivo no campo de batalha.\n\n                                        Boa sorte!"
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task1"
+msgid "Move the tank into a defensive position."
+msgstr "Mova o tanque para uma posição defensiva."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task2"
+msgid "Fend off the enemy attack."
+msgstr "Rechaçe o ataque inimigo."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task3"
+msgid "Repair your tank."
+msgstr "Repare seu tanque."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task4"
+msgid "Re-supply your tank."
+msgstr "Reabasteça seu tanque."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task5"
+msgid "Storm and capture the enemy checkpoint, focusing on enemy infantry with HE shells."
+msgstr "Assalte e capture o posto de controle inimigo, focando na infantaria inimiga com projéteis HE."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task6"
+msgid "Load HEAT shells and eliminate the enemy heavily armored tank."
+msgstr "Carregue projéteis HEAT e elimine o tanque inimigo fortemente blindado."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task7"
+msgid "Re-fuel the tank."
+msgstr "Reabasteça o tanque de combustível."
+
+msgctxt "mission/single/00-bootcamp/02_vehicle-control/task8"
+msgid "Crush the last enemy defenses."
+msgstr "Destrua as últimas defesas inimigas."

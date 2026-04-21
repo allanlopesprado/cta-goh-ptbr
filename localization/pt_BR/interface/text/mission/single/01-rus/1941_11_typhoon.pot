@@ -1,0 +1,151 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_11_typhoon)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/arty_strike"
+msgid "Artillery support"
+msgstr "Apoio de artilharia"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/arty_strike_hint"
+msgid "Click on the area to bombard."
+msgstr "Clique na área a ser bombardeada."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/date"
+msgid "November 16th, 1941 · Volokolamsk, near Moscow."
+msgstr "16 de novembro de 1941 · Volokolamsk, perto de Moscou."
+
+#, boost-format
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/dummyguns"
+msgid "%1% out of 5 dummy guns built. You need to take 2 cords of wood to each of the emplacement locations. Dummy guns will attract enemy artillery fire."
+msgstr "%1% de 5 canhões falsos construídos. Você precisa levar 2 feixes de madeira a cada local de posicionamento. Os canhões falsos atrairão o fogo de artilharia inimigo."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/name"
+msgid "Absolute zero"
+msgstr "Zero Absoluto"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/name_big"
+msgid "Absolute zero"
+msgstr "Zero Absoluto"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/assistant/01"
+msgid "Select the artillery barrage and click on the designated firing area. Obtain points by kills."
+msgstr "Selecione o bombardeio de artilharia e clique na área de fogo designada. Obtenha pontos por eliminações."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/assistant/02"
+msgid "Enemy artillery is about to fire on the crosshair location."
+msgstr "A artilharia inimiga está prestes a abrir fogo sobre o local marcado."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/01"
+msgid "Comrades, welcome, great timing. We're seriously down on manpower here. Wait... Is this all of you?!!"
+msgstr "Camaradas, bem-vindos, ótima hora. Estamos seriamente escassos de homens aqui. Espera... É só isso?!!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/02"
+msgid "Well... we're up shit creek without a paddle! We know the fascists want to smash through here to get to Moscow. We must do everything we can to stop them!"
+msgstr "Bem... estamos numa situação desesperadora! Sabemos que os fascistas querem abrir caminho aqui para chegar a Moscou. Devemos fazer tudo que estiver ao nosso alcance para detê-los!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/03"
+msgid "They're attacking! Get our artillery ready to kill them! Hold the line!!"
+msgstr "Eles estão atacando! Preparem nossa artilharia para destruí-los! Segurem a linha!!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/04a"
+msgid "I think that plane was a spotter! Enemy artillery will attempt to destroy our AT guns!"
+msgstr "Acho que aquele avião era um observador! A artilharia inimiga tentará destruir nossos canhões AT!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/04b"
+msgid "That plane is scouting for our AT guns! Enemy artillery will shoot at whatever he observed!"
+msgstr "Aquele avião está reconhecendo a posição dos nossos canhões AT! A artilharia inimiga atirará no que ele observou!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/05"
+msgid "The High Command has mobilized our reserves, including a new prototype tank. Comrade, no German vehicle will survive a shot from this monster. Send the Fascist vermin back to hell where they belong!"
+msgstr "O Alto Comando mobilizou nossas reservas, incluindo um novo tanque protótipo. Camarada, nenhum veículo alemão sobreviverá a um disparo desse monstro. Mande a ralé fascista de volta ao inferno de onde veio!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/06"
+msgid "The Fascists have entered the village! Take them out immediately, or we will be done for!"
+msgstr "Os fascistas entraram na aldeia! Elimine-os imediatamente, ou estaremos perdidos!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/fail"
+msgid "You had been ordered to not let the Germans inside the village! There is no room for cowards and traitors in our Red Army!"
+msgstr "Você foi ordenado a não deixar os alemães entrarem na aldeia! Não há lugar para covardes e traidores no nosso Exército Vermelho!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01"
+msgid "Fetch these coordinates! Give them hell!"
+msgstr "Registre essas coordenadas! Dê-lhes o inferno!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01b"
+msgid "Fire on these coordinates! I want to hear them scream!"
+msgstr "Abra fogo nessas coordenadas! Quero ouvi-los gritar!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01c"
+msgid "Open fire! Give them hell!"
+msgstr "Abra fogo! Dê-lhes o inferno!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/02"
+msgid "Artillery reloaded! Awaiting targets!"
+msgstr "Artilharia recarregada! Aguardando alvos!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/03"
+msgid "We should lay mines. We must man the AT guns. Let's go!"
+msgstr "Devemos assentar minas. Precisamos operar os canhões AT. Vamos!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/01"
+msgid "The Germans use spotters to find targets for their artillery and their planes. We've collected some timber to build dummy guns. If you care for your men - you better distract their artillery! "
+msgstr "Os alemães usam observadores para encontrar alvos para sua artilharia e seus aviões. Recolhemos madeira para construir canhões falsos. Se você se preocupa com seus homens, é melhor distrair a artilharia deles!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/02"
+msgid "Artillery ready! Awaiting coordinates!"
+msgstr "Artilharia pronta! Aguardando coordenadas!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/03"
+msgid "Artillery is down! We'll have to do without the big guns!"
+msgstr "A artilharia foi destruída! Teremos que nos virar sem os canhões!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/outro_completed"
+msgid "Operation Typhoon started with great prospects for the Germans, but soon the tenacious Soviet resistance made it harder and harder for the Germans to make further gains. The harsh winter conditions, the constant attrition of combat and the stubbornness of the Soviet defenses slowed the relentless Blitzkrieg to a standstill. With fresh reserves from the east, the Stavka would order a counterattack. The road to Berlin was to begin. The outcome of the Great Patriotic War was now inevitable.\n\n For the successful defense of the station of Dubosekovo, a number of monuments were built in honor of Panfilov’s 28 men who were collectively declared heroes of the Soviet Union. In reality, the story turned out to be fabricated. There were many more men in the fight, and the losses for the 8th\n Guards Rifle Division were much greater. Comrade General Panfilov died two days later, on November 18th."
+msgstr "A Operação Tufão começou com grandes perspectivas para os alemães, mas logo a tenaz resistência soviética tornou cada vez mais difícil avançar. As duras condições do inverno, o desgaste constante do combate e a teimosia das defesas soviéticas reduziram a implacável Blitzkrieg a um impasse. Com reservas frescas do oriente, a Stavka ordenaria um contra-ataque. O caminho até Berlim havia começado. O desfecho da Grande Guerra Patriótica tornara-se inevitável.\n\n Pela defesa bem-sucedida da estação de Dubosekovo, vários monumentos foram erguidos em honra dos 28 homens de Panfilov, declarados coletivamente heróis da União Soviética. Na realidade, descobriu-se que a história era fabricada. Havia muito mais homens no combate, e as baixas da 8ª\n Divisão de Fuzileiros da Guarda foram bem maiores. O General Panfilov morreu dois dias depois, em 18 de novembro."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/outro_failed"
+msgid "Because you were unable to stop the attack, the Germans march on unopposed and will most likely surround Moscow very soon. Our reinforcements from the east will not make it in time to hold Moscow. This will be a huge blow to morale!"
+msgstr "Por não ter conseguido deter o ataque, os alemães avançam sem oposição e provavelmente cercarão Moscou em breve. Nossos reforços do leste não chegarão a tempo de defender Moscou. Este será um golpe devastador para o moral!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/place"
+msgid "1075th Rifle regiment"
+msgstr "1075º Regimento de Fuzileiros"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/scenario"
+msgid "Volokolamsk road. Less than 100 km away from Moscow."
+msgstr "Estrada de Volokolamsk. A menos de 100 km de Moscou."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/skip"
+msgid "Skip preparation stage"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/story"
+msgid "The German forces launch an attack on Volokolamsk during “Operation Typhoon”, in order to circumvent the northern part of the Moscow defense line."
+msgstr "As forças alemãs lançam um ataque a Volokolamsk durante a Operação Tufão, buscando contornar a parte norte da linha de defesa de Moscou."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/task1"
+msgid "Do not let the enemy reach Dubosekovo!"
+msgstr "Não deixe o inimigo chegar a Dubosekovo!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/task_guns"
+msgid "Build dummy guns to bait the enemy artillery fire."
+msgstr "Construa canhões falsos para atrair o fogo de artilharia inimigo."
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/timer"
+msgid "Prepare positions!"
+msgstr "Prepare as posições!"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/timer_village"
+msgid "The Germans have entered the village! Clear it out and don't let them enter again!"
+msgstr "Os alemães entraram na aldeia! Limpe o local e não os deixe entrar novamente!"

@@ -1,0 +1,221 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_saint_lo_hills)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/date"
+msgid "June 10th-16th, 1944 · Hill 192, Normandy, France "
+msgstr "10 a 16 de junho de 1944 · Morro 192, Normandia, França"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/hq"
+msgid "Warnings issued about US troops close to HQ:%1%/3"
+msgstr "Alertas emitidos sobre tropas americanas próximas ao QG: %1%/3"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/lose_hq"
+msgid "The enemy entered the HQ and you failed to have them eliminated after three warnings."
+msgstr "O inimigo entrou no QG e você não os eliminou após três avisos."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/name"
+msgid "The Hills of Saint-Lô"
+msgstr "Os Morros de Saint-Lô"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/name_big"
+msgid "The Hills of Saint-Lô"
+msgstr "Os Morros de Saint-Lô"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/01"
+msgid "Fallschirmjäger! We are deployed here to assist the 352nd Infantry Division in holding the Americans back! We are severely outgunned, but well entrenched."
+msgstr "Fallschirmjäger! Estamos implantados aqui para auxiliar a 352ª Divisão de Infantaria a conter os americanos! Estamos em grande desvantagem de poder de fogo, mas bem entrincheirados."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/02"
+msgid "We will defend this position until the rest of our motorised Kampfgruppe arrives."
+msgstr "Defenderemos esta posição até que o restante do nosso Kampfgruppe motorizado chegue."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/03"
+msgid "Spread out, man the guns and mortars, and lay down obstacles to reinforce our defensive line!"
+msgstr "Espalhem-se, operem os canhões e morteiros, e coloquem obstáculos para reforçar nossa linha defensiva!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/04"
+msgid "The enemy is expected to come from the northern slopes. We need to use the terrain to our advantage!"
+msgstr "Espera-se que o inimigo venha pelas encostas norte. Precisamos usar o terreno a nosso favor!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/05"
+msgid "The hedgerows make it hard for us to see the enemy approaching, but equally allow us to channel the enemy into kill zones."
+msgstr "As sebes do bocage dificultam ver o inimigo se aproximando, mas igualmente nos permitem canalizar o inimigo para zonas de morte."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/06"
+msgid "The enemy has dug out positions on the northern slope, stand your ground and get ready to harrass the enemy on the corner of every hedgerow!"
+msgstr "O inimigo escavou posições na encosta norte — mantenha suas posições e prepare-se para harrassear o inimigo a cada esquina do bocage!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/07"
+msgid "These first enemy squads are probably the scouts. Get ready for some serious attacks!"
+msgstr "Esses primeiros esquadrões inimigos provavelmente são batedores. Prepare-se para ataques sérios!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/08"
+msgid "The enemy artillery ceased fire. I suspect they will use spotters to pinpoint some of our specific positions for bombardment."
+msgstr "A artilharia inimiga cessou fogo. Suspeito que usarão observadores para localizar algumas de nossas posições específicas para bombardeio."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/09"
+msgid "The enemy is intensifying the assault toward the west!"
+msgstr "O inimigo está intensificando o assalto em direção ao oeste!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/10"
+msgid "Attention! Enemy aircraft inbound!"
+msgstr "Atenção! Aeronaves inimigas se aproximando!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/11"
+msgid "Fallschirmjäger! You are doing an excellent job in containing the enemy, but we are struggling to keep up with this massive assault! "
+msgstr "Fallschirmjäger! Você está fazendo um excelente trabalho em conter o inimigo, mas estamos com dificuldade de acompanhar este assalto massivo!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/12"
+msgid "Now that the enemy is giving us some breathing space, I'm ordering you to fall back to our HQ on the other side of the valley. The motorised Kampfgruppe should arrive soon to strengthen our lines there."
+msgstr "Agora que o inimigo nos dá um espaço para respirar, estou ordenando que recuem para nosso QG do outro lado do vale. O Kampfgruppe motorizado deve chegar em breve para reforçar nossas linhas lá."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/13"
+msgid "Our reinforcements are finally here! "
+msgstr "Nossos reforços finalmente chegaram!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/14"
+msgid "Additional reserves, as well as artillery strikes, have been made available to you to make sure the enemy does not take Hill 192."
+msgstr "Reservas adicionais, bem como ataques de artilharia, foram disponibilizados para garantir que o inimigo não tome o Morro 192."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/15"
+msgid "The enemy will try to attack Hill 192 with everything they've got. But this time, the terrain is our advantage; we hold the high ground. They shouldn't even be trying, but these Americans are tenacious as hell!"
+msgstr "O inimigo tentará atacar o Morro 192 com tudo o que tem. Mas desta vez, o terreno é nossa vantagem — detemos o terreno elevado. Nem deveriam tentar, mas esses americanos são tenacíssimos!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/16"
+msgid "Watch out! Americans have managed to flank us on the east!"
+msgstr "Cuidado! Os americanos conseguiram nos flanquear pelo leste!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/17"
+msgid "A brilliantly executed defense, Fallschirmjäger! The Americans will learn to fear you, Green Devils. At this pace, we will soon push them back into the sea!"
+msgstr "Uma defesa brilhantemente executada, Fallschirmjäger! Os americanos aprenderão a temê-los, Diabos Verdes. Neste ritmo, logo os empurraremos de volta para o mar!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/18"
+msgid "The Americans have brought their mobile artillery forward. They will likely try to hit the HQ. Avoid placing your troops around the courtyard, and take the artillery out if you can afford to send a detachment right now."
+msgstr "Os americanos trouxeram sua artilharia móvel para a frente. Provavelmente tentarão atingir o QG. Evite posicionar suas tropas ao redor do pátio, e neutralize a artilharia se puder destacar uma força agora."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/19"
+msgid "A fine display of tactical mastery, taking those artillery pieces out! This is why they call on the Fallschirmjäger; to get the job done!"
+msgstr "Uma excelente demonstração de maestria tática, neutralizando essas peças de artilharia! É por isso que chamam os Fallschirmjäger — para realizar a missão!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/arty"
+msgid "Enemy artillery inbound! Keep your heads down, Fallschirmjäger!"
+msgstr "Artilharia inimiga chegando! Mantenham as cabeças baixas, Fallschirmjäger!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/arty2"
+msgid "Here comes the American artillery again! The Americans really want to flatten these hedgerows! Take cover!"
+msgstr "Aí vem a artilharia americana de novo! Os americanos realmente querem arrasar estas sebes! Cubra-se!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/fail_lastwarning"
+msgid "The Americans are still inside the perimeter of the HQ! This is your last warning! Have them removed or die trying!"
+msgstr "Os americanos ainda estão dentro do perímetro do QG! Este é seu último aviso! Remova-os ou morra tentando!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/fail_warning"
+msgid "Attention! The Americans are inside the HQ perimeter! I want you to take them out within 2 minutes!"
+msgstr "Atenção! Os americanos estão dentro do perímetro do QG! Quero que os elimine em 2 minutos!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/pzfaust"
+msgid "We are very low on AT weaponry, but around the foxholes we have crates with Panzerfausts and other useful tools."
+msgstr "Estamos com pouco armamento AT, mas ao redor dos abrigos individuais há caixas com Panzerfausts e outras ferramentas úteis."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/outro_completed"
+msgid "Excellent work! The enemy has been taught a lesson in adaptability and improvisation. Well done, we will be able to contain the Americans in the beachhead. General Schimpf will be very happy to hear about this. "
+msgstr "Excelente trabalho! O inimigo recebeu uma lição de adaptabilidade e improvisação. Muito bem — conseguiremos conter os americanos na cabeça de ponte. O General Schimpf ficará muito feliz ao saber disso."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/outro_failed"
+msgid "We have failed to hold these hills, and the allies can now walk right into St. Lo! Even though you were facing a very strong enemy, General Schimpf will probably not like the news very much. The Fallschirmjäger are not used to losing battles!"
+msgstr "Falhamos em manter estes morros, e os aliados agora podem marchar direto para St. Lô! Mesmo enfrentando um inimigo muito forte, o General Schimpf provavelmente não vai gostar muito da notícia. Os Fallschirmjäger não estão acostumados a perder batalhas!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/place"
+msgid "3rd Fallschirmjäger Division "
+msgstr "3ª Divisão Fallschirmjäger"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_arty"
+msgid "SfH 18 Artillery Barrage"
+msgstr "Barragem de Artilharia SfH 18"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_squad"
+msgid "Fallschirmjäger"
+msgstr "Fallschirmjäger"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_squad_ammo"
+msgid "Ammo crate"
+msgstr "Caixa de Munição"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_squad_defensive"
+msgid "Fallschirmjäger Recon"
+msgstr "Fallschirmjäger Reconhecimento"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_squad_irregular"
+msgid "Fallschirmjäger Pioniere"
+msgstr "Fallschirmjäger Pioniere"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/reinf_squad_medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/story"
+msgid " June 10th, 1944. “Festung Europa” is under attack. The allied foothold has expanded in the past 4 days, and now the hills around St. Lô are in the front line. The line north of St. Lô must be held at all costs. Your 3rd Fallschirmjäger Division is setting up positions on the hills in front of St. Lô. The hills are perfect for defense; however, we can’t defend the entire region with the available manpower. The enemy is approaching from the north. Our best bet is to dig in at St. Georges d’Elle.\n\n Set up your line making sure the enemy is being funneled into your killing zones and make sure you defend your AT guns against flanking moves by enemy infantry. Reinforcements are on the way, but they will take some time to get here - if they get here at all. Now, it’s time for your baptism of fire.\n\nHals- und Beinbruch!"
+msgstr " 10 de junho de 1944. A Festung Europa está sob ataque. A cabeça de ponte aliada se expandiu nos últimos 4 dias, e agora as colinas em torno de St. Lô estão na linha de frente. A linha ao norte de St. Lô deve ser mantida a todo custo. Sua 3ª Divisão Fallschirmjäger está estabelecendo posições nas colinas diante de St. Lô. As colinas são perfeitas para defesa; no entanto, não podemos defender toda a região com os efetivos disponíveis. O inimigo se aproxima do norte. Nossa melhor aposta é entrincheirar-se em St. Georges d'Elle.\n\n Estabeleça sua linha garantindo que o inimigo seja canalizado para suas zonas de destruição e certifique-se de defender seus canhões AT contra movimentos de flanco da infantaria inimiga. Reforços estão a caminho, mas levarão algum tempo para chegar — se chegarem. Agora é hora do seu batismo de fogo.\n\nHals- und Beinbruch!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/task1"
+msgid "Fortify the defensive line at St-Georges d’Elle."
+msgstr "Fortifique a linha defensiva em St-Georges d'Elle."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/task2"
+msgid "Hold back the Americans and prevent them from breaching the road."
+msgstr "Contenha os americanos e impeça-os de romper a estrada."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/task3"
+msgid "Defend the HQ, prevent the Americans from taking the hill."
+msgstr "Defenda o QG — impeça os americanos de tomar o morro."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/task_opt1"
+msgid "Send a detachment to eliminate the artillery."
+msgstr "Envie um destacamento para eliminar a artilharia."
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/timer1"
+msgid "Prepare for the American attack!"
+msgstr "Prepare-se para o ataque americano!"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/timer2"
+msgid "Next American assault in:"
+msgstr "Próximo assalto americano em:"
+
+msgctxt "mission/single/02-ger-west/1944_06_saint_lo_hills/timer3"
+msgid "Fall back to the HQ and await reinforcements. Time until our reinforcements arrive:"
+msgstr "Recue para o QG e aguarde reforços. Tempo até nossos reforços chegarem:"

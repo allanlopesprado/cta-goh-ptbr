@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (01_inf-control)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/complete"
+msgid "Congratulations, you have finished the first tutorial (basic infantry control)."
+msgstr "Parabéns, você concluiu o primeiro tutorial (controle básico de infantaria)."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/date"
+msgid "June 22nd, 1941 · Border with the USSR"
+msgstr "22 de junho de 1941 · Fronteira com a URSS"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/help"
+msgid "Re-watch steps"
+msgstr "Rever etapas"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/hint"
+msgid "Press this button to re-watch the video for this tutorial phase."
+msgstr "Pressione este botão para rever o vídeo desta fase do tutorial."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/name"
+msgid "Tutorial 1: Infantry Control"
+msgstr "Tutorial 1: Controle de Infantaria"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/name_big"
+msgid "Infantry Control"
+msgstr "Controle de Infantaria"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/00"
+msgid "About time! Park the truck and unload!"
+msgstr "Já passou da hora! Estacione o caminhão e descarregue!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/01"
+msgid "Soldaten! Welcome to the \"Ostfront\"! You are now in the front line. If you want to remain in one piece, you will follow all my orders to the letter!"
+msgstr "Soldaten! Bem-vindos à \"Ostfront\"! Vocês estão agora na linha de frente. Se quiserem sair daqui inteiros, seguirão todas as minhas ordens à risca!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/02"
+msgid "The first thing you need to know as infantrymen, is to ALWAYS seek cover. In the open, you are vulnerable. Cover improves your survivability and your aim. Now, take cover behind the sandbags."
+msgstr "A primeira coisa que vocês precisam saber como soldados de infantaria é SEMPRE buscar cobertura. Em campo aberto, vocês são vulneráveis. A cobertura melhora a sobrevivência e a pontaria de vocês. Agora, abriguem-se atrás dos sacos de areia."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/03"
+msgid "We seem to be clear... MG team 1, stay here. Everyone else, forward, take positions on the stone wall. Los gehts!"
+msgstr "Parece estar limpo... Equipe de MG 1, fiquem aqui. Todos os outros, avançar, assumir posições no muro de pedra. Los gehts!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/04"
+msgid "The Bolsheviks will be coming down that road any minute now. We will ambush them. Soldaten, get ready!"
+msgstr "Os bolcheviques vêm por essa estrada a qualquer momento. Vamos emboscá-los. Soldaten, preparem-se!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/05"
+msgid "Alright, I can see the Ivans! Hold your fire until they're in front of us."
+msgstr "Certo, posso ver os Ivans! Segurem o fogo até que estejam à nossa frente."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/06"
+msgid "Now, give them hell!"
+msgstr "Agora, destruam-nos!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/07"
+msgid "Very good. You have achieved your first kills. The more kills you achieve, the higher your veterancy. You will improve your shooting and survival skills."
+msgstr "Muito bem. Vocês obtiveram suas primeiras baixas. Quanto mais inimigos abaterem, maior será a veterania. Isso melhora as habilidades de tiro e sobrevivência."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/08"
+msgid "Our neighboring squad has found a pocket of resistance up ahead. There is an MG pinning our boys down. We are behind them! I need you to get close and throw a grenade on that MG nest."
+msgstr "A esquadra vizinho encontrou um foco de resistência à frente. Há uma MG imobilizando nossos homens. Estamos atrás deles! Preciso que se aproximem e joguem uma granada naquele ninho de metralhadora."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/09"
+msgid "Well done, men! Finish these Ivans off!"
+msgstr "Muito bem, homens! Acabem com esses Ivans!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/10"
+msgid "Look at that, the Ivans have unwillingly brought us a truck! Go and look if it has any weaponry we can loot!"
+msgstr "Vejam só, os Ivans nos trouxeram um caminhão involuntariamente! Vão ver se há armamento que possamos saquear!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/11"
+msgid "Damn it! There's a soviet tank ambushing us from the other side of the farm! Get behind it and destroy it with the AT grenades that you have acquired."
+msgstr "Droga! Há um tanque soviético nos emboscando do outro lado da fazenda! Contornem-no e destruam-no com as granadas AT que adquiriram."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/12"
+msgid "Good job! Blown to smithereens! Now finish off the remaining infantry!"
+msgstr "Bom trabalho! Destruído completamente! Agora eliminem a infantaria restante!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/13"
+msgid "Enemy armored car coming down the road!"
+msgstr "Carro blindado inimigo vindo pela estrada!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/14"
+msgid "Fortunately, we are prepared for this. Take command of the AT rifleman, and turn that armored car into Swiss cheese!"
+msgstr "Felizmente, estamos preparados para isso. Assuma o comando do atirador AT e transforme aquele blindado em queijo suíço!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/15"
+msgid "Well done, men! You have completed my instructions to the letter. "
+msgstr "Muito bem, soldados! Vocês cumpriram minhas ordens à risca."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/01"
+msgid "Welcome to boot camp, Soldier. In this tutorial, you will learn how to control infantry, the most common and important type of unit on the battlefield."
+msgstr "Bem-vindo ao campo de treinamento, Soldado. Neste tutorial, você aprenderá a controlar a infantaria, o tipo de unidade mais comum e importante no campo de batalha."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/01b"
+msgid "During a cutscene, you cannot control your units. Some cutscenes, like this one, can be skipped. To do so, press the \"continue\" button on the top-right corner."
+msgstr "Durante uma cutscene, você não pode controlar suas unidades. Algumas cutscenes, como esta, podem ser puladas. Para isso, pressione o botão \"continuar\" no canto superior direito."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/02"
+msgid ""
+"To move your soldier, select him and right-click on the destination. A double click will make him sprint until his stamina runs out. If you move your cursor close "
+"to objects, it will prompt the soldier to take cover, previewing a silhouette. Now, make your soldier take cover with the rest of the men."
+msgstr "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua estamina. Se mover o cursor perto de objetos, ele solicitará que o soldado se posicione em cobertura."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/03"
+msgid "Well done. You should always move your troops from one cover to the next. "
+msgstr "Muito bem. Sempre mova suas tropas de uma cobertura para a próxima."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/04"
+msgid ""
+"Approach the MG nest carefully from behind. Move from one bush or cover to the next. A prone soldier will be harder to spot. When the MG nest is taken out, the rest "
+"of the squad will assist you in taking out the remaining Soviets."
+msgstr "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho for eliminado, o restante da esquadra o ajudará a avançar."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/05"
+msgid ""
+"Select your soldier, and press 'X' or click on the 'examine' icon. When you hover over the vehicle, the cursor will change to an eye. Transfer any AT grenades from "
+"the inventory of the truck to your soldier's inventory."
+msgstr "Selecione seu soldado e pressione 'X' ou clique no ícone 'examinar'. Quando passar o cursor sobre o veículo, ele mudará para um olho. Transfira quaisquer granadas antitanque do inventário do caminhão para o inventário do seu soldado."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/06"
+msgid "Infantry can move in any terrain, but vehicles, especially wheeled vehicles, must use roads to travel at maximum speed, which makes them easy to ambush."
+msgstr "A infantaria pode se mover em qualquer terreno, mas veículos, especialmente com rodas, devem usar estradas para se deslocar em velocidade máxima, o que os torna fáceis de emboscar."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/07"
+msgid ""
+"Buildings and other objects block the line of sight of units. You can see the enemy tank because other friendly units are actively fighting it. But no enemy "
+"unit is currently able to see your soldier. Because of this, you can easily flank the enemy tank without being detected."
+msgstr "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/08"
+msgid "You must be aware of your mission objectives. You can always open your mission tasks with the hotkey \"O\"."
+msgstr "Você deve estar ciente dos seus objetivos de missão. Pode sempre abrir as tarefas com a tecla de atalho \"O\"."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/narrator/scene/09"
+msgid ""
+"Quite often, you will need to get rid of remaining enemies to proceed with the next stages of a mission. Keep an eye out for enemies who may be concealed in "
+"the \"fog of war\", for example, hiding in trenches."
+msgstr "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em edifícios ou arbustos."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/outro_completed"
+msgid ""
+"Mission Accomplished!\n\n"
+"Click on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission."
+msgstr "Missão Cumprida!\n\nClique em 'continuar' para continuar jogando esta missão ou clique em 'próxima' para ir diretamente à próxima missão."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/place"
+msgid "Army Group Centre"
+msgstr "Grupo de Exércitos Centro"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/story"
+msgid ""
+"Welcome to boot camp, Soldier.\n\n"
+"In this tutorial, you will learn how to control infantry, the most common and important type of unit in the battlefield.\n\n"
+"                                        Good luck!"
+msgstr "Bem-vindo ao campo de treinamento, Soldado.\n\nNeste tutorial, você aprenderá a controlar a infantaria, o tipo de unidade mais comum e importante no campo de batalha.\n\n                                        Boa sorte!"
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task1"
+msgid "Take cover behind the sandbags."
+msgstr "Abriguem-se atrás dos sacos de areia."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task2"
+msgid "Take cover behind the stone wall."
+msgstr "Abriguem-se atrás do muro de pedra."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task3"
+msgid "Eliminate the Soviet border patrol."
+msgstr "Eliminem a patrulha de fronteira soviética."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task4"
+msgid "Take out the MG nest with a grenade."
+msgstr "Destruam o ninho de metralhadora com uma granada."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task5"
+msgid "Retrieve AT grenades from the Soviet truck."
+msgstr "Recuperem as granadas AT do caminhão soviético."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task6"
+msgid "Destroy the Soviet tank with the AT grenades."
+msgstr "Destruam o tanque soviético com as granadas AT."
+
+msgctxt "mission/single/00-bootcamp/01_inf-control/task7"
+msgid "Eliminate the armored car with the AT rifle."
+msgstr "Eliminem o carro blindado com o fuzil AT."

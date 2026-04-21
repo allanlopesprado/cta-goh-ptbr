@@ -1,0 +1,433 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (editor)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "missioneditor/zone"
+msgid "zone [5]"
+msgstr "zona [5]"
+
+msgctxt "anchormanager/evaluate"
+msgid "Evaluate"
+msgstr "Avaliar"
+
+msgctxt "anchormanager/add"
+msgid "Add"
+msgstr "Adicionar"
+
+msgctxt "missioneditor/waypoint"
+msgid "waypoint [4]"
+msgstr "waypoint [4]"
+
+msgctxt "anchormanager/radius"
+msgid "Radius..."
+msgstr "Raio..."
+
+msgctxt "anchormanager/anchorradius"
+msgid "Enter anchor's radius"
+msgstr "Digite o raio da âncora"
+
+msgctxt "missioneditor/squad"
+msgid "squad [3]"
+msgstr "esquadra [3]"
+
+msgctxt "missioneditor/unload"
+msgid " Unload "
+msgstr " Descarregar "
+
+msgctxt "anchormanager/gridcellsize"
+msgid "Enter anchor's grid cell size"
+msgstr "Digite o tamanho da célula de grade da âncora"
+
+msgctxt "landmanager/terrain"
+msgid "Terrains"
+msgstr "Terrenos"
+
+msgctxt "landmanager/blue"
+msgid "B:"
+msgstr "B:"
+
+msgctxt "anchormanager/seed"
+msgid "Seed..."
+msgstr "Semente..."
+
+msgctxt "anchormanager/show"
+msgid "Show"
+msgstr "Mostrar"
+
+msgctxt "anchormanager/update"
+msgid "Update"
+msgstr "Atualizar"
+
+msgctxt "finddialog/actor"
+msgid "Actor uid:"
+msgstr "UID do Ator:"
+
+msgctxt "landmanager/remove"
+msgid "Remove"
+msgstr "Remover"
+
+msgctxt "landmanager/ocean"
+msgid "Ocean"
+msgstr "Oceano"
+
+#, boost-format
+
+msgctxt "missioneditor/save_mission_exist"
+msgid "Mission '%1%' already exist. Overwrite ?"
+msgstr "Missão '%1%' já existe. Substituir?"
+
+msgctxt "finddialog/entity"
+msgid "Entity id:"
+msgstr "ID da Entidade:"
+
+#, boost-format
+
+msgctxt "mapeditor/save_map"
+msgid "Save map '%1%' as:"
+msgstr "Salvar mapa '%1%' como:"
+
+msgctxt "mapeditor/clip"
+msgid "clip [3]"
+msgstr "corte [3]"
+
+msgctxt "finddialog/find"
+msgid "Find"
+msgstr "Localizar"
+
+msgctxt "mapeditor/land"
+msgid "land [2]"
+msgstr "terreno [2]"
+
+msgctxt "landmanager/fill"
+msgid "Fill"
+msgstr "Preencher"
+
+msgctxt "finddialog/title"
+msgid "Find"
+msgstr "Localizar"
+
+msgctxt "landmanager/add"
+msgid "Add"
+msgstr "Adicionar"
+
+msgctxt "finddialog/waypoint"
+msgid "Waypoint uid:"
+msgstr "UID do Waypoint:"
+
+msgctxt "mapeditor/mesh_group"
+msgid "mesh group [5]"
+msgstr "grupo de malha [5]"
+
+msgctxt "mapeditor/choose"
+msgid "Choose the map"
+msgstr "Escolher o mapa"
+
+msgctxt "landmanager/tesselation"
+msgid "Tesselation"
+msgstr "Tesselação"
+
+msgctxt "landmanager/create"
+msgid "Create"
+msgstr "Criar"
+
+msgctxt "missioneditor/simulate_on"
+msgid " <s(8)c(00ff00)>START "
+msgstr " <s(8)c(00ff00)>INICIAR "
+
+msgctxt "landmanager/green"
+msgid "G:"
+msgstr "G:"
+
+msgctxt "mapeditor/mission_lost"
+msgid "Mission data will be lost. Are you sure ?"
+msgstr "Os dados da missão serão perdidos. Tem certeza?"
+
+msgctxt "mapeditor/entity"
+msgid "entity [1]"
+msgstr "entidade [1]"
+
+msgctxt "mapeditor/game"
+msgid "-GAME-"
+msgstr "-JOGO-"
+
+msgctxt "landmanager/red"
+msgid "R:"
+msgstr "R:"
+
+msgctxt "missioneditor/camera"
+msgid "camera [7]"
+msgstr "câmera [7]"
+
+msgctxt "landmanager/save"
+msgid "Save"
+msgstr "Salvar"
+
+msgctxt "landmanager/sharp"
+msgid "Sharp"
+msgstr "Nítido"
+
+msgctxt "landmanager/soft"
+msgid "Soft"
+msgstr "Suave"
+
+msgctxt "mapeditor/map"
+msgid "MAP : "
+msgstr "MAPA: "
+
+msgctxt "landmanager/color"
+msgid "Colors"
+msgstr "Cores"
+
+#, c-format
+
+msgctxt "zonemanager/zonename_already_used"
+msgid "Zone name '%s' already used"
+msgstr "Nome de zona '%s' já em uso"
+
+msgctxt "landmanager/height"
+msgid "Heights"
+msgstr "Alturas"
+
+msgctxt "mapeditor/saveas"
+msgid "Save As..."
+msgstr "Salvar Como..."
+
+msgctxt "landmanager/polygon"
+msgid "Polygons"
+msgstr "Polígonos"
+
+msgctxt "landmanager/texture"
+msgid "Textures"
+msgstr "Texturas"
+
+#, boost-format
+
+msgctxt "mapeditor/save_map_exist"
+msgid "Map '%1%' already exist. Overwrite ?"
+msgstr "Mapa '%1%' já existe. Substituir?"
+
+msgctxt "landmanager/grass"
+msgid "Grass"
+msgstr "Grama"
+
+msgctxt "mapeditor/edifice"
+msgid "edifice [4]"
+msgstr "edifício [4]"
+
+msgctxt "missioneditor/as"
+msgid "' as:"
+msgstr "' como:"
+
+msgctxt "mapeditor/data_lost"
+msgid "All unsaved data will be lost. Are you sure ?"
+msgstr "Todos os dados não salvos serão perdidos. Tem certeza?"
+
+msgctxt "mapeditor/anchor"
+msgid "anchor"
+msgstr "âncora"
+
+msgctxt "mapeditor/load"
+msgid "Load..."
+msgstr "Carregar..."
+
+msgctxt "mapeditor/reload"
+msgid "Reload"
+msgstr "Recarregar"
+
+msgctxt "missioneditor/game"
+msgid "-GAME-"
+msgstr "-JOGO-"
+
+msgctxt "mapeditor/new"
+msgid "New"
+msgstr "Novo"
+
+msgctxt "mapeditor/checkout"
+msgid "Check Out"
+msgstr "Verificar"
+
+msgctxt "mapeditor/undocheckout"
+msgid "Undo check Out"
+msgstr "Desfazer verificação"
+
+msgctxt "mapeditor/save"
+msgid "Save"
+msgstr "Salvar"
+
+msgctxt "mapeditor/untitled"
+msgid "<<untitled>"
+msgstr "<<sem título>"
+
+msgctxt "missioneditor/view"
+msgid "view [1]"
+msgstr "visualização [1]"
+
+msgctxt "missioneditor/actor"
+msgid "entity [2]"
+msgstr "entidade [2]"
+
+msgctxt "missioneditor/trigger"
+msgid "trigger [6]"
+msgstr "gatilho [6]"
+
+msgctxt "missioneditor/cover"
+msgid "cover [8]"
+msgstr "cobertura [8]"
+
+msgctxt "missioneditor/environment"
+msgid "environment [9]"
+msgstr "ambiente [9]"
+
+msgctxt "missioneditor/choose"
+msgid "Choose the mission"
+msgstr "Escolher a missão"
+
+msgctxt "missioneditor/exit"
+msgid " Exit "
+msgstr " Sair "
+
+msgctxt "missioneditor/load"
+msgid " Load... "
+msgstr " Carregar... "
+
+msgctxt "missioneditor/mission"
+msgid " MISSION : "
+msgstr " MISSÃO: "
+
+msgctxt "missioneditor/no_script"
+msgid "no script"
+msgstr "sem script"
+
+msgctxt "missioneditor/path"
+msgid "path"
+msgstr "caminho"
+
+msgctxt "missioneditor/player"
+msgid "player"
+msgstr "jogador"
+
+msgctxt "missioneditor/reload"
+msgid " Reload "
+msgstr " Recarregar "
+
+msgctxt "missioneditor/checkout"
+msgid "Check Out"
+msgstr "Verificar"
+
+msgctxt "missioneditor/undocheckout"
+msgid "Undo check Out"
+msgstr "Desfazer verificação"
+
+msgctxt "missioneditor/save"
+msgid " Save "
+msgstr " Salvar "
+
+msgctxt "missioneditor/save_mission"
+msgid "Save mission '"
+msgstr "Salvar missão '"
+
+msgctxt "inventorybrowser/ammo"
+msgid "ammo"
+msgstr "munição"
+
+msgctxt "missioneditor/saveas"
+msgid " Save As... "
+msgstr " Salvar Como... "
+
+msgctxt "missioneditor/script_name"
+msgid "Script name: "
+msgstr "Nome do script: "
+
+msgctxt "zonemanager/globalwpangle"
+msgid "Angle:"
+msgstr "Ângulo:"
+
+msgctxt "missioneditor/simulate_off"
+msgid " <s(8)c(00ffff)>FINISH "
+msgstr " <s(8)c(00ffff)>CONCLUIR "
+
+msgctxt "missioneditor/untitled"
+msgid "<<untitled>"
+msgstr "<<sem título>"
+
+msgctxt "missioneditor/confirm_globals_reload"
+msgid "Global options were changed. Reload now to apply changes?"
+msgstr "Opções globais foram alteradas. Recarregar para aplicar?"
+
+msgctxt "scenecommon/finish"
+msgid "FINISH"
+msgstr "CONCLUIR"
+
+msgctxt "scenecommon/simulate"
+msgid "SIMULATE"
+msgstr "SIMULAR"
+
+msgctxt "tagdialog/add"
+msgid "Add"
+msgstr "Adicionar"
+
+msgctxt "tagdialog/remove"
+msgid "Remove"
+msgstr "Remover"
+
+msgctxt "tagdialog/tags"
+msgid "Tags of selection"
+msgstr "Tags da seleção"
+
+msgctxt "zonemanager/add"
+msgid "Add"
+msgstr "Adicionar"
+
+msgctxt "zonemanager/current"
+msgid "Current:"
+msgstr "Atual:"
+
+msgctxt "zonemanager/delete"
+msgid "Delete"
+msgstr "Excluir"
+
+msgctxt "zonemanager/enter_zone"
+msgid "Enter zone name"
+msgstr "Digite o nome da zona"
+
+msgctxt "zonemanager/globalwplocation"
+msgid "Direct:"
+msgstr "Direto:"
+
+msgctxt "zonemanager/globalwpname"
+msgid "Name:"
+msgstr "Nome:"
+
+msgctxt "zonemanager/newcircle"
+msgid "New Circle"
+msgstr "Novo Círculo"
+
+msgctxt "zonemanager/newpoly"
+msgid "New Poly"
+msgstr "Novo Polígono"
+
+msgctxt "zonemanager/points"
+msgid "Points:"
+msgstr "Pontos:"
+
+msgctxt "zonemanager/radius"
+msgid "Radius:"
+msgstr "Raio:"
+
+msgctxt "inventorybrowser/all"
+msgid "all stuff"
+msgstr "tudo"
+
+msgctxt "inventorybrowser/weapon"
+msgid "weapon"
+msgstr "arma"

@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/squad/squad_rifle_late_dp_con(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad (DP) [Late]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles (DP) [Tardio]"
+
+msgctxt "desc/squad/squad_rifle_late_dt_con(fin)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad (DT) [Late]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles (DT) [Tardio]"
+
+msgctxt "desc/squad/squad_eng_flame_con(fin)"
+msgid "<c(A5A095)>(2)</c> Engineer Flamer Squad"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Engenheiros Lança-chamas"
+
+msgctxt "desc/squad/squad_antitank_late_con(fin)"
+msgid "<c(A5A095)>(2)</c> Anti-tank Squad"
+msgstr "<c(A5A095)>(2)</c> Esquadra Antitanque"
+
+msgctxt "desc/squad/squad_vet_scout_mid_con(fin)"
+msgid "<c(A5A095)>(2+)</c> Veteran Scout Section"
+msgstr "<c(A5A095)>(2+)</c> Seção de Exploradores Veterana"
+
+msgctxt "desc/squad/squad_vet_rifle_mid_con(fin)"
+msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+
+msgctxt "desc/squad/squad_vet_rifle_late_con(fin)"
+msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad [Late]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana [Tardio]"
+
+msgctxt "desc/squad/squad_marksmen_mid_con(fin)"
+msgid "<c(A5A095)>(2+)</c> Veteran Marksmen Squad"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Atiradores de Precisão Veteranos"
+
+msgctxt "desc/squad/squad_cav_mid_con(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Cavalaria"
+
+msgctxt "desc/squad/squad_cav_late_con(fin)"
+msgid "<c(A5A095)>(3)</c> Cavalry Squad [Late]"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Cavalaria [Tardio]"
+
+msgctxt "desc/squad/squad_vet_cav_mid_con(fin)"
+msgid "<c(A5A095)>(3+)</c> Veteran Cavalry Squad"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Cavalaria Veterana"
+
+msgctxt "desc/squad/squad_vet_cav_late_con(fin)"
+msgid "<c(A5A095)>(3+)</c> Veteran Cavalry Squad [Late]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Cavalaria Veterana [Tardio]"
+
+msgctxt "desc/squad/squad_elite_rifle_mid_con(fin)"
+msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite"
+
+msgctxt "desc/squad/squad_elite_rifle_late_con(fin)"
+msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad [Late]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite [Tardio]"
+
+msgctxt "desc/squad/squad_jag_scout_late_con(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Scout Section"
+msgstr "<c(A5A095)>(4)</c> Seção de Reconhecimento Jäger"
+
+msgctxt "desc/squad/squad_jag_late_con(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger Squad [Late]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Jäger [Tardio]"
+
+msgctxt "desc/squad/squad_jag_at_late_con(fin)"
+msgid "<c(A5A095)>(4)</c> Jäger AT Squad [Late]"
+msgstr "<c(A5A095)>(4)</c> Esquadra AT Jäger [Tardio]"
+
+msgctxt "desc/squad/squad_border_jag_late_con(fin)"
+msgid "<c(A5A095)>(4)</c> Border Jäger Squad [Late]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Border Jäger [Tardio]"
+
+msgctxt "desc/squad/squad_border_jag_at_late_con(fin)"
+msgid "<c(A5A095)>(4)</c> Border Jäger AT Squad [Late]"
+msgstr "<c(A5A095)>(4)</c> Esquadra AT Border Jäger [Tardio]"
+
+msgctxt "desc/squad/squad_vet_jag_mid_con(fin)"
+msgid "<c(A5A095)>(4+)</c> Veteran Jäger Squad"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger Veterana"
+
+msgctxt "desc/squad/squad_vet_jag_late_con(fin)"
+msgid "<c(A5A095)>(4+)</c> Veteran Jäger Squad [Late]"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger Veterana [Tardio]"

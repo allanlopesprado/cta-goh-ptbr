@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "mission/multi/1v1_fall_gelb_sum/name"
+msgid "Fall Gelb <c(7e5be4)>[Finest Hour]"
+msgstr "Fall Gelb <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/1v1_oosterbeek_sum/name"
+msgid "Oosterbeek <c(7e5be4)>[Finest Hour]"
+msgstr "Oosterbeek <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/1v1_solingen_factory_aut/name"
+msgid "Solingen Factory <c(7e5be4)>[Finest Hour]"
+msgstr "Fábrica de Solingen <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/1v1_weteringsteeg/name"
+msgid "Weteringsteeg <c(7e5be4)>[Finest Hour]"
+msgstr "Weteringsteeg <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/2v2_dunkirk_dunes_sum/name"
+msgid "Dunkirk Dunes <c(7e5be4)>[Finest Hour]"
+msgstr "Dunas de Dunquerque <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/2v2_grave_sum/name"
+msgid "Grave <c(7e5be4)>[Finest Hour]"
+msgstr "Grave <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/2v2_heelsum_sum/name"
+msgid "Heelsum <c(7e5be4)>[Finest Hour]"
+msgstr "Heelsum <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/2v2_wesel_aut/name"
+msgid "Wesel <c(7e5be4)>[Finest Hour]"
+msgstr "Wesel <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/3v3_canals_sum/name"
+msgid "Canals <c(7e5be4)>[Finest Hour]"
+msgstr "Canais <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/3v3_hamminkeln_aut/name"
+msgid "Hamminkeln <c(7e5be4)>[Finest Hour]"
+msgstr "Hamminkeln <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/3v3_mont_cassel/name"
+msgid "Mont Cassel <c(7e5be4)>[Finest Hour]"
+msgstr "Mont Cassel <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/3v3_zeeland_sum/name"
+msgid "Zeeland <c(7e5be4)>[Finest Hour]"
+msgstr "Zeeland <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/4v4_arras_countryside_sum/name"
+msgid "Arras Countryside <c(7e5be4)>[Finest Hour]"
+msgstr "Interior de Arras <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/4v4_eindhoven/name"
+msgid "Eindhoven <c(7e5be4)>[Finest Hour]"
+msgstr "Eindhoven <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/4v4_remagen_aut/name"
+msgid "Remagen <c(7e5be4)>[Finest Hour]"
+msgstr "Remagen <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/4v4_vlissingen_breach/name"
+msgid "Vlissingen Breach <c(7e5be4)>[Finest Hour]"
+msgstr "Brecha de Vlissingen <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/dcg_anctoville_sum/name"
+msgid "Anctoville"
+msgstr "Anctoville"
+
+msgctxt "mission/multi/dcg_bergen_radar/name"
+msgid "Bergen Radar"
+msgstr "Radar de Bergen"
+
+msgctxt "mission/multi/dcg_bretteville_sur_odon/name"
+msgid "Bretteville-sur-Odon"
+msgstr "Bretteville-sur-Odon"
+
+msgctxt "mission/multi/dcg_broukerque_sum/name"
+msgid "Broukerque"
+msgstr "Broukerque"
+
+msgctxt "mission/multi/dcg_caen_sum/name"
+msgid "Caen"
+msgstr "Caen"
+
+msgctxt "mission/multi/dcg_canals_sum/name"
+msgid "Canals"
+msgstr "Canais"
+
+msgctxt "mission/multi/dcg_carpiquet_sum/name"
+msgid "Carpiquet"
+msgstr "Carpiquet"
+
+msgctxt "mission/multi/dcg_dunkirk_sum/name"
+msgid "Dunkirk"
+msgstr "Dunquerque"
+
+msgctxt "mission/multi/dcg_dyle_sum/name"
+msgid "Dyle"
+msgstr "Dyle"
+
+msgctxt "mission/multi/dcg_elden_landings/name"
+msgid "Elden Landings"
+msgstr "Desembarques de Elden"
+
+msgctxt "mission/multi/dcg_flanders_fields_sum/name"
+msgid "Flanders Fields"
+msgstr "Campos de Flandres"
+
+msgctxt "mission/multi/dcg_hamburg_aut/name"
+msgid "Hamburg"
+msgstr "Hamburg"
+
+msgctxt "mission/multi/dcg_hazebrouck/name"
+msgid "Hazebrouck"
+msgstr "Hazebrouck"
+
+msgctxt "mission/multi/dcg_middenhof/name"
+msgid "Middenhof"
+msgstr "Middenhof"
+
+msgctxt "mission/multi/dcg_nord_battery/name"
+msgid "Nord Battery"
+msgstr "Bateria Nord"
+
+msgctxt "mission/multi/dcg_oberhundem_aut/name"
+msgid "Oberhundem"
+msgstr "Oberhundem"
+
+msgctxt "mission/multi/dcg_oostkapelle/name"
+msgid "Oostkapelle"
+msgstr "Oostkapelle"
+
+msgctxt "mission/multi/dcg_rethem_station_aut/name"
+msgid "Rethem Station"
+msgstr "Estação Rethem"
+
+msgctxt "mission/multi/dcg_ruhr_factory_aut/name"
+msgid "Ruhr Factory"
+msgstr "Fábrica do Ruhr"
+
+msgctxt "mission/multi/dcg_siegfried_aut/name"
+msgid "Siegfried"
+msgstr "Siegfried"
+
+msgctxt "mission/multi/dcg_valkenburg_airfield/name"
+msgid "Valkenburg Airfield"
+msgstr "Aeródromo de Valkenburg"
+
+msgctxt "mission/multi/dcg_villers_bocage_sum/name"
+msgid "Villers Bocage"
+msgstr "Villers Bocage"
+
+msgctxt "mission/multi/dcg_vlissingen_breach_aut/name"
+msgid "Vlissingen Breach"
+msgstr "Brecha de Vlissingen"
+
+msgctxt "mission/multi/dcg_westkapelle_aut/name"
+msgid "Westkapelle"
+msgstr "Westkapelle"
+
+msgctxt "mission/multi/dcg_zeeland_sum/name"
+msgid "Zeeland"
+msgstr "Zeeland"
+
+msgctxt "mission/multi/0_frontlines/1v1_reichswald_aut/name"
+msgid "Reichswald <c(7e5be4)>[Finest Hour]"
+msgstr "Reichswald <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/0_frontlines/2v2_blitzkrieg/name"
+msgid "Blitzkrieg <c(7e5be4)>[Finest Hour]"
+msgstr "Blitzkrieg <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/0_frontlines/3v3_hells_highway/name"
+msgid "Hell's Highway <c(7e5be4)>[Finest Hour]"
+msgstr "Estrada do Inferno <c(7e5be4)>[Finest Hour]"
+
+msgctxt "mission/multi/0_frontlines/4v4_goodwood/name"
+msgid "Goodwood <c(7e5be4)>[Finest Hour]"
+msgstr "Goodwood <c(7e5be4)>[Finest Hour]"

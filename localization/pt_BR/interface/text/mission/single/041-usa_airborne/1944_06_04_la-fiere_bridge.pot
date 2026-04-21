@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_04_la-fiere_bridge)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies01"
+msgid "Bazooka team, awaiting orders!"
+msgstr "Equipe de bazuca, aguardando ordens!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies02"
+msgid "Sniper team, ready for action!"
+msgstr "Equipe de atiradores, pronta para ação!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/date"
+msgid "June 6th, 1944 · La Fière, Normandy, France."
+msgstr "6 de junho de 1944 · La Fière, Normandia, França."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/name"
+msgid "Stand at La Fière"
+msgstr "A Batalha de La Fière"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/name_big"
+msgid "Stand at La Fière"
+msgstr "A Batalha de La Fière"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator01"
+msgid "The Germans have flooded the fields around the Merderet river because they anticipated the invasion..."
+msgstr "Os alemães inundaram os campos ao redor do rio Merderet porque anteciparam a invasão..."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator02"
+msgid "We need to secure the bridge to prevent German reserves from counterattacking Sainte-Mere-Eglise or reinforcing the Utah Beach defenses!"
+msgstr "Precisamos assegurar a ponte para impedir que reservas alemãs contra-ataquem Sainte-Mère-Église ou reforcem as defesas da Praia Utah!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator03"
+msgid "There is a small garrison in a nearby manor. We need to capture the manor to secure and hold the bridge."
+msgstr "Há uma pequena guarnição numa mansão próxima. Precisamos capturar a mansão para assegurar e manter a ponte."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator04"
+msgid "There's no time to waste! Let's push the Germans out of there!"
+msgstr "Não há tempo a perder! Vamos expulsar os alemães de lá!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator05"
+msgid "We cleared out the Krauts! Search for additional equipment and prepare for the inevitable counterattack. This bridge is as important to them as it is to us."
+msgstr "Limpamos os alemães! Procure equipamentos adicionais e prepare-se para o inevitável contra-ataque. Esta ponte é tão importante para eles quanto para nós."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator06"
+msgid "Jerry left some explosives in this crate. Let's mine the approach to the bridge with anti-tank mines."
+msgstr "O Jerry deixou alguns explosivos nesta caixa. Vamos minar a aproximação da ponte com minas antitanque."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator07"
+msgid "Jerry has the frontal approaches covered. Let's push farther south along the path and hit them from the flank!"
+msgstr "O Jerry tem as abordagens frontais cobertas. Vamos avançar mais ao sul pelo caminho e atacá-los pelo flanco!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator08"
+msgid "We now have a 57mm AT-Gun. Let's position it with a good view of the road."
+msgstr "Temos agora um canhão AT de 57mm. Vamos posicioná-lo com boa visão da estrada."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator09"
+msgid "A medic team is at your disposal!"
+msgstr "Uma equipe médica está à sua disposição!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator10"
+msgid "Search the boxes and vehicles around the manor. Gather as much ammo and weapons as you can find!"
+msgstr "Procure nas caixas e veículos ao redor da mansão. Reúna o máximo de munição e armas que encontrar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator11"
+msgid "Here they come!"
+msgstr "Lá vêm eles!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator12"
+msgid "Enemy artillery incoming! Take cover!"
+msgstr "Artilharia inimiga chegando! Cubra-se!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator13"
+msgid "They've got us zeroed! Spread it out!"
+msgstr "Eles nos têm como alvo! Espalhem!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator14"
+msgid "They're retreating!"
+msgstr "Eles estão recuando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator15"
+msgid "There's something wrong with the AT-gun's breech. Don't fire it too much, or it'll break!"
+msgstr "Há algo errado com o obturador do canhão AT. Não atire demais, ou vai quebrar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier01"
+msgid "Shit! The AT gun's breech broke! Someone grab a repair kit!"
+msgstr "Merda! O obturador do canhão AT quebrou! Alguém pegue um kit de reparo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier02"
+msgid "The AT-gun patched up! We're back in business!"
+msgstr "O canhão AT foi reparado! Estamos de volta!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator18"
+msgid "We need to defend both the manor and the bridge! Hold the line!"
+msgstr "Precisamos defender tanto a mansão quanto a ponte! Segurem a linha!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret"
+msgid "He's not going anywhere!"
+msgstr "Ele não vai a lugar nenhum!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2"
+msgid "Look what we found, Jerry’s radio! Time to call for some backup!"
+msgstr "Olhem o que encontramos, o rádio do Jerry! Hora de pedir alguns reforços!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2a"
+msgid "About time you showed up! We’re in the thick of it!"
+msgstr "Já estava na hora de vocês aparecerem! Estamos no meio da batalha!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret_spot"
+msgid "Hey! A bike messenger is making a break for it! Stop him before he can alert another German garrison!"
+msgstr "Ei! Um mensageiro de bicicleta está fugindo! Parem-no antes que possa alertar outra guarnição alemã!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/outro_completed"
+msgid "Excellent work! We have successfully secured one of the most important bridges in the area. This position will allow us to build a strong defensive line against any possible German counterattack from the west."
+msgstr "Excelente trabalho! Asseguramos com sucesso uma das pontes mais importantes da área. Esta posição nos permitirá construir uma forte linha defensiva contra qualquer possível contra-ataque alemão pelo oeste."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/outro_failed"
+msgid "We've lost control of the bridge! With the causeway open, the Germans can advance toward St Mere-Eglise and threaten the invasion. You must try again!"
+msgstr "Perdemos o controle da ponte! Com a passagem aberta, os alemães podem avançar em direção a St. Mère-Église e ameaçar a invasão. Tente novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr "82ª Divisão Aerotransportada \"All American\""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/secret_objective1_hidden"
+msgid "(Secret objective #1)"
+msgstr "(Objetivo Secreto nº 1)"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/secret_objective2_hidden"
+msgid "(Secret objective #2)"
+msgstr "(Objetivo Secreto nº 2)"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/story"
+msgid "  Daybreak on D-Day. The 82nd Airborne is on the ground in Normandy. Not everything went right; the cloud base over the drop zone and the German Flak was dense. You have spent hours of darkness trying to find your comrades, and after a short headcount, it’s clear that this will be one hell of a day.\n\n  Your group is tasked to take the bridge at La Fière and hold it until the US Army arrives from Utah Beach. \n\n  Your task is vital; once you take the bridge, the enemy can no longer approach St. Mère-Église from the west, or reach the roads to the invasion beaches.\n\n Good luck!"
+msgstr "  Amanhecer do Dia D. A 82ª Aerotransportada está em solo na Normandia. Nem tudo correu bem; a base das nuvens sobre a zona de lançamento e a Flak alemã eram densas. Você passou horas na escuridão tentando encontrar seus camaradas e, após uma rápida contagem, está claro que este será um dia e tanto.\n\n  Seu grupo tem a missão de tomar a ponte em La Fière e segurá-la até que o Exército dos EUA chegue da Praia Utah.\n\n  Sua missão é vital; uma vez que você tome a ponte, o inimigo não poderá mais se aproximar de St. Mère-Église pelo oeste, nem alcançar as estradas para as praias de invasão.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task1"
+msgid "Capture the manor and secure the bridge!"
+msgstr "Capture a mansão e assegure a ponte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task2"
+msgid "Prepare for a counterattack."
+msgstr "Prepare-se para um contra-ataque."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task3"
+msgid "Defend the bridge and the manor!"
+msgstr "Defenda a ponte e a mansão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secondary1"
+msgid "Place at least four anti-tank mines on the road."
+msgstr "Coloque pelo menos quatro minas antitanque na estrada."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secret1"
+msgid "(Secret objective) Stop the enemy soldier on a bike before he alarms a nearby garrison."
+msgstr "(Objetivo Secreto) Pare o soldado inimigo de bicicleta antes que ele alarme uma guarnição próxima."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secret2"
+msgid "(Secret objective) Use the radio to call in reinforcements."
+msgstr "(Objetivo Secreto) Use o rádio para chamar reforços."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/timer1"
+msgid "Time before the German counterattack:"
+msgstr "Tempo antes do contra-ataque alemão:"

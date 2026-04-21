@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_08_skirmish_falaise_pocket)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/name"
+msgid "Falaise Pocket [SKIRMISH]"
+msgstr "Bolsão de Falaise [ESCARAMUÇA]"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/name_big"
+msgid "Falaise Pocket"
+msgstr "Bolsão de Falaise"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/story"
+msgid "The Third Army advance from the south made good progress - Close the pocket.\n\nSoldiers of the 3rd Armored Division! You have a historical opportunity ahead. We can close the pocket around the main German force!\n\nGoals:\n - Advance North to close the pocket.\n - Annihilate the enemy."
+msgstr "O avanço do Terceiro Exército pelo sul progrediu bem — feche o bolsão.\n\nSoldados da 3ª Divisão Blindada! Vocês têm uma oportunidade histórica à frente. Podemos fechar o bolsão ao redor da principal força alemã!\n\nObjetivos:\n - Avançar para o norte para fechar o bolsão.\n - Aniquilar o inimigo."
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/place"
+msgid "Falaise, Calvados"
+msgstr "Falaise, Calvados"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/date"
+msgid "17 August, 1944"
+msgstr "17 de agosto de 1944"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/outro_completed"
+msgid "Well done! This will go down in history as one of those really important victories. You did very well."
+msgstr "Muito bem! Isso ficará na história como uma das vitórias verdadeiramente importantes. Você se saiu muito bem."
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/outro_failed"
+msgid "Well that failed. We can't let this happen, go back and try again!"
+msgstr "Bom, isso falhou. Não podemos deixar isso acontecer — volte e tente de novo!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/outro_failed_hq"
+msgid "We lost our HQ. That spells the end."
+msgstr "Perdemos nosso QG. Isso significa o fim."
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/mission_attack"
+msgid "Punch a hole in the enemy position and drive north!"
+msgstr "Abra uma brecha na posição inimiga e avance para o norte!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/narrator_start0"
+msgid "Welcome back to the front line, Lieutenant! This is your field HQ, make sure to keep it under your control!"
+msgstr "Bem-vindo de volta à linha de frente, Tenente! Este é seu QG de campo — certifique-se de mantê-lo sob seu controle!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/narrator_start1"
+msgid "Gentlemen, there is no choice but to attack immediately. Orders from HQ were quite clear, we can't afford to postpone the attack!"
+msgstr "Senhores — não há outra escolha senão atacar imediatamente. As ordens do QG foram bastante claras; não podemos adiar o ataque!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/narrator_start2"
+msgid "The germans will not expect us to attack from this direction, hopefully. Let's get them!"
+msgstr "Os alemães não esperarão que ataquemos por esta direção — esperemos. Vamos pegá-los!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/narrator_start3"
+msgid "Begin the attack, meanwhile more reinforcements are being prepared for you!"
+msgstr "Inicie o ataque — enquanto isso mais reforços estão sendo preparados para você!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/allied_enemy_near_hq"
+msgid "Attention, Germans are approaching our Field HQ!"
+msgstr "Atenção — alemães se aproximando de nosso QG de campo!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr "Avião inimigo!!!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/allied_enemy_plane2"
+msgid "German aircraft inbound!"
+msgstr "Aeronave alemã se aproximando!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/player_enemy_near_hq"
+msgid "We must hold the command post at all costs! There is no room for retreat!"
+msgstr "Devemos segurar o posto de comando a todo custo! Não há espaço para recuo!"
+
+msgctxt "mission/single/04-usa/1944_08_skirmish_falaise_pocket/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr "Major! Agora você pode solicitar um ataque aéreo."

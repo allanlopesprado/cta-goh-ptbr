@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1940_02-fin_honkaniemi)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/name"
+msgid "Honkaniemi"
+msgstr "Honkaniemi"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/name_big"
+msgid "Honkaniemi"
+msgstr "Honkaniemi"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/story"
+msgid " Winter war, the attack on Honkaniemi. It's a pity some of our tanks broke down on the way here, but we will counterattack anyway. The enemy breakthrough is a threat, and we have to attack now!\n\nGoal:\n - Take the village of Honkaniemi.\n - Close the salient."
+msgstr " Guerra de Inverno, o ataque a Honkaniemi. É uma pena que alguns de nossos tanques tenham quebrado no caminho, mas contra-atacaremos assim mesmo. O avanço inimigo é uma ameaça, e temos de atacar agora!\n\nObjetivo:\n - Tome a aldeia de Honkaniemi.\n - Feche o saliente."
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/place"
+msgid "Honkaniemi"
+msgstr "Honkaniemi"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/date"
+msgid "26 february, 1940"
+msgstr "26 de fevereiro de 1940"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/outro_completed"
+msgid "Well done! The threat has been eliminated, Honkaniemi is ours once more!"
+msgstr "Muito bem! A ameaça foi eliminada, Honkaniemi é novamente nossa!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/outro_failed"
+msgid "This defeat is hard to take. We have to regroup and try again!"
+msgstr "Esta derrota é difícil de aceitar. Temos de nos reagrupar e tentar novamente!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/outro_failed_hq"
+msgid "Mission failed! - Enemy captured your HQ!"
+msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_attack"
+msgid "Capture the village!"
+msgstr "Capture a aldeia!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/flag_capture_status"
+msgid "Your soldiers secured %1%/7 Soviet positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições soviéticas!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/narrator_start0"
+msgid "Welcome to Karelia, Major! This is our field HQ. It has to remain ours at all times!"
+msgstr "Bem-vindo à Carélia, Major! Este é o nosso QG de campo. Deve permanecer conosco o tempo todo!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/narrator_start1"
+msgid "Comrade, you are in command of this counterattack. Attack the enemy defenses and take the village!"
+msgstr "Camarada, você está no comando deste contra-ataque. Ataque as defesas inimigas e tome a aldeia!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/narrator_start2"
+msgid "The Soviets may have strong anti-tank defenses. Make sure you destroy all AT positions!"
+msgstr "Os soviéticos podem ter fortes defesas antitanque. Certifique-se de destruir todas as posições AT!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/narrator_start3"
+msgid "Begin securing the objectives, while we bring forward some reinforcements for you to deploy!"
+msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você implantar!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/allied_enemy_near_hq"
+msgid "Asetoverit! Soviets are close to our Field HQ!"
+msgstr "Asetoverit! Os soviéticos estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/player_enemy_near_hq"
+msgid "We must hold the command post! There can be no talk of retreat here!"
+msgstr "Devemos manter nosso posto de comando! Nada de falar em retirada aqui!"
+
+msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/hq_bonus"
+msgid "Major! Now you can request airstrikes."
+msgstr "Major! Agora você pode solicitar ataques aéreos."

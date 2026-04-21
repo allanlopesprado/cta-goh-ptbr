@@ -1,0 +1,197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_05_carentan)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/date"
+msgid "June 12th, 1944 · Carentan, Normandy, France."
+msgstr "12 de junho de 1944 · Carentan, Normandia, França."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/lose_winters"
+msgid "Lt. Winters is dead!"
+msgstr "O Ten. Winters está morto!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/name"
+msgid "The Eagles and the Devils"
+msgstr "As Águias e os Diabos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/name_big"
+msgid "The Eagles and the Devils"
+msgstr "As Águias e os Diabos"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator02"
+msgid "Move men! Get out of the ditch! Go!"
+msgstr "Movam-se, homens! Saiam da vala! Vamos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator03"
+msgid "The crossroads are secure! Move north along the road to the center of town. Let's move out!"
+msgstr "O cruzamento está seguro! Movam ao norte pela estrada até o centro da cidade. Vamos partir!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator04"
+msgid "We've got no cover here! Move! Move!"
+msgstr "Não temos cobertura aqui! Movam! Movam!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator05"
+msgid "We need to hit those mortars fast, or they'll rip us apart!"
+msgstr "Precisamos atacar esses morteiros rapidamente, ou eles nos destroçarão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator06"
+msgid "Look alive! A fresh squad here to join the fight."
+msgstr "Atenção! Uma esquadra fresca aqui para se juntar à luta."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator07"
+msgid "Left flank is clear!"
+msgstr "Flanco esquerdo limpo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator08"
+msgid "Gardens on the right are secure!"
+msgstr "Jardins à direita estão seguros!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator09"
+msgid "We have managed to clear everything south of this railway! We've observed enemy movement in the town, they appear to be preparing to counterattack."
+msgstr "Conseguimos limpar tudo ao sul desta ferrovia! Observamos movimento inimigo na cidade, eles parecem estar se preparando para contra-atacar."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator10"
+msgid "Our Weapons Platoon has caught up to us. Get them set in and prepare to defend our position."
+msgstr "Nosso Pelotão de Armas nos alcançou. Posicionem-os e preparem-se para defender nossa posição."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator11"
+msgid "Enemy mortars! Take cover!"
+msgstr "Morteiros inimigos! Cubra-se!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator13"
+msgid "Friendly glider troops coming from the North-West!"
+msgstr "Tropas aliadas de planador chegando pelo noroeste!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator14"
+msgid "Kraut Halftrack!"
+msgstr "Meia-lagarta alemão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator15"
+msgid "Go, go, go!"
+msgstr "Vai, vai, vai!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator17"
+msgid "Be careful with that, Trooper!"
+msgstr "Cuidado com isso, Soldado!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator18"
+msgid "We've got orders to set up defenses on the high ground to the west of town. We're not going to wait around here for another counterattack."
+msgstr "Temos ordens de estabelecer defesas no terreno elevado a oeste da cidade. Não vamos ficar aqui esperando outro contra-ataque."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator19"
+msgid "Well you just take it easy, Lip. We'll get you out of here and back to England."
+msgstr "Pode descansar, Lip. Vamos tirá-lo daqui e de volta à Inglaterra."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_lipton01"
+msgid "Don't worry about me, Sir. I'll be back before long."
+msgstr "Não se preocupe comigo, Senhor. Estarei de volta em breve."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier01"
+msgid "It seems quiet, Sir."
+msgstr "Parece quieto, Senhor."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier02"
+msgid "Look, Sir! They're pulling back!"
+msgstr "Olhe, Senhor! Eles estão recuando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier03"
+msgid "Jerry is retreating again!"
+msgstr "O Jerry está recuando de novo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier04"
+msgid "Those Krauts have had enough!"
+msgstr "Aqueles alemães já chegaram ao limite!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier05"
+msgid "Hey, check this out! Jerry was too busy runnin’ to take this with ‘em!"
+msgstr "Ei, olha isso! O Jerry estava ocupado demais correndo para levar isso!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier06"
+msgid "This area of town is secure! What do we have planned next, Sir?"
+msgstr "Esta área da cidade está segura! O que temos planejado a seguir, Senhor?"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier07"
+msgid "Take cover! Enemy machine gun!"
+msgstr "Cubra-se! Metralhadora inimiga!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/outro_completed"
+msgid "Well done! With Carentan secured, our forces at Omaha and Utah are now linked. With this continuous beachhead, our forces can break out and take control of the Cotentin peninsula."
+msgstr "Bem feito! Com Carentan assegurada, nossas forças em Omaha e Utah estão agora ligadas. Com esta cabeça de praia contínua, nossas forças podem avançar e tomar controle da península Cotentin."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/outro_failed"
+msgid "We failed! Carentan remains in German hands, preventing our forces on Utah and Omaha beaches from linking up. You must try again!"
+msgstr "Falhamos! Carentan permanece nas mãos alemãs, impedindo nossas forças nas praias Utah e Omaha de se ligarem. Tente novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/situation1"
+msgid "D-Day +6, 06:00h"
+msgstr "Dia D +6, 06h00"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/story"
+msgid "  It's been almost a week since you parachuted into France, and it’s been one hell of a week. The Germans are not ready to give up Normandy, and several fierce counterattacks have proven that this battle is far from over.\n\n  It’s clear that whoever holds Carentan, holds the key to the Cotentin peninsula. If the 101st takes Carentan, our Utah and Omaha Beach forces can unite to form a continuous front.\n\n  Your regiment, the 506th PIR, will approach Carentan from the south. Your orders are to take the Carentan railway station. In support of your push, the 401st Glider Infantry Regiment will attack from the opposite side of town.\n\n Good luck!"
+msgstr "  Já se passou quase uma semana desde que você saltou de paraquedas na França, e foi uma semana e tanto. Os alemães não estão prontos para abandonar a Normandia, e vários contra-ataques ferozes provaram que esta batalha está longe de terminar.\n\n  Está claro que quem controla Carentan controla a chave para a Península de Cotentin. Se o 101º tomar Carentan, nossas forças das Praias Utah e Omaha poderão se unir para formar uma frente contínua.\n\n  Seu regimento, o 506º PIR, se aproximará de Carentan pelo sul. Suas ordens são tomar a estação ferroviária de Carentan. Em apoio ao seu avanço, o 401º Regimento de Infantaria de Planadores atacará pelo lado oposto da cidade.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task1"
+msgid "Neutralize the enemy MG42 and clear the crossroads!"
+msgstr "Neutralize a MG42 inimiga e limpe o cruzamento!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task2"
+msgid "Clear the road heading to the center of Carentan!"
+msgstr "Limpe a estrada em direção ao centro de Carentan!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task3"
+msgid "Neutralize enemy mortars in the gardens!"
+msgstr "Neutralize os morteiros inimigos nos jardins!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task4"
+msgid "Prepare to defend your position!"
+msgstr "Prepare-se para defender sua posição!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task5"
+msgid "Defend your position until reinforcements arrive!"
+msgstr "Defenda sua posição até os reforços chegarem!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task6"
+msgid "Neutralize enemy mortars in the town!"
+msgstr "Neutralize os morteiros inimigos na cidade!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task7"
+msgid "Link up with allied Glider troops and capture enemy HQ!"
+msgstr "Una-se às tropas aliadas de planador e capture o QG inimigo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_secret"
+msgid "Secret Objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_secret_comp"
+msgid "(Secret Objective #1) Find the German rocket artillery."
+msgstr "(Objetivo Secreto nº 1) Encontre a artilharia de foguetes alemã."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_winters"
+msgid "Lt. Winters must survive."
+msgstr "O Ten. Winters deve sobreviver."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_heal_winters"
+msgid "Treat Lt. Winters before he bleeds to death!"
+msgstr "Trate o Ten. Winters antes que ele morra de hemorragia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/timer"
+msgid "Prepare for an enemy counterattack:"
+msgstr "Prepare-se para um contra-ataque inimigo:"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/timer2"
+msgid "Defend your position!"
+msgstr "Defenda sua posição!"

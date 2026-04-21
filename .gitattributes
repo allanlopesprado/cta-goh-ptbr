@@ -1,0 +1,9 @@
+# Normalizar line endings dos arquivos de localização para LF
+localization/**/*.pot text eol=lf
+localization/**/*.info text eol=lf
+
+# Scripts Python
+*.py text eol=lf
+
+# Documentação
+*.md text eol=lf

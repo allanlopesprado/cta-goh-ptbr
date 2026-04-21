@@ -1,0 +1,277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_01_vyazma)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/date"
+msgid "January 16th, 1942 - Glushkovo"
+msgstr "16 de janeiro de 1942 — Glushkovo"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/lose_troops"
+msgid "You lost all your men!"
+msgstr "Você perdeu todos os seus homens!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/mission_option_select1"
+msgid "SELECT YOUR TACTICAL DOCTRINE:"
+msgstr "SELECIONE SUA DOUTRINA TÁTICA:"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/name"
+msgid "Back to Square One"
+msgstr "Voltar à Estaca Zero"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/name_big"
+msgid "Back to Square One"
+msgstr "Voltar à Estaca Zero"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/hint/skip"
+msgid "If you are ready, you can skip the defensive preparations by clicking on the right button."
+msgstr "Se estiver pronto, você pode pular as preparações defensivas clicando no botão à direita."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/01"
+msgid "God almighty, this place looked much better the first time we came around."
+msgstr "Deus Todo-Poderoso, este lugar tinha uma aparência bem melhor na primeira vez que passamos por aqui."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/02"
+msgid "Shut it. Our situation is no laughing matter. We're about to be surrounded by an overwhelming force with little to counter their relentless counterattack. The only thing playing in our favor is the stellar performance of our close air support."
+msgstr "Cale-se. Nossa situação não é motivo de riso. Estamos prestes a ser cercados por uma força avassaladora com pouco para contrariar seu implacável contra-ataque. A única coisa a nosso favor é o desempenho excepcional de nosso apoio aéreo aproximado."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03"
+msgid "The Mayo"
+msgstr "O major"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/04"
+msgid "Herr Hauptmann, reporting in as requested!"
+msgstr "Herr Hauptmann, apresento-me como solicitado!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/01"
+msgid "Good to have you here! Come closer. You once lead the assault on this sector, today I need you to defend it with the help of our air force."
+msgstr "Ótimo ter você aqui! Aproxime-se. Você uma vez liderou o assalto neste setor — hoje preciso que o defenda com o auxílio de nossa força aérea."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/02"
+msgid "I expect a full Soviet assault on the north and north-west. We are the only thing standing in the way of the Soviets and the encirclement of our armies. There will be no more retreats, am I making myself clear?"
+msgstr "Espero um assalto soviético total ao norte e noroeste. Somos a única coisa entre os soviéticos e o cerco de nossos exércitos. Não haverá mais recuos — estou sendo claro?"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/03"
+msgid "I am assigning you a brigade of our most devastating weapon against the Bolshevik armor - the 8.8cm anti-aircraft guns. You should plan your tactics entirely around these guns."
+msgstr "Estou designando a você uma brigada de nossa arma mais devastadora contra a blindagem bolchevique — os canhões antiaéreos de 8,8cm. Você deve planejar sua tática inteiramente em torno dessas peças."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/04"
+msgid "These men are our artillery signalers. Their flares will mark the way for Hoepner's 4th Army artillery. Use them sparingly. The Luftwaffe squadron ZG26 will support your ground forces. Good luck, Herr Leutnant!"
+msgstr "Esses homens são nossos sinalizadores de artilharia. Seus sinalizadores marcarão o caminho para a artilharia do 4º Exército de Hoepner. Use-os com moderação. O esquadrão da Luftwaffe ZG26 apoiará suas forças terrestres. Boa sorte, Herr Leutnant!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/05"
+msgid "Find some cover! The enemy is about to start a fireworks display!"
+msgstr "Procure cobertura! O inimigo está prestes a iniciar um espetáculo de fogos!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/06"
+msgid "Do not build defenses too much north from the main road! This area is where the Soviets think we have our defensive lines. I'm sure they will bomb the hell out of it. "
+msgstr "Não construa defesas muito ao norte da estrada principal! Esta área é onde os soviéticos acham que temos nossas linhas defensivas. Tenho certeza de que a bombardearão sem piedade."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/07"
+msgid "As I predicted, they thought our defenses were further north... Well, that's one way to clear our line of fire. Brace yourselves, the enemy will soon make their appearance."
+msgstr "Como eu previ, eles acharam que nossas defesas estavam mais ao norte... Bem, é uma forma de limpar nossa linha de fogo. Preparem-se — o inimigo logo aparecerá."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/08"
+msgid "You have at your disposal our artillery signalers. Their flares will mark the way for Hoepner's 4th Army artillery. Use them sparingly."
+msgstr "Você tem à sua disposição nossos sinalizadores de artilharia. Seus sinalizadores marcarão o caminho para a artilharia do 4º Exército de Hoepner. Use-os com moderação."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/09"
+msgid "Aside from air support, we are cut off, so expect no reinforcements. Keep some reserves in the rear to plug holes in the defenses."
+msgstr "Além do apoio aéreo, estamos cortados — não espere reforços. Mantenha algumas reservas na retaguarda para tapar buracos nas defesas."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/10"
+msgid "I'm sure they did not like our warm welcome. Stay put, the enemy will try to flank us!"
+msgstr "Tenho certeza de que não gostaram de nossa calorosa recepção. Mantenha posição — o inimigo tentará nos flanquear!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/11"
+msgid "Excellent work holding the Bolsheviks in check! However, our neighboring unit was caught ill-prepared. Prepare for an attack from the southwest."
+msgstr "Excelente trabalho mantendo os bolcheviques sob controle! No entanto, nossa unidade vizinha foi pega despreparada. Prepare-se para um ataque pelo sudoeste."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/12"
+msgid "The first Soviet elements have arrived from the southwest!"
+msgstr "Os primeiros elementos soviéticos chegaram pelo sudoeste!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/13"
+msgid "What the hell is that?! That is no ordinary artillery!!"
+msgstr "O que diabos é isso?! Aquela não é uma artilharia comum!!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/14"
+msgid "Herr Lieutenant, take whatever troops are at your disposal and eliminate the threat!"
+msgstr "Herr Leutnant, pegue as tropas disponíveis e elimine a ameaça!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/15"
+msgid "Excellent job! No further assaults have been reported coming our way. Deal with the remaining enemy tanks in the vicinity, see whether we can salvage some of those heavy beasts. They must weigh at least 40 tons!!"
+msgstr "Excelente trabalho! Nenhum outro assalto foi relatado em nossa direção. Neutralize os tanques inimigos restantes nas imediações — veja se conseguimos recuperar alguns desses monstros pesados. Devem pesar pelo menos 40 toneladas!!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/16"
+msgid "Damn, the weather has worsened significantly. Our aviators will not be able to help us in these conditions!"
+msgstr "Droga, o tempo piorou significativamente. Nossos aviadores não poderão nos ajudar nestas condições!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_1"
+msgid "Callsign \"Waldkauz\" is diving for the requested target."
+msgstr "Indicativo \"Waldkauz\" mergulhando sobre o alvo solicitado."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_2"
+msgid "Air support underway!"
+msgstr "Apoio aéreo a caminho!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_3"
+msgid "Callsign \"Waldkauz\" reports a \"Rotte\" is being dispatched to the target."
+msgstr "Indicativo \"Waldkauz\" informa que uma \"Rotte\" está sendo despachada ao alvo."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_1"
+msgid "Requesting callsign \"Wirsing\" to bombard the designated area."
+msgstr "Solicitando indicativo \"Wirsing\" para bombardear a área designada."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_2"
+msgid "\"Wirsing\" is underway to bomb your coordinates."
+msgstr "\"Wirsing\" a caminho para bombardear suas coordenadas."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_3"
+msgid "An element of ZG26 is on its way."
+msgstr "Um elemento do ZG26 está a caminho."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_4"
+msgid "Requesting callsign \"Wirsing\" to strafe the designated area."
+msgstr "Solicitando indicativo \"Wirsing\" para metralhar a área designada."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_5"
+msgid "\"Wirsing\" is underway to strafe your coordinates."
+msgstr "\"Wirsing\" a caminho para metralhar suas coordenadas."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/flak1"
+msgid "Our planes are reporting enemy anti-aircraft artillery in the area. They are reluctant to continue close air support strikes until the AAA is taken out. Find them and destroy them!"
+msgstr "Nossas aeronaves reportam artilharia antiaérea inimiga na área. Elas relutam em continuar os ataques de apoio aéreo aproximado até que a AAA seja eliminada. Encontre-as e destrua-as!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/n_1"
+msgid "Soviet avalanche from the north!"
+msgstr "Avalanche soviética pelo norte!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/n_2"
+msgid "The Bolsheviks are back from the north!"
+msgstr "Os bolcheviques voltaram pelo norte!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_1"
+msgid "The enemy is pushing us once more from the northwest."
+msgstr "O inimigo nos pressiona mais uma vez pelo noroeste."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_2"
+msgid "Enemy tanks approaching from the northwest!"
+msgstr "Tanques inimigos se aproximando pelo noroeste!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_3"
+msgid "Soviet armor inbound from the northwest!"
+msgstr "Blindados soviéticos se aproximando pelo noroeste!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_1"
+msgid "Enemy wide armor formation coming from the southwest!"
+msgstr "Formação blindada inimiga ampla vindo pelo sudoeste!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_2"
+msgid "Enemy tanks approaching from the southwestern road!"
+msgstr "Tanques inimigos se aproximando pela estrada sudoeste!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_3"
+msgid "Southwest! Armor following the road!"
+msgstr "Sudoeste! Blindados seguindo pela estrada!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/01"
+msgid "The Führer had said we'd encircle the Bolsheviks in Moscow by Christmas. I imagine he failed to specify which Christmas that would be."
+msgstr "O Führer disse que cercaríamos os bolcheviques em Moscou antes do Natal. Imagino que se esqueceu de especificar qual Natal seria."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/02"
+msgid "TAKE COVER!!"
+msgstr "PROCURE COBERTURA!!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/03"
+msgid "Shit! Our commander in chief is dead!"
+msgstr "Merda! Nosso comandante-em-chefe está morto!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/04"
+msgid "The Bolsheviks have entered the premises of the headquarters! They must be driven out immediately, our command is at risk!"
+msgstr "Os bolcheviques entraram no perímetro do quartel-general! Devem ser expulsos imediatamente — nosso comando está em risco!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/05"
+msgid "Soviets in the vicinity of the HQ! Our commanding officer and our staff are in danger!"
+msgstr "Soviéticos nas imediações do QG! Nosso oficial comandante e nossa equipe estão em perigo!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/06"
+msgid "Damn it! Soviets close to our headquarters! Our staff must be protected!"
+msgstr "Droga! Soviéticos perto do nosso quartel-general! Nossa equipe deve ser protegida!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/outro_completed"
+msgid "The solid stand of the 9th Army along with the heroic contribution of the Luftwaffe caused Konev's forces to fail in their encirclement of Army Group Centre. The counterattack of the Soviets stagnated in February. The new frontline layout led to the Rzhev meat grinder and other battles where, despite terrible losses, the Soviet sacrifice had secured the capital. Hitler then turned south towards the Caucasus and Stalingrad, meaning that Moscow would be securely in Soviet hands and no future attempts to capture it would take place. Operation Typhoon had failed."
+msgstr "A resistência sólida do 9º Exército, aliada à contribuição heróica da Luftwaffe, fez com que as forças de Konev fracassassem no cerco do Grupo de Exércitos Centro. O contra-ataque dos soviéticos estancou em fevereiro. O novo traçado da linha de frente levou ao moedor de carne de Rzhev e a outras batalhas onde, apesar das terríveis perdas, o sacrifício soviético havia assegurado a capital. Hitler então voltou-se para o sul, em direção ao Cáucaso e a Stalingrado, o que significou que Moscou permaneceria firmemente nas mãos soviéticas e nenhuma tentativa futura de capturá-la ocorreria. A Operação Tufão havia fracassado."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/outro_failed"
+msgid "Losing this battle means the main body of Army Group Centre will quickly be surrounded and, their supplies dwindling, a catastrophic loss of men and vehicles seems at hand. Not only that; we have lost control over the Dnieper crossings once again. This is even worse than going back to square one."
+msgstr "Perder esta batalha significa que o grosso do Grupo de Exércitos Centro será rapidamente cercado e, com seus suprimentos escassos, uma perda catastrófica de homens e veículos parece iminente. Não apenas isso — perdemos o controle das travessias do Dnieper mais uma vez. Isso é ainda pior do que voltar à estaca zero."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/place"
+msgid "9th Army, Army Group Centre."
+msgstr "9º Exército, Grupo de Exércitos Centro."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/preparation"
+msgid "The enemy is approaching. Prepare the defences!"
+msgstr "O inimigo está se aproximando. Prepare as defesas!"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_50"
+msgid "Bf-110 SC-50"
+msgstr "Bf-110 SC-50"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_500"
+msgid "Bf-110 SC-500"
+msgstr "Bf-110 SC-500"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_guns"
+msgid "Bf-110 Strafing"
+msgstr "Bf-110 Metralhamento"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/story"
+msgid "With Operation Typhoon brought to a standstill, Stavka counterattacks, forcing the Wehrmacht into a defensive stance and pushing them back to positions previously captured in October."
+msgstr "Com a Operação Tufão paralisada, a Stavka contra-ataca, forçando a Wehrmacht a uma postura defensiva e rechaçando-a para posições capturadas anteriormente em outubro."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/task1"
+msgid "Protect the headquarters at all costs! Keep the staff safe."
+msgstr "Proteja o quartel-general a todo custo! Mantenha a equipe em segurança."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/task2"
+msgid "Take out the heavy artillery and neutralize the Soviet position."
+msgstr "Destrua a artilharia pesada e neutralize a posição soviética."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/taskopt1"
+msgid "Take out the AAA for the air support to resume."
+msgstr "Destrua a AAA para o apoio aéreo ser retomado."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/taskopt2"
+msgid "Salvage at least one Soviet heavy KV-class tank."
+msgstr "Recupere pelo menos um tanque pesado soviético classe KV."
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/timer"
+msgid "Defend the headquarters:"
+msgstr "Defenda o quartel-general:"
