@@ -1,23 +1,22 @@
-# Legal Notice
+# Aviso Legal
 
-This repository contains two different kinds of content:
+Este repositório contém dois tipos de conteúdo:
 
-1. Original project files (scripts, automation, documentation, CI/community files)
-2. Localization data that is designed to be applied to an existing, legally obtained copy of the game
+1. arquivos criados para este projeto (scripts, documentação, automação, fluxos de CI/comunidade)
+2. dados de localização destinados a funcionar com uma cópia legal do jogo
 
-## License Scope
+## Escopo da licença
 
-The MIT License in LICENSE applies only to original project files created for this repository workflow, including but not limited to:
-- Python/PowerShell scripts
-- Build and packaging helpers
-- Repository documentation and contribution templates
+A licença MIT em `LICENSE` aplica-se apenas aos arquivos originais criados para este repositório, como:
+- scripts
+- automação
+- documentação
+- arquivos de configuração
 
-## Third-Party Intellectual Property
+## Propriedade intelectual de terceiros
 
-Game names, trademarks, original texts, assets, and file formats remain the property of their respective owners.
+Nomes, marcas, textos originais, ativos e formatos de arquivo do jogo permanecem sob propriedade dos seus titulares.
 
-No ownership is claimed over any original game content.
+Este projeto é não oficial e não reclama posse sobre o conteúdo original do jogo.
 
-This is an unofficial community project distributed for interoperability/modding purposes and intended for users who already own the game legally.
-
-If you are a rights holder and need any change or takedown, please open an issue or contact the maintainer.
+Se você for titular de direitos autorais e precisar de alterações ou remoção, abra uma issue ou entre em contato com o mantenedor.

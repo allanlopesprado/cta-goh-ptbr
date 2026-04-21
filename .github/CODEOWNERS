@@ -1,8 +1,2 @@
-# Global owner
+# Proprietário global para todo o repositório
 * @allanlopesprado
-
-# Core translation/package areas
-/localization/ @allanlopesprado
-/fase1/ @allanlopesprado
-/fase2/ @allanlopesprado
-/criar_pak.ps1 @allanlopesprado

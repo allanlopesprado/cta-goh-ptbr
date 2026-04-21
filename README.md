@@ -31,8 +31,8 @@ Copy-Item "C:\Users\SEU_USUARIO\Downloads\default.pak" ".\default.pak"
 ## Comunidade e colaboração
 
 - [Grupo no Telegram — CTA GoH Brasil](https://t.me/cta_goh_brasil)
-- [Guia de contribuição](.github/GUIA_DE_CONTRIBUICAO.md)
-- [Código de conduta](.github/CODIGO_DE_CONDUTA.md)
+- [Guia de contribuição](.github/CONTRIBUTING.md)
+- [Código de conduta](.github/CODE_OF_CONDUCT.md)
 - [Central de suporte](.github/SUPPORT.md)
 - [Política de segurança](.github/SECURITY.md)
 
