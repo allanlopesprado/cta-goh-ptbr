@@ -1,28 +1,33 @@
 # Código de Conduta
 
+Este é o arquivo oficial do projeto para definir o comportamento esperado em contribuições, issues, pull requests e discussões.
+
 ## Nosso compromisso
 
-Estamos comprometidos em tornar a participação neste projeto uma experiência livre de assédio para todas as pessoas.
+Este projeto busca oferecer uma comunidade acolhedora e respeitosa para todas as pessoas.
 
-## Nossos padrões
+## Padrões desejados
 
-Exemplos de comportamento que contribuem para um ambiente positivo:
-- Usar linguagem acolhedora e inclusiva
-- Respeitar pontos de vista diferentes
-- Aceitar feedback construtivo
-- Focar no que é melhor para a comunidade
+Exemplos de comportamento que ajudam a manter um ambiente saudável:
+- usar linguagem inclusiva e cordial
+- respeitar opiniões diferentes
+- aceitar críticas de forma construtiva
+- focar no objetivo comum do projeto
 
-Exemplos de comportamento inaceitável:
-- Assédio, insultos ou ataques pessoais
-- Trolling ou comportamento deliberadamente disruptivo
-- Publicar informações privadas sem permissão
+## Comportamento inaceitável
+
+Exemplos de condutas que não serão toleradas:
+- assédio, insultos ou ataques pessoais
+- trolling ou comportamento deliberadamente perturbador
+- divulgação de informações privadas sem permissão
+- discurso discriminatório ou ofensivo
 
 ## Aplicação
 
-Os mantenedores do projeto são responsáveis por esclarecer e aplicar estes padrões e podem remover, editar ou rejeitar comentários, commits, código, issues e outras contribuições que não estejam alinhadas com este Código de Conduta.
+Os mantenedores do projeto podem remover, editar ou recusar contribuições, comentários, commits e issues que violem este código de conduta.
 
 ## Como reportar
 
-Por favor, reporte comportamento inaceitável abrindo uma issue com título claro: "Relato de Código de Conduta".
+Se identificar comportamento inadequado, abra uma issue clara com o título `Relato de Código de Conduta`.
 
-Todos os relatos serão analisados e tratados com o máximo de confidencialidade possível.
+Relatos serão tratados com confidencialidade sempre que possível.

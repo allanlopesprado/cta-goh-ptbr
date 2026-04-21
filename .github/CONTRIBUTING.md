@@ -1,39 +1,40 @@
 # Contribuindo
 
-Obrigado por ajudar a melhorar este projeto de localização PT-BR.
+Obrigado por ajudar a melhorar esta tradução PT-BR para Call to Arms - Gates of Hell.
 
 ## Antes de começar
 
-- Mantenha respeito nas discussões e revisões
-- Faça mudanças focadas e mínimas
-- Prefira um tema por pull request
+- seja respeitoso nas discussões
+- mantenha mudanças pequenas e focadas
+- prefira um tópico por pull request
 
 ## O que pode ser contribuído
 
-- Melhorias de qualidade de tradução
-- Correções de consistência terminológica
-- Melhorias nos scripts de auditoria/empacotamento
-- Clareza na documentação e instalação
+- melhorias na qualidade da tradução
+- correções de termos e consistência
+- ajustes na estrutura de localização
+- melhorias na documentação
 
-## Checklist de Pull Request
+## Checklist de pull request
 
-- Explique o que foi alterado e por quê
-- Quando aplicável, inclua exemplos de antes/depois
-- Mantenha a estrutura de arquivos compatível com o empacotamento do jogo:
-  - default/
-  - default/interface/
-  - default/localization.info
-- Não inclua arquivos não relacionados
-- Confirme que `criar_pak.ps1` continua gerando um `default.pak` válido
+- descreva claramente o que foi alterado e por quê
+- inclua exemplos de antes/depois quando fizer sentido
+- mantenha a estrutura do localization pack:
+  - `localization/<idioma>/`
+  - `default/`
+  - `default/interface/`
+  - `default/localization.info`
+- não adicione arquivos não relacionados
+- verifique se as alterações não quebram o empacotamento
 
 ## Notas de estilo
 
-- Preserve a estrutura e convenções de nomes já existentes
-- Mantenha linguagem consistente com o glossário adotado
-- Evite reescritas amplas quando não forem necessárias
+- preserve a estrutura e os nomes já existentes
+- use terminologia consistente
+- evite reescritas desnecessárias
 
-## Aspecto legal
+## Aspectos legais
 
-Ao enviar uma contribuição, você concorda que sua contribuição original pode ser distribuída sob a licença MIT para os arquivos de código/documentação do repositório.
+Ao contribuir, você confirma que sua contribuição pode ser licenciada sob MIT para os arquivos de código e documentação do repositório.
 
-Veja `LEGAL_NOTICE.md` para detalhes importantes de escopo sobre propriedade intelectual do jogo.
+Veja `LEGAL_NOTICE.md` para informações sobre escopo e propriedade intelectual.
