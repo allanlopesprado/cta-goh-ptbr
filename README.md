@@ -35,7 +35,6 @@ Copy-Item "C:\Users\SEU_USUARIO\Downloads\default.pak" ".\default.pak"
 - [Código de conduta](.github/CODIGO_DE_CONDUTA.md)
 - [Central de suporte](.github/SUPPORT.md)
 - [Política de segurança](.github/SECURITY.md)
-- [Histórico de versões](CHANGELOG.md)
 
 ## Aviso importante
 
