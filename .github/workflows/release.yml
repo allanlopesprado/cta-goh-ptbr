@@ -58,12 +58,12 @@ jobs:
                 if (a.minor !== b.minor) return a.minor - b.minor;
                 return a.patch - b.patch;
               });
-            const latest = parsed.length ? parsed[parsed.length - 1].name : 'v0.0';
+            const latest = parsed.length ? parsed[parsed.length - 1].name : 'v1.0.0';
             const latestParts = latest.match(/^v(\d+)\.(\d+)(?:\.(\d+))?$/);
             const major = Number(latestParts[1]);
             const minor = Number(latestParts[2]);
-            const patch = latestParts[3] ? Number(latestParts[3]) : 0;
-            const nextTag = latestParts[3] ? `v${major}.${minor}.${patch + 1}` : `v${major}.${minor + 1}`;
+            const patch = Number(latestParts[3] || 0);
+            const nextTag = parsed.length ? `v${major}.${minor}.${patch + 1}` : 'v1.0.0';
 
             let releaseBody = 'Atualização automática sem mudanças de texto significativas.';
             if (context.eventName === 'push' && context.ref === 'refs/heads/main') {
@@ -86,10 +86,8 @@ jobs:
       - name: Build pak
         shell: pwsh
         run: |
-          $dist = "./dist"
-          if (-Not (Test-Path $dist)) { New-Item -ItemType Directory -Path $dist | Out-Null }
-          Compress-Archive -Path "localization/default" -DestinationPath "$dist/default.pak" -Force
-          if (-not (Test-Path "$dist/default.pak")) {
+          ./scripts/build-pak.ps1 -SourceFolder "localization/pt_BR" -DestinationFile "dist/default.pak" -PackageRootName "default"
+          if (-not (Test-Path "dist/default.pak")) {
             Write-Error "dist/default.pak was not generated"
           }
 
@@ -99,11 +97,11 @@ jobs:
           Add-Type -AssemblyName System.IO.Compression.FileSystem
           $pak = ".\dist\default.pak"
           $zip = [System.IO.Compression.ZipFile]::OpenRead($pak)
-          $entries = $zip.Entries
+          $entries = $zip.Entries | ForEach-Object { $_.FullName -replace '\\','/' }
 
-          $hasRoot = ($entries | Where-Object { $_.FullName -eq "default/" -or $_.FullName -like "default/*" }).Count -gt 0
-          $hasInfo = ($entries | Where-Object { $_.FullName -eq "default/localization.info" }).Count -gt 0
-          $potCount = ($entries | Where-Object { $_.FullName -like "default/interface/**/*.pot" }).Count
+          $hasRoot = ($entries | Where-Object { $_ -eq "default/" -or $_ -like "default/*" }).Count -gt 0
+          $hasInfo = ($entries | Where-Object { $_ -eq "default/localization.info" }).Count -gt 0
+          $potCount = ($entries | Where-Object { $_ -like "default/interface/**/*.pot" }).Count
 
           if (-not $hasRoot) {
             $zip.Dispose()

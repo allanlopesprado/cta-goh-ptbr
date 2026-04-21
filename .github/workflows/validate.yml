@@ -16,10 +16,8 @@ jobs:
       - name: Build pak
         shell: pwsh
         run: |
-          $dist = "./dist"
-          if (-Not (Test-Path $dist)) { New-Item -ItemType Directory -Path $dist | Out-Null }
-          Compress-Archive -Path "localization/default" -DestinationPath "$dist/default.pak" -Force
-          if (-not (Test-Path "$dist/default.pak")) {
+          ./scripts/build-pak.ps1 -SourceFolder "localization/pt_BR" -DestinationFile "dist/default.pak" -PackageRootName "default"
+          if (-not (Test-Path "dist/default.pak")) {
             Write-Error "dist/default.pak was not generated"
           }
 
@@ -29,11 +27,11 @@ jobs:
           Add-Type -AssemblyName System.IO.Compression.FileSystem
           $pak = ".\dist\default.pak"
           $zip = [System.IO.Compression.ZipFile]::OpenRead($pak)
-          $entries = $zip.Entries
+          $entries = $zip.Entries | ForEach-Object { $_.FullName -replace '\\','/' }
 
-          $hasRoot = ($entries | Where-Object { $_.FullName -eq "default/" -or $_.FullName -like "default/*" }).Count -gt 0
-          $hasInfo = ($entries | Where-Object { $_.FullName -eq "default/localization.info" }).Count -gt 0
-          $potCount = ($entries | Where-Object { $_.FullName -like "default/interface/**/*.pot" }).Count
+          $hasRoot = ($entries | Where-Object { $_ -eq "default/" -or $_ -like "default/*" }).Count -gt 0
+          $hasInfo = ($entries | Where-Object { $_ -eq "default/localization.info" }).Count -gt 0
+          $potCount = ($entries | Where-Object { $_ -like "default/interface/**/*.pot" }).Count
 
           if (-not $hasRoot) {
             $zip.Dispose()
