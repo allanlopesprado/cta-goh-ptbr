@@ -33,18 +33,18 @@ jobs:
         shell: bash
         run: |
           python3 - <<'PY'
-            import zipfile
-            pak = 'dist/default.pak'
-            with zipfile.ZipFile(pak) as z:
-                entries = [e.filename.replace('\\', '/') for e in z.infolist()]
-                has_root = any(e == 'default/' or e.startswith('default/') for e in entries)
-                has_info = 'default/localization.info' in entries
-                pot_count = sum(1 for e in entries if e.startswith('default/interface/') and e.endswith('.pot'))
-                if not has_root:
-                    raise SystemExit('Missing root entry default/')
-                if not has_info:
-                    raise SystemExit('Missing default/localization.info')
-                if pot_count < 300:
-                    raise SystemExit(f'Unexpected .pot count inside pak: {pot_count}')
-                print('PAK validation passed. POT files:', pot_count)
+          import zipfile
+          pak = 'dist/default.pak'
+          with zipfile.ZipFile(pak) as z:
+              entries = [e.filename.replace('\\', '/') for e in z.infolist()]
+              has_root = any(e == 'default/' or e.startswith('default/') for e in entries)
+              has_info = 'default/localization.info' in entries
+              pot_count = sum(1 for e in entries if e.startswith('default/interface/') and e.endswith('.pot'))
+              if not has_root:
+                  raise SystemExit('Missing root entry default/')
+              if not has_info:
+                  raise SystemExit('Missing default/localization.info')
+              if pot_count < 300:
+                  raise SystemExit(f'Unexpected .pot count inside pak: {pot_count}')
+              print('PAK validation passed. POT files:', pot_count)
           PY
