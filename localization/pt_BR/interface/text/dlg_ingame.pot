@@ -51,7 +51,7 @@ msgstr "Sacos de areia para veículo"
 
 msgctxt "actionbar/mp_available_points"
 msgid "MP Points"
-msgstr "Pontos de MP"
+msgstr "Pontos de PM"
 
 msgctxt "actionbar/sp_available_points/action"
 msgid "Shows how much you can spend on conquest reinforcements."
@@ -115,7 +115,7 @@ msgstr "Carregar ou recarregar arma"
 
 msgctxt "actionbar/attack_ground"
 msgid "Attack ground"
-msgstr "Atacar solo"
+msgstr "Atacar área"
 
 msgctxt "actionbar/engine_toggle"
 msgid "Turn engine on/off"
@@ -131,7 +131,7 @@ msgstr "<f(arial_hq)c(FFFFFF)s(8)>Bandeira capturada"
 
 msgctxt "actionbar/attack_ground/action"
 msgid "Attack ground"
-msgstr "Atacar solo"
+msgstr "Atacar área"
 
 msgctxt "vehiclebar/desc"
 msgid "<f(arial_hq)s(8)x.>%1%"
@@ -795,7 +795,7 @@ msgstr "Subir"
 
 msgctxt "actionbar/mp_per_second/action"
 msgid "Shows how many MP you gain every second."
-msgstr "Mostra quantos MP você ganha por segundo."
+msgstr "Mostra quantos PM você ganha por segundo."
 
 msgctxt "actionbar/altitude/travel/action"
 msgid "Ascend to optimal travel altitude."
@@ -1322,7 +1322,7 @@ msgstr "Modo de disparo"
 
 msgctxt "actionbar/mp_payback"
 msgid "MP Payback"
-msgstr "Reembolso de MP"
+msgstr "Reembolso de PM"
 
 msgctxt "actionbar/fire/hold/action"
 msgid "Hold fire"
@@ -1564,7 +1564,7 @@ msgstr "Chat"
 
 msgctxt "actionbar/mp_per_second"
 msgid "MP / Second"
-msgstr "MP / Segundo"
+msgstr "PM / Segundo"
 
 msgctxt "actionbar/score_table"
 msgid "Score table"
@@ -1604,7 +1604,7 @@ msgstr "As unidades selecionadas serão transferidas para o jogador selecionado 
 
 msgctxt "actionbar/cp_current"
 msgid "Current CP value"
-msgstr "Valor atual de CP"
+msgstr "Valor atual de PC"
 
 msgctxt "actionbar/cp_current/action"
 msgid "Value raises with every purchased unit. Cannot exceed the limit."
@@ -1612,7 +1612,7 @@ msgstr "O valor aumenta com cada unidade comprada. Não pode exceder o limite."
 
 msgctxt "actionbar/mp_payback/action"
 msgid "Regain some MP for troops that you've lost."
-msgstr "Recupere alguns MP pelas tropas que perdeu."
+msgstr "Recupere alguns PM pelas tropas que perdeu."
 
 msgctxt "actionbar/vehicle_fuel/action"
 msgid "This vehicle needs fuel to run. It can be re-filled."
@@ -1884,7 +1884,7 @@ msgstr "Não"
 
 msgctxt "reinforcement_bar/head"
 msgid "<f(arial_narrow)s(16)><e(shadow)>%1% / %2% MP"
-msgstr "<f(arial_narrow)s(16)><e(shadow)>%1% / %2% MP"
+msgstr "<f(arial_narrow)s(16)><e(shadow)>%1% / %2% PM"
 
 msgctxt "interface/ok"
 msgid "OK"
