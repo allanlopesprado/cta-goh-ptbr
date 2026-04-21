@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Commonwealth ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/ammo/atrifle_eng"
+msgid "RG .55 Boys AP rounds"
+msgstr "Cartuchos RG .55 Boys AP"
+
+msgctxt "desc/ammo/atrifle_eng ap"
+msgid "RG .55 Boys Mk.I AP rounds"
+msgstr "Cartuchos RG .55 Boys Mk.I AP"
+
+msgctxt "desc/ammo/atrifle_eng ap2"
+msgid "RG .55 Boys Mk.II AP rounds"
+msgstr "Cartuchos RG .55 Boys Mk.II AP"
+
+msgctxt "desc/ammo/bulleteng_20_auto ap"
+msgid "20mm AP Shot Mk.IX.T belt [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Cinturón de proyectiles AP Mk.IX.T de 20 mm [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto he"
+msgid "20mm HE/HE-T Shell belt [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "Cinturón de proyectiles HE/HE-T de 20 mm [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto hei"
+msgid "20mm HEI/HEI-T Shell belt [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr "Cinturón de proyectiles HEI/HEI-T de 20 mm [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng apbc"
+msgid "40mm APBC Shot Mk.V.T [<c(ff6a00)>APBC</c>] <c(65696d)>L/60</c>"
+msgstr "Proyectil APBC Mk.V.T de 40 mm [<c(ff6a00)>APBC</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng sap"
+msgid "40mm SAP Shot Mk.IX.T [<c(ff6a00)>SAP</c>] <c(65696d)>L/60</c>"
+msgstr "Proyectil SAP Mk.IX.T de 40mm [<c(ff6a00)>SAP</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bullet_40x331_auto eng he"
+msgid "40mm HE Shell Mk.X.T [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+msgstr "Proyectil HE Mk.X.T de 40 mm [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bulleteng_40 littlejohn apcr"
+msgid "2-pdr APSV Shot Mk.I.T [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+msgstr "Proyectil APSV Mk.I.T de 2 pulgadas [<c(48c445)>APCNR</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_76_l25 sm"
+msgid "3-inch Smoke Shell Mk.I [SMOKE] <c(65696d)>L/25</c>"
+msgstr "Proyectil de humo de 3 pulgadas [SMOKE] <c(65696d)>L/25</c>"
+
+msgctxt "desc/ammo/bulleteng_84 he"
+msgid "18-pdr HE Shell Mk.I [<c(ff1200)>HE</c>]"
+msgstr "Proyectil HE Mk.I de 18 libras [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulleteng_88 sm"
+msgid "25-pdr HE Shell Mk.I.D [SMOKE] <c(65696d)>L/28</c>"
+msgstr "Proyectil HE Mk.I.D de 25 libras [SMOKE] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulleteng_94 he"
+msgid "3.7-inch HE Shell Mk.I [<c(ff1200)>HE</c>] <c(65696d)>L/11.7</c>"
+msgstr "Proyectil HE Mk.I de 3.7 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/11.7</c>"
+
+msgctxt "desc/ammo/bulleteng_94 wp"
+msgid "3.7-inch Smoke Shell Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/11.7</c>"
+msgstr "Proyectil de humo de 3.7 pulgadas Mk.I.D [<c(FFFFFF)>WP</c>] <c(65696d)>L/11.7</c>"
+
+msgctxt "desc/ammo/bulleteng_94 heat"
+msgid "3.7-inch H.E/A.T. Shell [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/11.7</c>"
+msgstr "Proyectil H.E/A.T. de 3.7 pulgadas [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/11.7</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 ap"
+msgid "3.7-inch AP Shot Mk.V.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+msgstr "Proyectil AP Mk.V.T de 3.7 pulgadas [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 aphe"
+msgid "3.7-inch SAP Shot Mk.IV.T [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
+msgstr "Proyectil SAP Mk.IV.T de 3.7 pulgadas [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_94_l50 he"
+msgid "3.7-inch HE Shell Mk.V [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+msgstr "Proyectil HE Mk.V de 3.7 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
+
+msgctxt "desc/ammo/bulleteng_95 sm"
+msgid "95mm Smoke emission Shell Mk.I [SMOKE] <c(65696d)>L/18</c>"
+msgstr "Proyectil de humo Mk.I de 95mm [SMOKE] <c(65696d)>L/18</c>"
+
+msgctxt "desc/ammo/bulleteng_127 he"
+msgid "5-inch 56-lb HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/37</c>"
+msgstr "Proyectil HE Mk.I.D de 5 pulgadas y 56 libras [<c(ff1200)>HE</c>] <c(65696d)>L/37</c>"
+
+msgctxt "desc/ammo/bulleteng_140 he"
+msgid "5.5-inch HE Shell Mk.I.D [<c(ff1200)>HE</c>] <c(65696d)>L/30</c>"
+msgstr "Proyectil HE Mk.I.D de 5.5 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/30</c>"
+
+msgctxt "desc/ammo/bulleteng_140 sm"
+msgid "5.5-inch Smoke Shell Mk.I.D [SMOKE] <c(65696d)>L/30</c>"
+msgstr "Proyectil de humo Mk.I.D de 5.5 pulgadas [SMOKE] <c(65696d)>L/30</c>"
+
+msgctxt "desc/ammo/bulleteng_203 he"
+msgid "8-inch HE Shell Mk.III [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"
+msgstr "Proyectil HE Mk.III de 8 pulgadas [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"

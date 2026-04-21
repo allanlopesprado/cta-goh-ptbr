@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic and Russian ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/ammo/mortarrus_50 he"
+msgid "[<c(ff1200)>HE</c>] 50-mm O-822A Mortar"
+msgstr "[<c(ff1200)>HE</c>] 50-mm O-822A Mortero"
+
+msgctxt "desc/ammo/bullet_107x442 rus apcbche"
+msgid "107-mm B-420 [<c(ff6a00)>APCBC-HE</c>]"
+msgstr "107-mm B-420 [<c(ff6a00)>APCBC-HE</c>]"
+
+msgctxt "desc/ammo/bullet_107x442 rus he"
+msgid "107-mm OF-420 [<c(ff1200)>HE</c>]"
+msgstr "107-mm OF-420 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletrus_107 sm"
+msgid "107-mm D-422U [SMOKE]"
+msgstr "107-mm D-422U [SMOKE]"
+
+msgctxt "desc/ammo/bullet_122x159 rus he"
+msgid "122-mm F-462 [<c(ff1200)>HE</c>] <c(65696d)>L/12</c>"
+msgstr "122-mm F-462 [<c(ff1200)>HE</c>] <c(65696d)>L/12</c>"
+
+msgctxt "desc/ammo/bullet_122x159 rus wp"
+msgid "122-mm D-462 [<c(FFFFFF)>WP</c>] <c(65696d)>L/12</c>"
+msgstr "122-mm D-462 [<c(FFFFFF)>WP</c>] <c(65696d)>L/12</c>"

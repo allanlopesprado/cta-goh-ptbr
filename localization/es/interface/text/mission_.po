@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+msgctxt "mission/multi/1v1_oryol/name"
+msgid "Oryol"
+msgstr "Oryol"
+
+msgctxt "mission/multi/1v1_workshop/name"
+msgid "Workshop"
+msgstr "Talleres"
+
+msgctxt "mission/multi/2v2_countryside/name"
+msgid "Countryside"
+msgstr "Campo Abierto"
+
+msgctxt "mission/multi/2v2_kavichy_factory/name"
+msgid "Kavichy Factory"
+msgstr "Fábrica de Kavichy"
+
+msgctxt "mission/multi/3v3_king_of_the_hill/name"
+msgid "King Of The Hill"
+msgstr "Reyes de la Colina"
+
+msgctxt "mission/multi/3v3_lakeside_airfield/name"
+msgid "Lakeside Airfield"
+msgstr "Aeródromo de la Laguna"

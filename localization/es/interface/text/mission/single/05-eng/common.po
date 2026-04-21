@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (0x-skirmish common)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "mission/single/05-eng/player_reinf_arrive"
+msgid "Our reinforcements are here!"
+msgstr "¡Han llegado nuestros refuerzos!"
+
+msgctxt "mission/single/05-eng/player_reinf_arrive_alt"
+msgid "Reinforcements have arrived!"
+msgstr "¡Los refuerzos han llegado!"
+
+msgctxt "mission/single/05-eng/allied_obj_capture"
+msgid "Strategic position secured!"
+msgstr "¡Hemos asegurado una posición estratégica!"
+
+msgctxt "mission/single/05-eng/allied_obj_capture_alt"
+msgid "Key point captured!"
+msgstr "¡Hemos capturado una zona estratégica!"
+
+msgctxt "mission/single/05-eng/allied_obj_lost"
+msgid "We lost a strategic point!"
+msgstr "¡Hemos perdido una posición estratégica!"
+
+msgctxt "mission/single/05-eng/allied_obj_lost_alt"
+msgid "Strategic location was retaken by enemy soldiers!"
+msgstr "¡El enemigo ha retomado una zona estratégica!"
+
+msgctxt "mission/single/05-eng/incoming_enemy_arty"
+msgid "Enemy artillery incoming! On the ground!"
+msgstr "¡Artillería enemiga! ¡A cubierto!"
+
+msgctxt "mission/single/05-eng/repair_abandoned_tank"
+msgid "Repair and recover this abandoned enemy tank!"
+msgstr "¡Repara y pon de nuevo en servicio este tanque enemigo abandonado!"

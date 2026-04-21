@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (common)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:18+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+
+msgctxt "mission/multi/3v3_trenches/weather_options_choices"
+msgid "Select the weather conditions for the battle:"
+msgstr "Escoga las condiciones de hora y meteorología para la batalla:"
+
+msgctxt "mission/multi/3v3_trenches/any_weather"
+msgid "Any weather conditions"
+msgstr "Cualquier hora"
+
+msgctxt "mission/multi/3v3_trenches/day_weather"
+msgid "Daytime"
+msgstr "Sólo de día"
+
+msgctxt "mission/multi/3v3_trenches/night_weather"
+msgid "Nighttime"
+msgstr "Sólo de noche"

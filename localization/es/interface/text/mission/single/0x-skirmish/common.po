@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (0x-skirmish common)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "mission/single/0x-skirmish/player_reinf_arrive"
+msgid "Our reinforcements are here!"
+msgstr "¡Nuestros refuerzos están aquí!"
+
+msgctxt "mission/single/0x-skirmish/player_reinf_arrive_alt"
+msgid "Reinforcements have arrived!"
+msgstr "¡Llegaron los refuerzos!"
+
+msgctxt "mission/single/0x-skirmish/allied_obj_capture"
+msgid "Strategic position secured!"
+msgstr "¡Posición estratégica asegurada!"
+
+msgctxt "mission/single/0x-skirmish/allied_obj_capture_alt"
+msgid "Key point captured!"
+msgstr "¡Punto clave captado!"
+
+msgctxt "mission/single/0x-skirmish/allied_obj_lost"
+msgid "We lost a strategic point!"
+msgstr "We lost a strategic point!"
+
+msgctxt "mission/single/0x-skirmish/allied_obj_lost_alt"
+msgid "Strategic location was retaken by enemy soldiers!"
+msgstr "¡La ubicación estratégica fue retomada por los soldados enemigos!"
+
+msgctxt "mission/single/0x-skirmish/incoming_enemy_arty"
+msgid "Enemy artillery incoming! On the ground!"
+msgstr "Artillería enemiga! A cubierto!!"
+
+msgctxt "mission/single/0x-skirmish/repair_abandoned_tank"
+msgid "Repair and recover this abandoned enemy tank!"
+msgstr "Repara y pon en servicio este tanque enemigo abandonado!"

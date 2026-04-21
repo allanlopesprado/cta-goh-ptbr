@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_ammo_ger)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/ammo/hmgun_ger"
+msgid "13mm MG131 Rounds"
+msgstr "Munición por cinturón de 13mm"
+
+msgctxt "desc/ammo/flame_thrower"
+msgid "Flame Thrower Fuel"
+msgstr "Combustible de lanzallamas"
+
+msgctxt "desc/ammo/pistol"
+msgid "9mm Parabellum"
+msgstr "Parabellum de 9 mm"
+
+msgctxt "desc/ammo/rifle_ger clip"
+msgid "7.92mm Mauser Rounds"
+msgstr "Munición Mauser de 7,92 mm"
+
+msgctxt "desc/ammo/k98_antitank"
+msgid "GG/P40 Anti-Tank Rifle Grenade"
+msgstr "Granada de fusil antitanque GG/P40"
+
+msgctxt "desc/ammo/k98_grenade"
+msgid "30mm Rifle Grenade"
+msgstr "Granada de fusil de 30 mm"
+
+msgctxt "desc/ammo/k98_grenade he"
+msgid "[<c(ff1200)>HE</c>] Gew.SprGr."
+msgstr "[<c(ff1200)>HE</c>] Gew.SprGr."
+
+msgctxt "desc/ammo/k98_grenade heat"
+msgid "[<c(c9a6ff)>HEAT</c>] Gew.PzGr.30"
+msgstr "[<c(c9a6ff)>HEAT</c>] Gew.PzGr.30"
+
+msgctxt "desc/ammo/k98_grenade heata"
+msgid "[<c(c9a6ff)>HEAT</c>] Gross.Gew.PzGr."
+msgstr "[<c(c9a6ff)>HEAT</c>] Gross.Gew.PzGr."
+
+msgctxt "desc/ammo/shotgun"
+msgid "Shotgun Shells"
+msgstr "Balas de escopeta"
+
+msgctxt "desc/ammo/9mm_pistol"
+msgid "9mm Pistol Rounds"
+msgstr "Munición de pistola de 9 mm"
+
+msgctxt "desc/ammo/mgun_ger doubledrum"
+msgid "7.92mm Drum (double)"
+msgstr "Tambor de 7,92 mm (doble)"
+
+msgctxt "desc/ammo/mgun_ger doubledrum ap"
+msgid "7.92mm SmK Drum (double)"
+msgstr "Tambor de 7,92 mm SmK (doble)"
+
+msgctxt "desc/ammo/mgun_ger doubledrum ap2"
+msgid "7.92mm SmK(H) Drum (double)"
+msgstr "Tambor de 7,92 mm SmK(H) (doble)"
+
+msgctxt "desc/stuff/mgun_ger doubledrum"
+msgid "7.92mm Drum-fed Rounds (double)"
+msgstr "Munición por tambor de 7,92 mm (doble)"
+
+msgctxt "desc/ammo/mgun ammo"
+msgid "MG Rounds"
+msgstr "Munición ametralladora"
+
+msgctxt "desc/ammo/mgun_ger mg13"
+msgid "7.92mm MG-13 Rounds"
+msgstr "Munición MG-13 de 7,92 mm"
+
+msgctxt "desc/stuff/flare"
+msgid "Flare"
+msgstr "Bengala"
+
+msgctxt "desc/ammo/flare"
+msgid "Flares"
+msgstr "Bengalas"
+
+msgctxt "desc/ammo/flare signal"
+msgid "Flares"
+msgstr "Bengalas"
+
+msgctxt "desc/ammo/flare marker"
+msgid "Marking Flares"
+msgstr "Bengalas de indicación"
+
+msgctxt "desc/ammo/rifle_fra"
+msgid "7.92mm Rifle Rounds"
+msgstr "Munición Rifle de 7,92 mm"
+
+msgctxt "desc/ammo/mgun_ita belt"
+msgid "7mm Rounds"
+msgstr "Cartucho 7 mm"
+
+msgctxt "desc/ammo/zb26_mag"
+msgid "7.92mm ZB-26 Rounds"
+msgstr "Munición ZB-26 de 7,92 mm"
+
+msgctxt "desc/ammo/mgun_ita breda"
+msgid "7mm Rounds"
+msgstr "Cartucho 7 mm"
+
+msgctxt "desc/ammo/mgun_ger drum"
+msgid "7.92mm Drum-fed Rounds"
+msgstr "Munición por tambor de 7,92 mm"
+
+msgctxt "desc/stuff/mgun_ger"
+msgid "7.92mm Belt-Fed Rounds"
+msgstr "Munición por cinturón de 7,92 mm"
+
+msgctxt "desc/stuff/mgun_ger mg13"
+msgid "7.92mm MG-13 Magazine"
+msgstr "Cargador MG-13 de 7,92 mm"
+
+msgctxt "desc/ammo/mgun_ger belt"
+msgid "7.92mm Belt-Fed Rounds"
+msgstr "Munición por cinturón de 7,92 mm"
+
+msgctxt "desc/ammo/mgun_ger belt ap"
+msgid "7.92mm SmK Belt-Fed Rounds"
+msgstr "Munición por cinturón de 7,92 mm SmK"
+
+msgctxt "desc/ammo/mgun_ger belt ap2"
+msgid "7.92mm SmK(H) Belt-Fed Rounds"
+msgstr "Munición por cinturón de 7,92 mm SmK(H)"
+
+msgctxt "desc/stuff/mgun_ger belt"
+msgid "7.92mm Belt-Fed Rounds"
+msgstr "Munición por cinturón de 7,92 mm"
+
+msgctxt "desc/ammo/atrifle_ger"
+msgid "7.92mm AT Rounds"
+msgstr "Balas AT de 7,92 mm"
+
+msgctxt "desc/ammo/mp40"
+msgid "9mm MP38/40 Magazine"
+msgstr "Cargador MP38/40 de 9 mm"
+
+msgctxt "desc/ammo/rifle_ger gewehr"
+msgid "7.92mm Gewehr Rifle Magazine"
+msgstr "Cargador de rifle Gewehr de 7,92 mm"
+
+msgctxt "desc/ammo/fg42"
+msgid "7.92mm FG-42 Magazine"
+msgstr "Cargador FG-42 de 7,92 mm"
+
+msgctxt "desc/ammo/stg44"
+msgid "7.92mm-K. MP-44 Magazine"
+msgstr "Cargador MP-44 de 7,92 mm-K"
+
+msgctxt "desc/ammo/colt1911"
+msgid "9mm Magazine"
+msgstr "Cargador de 9 mm"
+
+msgctxt "desc/ammo/faustpatrone30"
+msgid "[<c(c9a6ff)>HEAT</c>] Faustpatrone 30 Rocket"
+msgstr "[<c(c9a6ff)>HEAT</c>] Cohete Faustpatrone 30"
+
+msgctxt "desc/ammo/panzerfaust60"
+msgid "[<c(c9a6ff)>HEAT</c>] Panzerfaust 60 Rocket"
+msgstr "[<c(c9a6ff)>HEAT</c>] Cohete Panzerfaust 60"
+
+msgctxt "desc/ammo/panzerfaust100"
+msgid "[<c(c9a6ff)>HEAT</c>] Panzerfaust 100 Rocket"
+msgstr "[<c(c9a6ff)>HEAT</c>] Cohete Panzerfaust 100"
+
+msgctxt "desc/ammo/panzershreck"
+msgid "[<c(c9a6ff)>HEAT</c>] Panzershreck Rocket"
+msgstr "[<c(c9a6ff)>HEAT</c>] Cohete Panzerschreck"
+
+msgctxt "desc/ammo/bullet_20_auto aphe"
+msgid "20mm Aircraft [<c(ff6a00)>APHE</c>]"
+msgstr "Aéreo 20 mm [<c(ff6a00)>APHE</c>]"
+
+msgctxt "desc/ammo/bulletger_20_auto ap"
+msgid "2cm PzGr. [<c(ff6a00)>AP</c>]"
+msgstr "PzGr. 2 cm [<c(ff6a00)>AP</c>]"
+
+msgctxt "desc/ammo/bulletger_20_auto apcr"
+msgid "2cm PzGr.40 [<c(48c445)>APCR</c>]"
+msgstr "PzGr.40 2 cm [<c(48c445)>APCR</c>]"
+
+msgctxt "desc/ammo/bulletger_20_auto he"
+msgid "2cm SprGr. [<c(ff1200)>HE</c>]"
+msgstr "SprGr. 2 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_25 ap"
+msgid "2.5cm PzGr.122 (f) [<c(ff6a00)>AP</c>] <c(65696d)>L/72</c>"
+msgstr "PzGr.122 (f) 2,5 cm [<c(ff6a00)>AP</c>] <c(65696d)>L/72</c>"
+
+msgctxt "desc/ammo/bulletger_28 apcr"
+msgid "2.8cm PzGr.41 [<c(48c445)>APCNR</c>]"
+msgstr "PzGr.41 2,8 cm [<c(48c445)>APCNR</c>]"
+
+msgctxt "desc/ammo/bulletger_28 he"
+msgid "2.8cm SprGr.41 [<c(ff1200)>HE</c>]"
+msgstr "SprGr.41 2,8 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_30_auto apcr"
+msgid "3cm Pzgr.40 [<c(48c445)>APCR</c>] "
+msgstr "PzGr.40 3 cm [<c(48c445)>APCR</c>] "
+
+msgctxt "desc/ammo/bulletger_30_auto he"
+msgid "3cm Minengeschoss [<c(ff1200)>HE</c>]"
+msgstr "Minengeschoss 3 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_37_auto ap"
+msgid "3.7cm Pzgr.18 [<c(ff6a00)>AP</c>]"
+msgstr "PzGr.18 3,7 cm [<c(ff6a00)>AP</c>]"
+
+msgctxt "desc/ammo/bulletger_37_auto he"
+msgid "3.7cm SprGr.18 [<c(ff1200)>HE</c>]"
+msgstr "SprGr.18 3,7 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_37 aphe"
+msgid "3.7cm PzGr.Patr. [<c(ff6a00)>APHE</c>] <c(65696d)>L/45</c>"
+msgstr "PzGr.Patr. 3,7 cm [<c(ff6a00)>APHE</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bulletger_37 apcr"
+msgid "3.7cm PzGr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/45</c>"
+msgstr "PzGr.40 3,7 cm [<c(48c445)>APCR</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bulletger_37 he"
+msgid "3.7cm SprGr.40 [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+msgstr "SprGr.40 3,7 cm [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bulletger_37 heat"
+msgid "3.7cm Stiel.Gr.41 [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/45</c>"
+msgstr "Stiel.Gr.41 3,7 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/45</c>"
+
+msgctxt "desc/ammo/bulletger_47 apche"
+msgid "4.7cm PzGr.36 (t) [<c(ff6a00)>APC-HE</c>]"
+msgstr "PzGr.36 (t) 4,7 cm [<c(ff6a00)>APC-HE</c>]"
+
+msgctxt "desc/ammo/bulletger_47 apcr"
+msgid "4.7cm PzGr.40 [<c(48c445)>APCR</c>]"
+msgstr "PzGr.40 4,7 cm [<c(48c445)>APCR</c>]"
+
+msgctxt "desc/ammo/bulletger_47 he"
+msgid "4.7cm SprGr.36 (t) [<c(ff1200)>HE</c>]"
+msgstr "SprGr.36 (t) 4,7 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_50_l42 apche"
+msgid "5cm PzGr.39 [<c(ff6a00)>APC-HE</c>] <c(65696d)>L/42</c>"
+msgstr "PzGr.39 5 cm [<c(ff6a00)>APC-HE</c>] <c(65696d)>L/42</c>"
+
+msgctxt "desc/ammo/bulletger_50_l42 apcr"
+msgid "5cm PzGr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/42</c>"
+msgstr "PzGr.40 5 cm [<c(48c445)>APCR</c>] <c(65696d)>L/42</c>"
+
+msgctxt "desc/ammo/bulletger_50_l42 he"
+msgid "5cm SprGr.38 [<c(ff1200)>HE</c>] <c(65696d)>L/42</c>"
+msgstr "SprGr.38 5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/42</c>"
+
+msgctxt "desc/ammo/bulletger_50_l60 apche"
+msgid "5cm PzGr.39 [<c(ff6a00)>APC-HE</c>] <c(65696d)>L/60</c>"
+msgstr "PzGr.39 5 cm [<c(ff6a00)>APC-HE</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bulletger_50_l60 he"
+msgid "5cm SprGr.38 [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+msgstr "SprGr.38 5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bulletger_50_l60 apcr"
+msgid "5cm PzGr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/60</c>"
+msgstr "PzGr.40 5 cm [<c(48c445)>APCR</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bulletger_50_l60 heat"
+msgid "5cm Stiel.Gr.42 [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/60</c>"
+msgstr "Stiel.Gr.42 5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/60</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 apcbche"
+msgid "7.5cm K.Gr.rot.Pz. [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/24</c>"
+msgstr "K.Gr.rot.Pz. 7,5 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 he"
+msgid "7.5cm SprGr.34 [<c(ff1200)>HE</c>] <c(65696d)>L/24</c>"
+msgstr "SprGr.34 7,5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 heat"
+msgid "7.5cm Gr.38 HL [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr "Gr.38 HL 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 heata"
+msgid "7.5cm Gr.38 HL/A [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr "Gr.38 HL/A 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 heatb"
+msgid "7.5cm Gr.38 HL/B [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr "Gr.38 HL/B 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 heatc"
+msgid "7.5cm Gr.38 HL/C [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr "Gr.38 HL/C 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l24 sm"
+msgid "7.5cm Nb [SM] <c(65696d)>L/24</c>"
+msgstr "Nb [SM] 7,5 cm <c(65696d)>L/24</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 apcbche"
+msgid "7.5cm PzGr.39 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "PzGr.39 7,5 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 apcr"
+msgid "7.5cm PzGr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "PzGr.40 7,5 cm [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 he"
+msgid "7.5cm SprGr.34 [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "SprGr.34 7,5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 heat"
+msgid "7.5cm Gr.38 HL [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "Gr.38 HL 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 heata"
+msgid "7.5cm Gr.38 HL/A [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "Gr.38 HL/A 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 heatb"
+msgid "7.5cm Gr.38 HL/B [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "Gr.38 HL/B 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 heatc"
+msgid "7.5cm Gr.38 HL/C [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "Gr.38 HL/C 7,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l43 sm"
+msgid "7.5cm Nb [SM] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr "Nb [SM] 7,5 cm <c(65696d)>L/43 L/46 L/48</c>"
+
+msgctxt "desc/ammo/bulletger_75_l70 apcbche"
+msgid "7.5cm PzGr.39/42 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/70</c>"
+msgstr "PzGr.39/42 7,5 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulletger_75_l70 apcr"
+msgid "7.5cm PzGr.40/42 [<c(48c445)>APCR</c>] <c(65696d)>L/70</c>"
+msgstr "PzGr.40/42 7,5 cm [<c(48c445)>APCR</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulletger_75_l70 he"
+msgid "7.5cm SprGr.42 [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "SprGr.42 7,5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 apcbche2"
+msgid "8.8cm PzGr. [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/56</c>"
+msgstr "PzGr. 8,8 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 apcbche"
+msgid "8.8cm PzGr.39 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/56</c>"
+msgstr "PzGr.39 8,8 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 apcr"
+msgid "8.8cm PzGr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/56</c>"
+msgstr "PzGr.40 8,8 cm [<c(48c445)>APCR</c>] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 heat"
+msgid "8.8cm Gr.39 HL [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/56</c>"
+msgstr "Gr.39 HL 8,8 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 he"
+msgid "8.8cm SprGr.L/4.5 [<c(ff1200)>HE</c>] <c(65696d)>L/56</c>"
+msgstr "SprGr.L/4.5 8,8 cm [<c(ff1200)>HE</c>] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l56 aa"
+msgid "8.8cm Fused [AA] <c(65696d)>L/56</c>"
+msgstr "Fused 8,8 cm [AA] <c(65696d)>L/56</c>"
+
+msgctxt "desc/ammo/bulletger_88_l71 apcbche"
+msgid "8.8cm PzGr.39/43 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/71</c>"
+msgstr "PzGr.39/43 8,8 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/71</c>"
+
+msgctxt "desc/ammo/bulletger_88_l71 he"
+msgid "8.8cm SprGr.43 [<c(ff1200)>HE</c>] <c(65696d)>L/71</c>"
+msgstr "SprGr.43 8,8 cm [<c(ff1200)>HE</c>] <c(65696d)>L/71</c>"
+
+msgctxt "desc/ammo/bulletger_105 aphe"
+msgid "10.5cm PzGr.rot [<c(ff6a00)>APHE</c>] <c(65696d)>L/28</c>"
+msgstr "PzGr.rot 10,5 cm [<c(ff6a00)>APHE</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulletger_105 alt he"
+msgid "10.5cm F.H.Gr [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr "F.H.Gr 10,5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulletger_105 he"
+msgid "10.5cm F.H.Gr [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr "F.H.Gr 10,5 cm [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulletger_105 heat"
+msgid "10.5cm Gr.39 HL/C [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/28</c>"
+msgstr "Gr.39 HL/C 10,5 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/28</c>"
+
+msgctxt "desc/ammo/bulletger_128 apcbche"
+msgid "12.8cm PzGr.43 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/55</c>"
+msgstr "PzGr.43 12,8 cm [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulletger_128 he"
+msgid "12.8cm SprGr.L/5.0 [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+msgstr "SprGr.L/5.0 12,8 cm [<c(ff1200)>HE</c>] <c(65696d)>L/55</c>"
+
+msgctxt "desc/ammo/bulletger_150_l11 he"
+msgid "15cm IGr.38 [<c(ff1200)>HE</c>] <c(65696d)>L/11</c>"
+msgstr "IGr.38 15 cm [<c(ff1200)>HE</c>] <c(65696d)>L/11</c>"
+
+msgctxt "desc/ammo/bulletger_150_l11 heat"
+msgid "15cm IGr.39 HL/A [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/11</c>"
+msgstr "IGr.39 HL/A 15 cm [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/11</c>"
+
+msgctxt "desc/ammo/bulletger_150_l11 he2"
+msgid "15cm Stielgranate.42 [<c(ff1200)>HE</c>] <c(65696d)>L/11</c>"
+msgstr "Stielgranate.42 15 cm [<c(ff1200)>HE</c>] <c(65696d)>L/11</c>"
+
+msgctxt "desc/ammo/bulletger_150_l11 sm"
+msgid "15cm IGr.38 Nb [SMOKE] <c(65696d)>L/11</c>"
+msgstr "IGr.38 Nb [HUMO] 15 cm <c(65696d)>L/11</c>"
+
+msgctxt "desc/ammo/bulletger_150_l30 he"
+msgid "15cm Gr.19 [<c(ff1200)>HE</c>]"
+msgstr "Gr.19 15 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_150_l30 heat"
+msgid "15cm Gr.39 HL/A [<c(c9a6ff)>HEAT</c>]"
+msgstr "Gr.39 HL/A 15 cm [<c(c9a6ff)>HEAT</c>]"
+
+msgctxt "desc/ammo/bulletger_150_l30 sm"
+msgid "15cm Gr.19 Nb [SMOKE]"
+msgstr "Gr.19 Nb [HUMO] 15 cm"
+
+msgctxt "desc/ammo/bullet_155 ger he"
+msgid "15.5cm Gr.422 (f) [<c(ff1200)>HE</c>]"
+msgstr "15,5 cm Gr.422 (f) [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_170 he"
+msgid "17cm K.Gr.39 [<c(ff1200)>HE</c>]"
+msgstr "K.Gr.39 17cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_203 he"
+msgid "20.3cm Gr.18 [<c(ff1200)>HE</c>]"
+msgstr "Gr.18 20,3 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_210 he"
+msgid "21cm Gr.18 [<c(ff1200)>HE</c>]"
+msgstr "Gr.18 21 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/bulletger_600 he"
+msgid "60cm schwere Betongranate 040"
+msgstr "Schwere Betongranate 040 60 cm"
+
+msgctxt "desc/ammo/bulletger_600 he2"
+msgid "60cm leichte Betongranate 040"
+msgstr "Leichte Betongranate 040 60 cm"
+
+msgctxt "desc/ammo/150mm_nebelwerfer"
+msgid "15cm Wurfgranate 41 [<c(ff1200)>HE</c>]"
+msgstr "Wurfgranate 41 15 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/300mm_nebelwerfer"
+msgid "30cm Schwere Raketen [<c(ff1200)>HE</c>]"
+msgstr "Schwere Raketen 30 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/380mm_rw61"
+msgid "38cm Raketen Sprenggranate 4581 [<c(ff1200)>HE</c>]"
+msgstr "Raketen Sprenggranate 4581 38 cm [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_ger_50kg"
+msgid "SC-50 [<c(ff1200)>HE</c>]"
+msgstr "SC-50 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/stuff/air_bomb_ger_50kg"
+msgid "SC-50 [<c(ff1200)>HE</c>]"
+msgstr "SC-50 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_ger_250kg"
+msgid "SC-250 [<c(ff1200)>HE</c>]"
+msgstr "SC-250 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_ger_250kg_mp"
+msgid "SC-250 [<c(ff1200)>HE</c>]"
+msgstr "SC-250 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/mortarger_50 he"
+msgid "[<c(ff1200)>HE</c>] 5cm Wgr.36 Mortar"
+msgstr "[<c(ff1200)>HE</c>] Mortero Wgr.36 5 cm"
+
+msgctxt "desc/ammo/mortarger_80 he"
+msgid "[<c(ff1200)>HE</c>] 8cm Wgr.34 Mortar"
+msgstr "[<c(ff1200)>HE</c>] Mortero Wgr.34 8 cm"
+
+msgctxt "desc/ammo/mortarger_80 sm"
+msgid "[SMOKE] 8cm Wgr.34 Mortar"
+msgstr "[HUMO] Mortero Wgr.34 8 cm"
+
+msgctxt "desc/ammo/mortarger_120 he"
+msgid "[<c(ff1200)>HE</c>] 12cm Wgr.42 Mortar"
+msgstr "[<c(ff1200)>HE</c>] Mortero Wgr.42 12 cm"
+
+msgctxt "desc/ammo/mortarger_120 sm"
+msgid "[SMOKE] 12cm Wgr.42 Mortar"
+msgstr "[HUMO] Mortero Wgr.42 12 cm"
+
+msgctxt "desc/ammo/air_bomb"
+msgid "Air Bomb [<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb big"
+msgid "Air Bomb Big[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea grande [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb small"
+msgid "Air Bomb Small[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea pequeña [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb stuff"
+msgid "Air Bomb Stuff[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea rellena [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_50kg"
+msgid "Air Bomb 50kg[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea 50 kg [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_100kg"
+msgid "Air Bomb 100kg[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea 100 kg [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/air_bomb_250kg"
+msgid "Air Bomb 250kg[<c(ff1200)>HE</c>]"
+msgstr "Bomba aérea 250 kg [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/dummy ap"
+msgid "Dummy AP"
+msgstr "Señuelo AP"
+
+msgctxt "desc/ammo/torpedo"
+msgid "Torpedo"
+msgstr "Torpedo"
+
+msgctxt "desc/ammo/goliath"
+msgid "Remote Control Explosive"
+msgstr "Explosivo por control remoto"
+
+msgctxt "desc/ammo/goliath 100kg"
+msgid "Goliath 100kg Explosive"
+msgstr "Explosivo de 100 kg Goliath"
+
+msgctxt "desc/ammo/goliath 60kg"
+msgid "Goliath 60kg Explosive"
+msgstr "Explosivo de 60 kg Goliath"

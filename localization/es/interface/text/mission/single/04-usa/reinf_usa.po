@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_usa)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgctxt "mission/single/04-usa/menu_usa/hintbonus"
+msgid "Air bombing of the selected area"
+msgstr "Bombardeo aéreo de la zona seleccionada"
+
+msgctxt "mission/single/04-usa/menu_usa/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Despliega tus refuerzos en el campo de batalla"
+
+msgctxt "mission/single/04-usa/menu_usa/menu:1_1"
+msgid "Infantry"
+msgstr "Infantería"
+
+msgctxt "mission/single/04-usa/menu_usa/menu:2_1"
+msgid "Support"
+msgstr "Soporte"
+
+msgctxt "mission/single/04-usa/menu_usa/menu:3_1"
+msgid "Vehicles"
+msgstr "Vehículos"
+
+msgctxt "mission/single/04-usa/menu_usa/menu:4_1"
+msgid "Tanks"
+msgstr "Tanques"
+
+msgctxt "mission/single/04-usa/menu_usa/menu:back"
+msgid "Return to menu"
+msgstr "Volver al menú"
+
+msgctxt "mission/single/04-usa/menu_usa/airstrike"
+msgid "Air strike"
+msgstr "Ataque aéreo"
+
+msgctxt "mission/single/04-usa/menu_usa/crew"
+msgid "Tank crew"
+msgstr "Tripulación del tanque"
+
+msgctxt "mission/single/04-usa/menu_usa/artymen"
+msgid "Artillerymen"
+msgstr "Artilleros"
+
+msgctxt "mission/single/04-usa/menu_usa/sniper"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "mission/single/04-usa/menu_usa/officer"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "mission/single/04-usa/menu_usa/medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/04-usa/menu_usa/flamer"
+msgid "Flamer"
+msgstr "Lanzallamas"
+
+msgctxt "mission/single/04-usa/menu_usa/signaller"
+msgid "Battery signaller"
+msgstr "Comunicador de batería"
+
+msgctxt "mission/single/04-usa/menu_usa/atsq"
+msgid "AT squad"
+msgstr "Escuadrón AT"
+
+msgctxt "mission/single/04-usa/menu_usa/inf"
+msgid "Rifle squad"
+msgstr "Escuadrón de fusileros"
+
+msgctxt "mission/single/04-usa/menu_usa/glider_sq"
+msgid "Glider squad"
+msgstr "Escuadra de planeadores"
+
+msgctxt "mission/single/04-usa/menu_usa/recon_sq"
+msgid "Recon squad"
+msgstr "Escuadrón de reconocimiento"
+
+msgctxt "mission/single/04-usa/menu_usa/rifle_heavy_sq"
+msgid "Heavy rifle squad"
+msgstr "Escuadra de fusiles pesados"
+
+msgctxt "mission/single/04-usa/menu_usa/engineer_sq"
+msgid "Engineer squad"
+msgstr "Escuadrón de ingenieros"
+
+msgctxt "mission/single/04-usa/menu_usa/airborne_sq"
+msgid "Airborne squad"
+msgstr "Escuadrón aerotransportado"
+
+msgctxt "mission/single/04-usa/menu_usa/veteran_sq"
+msgid "Veteran squad"
+msgstr "Pelotón de veteranos"
+
+msgctxt "mission/single/04-usa/menu_usa/1stspecial_sq"
+msgid "1st Special squad"
+msgstr "1ª brigada especial"
+
+msgctxt "mission/single/04-usa/menu_usa/ranger_sq"
+msgid "Ranger squad"
+msgstr "Escuadrón Ranger"
+
+msgctxt "mission/single/04-usa/menu_usa/m3a1_arm_inf"
+msgid "Rifle squad(M3A1)"
+msgstr "Escuadrón de fusileros (M3A1)"
+
+msgctxt "mission/single/04-usa/menu_usa/crate"
+msgid "Supply Crate"
+msgstr "Caja de suministros"
+
+msgctxt "mission/single/04-usa/menu_usa/cckw_art_ammo"
+msgid "Supply Truck"
+msgstr "Camión de suministros"
+
+msgctxt "mission/single/04-usa/menu_usa/cckw_fuel"
+msgid "Fuel Truck"
+msgstr "Camión de combustible"
+
+msgctxt "mission/single/04-usa/menu_usa/cckw_engineer"
+msgid "Engineering Truck"
+msgstr "Camión de ingeniería"
+
+msgctxt "mission/single/04-usa/menu_usa/m2_30cal_tripod"
+msgid "Browning M1919A4"
+msgstr "Browning M1919A4"
+
+msgctxt "mission/single/04-usa/menu_usa/m2_50cal_tripod"
+msgid "Browning M2HB"
+msgstr "Browning M2HB"
+
+msgctxt "mission/single/04-usa/menu_usa/m8_greyhound"
+msgid "M8 Greyhound"
+msgstr "M8 Greyhound"
+
+msgctxt "mission/single/04-usa/menu_usa/m21_mortar_carrier"
+msgid "Mortar Carrier M21"
+msgstr "Transporte de mortero M21"
+
+msgctxt "mission/single/04-usa/menu_usa/m15a1_cgmc"
+msgid "CGMC M15A1"
+msgstr "CGMC M15A1"
+
+msgctxt "mission/single/04-usa/menu_usa/m20"
+msgid "M20"
+msgstr "M20"
+
+msgctxt "mission/single/04-usa/menu_usa/m2_halftrack"
+msgid "M2 Halftrack"
+msgstr "M2 Semioruga"
+
+msgctxt "mission/single/04-usa/menu_usa/50cal_quad_m45"
+msgid "M55 Quadmount"
+msgstr "M55 Cuádruple de ametralladoras"
+
+msgctxt "mission/single/04-usa/menu_usa/m5a1_stuart"
+msgid "M5A1 Stuart"
+msgstr "M5A1 Stuart"
+
+msgctxt "mission/single/04-usa/menu_usa/81mm_m1"
+msgid "81mm Mortar M1"
+msgstr "Mortero M1 de 81 mm"
+
+msgctxt "mission/single/04-usa/menu_usa/60mm_m2"
+msgid "60mm Mortar M2"
+msgstr "Mortero de 60 mm M2"
+
+msgctxt "mission/single/04-usa/menu_usa/37mm_m3a1"
+msgid "37mm Gun M3A1"
+msgstr "Cañón de 37 mm M3A1"
+
+msgctxt "mission/single/04-usa/menu_usa/57mm_m1"
+msgid "57mm Gun M1"
+msgstr "Cañón de 57 mm M1"
+
+msgctxt "mission/single/04-usa/menu_usa/105mm_m2a1"
+msgid "105mm M2A1"
+msgstr "105mm M2A1"
+
+msgctxt "mission/single/04-usa/menu_usa/90mm_m2"
+msgid "90mm Gun M2"
+msgstr "Cañón de 90 mm M2"
+
+msgctxt "mission/single/04-usa/menu_usa/m16_mgmc"
+msgid "MGMC M16"
+msgstr "MGMC M16"
+
+msgctxt "mission/single/04-usa/menu_usa/40mm_m1"
+msgid "40mm Automatic M1"
+msgstr "40mm Automático M1"
+
+msgctxt "mission/single/04-usa/menu_usa/76mm_m5_m1"
+msgid "M5 Gun M1 Carriage"
+msgstr "Cañón M5 Afuste M1"
+
+msgctxt "mission/single/04-usa/menu_usa/76mm_m5_m6"
+msgid "M5 Gun M6 Carriage"
+msgstr "Cañón M5 Afuste M6"
+
+msgctxt "mission/single/04-usa/menu_usa/75mm_m1a1"
+msgid "75mm M1A1"
+msgstr "75mm M1A1"
+
+msgctxt "mission/single/04-usa/menu_usa/107mm_m2"
+msgid "4.2-inch Mortar M2"
+msgstr "Mortero de 4.2 pulgadas M2"
+
+msgctxt "mission/single/04-usa/menu_usa/m10_gmc"
+msgid "M10 Wolverine"
+msgstr "M10 Wolverine"
+
+msgctxt "mission/single/04-usa/menu_usa/m8_hmc"
+msgid "75mm HMC M8"
+msgstr "75mm HMC M8"
+
+msgctxt "mission/single/04-usa/menu_usa/m18_hellcat"
+msgid "M18 'Hellcat'"
+msgstr "M18 \"Hellcat"
+
+msgctxt "mission/single/04-usa/menu_usa/m4a1_75_late"
+msgid "M4A1 (Late)"
+msgstr "M4A1 (Tardío)"
+
+msgctxt "mission/single/04-usa/menu_usa/m4a3_75w_e4_5"
+msgid "M4A3(75)W 'E4-5'"
+msgstr "M4A3(75)W 'E4-5'"
+
+msgctxt "mission/single/04-usa/menu_usa/m4a3_75w"
+msgid "M4A3(75)W"
+msgstr "M4A3(75)W"
+
+msgctxt "mission/single/04-usa/menu_usa/m4a3_105"
+msgid "M4A3(105)"
+msgstr "M4A3(105)"
+
+msgctxt "mission/single/04-usa/menu_usa/m7b1_hmc"
+msgid "M7B1 Priest"
+msgstr "M7B1 Priest"
+
+msgctxt "mission/single/04-usa/menu_usa/m4a1_76w"
+msgid "M4A1(76)W"
+msgstr "M4A1(76)W"
+
+msgctxt "mission/single/04-usa/menu_usa/105mm_m3"
+msgid "105mm Howitzer M3"
+msgstr "Obús de 105 mm M3"
+
+msgctxt "mission/single/04-usa/menu_usa/155mm_m1a1_longtom"
+msgid "155mm 'Long Tom'"
+msgstr "155mm 'Long Tom"
+
+msgctxt "mission/single/04-usa/menu_usa/114mm_m1"
+msgid "4.5in M1 Howitzer"
+msgstr "Obús M1 de 4.5 pulgadas"
+
+msgctxt "mission/single/04-usa/menu_usa/155mm_m1"
+msgid "155mm Howitzer M1"
+msgstr "Obús M1 de 155 mm"
+
+msgctxt "mission/single/04-usa/menu_usa/203mm_m1"
+msgid "8in Howitzer M1"
+msgstr "Obús M1 de 8 pulgadas"
+
+msgctxt "mission/single/04-usa/menu_usa/m12_gmc"
+msgid "155mm GMC M12"
+msgstr "155mm GMC M12"

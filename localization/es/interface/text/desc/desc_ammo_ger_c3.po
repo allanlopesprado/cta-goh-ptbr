@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic and German ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/ammo/bullet_37x149 ger apc"
+msgid "3.7cm PzGr.146(f) [<c(ff6a00)>APC</c>] <c(65696d)>L/33</c>"
+msgstr "3.7cm PzGr.146(f) [<c(ff6a00)>APC</c>] <c(65696d)>L/33</c>"
+
+msgctxt "desc/ammo/bullet_37x149 ger he"
+msgid "3.7cm SprGr.145(f) [<c(ff1200)>HE</c>] <c(65696d)>L/33</c>"
+msgstr "3.7cm SprGr.145(f) [<c(ff1200)>HE</c>] <c(65696d)>L/33</c>"
+
+msgctxt "desc/ammo/bullet_47x193 ger apc"
+msgid "4.7cm PzGr.176(f) [<c(ff6a00)>APC</c>] <c(65696d)>L/32</c>"
+msgstr "4.7cm PzGr.176(f) [<c(ff6a00)>APC</c>] <c(65696d)>L/32</c>"
+
+msgctxt "desc/ammo/bullet_47x193 ger he"
+msgid "4.7cm SprGr.175(f) [<c(ff1200)>HE</c>] <c(65696d)>L/32</c>"
+msgstr "4.7cm SprGr.175(f) [<c(ff1200)>HE</c>] <c(65696d)>L/32</c>"
+
+msgctxt "desc/ammo/bulletger_50_l87 apcbche"
+msgid "5cm PzGr.42 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/87</c>"
+msgstr "5cm PzGr.42 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/87</c>"
+
+msgctxt "desc/ammo/bulletger_50_l87 he"
+msgid "5cm SprGr.41 [<c(ff1200)>HE</c>] <c(65696d)>L/87</c>"
+msgstr "5cm SprGr.41 [<c(ff1200)>HE</c>] <c(65696d)>L/87</c>"
+
+msgctxt "desc/ammo/bullet_75x241 ger aphe"
+msgid "7.5cm PzGr.234(f) [<c(ff6a00)>APHE</c>] <c(65696d)>L/17</c>"
+msgstr "7.5cm PzGr.234(f) [<c(ff6a00)>APHE</c>] <c(65696d)>L/17</c>"
+
+msgctxt "desc/ammo/bullet_75x241 ger he"
+msgid "7.5cm SprGr.231(f) [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"
+msgstr "7.5cm SprGr.231(f) [<c(ff1200)>HE</c>] <c(65696d)>L/17</c>"
+
+msgctxt "desc/ammo/210mm_nebelwerfer"
+msgid "21cm Wurfgranate 42 [<c(ff1200)>HE</c>]"
+msgstr "21cm Wurfgranate 42 [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/ammo/mortarger_100 he"
+msgid "[<c(ff1200)>HE</c>] 10cm Wgr.37 Mortar"
+msgstr "[<c(ff1200)>HE</c>] Mortero Wgr.37 de 10cm"
+
+msgctxt "desc/ammo/mortarger_100 sm"
+msgid "[SMOKE] 10cm Wgr.35 Nb St Mortar"
+msgstr "[SMOKE] Mortero Wgr.35 Nb St de 10cm"
+
+msgctxt "desc/ammo/mortarger_200 he"
+msgid "[<c(ff1200)>HE</c>] 20cm Wgr.40 Mortar"
+msgstr "[<c(ff1200)>HE</c>] Mortero Wgr.40 de 20cm"
+
+msgctxt "desc/ammo/mortarger_200 sm"
+msgid "[SMOKE] 20cm Nb.40 Mortar"
+msgstr "[SMOKE] Mortero Nb.40 de 20cm"

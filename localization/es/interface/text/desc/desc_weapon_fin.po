@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "desc/weapon/mosin_m27"
+msgid "Mosin M27"
+msgstr "Mosin M27"
+
+msgctxt "desc/weapon/mosin_m39"
+msgid "Mosin M39"
+msgstr "Mosin M39"
+
+msgctxt "desc/weapon/mosin_m27_ironsights"
+msgid "Mosin M27"
+msgstr "Mosin M27"
+
+msgctxt "desc/weapon/mosin_m27_scope"
+msgid "Mosin M27 (Scope)"
+msgstr "Mosin M27 (Mira)"
+
+msgctxt "desc/weapon/bergmann_m20"
+msgid "Bergmann M1920"
+msgstr "Bergmann M1920"
+
+msgctxt "desc/weapon/suomi_m31_tank"
+msgid "Suomi KP/31 (Tank)"
+msgstr "Suomi KP/31 (Tanque)"
+
+msgctxt "desc/weapon/suomi_m31_drum"
+msgid "Suomi KP/31 (Drum)"
+msgstr "Suomi KP/31 (Tambor)"
+
+msgctxt "desc/weapon/suomi_m31_stick"
+msgid "Suomi KP/31 (Stick)"
+msgstr "Suomi KP/31 (Stick)"
+
+msgctxt "desc/weapon/lahti_l35"
+msgid "Lahti L-35"
+msgstr "Lahti L-35"
+
+msgctxt "desc/weapon/hipower_1935"
+msgid "FN High-Power M/35"
+msgstr "FN M/35 de alta potencia"
+
+msgctxt "desc/weapon/m26"
+msgid "Lahti-Saloranta M/26"
+msgstr "Lahti-Saloranta M/26"
+
+msgctxt "desc/weapon/madsen"
+msgid "Madsen M20"
+msgstr "Madsen M20"
+
+msgctxt "desc/weapon/maxim_m09_31"
+msgid "Maxim M/09-31"
+msgstr "Maxim M/09-31"
+
+msgctxt "desc/weapon/l33_36"
+msgid "L-33/36"
+msgstr "L-33/36"
+
+msgctxt "desc/weapon/20mm_lahti_l39"
+msgid "20 pst kiv/39"
+msgstr "20 pst kiv/39"
+
+msgctxt "desc/weapon/20mm_itk35"
+msgid "20 ItK/35 L/65"
+msgstr "20 ItK/35 L/65"
+
+msgctxt "desc/weapon/20mm_itk40"
+msgid "20 ItK/40 L/65"
+msgstr "20 ItK/40 L/65"
+
+msgctxt "desc/weapon/37mm_psvk18"
+msgid "37 Psv.K/18 L/21"
+msgstr "37 Psv.K/18 L/21"
+
+msgctxt "desc/weapon/37mm_psvk36"
+msgid "37 Psv.K/36 L/45"
+msgstr "37 Psv.K/36 L/45"
+
+msgctxt "desc/weapon/37mm_pstk36"
+msgid "37 PstK/36 L/45"
+msgstr "37 PstK/36 L/45"
+
+msgctxt "desc/weapon/40mm_itk38"
+msgid "40 Itk/38 L/60"
+msgstr "40 Itk/38 L/60"
+
+msgctxt "desc/weapon/45mm_psvk38"
+msgid "45 Psv.K/38 L/46"
+msgstr "45 Psv.K/38 L/46"
+
+msgctxt "desc/weapon/47mm_pstk39"
+msgid "47 PstK/39 L/32"
+msgstr "47 PstK/39 L/32"
+
+msgctxt "desc/weapon/50mm_krh38"
+msgid "50 Krh/38"
+msgstr "50 Krh/38"
+
+msgctxt "desc/weapon/75mm_pstk9738"
+msgid "75 PstK/97-38"
+msgstr "75 PstK/97-38"
+
+msgctxt "desc/weapon/75mm_k44"
+msgid "75 K/44 L/55.7"
+msgstr "75 K/44 L/55.7"
+
+msgctxt "desc/weapon/75mm_itk37"
+msgid "75 ItK/37 L/48"
+msgstr "75 ItK/37 L/48"
+
+msgctxt "desc/weapon/81mm_krh36"
+msgid "81 Krh/36"
+msgstr "81 Krh/36"
+
+msgctxt "desc/weapon/84mm_k18"
+msgid "84 K/18 L/29.4"
+msgstr "84 K/18 L/29.4"
+
+msgctxt "desc/weapon/105mm_k13"
+msgid "105 K/13 L/28"
+msgstr "105 K/13 L/28"
+
+msgctxt "desc/weapon/105mm_k34"
+msgid "105 K/34 L/42"
+msgstr "105 K/34 L/42"
+
+msgctxt "desc/weapon/107mm_k10"
+msgid "107 K/10 L/28"
+msgstr "107 K/10 L/28"
+
+msgctxt "desc/weapon/114mm_psvh18"
+msgid "114 PsvH/18 L/15.6"
+msgstr "114 PsvH/18 L/15.6"
+
+msgctxt "desc/weapon/120mm_krh40"
+msgid "120 Krh/40"
+msgstr "120 Krh/40"
+
+msgctxt "desc/weapon/120mm_k78_31"
+msgid "120 K/78-31 L/27"
+msgstr "120 K/78-31 L/27"
+
+msgctxt "desc/weapon/155mm_h17"
+msgid "155 H/17 L/15"
+msgstr "155 H/17 L/15"
+
+msgctxt "desc/weapon/170mm_mmw"
+msgid "17cm mMW"
+msgstr "17cm mMW"
+
+msgctxt "desc/weapon/203mm_h17"
+msgid "203 H/17 L/16"
+msgstr "203 H/17 L/16"
+
+msgctxt "desc/weapon/suomi_m31_sjr_drum"
+msgid "Suomi KP/31 SJR (Drum)"
+msgstr "Suomi KP/31 SJR (Tambor)"
+
+msgctxt "desc/weapon/suomi_m31_sjr_stick"
+msgid "Suomi KP/31 SJR (Stick)"
+msgstr "Suomi KP/31 SJR (Tira)"
+
+msgctxt "desc/weapon/pist_07"
+msgid "900 PIST 07 FN"
+msgstr "900 PIST 07 FN"
+
+msgctxt "desc/weapon/pk_21"
+msgid "650 PK 21"
+msgstr "650 PK 21"
+
+msgctxt "desc/weapon/kiv_96"
+msgid "650 KIV 96"
+msgstr "650 KIV 96"
+
+msgctxt "desc/weapon/mg08"
+msgid "7.92 Maxim MG 08"
+msgstr "7.92 Maxim MG 08"
+
+msgctxt "desc/weapon/maxim_m32"
+msgid "7.62 Maxim M/32"
+msgstr "7.62 Maxim M/32"
+
+msgctxt "desc/weapon/25mm_pstk37"
+msgid "25 PstK/37 L/77"
+msgstr "25 PstK/37 L/77"
+
+msgctxt "desc/weapon/76mm_k00"
+msgid "76 K/00 L/30"
+msgstr "76 K/00 L/30"
+
+msgctxt "desc/weapon/76mm_lk13"
+msgid "76 LK/13 L/16.5"
+msgstr "76 LK/13 L/16,5"
+
+msgctxt "desc/weapon/76mm_itk31"
+msgid "76 ItK/31 L/55"
+msgstr "76 ItK/31 L/55"
+
+msgctxt "desc/weapon/114mm_h18"
+msgid "114 H/18 L/15.6"
+msgstr "114 H/18 L/15,6"
+
+msgctxt "desc/weapon/155mm_k17"
+msgid "155 K/18 L/31.9"
+msgstr "155 K/18 L/31,9"
+
+msgctxt "desc/weapon/210mm_h17"
+msgid "210 H/17 L/14.5"
+msgstr "210 H/17 L/14,5"
+
+msgctxt "desc/weapon/300mm_krh42"
+msgid "300 Krh/42"
+msgstr "300 Krh/42"
+

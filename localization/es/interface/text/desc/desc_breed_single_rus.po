@@ -1,0 +1,1549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_breed_single_rus)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/human/single/rus/1941_summer/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/border_1"
+msgid "Border Guard [SSV]"
+msgstr "Guardia de frontera [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/border_2"
+msgid "Border Guard [SSV]"
+msgstr "Guardia de frontera [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_summer/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_summer/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_summer/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_summer/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_summer/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_summer/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_summer/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_summer/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. SMG [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. SMG [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Teniente [SSV]"
+
+msgctxt "desc/human/single/rus/1941_summer/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT. [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/artilleryman"
+msgid "Artilleryman [SSV]"
+msgstr "Artillero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_win/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_win/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_win/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1941_win/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_win/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_win/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_win/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1941_win/officer"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/para_1"
+msgid "Desantnik - NCO [VVS]"
+msgstr "Desantnik - Suboficial [VVS]"
+
+msgctxt "desc/human/single/rus/1941_win/para_2"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1941_win/para_3"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1941_win/para_4"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1941_win/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/spetsnaz_radioman"
+msgid "Recon Radioman [SSV]"
+msgstr "Operador de radio recon. [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1941_win/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_autumn/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_autumn/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_autumn/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_autumn/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_autumn/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_autumn/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_autumn/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_autumn/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1942_autumn/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_summer/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_summer/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_summer/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_summer/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_summer/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_summer/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_summer/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_summer/officer"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1942_summer/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/assault-sapper_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/assault-sapper_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/assault-sapper_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_win/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_win/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_win/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1942_win/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_win/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_win/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_win/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1942_win/para_1"
+msgid "Mountain Trooper [SSV]"
+msgstr "Soldado de montaña [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/para_2"
+msgid "Mountain Trooper [SSV]"
+msgstr "Soldado de montaña [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/para_3"
+msgid "Mountain Trooper [SSV]"
+msgstr "Soldado de montaña [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/para_4"
+msgid "Mountain Trooper [SSV]"
+msgstr "Soldado de montaña [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/spetsnaz_1"
+msgid "NKVD Infantry [SSV]"
+msgstr "Infantería NKVD [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/spetsnaz_2"
+msgid "NKVD Infantry [SSV]"
+msgstr "Infantería NKVD [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/spetsnaz_3"
+msgid "NKVD Infantry [SSV]"
+msgstr "Infantería NKVD [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1942_win/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_summer/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_summer/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_summer/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_summer/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_summer/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_summer/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_summer/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_summer/officer"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/para_1"
+msgid "Desantnik - NCO [VVS]"
+msgstr "Desantnik - Suboficial [VVS]"
+
+msgctxt "desc/human/single/rus/1943_summer/para_2"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1943_summer/para_3"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1943_summer/para_4"
+msgid "Desantnik [VVS]"
+msgstr "Desantnik [VVS]"
+
+msgctxt "desc/human/single/rus/1943_summer/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_summer/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_win/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_win/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_win/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1943_win/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_win/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_win/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_win/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1943_win/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1943_win/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/antitank_1"
+msgid "AT. Inf. [SSV]"
+msgstr "Inf. AT [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/antitank_2"
+msgid "AT Support [SSV]"
+msgstr "Apoyo AT [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/antitank_3"
+msgid "Rifle grenadier [SSV]"
+msgstr "Granadero de rifle [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/antitank_4"
+msgid "Rifle AT grenadier [SSV]"
+msgstr "Granadero de rifle AT [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/assault-sap_1"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/assault-sap_2"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/assault-sap_3"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/assault-sap_4"
+msgid "Assault Sapper [SSV]"
+msgstr "Zapador de asalto [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/artilleryman"
+msgid "Artilleryman [KA]"
+msgstr "Artillero [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/commisar"
+msgid "Commissar [SSV]"
+msgstr "Comisario [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/officer"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/engineer_1"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/engineer_2"
+msgid "Field Engineer [SSV]"
+msgstr "Ingeniero de campo [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/flamer"
+msgid "Flamethrower Inf. [SSV]"
+msgstr "Inf. Lanzallamas [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/guard_1"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/guard_2"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/guard_3"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/guard_4"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/guard_5"
+msgid "Guard's Inf. [SSV]"
+msgstr "Inf. de guardia [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/marine_1"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1944_summer/marine_2"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1944_summer/marine_3"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1944_summer/marine_4"
+msgid "Marine. [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/single/rus/1944_summer/medic"
+msgid "Medic [SSV]"
+msgstr "Médico [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/mgun"
+msgid "MG Operator [SSV]"
+msgstr "Operador ametralladora [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/mgun2"
+msgid "MG Support [SSV]"
+msgstr "Ametralladora apoyo [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/miner-ap"
+msgid "AP-Mine Engineer [SSV]"
+msgstr "Ingeniero de minas AP [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/miner-at"
+msgid "AT-mine Engineer [SSV]"
+msgstr "Ingeniero de minas AT [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/nkvd_1"
+msgid "Political Officer [NKVD]"
+msgstr "Oficial político [NKVD]"
+
+msgctxt "desc/human/single/rus/1944_summer/nkvd_2"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1944_summer/nkvd_3"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1944_summer/nkvd_4"
+msgid "Convicted Recruit [NKVD]"
+msgstr "Recluta convicto [NKVD]"
+
+msgctxt "desc/human/single/rus/1944_summer/partisan_1"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/partisan_2"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/partisan_3"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/partisan_4"
+msgid "Partisan [SSV]"
+msgstr "Partisano [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/rifleman_1"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/rifleman_2"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/rifleman_3"
+msgid "Rifleman [SSV]"
+msgstr "Fusilero [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/rifle-svt"
+msgid "Veteran Rifleman [SSV]"
+msgstr "Fusilero veterano [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/smg_1"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/smg_2"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/smg_3"
+msgid "SMG Inf. [SSV]"
+msgstr "Inf. subfusil [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/sniper"
+msgid "Sniper [SSV]"
+msgstr "Francotirador [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/spetsnaz_1"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/spetsnaz_2"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/spetsnaz_3"
+msgid "Recon Special Ops [SSV]"
+msgstr "Recon. operaciones especiales [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/tankman_com"
+msgid "Leytenant [SSV]"
+msgstr "Leytenant [SSV]"
+
+msgctxt "desc/human/single/rus/1944_summer/tankman"
+msgid "Tankman [SSV]"
+msgstr "Operador tanque [SSV]"

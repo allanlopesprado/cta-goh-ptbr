@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/squad/squad_conscripts(rus)"
+msgid "<c(A5A095)>(1)</c> Conscript rifle squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros reclutas"
+
+msgctxt "desc/squad/squad_recon(rus)"
+msgid "<c(A5A095)>(2)</c> Recon squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "desc/squad/squad_rifleunit_alt(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad (No LMG)"
+msgstr "<c(A5A095)>(2)</c> Fusileros (Sin MG)"
+
+msgctxt "desc/squad/squad_rifleunit(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifleunit_42(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "desc/squad/squad_at_rifle(rus)"
+msgid "<c(A5A095)>(2)</c> Anti-tank rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros anti-tanque"
+
+msgctxt "desc/squad/squad_paras(rus)"
+msgid "<c(A5A095)>(3)</c> Paratrooper squad"
+msgstr "<c(A5A095)>(3)</c> Paracaidistas"
+
+msgctxt "desc/squad/squad_marines(rus)"
+msgid "<c(A5A095)>(4)</c> Black sea Marine squad"
+msgstr "<c(A5A095)>(4)</c> Marines de élite"
+
+msgctxt "desc/squad/squad_strafbatallion(ger)"
+msgid "<c(A5A095)>(1)</c> Strafbatallion squad"
+msgstr "<c(A5A095)>(1)</c> Soldados convictos"
+
+msgctxt "desc/squad/squad_recon(ger)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "info/squad/squad_recon(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular(ger)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "info/squad/squad_regular(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular_armored(ger)"
+msgid "<c(A5A095)>(2)</c> Armored Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros motorizados"
+
+msgctxt "info/squad/squad_regular_armored(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pionier(ger)"
+msgid "<c(A5A095)>(2)</c> Pionier squad"
+msgstr "<c(A5A095)>(2)</c> Pioneros"
+
+msgctxt "info/squad/squad_pionier(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pionier_late(ger)"
+msgid "<c(A5A095)>(2)</c> Pionier squad"
+msgstr "<c(A5A095)>(2)</c> Pioneros"
+
+msgctxt "desc/squad/squad_regular_vet(ger)"
+msgid "<c(A5A095)>(3)</c> Veteran Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Unidad veterana"
+
+msgctxt "info/squad/squad_regular_vet(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_gd_mid(ger)"
+msgid "<c(A5A095)>(4)</c> Großdeutschland Rifle squad"
+msgstr "<c(A5A095)>(4)</c> Unidad Großdeutschland"
+
+msgctxt "info/squad/squad_gd_mid(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_partisan(rus)"
+msgid "<c(A5A095)>(1)</c> Partisans"
+msgstr "<c(A5A095)>(1)</c> Partisanos"
+
+msgctxt "desc/squad/squad_conscripts_late(rus)"
+msgid "<c(A5A095)>(1)</c> Conscript rifle squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros reclutas"
+
+msgctxt "desc/squad/squad_recon_late(rus)"
+msgid "<c(A5A095)>(2)</c> Recon squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "desc/squad/squad_rifleunit_heavy(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros pesados"
+
+msgctxt "desc/squad/squad_rifleunit_44(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "desc/squad/squad_smg(rus)"
+msgid "<c(A5A095)>(2)</c> SMG squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de Subametralladoras"
+
+msgctxt "desc/squad/squad_smg_heavy(rus)"
+msgid "<c(A5A095)>(2)</c> SMG squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de Subametralladoras"
+
+msgctxt "desc/squad/squad_guardsrifle(rus)"
+msgid "<c(A5A095)>(3)</c> Guards Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Unidad de la Guardia"
+
+msgctxt "desc/squad/squad_guards_smg_heavy(rus)"
+msgid "<c(A5A095)>(3)</c> Guards SMG squad"
+msgstr "<c(A5A095)>(3)</c> Unidad de la Guardia (Subametralladoras)"
+
+msgctxt "desc/squad/squad_marines_late(rus)"
+msgid "<c(A5A095)>(4)</c> Guards Marine squad"
+msgstr "<c(A5A095)>(4)</c> Marines veteranos de la Guardia"
+
+msgctxt "desc/squad/squad_border(rus)"
+msgid "<c(A5A095)>(1)</c> Border Guards squad"
+msgstr "<c(A5A095)>(1)</c> Patrulla fronteriza"
+
+msgctxt "desc/squad/squad_partisan_con(rus)"
+msgid "<c(A5A095)>(1)</c> Partisan squad"
+msgstr "<c(A5A095)>(1)</c> Partisanos"
+
+msgctxt "desc/squad/squad_penal_con(rus)"
+msgid "<c(A5A095)>(1)</c> Penal batallion squad"
+msgstr "<c(A5A095)>(1)</c> Escuadrón penal"
+
+msgctxt "desc/squad/squad_conscripts_con(rus)"
+msgid "<c(A5A095)>(1)</c> Conscript Rifle squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros reclutas"
+
+msgctxt "desc/squad/squad_recon_con(rus)"
+msgid "<c(A5A095)>(2)</c> Recon squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "desc/squad/squad_at_rifle_con(rus)"
+msgid "<c(A5A095)>(2)</c> AT rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros antitanque"
+
+msgctxt "desc/squad/squad_rifleunit_alt_con(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad (No LMG)"
+msgstr "<c(A5A095)>(2)</c> Fusileros (Sin MG)"
+
+msgctxt "desc/squad/squad_rifleunit_con(rus)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_motorised_con"
+msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros motorizados"
+
+msgctxt "desc/squad/squad_smg_con(rus)"
+msgid "<c(A5A095)>(2)</c> SMG squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de Subametralladoras"
+
+msgctxt "desc/squad/squad_mountainrifles_con(rus)"
+msgid "<c(A5A095)>(3)</c> Mountain Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Escuadrilla de montaña"
+
+msgctxt "desc/squad/squad_guardsrifle_con(rus)"
+msgid "<c(A5A095)>(3)</c> Guards Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Unidad de la Guardia"
+
+msgctxt "desc/squad/squad_guardsrifle_motorised_con"
+msgid "<c(A5A095)>(3)</c> Motorized Guards Rifle squad"
+msgstr "<c(A5A095)>(3)</c> Unidad motorizada de la Guardia"
+
+msgctxt "desc/squad/squad_guards_smg_con(rus)"
+msgid "<c(A5A095)>(3)</c> Guards SMG squad (heavy)"
+msgstr "<c(A5A095)>(3)</c> Unidad de la Guardia (Subametralladoras)"
+
+msgctxt "desc/squad/squad_spetsnaz(rus)"
+msgid "<c(A5A095)>(4)</c> Osnaz Unit"
+msgstr "<c(A5A095)>(4)</c> Comandos Osnaz"
+
+msgctxt "desc/squad/squad_assaultsappers_con(rus)"
+msgid "<c(A5A095)>(3)</c> Assault-engineer sapper squad"
+msgstr "<c(A5A095)>(3)</c> Zapadores de asalto"
+
+msgctxt "desc/squad/squad_assaultsappers_flame_con(rus)"
+msgid "<c(A5A095)>(3)</c> Assault-engineer flamer squad"
+msgstr "<c(A5A095)>(3)</c> Zapadores lanzallamas de asalto"
+
+msgctxt "desc/squad/squad_paras_con(rus)"
+msgid "<c(A5A095)>(3)</c> Paratrooper squad"
+msgstr "<c(A5A095)>(3)</c> Paracaidistas"
+
+msgctxt "desc/squad/squad_marines_con(rus)"
+msgid "<c(A5A095)>(4)</c> Black sea marine squad"
+msgstr "<c(A5A095)>(4)</c> Marines de élite"
+
+msgctxt "desc/squad/squad_lw_fusilier_late(ger)"
+msgid "<c(A5A095)>(1)</c> LW. Fusilier squad"
+msgstr "<c(A5A095)>(1)</c> Unidad de Luftwaffe"
+
+msgctxt "info/squad/squad_lw_fusilier_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_recon_late(ger)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "info/squad/squad_recon_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_grenadiere_late(ger)"
+msgid "<c(A5A095)>(2)</c> Grenadier squad"
+msgstr "<c(A5A095)>(2)</c> Unidad Grenadier"
+
+msgctxt "info/squad/squad_grenadiere_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pzgrenadiere_late(ger)"
+msgid "<c(A5A095)>(2)</c> Panzergrenadier squad"
+msgstr "<c(A5A095)>(2)</c> Unidad Panzergrenadier"
+
+msgctxt "info/squad/squad_pzgrenadiere_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_fusilier_late(ger)"
+msgid "<c(A5A095)>(3)</c> Fusilier squad"
+msgstr "<c(A5A095)>(3)</c> Fusileros"
+
+msgctxt "info/squad/squad_fusilier_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_jager_late(ger)"
+msgid "<c(A5A095)>(3)</c> Jäger squad"
+msgstr "<c(A5A095)>(3)</c> Unidad Jäger"
+
+msgctxt "info/squad/squad_jager_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_gebirgsjaeger_late(ger)"
+msgid "<c(A5A095)>(4)</c> Gebirgsjäger squad"
+msgstr "<c(A5A095)>(4)</c> Tropas de montaña"
+
+msgctxt "info/squad/squad_gebirgsjaeger_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pzgrenadiere_gd_late(ger)"
+msgid "<c(A5A095)>(4)</c> Großdeutschland Panzergrenadier squad"
+msgstr "<c(A5A095)>(4)</c> Unidad Großdeutschland Panzergrenadier"
+
+msgctxt "info/squad/squad_pzgrenadiere_gd_late(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_osttruppen_con(ger)"
+msgid "<c(A5A095)>(1)</c> Osttruppen squad"
+msgstr "<c(A5A095)>(1)</c> Colaboradores Osttruppen"
+
+msgctxt "info/squad/squad_osttruppen_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_strafbatallion_con(ger)"
+msgid "<c(A5A095)>(1)</c> Strafbatallion squad"
+msgstr "<c(A5A095)>(1)</c> Soldados convictos"
+
+msgctxt "info/squad/squad_strafbatallion_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_luftwaffe_con(ger)"
+msgid "<c(A5A095)>(1)</c> Luftwaffe Rifle squad"
+msgstr "<c(A5A095)>(1)</c> Unidad de Luftwaffe"
+
+msgctxt "info/squad/squad_luftwaffe_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_blau_con(ger)"
+msgid "<c(A5A095)>(4)</c> Blau division squad"
+msgstr "<c(A5A095)>(4)</c> División Azul"
+
+msgctxt "info/squad/squad_blau_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_brandenburger_con(ger)"
+msgid "<c(A5A095)>(4)</c> Brandenburger squad"
+msgstr "<c(A5A095)>(4)</c> Comandos Brandenburger"
+
+msgctxt "info/squad/squad_brandenburger_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_sicherung_con(ger)"
+msgid "<c(A5A095)>(2)</c> Sicherungs squad"
+msgstr "<c(A5A095)>(2)</c> Unidad Sicherung"
+
+msgctxt "info/squad/squad_sicherung_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular_con(ger)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros"
+
+msgctxt "info/squad/squad_regular_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular_motor_con"
+msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros motorizados"
+
+msgctxt "info/squad/squad_regular_motor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular_armor_con"
+msgid "<c(A5A095)>(2)</c> Armored Rifle squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros pesados"
+
+msgctxt "info/squad/squad_regular_armor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_regular_vet_con(ger)"
+msgid "<c(A5A095)>(2+)</c> Veteran Rifle squad"
+msgstr "<c(A5A095)>(2+)</c> Unidad veterana"
+
+msgctxt "info/squad/squad_regular_vet_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_gd_motor_con"
+msgid "<c(A5A095)>(3+)</c> Großdeutschland Motorized Rifle squad"
+msgstr "<c(A5A095)>(3+)</c> Unidad motorizada Großdeutschland"
+
+msgctxt "info/squad/squad_gd_motor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_jaeger_con(ger)"
+msgid "<c(A5A095)>(3)</c> Jäger squad"
+msgstr "<c(A5A095)>(3)</c> Unidad Jäger"
+
+msgctxt "info/squad/squad_jaeger_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pionier_con(ger)"
+msgid "<c(A5A095)>(2)</c> Pionier squad"
+msgstr "<c(A5A095)>(2)</c> Pioneros"
+
+msgctxt "info/squad/squad_pionier_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pz_pio_con"
+msgid "<c(A5A095)>(2)</c> Armored Pz-Pionier squad"
+msgstr "<c(A5A095)>(2)</c> Pioneros motorizados"
+
+msgctxt "info/squad/squad_pz_pio_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_pz_pio_302_con(ger)"
+msgid "Pz-Pionier team (Goliath)"
+msgstr "Equipo Pz-Pionier con Goliath 302" 
+
+msgctxt "desc/squad/squad_pz_pio_303b_con(ger)"
+msgid "Pz-Pionier team (Goliath)"
+msgstr "Equipo Pz-Pionier con Goliath 303b"
+
+msgctxt "desc/squad/squad_recon_con(ger)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Unidad de reconocimiento"
+
+msgctxt "info/squad/squad_recon_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_recon_motor_con"
+msgid "<c(A5A095)>(2)</c> Motorized Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Exploradores motorizado"
+
+msgctxt "info/squad/squad_recon_motor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_recon_armor_con"
+msgid "<c(A5A095)>(2)</c> Armored Aufklärer squad"
+msgstr "<c(A5A095)>(2)</c> Reconocimiento motorizado"
+
+msgctxt "info/squad/squad_recon_armor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_gebirgsjaeger_con(ger)"
+msgid "<c(A5A095)>(4)</c> Gebirgsjäger squad"
+msgstr "<c(A5A095)>(4)</c> Tropas de montaña"
+
+msgctxt "info/squad/squad_gebirgsjaeger_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_fallschirmjaeger_con(ger)"
+msgid "<c(A5A095)>(4)</c> Fallschirmjäger squad"
+msgstr "<c(A5A095)>(4)</c> Paracaidistas"
+
+msgctxt "info/squad/squad_fallschirmjaeger_con(ger)"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_fallschirmjaeger_motor_con"
+msgid "<c(A5A095)>(4)</c> Motorized Fallschirmjäger squad"
+msgstr "<c(A5A095)>(4)</c> Paracaidistas motorizados"
+
+msgctxt "info/squad/squad_fallschirmjaeger_motor_con"
+msgid "Squad historical description <c(DB465A)>Tips description.</c>"
+msgstr "Información histórica de la unidad <c(DB465A)>Consejos.</c>"
+
+msgctxt "desc/squad/squad_officer_con(ger)"
+msgid "Command squad"
+msgstr "Unidad del alto mando"
+
+msgctxt "desc/squad/squad_officer_kubel_con"
+msgid "Kfz. 1 (Command)"
+msgstr "Kfz. 1 (Alto mando)"
+
+msgctxt "desc/squad/squad_officer_250_3_con"
+msgid "Sd.Kfz 250/3 (Command)"
+msgstr "Sd.Kfz 250/3 (Alto mando)"
+
+msgctxt "desc/squad/squad_officer_con(rus)"
+msgid "Command squad"
+msgstr "Unidad del alto mando"
+
+msgctxt "desc/squad/squad_officer_gaz_con"
+msgid "GAZ-67 (Command)"
+msgstr "GAZ-67 (Alto mando)"

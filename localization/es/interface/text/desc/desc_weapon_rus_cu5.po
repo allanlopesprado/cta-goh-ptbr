@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgctxt "desc/weapon/76mm_m1931"
+msgid "76mm M1931 L/55"
+msgstr "76mm M1931 L/55"
+
+msgctxt "desc/weapon/76mm_m1938"
+msgid "76mm M1938 L/55"
+msgstr "76mm M1938 L/55"
+
+msgctxt "desc/weapon/82mm_bm8_24"
+msgid "BM-8-24 (24x82mm Rockets)"
+msgstr "BM-8-24 (24 Cohetes de 82mm)"
+
+msgctxt "desc/weapon/82mm_bm8_48"
+msgid "BM-8-48 (48x82mm Rockets)"
+msgstr "BM-8-48 (48 Cohetes de 82mm)"
+
+msgctxt "desc/weapon/132mm_bm13"
+msgid "BM-13-16 (16x132mm Rockets)"
+msgstr "BM-13-16 (16 cohetes de 132 mm)"
+
+msgctxt "desc/weapon/300mm_m30"
+msgid "M-31-4 (4x300mm Rockets)"
+msgstr "M-31-4 (4 cohetes de 300 mm)"
+
+msgctxt "desc/weapon/300mm_m31"
+msgid "M-31-8 (8x300mm Rockets)"
+msgstr "M-31-8 (8 cohetes de 300 mm)"
+
+msgctxt "desc/weapon/300mm_bm30"
+msgid "BM-31-12 (12x300mm Rockets)"
+msgstr "BM-31-12 (12 cohetes de 300 mm)"

@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+msgctxt "desc/human/mp/ger/early/brand_4"
+msgid "Brandenburger MG asst. [Heer]"
+msgstr "Asisntente MG Brandenburger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/brand_5"
+msgid "Brandenburger Leader asst. [Heer]"
+msgstr "Asistente de líder Brandenburger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/brand_6"
+msgid "Brandenburger [Heer]"
+msgstr "Brandenburger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_mg"
+msgid "Fallschirmjäger MG Operator [Luftwaffe]"
+msgstr "Operador MG Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_mg_ammo"
+msgid "Fallschirmjäger MG ammo bearer [Luftwaffe]"
+msgstr "Portador de munición MG Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_mg_asst"
+msgid "Fallschirmjäger MG asst. [Luftwaffe]"
+msgstr "Asistente MG Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_crew"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_rifle"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_rifle_scope"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_sl"
+msgid "Fallschirmjäger Squadleader [Luftwaffe]"
+msgstr "Líder de escuadrón Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_sl_asst"
+msgid "Fallschirmjäger Leader asst. [Luftwaffe]"
+msgstr "Asistente de líder Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/feldg_rifle"
+msgid "Rifleman [Feldgendarmerie]"
+msgstr "Fusilero [Feldgendarmerie]"
+
+msgctxt "desc/human/mp/ger/early/feldg_smg"
+msgid "SMG Inf. [Feldgendarmerie]"
+msgstr "Infantería SMG [Feldgendarmerie]"
+
+msgctxt "desc/human/mp/ger/early/feldg_nco"
+msgid "Squadleader [Feldgendarmerie]"
+msgstr "Líder de escuadrón [Feldgendarmerie]"
+
+msgctxt "desc/human/mp/ger/early/fallsch_smg"
+msgid "Fallschirmjäger [Luftwaffe]"
+msgstr "Fallschirmjäger [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/gd_mg"
+msgid "Großdeutschland MG Operator [Heer]"
+msgstr "Operador MG Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gd_mg_ammo"
+msgid "Großdeutschland MG ammo bearer [Heer]"
+msgstr "Portador de munición MG Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gd_mg_asst"
+msgid "Großdeutschland MG asst. [Heer]"
+msgstr "Asistente MG Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gd_rifle"
+msgid "Großdeutschland Rifleman [Heer]"
+msgstr "Fusilero Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gd_sl"
+msgid "Großdeutschland Squadleader [Heer]"
+msgstr "Líder de escuadrón Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gd_sl_asst"
+msgid "Großdeutschland Leader asst. [Heer]"
+msgstr "Asistente de líder Großdeutschland [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_mg"
+msgid "Gebirgsjäger MG Operator [Heer]"
+msgstr "Operador MG Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_mg_asst"
+msgid "Gebirgsjäger MG asst. [Heer]"
+msgstr "Asistente MG Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_rifle"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_sl"
+msgid "Gebirgsjäger Squadleader [Heer]"
+msgstr "Líder de escuadrón Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_sl_asst"
+msgid "Gebirgsjäger Leader asst. [Heer]"
+msgstr "Asistente de líder Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/gebirgs_smg"
+msgid "Gebirgsjäger [Heer]"
+msgstr "Gebirgsjäger [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_mg"
+msgid "Landesschütze MG Operator [Heer]"
+msgstr "Operador MG Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_mg_ammo"
+msgid "Landesschütze MG ammo bearer [Heer]"
+msgstr "Portador de munición MG Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_mg_asst"
+msgid "Landesschütze MG asst. [Heer]"
+msgstr "Asistente MG Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_rifle"
+msgid "Landesschütze [Heer]"
+msgstr "Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_sl"
+msgid "Landesschütze Squadleader [Heer]"
+msgstr "Líder de escuadrón Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/landwehr_sl_asst"
+msgid "Landesschütze Leader asst. [Heer]"
+msgstr "Asistente de líder Landesschütze [Heer]"
+
+msgctxt "desc/human/mp/ger/early/luft_mg"
+msgid "LW MG Operator [Luftwaffe]"
+msgstr "Operador LW MG [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/luft_mg_ammo"
+msgid "LW MG ammo bearer [Luftwaffe]"
+msgstr "Portador de munición LW MG [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/luft_mg_asst"
+msgid "LW MG asst. [Luftwaffe]"
+msgstr "Asistente LW MG [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/luft_rifle"
+msgid "LW Rifleman [Luftwaffe]"
+msgstr "Fusilero LW [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/luft_sl"
+msgid "LW Squadleader [Luftwaffe]"
+msgstr "Líder de escuadrón LW [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/luft_sl_asst"
+msgid "LW Leader asst. [Luftwaffe]"
+msgstr "Asistente de líder LW [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/early/marine_mg"
+msgid "Marine MG Operator [Kriegsmarine]"
+msgstr "Operador MG marine [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/marine_mg_ammo"
+msgid "Marine MG ammo bearer [Kriegsmarine]"
+msgstr "Portador de munición MG marine [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/marine_mg_asst"
+msgid "Marine MG asst. [Kriegsmarine]"
+msgstr "Asistente MG marine [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/marine_rifle"
+msgid "Marine [Kriegsmarine]"
+msgstr "Marine [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/marine_sl"
+msgid "Marine Squadleader [Kriegsmarine]"
+msgstr "Líder de escuadrón de marines [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/marine_sl_asst"
+msgid "Marine Leader asst. [Kriegsmarine]"
+msgstr "Asistente de líder marine [Kriegsmarine]"
+
+msgctxt "desc/human/mp/ger/early/mg_crew"
+msgid "MG crew [Heer]"
+msgstr "Unidad MG [Heer]"
+
+msgctxt "desc/human/mp/ger/early/mg_crew_asst"
+msgid "MG crew asst. [Heer]"
+msgstr "Asistente de unidad MG [Heer]"
+
+msgctxt "desc/human/mp/ger/early/mgun_2_rifle"
+msgid "MG asst. [Heer]"
+msgstr "Asistente MG [Heer]"
+
+msgctxt "desc/human/mp/ger/early/mgun_3"
+msgid "MG ammo bearer [Heer]"
+msgstr "Portador de munición MG [Heer]"
+
+msgctxt "desc/human/mp/ger/early/nco_asst"
+msgid "Leader asst. [Heer]"
+msgstr "Asistente de líder [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_flame"
+msgid "Pionier [Heer]"
+msgstr "Pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_mgun"
+msgid "Pionier MG Operator [Heer]"
+msgstr "Operador MG pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_mgun_ammo_carrier"
+msgid "Pionier MG ammo bearer [Heer]"
+msgstr "Portador de munición MG pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_mgun_asst"
+msgid "Pionier MG asst. [Heer]"
+msgstr "Asistente MG pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_rifle"
+msgid "Pionier [Heer]"
+msgstr "Pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_rifle_gren"
+msgid "Pionier [Heer]"
+msgstr "Pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_rifle_mine"
+msgid "Pionier [Heer]"
+msgstr "Pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_sl"
+msgid "Pionier Squadleader [Heer]"
+msgstr "Líder de escuadrón pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pioneer_sl_asst"
+msgid "Pionier Leader asst. [Heer]"
+msgstr "Asistente de líder pionero [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_flame"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_mg"
+msgid "Panzerpionier MG Operator [Heer]"
+msgstr "Operador MG Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_mg_ammo_carrier"
+msgid "Panzerpionier MG ammo bearer [Heer]"
+msgstr "Portador de munición MG Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_mg_asst"
+msgid "Panzerpionier MG asst. [Heer]"
+msgstr "Asistente MG Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_rifle"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_rifle_gren"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_rifle_mine"
+msgid "Panzerpionier [Heer]"
+msgstr "Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_sl"
+msgid "Panzerpionier Squadleader [Heer]"
+msgstr "Líder de escuadrón Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/pz_pio_sl_asst"
+msgid "Panzerpionier Leader asst. [Heer]"
+msgstr "Asistente de líder Panzerpionier [Heer]"
+
+msgctxt "desc/human/mp/ger/early/recon_mg"
+msgid "Aufklärer MG Operator [Heer]"
+msgstr "Operador MG Aufklärer [Heer]"
+
+msgctxt "desc/human/mp/ger/early/recon_mg_asst"
+msgid "Aufklärer MG asst. [Heer]"
+msgstr "Asistente MG Aufklärer [Heer]"
+
+msgctxt "desc/human/mp/ger/early/recon_rifle"
+msgid "Aufklärer [Heer]"
+msgstr "Aufklärer [Heer]"
+
+msgctxt "desc/human/mp/ger/early/recon_sl"
+msgid "Aufklärer Squadleader [Heer]"
+msgstr "Líder de escuadrón Aufklärer [Heer]"
+
+msgctxt "desc/human/mp/ger/early/recon_sl_asst"
+msgid "Aufklärer Leader asst. [Heer]"
+msgstr "Asistente de líder Aufklärer [Heer]"
+
+msgctxt "desc/human/mp/ger/early/sniper_elite"
+msgid "Elite Sniper [Heer]"
+msgstr "Francotirador de élite [Heer]"
+
+msgctxt "desc/human/mp/ger/late/luft_1"
+msgid "LW Squadleader [Luftwaffe]"
+msgstr "Líder de escuadrón LW [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/late/luft_2"
+msgid "LW Rifleman [Luftwaffe]"
+msgstr "Fusilero LW [Luftwaffe]"
+
+msgctxt "desc/human/mp/ger/late/luft_3"
+msgid "LW MG Operator [Luftwaffe]"
+msgstr "Operador LW MG [Luftwaffe]"

@@ -1,0 +1,901 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_squad_doctrines)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/squad/doctrine_sdkfz250"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 250"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 250"
+
+msgctxt "desc/squad/doctrine_panzer2f"
+msgid "<c(B29557)>( I )</c> Panzer II Ausf.F"
+msgstr "<c(B29557)>( I )</c> Panzer II Ausf.F"
+
+msgctxt "desc/squad/doctrine_panzer2f_mid"
+msgid "<c(B29557)>( I )</c> Panzer II Ausf.F"
+msgstr "<c(B29557)>( I )</c> Panzer II Ausf.F"
+
+msgctxt "desc/squad/doctrine_squad_regular_motorised"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 251 + Inf."
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251 + Inf."
+
+msgctxt "desc/squad/doctrine_squad_gebirgsjaeger_early(ger)"
+msgid "<c(B29557)>( I )</c> Gebirgsjäger"
+msgstr "<c(B29557)>( I )</c> Gebirgsjäger"
+
+msgctxt "desc/squad/doctrine_panzer3h"
+msgid "<c(B29557)>( II )</c> Panzer III Ausf. H"
+msgstr "<c(B29557)>( II )</c> Panzer III Ausf. H"
+
+msgctxt "desc/squad/doctrine_stug3b"
+msgid "<c(B29557)>( II )</c> StuG III Ausf. B"
+msgstr "<c(B29557)>( II )</c> StuG III Ausf. B"
+
+msgctxt "desc/squad/doctrine_2panzer3j"
+msgid "<c(B29557)>( I )</c> 2x Panzer III Ausf. J"
+msgstr "<c(B29557)>( I )</c> 2x Panzer III Ausf. J"
+
+msgctxt "desc/squad/doctrine_kettenkrad"
+msgid "<c(B29557)>( I )</c> Kettenkrad + Pioniere"
+msgstr "<c(B29557)>( I )</c> Kettenkrad + Pioniere"
+
+msgctxt "desc/squad/doctrine_towed_pak34t"
+msgid "<c(B29557)>( I )</c> 4.7cm PaK(t)"
+msgstr "<c(B29557)>( I )</c> PaK(t) 4,7 cm"
+
+msgctxt "desc/squad/doctrine_squad_garrison"
+msgid "<c(B29557)>( I )</c> Defense Garrison"
+msgstr "<c(B29557)>( I )</c> Guarnición defensiva"
+
+msgctxt "desc/squad/doctrine_37mm_flak37"
+msgid "<c(B29557)>( I )</c> 3.7cm Flak 37"
+msgstr "<c(B29557)>( I )</c> Flak 37 de 3,7 cm"
+
+msgctxt "desc/squad/doctrine_88mm_flak18"
+msgid "<c(B29557)>( I )</c> 8.8cm Flak 18"
+msgstr "<c(B29557)>( I )</c> Flak 18 de 8,8 cm"
+
+msgctxt "desc/squad/doctrine_150mm_sig33"
+msgid "<c(B29557)>( I )</c> 15cm s IG 33"
+msgstr "<c(B29557)>( I )</c> sIG 33 de 15 cm"
+
+msgctxt "desc/squad/doctrine_210mm_morser18"
+msgid "<c(B29557)>( I )</c> 21cm Mörser 18"
+msgstr "<c(B29557)>( I )</c> Mörser 18 de 21 cm"
+
+msgctxt "desc/squad/doctrine_kubelwagen_dak"
+msgid "<c(B29557)>( I )</c> Subversive unit"
+msgstr "<c(B29557)>( I )</c> Unidad subversiva"
+
+msgctxt "desc/squad/doctrine_28mm_pzb28"
+msgid "<c(B29557)>( I )</c> 2.8cm PzB. 28"
+msgstr "<c(B29557)>( I )</c> PzB. 28 de 2,8 cm"
+
+msgctxt "desc/squad/doctrine_75mm_legebig18"
+msgid "<c(B29557)>( I )</c> 7.5cm Le.Geb.IG 18"
+msgstr "<c(B29557)>( I )</c> Le.Geb.IG 18 de 7,5 cm"
+
+msgctxt "desc/squad/doctrine_squad_luftwaffe_early(ger)"
+msgid "<c(B29557)>( I )</c> Luftwaffe Field Unit"
+msgstr "<c(B29557)>( I )</c> Unidad terrestre Luftwaffe"
+
+msgctxt "desc/squad/doctrine_squad_brandenburger_early(ger)"
+msgid "<c(B29557)>( II )</c> Brandenburger Commandos"
+msgstr "<c(B29557)>( II )</c> Comandos de Brandenburgo"
+
+msgctxt "desc/squad/doctrine_200mm_ladungswerfer"
+msgid "<c(B29557)>( I )</c> 20cm L.Ladungswefer"
+msgstr "<c(B29557)>( I )</c> L.Ladungswefer de 20 cm"
+
+msgctxt "desc/squad/doctrine_sdkfz8_flak18"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 8 (8.8cm)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 8 (8.8cm)"
+
+msgctxt "desc/squad/doctrine_at_cavalry"
+msgid "<c(B29557)>( I )</c> 2x AT cavalry"
+msgstr "<c(B29557)>( I )</c> 2x Caballería AT"
+
+msgctxt "desc/squad/doctrine_sdkfz10_flak30"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 10 2cm FlaK 30"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 10 FlaK 30 de 2 cm"
+
+msgctxt "desc/squad/doctrine_blitz3_6_flak30"
+msgid "<c(B29557)>( I )</c> Blitz 3.6 2cm FlaK 30"
+msgstr "<c(B29557)>( I )</c> Blitz 3.6 FlaK 30 de 2 cm"
+
+msgctxt "desc/squad/doctrine_pz38t_f"
+msgid "<c(B29557)>( I )</c> Panzer 38(t) Ausf. F"
+msgstr "<c(B29557)>( I )</c> Panzer 38(t) Ausf. F"
+
+msgctxt "desc/squad/doctrine_squad_sturmpionier"
+msgid "<c(B29557)>( I )</c> Sturmpioniere"
+msgstr "<c(B29557)>( I )</c> Sturmpioniere"
+
+msgctxt "desc/squad/doctrine_sdkfz251_7"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 251 Engineering"
+msgstr "<c(B29557)>( I )</c> Ingeniería Sd.Kfz 251"
+
+msgctxt "desc/squad/doctrine_squad_ger_signaller_early(ger)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_bison"
+msgid "<c(B29557)>( I )</c> Sturmpanzer I"
+msgstr "<c(B29557)>( I )</c> Sturmpanzer I"
+
+msgctxt "desc/squad/doctrine_squad_suppression(rus)"
+msgid "<c(B29557)>( I )</c>  Suppression Squad"
+msgstr "<c(B29557)>( I )</c> Escuadrón de supresión"
+
+msgctxt "desc/squad/doctrine_t37a"
+msgid "<c(B29557)>( I )</c>  T-37 with AT inf."
+msgstr "<c(B29557)>( I )</c> T-37 con inf. AT"
+
+msgctxt "desc/squad/doctrine_t30"
+msgid "<c(B29557)>( I )</c>  T-30 M1940"
+msgstr "<c(B29557)>( I )</c> T-30 M1940"
+
+msgctxt "desc/squad/doctrine_squad_assaultforce(rus)"
+msgid "<c(B29557)>( I )</c> Assault Force"
+msgstr "<c(B29557)>( I )</c> Tropa de asalto"
+
+msgctxt "desc/squad/doctrine_2xbt5"
+msgid "<c(B29557)>( I )</c> 2x BT-5"
+msgstr "<c(B29557)>( I )</c> 2x BT-5"
+
+msgctxt "desc/squad/doctrine_t3476_40"
+msgid "<c(B29557)>( I )</c> T-34 M1940"
+msgstr "<c(B29557)>( I )</c> T-34 M1940"
+
+msgctxt "desc/squad/doctrine_kv2_40"
+msgid "<c(B29557)>( I )</c> KV-2 M1940"
+msgstr "<c(B29557)>( I )</c> KV-2 M1940"
+
+msgctxt "desc/squad/doctrine_squad_border(rus)"
+msgid "<c(B29557)>( I )</c> Border Patrol"
+msgstr "<c(B29557)>( I )</c> Patrulla fronteriza"
+
+msgctxt "desc/squad/doctrine_shields"
+msgid "<c(B29557)>( I )</c> Armed Shields"
+msgstr "<c(B29557)>( I )</c> Escudos blindados"
+
+msgctxt "desc/squad/doctrine_squad_spetsnaz_early(rus)"
+msgid "<c(B29557)>( II )</c> Recon Ops"
+msgstr "<c(B29557)>( II )</c> Operaciones de recon."
+
+msgctxt "desc/squad/doctrine_kht26"
+msgid "<c(B29557)>( I )</c> KhT-26"
+msgstr "<c(B29557)>( I )</c> KhT-26"
+
+msgctxt "desc/squad/doctrine_su4"
+msgid "<c(B29557)>( II )</c> Su-4"
+msgstr "<c(B29557)>( II )</c> Su-4"
+
+msgctxt "desc/squad/doctrine_smk"
+msgid "<c(B29557)>( III )</c> SMK"
+msgstr "<c(B29557)>( III )</c> SMK"
+
+msgctxt "desc/squad/doctrine_280mm_schneider"
+msgid "<c(B29557)>( I )</c> 280mm Schneider mortar"
+msgstr "<c(B29557)>( I )</c> Mortero Schneider de 280 mm"
+
+msgctxt "desc/squad/doctrine_single_at2(rus)"
+msgid "<c(B29557)>( I )</c> Mosin-Antitank unit"
+msgstr "<c(B29557)>( I )</c> Unidad Mosin antitanque"
+
+msgctxt "desc/squad/doctrine_76mm_m1902"
+msgid "<c(B29557)>( II )</c> 76mm M1902"
+msgstr "<c(B29557)>( II )</c> M1902 de 76 mm"
+
+msgctxt "desc/squad/doctrine_t26_38"
+msgid "<c(B29557)>( I )</c> T-26 M1938"
+msgstr "<c(B29557)>( I )</c> T-26 M1938"
+
+msgctxt "desc/squad/doctrine_t35"
+msgid "<c(B29557)>( I )</c> T-35"
+msgstr "<c(B29557)>( I )</c> T-35"
+
+msgctxt "desc/squad/doctrine_squad_paratrooper(rus)"
+msgid "<c(B29557)>( I )</c> Paratroopers"
+msgstr "<c(B29557)>( I )</c> Paracaidistas"
+
+msgctxt "desc/squad/doctrine_squad_rus_signaller_early(rus)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_kv1_40"
+msgid "<c(B29557)>( III )</c> KV-1 M1940"
+msgstr "<c(B29557)>( III )</c> KV-1 M1940"
+
+msgctxt "desc/squad/doctrine_dshk_stan"
+msgid "<c(B29557)>( I )</c> 12.7mm DShK AA"
+msgstr "<c(B29557)>( I )</c> DShK AA de 12,7 mm"
+
+msgctxt "desc/squad/doctrine_squad_guards_heavy(rus)"
+msgid "<c(B29557)>( I )</c> Heavy Guards Infantry"
+msgstr "<c(B29557)>( I )</c> Infantería de guardia pesada"
+
+msgctxt "desc/squad/doctrine_37mm_61k"
+msgid "<c(B29557)>( I )</c> 37mm 61-K M1939"
+msgstr "<c(B29557)>( I )</c> 61-K M1939 de 37 mm"
+
+msgctxt "desc/squad/doctrine_120mm_pm38"
+msgid "<c(B29557)>( I )</c> 120mm PM-38"
+msgstr "<c(B29557)>( I )</c> PM-38 de 120 mm"
+
+msgctxt "desc/squad/doctrine_85mm_52k"
+msgid "<c(B29557)>( I )</c> 85mm 52-K M1939"
+msgstr "<c(B29557)>( I )</c> 52-K M1939 de 85 mm"
+
+msgctxt "desc/squad/doctrine_152mm_ml20"
+msgid "<c(B29557)>( I )</c> 152mm ML-20"
+msgstr "<c(B29557)>( I )</c> ML-20 de 152 mm"
+
+msgctxt "desc/squad/doctrine_203mm_b4"
+msgid "<c(B29557)>( I )</c> 203mm B-4M"
+msgstr "<c(B29557)>( I )</c> B-4M de 203 mm"
+
+msgctxt "desc/squad/doctrine_p204_f"
+msgid "<c(B29557)>( I )</c> Pz.SpW. P204(f)"
+msgstr "<c(B29557)>( I )</c> Pz.SpW. P204(f)"
+
+msgctxt "desc/squad/doctrine_pz38t_g"
+msgid "<c(B29557)>( I )</c> Panzer 38(t) Ausf. G"
+msgstr "<c(B29557)>( I )</c> Panzer 38(t) Ausf. G"
+
+msgctxt "desc/squad/doctrine_squad_fuesilliertrupp(ger)"
+msgid "<c(B29557)>( I )</c> Füsilliertrupp"
+msgstr "<c(B29557)>( I )</c> Füsilliertrupp"
+
+msgctxt "desc/squad/doctrine_squad_grossdeutschland(ger)"
+msgid "<c(B29557)>( I )</c> Grossdeutschland squad"
+msgstr "<c(B29557)>( I )</c> Escuadrón Grossdeutschland"
+
+msgctxt "desc/squad/doctrine_squad_stosstrupp"
+msgid "<c(B29557)>( II )</c> Stosstrupp"
+msgstr "<c(B29557)>( II )</c> Stosstrupp"
+
+msgctxt "desc/squad/doctrine_panzer3l"
+msgid "<c(B29557)>( II )</c> Panzer III Ausf. L"
+msgstr "<c(B29557)>( II )</c> Panzer III Ausf. L"
+
+msgctxt "desc/squad/doctrine_panzer742r"
+msgid "<c(B29557)>( I )</c> Panzer 742(r) with Scouts"
+msgstr "<c(B29557)>( I )</c> Panzer 742(r) con exploradores"
+
+msgctxt "desc/squad/doctrine_panzer4g"
+msgid "<c(B29557)>( III )</c> Panzer IV Ausf. G"
+msgstr "<c(B29557)>( III )</c> Panzer IV Ausf. G"
+
+msgctxt "desc/squad/doctrine_tiger1h"
+msgid "<c(B29557)>( III )</c> Tiger Ausf. H"
+msgstr "<c(B29557)>( III )</c> Tiger Ausf. H"
+
+msgctxt "desc/squad/doctrine_bison_mid"
+msgid "<c(B29557)>( II )</c> Sturmpanzer I"
+msgstr "<c(B29557)>( II )</c> Sturmpanzer I"
+
+msgctxt "desc/squad/doctrine_sdkfz251d_1_stuka"
+msgid "<c(B29557)>( III )</c> Stuka Zu Fuss"
+msgstr "<c(B29557)>( III )</c> Stuka Zu Fuss"
+
+msgctxt "desc/squad/doctrine_sdkfz302"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 302 'Goliath'"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 302 \"Goliath\""
+
+msgctxt "desc/squad/doctrine_squad_vetsniper_early(ger)"
+msgid "<c(B29557)>( I )</c> Mountain Sniper"
+msgstr "<c(B29557)>( I )</c> Francotirador de montaña"
+
+msgctxt "desc/squad/doctrine_squad_vetsniper(ger)"
+msgid "<c(B29557)>( I )</c> Mountain Sniper"
+msgstr "<c(B29557)>( I )</c> Francotirador de montaña"
+
+msgctxt "desc/squad/doctrine_sdkfz10_pak38"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 10 5cm PaK 38"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 10 PaK 38 de 5 cm"
+
+msgctxt "desc/squad/doctrine_panzer3flamm"
+msgid "<c(B29557)>( II )</c> Panzer III Flamm."
+msgstr "<c(B29557)>( II )</c> Panzer III Flamm."
+
+msgctxt "desc/squad/doctrine_squad_luftwaffe_mid(ger)"
+msgid "<c(B29557)>( II )</c> Luftwaffe field troops"
+msgstr "<c(B29557)>( II )</c> Tropas terrestres Luftwaffe"
+
+msgctxt "desc/squad/doctrine_squad_brandenburger_mid(ger)"
+msgid "<c(B29557)>( II )</c> Brandenburger Commandos"
+msgstr "<c(B29557)>( II )</c> Comandos de Brandenburgo"
+
+msgctxt "desc/squad/doctrine_bf110_mid"
+msgid "<c(B29557)>( III )</c> Bf-110 Airstrike"
+msgstr "<c(B29557)>( III )</c> Bombardero Bf-110"
+
+msgctxt "desc/squad/conquest_bf110"
+msgid "Bf-110 250kg Bomb"
+msgstr "Bomba Bf-110 250kg"
+
+msgctxt "desc/squad/conquest_bf109"
+msgid "Bf-109 50kg Bomb"
+msgstr "Bomba Bf-109 50kg"
+
+msgctxt "desc/squad/conquest_fi156"
+msgid "Fi-156 Recon"
+msgstr "Fi-156 Reconocimiento"
+
+msgctxt "desc/squad/doctrine_150mm_sig33_mid"
+msgid "<c(B29557)>( II )</c> 15cm sIG 33"
+msgstr "<c(B29557)>( II )</c> sIG 33 de 15 cm"
+
+msgctxt "desc/squad/doctrine_150mm_sig33_late"
+msgid "<c(B29557)>( II )</c> 15cm sIG 33"
+msgstr "<c(B29557)>( II )</c> sIG 33 de 15 cm"
+
+msgctxt "desc/squad/doctrine_150mm_nebelwerfer41"
+msgid "<c(B29557)>( III )</c> 15cm NbW 41"
+msgstr "<c(B29557)>( III )</c> NbW 41 de 15 cm"
+
+msgctxt "desc/squad/doctrine_210mm_nebelwerfer42_mid"
+msgid "<c(B29557)>( III )</c> 21cm NbW 42"
+msgstr "<c(B29557)>( III )</c> 21cm NbW 42"
+
+msgctxt "desc/squad/doctrine_panzer731r"
+msgid "<c(B29557)>( I )</c> Panzer 731(r)"
+msgstr "<c(B29557)>( I )</c> Panzer 731(r)"
+
+msgctxt "desc/squad/doctrine_squad_grenadier(ger)"
+msgid "<c(B29557)>( I )</c> Grenadiere"
+msgstr "<c(B29557)>( I )</c> Grenadiere"
+
+msgctxt "desc/squad/doctrine_pz35t"
+msgid "<c(B29557)>( I )</c> Panzer 35(t)"
+msgstr "<c(B29557)>( I )</c> Panzer 35(t)"
+
+msgctxt "desc/squad/doctrine_squad_gebirgsjaeger_mid(ger)"
+msgid "<c(B29557)>( II )</c> Gebirgsjäger"
+msgstr "<c(B29557)>( II )</c> Gebirgsjäger"
+
+msgctxt "desc/squad/doctrine_stug3f"
+msgid "<c(B29557)>( II )</c> StuG III Ausf. F"
+msgstr "<c(B29557)>( II )</c> StuG III Ausf. F"
+
+msgctxt "desc/squad/doctrine_squad_ger_signaller_mid(ger)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_sdkfz8_flak18_mid"
+msgid "<c(B29557)>( III )</c> Sd.Kfz 8 mit FlaK 18"
+msgstr "<c(B29557)>( III )</c> Sd.Kfz 8 mit FlaK 18"
+
+msgctxt "desc/squad/doctrine_sig33b"
+msgid "<c(B29557)>( III )</c> StuIG 33"
+msgstr "<c(B29557)>( III )</c> StuIG 33"
+
+msgctxt "desc/squad/doctrine_kettenkrad_eng"
+msgid "<c(B29557)>( I )</c>  Sd.Kfz 2 (Engineer)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 2 (ingeniería)"
+
+msgctxt "desc/squad/doctrine_squad_osttruppen(ger)"
+msgid "<c(B29557)>( I )</c>  Osttruppen"
+msgstr "<c(B29557)>( I )</c> Osttruppen"
+
+msgctxt "desc/squad/doctrine_towed_pak34t_mid"
+msgid "<c(B29557)>( I )</c>  4.7cm PaK 34(t)"
+msgstr "<c(B29557)>( I )</c> PaK 34(t) 4,7 cm"
+
+msgctxt "desc/squad/doctrine_squad_blau(ger)"
+msgid "<c(B29557)>( II )</c> Blau Division"
+msgstr "<c(B29557)>( II )</c> Blau Division"
+
+msgctxt "desc/squad/doctrine_37mm_flak37_mid"
+msgid "<c(B29557)>( I )</c> 3.7cm Flak 37"
+msgstr "<c(B29557)>( I )</c> Flak 37 de 3,7 cm"
+
+msgctxt "desc/squad/doctrine_marder2"
+msgid "<c(B29557)>( II )</c> Marder II"
+msgstr "<c(B29557)>( II )</c> Marder II"
+
+msgctxt "desc/squad/doctrine_88mm_flak18_mid"
+msgid "<c(B29557)>( III )</c> 8.8cm Flak 18"
+msgstr "<c(B29557)>( III )</c> Flak 18 de 8,8 cm"
+
+msgctxt "desc/squad/doctrine_sfh18"
+msgid "<c(B29557)>( III )</c> 15cm sFH 18"
+msgstr "<c(B29557)>( III )</c> sFH 18 15 cm"
+
+msgctxt "desc/squad/doctrine_210mm_morser18_mid"
+msgid "<c(B29557)>( III )</c> 21cm Mörser 18"
+msgstr "<c(B29557)>( III )</c> Mörser 18 de 21 cm"
+
+msgctxt "desc/squad/doctrine_t26"
+msgid "<c(B29557)>( I )</c> Reserve T-26 M1933"
+msgstr "<c(B29557)>( I )</c> Reserva T-26 M1933"
+
+msgctxt "desc/squad/doctrine_dshk_mid"
+msgid "<c(B29557)>( I )</c> DShK"
+msgstr "<c(B29557)>( I )</c> DShK"
+
+msgctxt "desc/squad/doctrine_dshk_late"
+msgid "<c(B29557)>( I )</c> DShK"
+msgstr "<c(B29557)>( I )</c> DShK"
+
+msgctxt "desc/squad/doctrine_45mm_m37"
+msgid "<c(B29557)>( I )</c> 45mm M-37 M1937"
+msgstr "<c(B29557)>( I )</c> M-37 M1937 de 45 mm"
+
+msgctxt "desc/squad/doctrine_towed_m42"
+msgid "<c(B29557)>( I )</c> 45mm M1942"
+msgstr "<c(B29557)>( I )</c> M1942 45 mm"
+
+msgctxt "desc/squad/doctrine_37mm_61k_mid"
+msgid "<c(B29557)>( I )</c> 37mm 61-K M1939"
+msgstr "<c(B29557)>( I )</c> 61-K M1939 de 37 mm"
+
+msgctxt "desc/squad/doctrine_57mm_zis2"
+msgid "<c(B29557)>( II )</c> 57mm ZIS-2"
+msgstr "<c(B29557)>( II )</c> ZIS-2 de 57 mm"
+
+msgctxt "desc/squad/doctrine_57mm_zis2_early"
+msgid "<c(B29557)>( II )</c> 57mm ZIS-2"
+msgstr "<c(B29557)>( II )</c> ZIS-2 de 57 mm"
+
+msgctxt "desc/squad/doctrine_su122"
+msgid "<c(B29557)>( III )</c> SU-122"
+msgstr "<c(B29557)>( III )</c> SU-122"
+
+msgctxt "desc/squad/doctrine_120mm_pm38_mid"
+msgid "<c(B29557)>( II )</c> 120mm PM-38"
+msgstr "<c(B29557)>( II )</c> PM-38 de 120 mm"
+
+msgctxt "desc/squad/doctrine_85mm_52k_mid"
+msgid "<c(B29557)>( III )</c> 85mm 52-K M1939"
+msgstr "<c(B29557)>( III )</c> 52-K M1939 de 85 mm"
+
+msgctxt "desc/squad/doctrine_152mm_ml20_mid"
+msgid "<c(B29557)>( III )</c> 152mm ML-20"
+msgstr "<c(B29557)>( III )</c> ML-20 de 152 mm"
+
+msgctxt "desc/squad/doctrine_203mm_b4_mid"
+msgid "<c(B29557)>( III )</c> 203mm B-4M"
+msgstr "<c(B29557)>( III )</c> B-4M de 203 mm"
+
+msgctxt "desc/squad/doctrine_squad_smgunit(rus)"
+msgid "<c(B29557)>( I )</c> SMG unit"
+msgstr "<c(B29557)>( I )</c> Unidad con subfusil"
+
+msgctxt "desc/squad/doctrine_bt2_mid"
+msgid "<c(B29557)>( I )</c> BT-2"
+msgstr "<c(B29557)>( I )</c> BT-2"
+
+msgctxt "desc/squad/doctrine_t60"
+msgid "<c(B29557)>( I )</c> T-60"
+msgstr "<c(B29557)>( I )</c> T-60"
+
+msgctxt "desc/squad/doctrine_squad_penal(rus)"
+msgid "<c(B29557)>( II )</c> Penal Battalion"
+msgstr "<c(B29557)>( II )</c> Batallón de castigo"
+
+msgctxt "desc/squad/doctrine_mechanized"
+msgid "<c(B29557)>( II )</c> Mechanised Brigade"
+msgstr "<c(B29557)>( II )</c> Brigada mecanizada"
+
+msgctxt "desc/squad/doctrine_t3457_41"
+msgid "<c(B29557)>( II )</c> T-34 M1941 (57 mm)"
+msgstr "<c(B29557)>( II )</c> T-34 M1941 (57 mm)"
+
+msgctxt "desc/squad/doctrine_tankodesantniki"
+msgid "<c(B29557)>( III )</c> 2x T-34 + Inf."
+msgstr "<c(B29557)>( III )</c> 2x T-34 + Inf."
+
+msgctxt "desc/squad/doctrine_kv2_40_mid"
+msgid "<c(B29557)>( III )</c> KV-2 M1940"
+msgstr "<c(B29557)>( III )</c> KV-2 M1940"
+
+msgctxt "desc/squad/doctrine_m41_ampulomet_early"
+msgid "<c(B29557)>( I )</c> Ampulomet M1941"
+msgstr "<c(B29557)>( I )</c> M1941 Ampulomet"
+
+msgctxt "desc/squad/doctrine_m41_ampulomet"
+msgid "<c(B29557)>( I )</c> Ampulomet M1941"
+msgstr "<c(B29557)>( I )</c> M1941 Ampulomet"
+
+msgctxt "desc/squad/doctrine_dshk_stan_mid"
+msgid "<c(B29557)>( I )</c> 12.7mm DShK"
+msgstr "<c(B29557)>( I )</c> DShK de 12,7 mm"
+
+msgctxt "desc/squad/doctrine_squad_spetsnaz_mid(rus)"
+msgid "<c(B29557)>( II )</c> Recon Ops"
+msgstr "<c(B29557)>( II )</c> Operaciones de recon."
+
+msgctxt "desc/squad/doctrine_kht130_mid"
+msgid "<c(B29557)>( I )</c> KhT-130"
+msgstr "<c(B29557)>( I )</c> KhT-130"
+
+msgctxt "desc/squad/doctrine_zis30"
+msgid "<c(B29557)>( II )</c> ZIS-30"
+msgstr "<c(B29557)>( II )</c> ZIS-30"
+
+msgctxt "desc/squad/doctrine_t3476"
+msgid "<c(B29557)>( II )</c> T-34 New turret"
+msgstr "<c(B29557)>( II )</c> T-34 Nueva torreta"
+
+msgctxt "desc/squad/doctrine_il2_mid"
+msgid "<c(B29557)>( III )</c> IL-2 Airstrike"
+msgstr "<c(B29557)>( III )</c> Bombardero IL-2"
+
+msgctxt "desc/squad/doctrine_122mm_a19"
+msgid "<c(B29557)>( III )</c> 122mm A-19"
+msgstr "<c(B29557)>( III )</c> 122mm A-19"
+
+msgctxt "desc/squad/doctrine_122mm_a19_mid"
+msgid "<c(B29557)>( III )</c> 122mm A-19"
+msgstr "<c(B29557)>( III )</c> 122mm A-19"
+
+msgctxt "desc/squad/doctrine_122mm_a19_late"
+msgid "<c(B29557)>( III )</c> 122mm A-19"
+msgstr "<c(B29557)>( III )</c> 122mm A-19"
+
+msgctxt "desc/squad/doctrine_katyusha"
+msgid "<c(B29557)>( III )</c> Studebaker BM-13"
+msgstr "<c(B29557)>( III )</c> BM-13 Studebaker"
+
+msgctxt "desc/squad/doctrine_3xkv1"
+msgid "<c(B29557)>( III )</c> 2x KV-1 M1941"
+msgstr "<c(B29557)>( III )</c> 2x KV-1 M1941"
+
+msgctxt "desc/squad/doctrine_bt2_da2"
+msgid "<c(B29557)>( I )</c> BT-2 DA-2"
+msgstr "<c(B29557)>( I )</c> BT-2 DA-2"
+
+msgctxt "desc/squad/doctrine_squad_mountainrifles(rus)"
+msgid "<c(B29557)>( I )</c> Mountain Rifles"
+msgstr "<c(B29557)>( I )</c> Fusileros de montaña"
+
+msgctxt "desc/squad/doctrine_76mm_f22_mid"
+msgid "<c(B29557)>( I )</c> 76mm F-22"
+msgstr "<c(B29557)>( I )</c> F-22 de 76 mm"
+
+msgctxt "desc/squad/doctrine_squad_paratrooper_mid(rus)"
+msgid "<c(B29557)>( II )</c> Paratroopers"
+msgstr "<c(B29557)>( II )</c> Paracaidistas"
+
+msgctxt "desc/squad/doctrine_squad_rus_signaller_mid(rus)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_kv1s"
+msgid "<c(B29557)>( II )</c> KV-1S M1942"
+msgstr "<c(B29557)>( II )</c> KV-1S M1942"
+
+msgctxt "desc/squad/doctrine_su100y"
+msgid "<c(B29557)>( III )</c> SU-100Y"
+msgstr "<c(B29557)>( III )</c> SU-100Y"
+
+msgctxt "desc/squad/doctrine_bogward4"
+msgid "<c(B29557)>( I )</c> Bogward IV (Supply)"
+msgstr "<c(B29557)>( I )</c> Bogward IV (suministro)"
+
+msgctxt "desc/squad/doctrine_squad_heavyvolkssturm(ger)"
+msgid "<c(B29557)>( I )</c> Heavy Volkssturm"
+msgstr "<c(B29557)>( II )</c> Heavy Volkssturm"
+
+msgctxt "desc/squad/doctrine_37mm_flak37_late"
+msgid "<c(B29557)>( I )</c> 3.7cm Flak 37"
+msgstr "<c(B29557)>( I )</c> Flak 37 de 3,7 cm"
+
+msgctxt "desc/squad/doctrine_75mm_legebig18_late"
+msgid "<c(B29557)>( I )</c> 7.5cm LeGeBeIG 18"
+msgstr "<c(B29557)>( I )</c> LeGeBeIG 18 de 7,5 cm"
+
+msgctxt "desc/squad/doctrine_120mm_sgrw42_mid"
+msgid "<c(B29557)>( II )</c> 12cm sGrW 42"
+msgstr "<c(B29557)>( II )</c> sGrW 42 de 12 cm"
+
+msgctxt "desc/squad/doctrine_120mm_sgrw42_late"
+msgid "<c(B29557)>( II )</c> 12cm sGrW 42"
+msgstr "<c(B29557)>( II )</c> sGrW 42 de 12 cm"
+
+msgctxt "desc/squad/doctrine_88mm_flak36_late"
+msgid "<c(B29557)>( II )</c> 8.8cm Flak 36"
+msgstr "<c(B29557)>( II )</c> Flak 36 de 8,8 cm"
+
+msgctxt "desc/squad/doctrine_150mm_nebelwerfer41_late"
+msgid "<c(B29557)>( II )</c> 15cm NbW 41"
+msgstr "<c(B29557)>( II )</c> NbW 41 de 15 cm"
+
+msgctxt "desc/squad/doctrine_150mm_sfh18"
+msgid "<c(B29557)>( III )</c> 15cm sFH 18"
+msgstr "<c(B29557)>( III )</c> sFH 18 de 15 cm"
+
+msgctxt "desc/squad/doctrine_ferdinand_late"
+msgid "<c(B29557)>( III )</c> Ferdinand"
+msgstr "<c(B29557)>( III )</c> Ferdinand"
+
+msgctxt "desc/squad/doctrine_squad_panzernahkampftrupp(ger)"
+msgid "<c(B29557)>( I )</c> Panzernähkampftrupp"
+msgstr "<c(B29557)>( I )</c> Panzernähkampftrupp"
+
+msgctxt "desc/squad/doctrine_panzer1f"
+msgid "<c(B29557)>( I )</c> Panzer I Ausf. F"
+msgstr "<c(B29557)>( I )</c> Panzer I Ausf. F"
+
+msgctxt "desc/squad/doctrine_panzer2l"
+msgid "<c(B29557)>( I )</c> Panzer II Ausf. L"
+msgstr "<c(B29557)>( I )</c> Panzer II Ausf. L"
+
+msgctxt "desc/squad/doctrine_squad_panzergrenadiere"
+msgid "<c(B29557)>( II )</c> (Motorised) Panzergren."
+msgstr "<c(B29557)>( II )</c> (motorizado) Panzergren."
+
+msgctxt "desc/squad/doctrine_grillemk103"
+msgid "<c(B29557)>( I )</c> Flakpanzer 38(t)"
+msgstr "<c(B29557)>( I )</c> Flakpanzer 38(t)"
+
+msgctxt "desc/squad/doctrine_panzer4j"
+msgid "<c(B29557)>( II )</c> Panzer IV Ausf. J"
+msgstr "<c(B29557)>( II )</c> Panzer IV Ausf. J"
+
+msgctxt "desc/squad/doctrine_sturmpanzer4_late"
+msgid "<c(B29557)>( II )</c> Sturmpanzer IV"
+msgstr "<c(B29557)>( II )</c> Sturmpanzer IV"
+
+msgctxt "desc/squad/doctrine_tiger2h"
+msgid "<c(B29557)>( III )</c> Tiger II Ausf.B"
+msgstr "<c(B29557)>( III )</c> Tiger II Ausf.B"
+
+msgctxt "desc/squad/doctrine_sdkfz303b"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 303B 'Goliath'"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 303B \"Goliath\""
+
+msgctxt "desc/squad/doctrine_squad_sniper_late(ger)"
+msgid "<c(B29557)>( I )</c> Urban Snipers"
+msgstr "<c(B29557)>( I )</c> Francotiradores urbanos"
+
+msgctxt "desc/squad/doctrine_sdkfz234"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 234/2 (5cm)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 234/2 (5cm)"
+
+msgctxt "desc/squad/doctrine_squad_brandenburger_late(ger)"
+msgid "<c(B29557)>( II )</c> Brandenburger Commandos"
+msgstr "<c(B29557)>( II )</c> Comandos de Brandenburgo"
+
+msgctxt "desc/squad/doctrine_panzer3flamm_late"
+msgid "<c(B29557)>( II )</c> Panzer III Flamm."
+msgstr "<c(B29557)>( II )</c> Panzer III Flamm."
+
+msgctxt "desc/squad/doctrine_hetzer"
+msgid "<c(B29557)>( II )</c> Jagdpanzer 38"
+msgstr "<c(B29557)>( II )</c> Jagdpanzer 38"
+
+msgctxt "desc/squad/doctrine_300mm_nebelwerfer42"
+msgid "<c(B29557)>( III )</c> 30cm NbW 42"
+msgstr "<c(B29557)>( III )</c> NbW 42 de 30 cm"
+
+msgctxt "desc/squad/doctrine_tiger1hunt"
+msgid "<c(B29557)>( III )</c> Tiger Ausf.E 'Ace'"
+msgstr "<c(B29557)>( III )</c> Tiger Ausf.E 'Ace'"
+
+msgctxt "desc/squad/doctrine_bf110_late"
+msgid "<c(B29557)>( III )</c> Bf-110 Airstrike"
+msgstr "<c(B29557)>( III )</c> Bombardero Bf-110"
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadieredetach(ger)"
+msgid "<c(B29557)>( I )</c> Volksgrenadier Detachment"
+msgstr "<c(B29557)>( I )</c> Destacam. Volksgrenadier"
+
+msgctxt "desc/squad/doctrine_kubelwagen_volks"
+msgid "<c(B29557)>( I )</c> Volksgrenadier Scouts"
+msgstr "<c(B29557)>( I )</c> Exploradores Volksgrenadier"
+
+msgctxt "desc/squad/doctrine_auflarungspanzer38t"
+msgid "<c(B29557)>( I )</c> Aufklarungspanzer 38(t)"
+msgstr "<c(B29557)>( I )</c> Aufklarungspanzer 38(t)"
+
+msgctxt "desc/squad/doctrine_80mm_sgrw34_rapid"
+msgid "<c(B29557)>( I )</c> Volksgr. 8cm sGrW 34"
+msgstr "<c(B29557)>( I )</c> sGrW 34 de 8 cm Volksgr. "
+
+msgctxt "desc/squad/doctrine_squad_volksgrenadiere(ger)"
+msgid "<c(B29557)>( II )</c> Volksgrenadiere"
+msgstr "<c(B29557)>( II )</c> Volksgrenadiere"
+
+msgctxt "desc/squad/doctrine_stug3g_late"
+msgid "<c(B29557)>( II )</c> StuG III G Late"
+msgstr "<c(B29557)>( II )</c> StuG III G final"
+
+msgctxt "desc/squad/doctrine_squad_ger_signaller_late(ger)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_squad_ger_signaller_2_late(ger)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_panzer5d"
+msgid "<c(B29557)>( III )</c> Pz.Kpfw V Ausf.D"
+msgstr "<c(B29557)>( III )</c> Pz.Kpfw V Ausf.D"
+
+msgctxt "desc/squad/doctrine_panzer5g"
+msgid "<c(B29557)>( III )</c> Pz.Kpfw V Ausf.G"
+msgstr "<c(B29557)>( III )</c> Pz.Kpfw V Ausf.G"
+
+msgctxt "desc/squad/doctrine_jagdpanther"
+msgid "<c(B29557)>( III )</c> Jagdpanther"
+msgstr "<c(B29557)>( III )</c> Jagdpanther"
+
+msgctxt "desc/squad/doctrine_sturmtiger"
+msgid "<c(B29557)>( III )</c> Sturmmörser"
+msgstr "<c(B29557)>( III )</c> Sturmmörser"
+
+msgctxt "desc/squad/doctrine_single_at2_late(rus)"
+msgid "<c(B29557)>( I )</c> Grenade Launcher Inf."
+msgstr "<c(B29557)>( I )</c> Inf. lazagranadas"
+
+msgctxt "desc/squad/doctrine_squad_rifle_motorised"
+msgid "<c(B29557)>( I )</c> Motorised rifle squad"
+msgstr "<c(B29557)>( I )</c> Escuadrón de fusileros motorizado"
+
+msgctxt "desc/squad/doctrine_76mm_m43"
+msgid "<c(B29557)>( I )</c> 76mm M1943"
+msgstr "<c(B29557)>( I )</c> M1943 de 76 mm"
+
+msgctxt "desc/squad/doctrine_120mm_pm38_late"
+msgid "<c(B29557)>( II )</c> 120mm PM-38"
+msgstr "<c(B29557)>( II )</c> PM-38 de 120 mm"
+
+msgctxt "desc/squad/doctrine_squad_heavymarines(rus)"
+msgid "<c(B29557)>( II )</c> Heavily armed Marines"
+msgstr "<c(B29557)>( II )</c> Marines armados"
+
+msgctxt "desc/squad/doctrine_100mm_bs3"
+msgid "<c(B29557)>( II )</c> 100mm BS-3"
+msgstr "<c(B29557)>( II )</c> BS-3 de 100 mm"
+
+msgctxt "desc/squad/doctrine_152mm_ml20_late"
+msgid "<c(B29557)>( III )</c> 152mm ML-20"
+msgstr "<c(B29557)>( III )</c> ML-20 de 152 mm"
+
+msgctxt "desc/squad/doctrine_kv85"
+msgid "<c(B29557)>( II )</c> KV-85"
+msgstr "<c(B29557)>( II )</c> KV-85"
+
+msgctxt "desc/squad/doctrine_203mm_b4_late"
+msgid "<c(B29557)>( III )</c> 203mm B4-M"
+msgstr "<c(B29557)>( III )</c> B4-M de 203 mm"
+
+msgctxt "desc/squad/doctrine_squad_flame(rus)"
+msgid "<c(B29557)>( I )</c> Close Quarters Inf."
+msgstr "<c(B29557)>( I )</c> Inf. de distancia corta"
+
+msgctxt "desc/squad/doctrine_t60_late"
+msgid "<c(B29557)>( I )</c> T-60"
+msgstr "<c(B29557)>( I )</c> T-60"
+
+msgctxt "desc/squad/doctrine_t70_mid"
+msgid "<c(B29557)>( I )</c> T-70"
+msgstr "<c(B29557)>( I )</c> T-70"
+
+msgctxt "desc/squad/doctrine_t70m"
+msgid "<c(B29557)>( I )</c> T-70M + Inf."
+msgstr "<c(B29557)>( I )</c> T-70M + Inf."
+
+msgctxt "desc/squad/doctrine_squad_assaultsappers(rus)"
+msgid "<c(B29557)>( II )</c> Assault Sappers"
+msgstr "<c(B29557)>( II )</c> Zapadores de asalto"
+
+msgctxt "desc/squad/doctrine_isu152"
+msgid "<c(B29557)>( III )</c> ISU-152"
+msgstr "<c(B29557)>( III )</c> ISU-152"
+
+msgctxt "desc/squad/doctrine_isu122s"
+msgid "<c(B29557)>( III )</c> ISU-122S"
+msgstr "<c(B29557)>( III )</c> ISU-122S"
+
+msgctxt "desc/squad/doctrine_squad_penal_late(rus)"
+msgid "<c(B29557)>( II )</c> Penal Battalion"
+msgstr "<c(B29557)>( II )</c> Batallón de castigo"
+
+msgctxt "desc/squad/doctrine_su100"
+msgid "<c(B29557)>( III )</c> SU-100"
+msgstr "<c(B29557)>( III )</c> SU-100"
+
+msgctxt "desc/squad/doctrine_2t3485"
+msgid "<c(B29557)>( III )</c> 2x T-34-85 + Inf."
+msgstr "<c(B29557)>( III )</c> 2x T-34-85 + Inf."
+
+msgctxt "desc/squad/doctrine_is2"
+msgid "<c(B29557)>( III )</c> IS-2 M1944"
+msgstr "<c(B29557)>( III )</c> IS-2 M1944"
+
+msgctxt "desc/squad/doctrine_squad_bazookers(rus)"
+msgid "<c(B29557)>( I )</c> Bazooka Detachment"
+msgstr "<c(B29557)>( I )</c> Destacamento de bazuca"
+
+msgctxt "desc/squad/doctrine_squad_spetsnaz_late(rus)"
+msgid "<c(B29557)>( II )</c> Scout-Recon Detachment"
+msgstr "<c(B29557)>( II )</c> Destacamento de expl. y recon."
+
+msgctxt "desc/squad/doctrine_37mm_61k_late"
+msgid "<c(B29557)>( I )</c> 37mm 61-K M1939"
+msgstr "<c(B29557)>( I )</c> 61-K M1939 de 37 mm"
+
+msgctxt "desc/squad/doctrine_squad_heavyrecon(rus)"
+msgid "<c(B29557)>( II )</c> Heavy Scout-Recon squad"
+msgstr "<c(B29557)>( II )</c> Escuadrón pesado de expl. y recon."
+
+msgctxt "desc/squad/doctrine_ot34"
+msgid "<c(B29557)>( II )</c> OT-34"
+msgstr "<c(B29557)>( II )</c> OT-34"
+
+msgctxt "desc/squad/doctrine_ot34_late"
+msgid "<c(B29557)>( II )</c> OT-34"
+msgstr "<c(B29557)>( II )</c> OT-34"
+
+msgctxt "desc/squad/doctrine_t3457_43"
+msgid "<c(B29557)>( II )</c> T-34 M1942 (57 mm)"
+msgstr "<c(B29557)>( II )</c> T-34 M1942 (57 mm)"
+
+msgctxt "desc/squad/doctrine_85mm_52k_late"
+msgid "<c(B29557)>( II )</c> 85mm 52-K"
+msgstr "<c(B29557)>( II )</c> 52-K de 85 mm"
+
+msgctxt "desc/squad/doctrine_su152"
+msgid "<c(B29557)>( III )</c> SU-152"
+msgstr "<c(B29557)>( III )</c> SU-152"
+
+msgctxt "desc/squad/doctrine_katyusha_late"
+msgid "<c(B29557)>( III )</c> BM-13 Katyusha"
+msgstr "<c(B29557)>( III )</c> BM-13 Katyusha"
+
+msgctxt "desc/squad/doctrine_bm31"
+msgid "<c(B29557)>( III )</c> Studebaker BM-31-12"
+msgstr "<c(B29557)>( III )</c> Studebaker BM-31-12"
+
+msgctxt "desc/squad/doctrine_il2_late"
+msgid "<c(B29557)>( III )</c> IL-2 Airstrike"
+msgstr "<c(B29557)>( III )</c> Bombardero IL-2"
+
+msgctxt "desc/squad/doctrine_squad_universal_sniper"
+msgid "<c(B29557)>( I )</c> Universal with Scouts"
+msgstr "<c(B29557)>( I )</c> Universal carrier con exploradores"
+
+msgctxt "desc/squad/doctrine_valentine2_mid"
+msgid "<c(B29557)>( I )</c> Valentine Mk.II"
+msgstr "<c(B29557)>( I )</c> Valentine Mk.II"
+
+msgctxt "desc/squad/doctrine_valentine7"
+msgid "<c(B29557)>( I )</c> Mk III Valentine VII"
+msgstr "<c(B29557)>( I )</c> Mk III Valentine VII"
+
+msgctxt "desc/squad/doctrine_supply_late"
+msgid "<c(B29557)>( I )</c> Ammo Supplies"
+msgstr "<c(B29557)>( I )</c> Suministros de munición"
+
+msgctxt "desc/squad/doctrine_squad_scoutcar_marines"
+msgid "<c(B29557)>( I )</c>Marines' M3A1E1 Scout Car"
+msgstr "<c(B29557)>( I )</c>Marines con M3A1E1 Scout Car"
+
+msgctxt "desc/squad/doctrine_churchill3"
+msgid "<c(B29557)>( II )</c> Mk IV Churchill III"
+msgstr "<c(B29557)>( II )</c> Mk IV Churchill III"
+
+msgctxt "desc/squad/doctrine_squad_rus_signaller_late(rus)"
+msgid "<c(B29557)>( II )</c> Artillery Signaller"
+msgstr "<c(B29557)>( II )</c> Controlador artillería"
+
+msgctxt "desc/squad/doctrine_2valentine9"
+msgid "<c(B29557)>( III )</c> 2x Valentine IX, Sappers"
+msgstr "<c(B29557)>( III )</c> 2x Valentine IX con Zapadores"
+
+msgctxt "desc/squad/doctrine_100mm_bs3_scoutcar"
+msgid "<c(B29557)>( III )</c> 100mm BS-3 on M3A1E1 Scout car"
+msgstr "<c(B29557)>( III )</c> 100mm BS-3 con M3A1E1 Scout car"

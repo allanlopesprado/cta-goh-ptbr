@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (desc_weapon_ger)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 18:10+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: es\n"
+
+msgctxt "desc/weapon/mp28"
+msgid "MP 28"
+msgstr "MP 28"
+
+msgctxt "desc/weapon/pzb_39"
+msgid "Panzerbüchse 39"
+msgstr "Panzerbüchse 39"
+
+msgctxt "desc/weapon/k98_grenade_launcher"
+msgid "98k Schiessbecher"
+msgstr "98k Schiessbecher"
+
+msgctxt "desc/weapon/k98_antitank"
+msgid "98k Gr. Werfer"
+msgstr "98k Gr. Werfer"
+
+msgctxt "desc/weapon/panzershreck_43"
+msgid "Panzerschreck RPZB 43"
+msgstr "Panzerschreck RPZB 43"
+
+msgctxt "desc/weapon/panzershreck_54"
+msgid "Panzerschreck RPZB 54"
+msgstr "Panzerschreck RPZB 54"
+
+msgctxt "desc/weapon/faustpatrone_30"
+msgid "Faustpatrone 30"
+msgstr "Faustpatrone 30"
+
+msgctxt "desc/weapon/panzerfaust_30"
+msgid "Panzerfaust 30"
+msgstr "Panzerfaust 30"
+
+msgctxt "desc/weapon/panzerfaust_60"
+msgid "Panzerfaust 60"
+msgstr "Panzerfaust 60"
+
+msgctxt "desc/weapon/panzerfaust_100"
+msgid "Panzerfaust 100"
+msgstr "Panzerfaust 100"
+
+msgctxt "desc/weapon/panzerfaust_150"
+msgid "Panzerfaust 150"
+msgstr "Panzerfaust 150"
+
+msgctxt "desc/weapon/leuchtpistole34"
+msgid "Leuchtpistole 34 Flare Pistol"
+msgstr "Pistola de bengalas Leuchtpistole 34"
+
+msgctxt "desc/weapon/luger"
+msgid "Luger LP08"
+msgstr "Luger LP08"
+
+msgctxt "desc/weapon/p38"
+msgid "Walther P38"
+msgstr "Walther P38"
+
+msgctxt "desc/weapon/p640(b)"
+msgid "P640(b)"
+msgstr "P640(b)"
+
+msgctxt "desc/weapon/mp38_unfolded"
+msgid "MP 38"
+msgstr "MP 38"
+
+msgctxt "desc/weapon/mp38_folded"
+msgid "MP 38 (Folded)"
+msgstr "MP 38 (plegado)"
+
+msgctxt "desc/weapon/mp40_folded"
+msgid "MP 40 (Folded)"
+msgstr "MP 40 (plegado)"
+
+msgctxt "desc/weapon/mp40_unfolded"
+msgid "MP 40"
+msgstr "MP 40"
+
+msgctxt "desc/weapon/mp41"
+msgid "MP 41"
+msgstr "MP 41"
+
+msgctxt "desc/weapon/mkb42h"
+msgid "MKB 42(H)"
+msgstr "MKB 42(H)"
+
+msgctxt "desc/weapon/stg44"
+msgid "StG 44"
+msgstr "StG 44"
+
+msgctxt "desc/weapon/g41"
+msgid "Gewehr 41"
+msgstr "Gewehr 41"
+
+msgctxt "desc/weapon/g43"
+msgid "Gewehr 43"
+msgstr "Gewehr 43"
+
+msgctxt "desc/weapon/g43_marksman"
+msgid "Gewehr 43 Improved"
+msgstr "Gewehr 43 mejorado"
+
+msgctxt "desc/weapon/g43_scope"
+msgid "Gewehr 43 (Scope)"
+msgstr "Gewehr 43 (mira)"
+
+msgctxt "desc/weapon/g33_40"
+msgid "Gewehr 33/40(t)"
+msgstr "Gewehr 33/40(t)"
+
+msgctxt "desc/weapon/fg42"
+msgid "FG-42"
+msgstr "FG-42"
+
+msgctxt "desc/weapon/fg42_scope"
+msgid "FG-42 (Scope)"
+msgstr "FG-42 (mira)"
+
+msgctxt "desc/weapon/k98"
+msgid "Karabiner 98k"
+msgstr "Karabiner 98k"
+
+msgctxt "desc/weapon/k98_bayonet"
+msgid "Karabiner 98k (Bayonet)"
+msgstr "Karabiner 98k (bayoneta)"
+
+msgctxt "desc/weapon/k98_scope"
+msgid "Karabiner 98k (Scope)"
+msgstr "Karabiner 98k (mira)"
+
+msgctxt "desc/weapon/mg15"
+msgid "MG 15"
+msgstr "MG 15"
+
+msgctxt "desc/weapon/mg17"
+msgid "MG 17"
+msgstr "MG 17"
+
+msgctxt "desc/weapon/mg17_bf110"
+msgid "MG 17"
+msgstr "MG 17"
+
+msgctxt "desc/weapon/mg17_bf109"
+msgid "MG 17"
+msgstr "MG 17"
+
+msgctxt "desc/weapon/mg26t"
+msgid "MG 26(t)"
+msgstr "MG 26(t)"
+
+msgctxt "desc/weapon/mg37t"
+msgid "MG 37(t)"
+msgstr "MG 37(t)"
+
+msgctxt "desc/weapon/mg34_belt"
+msgid "MG 34 (Belt)"
+msgstr "MG 34 (cinturón)"
+
+msgctxt "desc/weapon/mg34_drum"
+msgid "MG 34 (Drum)"
+msgstr "MG 34 (tambor)"
+
+msgctxt "desc/weapon/mg34_tank_early"
+msgid "MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf"
+
+msgctxt "desc/weapon/mg34_tank"
+msgid "MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf"
+
+msgctxt "desc/weapon/mg34_tank_x2"
+msgid "Dual MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf doble"
+
+msgctxt "desc/weapon/mg34_tank_x2_2"
+msgid "Dual MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf doble"
+
+msgctxt "desc/weapon/mg13_no_bipod"
+msgid "MG 13"
+msgstr "MG 13"
+
+msgctxt "desc/weapon/mg13_no_bipod_x2"
+msgid "Dual MG 13"
+msgstr "MG 13 doble"
+
+msgctxt "desc/weapon/mg34_doubledrum"
+msgid "MG 34 (Doubledrum)"
+msgstr "MG 34 (doble tambor)"
+
+msgctxt "desc/weapon/mg31f"
+msgid "MG 31(f)"
+msgstr "MG 31(f)"
+
+msgctxt "desc/weapon/mg42_belt"
+msgid "MG 42 (Belt)"
+msgstr "MG 42 (cinturón)"
+
+msgctxt "desc/weapon/mg42_drum"
+msgid "MG 42 (Drum)"
+msgstr "MG 42 (tambor)"
+
+msgctxt "desc/weapon/mg42_tank"
+msgid "MG 42 Panzerlauf"
+msgstr "MG 42 Panzerlauf"
+
+msgctxt "desc/weapon/zb26_bipod"
+msgid "MG 26(t)"
+msgstr "MG 26(t)"
+
+msgctxt "desc/weapon/fm24-29_no_bipod"
+msgid "FM-24/29"
+msgstr "FM-24/29"
+
+msgctxt "desc/weapon/13mm_mg131"
+msgid "13mm MG131"
+msgstr "MG131 de 13 mm"
+
+msgctxt "desc/weapon/20mm_flak30"
+msgid "2cm Flak 30 L/65"
+msgstr "FlaK 30 L/65 de 2 cm"
+
+msgctxt "desc/weapon/20mm_kwk30"
+msgid "2cm KwK 30 L/55"
+msgstr "KwK 30 L/55 de 2 cm"
+
+msgctxt "desc/weapon/20mm_kwk38"
+msgid "2cm KwK 38 L/55"
+msgstr "KwK 38 L/55 de 2 cm"
+
+msgctxt "desc/weapon/20mm_mgff"
+msgid "2cm MG FF/M"
+msgstr "MG FF/M de 2 cm"
+
+msgctxt "desc/weapon/20mm_mg151"
+msgid "2cm MG151/20"
+msgstr "MG151/20 de 2 cm"
+
+msgctxt "desc/weapon/20mm_flak38_x4"
+msgid "2cm FlaKvierling 38 L/112.5"
+msgstr "FlaKvierling 38 L/112.5 de 2 cm"
+
+msgctxt "desc/weapon/20mm_flak38"
+msgid "2cm FlaK 38 L/112.5"
+msgstr "FlaK 38 L/112.5 de 2 cm"
+
+msgctxt "desc/weapon/25mm_kwk121f"
+msgid "2.5cm KwK 121(f) L/72"
+msgstr "KwK 121(f) L/72 de 2,5 cm"
+
+msgctxt "desc/weapon/28mm_pzb41"
+msgid "2.8cm sPzB 41"
+msgstr "sPzB 41 de 2,8 cm"
+
+msgctxt "desc/weapon/30mm_mk103"
+msgid "3cm MK 103"
+msgstr "MK 103 de 3 cm"
+
+msgctxt "desc/weapon/37mm_flak37"
+msgid "3.7cm FlaK 37 L/87"
+msgstr "FlaK 37 L/87 de 3,7 cm"
+
+msgctxt "desc/weapon/37mm_kwk34t"
+msgid "3.7cm KwK 34(t) L/40"
+msgstr "KwK 34(t) L/40 de 3,7 cm"
+
+msgctxt "desc/weapon/37mm_kwk36"
+msgid "3.7cm KwK 36 L/45"
+msgstr "KwK 36 L/45 de 3,7 cm"
+
+msgctxt "desc/weapon/37mm_kwk38t"
+msgid "3.7cm KwK 38(t) L/47.8"
+msgstr "KwK 38(t) L/47.8 de 3,7 cm"
+
+msgctxt "desc/weapon/37mm_pak35"
+msgid "3.7cm PaK L/46.5"
+msgstr "PaK L/46.5 de 3,7 cm"
+
+msgctxt "desc/weapon/47mm_pakt"
+msgid "4.7cm PaK(t) L/43.4"
+msgstr "PaK(t) L/43.4 de 4,7 cm"
+
+msgctxt "desc/weapon/47mm_pakt_2"
+msgid "4.7cm PaK(t) L/43.4"
+msgstr "PaK(t) L/43.4 de 4,7 cm"
+
+msgctxt "desc/weapon/47mm_pak36t"
+msgid "4.7cm PaK 36(t) L/43.4"
+msgstr "PaK 36(t) L/43.4 de 4,7 cm"
+
+msgctxt "desc/weapon/50mm_kwk38"
+msgid "5cm KwK 38 L/42"
+msgstr "KwK 38 L/42 de 5 cm"
+
+msgctxt "desc/weapon/50mm_kwk39"
+msgid "5cm KwK 39 L/60"
+msgstr "KwK 39 L/60 de 5 cm"
+
+msgctxt "desc/weapon/50mm_pak38"
+msgid "5cm PaK 38 L/60"
+msgstr "PaK 38 L/60 de 5 cm"
+
+msgctxt "desc/weapon/50mm_pak38_2"
+msgid "5cm PaK 38 L/60"
+msgstr "PaK 38 L/60 de 5 cm"
+
+msgctxt "desc/weapon/50mm_legrw36"
+msgid "5cm Le GrW 36"
+msgstr "Le GrW 36 de 5 cm"
+
+msgctxt "desc/weapon/75mm_kwk37"
+msgid "7.5cm KwK 37 L/24"
+msgstr "KwK 37 L/24 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_kwk40"
+msgid "7.5cm KwK 40 L/43"
+msgstr "KwK 40 L/43 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_kwk42"
+msgid "7.5cm KwK 42 L/70"
+msgstr "KwK 42 L/70 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_lg40"
+msgid "7.5cm LG 40 L/15.5"
+msgstr "LG 40 L/15.5 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_pak39"
+msgid "7.5cm PaK 39 L/48"
+msgstr "PaK 39 L/48 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_pak40"
+msgid "7.5cm PaK 40 L/46"
+msgstr "PaK 40 L/46 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_pak40_2"
+msgid "7.5cm PaK 40 L/46"
+msgstr "PaK 40 L/46 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_stuk37"
+msgid "7.5cm StuK 37 L/24"
+msgstr "StuK 37 L/24 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_stuk40"
+msgid "7.5cm StuK 40 L/43"
+msgstr "StuK 40 L/43 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_stuk42"
+msgid "7.5cm StuK 42 L/70"
+msgstr "StuK 42 L/70 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_pak9738"
+msgid "7.5cm PaK 97/38 L/34.5"
+msgstr "PaK 97/38 L/34.5 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_kwk40_l48"
+msgid "7.5cm KwK 40 L/48"
+msgstr "KwK 40 L/48 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_leig18"
+msgid "7.5cm leIG 18 L/11.8"
+msgstr "leIG 18 L/11,8 de 7,5 cm"
+
+msgctxt "desc/weapon/75mm_stuk40_l48"
+msgid "7.5cm StuK 40 L/48"
+msgstr "StuK 40 L/48 de 7,5 cm"
+
+msgctxt "desc/weapon/80mm_sgrw34"
+msgid "8cm GrW 34"
+msgstr "GrW 34 de 8 cm"
+
+msgctxt "desc/weapon/80mm_sgrw34_rapid"
+msgid "8cm GrW 34"
+msgstr "GrW 34 de 8 cm"
+
+msgctxt "desc/weapon/88mm_flak36"
+msgid "8.8cm FlaK 36 L/56"
+msgstr "Flak 36 L/56 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_flak18"
+msgid "8.8cm FlaK 18 L/56"
+msgstr "Flak 18 L/56 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_flak18_2"
+msgid "8.8cm FlaK 18 L/56"
+msgstr "Flak 18 L/56 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_kwk36"
+msgid "8.8cm KwK 36 L/56"
+msgstr "KwK 36 L/56 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_kwk43"
+msgid "8.8cm KwK 43 L/71"
+msgstr "KwK 43 L/71 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_kwk43_2"
+msgid "8.8cm KwK 43 L/71"
+msgstr "KwK 43 L/71 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_pak43"
+msgid "8.8cm PaK 43/1 L/71"
+msgstr "PaK 43/1 L/71 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_pak43_2"
+msgid "8.8cm PaK 43/2 L/71"
+msgstr "PaK 43/2 L/71 de 8,8 cm"
+
+msgctxt "desc/weapon/88mm_pak43_3"
+msgid "8.8cm PaK 43/3 L/71"
+msgstr "PaK 43/3 L/71 de 8,8 cm"
+
+msgctxt "desc/weapon/105mm_lefh18"
+msgid "10.5cm FH 18 L/28"
+msgstr "FH 18 L/28 de 10,5 cm"
+
+msgctxt "desc/weapon/105mm_lefh18m"
+msgid "10.5cm FH 18M L/31.5"
+msgstr "FH 18M L/31.5 de 10,5 cm"
+
+msgctxt "desc/weapon/105mm_l28"
+msgid "10.5cm FH 18 L/28"
+msgstr "FH 18 L/28 de 10,5 cm"
+
+msgctxt "desc/weapon/105mm_stuh42"
+msgid "10.5cm StuH 42 L/28"
+msgstr "StuH 42 L/28 de 10,5 cm"
+
+msgctxt "desc/weapon/120mm_sgrw42"
+msgid "12cm GrW 42"
+msgstr "GrW 42 de 12 cm"
+
+msgctxt "desc/weapon/128mm_pak44"
+msgid "12.8cm PaK 44 L/55"
+msgstr "PaK 44 L/55 de 12,8 cm"
+
+msgctxt "desc/weapon/150mm_l11"
+msgid "15cm Stu IG L/11"
+msgstr "Stu IG L/11 de 15 cm"
+
+msgctxt "desc/weapon/150mm_sfh18"
+msgid "15cm sFH 18 L/30"
+msgstr "sFH 18 L/30 de 15 cm"
+
+msgctxt "desc/weapon/150mm_sig33"
+msgid "15cm sIG 33 L/11"
+msgstr "sIG 33 L/11 de 15 cm"
+
+msgctxt "desc/weapon/150mm_stuh43"
+msgid "15cm StuH 43 L/12"
+msgstr "StuH 43 L/12 de 15 cm"
+
+msgctxt "desc/weapon/150mm_panzerwerfer"
+msgid "15cm Panzerwerfer"
+msgstr "Panzerwerfer de 15 cm"
+
+msgctxt "desc/weapon/150mm_nebelwerfer"
+msgid "15cm Nebelwerfer"
+msgstr "Nebelwerfer de 15 cm"
+
+msgctxt "desc/weapon/203mm_k18"
+msgid "20.3cm K (E) L/60"
+msgstr "K (E) L/60 de 20,3 cm"
+
+msgctxt "desc/weapon/210mm_k39"
+msgid "21cm K39 L/45.4"
+msgstr "21cm K39 L/45.4"
+
+msgctxt "desc/weapon/210mm_morser"
+msgid "21cm Morser 18 L/31"
+msgstr "Mörser 18 L/31 de 21 cm"
+
+msgctxt "desc/weapon/300mm_nebelwerfer"
+msgid "30cm Nebelwerfer"
+msgstr "Nebelwerfer de 30 cm"
+
+msgctxt "desc/weapon/380mm_rw61"
+msgid "38cm StuM Raketenwerfer 61 L/5.4"
+msgstr "StuM Raketenwerfer 61 L/5.4 de 38 cm"
+
+msgctxt "desc/weapon/fmw_35_flame_thrower"
+msgid "Flammenwerfer 35"
+msgstr "Flammenwerfer 35"
+
+msgctxt "desc/weapon/fmw_41_flame_thrower"
+msgid "Flammenwerfer 41"
+msgstr "Flammenwerfer 41"
+
+msgctxt "desc/weapon/nbk39"
+msgid "Smoke Discharger"
+msgstr "Descargador de humo"
+
+msgctxt "desc/weapon/nbks"
+msgid "Smoke Discharger"
+msgstr "Descargador de humo"
+
+msgctxt "desc/weapon/goliath"
+msgid "Goliath"
+msgstr "Goliath"
+
+msgctxt "desc/weapon/bomb_dropper_ger_50x4"
+msgid "4x SC-50"
+msgstr "4x SC-50"
+
+msgctxt "desc/weapon/bomb_dropper_ger_250x1"
+msgid "SC-250"
+msgstr "SC-250"
+
+msgctxt "desc/weapon/bomb_dropper_ger_250x2"
+msgid "2x SC-250"
+msgstr "2x SC-250"

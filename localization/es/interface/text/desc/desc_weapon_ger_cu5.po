@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "desc/weapon/14mm_flammenwerfer_251_16_L"
+msgid "14mm Flammenwerfer"
+msgstr "14mm Flammenwerfer"
+
+#, fuzzy
+msgctxt "desc/weapon/14mm_flammenwerfer_251_16_R"
+msgid "14mm Flammenwerfer"
+msgstr "14mm Flammenwerfer"
+
+msgctxt "desc/weapon/mg34_belt_long"
+msgid "MG 34 (Belt)"
+msgstr "MG 34 (Cadena)"
+
+msgctxt "desc/weapon/mg42_belt_long"
+msgid "MG 42 (Belt)"
+msgstr "MG 42 (Cadena)"
+
+msgctxt "desc/weapon/stg44_scope"
+msgid "StG 44 (Scoped)"
+msgstr "StG 44 (Mirilla)"
+
+#, fuzzy
+msgctxt "desc/weapon/15mm_mg151_x3"
+msgid "MG 151/15 (15mm)"
+msgstr "MG 151/15 (15 mm)"
+
+#, fuzzy
+msgctxt "desc/weapon/75mm_pak42"
+msgid "7.5cm PaK 42 L/70"
+msgstr "7.5cm PaK 42 L/70"
+
+#, fuzzy
+msgctxt "desc/weapon/155mm_gpf_bunker"
+msgid "155mm GPF L/38.2"
+msgstr "155mm GPF L/38.2"
+
+#, fuzzy
+msgctxt "desc/weapon/280mm_w40_x6"
+msgid "28cm Wurfrahmen 40"
+msgstr "28cm Wurfrahmen 40"
+
+#, fuzzy
+msgctxt "desc/entity/sdkfz6_ammo"
+msgid "Sd.Kfz 6 (Supply)"
+msgstr "Sd.Kfz 6 (Suministro)"
+
+msgctxt "info/special/sdkfz6_ammo"
+msgid "<c(c3baae)>Ammo Halftrack</c>"
+msgstr "<c(c3baae)>Halftrack de abastecimiento de munición</c>"

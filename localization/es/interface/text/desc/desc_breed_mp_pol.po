@@ -1,0 +1,382 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_at_piat"
+msgid "1st AD. AT Inf. [PSZ]"
+msgstr "Infantería AT, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_at_piat_asst"
+msgid "1st AD. AT Asst. [PSZ]"
+msgstr "Asistente AT, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_2ic"
+msgid "1st AD. Company 2IC [PSZ]"
+msgstr "Segundo al mando, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_com"
+msgid "1st AD. Company Commander [PSZ]"
+msgstr "Comandante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_signalman"
+msgid "1st AD. Company Signalman [PSZ]"
+msgstr "Radiofonista, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_crew"
+msgid "1st AD. Crew [PSZ]"
+msgstr "Tripulante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_detach_com"
+msgid "1st AD. Detachment Commander [PSZ]"
+msgstr "Comandante de destacamento, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_driver"
+msgid "1st AD. Driver [PSZ]"
+msgstr "Conductor, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_driver_smg"
+msgid "1st AD. Driver [PSZ]"
+msgstr "Conductor, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_builder"
+msgid "1st AD. Engineer Builder [PSZ]"
+msgstr "Ingeniero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_flamer"
+msgid "1st AD. Engineer Flamer Inf. [PSZ]"
+msgstr "Lanzallamas, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg"
+msgid "1st AD. Engineer MG Operator [PSZ]"
+msgstr "Ingeniero, Operador MG, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg_asst"
+msgid "1st AD. Engineer MG Asst. [PSZ]"
+msgstr "Ingeniero, Asistente MG, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_ap"
+msgid "1st AD. Engineer AP Miner [PSZ]"
+msgstr "Ingeniero, minero AP, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_at"
+msgid "1st AD. Engineer AT Miner [PSZ]"
+msgstr "Ingeniero, Minero AT, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sapper"
+msgid "1st AD. Engineer Sapper [PSZ]"
+msgstr "Ingeniero, Zapador, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_2ic"
+msgid "1st AD. Engineer Section 2IC [PSZ]"
+msgstr "Ingeniero, Segundo al mando, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_com"
+msgid "1st AD. Engineer Section Commander [PSZ]"
+msgstr "Comandante de ingeniería, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_medic"
+msgid "1st AD. Medic [PSZ]"
+msgstr "Médico 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mg"
+msgid "1st AD. MG Operator [PSZ]"
+msgstr "Operador MG, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mg_asst"
+msgid "1st AD. MG Asst. [PSZ]"
+msgstr "Asistente de MG, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg"
+msgid "1st AD. Motor MG Operator [PSZ]"
+msgstr "Operador de MG, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg_asst"
+msgid "1st AD. Motor MG Asst. [PSZ]"
+msgstr "Asistente de MG, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat"
+msgid "1st AD. Motor AT Inf. [PSZ]"
+msgstr "Infantería AT, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat_asst"
+msgid "1st AD. Motor AT Asst. [PSZ]"
+msgstr "Asistente de Infantería AT, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle"
+msgid "1st AD. Motor Rifleman [PSZ]"
+msgstr "Fusilero motorizado, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle_band"
+msgid "1st AD. Motor Rifleman [PSZ]"
+msgstr "Fusilero motorizado, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle_sniper"
+msgid "1st AD. Motor Sniper [PSZ]"
+msgstr "Francotirador motorizado, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_cpl"
+msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
+msgstr "Comandante de exploradores motorizados, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_lcpl"
+msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
+msgstr "Comandante de exploradores motorizados, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_driver"
+msgid "1st AD. Motor Scout Driver [PSZ]"
+msgstr "Conductor de moto, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_mg"
+msgid "1st AD. Motor Scout MG Operator [PSZ]"
+msgstr "Explorador, Operador MG, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_piat"
+msgid "1st AD. Motor Scout AT Inf. [PSZ]"
+msgstr "Explorador, Infantería AT, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_rifle"
+msgid "1st AD. Motor Scout [PSZ]"
+msgstr "Explorador, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_sec_com"
+msgid "1st AD. Motor Scout Section Commander [PSZ]"
+msgstr "Comandante Explorador, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_2ic"
+msgid "1st AD. Motor Section 2IC [PSZ]"
+msgstr "Subjefe , 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_com"
+msgid "1st AD. Motor Section Commander [PSZ]"
+msgstr "Comandante, 1º Div. Acorazada (motorizado) [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio"
+msgid "1st AD. Pioneer [PSZ]"
+msgstr "Pionero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_builder"
+msgid "1st AD. Pioneer Builder [PSZ]"
+msgstr "Pionero, ingeniero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_cpl"
+msgid "1st AD. Pioneer Section Commander [PSZ]"
+msgstr "Comandante Pionero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_sgt"
+msgid "1st AD. Pioneer Section Commander [PSZ]"
+msgstr "Comandante Pionero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_plt_com"
+msgid "1st AD. Platoon Commander [PSZ]"
+msgstr "Comandante de pelotón, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_plt_sgt"
+msgid "1st AD. Platoon Sergeant [PSZ]"
+msgstr "Sargento de pelotón, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle"
+msgid "1st AD. Rifleman [PSZ]"
+msgstr "Fusilero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle_band"
+msgid "1st AD. Rifleman [PSZ]"
+msgstr "Fusilero, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle_sniper"
+msgid "1st AD. Sniper [PSZ]"
+msgstr "Francotirador, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_2ic"
+msgid "1st AD. Section 2IC [PSZ]"
+msgstr "Segundo al mando, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_com"
+msgid "1st AD. Section Commander [PSZ]"
+msgstr "Comandante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_com_sgt"
+msgid "1st AD. Section Commander [PSZ]"
+msgstr "Comandante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_subcom"
+msgid "1st AD. Sub-Section Commander [PSZ]"
+msgstr "Subcomandante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_smg"
+msgid "1st AD. SMG Inf. [PSZ]"
+msgstr "Infantería SMG, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sniper"
+msgid "1st AD. Sniper [PSZ]"
+msgstr "Francotirador, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tank_com"
+msgid "1st AD. Tank Commander [PSZ]"
+msgstr "Comandante de tanque, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tank_com_m1928"
+msgid "1st AD. Tank Commander [PSZ]"
+msgstr "Comandante de tanque, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tankman"
+msgid "1st AD. Tank Crew [PSZ]"
+msgstr "Tanquista, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_com_cpl"
+msgid "1st AD. Vehicle Commander [PSZ]"
+msgstr "Comandante del vehículo, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_com_sgt"
+msgid "1st AD. Vehicle Commander [PSZ]"
+msgstr "Comandante del vehículo, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_crew"
+msgid "1st AD. Vehicle Crew [PSZ]"
+msgstr "Tripulante, 1º Div. Acorazada [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_coy_2ic"
+msgid "1st Parachute Company 2IC [PSZ]"
+msgstr "Paracaidista, Segundo al mando de Compañía [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_coy_com"
+msgid "1st Parachute Company Commander [PSZ]"
+msgstr "Paracaidista, Comandante de Compañía [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_crew"
+msgid "1st Parachute Crew [PSZ]"
+msgstr "Paracaidista, tripulante [PSZ]"
+
+#, fuzzy
+msgctxt "desc/human/mp/pol/late/1st_para_eng"
+msgid "1st Parachute Engineer [PSZ]"
+msgstr "Ingeniero Paracaidista [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_at_mine"
+msgid "1st Parachute Engineer AT Miner [PSZ]"
+msgstr "Ingeniero Paracaidista, Minero AT [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_flamer"
+msgid "1st Parachute Engineer Flamer Inf. [PSZ]"
+msgstr "Ingeniero Paracaidista, lanzallamas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_mg"
+msgid "1st Parachute Engineer MG Operator [PSZ]"
+msgstr "Ingeniero Paracaidista, Operador MG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_mg_asst"
+msgid "1st Parachute Engineer MG Asst. [PSZ]"
+msgstr "Ingeniero Paracaidista, Asistente MG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_piat"
+msgid "1st Parachute Engineer AT Inf. [PSZ]"
+msgstr "Ingeniero Paracaidista, Infantería AT. [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_piat_asst"
+msgid "1st Parachute Engineer AT Asst. [PSZ]"
+msgstr "Ingeniero Paracaidista, Asistente AT [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sapper"
+msgid "1st Parachute Engineer Sapper [PSZ]"
+msgstr "Zapador, Paracaidista [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_2ic"
+msgid "1st Parachute Engineer Section 2IC [PSZ]"
+msgstr "Ingeniero Paracaidista, Segundo al mando [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com"
+msgid "1st Parachute Engineer Section Commander [PSZ]"
+msgstr "Ingeniero Paracaidista, Comandante [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com_sgt"
+msgid "1st Parachute Engineer Section Commander [PSZ]"
+msgstr "Ingeniero Paracaidista, Comandante [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_medic"
+msgid "1st Parachute Medic [PSZ]"
+msgstr "Paracaidista, médico [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg"
+msgid "1st Parachute MG Operator [PSZ]"
+msgstr "Paracaidista, Operador MG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg_asst"
+msgid "1st Parachute MG Asst. [PSZ]"
+msgstr "Paracaidista, Asistente MG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg_asst_smg"
+msgid "1st Parachute MG Asst. [PSZ]"
+msgstr "Paracaidista, Asistente MG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_mortar"
+msgid "1st Parachute Mortarman [PSZ]"
+msgstr "Paracaidista, Morterero [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_mortar_asst"
+msgid "1st Parachute Mortar Asst. [PSZ]"
+msgstr "Paracaidista, Asistente de Morterero [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_piat"
+msgid "1st Parachute AT Inf. [PSZ]"
+msgstr "Paracaidista, Infantería AT [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_piat_asst"
+msgid "1st Parachute AT Asst. [PSZ]"
+msgstr "Paracaidista, Asistente AT [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_plt_com"
+msgid "1st Parachute Platoon Commander [PSZ]"
+msgstr "Paracaidista, Comandante del 1.er Pelotón de Paracaidistas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_plt_sgt"
+msgid "1st Parachute Platoon Sergeant [PSZ]"
+msgstr "Paracaidista, Sargento del 1.er Pelotón de Paracaidistas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle"
+msgid "1st Parachute Rifleman [PSZ]"
+msgstr "Paracaidista, fusilero paracaidista [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle_band"
+msgid "1st Parachute Rifleman [PSZ]"
+msgstr "Paracaidista, fusilero paracaidista [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle_gren"
+msgid "1st Parachute Rifle Grenadier [PSZ]"
+msgstr "Paracaidista, Granadero Paracaidista [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_2ic"
+msgid "1st Parachute Section 2IC [PSZ]"
+msgstr "Paracaidista, Segundo al mando de la Sección de Paracaidistas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_com"
+msgid "1st Parachute Section Commander [PSZ]"
+msgstr "Paracaidista, Comandante de la Sección de Paracaidistas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_com_cpl"
+msgid "1st Parachute Section Commander [PSZ]"
+msgstr "Paracaidista, Comandante de la Sección de Paracaidistas [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_mortar"
+msgid "1st Parachute Section Mortarman [PSZ]"
+msgstr "Paracaidista, Sección de Paracaidistas Mortero [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_smg"
+msgid "1st Parachute SMG Inf. [PSZ]"
+msgstr "Paracaidista, Infantería SMG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_smg_band"
+msgid "1st Parachute SMG Inf. [PSZ]"
+msgstr "Paracaidista, Infantería SMG [PSZ]"
+
+msgctxt "desc/human/mp/pol/late/1st_para_sniper"
+msgid "1st Parachute Sniper [PSZ]"
+msgstr "Paracaidista, Francotirador [PSZ]"

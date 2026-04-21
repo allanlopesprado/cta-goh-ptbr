@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgctxt "desc/squad/squad_101st_pathfinder_late_all(usa)"
+msgid "<c(A5A095)>(4)</c> 101st AB Pathfinder Team"
+msgstr "<c(A5A095)>(4)</c> Exploradores de la 101.ª"
+
+msgctxt "desc/squad/squad_101st_pathfinder_late_def(usa)"
+msgid "<c(A5A095)>(4)</c> 101st AB Pathfinder Team"
+msgstr "<c(A5A095)>(4)</c> Exploradores de la 101.ª"
+
+msgctxt "desc/squad/squad_82nd_pathfinder_late_irr(usa)"
+msgid "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team"
+msgstr "<c(A5A095)>(4+)</c> Exploradores de la 82.ª"
+
+msgctxt "desc/squad/squad_82nd_pathfinder_late_off(usa)"
+msgid "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team"
+msgstr "<c(A5A095)>(4+)</c> Exploradores de la 82.ª"
+
+msgctxt "desc/squad/conquest_p47"
+msgid "P47 500lb Bomb"
+msgstr "Bomba P47 500lb"
+
+msgctxt "desc/squad/conquest_p47_light"
+msgid "P47 100lb Bomb"
+msgstr "Bomba P47 100lb"
+
+msgctxt "desc/squad/conquest_p47_recon"
+msgid "P47 Recon"
+msgstr "P47 de Reconocimiento"
+
+msgctxt "desc/squad/squad_101st_con(usa)"
+msgid "<c(A5A095)>(4)</c> 101st Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> La 101ª División Aerotransportada"
+
+msgctxt "desc/squad/squad_mp_mid_all(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_cav_mid_all(usa)"
+msgid "<c(A5A095)>(2)</c> Cavalry Recon Section"
+msgstr "<c(A5A095)>(2)</c> Exploradores Caballería"
+
+msgctxt "desc/squad/squad_1st_rifle_mid_all_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros 1ª División"
+
+msgctxt "desc/squad/squad_1st_rifle_mid_all_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros 1ª División"
+
+msgctxt "desc/squad/squad_1st_rifle_mid_all_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros 1ª División"
+
+msgctxt "desc/squad/squad_2nd_arm_rifle_mech_mid_all_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> 2nd.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros 2ª Div. Blindada"
+
+msgctxt "desc/squad/squad_2nd_arm_rifle_mech_mid_all_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> 2nd.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros 2ª Div. Blindada"
+
+msgctxt "desc/squad/squad_2nd_arm_rifle_mech_mid_all_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 2nd.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros 2ª Div. Blindada"
+
+msgctxt "desc/squad/squad_vet_rifle_mid_all_1(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_mid_all_2(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_mid_all_3(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mid_all_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mid_all_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mg_mid_all_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Rangers de asalto (MG)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mg_mid_all_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Rangers de asalto (MG)"
+
+msgctxt "desc/squad/squad_45th_rifle_mid_def(usa)"
+msgid "<c(A5A095)>(1)</c> 45th.Div Rifle Squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros 45ª División"
+
+msgctxt "desc/squad/squad_eng_recon_mid_def(usa)"
+msgid "<c(A5A095)>(2)</c> Engineer Recon Section"
+msgstr "<c(A5A095)>(2)</c> Exploradores Ingenieros"
+
+msgctxt "desc/squad/squad_rifle_mid_def_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_mid_def_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_mid_def_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_eng_mid_def(usa)"
+msgid "<c(A5A095)>(2)</c> Engineer Squad"
+msgstr "<c(A5A095)>(2)</c> Ingenieros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_82nd_glider_pio_mid_def(usa)"
+msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
+msgstr "<c(A5A095)>(3)</c> Pioneros 82ª (Planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_def_1(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_def_2(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_def_3(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_eng_mid_def(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
+msgstr "<c(A5A095)>(4)</c> Ingenieros, 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_mid_def_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_mid_def_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82ª Aerotransportada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_mid_irr(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_rifle_mid_irr_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_mid_irr_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_mid_irr_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_82nd_glider_pio_mid_irr(usa)"
+msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
+msgstr "<c(A5A095)>(3)</c> Pioneros 82ª (Planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_irr_1(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_irr_2(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_mid_irr_3(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_recon_mid_irr(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Airborne Recon Team"
+msgstr "<c(A5A095)>(4)</c> Exploradores, 82º Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_eng_mid_irr(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
+msgstr "<c(A5A095)>(4)</c> Ingenieros, 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_mid_irr_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_mid_irr_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82ª Aerotransportada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_mid_off(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_1st_arm_recon_mid_off(usa)"
+msgid "<c(A5A095)>(2)</c> 1st.AD Recon Team"
+msgstr "<c(A5A095)>(2)</c> Exploradores 1ª Div Blindada"
+
+msgctxt "desc/squad/squad_1st_arm_rifle_mid_off_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> 1st.AD Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros 1ª Div. Blindada"
+
+msgctxt "desc/squad/squad_1st_arm_rifle_mid_off_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> 1st.AD Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros 1ª Div. Blindada"
+
+msgctxt "desc/squad/squad_1st_arm_rifle_mid_off_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 1st.AD Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros 1ª Div. Blindada"
+
+msgctxt "desc/squad/squad_1st_arm_rifle_mech_mid_off_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+msgctxt "desc/squad/squad_1st_arm_rifle_mech_mid_off_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_mech_mid_off_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+msgctxt "desc/squad/squad_vet_rifle_mid_off_1(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_mid_off_2(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_mid_off_3(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mid_off_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mid_off_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mg_mid_off_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Rangers de asalto (MG)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mg_mid_off_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Rangers de asalto (MG)"
+
+msgctxt "desc/squad/50cal_quad_m45_mid"
+msgid "M55 Quadmount"
+msgstr "M55 Cuádruple de ametralladoras"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_late_all(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_cav_late_all_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_cav_late_all_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_rifle_late_all_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_late_all_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_late_all_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros"
+
+msgctxt "desc/squad/squad_1st_rifle_late_all_1(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Fusileros 1ª División"
+
+msgctxt "desc/squad/squad_1st_rifle_late_all_2(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Fusileros 1ª División"
+
+msgctxt "desc/squad/squad_1st_rifle_late_all_3(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 1st.Div Rifle Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> Fusileros 1ª División"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_sub_late_all(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_late_all(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto (MG)"
+
+msgctxt "desc/squad/squad_ranger_special_late_all(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Special Weapons Section"
+msgstr "<c(A5A095)>(4)</c> Pirotécnicos, Rangers"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_late_def(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_cav_late_def_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_cav_late_def_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_rifle_late_def_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_late_def_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros"
+
+msgctxt "desc/squad/squad_rifle_late_def_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_eng_late_def_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Engineer Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Ingenieros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_eng_late_def_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Engineer Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Ingenieros"
+
+msgctxt "desc/squad/squad_vet_rifle_late_def_1(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Fusileros veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_late_def_2(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_vet_rifle_late_def_3(usa)"
+msgid "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Fusileros Veteranos"
+
+msgctxt "desc/squad/squad_101st_glider_late_def_1(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 101st Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 101 Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_101st_glider_late_def_2(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 101st Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 101 Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_101st_glider_late_def_3(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 101st Glider Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 101 Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_101st_eng_late_def(usa)"
+msgid "<c(A5A095)>(4)</c> 101st Airborne Engineer Squad"
+msgstr "<c(A5A095)>(4)</c> Ingenieros, 101 Aerotransportada"
+
+msgctxt "desc/squad/squad_101st_late_def_1(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 101st Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 101 Aerotransportada"
+
+msgctxt "desc/squad/squad_101st_late_def_2(usa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 101st Airborne Squad"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 101 Aerotransportada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_late_irr(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+msgctxt "desc/squad/squad_cav_late_irr_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_cav_late_irr_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Cavalry Recon Team"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Exploradores caballería"
+
+msgctxt "desc/squad/squad_rifle_late_irr_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> 29th.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros 29ª Div"
+
+msgctxt "desc/squad/squad_rifle_late_irr_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> 29th.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros 29ª Div"
+
+msgctxt "desc/squad/squad_rifle_late_irr_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 29th.Div Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros 29ª Div"
+
+#, fuzzy
+msgctxt "desc/squad/squad_82nd_glider_pio_late_irr(usa)"
+msgid "<c(A5A095)>(3+)</c> 82nd Glider Pioneer Squad"
+msgstr "<c(A5A095)>(3+)</c> Pioneros 82ª (Planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_late_irr_1(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_late_irr_2(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_glider_late_irr_3(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 82ª Aerotransportada (planeadores)"
+
+msgctxt "desc/squad/squad_82nd_recon_late_irr(usa)"
+msgid "<c(A5A095)>(4+)</c> 82nd Airborne Recon Team"
+msgstr "<c(A5A095)>(4+)</c> Exploradores 82º Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_demo_late_irr(usa)"
+msgid "<c(A5A095)>(4+)</c> 82nd Airborne Demolitions Section"
+msgstr "<c(A5A095)>(4+)</c> Pirotécnicos, 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_late_irr_1(usa)"
+msgid "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_82nd_late_irr_2(usa)"
+msgid "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_arm_recon_late_off(usa)"
+msgid "<c(A5A095)>(2)</c> Armored Recon Team"
+msgstr "<c(A5A095)>(2)</c> Exploradores motorizados"
+
+#, fuzzy
+msgctxt "desc/squad/squad_arm_rifle_late_off_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Armored Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Fusileros, unidad blindada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_arm_rifle_late_off_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Armored Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Fusileros, unidad blindada"
+
+msgctxt "desc/squad/squad_arm_rifle_late_off_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Armored Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Fusileros, unidad blindada"
+
+msgctxt "desc/squad/squad_arm_rifle_mech_late_off_1(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Armored Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> fusileros (motorizados)"
+
+msgctxt "desc/squad/squad_arm_rifle_mech_late_off_2(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Armored Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> fusileros (motorizados)"
+
+msgctxt "desc/squad/squad_arm_rifle_mech_late_off_3(usa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Armored Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> fusileros (motorizados)"
+
+msgctxt "desc/squad/squad_1st_arm_recon_late_off(usa)"
+msgid "<c(A5A095)>(3+)</c> 1st.AD Recon Team"
+msgstr "<c(A5A095)>(3+)</c> Exploradores 1ª Div. Blindada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_late_off_1(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_late_off_2(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_late_off_3(usa)"
+msgid "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_10th_mountain_late_off_1(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 10th Mountain Rifle Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 10º Fusileros de Montaña"
+
+#, fuzzy
+msgctxt "desc/squad/squad_10th_mountain_late_off_2(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 10th Mountain Rifle Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 10º Fusileros de Montaña"
+
+#, fuzzy
+msgctxt "desc/squad/squad_10th_mountain_late_off_3(usa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 10th Mountain Rifle Squad"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 10º Fusileros de Montaña"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_sub_late_off(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section (Substitute)"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto (Suplente)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_late_off(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto (MG)"
+
+msgctxt "desc/squad/squad_ranger_special_late_off(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Special Weapons Section"
+msgstr "<c(A5A095)>(4)</c> Rangers, Armas Especiales"
+
+#, fuzzy
+msgctxt "desc/squad/single_rifle(usa)"
+msgid "Rifleman"
+msgstr "Fusilero"
+
+msgctxt "desc/squad/single_smg(usa)"
+msgid "SMG Inf."
+msgstr "Soldado SMG"
+
+msgctxt "desc/squad/single_mg(usa)"
+msgid "Automatic Rifleman Team"
+msgstr "Equipo de ametralladora"
+
+#, fuzzy
+msgctxt "desc/squad/single_at(usa)"
+msgid "AT Team"
+msgstr "Equipo AT"
+
+#, fuzzy
+msgctxt "desc/squad/single_at_con(usa)"
+msgid "M1 Bazooka AT Team"
+msgstr "Equipo M1 Bazooka AT"
+
+#, fuzzy
+msgctxt "desc/squad/single_at1_con(usa)"
+msgid "M1A1 Bazooka AT Team"
+msgstr "Equipo M1A1 Bazooka AT"
+
+#, fuzzy
+msgctxt "desc/squad/single_at2_con(usa)"
+msgid "M9 Bazooka AT Team"
+msgstr "Equipo M9 Bazooka AT"
+
+#, fuzzy
+msgctxt "desc/squad/single_at3_con(usa)"
+msgid "M9A1 Bazooka AT Team"
+msgstr "Equipo M9A1 Bazooka AT"
+
+msgctxt "desc/squad/single_riflegrenade(usa)"
+msgid "AT Rifle Grenadiers"
+msgstr "Fusilero lanzagranadas AT"
+
+msgctxt "desc/squad/single_riflegrenade_con(usa)"
+msgid "M1903 AT Rifle Grenadiers"
+msgstr "Fusil lanzagranadas M1903 AT"
+
+msgctxt "desc/squad/single_riflegrenade2_con(usa)"
+msgid "M1 AT Rifle Grenadiers"
+msgstr "Fusil lanzagranadas M1 AT"
+
+#, fuzzy
+msgctxt "desc/squad/single_ap_miner(usa)"
+msgid "AP Miners"
+msgstr "Mineros Anti-persona"
+
+#, fuzzy
+msgctxt "desc/squad/single_at_miner(usa)"
+msgid "AT Miners"
+msgstr "Mineros Anti-tanque"
+
+#, fuzzy
+msgctxt "desc/squad/single_engineer(usa)"
+msgid "Engineers"
+msgstr "Ingenieros"
+
+#, fuzzy
+msgctxt "desc/squad/single_flamer(usa)"
+msgid "Flamer"
+msgstr "Flamer"
+
+#, fuzzy
+msgctxt "desc/squad/single_tankman(usa)"
+msgid "Tank Crew"
+msgstr "Tripulación de tanques"
+
+msgctxt "desc/squad/single_medic(usa)"
+msgid "Medic"
+msgstr "Médico"
+
+#, fuzzy
+msgctxt "desc/squad/single_sniper(usa)"
+msgid "Sniper"
+msgstr "Francotirador"
+
+msgctxt "desc/squad/single_officer(usa)"
+msgid "Officer"
+msgstr "Oficial"
+
+#, fuzzy
+msgctxt "desc/squad/squad_officer_con(usa)"
+msgid "Infantry Platoon HQ"
+msgstr "Cuartel General del Pelotón de Infantería"
+
+msgctxt "desc/squad/single_shotgun(usa)"
+msgid "Shotgun Team"
+msgstr "Equipo de escopetas"
+
+#, fuzzy
+msgctxt "desc/squad/squad_officer_m3a1_commander_con"
+msgid "Cavalry Platoon HQ"
+msgstr "Cuartel General del Pelotón de Caballería"
+
+#, fuzzy
+msgctxt "desc/squad/squad_officer_m3a1_halftrack_con"
+msgid "Armored Company HQ"
+msgstr "Cuartel General de la Compañía Blindada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_mp_con(usa)"
+msgid "<c(A5A095)>(1)</c> Military Police Squad"
+msgstr "<c(A5A095)>(1)</c> Policía Militar"
+
+#, fuzzy
+msgctxt "desc/squad/squad_45th_rifle_con(usa)"
+msgid "<c(A5A095)>(1)</c> 45th Div Rifle Squad"
+msgstr "<c(A5A095)>(1)</c> Fusileros, 45ª División"
+
+msgctxt "desc/squad/squad_1st_arm_recon_con(usa)"
+msgid "<c(A5A095)>(2)</c> 1st.AD Recon Team"
+msgstr "<c(A5A095)>(2)</c> Exploradores 1ª Div. Blindada"
+
+msgctxt "desc/squad/squad_cav_late_con1(usa)"
+msgid "<c(A5A095)>(2)</c> Cavalry Recon Team (M1919)"
+msgstr "<c(A5A095)>(2)</c> Exploradores caballería (M1919)"
+
+msgctxt "desc/squad/squad_cav_late_con2(usa)"
+msgid "<c(A5A095)>(2)</c> Cavalry Recon Team (M2HB)"
+msgstr "<c(A5A095)>(2)</c> Exploradores caballería (M2HB)"
+
+msgctxt "desc/squad/squad_82nd_recon_con(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Recon Team"
+msgstr "<c(A5A095)>(4)</c> Exploradores 82ª Aerotransportada"
+
+msgctxt "desc/squad/squad_rifle_con(usa)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> fusileros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_con(usa)"
+msgid "<c(A5A095)>(2)</c> 1st.AD Rifle Squad"
+msgstr "<c(A5A095)>(2)</c> Fusileros 1ª Div. Blindada"
+
+#, fuzzy
+msgctxt "desc/squad/squad_1st_arm_rifle_mech_con(usa)"
+msgid "<c(A5A095)>(2)</c> 1st.AD Rifle Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> Fusileros 1ª Div. Blindada (motorizados)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_eng_con(usa)"
+msgid "<c(A5A095)>(2)</c> Engineer Squad"
+msgstr "<c(A5A095)>(2)</c> Ingenieros"
+
+#, fuzzy
+msgctxt "desc/squad/squad_eng_mech_con(usa)"
+msgid "<c(A5A095)>(2)</c> Engineer Squad (Mounted)"
+msgstr "<c(A5A095)>(2)</c> Ingenieros (motorizados)"
+
+msgctxt "desc/squad/squad_vet_rifle_con(usa)"
+msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
+msgstr "<c(A5A095)>(2+)</c> Fusileros Veteranos"
+
+#, fuzzy
+msgctxt "desc/squad/squad_82nd_glider_con(usa)"
+msgid "<c(A5A095)>(3)</c> 82nd Glider Squad"
+msgstr "<c(A5A095)>(3)</c> 82ª (Planeadores)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_82nd_glider_pio_con(usa)"
+msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
+msgstr "<c(A5A095)>(3)</c> Pioneros 82ª (Planeadores)"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_con(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto"
+
+#, fuzzy
+msgctxt "desc/squad/squad_ranger_assault_mg_con(usa)"
+msgid "<c(A5A095)>(4)</c> Ranger Assault Section (MG)"
+msgstr "<c(A5A095)>(4)</c> Rangers de asalto (MG)"
+
+msgctxt "desc/squad/squad_82nd_con(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Airborne Squad (MG)"
+msgstr "<c(A5A095)>(4)</c> 82ª Aerotransportada (MG)"
+
+msgctxt "desc/squad/squad_82nd_eng_con(usa)"
+msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
+msgstr "<c(A5A095)>(4)</c> 82ª Aerotransportada de Ingenieros"
+
+msgctxt "desc/squad/1st_special_con(usa)"
+msgid "<c(A5A095)>(4)</c> 1st Special Combat Section"
+msgstr "<c(A5A095)>(4)</c> 1ª Sección de comandos"

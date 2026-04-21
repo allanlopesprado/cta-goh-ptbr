@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (announcements)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "announce_contentupdate6"
+msgid "We have just released Content Update 6, one of our biggest updates thus far!\n\nIt covers <c(f5d167)>CONQUEST</c> improvements, <c(f5d167)>ANTI-AIRCRAFT</c> fixes, <c(f5d167)>OPTIMIZATION</c>, new <c(f5d167)>ANIMATIONS</c>, and a MASSIVE addition of content to the <c(f5d167)>TALVISOTA DLC</c>.\n\nWe're grateful that you enable us to keep updating the game and working with the community to make these improvements come true.\n\n We'd like to thank our volunteer helpers and the supporter pack owners for going the extra mile to make this happen. If you'd like to see continued updates to our older releases, please consider joining the fight by acquring the <c(f5d167)>SUPPORTER PACK</c>."
+msgstr "¡Acabamos de lanzar la sexta actualización de contenido (Content Update 6), una de las más grandes hasta ahora!\n\nIncluye mejoras en el modo <c(f5d167)>CONQUISTA</c>, correcciones de <c(f5d167)>ANTIAÉREOS</c>, <c(f5d167)>OPTIMIZACIÓN</c>, nuevas <c(f5d167)>ANIMACIONES</c> y una ENORME cantidad de contenido añadido al <c(f5d167)>DLC TALVISOTA</c>.\n\nEstamos agradecidos de que nos permitáis seguir trabajando en el juego y  junto a la comunidad para hacer realidad estas mejoras.\n\nQueremos dar las gracias a nuestros voluntarios y a vosotros, usuarios del SUPPORTER PACK, por ir un paso más allá para hacerlo posible. Si queréis que sigamos actualizando nuestros lanzamientos anteriores, considera unirte a la lucha adquiriendo el <c(f5d167)>SUPPORTER PACK</c>."
+
+msgctxt "button/supporterpack"
+msgid "BUY THE SUPPORTER PACK!"
+msgstr "¡COMPRA EL SUPPORTER PACK!"

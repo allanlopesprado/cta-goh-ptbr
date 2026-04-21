@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Scorched Earth Soviet MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/early/commisar2"
+msgid "Political Commissar [NKVD]"
+msgstr "Comisario político [NKVD]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/early/cossack_1"
+msgid "Cossack [KA]"
+msgstr "Cosaco [KA]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/early/cossack_2"
+msgid "Cossack [KA]"
+msgstr "Cosaco [KA]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/early/cossack_3"
+msgid "Cossack [KA]"
+msgstr "Cosaco [KA]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/early/cossack_nco"
+msgid "Cossack Squad Leader [KA]"
+msgstr "Líder de escuadrón de cosacos [KA]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/mid/commisar2"
+msgid "Political Commissar [NKVD]"
+msgstr "Comisario político [NKVD]"
+
+#, fuzzy
+msgctxt "desc/human/mp/rus/late/commisar2"
+msgid "Political Commissar [NKVD]"
+msgstr "Comisario político [NKVD]"
+
+msgctxt "desc/human/mp/rus/mid/marine_reg_crew"
+msgid "Marine [VMF]"
+msgstr "Marine [VMF]"
+
+msgctxt "desc/human/mp/rus/mid/marine_reg_medic"
+msgid "Marine Medic [VMF]"
+msgstr "Médico marine [VMF]"
+
+msgctxt "desc/human/mp/rus/mid/marine_reg_smg"
+msgid "Marine [VMF]"
+msgstr "Marine [VMF]"

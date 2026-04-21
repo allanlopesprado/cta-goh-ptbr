@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German Doctrines\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_37mm_pak36_early"
+msgid "<c(B29557)>( I )</c> 3.7cm PaK 36"
+msgstr "<c(B29557)>( I )</c> 3.7cm PaK 36"
+
+msgctxt "desc/squad/doctrine_squad_vetsniper_early(ger)"
+msgid "<c(B29557)>( I )</c> Mountain Sniper"
+msgstr "<c(B29557)>( I )</c> Francotirador Gebirgsjäger"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_200mm_ldgw40_mid"
+msgid "<c(B29557)>( II )</c> 20cm LdgW 40"
+msgstr "<c(B29557)>( II )</c> 20cm LdgW 40"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_200mm_ldgw40_late"
+msgid "<c(B29557)>( II )</c> 20cm LdgW 40"
+msgstr "<c(B29557)>( II )</c> 20cm LdgW 40"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_105mm_sk18_mid"
+msgid "<c(B29557)>( III )</c> 10cm sK 18"
+msgstr "<c(B29557)>( III )</c> 10cm sK 18"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_105mm_sk18_late"
+msgid "<c(B29557)>( III )</c> 10cm sK 18"
+msgstr "<c(B29557)>( III )</c> 10cm sK 18"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_120mm_sgrw42_mid"
+msgid "<c(B29557)>( II )</c> 12cm sGrW 42"
+msgstr "<c(B29557)>( II )</c> 12cm sGrW 42"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_bf109_mid"
+msgid "<c(B29557)>( I )</c> Bf-109 50kg Bomb"
+msgstr "<c(B29557)>( I )</c> Bf-109 Bomba de 50kg"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_bf109_late"
+msgid "<c(B29557)>( I )</c> Bf-109 50kg Bomb"
+msgstr "<c(B29557)>( I )</c> Bf-109 Bomba de 50kg"
+
+msgctxt "desc/entity/doctrine_210mm_nebelwerfer42_mid"
+msgid "<c(B29557)>( III )</c> 21cm Nebelwerfer 42"
+msgstr "<c(B29557)>( III )</c> 21cm Nebelwerfer 42"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_panzer2f_mid"
+msgid "<c(B29557)>( I )</c> Panzer II Ausf.F"
+msgstr "<c(B29557)>( I )</c> Panzer II Ausf.F"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_150mm_sig33_late"
+msgid "<c(B29557)>( II )</c> 15cm sIG 33"
+msgstr "<c(B29557)>( II )</c> 15cm sIG 33"
+
+msgctxt "desc/squad/doctrine_sdkfz251d_16"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 251/16 Ausf. D (14mm Flamm)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251/16 Ausf. D (Lanzallamas)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_sdkfz251d_17"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 251/17 Ausf. D (2cm)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251/17 Ausf. D (2cm)"
+
+msgctxt "desc/squad/doctrine_sdkfz251d_21"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_sdkfz251d_22"
+msgid "<c(B29557)>( II )</c> Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
+msgstr "<c(B29557)>( II )</c> Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_wespe_late"
+msgid "<c(B29557)>( II )</c> Wespe"
+msgstr "<c(B29557)>( II )</c> Wespe"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_jagdpanzer4_l48_early"
+msgid "<c(B29557)>( II )</c> Jagdpanzer IV (Early)"
+msgstr "<c(B29557)>( II )</c> Jagdpanzer IV (Temprano)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_jagdpanzer4_l48_late"
+msgid "<c(B29557)>( II )</c> Jagdpanzer IV"
+msgstr "<c(B29557)>( II )</c> Jagdpanzer IV"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_panzer4_70_v"
+msgid "<c(B29557)>( II )</c> Panzer IV/70 (V)"
+msgstr "<c(B29557)>( II )</c> Panzer IV/70 (V)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_nashorn_late"
+msgid "<c(B29557)>( III )</c> Nashorn"
+msgstr "<c(B29557)>( III )</c> Nashorn"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_hummel_late"
+msgid "<c(B29557)>( III )</c> Hummel"
+msgstr "<c(B29557)>( III )</c> Hummel"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_panzerwerfer42_late"
+msgid "<c(B29557)>( III )</c> Panzerwerfer 42"
+msgstr "<c(B29557)>( III )</c> Panzerwerfer 42"
+
+msgctxt "desc/squad/doctrine_tiger2p"
+msgid "<c(B29557)>( III )</c> Tiger II Ausf.B (Early)"
+msgstr "<c(B29557)>( III )</c> Tiger II Ausf.B (Temprano)"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_ger_officer_lw_early(ger)"
+msgid "<c(B29557)>( I )</c> Supply Officer"
+msgstr "<c(B29557)>( I )</c> Oficial de suministros"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_ger_officer_lw_mid(ger)"
+msgid "<c(B29557)>( I )</c> Supply Officer"
+msgstr "<c(B29557)>( I )</c> Oficial de suministros"
+
+#, fuzzy
+msgctxt "desc/squad/doctrine_squad_ger_officer_lw_late(ger)"
+msgid "<c(B29557)>( I )</c> Supply Officer"
+msgstr "<c(B29557)>( I )</c> Oficial de suministros"
+
+msgctxt "desc/squad/doctrine_kettenkrad_goliath_late"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 2 + 303B 'Goliath'"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 2 + 303B 'Goliath'"
+
+msgctxt "desc/squad/doctrine_kettenkrad_goliath_mid"
+msgid "<c(B29557)>( I )</c> Sd.Kfz 2 + 302 'Goliath'"
+msgstr "<c(B29557)>( I )</c> Sd.Kfz 2 + 302 'Goliath'"
