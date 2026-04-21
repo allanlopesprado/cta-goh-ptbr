@@ -1,0 +1,498 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_07_petrovka)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/a_soliders_reinf"
+msgid "Infantry squad"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/art_strike"
+msgid "Support fire"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/date"
+msgid "July 9th, 1943 · Petrovka, south of Kursk"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/gameover_lose"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/gameover_won"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/name"
+msgid "The Ace of Swords"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/name_big"
+msgid "The Ace of Swords"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_00"
+msgid "Good! Keep pushing forward."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_01"
+msgid "Get a move on! Faster!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_02"
+msgid "Great work soldier! Keep advancing."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_03"
+msgid "Attack the next line! We must capture the village before the enemy reinforces the line."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_04"
+msgid "Attack the village right now!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_05"
+msgid "It looks like the pilot survived, we must save him! Push forward quickly."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_06"
+msgid "Maybe the pilot was injured, let's not lose any time."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_07"
+msgid "Great, the village is ours. Prepare to defend it. We must hold the village until the main force gets here."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_08"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_09"
+msgid "Find that pilot! Search the whole village, we must save him."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_10"
+msgid "We saw you come down! We did our best to pick you up!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_11"
+msgid "We will take you back to the nearest airfield. Stay close to us, the enemy will soon respond to our attack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_12"
+msgid "Fine. Move to the village, check each house, kill any enemies you find."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_13"
+msgid "Now we are deprived of the support from our tanks."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_14"
+msgid "Kolkrabe-5, stay on the road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_15"
+msgid "Herr Leutnant, our task is to capture and hold the village ahead until our main forces can arrive to reinforce the position."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_16"
+msgid "The fields are mined, our tanks will remain on the road and advance behind you."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_17"
+msgid "You have enough soldiers under command."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_18"
+msgid "Your infantry must destroy the obstacles and fortifications on the road using dynamite. You can find dynamite in the trucks!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_19"
+msgid "As long as you keep your radio operator alive, we can signal the Panzers where to fire."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_20"
+msgid "You have lost control of the village."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_21"
+msgid "Our radio operators did a perfect job. Target destroyed."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_22"
+msgid "Take the village now, or risk a counterattack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_23"
+msgid "Intelligence reports that Russian troops have begun to move toward the village."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_24"
+msgid "You failed to capture the village. Your superiors will not be amused."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_25"
+msgid "You still haven't found him? Get on with it! The enemy could be here any moment!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_26"
+msgid "Intelligence reports on the appearance of large concentrations of enemy troops, they will begin the offensive very soon! Hurry up!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_27"
+msgid "Find that pilot!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_28"
+msgid "I will not allow a repeat of Stalingrad. Retreat! They are breaking through to our positions!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_29"
+msgid "Stay calm and hold positions, our reinforcements will break through their positions."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_30"
+msgid "We are leaving, but we will return."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_31"
+msgid "On all fronts, we're losing a colossal amount of armor to mines. This situation is completely unsustainable."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_32"
+msgid "The sappers got held up when their column was destroyed by Soviet strike aircraft."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_33"
+msgid "Affirmative. Stay on the main road for now. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/officer_34"
+msgid "You are suffering many losses. You can call for reinforcements."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/outro_completed"
+msgid "This mission, based on Rall’s biography, is the story of a very lucky pilot. In his own words, he was ‘lucky an energetic Panzer commander rushed a column forward and offered a ride to safety’. The battle of Kursk was followed by ‘Operation Kutuzov’, during which the Soviet Army took the initiative for the remainder of the war. Günther Rall was fortunate enough to survive this adventure and the war as well."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/outro_failed"
+msgid "As a result of your actions, JG52 has just lost its most talented commander. When the news of the death of Günther Rall reaches his unit, their morale will slump and in absence of leadership, the standards will slip and losses will mount, making reorganization necessary to dissolve the 3rd group of the 52nd fighter squadron."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/place"
+msgid "An unidentified armored column"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_00"
+msgid "Don't shoot! I am Hauptmann Günther Rall, I belong to Jagdgeschwader 52. I had to ditch my plane nearby after an engagement!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_01"
+msgid "I am most grateful! If it wasn't for your swift assault, I'd be captured and on my way to Siberia!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_02"
+msgid "Roger that, Herr Leutnant."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_03"
+msgid "Thank you, soldier."
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/02-ger/1943_07_petrovka/rall_hp"
+msgid "Captain Rall's survival chance is %1% percent."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/reinf/officer"
+msgid "Send a radio message to HQ and request a reinforcement squad immediately! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_00"
+msgid "We have captured the right flank!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_01"
+msgid "We have breached the center!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_02"
+msgid "We have captured the left flank!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_03"
+msgid "We have broken through the entire first line of defense!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_04"
+msgid "We have stormed the second line of defense!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_05"
+msgid "Take cover! Fire in the hole!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_06"
+msgid "Herr Leutnant! One of our fighter aircraft just crash-landed in the village ahead!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_07"
+msgid "Herr Leutnant, we found the plane, but not the pilot. He must be hiding somewhere, or maybe he was captured."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_08"
+msgid "We captured the last line of defense. Nothing stops us from reaching the village!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_09"
+msgid "Our radio operators were killed!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_10"
+msgid "Captain, we'll give you a ride back, we need to evacuate you immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_11"
+msgid "There is a Russian tank in the village!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_12"
+msgid "This car looks like it's in running order. Maybe we can use it."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_13"
+msgid "Scheisse! Soviet troops behind us! We are surrounded!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_14"
+msgid "The reinforcements have arrived!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_15"
+msgid "Damn! How are we going to get past these minefields?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_00"
+msgid "Requesting fire!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_01"
+msgid "Direct fire, high explosive shell, square seven, angle thirty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_02"
+msgid "Direct fire, high explosive shell, square eight, angle sixty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_03"
+msgid "Direct fire, high explosive shell, square nine, angle ninety."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_04"
+msgid "Direct fire, high explosive shell, square ten, angle one hundred twenty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_05"
+msgid "Direct fire, high explosive shell, square eleven, angle forty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_06"
+msgid "Direct fire, high explosive shell, square twelve, angle sixty-five."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_07"
+msgid "Direct fire, high explosive shell, square thirteen, angle ninety-five."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_08"
+msgid "Direct fire, high explosive shell, square fourteen, angle one hundred thirty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_09"
+msgid "Direct fire, high explosive shell, square fifteen, angle three hundred fifty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_10"
+msgid "Direct fire, high explosive shell, square sixteen, angle ten."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_11"
+msgid "Direct fire, high explosive shell, square seventeen, angle forty-five."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_12"
+msgid "Direct fire, high explosive shell, square eighteen, angle seventy-five."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_13"
+msgid "Direct fire, high explosive shell, square nineteen, angle three hundred forty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_14"
+msgid "Direct fire, high explosive shell, square twenty, angle ten."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_15"
+msgid "Direct fire, high explosive shell, square twenty-one, angle sixty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_16"
+msgid "Direct fire, high explosive shell, square twenty-two, angle eighty."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_17"
+msgid "Negative. This is too close!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_18"
+msgid "We cannot request support fire there. Our pilot is in that area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_19"
+msgid "Too far, the tanks need to get closer."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_20"
+msgid "Herr Leutnant, I'm ready to transmit the target area. Indicate the desired firing location."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/story"
+msgid "When the battle of Kursk began, expectations were high - and tank busters flew low. Soviet defenses were layered and there were minefields everywhere."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_00"
+msgid "Not yet, we've not finished the previous barrage yet."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_01"
+msgid "Firing!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_02"
+msgid "Obstacle destroyed. Push forward to the next position!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_04"
+msgid "The tank squad reached the village without loss. Great job, captain."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_05"
+msgid "The tanks are under your command now."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_06"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_07"
+msgid "This bloody place is full of mines."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_08"
+msgid "Advance, stay on the road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_09"
+msgid "They have maps of the area. They know where the minefields are."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_10"
+msgid "Herr Hauptmann, our Panzers are in position. Your sappers will need to sweep ahead."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_11"
+msgid "Advancing in the open, we risk all our tanks getting blown up before we even arrive at the enemy lines!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/t_officer_12"
+msgid "The request was denied. The convoy is moving towards the point."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1"
+msgid "Capture the village of Petrovka"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_1"
+msgid "Break the first line of defense"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_2"
+msgid "Break the second line of defense"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task1_3"
+msgid "Break the third line of defense"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2"
+msgid "Clear the way for the tanks to the village"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1"
+msgid "Destroy the obstacles on the road"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_1"
+msgid "1/4 of obstacles destroyed"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_2"
+msgid "2/4 of obstacles destroyed"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_3"
+msgid "3/4 of obstacles destroyed"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task2_1_4"
+msgid "4/4 of obstacles destroyed"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task3"
+msgid "Find the shot down aircraft"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task3_1"
+msgid "Find the German pilot"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task4"
+msgid "Take Hauptmann Rall to safety"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task5"
+msgid "Defend the captured positions"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task6"
+msgid "Retreat to the initial position"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_opt1"
+msgid "Ensure the survival of your radio operator"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_opt2"
+msgid "At least one tank must survive"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_sec"
+msgid "Secret Objective #1."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/task_sec1"
+msgid "Find a car and use it to get Rall back safely"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_07_petrovka/text1"
+msgid ""
+msgstr ""

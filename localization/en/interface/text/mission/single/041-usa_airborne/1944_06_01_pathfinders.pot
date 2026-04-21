@@ -1,0 +1,321 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_01_pathfinders)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/date"
+msgid "June 6th, 1944 · Normandy, France"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/ger_reinf"
+msgid "Get ready for the arrival of German reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/name"
+msgid "The Pathfinders"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/name_big"
+msgid "The Pathfinders"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/01"
+msgid "Come on. We're at war, after all. At least you're still alive!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/02"
+msgid "Hey, my American friends! Sorry for the harsh welcome. Life here has become tough for all of us under German occupation, but most of us are glad you are finally here. However, I fear my friend intends to inform the Germans of your position."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/03"
+msgid "Hey, hey! Americans!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/04"
+msgid "Let us help you! We can't offer anything right now, but know the Germans have left a supply trailer hidden somewhere in the orchards behind us. You may want to check it out. Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_farmer/01"
+msgid "God damn it! These self-proclaimed liberators may be worse than the Germans; that horse was all I had left!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_farmer/02"
+msgid "I might as well be dead now! You, you godforsaken Americans, had to start a fight here of all places. Now, my only breadwinner is dead! Get lost! You'll pay for this!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/ger_officer/01"
+msgid "ALARM!!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/01"
+msgid "Thunder!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/02"
+msgid "Get your ass over here before Jerry sees you!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/03"
+msgid "Enemy patrol approaching from down the road. Wait until they get close, and let’em have it!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/04"
+msgid "Alright, I think I know which road this is. On me, troopers, let's take a look at the map!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/05"
+msgid "Soldiers, let's move East and group up with any paratroopers we find. Remember the code words!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/06"
+msgid "Alright, men, rally on me! Let's move out and see if we can find anyone else!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/07"
+msgid "Soldiers, you're with me now. Let's go!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/08"
+msgid "Flash!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/09"
+msgid "Germans approaching from the north!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/10"
+msgid "Listen up! We've gathered as many men as we can. Let's have a look at the situation and go over our objectives!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/11"
+msgid "More Germans are approaching from the south!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/12"
+msgid "That must be a German officer driving away! Stop him before he can escape and gather reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/13"
+msgid "Damn it! That Kraut officer managed to get away! Hopefully, he doesn't come back with some friends!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/14"
+msgid "Good! That Kraut officer won't be going anywhere. Serves him right!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/15"
+msgid "Listen up! We have to set up those beacons ASAP. It could sink the whole operation if they're not ready in time!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/16"
+msgid "Let's get close to the coordinates and install the beacons."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/17"
+msgid "Well, you're alright now. Grab your gear and form up on me!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/18"
+msgid "Excellent work men! Hopefully, the rest of the guys will arrive more organized than we did."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/19"
+msgid "Way to go, troopers! Those Flak guns won't be bothering anyone else."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/20"
+msgid "German vehicles on the move! That Kraut officer came back with his friends! Wipe them all out!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/21"
+msgid "A good start to the invasion, boys! But we've still got a long day ahead of us. Let's hope our luck holds..."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/22"
+msgid "Shit! A large German force is approaching! Did that Frenchman collaborate with the Germans?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/23"
+msgid "The main roads will likely have traffic on them. Let's avoid them and any more German patrols."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/24"
+msgid "Good morning, Lieutenant! Welcome to Normandy! I hope your jump was better than ours!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/25"
+msgid "No, Lieutenant. You're the first we've seen. We've been too busy slugging it out with the Krauts. Haven't had a moment to catch our breath."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/26"
+msgid "Good Luck Lieutenant! What's that guy's problem?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/27"
+msgid "I see... Remind me not to get in his way."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/01"
+msgid "Flash!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/02"
+msgid "Boy, am I glad to see you, Sir!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/03"
+msgid "Whoa! Jerry didn't know what hit him!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/04"
+msgid "Flash!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/05"
+msgid "Look, Sir! A German staff car is trying to get away!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/06"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/07"
+msgid "Enemy flak gun is no more!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/08"
+msgid "Flak position silenced!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/09"
+msgid "Enemy column destroyed, Sir!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier2/01"
+msgid "Thunder!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier2/02"
+msgid "Sir! Yes, Sir!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier2/03"
+msgid "Beacon deployed, Sir!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier3/01"
+msgid "Thunder!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier3/02"
+msgid "Thank god you're here, Sir! We're a little lost."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier4/01"
+msgid "Thunder!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier4/02"
+msgid "Yes Sir! On you, Sir!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier_prisoner/01"
+msgid "Sir! Thanks for saving us! We landed right on top of their positions. We didn't stand a chance."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier_prisoner/02"
+msgid "Yes Sir! Our weapons are here on the table."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/winters/01"
+msgid "Lieutenant Winters, Easy Company, 2nd Battalion. Have you come across anyone else from our Company?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/winters/02"
+msgid "Well, we have our objective to secure and little time to do it."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/winters/03"
+msgid "That's \"Wild Bill\". He just found out his brother bought it in Italy, and now he’s got it in for the Krauts."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/winters/04"
+msgid "Let's go! We're moving out!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/obj_progress"
+msgid "%1% out of 3 beacons deployed."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/outro_completed"
+msgid "Excellent work! You have shown the enemy what you’re capable of. Thanks to our radio beacons, the next wave of aircraft could locate the drop zones and bring in the second wave. Great job!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/outro_failed"
+msgid "You failed to complete the primary objective! Our troops won’t locate their drop zones because the beacons were not deployed. The drops will be scattered all over Normandy, and the Germans will maintain control over the area. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/place"
+msgid "Pathfinders, 501st PIR, 101st \"Screaming Eagles\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/scenario1"
+msgid "Normandy, around the hamlet of Le Holdy, West of Ste-Marie-du-Mont."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/scenario2"
+msgid "Drop Zone \"Charlie\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/story"
+msgid "  On the evening of June 5th, 1944, a massive formation of C-47 aircraft lifts off from RAF North Witham for Normandy. They will drop large numbers of paratroopers behind the D-Day invasion beaches.\n\n  Thirty minutes ahead of them, the pathfinders of the 101st US airborne division are already on their way! They are the first American troops to land in German-occupied France. Several waves of para-drops and troop-carrying gliders will bring in the airborne assault troops.\n\n  Less than one hour into D-Day, the Screaming Eagles’ 501st Parachute Infantry Regiment jumps into action, with orders to place three small radio beacons to guide the other aircraft in.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task0"
+msgid "Eliminate the German truck patrol."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task1"
+msgid "Make contact with other paratroopers"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task2"
+msgid "Deploy the radio beacons in the designated locations."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task3"
+msgid "Kill the German officer attempting to escape, preventing the arrival of enemy reinforcements."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task4"
+msgid "Assault the farm and rescue the captured paratroopers."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task5"
+msgid "Take out the AA battery."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task6"
+msgid "Eliminate the German reinforcements."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task_sec1"
+msgid "Secret Objective #1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task_sec1_comp"
+msgid "(Secret Objective) Kill the collaborator before he raises the alarm and brings German reinforcements."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/timestamp"
+msgid "A few hours later..."
+msgstr ""

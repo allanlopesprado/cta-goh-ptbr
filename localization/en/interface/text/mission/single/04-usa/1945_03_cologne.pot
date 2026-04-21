@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_03_cologne)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/date"
+msgid "March 6th, 1945 · Köln, Germany"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/lose"
+msgid "You lost all your troops!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/name"
+msgid "Lair of the Beast"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/name_big"
+msgid "Lair of the Beast"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/01"
+msgid "Holy smokes, that thing is god damn enormous! It's a shame the rest of the city is blown to shit!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/02"
+msgid "Alright, Lt. Shaw, take it easy peaking over that corner."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/03"
+msgid "God damn it, blown to smithereens! The Germans have panzerfausts and AT guns on every damn turn!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/04"
+msgid "Alright Gentlemen, we're not risking our Pershing just yet. Go in there and get me that square cleared out, now!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/05"
+msgid "These god damn streets are riddled with Anti-tank hedgehogs. We need engineers with satchel charges."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/06"
+msgid "It looks like the 104th Infantry Division is stuck nearby. They have engineers, for sure, but they also have some Krauts pinning them down. Soldiers, get your asses there and help our boys out."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/08"
+msgid "Alright gentlemen. We have explosives now, but we also have further problems. There's enemy snipers overlooking the streets. We cannot advance toward the cathedral until the snipers are taken out."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/09"
+msgid "There's a god damn 88 nest at the crossroads. That's the last foreseeable threat remaining for our Pershing. Take it out and I'll let you sweep the floor with the Pershing."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/10"
+msgid "Allright boys! Let's go visit those spires, shall we? I order you to take the cathedral district. And remember - don't you even think about losing my Pershing. Got it?"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/11"
+msgid "German counterattack around the cathedral! Watch out!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/12"
+msgid "What a display of tactical excellence, Soldiers. I will make sure each and every one of you get recommended for promotions. Now take a step back and contemplate the might of humankind's architecture. They may be bloody Krauts, but they sure know how to build."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/panther"
+msgid "Panther! There's a Panther on that intersection! Well, this time we did come prepared. Let's see how the Pershing fares against it. I'll make sure the combat photographers film it for posterity."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/panzerfaust"
+msgid "Watch out for those Panzerfausts. They will shred through our heaviest armour, and they seem to be giving them away like candy. There's old men and children fighting like fanatics, and they know this city well."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/pershing"
+msgid "Well done Sir. Take command of the M26 Pershing, but we have instructions from HQ not to lose this asset. Take good care of our little beast."
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/04-usa/1945_03_cologne/obj_progress"
+msgid "%1% out of 10 snipers eliminated"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/outro_completed"
+msgid "Great job, General Rose will be very pleased! Now, let’s get the press guys up here and show them the results of this fight; we seem to have plenty of cameramen here. If they managed to get some footage of the action, this fight might become symbolic for the Battle of Cologne someday. Who knows?"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/outro_failed"
+msgid "What happened? Now that we have the Pershing tank available, we should be able to win a battle like this. We desperately need to take all of Cologne this side of the river, but if we can’t get past a few enemies, that’s going to be very hard. For the next attempt, maybe you can change tactics?"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/place"
+msgid "3rd Armored Division 'Spearhead'"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/story"
+msgid "March 1945.\n\n After the bitter fighting in the Ardennes and the Hürtgen forest, the allied drive to the Rhine seems unstoppable. They advance on a wide front with relative ease.\n\n In early March, your 3rd armored division reaches the outskirts of Cologne. Moving along its streets with your tanks, you will need to be very careful not to break your tracks or get stuck in the piles of rubble. Today, you are tasked to fight your way into the city, and to advance all the way to the Rhine River. Keep your tanks safe by clearing the houses on both sides of the roads. Watch out for snipers while you advance to the central station near the cathedral and the bridges. You’ll likely run into enemy tanks as well.\n\n If the need arises, we can send some of our brand new heavy tanks forward. For now, get ready to move.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task1"
+msgid "Clear the junction"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task2"
+msgid "Rendezvous with the 104th ID engineers"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task3"
+msgid "Clear out the snipers"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task4"
+msgid "Take out the 88 in order to get access to the Pershing"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task5"
+msgid "Capture the cathedral"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task6"
+msgid "Keep the M26 Pershing operational"
+msgstr ""

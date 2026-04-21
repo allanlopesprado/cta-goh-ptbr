@@ -1,0 +1,362 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_12_tikhvin)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/alias1"
+msgid "player"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/alias2"
+msgid "AI"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/alias3"
+msgid "ger"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/convoy"
+msgid "Enemy convoy arrival scheduled for:"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/date"
+msgid "November 9th, 1941 · Tikhvin railway hub"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/location"
+msgid "Tikhvin railway hub. November 9th."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/name"
+msgid "The Cold Supper"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/name_big"
+msgid "The Cold Supper"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/outro_completed"
+msgid "Tikhvin was as far east as ‘Army Group North’ would ever get. The Soviet counter-attack of December 41 pushed the Germans out almost exactly one month after it had been lost. Once re-taken, the Soviets never lost control of the Tikhvin railway hub again and Leningrad would not fall, despite the fact that the siege lasted almost 900 days. "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/outro_failed"
+msgid "Because you lost the battle, the people of Leningrad will receive even smaller rations than they already have until now. The situation has just become critical! There is no way of saying how many people will pay with their lives for this failure."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/place"
+msgid "Special Detachment"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/01-rus/1941_12_tikhvin/progress_p3"
+msgid "Compromise the garrison! %1% Out of a minimum of 4 targets accomplished."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/01"
+msgid "Nighttime reduces the units' vision but vehicles and loud gunshots will be heard over a distance. Try to be stealthy."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/02"
+msgid "Look for something to contaminate the fuel tank. Get a soldier to bring the item close to the hatch."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/03"
+msgid "To contaminate the enemy kitchen, take a soldier with a repair kit in his hands and bring it to the kitchen area. Engine lubricants are not particularly edible."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/04"
+msgid "To take out the German howitzers silently, bring a soldier close enough to the gun barrel and he will sabotage the gun."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/05"
+msgid "There are several paths leading to the second aerosled. Scouting will be needed to determine the best one."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/06"
+msgid "Try to remain stealthy. Do not get too close to sleeping Germans or raise suspicion. You should use the silenced Nagant pistol to take out enemies quietly."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/07"
+msgid "A high-ranking officer is performing an inspection. He may carry documents. You must wait for the right time to ambush him."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/08"
+msgid "The target may be eliminated silently. Come closer for instructions."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/09"
+msgid "There is a fuel supply area which we should sabotage. Quietly, if possible... I have some ideas."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/01"
+msgid "Full throttle! He's right behind us!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/02"
+msgid "Left!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/03"
+msgid "Go through the shrubs! He won't know where we went!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/04"
+msgid "We have to regroup with the other aerosled! .... the radio caught a bullet, we can't communicate ... we will have to find them using another way!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/05"
+msgid "We have the documents! Let me see..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/06"
+msgid "A Panzer got on our tail and we had to evade it using a different route, but our radio was broken... what's the status?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/07"
+msgid "Abort? No! We must take action now while they are resting. First, we must find out where their depots and supplies are, and destroy them."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/08"
+msgid "I can translate German... sounds like a cunning plan... Let's go."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/09"
+msgid "Hmm. It seems we laid our hands on the complete plan of the defense sectors and units located here, plus the scheduled arrival of new logistic columns. This is pure gold, comrades."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/10"
+msgid "We will wreak all sorts of havoc while we can! We could potentially visit.... let's see... An artillery position! The barracks! The fuel depot..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/11"
+msgid "Apparently, judging by the distance between German units, they rely on a powerful radio vehicle for communication. If we can take that out, the Germans here will be isolated. Look for antennas to find it..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/12"
+msgid "Don't let us get spotted or noticed by enemy officers! Make sure to shoot them before engaging in combat. They will likely call for reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/13"
+msgid "That officer over there is still safe and sound! I bet he's calling for reinforcements as we speak. Brace yourselves!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/14"
+msgid "See that guy with the peaked cap? He's an officer! You should have taken him out by now! I bet he is calling in reinforcements."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/15"
+msgid "Bloody hell, this place stinks of petrol. The fuel must have an open valve somewhere. Hmmm... We could put some chemicals into the fuel to stall their engines..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/16"
+msgid "I'm sure we don't want to interrupt their sleep... What a great occasion. Why don't we introduce a new ingredient onto the kitchen ovens? Erm... go fetch a repair kit. I'm sure there are some delicious lubricants and anti-freezing fluids in there. "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/17"
+msgid "Aha, there's the artillery. I suspect if we blow them up, the noise will alert the fascists. How about we take out the guards silently... and then we put some pebbles in the gun barrels? Next time they fire... they will have some surprise fireworks!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/18"
+msgid "Comrades, in a few minutes a fuel convoy is scheduled to arrive. We should take it out!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/19"
+msgid "A logistics column is scheduled to arrive in a few minutes. The Manifest: Howitzer ammunition. I don't think we should let the fascist dogs have any of that!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/20"
+msgid "Oh yes. Guten appetit, you swine!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/21"
+msgid "Alright, comrades. That's enough. Time to get the hell out!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/22"
+msgid "Hah! They won't know what hit 'em."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/23"
+msgid "That's the howitzers! Good job."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/24"
+msgid "Excellent. They can't call for reinforcements now. But this is no license to go out there with guns blazing! They still outnumber us and we should try and act quietly!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/25"
+msgid "The officer by the roadblock might be calling in reinforcements, kill him right now!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/26"
+msgid "I bet that officer just called for reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/27"
+msgid "That officer by the sandbags will have called in reinforcements by now!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/28"
+msgid "Officer spotted! Don't let him detect you!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/29"
+msgid "Officer! Don't get into a fight without killing him first, or else he might call for reinforcements."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/30"
+msgid "Damn! We woke them up! I guess the only way to sabotage this place now is to kill everybody."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/arty"
+msgid "There is an artillery battery which we must take care of. I got an idea for taking them out silently when we get there."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/barracks"
+msgid "The Fascists have some designated barracks. I'm sure we could stealthily deal with them while they sleep."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/fuel"
+msgid "There is a fuel supply area which we should sabotage. Quietly, if possible... I have some ideas."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_partisan/01"
+msgid "Comrades! Thanks for helping us! Let us help you on your mission!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_partisan/02"
+msgid "Kill the fascists!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_radioman/01"
+msgid "Comrade Commissar! We thought you were dead! We have been unable to contact you since we approached Tikhvin!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_radioman/02"
+msgid "Not good Sir... It's full of Germans building defenses. It's suicidal to attack the enemy garrison. Should we abort?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_radioman/03"
+msgid "How shall we proceed, comrade Commissar?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_radioman/04"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/01"
+msgid "We're getting away! The German's tracks are sinking into the snow!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/02"
+msgid "Go, go, go!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/03"
+msgid "Comrade Commissar, the road is blocked. This way leads to the German rear... We're lost!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/04"
+msgid "Comrade Commissar, the Germans always write everything down. We could look out for a high-ranking officer and take his documents."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/05"
+msgid "Comrade Commissar, how will we manage to prevent the Germans from calling in reinforcements?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/06"
+msgid "I can't see movement at those barracks, they must be asleep. Hmm, smells sweet. They must be preparing breakfast already."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/07"
+msgid "Artillery position, over there!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/08"
+msgid "Something's going on over by the lamp post. What the hell?!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/09"
+msgid "Shit! Those tanks over there are being manned! Stop making noise!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/10"
+msgid "I see an officer! Watch out!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_soldier/11"
+msgid "That is an officer! Don't let him see you..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/story"
+msgid "Army Group North dashes towards the key city of Leningrad. Tikhvin is taken.\n\nThe Red Army orders a counteroffensive for the next day. In preparation, the lines are infiltrated."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task1"
+msgid "Establish contact with the other aerosled."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task2"
+msgid "The Commissar must survive!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/talk_co_down"
+msgid "Medic! - Commissar is wounded and requires first aid!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task_heal_co"
+msgid "Revive Commissar before he bleeds to death!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task3"
+msgid "The Commissar must obtain the German documents. He can read German."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4"
+msgid "Compromise the German garrison!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_1"
+msgid "Sabotage the artillery position"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_2"
+msgid "Ambush and destroy the ammo convoy."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_3"
+msgid "Sabotage the German barracks"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_4"
+msgid "Take out the fuel column!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_5"
+msgid "Sabotage the fuel containers"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task5"
+msgid "Proceed to the extraction point."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task_opt"
+msgid "Take out the radio vehicle to disable enemy communications."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task_sec1"
+msgid "Secret Objective #1"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_12_tikhvin/task_sec1_completed"
+msgid "Free the allied Partisans."
+msgstr ""

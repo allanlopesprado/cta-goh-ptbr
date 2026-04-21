@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_01_nijmegen)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/date"
+msgid "September 20th, 1944 · Nijmegen, Netherlands."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/name"
+msgid "The Waal Bridge"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/name_big"
+msgid "The Waal Bridge"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/story"
+msgid "  Operation Market Garden, a daring combined attack by the 1st Allied Airborne Army and 30 Corps, starts today. Allied Airborne troops are to be dropped at the main objectives; they must secure multiple bridges and hold them until the ground forces arrive.\n\n  To achieve this goal, nine road bridges must be secured to allow 30 Corps to drive all the way to Arnhem. You have been dropped near Nijmegen with the 82nd “All American” Airborne Division. After the drop, your objective is to secure the road bridge.\n\n  Moving north, you need to advance through the city. The Germans are still in positions between you and the road bridge. You’ll have to clear them out before making your next move.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/outro_completed"
+msgid "Great job! This mission was difficult, but you have overcome incredible odds. The crossing was murderous, but the Nijmegen Bridge is secure, and it’s the 82nd that did it! "
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/outro_failed"
+msgid "We can’t afford failure here! That bridge is the one thing we need to secure - there is no way around it. We must go in again; this time, we must take it at any cost or risk the whole operation failing."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator01"
+msgid "Alright, soldiers! Our objective is ahead of us, the Waal bridge!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator03"
+msgid "We need to eliminate German strong points in the area. Secure St. Steven's church, the main intersection, and the docks."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator04"
+msgid "Even after the bombardment, German resistance is stronger than expected. We need to find another direction to approach the bridge."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator05"
+msgid "Half of our force will cross the river in an attempt to secure the bridge from the other side. The remaining half will stay here and defend our foothold in the church!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator06"
+msgid "We've made it across! Let's clear the area and secure the river bank!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator07"
+msgid "Good work! Now we can cut the Germans off by capturing the northern side of the bridge!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator08"
+msgid "Those 88s are between us and the bridge! Let's knock 'em out!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator10"
+msgid "The northern end of the bridge is secured!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator11"
+msgid "The British tanks are here! We can use their help to push through the city!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator12"
+msgid "We must secure Valkhof Park before we can take control of the bridge. Push forward, men!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator_soldier01"
+msgid "Radio Op here, Sir! What do you need me to do?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator13"
+msgid "We could use an airstrike on the German stronghold in the park. Move up close to where you can observe the park and radio it in."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator_soldier02"
+msgid "They've got their heading. Airstrike is on its way!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task01"
+msgid "Eliminate German strong-points!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task01a"
+msgid "Hold the church!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task02"
+msgid "Cross the river using the boats!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task02a"
+msgid "Secure the river bank!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task03"
+msgid "Secure the northern end of the bridge!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task04"
+msgid "Destroy the Flak 88s!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task05"
+msgid "Break through the ruined city!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task06"
+msgid "Clear Valkhof Park!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task07"
+msgid "Move the radio operator to one of the designated places to call in an airstrike."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task08"
+msgid "Secure the Waal bridge!"
+msgstr ""

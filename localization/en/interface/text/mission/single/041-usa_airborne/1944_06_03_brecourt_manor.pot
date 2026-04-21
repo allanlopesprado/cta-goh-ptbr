@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_03_brecourt_manor)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/date"
+msgid "June 6th, 1944 · Brécourt Manor, Normandy, France."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/ending"
+msgid "The successful assault at Brécourt Manor, in part, gave the troops at Utah Beach a relatively easy landing. This assault has become a classic case study in military training for engaging a superior enemy force. Colonel Robert Sink, who commanded the 506th Parachute Infantry Regiment, put forward Dick Winters for the Medal of Honor. Still, it was downgraded to the Distinguished Service Cross due to a policy allowing only one Medal of Honor per division. Despite this, both Winters and Lieutenant Speirs would later gain global recognition for their actions at Brécourt Manor and in subsequent battles."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/name"
+msgid "Hold Fast!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/name_big"
+msgid "Hold Fast!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator01"
+msgid "Easy Company, Listen Up! Our boys on Utah Beach are getting hammered by that Kraut artillery. Drop everything except weapons and ammo!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator02"
+msgid "Our main objective is to destroy the enemy howitzer battery. Use TNT or satchel charges!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator03"
+msgid "After we're done with the howitzers, we'll need to clear the Germans from the nearby manor."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator04"
+msgid "We'll use the .30 cal machine guns to set a base of fire and assault the enemy artillery from the flank. We'll get in close, then hit them hard and fast."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator05"
+msgid "Avoid the open field to the east, or they'll spot us!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator06"
+msgid "Great job! We destroyed the guns!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator07"
+msgid "We need to take out that MG42 on the other side of the field!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator08"
+msgid "Excellent! That MG42 is not a threat anymore!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator09"
+msgid "Now we need to take the manor! Let's go!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator10"
+msgid "The manor is ours! Good job!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator11"
+msgid "Stay out of the open field in front of the cannons! They'll stop firing at the beaches and instead start fire at us!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator12"
+msgid "Enemy infantry, coming from the east! Get one of those .30 cals over here and pour it on them!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator13"
+msgid "Hey Lieutenant Speirs. We appreciate Dog Company's help today."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator14"
+msgid "Yeah, sure. Here you go."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun1"
+msgid "One down, three to go!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun2"
+msgid "Another one destroyed! On to the next gun!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun3"
+msgid "There's only one left! Let's go!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_secret"
+msgid "I can't see a thing... Maybe I could see better if I climbed up this tree..."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs1"
+msgid "D Company here! We figured you could use some help!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs2"
+msgid "Looks like they've had enough!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs3"
+msgid "... Hey, you got some cigarettes?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs4"
+msgid "..."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_tank"
+msgid "Hey! We could use some help over here! Blow up these obstacles so we can get through!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_tank2"
+msgid "Thanks! We were sitting ducks!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/outro_failed"
+msgid "You failed to complete the primary objective! Because we did not silence the enemy artillery, our boys on Utah Beach took heavy damage. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/outro_completed"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/situation1"
+msgid "Brécourt Manor - 08:35 hours"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/situation2"
+msgid "E (\"Easy\") Company, 2nd Battalion, 506th Parachute Infantry Regiment"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/story"
+msgid "  6th of June, 1944. It’s been about 7 hours since you made the 'Big Jump'.\n\n  You have spent most of the night moving towards your main objective and regrouping with your Easy Company comrades along the way. After daybreak, you arrive at Le Grand Chemin, a small village between Ste Marie du Mont and Utah Beach.\n\n  The main task of securing the Utah Beach causeways is far from complete. The company’s Headquarters Section is missing in action this morning, so your orders are to report to Battalion HQ, Lieutenant Winters.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task1"
+msgid "Sabotage the enemy howitzers!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task2"
+msgid "Neutralize the enemy machine gun!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task3"
+msgid "Capture the manor!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task4"
+msgid "Destroy the roadblock."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_secret"
+msgid "(Secret objective) Climb up the tree"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_secret_noncomp"
+msgid "(Secret objective)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_speirs"
+msgid "Lt. Speirs must survive."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_winters"
+msgid "Lt. Winters must survive."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_speirs"
+msgid "Treat Lt. Speirs before he bleeds to death!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_winters"
+msgid "Treat Lt. Winters before he bleeds to death!"
+msgstr ""

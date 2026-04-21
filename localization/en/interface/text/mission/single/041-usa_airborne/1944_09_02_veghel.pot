@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_02_veghel)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/date"
+msgid "September 24th, 1944 · Veghel, Netherlands."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name"
+msgid "Contesting Hell's Highway"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name_big"
+msgid "Contesting Hell's Highway"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator01"
+msgid "Incoming! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator_soldier01"
+msgid "Panzers! I see German armor coming from the north!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator03"
+msgid "Get to defensive positions! We have to protect our supply trucks!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator14"
+msgid "Look alive! More Krauts are coming from along the highway!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator13"
+msgid "A Panther! Gun crew, aim for a weak spot, or it will kill us!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator15"
+msgid "Our 57 mil is down! Someone deal with that Panther!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator04"
+msgid "They are retreating!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator05"
+msgid "Looks like they've had enough! We need to ensure the highway ahead is clear of any Germans."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator12"
+msgid "Continue to protect our trucks. They must deliver supplies to our troops!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator06"
+msgid "German tank destroyers are operating nearby. Locate and destroy them."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator09"
+msgid "Support has arrived!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator16"
+msgid "We have been granted limited artillery support from a nearby battery. One high-explosive and two smoke barrages are available."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator10"
+msgid "We need to clear any remaining enemies from the village and nearby woods."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator07"
+msgid "Good job! The enemy tank destroyers won't threaten our convoys anymore!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator08"
+msgid "The highway is clear of enemy troops! Let's get those trucks moving!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/outro_completed"
+msgid "Excellent work! You have thwarted the enemy’s attempts to take Highway 69. The road to Arnhem is still open to XXX Corps. Congratulations, soldier!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/outro_failed"
+msgid "Losing this part of the highway to the Germans will delay the operation. It’s absolutely necessary to take back the road. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/reinf_arty"
+msgid "Artillery barrage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/reinf_smoke"
+msgid "Smoke barrage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/story"
+msgid "  Having secured Veghel five days ago, the 101st is thrown into battle once more. The allied ground forces approach from the south along Highway 69, which is the only road available for their advance.\n\n  If the British XXX Corps is to succeed, you need to fend off any enemy attacks and prevent the narrow stretch of highway from falling into German hands.\n\n  With the success of Operation Market Garden hanging in the balance, the importance of your task cannot be overstated.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task01"
+msgid "Protect the supply trucks (at least 3 must survive)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task02"
+msgid "Clear the enemies from the highway!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task03"
+msgid "Find and neutralize German tank destroyers!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task04"
+msgid "Clear the remaining enemies!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task05"
+msgid "Escort the supply trucks safely to the end of the highway (at least 3 trucks must get there)."
+msgstr ""

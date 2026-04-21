@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/ammo/bergmann_stick"
+msgid "7.65mm Bergmann Stick"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_20x138b_auto fin ap"
+msgid "20 psfav-Vj3 [<c(ff6a00)>AP</c>] <c(65696d)>Breda</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_20x138b_auto fin he"
+msgid "20 tkrv-Vj3 [<c(ff1200)>HE</c>] <c(65696d)>Breda</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_37x94 fin aphe"
+msgid "37 pstkr-Vj4 [<c(ff6a00)>APHE</c>] <c(65696d)>L/21</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_37x94 fin he"
+msgid "37 tkrv-Vj6-27/30 [<c(ff1200)>HE</c>] <c(65696d)>L/21</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_37x257 fin ap"
+msgid "37 psav-Vj4 [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_37x257 fin he"
+msgid "37 tkrv-Vj6-27/30 [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_40x331_auto fin apbc"
+msgid "40 psa-Vj4 [<c(ff6a00)>APBC</c>] <c(65696d)>L/60</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_40x331_auto fin he"
+msgid "40 tkrv-Vj6 [<c(ff1200)>HE</c>] <c(65696d)>L/60</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_47x195 fin aphe"
+msgid "47 pstkr [<c(ff6a00)>APHE</c>] <c(65696d)>L/32</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_47x195 fin he"
+msgid "47 pstkr [<c(ff1200)>HE</c>] <c(65696d)>L/32</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_75x657 fin apbc"
+msgid "75 psa-Sk-Vj4 [<c(ff6a00)>APBC</c>] <c(65696d)>L/48</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_75x657 fin he"
+msgid "75 it.kr 53/60-B [<c(ff1200)>HE</c>] <c(65696d)>L/48</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_84x294 fin ap"
+msgid "84 psa-Vj4 [<c(ff6a00)>AP</c>] <c(65696d)>L/29.4</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_84x294 fin he"
+msgid "84 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/29.4</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_105x380 fin he"
+msgid "105 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_105x764 he"
+msgid "105 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/42</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_107x442 fin he"
+msgid "107 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/28</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_114x86 fin he"
+msgid "114 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/15.6</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_114x86 fin heat"
+msgid "114 hkr 42/C-18/24-38 [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/15.6</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_120_l27 fin he"
+msgid "120 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/27</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_122x159 fin he"
+msgid "122 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/12.8</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_122x159 fin wp"
+msgid "122 fsakrv [<c(FFFFFF)>WP</c>] <c(65696d)>L/12.8</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_155_l15 fin he"
+msgid "155 tkrv [<c(ff1200)>HE</c>] <c(65696d)>L/15</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_203_l16 fin he"
+msgid "203 tkrv 24/31-Ra [<c(ff1200)>HE</c>] <c(65696d)>L/14.5</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletfin_20 ap"
+msgid "20 psfav-Vj3 [<c(ff6a00)>AP</c>] <c(65696d)>L-39 Lahti</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletfin_20_auto ap"
+msgid "20 psfav-Vj3 [<c(ff6a00)>AP</c>] <c(65696d)>ItK/40</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletfin_20_auto he"
+msgid "20 tkrv-Vj3 [<c(ff1200)>HE</c>] <c(65696d)>ItK/40</c>"
+msgstr ""
+
+msgctxt "desc/ammo/chauchat"
+msgid "8mm Chauchat Magazine"
+msgstr ""
+
+msgctxt "desc/ammo/m26"
+msgid "7.62mm M/26 Magazine"
+msgstr ""
+
+msgctxt "desc/ammo/madsen"
+msgid "7.62mm Madsen Magazine"
+msgstr ""
+
+msgctxt "desc/ammo/mgun_rus l33_36"
+msgid "7.62-mm L-33/36 Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/mortarfin_81 he"
+msgid "[<c(ff1200)>HE</c>] 81-mm Mortar"
+msgstr ""
+
+msgctxt "desc/ammo/mortarfin_81 sm"
+msgid "[SMOKE] 81-mm Mortar"
+msgstr ""
+
+msgctxt "desc/ammo/mortarfin_120 he"
+msgid "[<c(ff1200)>HE</c>] 120-mm Mortar"
+msgstr ""
+
+msgctxt "desc/ammo/mortarfin_170 he"
+msgid "[<c(ff1200)>HE</c>] 170-mm Mortar"
+msgstr ""
+
+msgctxt "desc/ammo/suomi_drum"
+msgid "9mm Suomi Drum"
+msgstr ""
+
+msgctxt "desc/ammo/suomi_stick"
+msgid "9mm Suomi Stick"
+msgstr ""
+
+msgctxt "desc/ammo/m1907_mag"
+msgid "9mm M1907 Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/kg_m21_mag"
+msgid "6.5mm KG M/21 Magazine"
+msgstr ""
+
+msgctxt "desc/ammo/rifle_swe clip"
+msgid "6.5mm Mauser Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/bulletrus_45 apcbc"
+msgid "45 psa-Vj4 [<c(ff6a00)>APCBC</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_75_l43 apcbc"
+msgid "75 psa-Vj4 [<c(ff6a00)>APCBC</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletrus_76 apcbc"
+msgid "76 psa-Vj4 [<c(ff6a00)>APCBC</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletrus_76 heatb"
+msgid "76 hkr 42-18/24-38 [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletrus_76 heatc"
+msgid "76 hrk Vj 42/C-18/24-38 [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_114x86 fin wp"
+msgid "114 fsakrv 51/61-106E [<c(FFFFFF)>WP</c>] <c(65696d)>L/15.6</c>"
+msgstr ""
+
+msgctxt "desc/ammo/mortarfin_300 he"
+msgid "[<c(ff1200)>HE</c>] 300-mm Mortar"
+msgstr ""
+
+msgctxt "desc/ammo/bulletrus_76_l55 apcbc"
+msgid "76 psa-Vj4 [<c(ff6a00)>APCBC</c>]"
+msgstr ""

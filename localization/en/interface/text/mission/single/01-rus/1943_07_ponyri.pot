@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_07_ponyri)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/date"
+msgid "July 7th, 1943 · Ponyri, Kursk Oblast"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/01-rus/1943_07_ponyri/mineprogress"
+msgid "%1% out of 500 mines deployed!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/name"
+msgid "The Citadel <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/name_big"
+msgid "The Citadel"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/01"
+msgid "Comrades, we have received intelligence that confirms the fascist summer offensive will start today!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/02"
+msgid "We have dug the most comprehensive fortification lines ever seen in the history of warfare. We are ready to stop the hitlerite hordes and drive them back to Berlin!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/03"
+msgid "We've been ordered to lay as many mines as possible in preparation for the fascist attack. Get to work, soldiers!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/04"
+msgid "The Germans are attacking! They already breached the outer defence line. Get ready to hold them back!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/05"
+msgid "The German tanks are here! We have information the fascists are using new tank types, watch out for those!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/06"
+msgid "Well done comrades!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/07"
+msgid "The enemy just sent a new wave!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/08"
+msgid "The fascists are deploying their artillery to help with the assault!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/09"
+msgid "German aircraft incoming!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/10"
+msgid "We have received additional reinforcements, try to keep the Germans at bay!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/11"
+msgid "We have received further reinforcements. It's time to drive the Germans out of here and bring their offensive to a halt!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/12"
+msgid "Excellent work comrades, the brutal beast is beaten! This battle - and our inevitable victory - will be remembered for centuries! "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/outro_completed"
+msgid "Congratulations! You have stopped the enemy as ordered, a major achievement. Your counterattack was a prelude to operation Kutuzov, the massive Soviet counteroffensive which is about to end the German attack and crush German hope for a big victory this year. From now on, the red army calls the shots in this war."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/outro_failed"
+msgid "That is not the desired result! The Germans have broken through, and they advance towards the town of Tim, somewhere east of Kursk. If the same thing happens at the south pincer, we’re doomed, and the Germans will surely take us prisoner. But maybe it’s not too late. Gather all the men you can find, and go in again - never give up!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/place"
+msgid "307th Rifle Division and 13th Army"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_box"
+msgid "Ammo supplies"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_il2"
+msgid "IL-2 M1943 Airstrike"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_squad"
+msgid "Infantry squad"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/story"
+msgid "The pincer attack to encircle the Soviet troops around Kursk is in its third day. The northern pincer still hasn’t gained real momentum. This is caused by fierce Soviet opposition and well- prepared defenses.\n\nThe Germans push toward Ponyri and Olkhovatka. The area around Ponyri becomes the stage of one of the fiercest battles ever. The central front, under general Rokossovsky, is determined to stand its ground, come hell or high water.\n\nYou will be in charge of the defenses in this mission. Make sure you cleverly place some mines between the tank ditches to stop enemy armor from breaking through. If they do, fall back to the second line of defense. Make sure you hold the second line until our comrades of the 13th army are ready to join you for a counterattack.\n\nMake the motherland proud!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task1"
+msgid "Lay down a vast minefield beyond the anti-tank ditches"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task2"
+msgid "Defend Ponyri station at all costs!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task3"
+msgid "Drive the remaining Germans out of Ponyri."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/timer"
+msgid "Defend the station at Ponyri:"
+msgstr ""

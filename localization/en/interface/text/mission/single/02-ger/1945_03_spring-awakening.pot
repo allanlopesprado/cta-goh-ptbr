@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_03_spring-awakening)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/date"
+msgid "March 10th, 1945 · East of Lake Balaton, Hungary"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/name"
+msgid "The Final Offensive <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/name_big"
+msgid "The Final Offensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/01"
+msgid "Soldaten! We have a task of strategic importance ahead! Our forces are conducting a counteroffensive codenamed \"Spring Awakening\"."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/02"
+msgid "The soviet forces are well entrenched, and maybe they outnumber us, but today we have the latest armor and weaponry at our disposal. The bolshevik armor will be no match for our Königstigers."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/03"
+msgid "We are low on supplies. You are to seize the key depots of this area first. Watch out for enemy aviation."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/04"
+msgid "Good job! Our reinforcements will be arriving shortly from the south west."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/05"
+msgid "Excellent work! There are some supply vehicles here, maybe they have some of our ammunition we can take back."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/06"
+msgid "Finally! Some much needed fuel is at our disposal. Let's make the most out of this trophy."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/07"
+msgid "This workshop contains all the tools we need if we run our of our own repair tools. Let's scavenge all we can find."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/08"
+msgid "The enemy HQ is taken out! We have taken a huge leap forward in this fight. In case the enemy counter-attacks, you should get ready!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/09"
+msgid "Good work Soldiers. We've managed to drive out the enemy from all the key objectives. Unfortunately, we don't have the fuel for a next offensive move."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/10"
+msgid "We've been ordered to take all the valuable supplies and hold off any Soviet counterattacks. Our original starting position cannot fall to the enemy under any circumstance!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/11"
+msgid "You are given command of our heaviest and most devastating weapon: the Jagdtiger. Blow those Soviet tanks to bits!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/12"
+msgid "Damn it! Soviet troops are already entering our starting positions! Clear the area immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/13"
+msgid "Excellent work, Soldaten! Once again you have made the Fatherland proud. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/14"
+msgid "Look, a damaged soviet tank stranded in the swamp... I suppose we could use it."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/15"
+msgid "A T-34 has been ditched in the swamp. I bet we can get it repaired!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/outro_completed"
+msgid "Well done! You accomplished about everything there was to accomplish in this offensive. In real life, even though the initial advance had been successful, the attacking force was too weak to push much further and the strategic objectives were not met. This marked the last serious offensive of the Wehrmacht in the east."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/outro_failed"
+msgid "Oh no! That ruins our chances to get to the strategic objectives - the oil fields. This means the immediate end to our ambitions. It seems we should have tried differently. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/place"
+msgid "6th Army"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/reinf_crew"
+msgid "Tankmen"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/reinf_squad"
+msgid "Panzergrenadiere"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/story"
+msgid " On the eastern front, Budapest has been lost to the Soviets in February. The last Hungarian oil reserves available to the axis have also been lost. Hitler decides a counterattack must be conducted. General Balck and the resurrected 6th army are sent to the attack. His forces, among which the IIIrd Panzer Korps, will be part of a pincer attack into the area south- east of lake Balaton. The objective is to reach the Danube river. On march 6th, the main force attacks from the north side of Balaton.\n\n In this mission, you will be put in charge of the attack on the village of Sárszentágota. Your supply state is critical, and therefore your first objectives will be to take the Soviet fuel and supply dumps. Once you have resupplied your units, push on to take the enemy HQ in order to eliminate any threat of a counterattack. Use any enemy equipment you can capture and repair to make the odds a little bit less desperate.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task1"
+msgid "Clear the crossroads for reinforcements to arrive."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task2"
+msgid "Capture the ammo depot."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task3"
+msgid "Capture the fuel depot."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task4"
+msgid "Capture the repair workshop."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task5"
+msgid "Destroy the enemy HQ."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task6"
+msgid "Defend from the soviet assault, fall back to the original position."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task_sec"
+msgid "Secret Objective"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/task_sec1"
+msgid "Secret Objective: Salvage some of the soviet tanks in the swamp."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/timer"
+msgid "The counterattack will arrive in:"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1945_03_spring-awakening/timer2"
+msgid "Defend your starting position!"
+msgstr ""

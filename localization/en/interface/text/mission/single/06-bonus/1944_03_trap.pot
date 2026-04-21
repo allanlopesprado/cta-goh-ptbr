@@ -1,0 +1,279 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_03_trap)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/06-bonus/1944_03_trap/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/mission_option_select1"
+msgid "SELECT YOUR TACTICAL DOCTRINE:"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/date"
+msgid "July 15th, 1944 · Belarus"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/story"
+msgid "While the 1st Belorussian Front is smashing through Army Group Centre during Operation Bagration in the summer of 1944, you are advancing behind the main line of attack. Your orders are clear: report to the headquarters of the 17th Infantry Division. \nAs you move through the humid Belarusian countryside under a grey July sky, you wonder what the division staff needs from you. You’ll know soon enough. Just keep marching — the HQ is just beyond that village up ahead. \n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/gameover_officer_dead"
+msgid "Hauptmann Hellmann was killed."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/gameover_secret"
+msgid "You unlocked the secret ending!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/hint_docs"
+msgid "Put the documents into Dietrich Hellmann's inventory to continue."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/hint_secret"
+msgid "Put the chicken steak into one of the boxes near the field kitchen."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/name"
+msgid "The Trap"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/name_big"
+msgid "The Trap"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/chicken"
+msgid "I am quite hungry. Should we maybe bring this meat to our field kitchen for later?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/docs_found_01"
+msgid "Let's see... I can't make out all the details, but even at a first glance, the news is grim. Discouraging, I'd say."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/docs_found_02"
+msgid "They've surrounded our division and plan to attack it from two directions. There is more bad news - they've got heavy tanks!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/docs_found_03"
+msgid "The situation calls for guts and determination. We must ambush their reinforcements and warn our comrades!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/enemy_see_pl"
+msgid "Now they know we're here. In a moment, the whole village will be looking for us. Prepare yourselves!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/evac_01"
+msgid "I think that was the last of them. Amazing job, soldiers!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/evac_02"
+msgid "Let's get out of here. We need to warn our comrades."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_01"
+msgid "We're almost there. The 17th Division HQ should be somewhere nearby."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_02"
+msgid "These places are so beautiful... Aren't they?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_03"
+msgid "What do you think? Will the 17th Division be glad to see us?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_04"
+msgid "A soviet tank? Mein Gott! It's a trap!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_05"
+msgid "I'll tell you what's going on. Partisans in German uniforms are taking our comrades prisoner."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_06"
+msgid "Don't panic. Let's think. I assume you don't want to join the guys with raised hands?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_07"
+msgid "First of all, let's keep quiet for some time. The Soviets outnumber us, and they have much better equipment. We must find a gap in their defense and use their weapons against them. Once they spot us, the whole village will attack us."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_08"
+msgid "Secondly, we have to free our men. We can't let them die here."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_09"
+msgid "And another thing: I saw a Soviet officer with a briefcase in this village. I wouldn't mind taking a look at the papers inside. They could explain why Russians control this village. I need to be the one to read those documents, since I am the only one in the squad who understands Russian."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/jagdpanther_repaired"
+msgid "Outstanding work, soldiers. Armor like that will take us all the way to Moscow. But be careful with it, this beast is the only one we've got."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/pow_free"
+msgid "Good day, men. We thought you could use some help. You are now temporarily under my command."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/secret"
+msgid "What did I tell you guys? This dinner was indeed worth the hunt! Just like the good old days!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/see_jagdpanther"
+msgid "What a surprise. I didn't expect to see them so soon on the Ostfront. If we capture and repair this vehicle, it will give us a huge advantage."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/rus/intro_01"
+msgid "Hey you, leave your cars and come over here with your hands up!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/docs_found"
+msgid "Look! There are some papers here..."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/enemy_reinf_north"
+msgid "Watch out, they have reinforcements coming from the north!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/enemy_reinf_west"
+msgid "Watch out, they have reinforcements approaching from the west!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_01"
+msgid "I can't argue with that... It reminds me of my village."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_02"
+msgid "What is this?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_03"
+msgid "What the hell is going on there?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_04"
+msgid "Damn them! And I thought that the front line was twenty kilometers from here!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/jagdpanther"
+msgid "Hauptmann Hellmann, look! The Russians have something that is rightfully ours."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/officer_dead"
+msgid "Hauptmann Hellmann was killed! We need to get out of here now!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/outro_completed"
+msgid "Congratulations, you did it! You showed great improvisation skills here. Your actions today will surely get you promoted. Well done!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/outro_failed"
+msgid "That was not what we planned for. You’ll have to regroup, go in again, and try different tactics; giving up is not an option for our captured friends."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/place"
+msgid "Elements of the 4th Panzer Army"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/01_pow"
+msgid "Free the German POWs"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/02_docs"
+msgid "Recover and analyze the Soviet HQ documents"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/03_officer"
+msgid "Dietrich Hellmann must survive. He's the only one who can read the Soviet documents."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/04_ambush"
+msgid "Prepare an ambush"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/05_evac"
+msgid "Reach the evacuation point"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt01_repair"
+msgid "Recapture the Jagdpanther and repair it"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_allround"
+msgid "<c(B29557)>All-Round doctrine:</c> Eliminate the enemy sniper"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_defensive"
+msgid "<c(B29557)>Defensive doctrine:</c> Eliminate the Soviet light armor unit in the village"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_irregular"
+msgid "<c(B29557)>Irregular doctrine:</c> Eliminate 2 enemy units with a knife"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_offensive"
+msgid "<c(B29557)>Offensive doctrine:</c> Eliminate 5 enemy units with a flamethrower"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/secret01_lunch"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/tasks/secret01_lunch_completed"
+msgid "Secret objective #1: Bring a piece of chicken to the field kitchen"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/doctrine_unit_allround"
+msgid "<c(B29557)>All-Round:</c> Sniper"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/doctrine_unit_defensive"
+msgid "<c(B29557)>Defensive:</c> AT Rifleman"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/doctrine_unit_irregular"
+msgid "<c(B29557)>Irregular:</c> Scouts"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/doctrine_unit_offensive"
+msgid "<c(B29557)>Offensive:</c> Flamethrower"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/progress_irregular"
+msgid "<c(B29557)>Irregular doctrine objective:</c> %1% of 2 enemies eliminated with a knife"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/progress_offensive"
+msgid "<c(B29557)>Offensive doctrine objective:</c> %1% of 5 enemies eliminated with a flamethrower"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/skip_preparation"
+msgid "Skip preparation"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1944_03_trap/ui/timer"
+msgid "Soviet forces arrival"
+msgstr ""

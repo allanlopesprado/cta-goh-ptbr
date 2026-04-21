@@ -1,0 +1,325 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_usa)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/hintbonus"
+msgid "Air bombing of the selected area"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/menu:1_1"
+msgid "Infantry"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/menu:2_1"
+msgid "Support"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/menu:3_1"
+msgid "Vehicles"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/menu:4_1"
+msgid "Tanks"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/menu:back"
+msgid "Return to menu"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/airstrike"
+msgid "Air strike"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/crew"
+msgid "Tank crew"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/artymen"
+msgid "Artillerymen"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/sniper"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/officer"
+msgid "Officer"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/flamer"
+msgid "Flamer"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/signaller"
+msgid "Battery signaller"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/atsq"
+msgid "AT squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/inf"
+msgid "Rifle squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/glider_sq"
+msgid "Glider squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/recon_sq"
+msgid "Recon squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/rifle_heavy_sq"
+msgid "Heavy rifle squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/engineer_sq"
+msgid "Engineer squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/airborne_sq"
+msgid "Airborne squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/veteran_sq"
+msgid "Veteran squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/1stspecial_sq"
+msgid "1st Special squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/ranger_sq"
+msgid "Ranger squad"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m3a1_arm_inf"
+msgid "Rifle squad(M3A1)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/crate"
+msgid "Supply Crate"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/cckw_art_ammo"
+msgid "Supply Truck"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/cckw_fuel"
+msgid "Fuel Truck"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/cckw_fuel"
+msgid "Fuel Truck"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/cckw_engineer"
+msgid "Engineering Truck"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m2_30cal_tripod"
+msgid "Browning M1919A4"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m2_50cal_tripod"
+msgid "Browning M2HB"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m8_greyhound"
+msgid "M8 Greyhound"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m21_mortar_carrier"
+msgid "Mortar Carrier M21"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m15a1_cgmc"
+msgid "CGMC M15A1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m20"
+msgid "M20"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m2_halftrack"
+msgid "M2 Halftrack"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/50cal_quad_m45"
+msgid "M55 Quadmount"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m5a1_stuart"
+msgid "M5A1 Stuart"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m24_chaffee"
+msgid "M24 Chaffee"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/81mm_m1"
+msgid "81mm Mortar M1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/60mm_m2"
+msgid "60mm Mortar M2"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/37mm_m3a1"
+msgid "37mm Gun M3A1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m21_mortar_carrier"
+msgid "Mortar Carrier M21"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/57mm_m1"
+msgid "57mm Gun M1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/105mm_m2a1"
+msgid "105mm M2A1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/90mm_m1a1"
+msgid "90mm Gun M1A1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m16_mgmc"
+msgid "MGMC M16"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/40mm_m1"
+msgid "40mm Automatic M1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/76mm_m5_m1"
+msgid "M5 Gun M1 Carriage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/76mm_m5_m6"
+msgid "M5 Gun M6 Carriage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/75mm_m1a1"
+msgid "75mm M1A1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/107mm_m2"
+msgid "4.2-inch Mortar M2"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m10_gmc"
+msgid "M10 Wolverine"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m8_hmc"
+msgid "75mm HMC M8"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m18_hellcat"
+msgid "M18 'Hellcat'"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a1_75_late"
+msgid "M4A1 (Late)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_75_late"
+msgid "M4A3 (Late)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_75w_e4_5"
+msgid "M4A3(75)W 'E4-5'"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3e2_75"
+msgid "M4A3E2(75)W Jumbo"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3e2_76"
+msgid "M4A3E2(76)W Jumbo"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_75w"
+msgid "M4A3(75)W"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_105"
+msgid "M4A3(105)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_105_hvss"
+msgid "M4A3(105) HVSS"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m26_pershing"
+msgid "M26 Pershing"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m36b1_gmc_t33"
+msgid "M36B1 'Slugger'"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_calliope"
+msgid "M4A3 'Calliope'"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_76w_hvss"
+msgid "M4A3(76)W HVSS"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m7b1_hmc"
+msgid "M7B1 Priest"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a1_76w"
+msgid "M4A1(76)W"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m4a3_76w"
+msgid "M4A3(76)W"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/105mm_m3"
+msgid "105mm Howitzer M3"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/155mm_m1a1_longtom"
+msgid "155mm 'Long Tom'"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/114mm_m1"
+msgid "4.5in M1 Howitzer"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/155mm_m1"
+msgid "155mm Howitzer M1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/203mm_m1"
+msgid "8in Howitzer M1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/menu_usa/m12_gmc"
+msgid "155mm GMC M12"
+msgstr ""

@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (announcements)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "button/supporterpack"
+msgid "BUY THE SUPPORTER PACK!"
+msgstr ""
+
+msgctxt "announce_contentupdate6"
+msgid "We have just released Content Update 6, one of our biggest updates thus far!\n\nIt covers <c(f5d167)>CONQUEST</c> improvements, <c(f5d167)>ANTI-AIRCRAFT</c> fixes, <c(f5d167)>OPTIMIZATION</c>, new <c(f5d167)>ANIMATIONS</c>, and a MASSIVE addition of content to the <c(f5d167)>TALVISOTA DLC</c>.\n\nWe're grateful that you enable us to keep updating the game and working with the community to make these improvements come true.\n\n We'd like to thank our volunteer helpers and the supporter pack owners for going the extra mile to make this happen. If you'd like to see continued updates to our older releases, please consider joining the fight by acquring the <c(f5d167)>SUPPORTER PACK</c>."
+msgstr ""

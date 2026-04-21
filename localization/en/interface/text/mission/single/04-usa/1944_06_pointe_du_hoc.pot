@@ -1,0 +1,335 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_pointe_du_hoc)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#, boost-format
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/arty_progress"
+msgid "%1% out of 6 howitzer guns destroyed."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/date"
+msgid "June 6th, 1944 · Pointe du Hoc, Normandy"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/defend"
+msgid "German counterattack will arrive in:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/maybe_hq_hold"
+msgid "Fall back to the HQ to strenghten the perimeter"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/maybe_supplies"
+msgid "Retrieve as many supply crates as you can"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_101"
+msgid "Rescue two 101st airborne men stranded on west beach"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_artillery"
+msgid "Find the guns and neutralize them"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_battery"
+msgid "Clear out German defenders and capture the battery"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_beach"
+msgid "Climb the cliffs"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_defense"
+msgid "Hold your ground until the relief forces arrive from Omaha Beach"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/mission_prep_defense"
+msgid "Prepare a defensive perimeter for the night"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/name"
+msgid "Day of Days"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/name_big"
+msgid "Day of Days"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/00"
+msgid "Welcome to France Lieutenant! The success of Operation Overlord depends on you!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/01"
+msgid "Let's go, Rangers! Secure a foothold on the beach!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/02"
+msgid "There are ladders all over the cliffs, use them to get to the top and assault those fortifications!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/03"
+msgid "You may also give the signal to USS Satterlee to bombard the Germans with naval battery fire."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/04"
+msgid "Shit! There's a Kraut 20mm still standing up there! Do something about it before it chews us up!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/05"
+msgid "You've now got a couple of light mortars to help you deal with the entrenched Germans."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/06"
+msgid "What the hell is this? Looks like Jerry's placed some dummy guns in these bunkers. They must've taken the real guns somewhere else!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/07"
+msgid "Lieutenant, those guns can't have gotten far or intelligence would have picked it up. Lead a patrol over to the manor and find those guns!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/08"
+msgid "We should expect the Germans to counterattack anytime. We need to set up a roadblock to keep them at bay."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/09"
+msgid "The first enemy attack has been successfully repelled. But we should be ready to defend this place into the night. Set up defences!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/10"
+msgid "They're bringing in their own mortars and emplacements, watch out!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/11"
+msgid "Alright, here comes the Cavalry!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/12"
+msgid "Rangers lead the way! The Liberation of Europe starts here! I'm proud of you, men!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/naval"
+msgid "Colonel - You can now call in limited naval gun support from USS Satterlee!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/nogunshere"
+msgid "You must advance at the garrison, search deeper inland. Find the guns and destroy them - good luck  Lieutenant!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/p47"
+msgid "Air support is on its way!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/naval_arty"
+msgid "Naval Artillery"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/naval_arty_hint"
+msgid "Call in naval support from USS Satterlee"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/outro_completed"
+msgid "You have done an amazing job!\n\nWith the relief force from 29th Infantry division and the 743rd tank battalion in place, you can now have someone tend to your wounds and finally take a rest. Your efforts have saved many American lives, surely this will be remembered as one of the pivotal moments of this giant operation. The Liberation of Europe has begun!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/outro_failed"
+msgid "We have failed!\n\nThis is quite a blow to our hopes of preventing casualties on Omaha and Utah beach. Surely, the Germans will start pounding the beaches with 155 mm shells very soon. There is nothing for it but to try again, failure is not an option. we must take out that battery!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/place"
+msgid "2nd Ranger Battalion"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/firstgundestroyed"
+msgid "First gun destroyed!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/gundestroyed"
+msgid "Another one out of service!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/gundestroyed_alt"
+msgid "Scratch another Kraut artillery!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/nogunshere"
+msgid "We have cleared the battery but the guns were wooden dummies."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/situation2"
+msgid "D day, 21:30h"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/situation3"
+msgid "Clear the remaining Germans off the beachhead!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/skip"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/story"
+msgid " “Operation Overlord” has begun! The largest armada of warships ever to have been assembled is crossing the English Channel towards France. Careful planning and reconnaissance has shown that it will be essential to take out specific parts of the “Atlantic wall” just before the beaches are stormed by the allies. One of them is the German battery at Pointe du Hoc. It is up to the 2nd Ranger battalion to scale Pointe du Hoc and silence the battery.\n\n In this mission, you will land on the small beach and fight your way to the top. Once at the top, you must drive the defenders away and find the battery. You will get support from USS Satterlee and the US air force if needed. This is where the liberation of Europe starts.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/timer"
+msgid "Expected German counter-attack:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/timer2"
+msgid "Set up defenses around the manor:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/timer3"
+msgid "Defend the manor!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/00"
+msgid "Looks like Baker Company landed too close to the machine guns on the cliffs. Destroy the MGs so that they can begin their assault!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/01"
+msgid "Good work, men! Machine guns are down. Baker Company will conduct their assault now!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/02"
+msgid "That Flak gun won't be bothering us anymore!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/03"
+msgid "They are falling back! The Cliffs are now in our control!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/04"
+msgid "Baker Company is getting hammered over there! They won't last much longer without some help. We need to knock out those Kraut mortars and AA guns."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/05"
+msgid "B Company is getting chewed up! Support them from the flank!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/06"
+msgid "All guns have been destroyed! Excellent work, men!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/07"
+msgid "Well done. This Kraut gun will definitely come in handy."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/08"
+msgid "We're expecting a Jerry counter-attack any moment now. Dig in and use whatever you can to hold the line."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/09"
+msgid "Move your asses, get off the beach! Go!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/10"
+msgid "You're easy targets for those Kraut MGs! Get away from the cliff! Move, move!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/11"
+msgid "Take down these mortars before they slaughter us!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/12"
+msgid "We can't hold them here any longer. Everyone, fall back to the trench lines! Grab what you can and fall back!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/13"
+msgid "Damn, they got too many vehicles, we can't hold them on the open ground! Fall back to the rear trenches!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/14"
+msgid "Jerry is pushing our line! Hold your ground!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/15"
+msgid "Hey hot-shot, leave some glory for the rest of us."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/16"
+msgid "We don't know what the enemy will throw at us, be prepared for anything. Set up defensive positions overlooking any choke points."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/17"
+msgid "More Kraut tanks! We don't have very many rockets for the Bazookas, so make every shot count!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/18"
+msgid "Kraut mortars! Get to cover, incoming!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/19"
+msgid "Looks like Jerry has brought up mobile Flak guns! Everyone, get to cover!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/20"
+msgid "Hold tight, men! We can't let 'em get this ground! The reinforcements are on the way!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/21"
+msgid "That's it, there's nowhere else to go, we'll make our last stand here!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/22"
+msgid "Well look who decided to show up. Cavalry's finally here. Well done boys, I'm proud of each and every one of you. Rangers lead the way!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/23"
+msgid "Dog Company will begin their assault once you're ready. Just give the word."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/24"
+msgid "Lieutenant, over there! Looks like there are some paratroopers pinned down. They're a ways away from their drop-zones, we need to help those boys out!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/gameover_defense_failed"
+msgid "The enemy has captured your defensive positions."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/gameover_units_dead"
+msgid "You lost all your units."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/mission_fallback_beach"
+msgid "Fallback to the positions on the beach"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/mission_fallback_last_stand"
+msgid "Fallback to the farthern trench line"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/mission_mguns"
+msgid "Eliminate the machine gunners on the cliff"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/objective_progress_02_mguns"
+msgid "Remaining machine gunners on the cliff: %1%"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/opt01_101st"
+msgid "Rescue two stranded 101st Airborne men"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/reinf_ally_assault"
+msgid "Order allied units to attack"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/secret01_secret01_completed"
+msgid "Secret objective - Repair the broken anti-air gun"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/secret01_secret01_shown"
+msgid "Secret objective #1"
+msgstr ""

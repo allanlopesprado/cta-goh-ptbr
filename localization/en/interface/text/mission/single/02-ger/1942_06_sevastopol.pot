@@ -1,0 +1,161 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_06_sevastopol)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/date"
+msgid "June 17th, 1942 · Sevastopol, Crimea"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/doctrine_all_round"
+msgid "All-Round, 213th Infantry Regiment"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/doctrine_challenge"
+msgid "Challenge! Sturmpioniere or death!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/doctrine_offensive"
+msgid "Offensive, 173rd Engineer Battalion"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/lose"
+msgid "You lost all your troops!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/name"
+msgid "The Siege of Sevastopol <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/name_big"
+msgid "The Siege of Sevastopol"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/01"
+msgid "Soldaten! Listen up!! We have succeeded in crossing the Belbek river and establishing a small bridgehead. But the hardest part is still to come..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/02"
+msgid "We need to break into the main valley positions and clear a way through the minefield for our main force of attack. Only then can we attack haccius ridge, which is our main objective today. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/03"
+msgid "We need to start by advancing eastward and clearing several strongpoints. Los geht's!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/04"
+msgid "We now control the Belbek valley and can start our attack on coastal battery 30."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/05"
+msgid "We are all set for the attack. We can start off with a frontal attack to take the main battery, or we can try to attack one or more flanks to begin with. It is your choice, Herr Leutnant."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/06"
+msgid "Look out for secondary minefields and AT positions. They may prove dangerous for our advance, be on the loukout for any soviet counter attack as well, the enemy is not going to give up the ridge without a fight..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/07"
+msgid "I am placing under your command our Thor siege mortar. Show those soviets what it means to be under the yoke of the Wehrmacht's heaviest artillery! It will require a whole detachment of resupply vehicles to keep it in operation!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/08"
+msgid "With the additional reinforcements, I expect you to break through the soviet defences and reach the battery. High command will expect no further delays. Annihilate the enemy!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/09"
+msgid "The enemy has also deployed marines from the Black Sea Fleet to reinforce their lines. Beware! These are tough nuts to crack, you will need to throw everything you have at them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/10"
+msgid "Well done, Soldaten! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/11"
+msgid "Good work, keep pushing!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/12"
+msgid "Excellent! Keep up the progress, there is much left to do!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/13"
+msgid "The enemy battery has at last ceased to be. An accomplishment that will live long in our future generation's history books, Soldaten!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/14"
+msgid "Excellent work! The control of this route is of upmost importance, this will stop soviets from being able to get in or out of the battery complex."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/15"
+msgid "Good work, the eastern high ground is ours!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/16"
+msgid "The minefields have been cleared! Our forces can now safely cross through the northern approaches."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/17"
+msgid "You are now tasked with clearing the minefields on the north. This will allow our reinforcements to come through."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/outro_completed"
+msgid "Excellent work! The fort has been taken and the entire battery neutralized. The 11th army has its breach in the line and will march on Sevastopol immediately. We will file a favorable report to HQ about your victory at Fort Maksim Gorki! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/outro_failed"
+msgid "This is definitely not the kind of outcome we can report to HQ. Our troops were unable to break through, and the attack has come to a complete standstill as a result. You will have to try again after re- grouping, and perhaps using different tactics will help. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/place"
+msgid "213th Infantry Regiment, 173rd Engineer Battalion"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/story"
+msgid "The German 11th army is trying to take the last parts of the Crimea that are in Soviet hands. They have taken the Kerch peninsula and now they approach Sevastopol from all sides. The Germans meet stiff resistance from the Black Sea fleet and the 'Separate Coastal Army' under Ivan Yefimovich Petrov. The defenders have dug in everywhere, and they are backed by coastal batteries. Progress is slow, and heavy artillery is brought to the front in an attempt to destroy the defenses and punch through to the city proper.\n\nIn this mission, you will lead the attack on battery number 30, or 'Fort Maksim Gorki 1' as the Germans call it. You will have our heaviest siege mortar at your disposal, use it to silence the defenses. The battery's main guns are already out of action. Use your infantry to protect the left flank. Once you have taken out the first line of defense, storm the hilltop and take the fort. We can't allow any more delays in the offensive. It's up to you to make this work.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task1"
+msgid "Clear all of the strongpoints at the first line of defences."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task1_1"
+msgid "Clear Strongpoint \"Ostrov\"."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task1_2"
+msgid "Clear Strongpoint \"Chicken Farm\"."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task1_3"
+msgid "Clear Strongpoint \"Tomato Plant\"."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task2"
+msgid "Clear a way through the minefield."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task3"
+msgid "Clear Coastal Battery 30’s Main Battery block."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task4"
+msgid "Clear the Sophia Perovskoy State farm access road."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_06_sevastopol/task5"
+msgid "Clear the Bastion access road."
+msgstr ""

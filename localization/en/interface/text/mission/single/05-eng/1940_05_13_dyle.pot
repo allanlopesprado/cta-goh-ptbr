@@ -1,0 +1,705 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1940_05_13_dyle)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/name"
+msgid "Tears and Sweat"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/name_big"
+msgid "Tears and Sweat"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/date"
+msgid "May 13th, 1940 · Town of Korbeek-Dijle, Belgium"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/place"
+msgid "1st Infantry Division, North Staffordshire Regiment"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/story"
+msgid "The phony war has erupted into Blitzkrieg! The Germans invade the Netherlands and Belgium on May 10th. What the Germans call “Fall Gelb” is underway.\n\nYou have been ordered north with your unit to reinforce the Dyle line.\n\nYour part of the line is at a bridge, not far from Louvain. The Germans will definitely want to use this bridge to get to Brussels, so this is a key position in the Dyle line."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/outro_completed"
+msgid "We have shown them what to expect from the British Expeditionary force. We might be retreating from the battle today, but we bought ourselves and our allies some more time."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/outro_failed"
+msgid "That is rather unfortunate, we should have held the line here. Because we haven’t stopped this brutal attack, Jerry can now continue his drive into Belgium and toward France, unfortunately."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_01"
+msgid "The 6-inch howitzer has arrived. We got only one chance, don’t screw this up!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_02"
+msgid "Jerry has spotted our gun! They will open fire in no time, change the position of the bloody howitzer, quickly!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_03"
+msgid "Nice shot, one gun down. Two left!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_04"
+msgid "Brillant, two guns down. One left!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_05"
+msgid "The enemy artillery is now silent, great job!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_06"
+msgid "Bloody hell, we just lost our howitzer! I don’t know how but you have to find an alternative way to deal with the German artillery."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_01"
+msgid "The anti-air Vickers has arrived. We got only one chance, don’t screw this up!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_02"
+msgid "The pilot has spotted our anti-air vehicle! Change its position, quickly!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_03"
+msgid "Nice shot, this plane is down."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_04"
+msgid "Watch out, there comes another one! It’s engaging your anti-air vehicle!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_05"
+msgid "Brilliant shot but there is a third plane approaching your location, deal with it!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_06"
+msgid "I think it was the last of ‘em. Good job."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_defensive_07"
+msgid "Blimey, we just lost our anti-air vehicle! I don’t know how but you have to find an alternative way to deal with the Luftwaffe."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_01"
+msgid "The artillery observer has arrived. Don’t let Jerry spot him. We got only one chance, make this a good one!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_02"
+msgid "Watch out, the observer has been spotted!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_03"
+msgid "Great, this anti-air gun will not bother us anymore!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_04"
+msgid "Brilliant, the AT gun is destroyed."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_05"
+msgid "Excellent, the guns have been destroyed."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_06"
+msgid "Dammit, the observer has been killed! Find another way to destroy the emplacements!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_offensive_01"
+msgid "Matilda has arrived. We got only one chance, don’t screw this up!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_offensive_02"
+msgid "The Panzers have spotted our tank, you have to deal with ‘em, quickly!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_offensive_03"
+msgid "Brilliant, one Panzer down, destroy the second one!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_offensive_04"
+msgid "Great job, both tanks have been destroyed!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_offensive_05"
+msgid "Blimey, we lost our tank! I hope you still have some 2-pounders at your disposal."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/heavy_wounded_died"
+msgid "He’s gone. Could’ve saved him… That medic’s yours now. Do better next time."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/heavy_wounded_rescued"
+msgid "Alright, he’ll make it. Bet this lad won’t forget your help for the rest of his life."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/heavy_wounded_start"
+msgid "Williams, I need one more hand on this one, quick!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_01"
+msgid "…Honestly, I’m sick of marching and digging trenches. And this heat… I swear, mate, it’s even worse than Kenya, back when I was on assignment. At least I had better company there. A lovely Mathilda…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_02"
+msgid "Look at that, they even named that clanking monster in her honour. I’ve never told you about that trip, have I?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_03"
+msgid "For Christ’s sake, Williams. Can you shut it for once? We’re all bloody sick of your stories."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_04"
+msgid "Take it easy, Stu. I’m just trying to lift your spirits. You’re looking far too knackered for our little continental adventure. What’s wrong, ja? Scared of the Jerries?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_05"
+msgid "Well spotted, genius. You are not even slightly bothered that the bloody Luftwaffe doesn’t let us sleep more than an hour a night? We’re all knackered, alright?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_06"
+msgid "Shh, keep it down. The Captain seems really stressed today."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_07"
+msgid "We’re alright for now. They’ve decided to send another company forward. We’re not going with this column. We need to double-check for potential gaps in our lines. Given the news, we might not be here much longer… But let’s prepare for the worst."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_10"
+msgid "And for God’s sake, get that bloody 2-pounder out of the middle of the path already."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_08"
+msgid "We’re not? I thought the frontline was going to stay static again. Just like last month. And the month before that. And half a bloody year ago... You know, Sir."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_09"
+msgid "I reckon our luck has left us for now. It’s... it’s a bloody mess out there. But we’ll be fine. We will. Just… Just do your thing, gentlemen."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/medic_died_01"
+msgid "Hawkins! Christ, we lost one of our medics!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/medic_died_02"
+msgid "Williams! What the hell are you doing?! That medic is a goner!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/medic_died_03"
+msgid "Bloody hell, Crosby is down! We need to fall back, now!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_01"
+msgid "Shit… They’re just gone… One strike and that’s it…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_02"
+msgid "I need you to focus, men. There must be someone who has managed to find cover. I know that sending a small group like yours is risky but the Luftwaffe leaves me no choice."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_03"
+msgid "Lieutenant Williams, your objective is to secure the area in case Jerry decides to scavenge the wrecks. No way those planes knew the convoy’s location without someone guiding ‘em from the ground. There should be some scout rats, for sure."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04"
+msgid "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_05"
+msgid "Gosh… No one warned about the smell… Look at ‘em… They’re all… Burnt… I feel so sick."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_06"
+msgid "It’ll be fine, alright? Pull yourself together. Keep an eye out for cover in case Jerry returns."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_07"
+msgid "Fuck! I just… I just touched his fucking skin and…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_08"
+msgid "Hey, take it easy mate. Think of something good. You'll be so bloody telling me about that Matilda girl of yours when we get out of here."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_09"
+msgid "We’ve got company from the north!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_10"
+msgid "Jerry coming from the southeast!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_11"
+msgid "Williams, we heard gunfire. What’s going on? Over."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_12"
+msgid "Light German infantry approaching from multiple directions. We’ve found wounded, Crosby and his team are treating ‘em. Over."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_13"
+msgid "Copy that, sending help to you. Out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_14"
+msgid "Enemy vehicle coming from the north, take it down!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_15"
+msgid "Enemy aircraft! Everyone, get the hell down!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_16"
+msgid "Man… That was a recon plane… Means the whole bloody German army knows we’re here. Crosby, get it done! Quickly!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_17"
+msgid "We’re good to go. Williams, call it in!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_18"
+msgid "Captain, this is Williams. We’re ready for an evacuation. The skies are clear at the moment, over."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_19"
+msgid "Understood, Lieutenant. Lorry’s on the way, it’s three minutes away. Good work, lads. Out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_21"
+msgid "Lorry is ready! Crosby, get the wounded into it, now!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_22"
+msgid "Everyone in, let’s get the hell out of here!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_23"
+msgid "We’ll follow behind. Get ‘em to safety. See you on the other side."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_progress_02"
+msgid "Just need a bit more time. Keep us covered."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_ammo_out"
+msgid "I’m out of ammo! Think I’ve seen an ammunition crate on the road, let’s have a peek."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_01"
+msgid "Lads, listen up! The Huns are even closer to the Dyle River than we thought. We still have some time to prepare the defense. Use it to reinforce our positions."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_02"
+msgid "Here they are, pushing our central positions! Hold your ground!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_03"
+msgid "We weren’t trained for this kind of defence! Why are they hammering one spot instead of pushing along the whole frontline?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_04"
+msgid "Probably their famous tactics they are using right now. One hard push in a vulnerable direction. Watch your less-protected areas!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_05"
+msgid "I’ve managed to get through to HQ. They’re willing to send reinforcements, but only to cover our losses. Resources are very tight, so don’t expect anything extra."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_06"
+msgid "Sir, did they tell you the latest information on the frontline? What’s happening?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_07"
+msgid "From what I can tell… We’re exceeding the expectations so far. Keep it that way."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part02_08"
+msgid "We slowed ‘em down, lads! Now destroy the remaining enemy vehicles!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_01"
+msgid "Jerry has taken control of our northern flank! I am sending our last reserves to re-capture these positions before our whole entire defense falls. Lieutenant Williams, I need you to provide support for their counter-attack."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_allround"
+msgid "The enemy has brought in their heavy guns! My forces will not be able to counter attack while the howitzers are still operational. We have to deal with ‘em first."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_defensive"
+msgid "There is a Jerry plane hanging about! It makes no sense to attack while Jerry has close air support. My forces have no anti-air equipment, so you guys have to deal with it on your own."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_irregular"
+msgid "The enemy has brought in their emplacements! The AT and AA guns must be destroyed first. My forces will not be able to counter attack while the guns are still operational. We have to deal with those first."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_offensive"
+msgid "The enemy has brought in their tanks! These tanks must be destroyed first. My forces have no anti-tank weapons, so you guys have to deal with ‘em on your own."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03"
+msgid "My lads are ready to advance to the German positions. Give me a signal once you’re ready."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_allround"
+msgid "We still have a royal ace up our sleeve, though. I am granting you access to a 6-inch howitzer for counter artillery combat. We only have one, so please be careful with this old lady. The Jerries will most likely open fire in response after a single shot, that’s why you have to put the Morris carrier to good use. Change your position after every shot."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_defensive"
+msgid "We still have a royal ace up our sleeve, though. I am granting you access to an ack-ack tank to take this bloody plane down. We only have one, so please be careful with this lad. The pilot will most likely try to take this vehicle down once he spots it, so be careful and change your position as often as you can."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_irregular"
+msgid "We still have a royal ace up our sleeve, though. I am granting you access to an artillery observer to provide exact coordinates to our artillery. Make the ground tremble under their feet. We only have one specialist, so make sure Jerry does not spot him."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_offensive"
+msgid "We still have a royal ace up our sleeve, though. I am granting you access to a Matilda II tank which is capable of taking out both Panzers. We only have one, so please be careful with this young lady. However, keep your distance from the Jerries, we don’t know how they might respond."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_04"
+msgid "Alright lads, move, move!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_05"
+msgid "The northern flank is under our control again. Brilliant job, everyone!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_06"
+msgid "Seems like we stopped their advance…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_07"
+msgid "I reckon we did… So, what’s the next step?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/pl_swimming"
+msgid "Blimey, the water’s lovely and warm today. Now if only we could get a couple of girls from the village to join us, that’d be just perfect."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_01"
+msgid "I wasn’t much for saying thank you back then. Just thought none of us would make it out alive anyway."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_02"
+msgid "Don’t mention. And sorry for being a pain in the ass with those stories I’ve told a hundred times. Just trying to keep your spirits up."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_03"
+msgid "Aye, no worries, mate."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_04"
+msgid "So… You mentioned Kenya, if I recall?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_05"
+msgid "Oh yeah. You know what my uncle told me before I went? Said, “It’s like India, only with golf, lions, and less…” You know what they say about it… Bloody romantic, innit?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_06"
+msgid "Oh, right… Here we go again…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_07"
+msgid "He wasn’t joking. The whole family said the same thing: “Don’t come back without a lion’s head, or you’re just a tourist in uniform.” To them, no lion means no courage. And when you're the youngest son with no title and no estate… Well, there aren’t many ways to prove yourself."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_08"
+msgid "So… did you actually get one?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_09"
+msgid "Sort of. They assigned me a “gun bearer”. Local lad about my age. Poor bloke’s job was to carry my kit around. Felt bloody strange… Like some medieval knight with a squire behind me. Except he was doing it to feed three kids."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_10"
+msgid "Didn’t know His Majesty Lord Williams felt so kindly toward us dirty peasants."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_11"
+msgid "He barely did any “gun bearing”, to be fair. Carried my bags to the pub on day one, and that was about it. After that, he was more like a guide. We drank Pombe most of the time. That’s the local stuff. Made from sorghum and bananas. It was good after three pints, though."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_12"
+msgid "Sounds like you really went native."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_13"
+msgid "Too right. It’s much better than listening to my fellow Britons moaning all day “Locals lack discipline,” “I miss proper football,” “Where’s the bloody gin…” All that, while downing G&Ts like water. I was done with it. I just wanted some peace."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_14"
+msgid "That sounds imperial enough. So… did you ever actually go after a lion?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_15"
+msgid "Course I didn’t. I’m not daft enough to leave a good pub for the bloody savannah. Bought a lion’s head off some merchant before I sailed home. Gave the gun bearer a solid tip and called it a day. What’s the point, really? Chasing animals to prove something a bunch of dead men once wrote in a book?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_16"
+msgid "Yeah… I get your point."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_17"
+msgid "So… Where was I? Ah, right. One night at that pub, me and my guide were watching the sunset, sipping Pombe… You should’ve seen those sunsets, Stuey. So bloody beautiful, I almost wrote a poem. For someone I’ll tell you about in a second…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_18"
+msgid "So we’re downing, I don’t know, our fifth drink, and out of nowhere, this girl walks round the corner, right into the light of the sunset…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_19"
+msgid "Lord Williams, sorry to interrupt your Shakespearean memoirs, but weren’t you due at the commanders’ briefing two minutes ago? Where, unless I’m mistaken, everyone’s already waiting?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_20"
+msgid "Oh, bloody hell! Sorry, sir! I’ll tell you about Matilda later."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_21"
+msgid "Aye. You bet."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_01"
+msgid "Christ… Didn’t expect Jerry to have that many tanks. No one told us about it. And even after this whole mess… We’re just leaving. I don’t know, it feels like it was for nothing."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_02"
+msgid "But we stopped them, didn’t we? Maybe some lads from other battalions will be thankful for that."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_03"
+msgid "We’ve been through bloody hell, mate. And that’s just today. Why the hell did Jerry even invade Belgium? They could’ve kept sitting on their asses and… not start this whole thing…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_04"
+msgid "Well, I’ve heard the Russians are helping Jerry with fuel and industrial crap. Maybe that’ll push Winnie to strike a deal with Jerry and we’ll be home sooner than we think."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_05"
+msgid "You heard where we’re heading next?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_06"
+msgid "Some place in… Ehm, I don’t recall it, these French names are unpronounceable. Don’t think it even matters, let’s just make it ‘till the end."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_07"
+msgid "Mike… What if we don’t?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_08"
+msgid "You know… If Kenya taught me one thing, it’s how to enjoy the moment. Even if you’re stuck in a bloody, smelly, godforsaken quagmire. We’re fine for now. So shut up and enjoy the bloody view, Stuey."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/secret_bunker_01"
+msgid "Oi, what’s the deal with these ancient things?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/secret_bunker_02"
+msgid "These bunkers were built in the 30s. I don’t think they’re really useful. Maybe it's worth looking around to find some ancient stuff though."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/secret_bunker_03"
+msgid "You’re really one of a kind, huh? I’m not a doctor but throwing grenades when you’re in a bunker is not the smartest idea."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_left_01"
+msgid "The Germans are attacking our left flank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_left_02"
+msgid "Another attack, left flank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_left_03"
+msgid "More Boche are coming from the left!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_mid_01"
+msgid "Germans are trying to break through our central positions!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_mid_02"
+msgid "More Germans advancing towards our central positions!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_mid_03"
+msgid "Central positions, another German attack!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_right_01"
+msgid "German forces are attacking our right flank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_right_02"
+msgid "Watch out, Germans coming from the right!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/attack_right_03"
+msgid "Another attack on the right flank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/01_evac"
+msgid "Search for survivors and help to evacuate them"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/02_medics"
+msgid "Protect the medical team. At least 1 medic must survive"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/03_defense"
+msgid "Hold your defensive positions on Dyle Line"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/04_recapture"
+msgid "Assist the allied forces to re-capture the northern position"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_allround"
+msgid "<c(B29557)>[All-Round Doctrine]</c> Eliminate enemy howitzers"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_defensive"
+msgid "<c(B29557)>[Defensive Doctrine]</c> Eliminate enemy aircraft"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_irregular"
+msgid "<c(B29557)>[Irregular Doctrine]</c> Eliminate enemy emplacements by calling artillery support"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_offensive"
+msgid "<c(B29557)>[Offensive Doctrine]</c> Eliminate enemy tanks"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/opt01_heavy_wounded"
+msgid "Rescue the heavy wounded soldier. Your medic should come closer to the wounded"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/secret01_all_alive"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/secret01_all_alive_completed"
+msgid "Secret objective: Leaving no Behind - Evacuate all wounded without casualties"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/secret02_bunker"
+msgid "Secret objective #2"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/secret02_bunker_completed"
+msgid "Secret objective: Echoes of Great War - Explore Belgian bunkers and find trophies"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/gameover_medics_dead"
+msgid "You could not protect the medical team."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/gameover_pl_dead"
+msgid "You lost all of your units."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/gameover_defense"
+msgid "German forces have broken through."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/hint_allround_ammo"
+msgid "More artillery shells for 6-inch howitzer can be found in the Moris car."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/hint_ally_assault"
+msgid "To order your allied forces to begin the attack, <c(B29557)>click</c> on the corresponding button at the <c(B29557)>reinforcements tab</c>."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/hint_wounded"
+msgid "<c(B29557)>Click the button</c> at the <c(B29557)>reinforcements</c> tab to help the wounded. Your medic will be temporary under AI control."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/obj_progress_wounded"
+msgid "We can rescue %1 more wounded"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_wounded"
+msgid "Help the wounded"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_wounded_desc"
+msgid "Your medic will be temporary under AI control."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_ally_assault"
+msgid "Begin assault"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_ally_assault_desc"
+msgid "Command your allied units to begin an assault on enemy positions."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_allround"
+msgid "<c(B29557)>[All-Round]</c> BL 6-inch howitzer"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_defensive"
+msgid "<c(B29557)>[Defensive]</c> Light Tank Mk. VIb"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_irregular"
+msgid "<c(B29557)>[Irregular]</c> Signaller"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_offensive"
+msgid "<c(B29557)>[Offensive]</c> Matilda II"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_gren"
+msgid "Rifle grenadier"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_skip_preparation"
+msgid "Skip preparation"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/timer_preparation"
+msgid "Prepare your defensive lines"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/timer_truck"
+msgid "Evacuation truck arrival"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/mission_option_select1"
+msgid "Select your Doctrine for the mission.\nIt affects available units list and objectives."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_allround"
+msgid "All-Round: BL 6-inch howitzer"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_defensive"
+msgid "Defensive: Light Tank Mk. VIb"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_irregular"
+msgid "Irregular: Signaller"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_offensive"
+msgid "Offensive: Matilda II"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/empty"
+msgid " "
+msgstr ""

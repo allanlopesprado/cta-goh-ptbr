@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_04_la-fiere_bridge)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies01"
+msgid "Bazooka team, awaiting orders!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies02"
+msgid "Sniper team, ready for action!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/date"
+msgid "June 6th, 1944 · La Fière, Normandy, France."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/name"
+msgid "Stand at La Fière"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/name_big"
+msgid "Stand at La Fière"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator01"
+msgid "The Germans have flooded the fields around the Merderet river because they anticipated the invasion..."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator02"
+msgid "We need to secure the bridge to prevent German reserves from counterattacking Sainte-Mere-Eglise or reinforcing the Utah Beach defenses!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator03"
+msgid "There is a small garrison in a nearby manor. We need to capture the manor to secure and hold the bridge."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator04"
+msgid "There's no time to waste! Let's push the Germans out of there!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator05"
+msgid "We cleared out the Krauts! Search for additional equipment and prepare for the inevitable counterattack. This bridge is as important to them as it is to us."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator06"
+msgid "Jerry left some explosives in this crate. Let's mine the approach to the bridge with anti-tank mines."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator07"
+msgid "Jerry has the frontal approaches covered. Let's push farther south along the path and hit them from the flank!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator08"
+msgid "We now have a 57mm AT-Gun. Let's position it with a good view of the road."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator09"
+msgid "A medic team is at your disposal!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator10"
+msgid "Search the boxes and vehicles around the manor. Gather as much ammo and weapons as you can find!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator11"
+msgid "Here they come!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator12"
+msgid "Enemy artillery incoming! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator13"
+msgid "They've got us zeroed! Spread it out!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator14"
+msgid "They're retreating!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator15"
+msgid "There's something wrong with the AT-gun's breech. Don't fire it too much, or it'll break!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier01"
+msgid "Shit! The AT gun's breech broke! Someone grab a repair kit!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier02"
+msgid "The AT-gun patched up! We're back in business!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator18"
+msgid "We need to defend both the manor and the bridge! Hold the line!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret"
+msgid "He's not going anywhere!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2"
+msgid "Look what we found, Jerry’s radio! Time to call for some backup!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2a"
+msgid "About time you showed up! We’re in the thick of it!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret_spot"
+msgid "Hey! A bike messenger is making a break for it! Stop him before he can alert another German garrison!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/outro_completed"
+msgid "Excellent work! We have successfully secured one of the most important bridges in the area. This position will allow us to build a strong defensive line against any possible German counterattack from the west."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/outro_failed"
+msgid "We've lost control of the bridge! With the causeway open, the Germans can advance toward St Mere-Eglise and threaten the invasion. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/secret_objective1_hidden"
+msgid "(Secret objective #1)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/secret_objective2_hidden"
+msgid "(Secret objective #2)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/story"
+msgid "  Daybreak on D-Day. The 82nd Airborne is on the ground in Normandy. Not everything went right; the cloud base over the drop zone and the German Flak was dense. You have spent hours of darkness trying to find your comrades, and after a short headcount, it’s clear that this will be one hell of a day.\n\n  Your group is tasked to take the bridge at La Fière and hold it until the US Army arrives from Utah Beach. \n\n  Your task is vital; once you take the bridge, the enemy can no longer approach St. Mère-Église from the west, or reach the roads to the invasion beaches.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task1"
+msgid "Capture the manor and secure the bridge!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task2"
+msgid "Prepare for a counterattack."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task3"
+msgid "Defend the bridge and the manor!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secondary1"
+msgid "Place at least four anti-tank mines on the road."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secret1"
+msgid "(Secret objective) Stop the enemy soldier on a bike before he alarms a nearby garrison."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task_secret2"
+msgid "(Secret objective) Use the radio to call in reinforcements."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/timer1"
+msgid "Time before the German counterattack:"
+msgstr ""

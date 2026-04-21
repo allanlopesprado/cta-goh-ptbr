@@ -1,0 +1,429 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (editor)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "missioneditor/zone"
+msgid "zone [5]"
+msgstr ""
+
+msgctxt "anchormanager/evaluate"
+msgid "Evaluate"
+msgstr ""
+
+msgctxt "anchormanager/add"
+msgid "Add"
+msgstr ""
+
+msgctxt "missioneditor/waypoint"
+msgid "waypoint [4]"
+msgstr ""
+
+msgctxt "anchormanager/radius"
+msgid "Radius..."
+msgstr ""
+
+msgctxt "anchormanager/anchorradius"
+msgid "Enter anchor's radius"
+msgstr ""
+
+msgctxt "missioneditor/squad"
+msgid "squad [3]"
+msgstr ""
+
+msgctxt "missioneditor/unload"
+msgid " Unload "
+msgstr ""
+
+msgctxt "anchormanager/gridcellsize"
+msgid "Enter anchor's grid cell size"
+msgstr ""
+
+msgctxt "landmanager/terrain"
+msgid "Terrains"
+msgstr ""
+
+msgctxt "landmanager/blue"
+msgid "B:"
+msgstr ""
+
+msgctxt "anchormanager/seed"
+msgid "Seed..."
+msgstr ""
+
+msgctxt "anchormanager/show"
+msgid "Show"
+msgstr ""
+
+msgctxt "anchormanager/update"
+msgid "Update"
+msgstr ""
+
+msgctxt "finddialog/actor"
+msgid "Actor uid:"
+msgstr ""
+
+msgctxt "landmanager/remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "landmanager/ocean"
+msgid "Ocean"
+msgstr ""
+
+#, boost-format
+msgctxt "missioneditor/save_mission_exist"
+msgid "Mission '%1%' already exist. Overwrite ?"
+msgstr ""
+
+msgctxt "finddialog/entity"
+msgid "Entity id:"
+msgstr ""
+
+#, boost-format
+msgctxt "mapeditor/save_map"
+msgid "Save map '%1%' as:"
+msgstr ""
+
+msgctxt "mapeditor/clip"
+msgid "clip [3]"
+msgstr ""
+
+msgctxt "finddialog/find"
+msgid "Find"
+msgstr ""
+
+msgctxt "mapeditor/land"
+msgid "land [2]"
+msgstr ""
+
+msgctxt "landmanager/fill"
+msgid "Fill"
+msgstr ""
+
+msgctxt "finddialog/title"
+msgid "Find"
+msgstr ""
+
+msgctxt "landmanager/add"
+msgid "Add"
+msgstr ""
+
+msgctxt "finddialog/waypoint"
+msgid "Waypoint uid:"
+msgstr ""
+
+msgctxt "mapeditor/mesh_group"
+msgid "mesh group [5]"
+msgstr ""
+
+msgctxt "mapeditor/choose"
+msgid "Choose the map"
+msgstr ""
+
+msgctxt "landmanager/tesselation"
+msgid "Tesselation"
+msgstr ""
+
+msgctxt "landmanager/create"
+msgid "Create"
+msgstr ""
+
+msgctxt "missioneditor/simulate_on"
+msgid " <s(8)c(00ff00)>START "
+msgstr ""
+
+msgctxt "landmanager/green"
+msgid "G:"
+msgstr ""
+
+msgctxt "mapeditor/mission_lost"
+msgid "Mission data will be lost. Are you sure ?"
+msgstr ""
+
+msgctxt "mapeditor/entity"
+msgid "entity [1]"
+msgstr ""
+
+msgctxt "mapeditor/game"
+msgid "-GAME-"
+msgstr ""
+
+msgctxt "landmanager/red"
+msgid "R:"
+msgstr ""
+
+msgctxt "missioneditor/camera"
+msgid "camera [7]"
+msgstr ""
+
+msgctxt "landmanager/save"
+msgid "Save"
+msgstr ""
+
+msgctxt "landmanager/sharp"
+msgid "Sharp"
+msgstr ""
+
+msgctxt "landmanager/soft"
+msgid "Soft"
+msgstr ""
+
+msgctxt "mapeditor/map"
+msgid "MAP : "
+msgstr ""
+
+msgctxt "landmanager/color"
+msgid "Colors"
+msgstr ""
+
+#, c-format
+msgctxt "zonemanager/zonename_already_used"
+msgid "Zone name '%s' already used"
+msgstr ""
+
+msgctxt "landmanager/height"
+msgid "Heights"
+msgstr ""
+
+msgctxt "mapeditor/saveas"
+msgid "Save As..."
+msgstr ""
+
+msgctxt "landmanager/polygon"
+msgid "Polygons"
+msgstr ""
+
+msgctxt "landmanager/texture"
+msgid "Textures"
+msgstr ""
+
+#, boost-format
+msgctxt "mapeditor/save_map_exist"
+msgid "Map '%1%' already exist. Overwrite ?"
+msgstr ""
+
+msgctxt "landmanager/grass"
+msgid "Grass"
+msgstr ""
+
+msgctxt "mapeditor/edifice"
+msgid "edifice [4]"
+msgstr ""
+
+msgctxt "missioneditor/as"
+msgid "' as:"
+msgstr ""
+
+msgctxt "mapeditor/data_lost"
+msgid "All unsaved data will be lost. Are you sure ?"
+msgstr ""
+
+msgctxt "mapeditor/anchor"
+msgid "anchor"
+msgstr ""
+
+msgctxt "mapeditor/load"
+msgid "Load..."
+msgstr ""
+
+msgctxt "mapeditor/reload"
+msgid "Reload"
+msgstr ""
+
+msgctxt "missioneditor/game"
+msgid "-GAME-"
+msgstr ""
+
+msgctxt "mapeditor/new"
+msgid "New"
+msgstr ""
+
+msgctxt "mapeditor/checkout"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "mapeditor/undocheckout"
+msgid "Undo check Out"
+msgstr ""
+
+msgctxt "mapeditor/save"
+msgid "Save"
+msgstr ""
+
+msgctxt "mapeditor/untitled"
+msgid "<<untitled>"
+msgstr ""
+
+msgctxt "missioneditor/view"
+msgid "view [1]"
+msgstr ""
+
+msgctxt "missioneditor/actor"
+msgid "entity [2]"
+msgstr ""
+
+msgctxt "missioneditor/trigger"
+msgid "trigger [6]"
+msgstr ""
+
+msgctxt "missioneditor/cover"
+msgid "cover [8]"
+msgstr ""
+
+msgctxt "missioneditor/environment"
+msgid "environment [9]"
+msgstr ""
+
+msgctxt "missioneditor/choose"
+msgid "Choose the mission"
+msgstr ""
+
+msgctxt "missioneditor/exit"
+msgid " Exit "
+msgstr ""
+
+msgctxt "missioneditor/load"
+msgid " Load... "
+msgstr ""
+
+msgctxt "missioneditor/mission"
+msgid " MISSION : "
+msgstr ""
+
+msgctxt "missioneditor/no_script"
+msgid "no script"
+msgstr ""
+
+msgctxt "missioneditor/path"
+msgid "path"
+msgstr ""
+
+msgctxt "missioneditor/player"
+msgid "player"
+msgstr ""
+
+msgctxt "missioneditor/reload"
+msgid " Reload "
+msgstr ""
+
+msgctxt "missioneditor/checkout"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "missioneditor/undocheckout"
+msgid "Undo check Out"
+msgstr ""
+
+msgctxt "missioneditor/save"
+msgid " Save "
+msgstr ""
+
+msgctxt "missioneditor/save_mission"
+msgid "Save mission '"
+msgstr ""
+
+msgctxt "inventorybrowser/ammo"
+msgid "ammo"
+msgstr ""
+
+msgctxt "missioneditor/saveas"
+msgid " Save As... "
+msgstr ""
+
+msgctxt "missioneditor/script_name"
+msgid "Script name: "
+msgstr ""
+
+msgctxt "zonemanager/globalwpangle"
+msgid "Angle:"
+msgstr ""
+
+msgctxt "missioneditor/simulate_off"
+msgid " <s(8)c(00ffff)>FINISH "
+msgstr ""
+
+msgctxt "missioneditor/untitled"
+msgid "<<untitled>"
+msgstr ""
+
+msgctxt "missioneditor/confirm_globals_reload"
+msgid "Global options were changed. Reload now to apply changes?"
+msgstr ""
+
+msgctxt "scenecommon/finish"
+msgid "FINISH"
+msgstr ""
+
+msgctxt "scenecommon/simulate"
+msgid "SIMULATE"
+msgstr ""
+
+msgctxt "tagdialog/add"
+msgid "Add"
+msgstr ""
+
+msgctxt "tagdialog/remove"
+msgid "Remove"
+msgstr ""
+
+msgctxt "tagdialog/tags"
+msgid "Tags of selection"
+msgstr ""
+
+msgctxt "zonemanager/add"
+msgid "Add"
+msgstr ""
+
+msgctxt "zonemanager/current"
+msgid "Current:"
+msgstr ""
+
+msgctxt "zonemanager/delete"
+msgid "Delete"
+msgstr ""
+
+msgctxt "zonemanager/enter_zone"
+msgid "Enter zone name"
+msgstr ""
+
+msgctxt "zonemanager/globalwplocation"
+msgid "Direct:"
+msgstr ""
+
+msgctxt "zonemanager/globalwpname"
+msgid "Name:"
+msgstr ""
+
+msgctxt "zonemanager/newcircle"
+msgid "New Circle"
+msgstr ""
+
+msgctxt "zonemanager/newpoly"
+msgid "New Poly"
+msgstr ""
+
+msgctxt "zonemanager/points"
+msgid "Points:"
+msgstr ""
+
+msgctxt "zonemanager/radius"
+msgid "Radius:"
+msgstr ""
+
+msgctxt "inventorybrowser/all"
+msgid "all stuff"
+msgstr ""
+
+msgctxt "inventorybrowser/weapon"
+msgid "weapon"
+msgstr ""

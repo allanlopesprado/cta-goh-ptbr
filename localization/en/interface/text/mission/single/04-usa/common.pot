@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (0x-skirmish common)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "mission/single/04-usa/player_reinf_arrive"
+msgid "Our reinforcements are here!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/player_reinf_arrive_alt"
+msgid "Reinforcements have arrived!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/allied_obj_capture"
+msgid "Strategic position secured!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/allied_obj_capture_alt"
+msgid "Key point captured!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/allied_obj_lost"
+msgid "We lost a strategic point!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/allied_obj_lost_alt"
+msgid "Strategic location was retaken by enemy soldiers!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/incoming_enemy_arty"
+msgid "Enemy artillery incoming! On the ground!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/repair_abandoned_tank"
+msgid "Repair and recover this abandoned enemy tank!"
+msgstr ""

@@ -1,0 +1,465 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_rus)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/0x-skirmish/menu_rus/hintbonus"
+msgid "Air bombing of the selected area"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/menu:1_1"
+msgid "Infantry"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/menu:2_1"
+msgid "Support"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/menu:3_1"
+msgid "Vehicles"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/menu:4_1"
+msgid "Tanks"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/menu:back"
+msgid "Return to menu"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/airstrike"
+msgid "Air strike"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bm31_12"
+msgid "BM-31-12 Andryusha"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/280mm_br5"
+msgid "280mm mortar(Br-5)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/crew"
+msgid "Tank crew"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/artymen"
+msgid "Artillerymen"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/sniper"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/officer"
+msgid "Commissar"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/signaller"
+msgid "Battery Signaller"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/flamer"
+msgid "Flamer"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/atsq"
+msgid "AT squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/inf"
+msgid "Infantry squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/partisans"
+msgid "Partisans"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/paras"
+msgid "Paratroopers"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/assaultsappers"
+msgid "Assault Sappers"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/gmarines"
+msgid "Guards Marines"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/militia"
+msgid "Militia"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/conscripts"
+msgid "Conscript squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/spetsnaz"
+msgid "Spetsnaz"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/penalsq"
+msgid "Penal Squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/guardsinf"
+msgid "Guards Inf."
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/reconsq"
+msgid "Recon Squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/crate"
+msgid "Ammo crate"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/maxim"
+msgid "Maxim M1910/30"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/sg43_stand"
+msgid "SG-43 Stand MG"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/dshk_stan"
+msgid "DShK M1938 MG"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/dshk_aa"
+msgid "DShK M1938 AA"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/120mm_pm38"
+msgid "120mm PM-38"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/122mm_m30"
+msgid "122mm M-30"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/122mm_a19"
+msgid "122mm A-19"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/152mm_ml20"
+msgid "152mm ML-20 M1937"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/152mm_br2"
+msgid "152mm gun(Br-2)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/203mm_b4"
+msgid "203mm B-4 M1931"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/25mm_72k"
+msgid "25mm 72-K M1940"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/37mm_61k"
+msgid "37mm 61-K M1939"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/45mm_m42"
+msgid "45mm M-42 M1942"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/45mm_m37"
+msgid "45mm M-37 M1937"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/57mm_zis2"
+msgid "57mm ZIS-2 M1941"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_m43"
+msgid "76mm OB-25 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_m1902"
+msgid "76mm M1902"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_m1927"
+msgid "76mm M1927"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_zis3"
+msgid "76mm ZIS-3 M1942"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_zis3_towed"
+msgid "76mm ZIS-3 towed"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_f22"
+msgid "76mm F-22 M1936"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/122mm_m1910"
+msgid "122mm M1910/30"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/76mm_m1933"
+msgid "76mm M1933"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/82mm_bm37"
+msgid "82mm BM-37 M1937"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/85mm_52k"
+msgid "85mm 52-K M1939"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/85mm_52k_towed"
+msgid "85mm 52-K towed"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/ba20"
+msgid "BA-20"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/ba64"
+msgid "BA-64B"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/ba10"
+msgid "BA-10"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/ba6"
+msgid "BA-6"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bm13_studebaker"
+msgid "BM-13 Katyusha"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/zis5guards"
+msgid "ZIS-5/Guards"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/gaz_aaa_72k"
+msgid "GAZ-AAA 72-K"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/zis5eng"
+msgid "ZIS-5(Engineer)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/gaz_fuel"
+msgid "GAZ-AAA(Fuel)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/gaz_aaa_supply"
+msgid "GAZ-AAA(Supply)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t37a"
+msgid "T-37A"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t40"
+msgid "T-40 M1940"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t30"
+msgid "T-30 M1941"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv1_39"
+msgid "KV-1 M1939"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv1_40e"
+msgid "KV-1E"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t26_39"
+msgid "T-26 M1939"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t26_38"
+msgid "T-26 M1938"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t26_33"
+msgid "T-26 M1933"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bt7a"
+msgid "BT-7A"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kht26"
+msgid "KhT-26(flame)"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t60"
+msgid "T-60 M1941"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bt7"
+msgid "BT-7 M1937"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bt2"
+msgid "BT-2"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/bt5"
+msgid "BT-5 M1934"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t28e"
+msgid "T-28E"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t70"
+msgid "T-70 M1942"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/zis30"
+msgid "Zis-30"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t70m"
+msgid "T-70M M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t28"
+msgid "T-28 M1936"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/su76"
+msgid "SU-76"
+msgstr ""	
+
+msgctxt "mission/single/0x-skirmish/menu_rus/su85"
+msgid "SU-85"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3476_40"
+msgid "T-34-76 M1940"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3476_41"
+msgid "T-34-76 M1941"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3476_42"
+msgid "T-34-76 M1942"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3457_43"
+msgid "T-34/57 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3476_43"
+msgid "T-34/76 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3476_43_flame"
+msgid "OT-34 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/t3485_44"
+msgid "T-34/85 M1944"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/isu122s"
+msgid "ISU-122S"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/su122"
+msgid "SU-122"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/isu152"
+msgid "ISU-152"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/su152"
+msgid "SU-152"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv85"
+msgid "KV-85"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv2_40"
+msgid "KV-2 M1940"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv1_40"
+msgid "KV-1 M1940"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv1_41"
+msgid "KV-1 M1941"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/kv1s"
+msgid "KV-1S M1942"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/is1_43"
+msgid "IS-1 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/is2_43"
+msgid "IS-2 M1943"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/is2_44"
+msgid "IS-2 M1944"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/100mm_bs3"
+msgid "100mm BS-3 M1944"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/mmg_carrier_rus"
+msgid "Carrier Medium MG"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/churchill3"
+msgid "Churchill Mk.III"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/valentine9"
+msgid "Valentine Mk.IX"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/smg_squad"
+msgid "SMG squad"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/marines"
+msgid "Marines"
+msgstr ""
+
+msgctxt "mission/single/0x-skirmish/menu_rus/su100"
+msgid "SU-100"
+msgstr ""

@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_11_kiev)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1943_11_kiev/date"
+msgid "November 7th, 1943 · Fastiv, Kyiv oblast"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/name"
+msgid "Street to Street <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/name_big"
+msgid "Street to Street"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/01"
+msgid "Comrades, welcome to Fastiv! The city is crawling with Fascists behind every window, our job is to liberate the city by force!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/02"
+msgid "Show no mercy! Drive the invaders from our city, but be cautious at every corner. The enemy is well prepared for our arrival."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/03"
+msgid "The enemy has barricaded the streets. Some of those rubble piles are too damn high to climb or to blow up. You will have to go around them to get to the city centre!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/04"
+msgid "Reinforcements are at your disposal. Crush the enemy, Comrade. There is no room for defeat."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/05"
+msgid "Tiger tank, coming from the east!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/06"
+msgid "Watch out! There's an anti-tank gun at the end of this street!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/07"
+msgid "Great work, Soldiers!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/08"
+msgid "Enemy heavy tank destroyer spotted on the southeast!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/09"
+msgid "An enemy tank is approaching from the south!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/outro_completed"
+msgid "Congratulations on a job well done! Your veterancy really showed in this battle. It won’t be long until we reach the Polish border, and the liberation of the entire Soviet Union is a matter of time. A favorable report, describing how your actions led to victory, will be sent to HQ. Great job!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/outro_failed"
+msgid "That is rather unexpected to say the least! Did you really just allow these exhausted and starving Germans to mess up your attack? We need more resolve and aggression for the next attempt. You should try a different approach. Go back out there and try again."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/place"
+msgid "3rd Guards Tank Army (1st Ukranian Front)"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_assaultsapper"
+msgid "Assault Sappers"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_bm37"
+msgid "82mm BM-37"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_kv142"
+msgid "KV-1 M1942"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_kv8"
+msgid "KV-8 (flame)"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_su152"
+msgid "SU-152"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_supply"
+msgid "Gaz-AAA Supply"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t34"
+msgid "Shielded T-34"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t50"
+msgid "T-60"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_tankmen"
+msgid "Tankmen"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/reinf_zis3"
+msgid "76mm Zis-3"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/story"
+msgid "After a last push on the east of the Dnieper, the Soviets have now regained all territory east of the river. The Germans have decided to construct a defense line on the west bank. Even before the work is finished, the Soviets are already across the Dnieper at Lyutezh, north of Kiev. From there, the Soviets break out to the south in a wide sweep west of Kiev. Brushing any opposition aside, the third Guards tank army leads the way toward Fastiv, a railway node south of Kiev.\n\nIn this mission, you will need to use the lessons you learned in Stalingrad to win. Most roads to the center seem to have been blocked thoroughly, so you will need to flank the enemy if your troops are to reach the final objective, which is to eliminate the enemy’s core position in this part of the town.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/task1"
+msgid "Drive the enemy out of the city"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1943_11_kiev/task2"
+msgid "Secure the food supplies"
+msgstr ""

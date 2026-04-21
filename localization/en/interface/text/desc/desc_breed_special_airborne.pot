@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Airborne narrators\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/narrator/fra-civilian1"
+msgid "French Farmer"
+msgstr ""
+
+msgctxt "desc/human/narrator/fra-civilian2"
+msgid "French Civilian"
+msgstr ""
+
+msgctxt "desc/human/narrator/ger-civilian"
+msgid "German Civilian"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_officer"
+msgid "82nd Airborne Platoon Commander"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_officer101"
+msgid "101st Airborne Platoon Commander"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_soldier"
+msgid "82nd Paratrooper"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_soldier101"
+msgid "101st Paratrooper"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-desobry"
+msgid "Maj. William R. Desobry"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-winters"
+msgid "Lt. Richard Winters"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-lipton"
+msgid "Sgt. Carwood Lipton"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-mcauliffe"
+msgid "Gen. Anthony McAuliffe"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-spiers"
+msgid "Lt. Ronald Speirs"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_officer_winter"
+msgid "82nd Airborne Platoon Commander"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_officer101_winter"
+msgid "101st Airborne Platoon Commander"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_soldier_winter"
+msgid "82nd Paratrooper"
+msgstr ""
+
+msgctxt "desc/human/narrator/usa-airborne_soldier101_winter"
+msgid "101st Paratrooper"
+msgstr ""

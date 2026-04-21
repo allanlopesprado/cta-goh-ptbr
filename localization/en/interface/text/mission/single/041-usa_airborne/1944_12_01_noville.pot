@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_12_01_noville)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/date"
+msgid "December 20th, 1944 - Noville, Ardennes, \nBelgium."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/name"
+msgid "Surrounded at Noville"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/name_big"
+msgid "Surrounded at Noville"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator01"
+msgid "Alright troopers! It sounds like 10th Armored is still fighting for the village! We need to get in there!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator02"
+msgid "Sniper! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator03"
+msgid "We need to help Major Desobry clear the Germans out of Noville!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry01"
+msgid "You arrived just in time! The Germans broke our line and threatened our HQ."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry02"
+msgid "Now that we've pushed them back, we can rebuild our defenses."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry03"
+msgid "The attack damaged much of our equipment. We need to repair everything we can. We are also low on ammo. Scrounge up any supplies you can find."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator04"
+msgid "You heard what the Major said. Let's get to work! We need to rebuild our defense line before Jerry attacks again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator05"
+msgid "We need to get these tanks and cannons operational quickly!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator06"
+msgid "Take mines from the box and plant them out in front of our lines. It will be easier to take out enemy tanks when they are immobilized!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator07"
+msgid "There are fuel and ammo trucks nearby. We should use them to resupply our equipment."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry06"
+msgid "Enemy artillery! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator08"
+msgid "Get ready! Here they come!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator09"
+msgid "We need to take out those Kraut rocket launchers before they blast us to bits!"
+msgstr ""
+
+#removed
+#msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator10"
+#msgid "Let them burn!"
+#msgstr ""
+
+#removed
+#msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator11"
+#msgid "There's too many of them! We can't hold the town for much longer!"
+#msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator12"
+msgid "Friendly tank destroyers approaching, just in time!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator13"
+msgid "They've flanked us! The Germans are attacking from the southeast!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator14"
+msgid "They are running away! Well done!"
+msgstr ""
+
+#removed
+#msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry04"
+#msgid "Good work! Our firepower has greatly increased thanks to those repaired tanks and guns!"
+#msgid "Good work! "
+#msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry05"
+msgid "The minefields will help slow any incoming German armor!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_completed"
+msgid " Well done! You have bought enough time for the rest of the 101st to set up defenses and prepare for a German attack. You may have made the difference between keeping or losing Bastogne."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_failed"
+msgid "Our comrades in Bastogne will now face the entire German force unprepared. If only you could have bought them some more time! Bastogne will fall, and the Germans will have an open road to the Meuse River. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/story"
+msgid "  Just three days ago, a German surprise offensive smashed through the allied lines in the Ardennes. Initially, they advance rapidly. They aim to take Antwerp. The German 5th army has orders to cross the Meuse River at Dinant and Namur, without which a push to Antwerp is simply out of the question.\n\n  To get to those bridges, they will need to take Bastogne. The 2nd Panzer Division intends to pass through Noville to outflank the Bastogne defenders from the north.\n\n However, in Noville, a small force from the 10th armored division blocks their way. The first battalion of the 506th PIR moves forward to reinforce them.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task01"
+msgid "Clear Noville of the Germans!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task02"
+msgid "Prepare to defend Noville."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task03"
+msgid "Repair the damaged vehicles."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task04"
+msgid "Lay mines in front of the defense line before the attack starts (at least 50 mines)."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task05"
+msgid "Hold Noville at all cost!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task06"
+msgid "Destroy enemy rocket artillery!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/timer"
+msgid "Time left before another enemy attack:"
+msgstr ""

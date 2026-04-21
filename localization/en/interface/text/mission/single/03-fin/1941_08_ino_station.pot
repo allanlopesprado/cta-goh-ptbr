@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_08_ino_station)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/date"
+msgid "31st August, 1941 · Ino, Finland"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/men"
+msgid "You lost all your men!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/name"
+msgid "Stalin's Big Guns"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/name_big"
+msgid "Stalin's Big Guns"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/01"
+msgid "Soldiers, the enemy is retreating, but our air force has informed us that their progress has come to a halt. This is a great opportunity to seize a vital piece of equipment and turn the tide of the war!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/02"
+msgid "Your objective today is to capture a set of soviet long range railway gun! Move northward through the woods until you reach the railway tracks and await further instructions!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/03"
+msgid "Avoid unnecessary engagements with the enemy. We do not have the manpower to spare. Stick to the point!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/04"
+msgid "Right, we have located the railway gun following the railway tracks to the east! It seems they are attempting to sabotage it to avoid capture. One of the railway guns has already been blown up! Quickly, overwhelm the enemy and take control of the last remaining gun!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/05"
+msgid "Good job, the gun is in our hands. Thankfully, it comes in loaded with ammunition. "
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/06"
+msgid "Now we need to securely evacuate the gun, but the enemy presence in the village is threatening the operation. We need you to drive the Soviets off this settlement. Use any means necessary, flatten that village to the ground if you need to!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/07"
+msgid "The enemy seems to be unhappy with the loss of their railway gun. Our observers have picked up an enemy column moving this way to take their asset back. It is imperative you hold your position and prevent the enemy from destroying the gun."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/08"
+msgid "I am dispatching additional reinforcements to bolster your defensive capabilities."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/09"
+msgid "The enemy column has arrived! Wipe them out, all of them!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/10"
+msgid "The enemy is launching an amphibious assault on the southern coastline! Get to the beach and eliminate their landing crafts!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/narrator/officer/secret"
+msgid "Well, well, what have we here? It seems the soviets lost something."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/outro_completed"
+msgid "You’ve done it! We now have two heavy artillery pieces and a trainload of ammo on top of that. This is a big result, promotion can’t be too far away for you now. The railway guns will be towed to our lines tomorrow, and it won’t take long before we’ll be able to use them against the previous owners. Great job!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/outro_failed"
+msgid "This is quite a blow. We have missed the opportunity to seize heavy weaponry, let’s hope the enemy won’t deploy it against us. They might re- deploy the railway guns in support of their own fortified line, 30 kilometres south- east of here. We have to try again for sure, there is no way around that, or the entire strategic plan is compromised!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/place"
+msgid "4th Army Corps"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/story"
+msgid " The Finnish army is advancing towards Leningrad. At Ino station, Soviet troops are stranded because the railroad is blocked by a sabotaged locomotive. Among the stranded units are two railway guns and crew. They are supposed to withdraw from the front, but their movement orders have arrived too late. Then, the Finns arrive, and the station becomes the scene of a bitter struggle.\n\n In this mission, you will be in charge of the attack. Use your tactical skill to break the Soviet defensive perimeter. Make sure you take those railway guns intact, we could use them very well!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/task1"
+msgid "Push inland towards the railway line"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/task2"
+msgid "Drive the enemy off the railway and capture the remaining railway gun."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/task3"
+msgid "Drive the soviets from the village with the help of the railway gun."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/task4"
+msgid "Defend the railway gun from any enemy counter-attacks."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_ino_station/task5"
+msgid "Defeat the enemy amphibious attack."
+msgstr ""

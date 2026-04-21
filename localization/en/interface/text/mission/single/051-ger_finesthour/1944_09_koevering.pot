@@ -1,0 +1,169 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_koevering)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/01"
+msgid "These arrogant Englishmen... They have no idea what they’re in for."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/02"
+msgid "There's no time for that. Our reinforcements are on their way, we just need to cut the highway and delay them as long as we possibly can."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/03"
+msgid "It seems like there's a gap between convoys. I don't see any more incoming vehicles. We should try to take over that manor across the highway, looks like a decent spot to hold. This is our chance."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/04"
+msgid "Richtig. We have secured the manor and cut their lifeline. It won't be long before they come back. Our reinforcements should be here any moment now. Soldaten! Dig in and prepare to hold your ground!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/05"
+msgid "We have been reinforced by some Grenadiere, they have set up a forward post by the highway."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/06"
+msgid "More of our Kampfgruppe has just arrived from the West."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/07"
+msgid "We've got some pretty strong guns with us now."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/08"
+msgid "We've also got a radio vehicle and an artillery observer. If we lose him, we won't have artillery support anymore."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/09"
+msgid "There are British and American units all around us, I'm sure they will want their highway back. Use the remaining time to set up defences. We must hold!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/10"
+msgid "Keep the radio vehicle concealed, if it gets damaged we will lose access to artillery support."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/11"
+msgid "We can’t hold them anymore. They've got too many tanks! We need to fall back and regroup.."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/12"
+msgid "Move all of your troops to the West we’re going out the way we came. There isn't much time left."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/01"
+msgid "Verdammt... That column stretches farther than I can see... Trucks, tanks, everything..."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/02"
+msgid "Should we go back and report? Command should know they've got a lot of tanks."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/03"
+msgid "They've got reinforcements! Vehicles approaching from the East!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/04"
+msgid "It's getting darker... Something's moving in the distance! Panzer!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/05"
+msgid "We are running out of ammo! We cannot hold them for too long! There's too many of them!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/06"
+msgid "Go back! I'll cover you!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier2/01"
+msgid "They don't even expect us. Marching like it's a parade."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier2/02"
+msgid "They don't seem to be paying much attention at all. We should eliminate the patrols before we go in."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier2/03"
+msgid "They are running away!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier2/04"
+msgid "The Grenadiers have already dug their foxholes on the North-East flank. We should focus our defences around the main road."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier2/05"
+msgid "Incoming artillery! It's getting closer!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[reinforcements]/artillery"
+msgid "Artillery fire"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[reinforcements]/skip_button"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[scenario_text]/transition_time"
+msgid "Half an hour later..."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_01"
+msgid "Cut the highway and take control over the manor"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_02"
+msgid "Prepare all-round defensive positions"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_03"
+msgid "Do not let any British trucks reach the Northern end of the highway (at least 3 your soldiers must survive)"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_04"
+msgid "Fall back with all your forces to the West (at least 3 soldiers must survive)"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_secondary_01"
+msgid "Keep the radio vehicle operational"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[timer]/timer01"
+msgid "Estimated time until another British convoy"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/name"
+msgid "Cutting the Highway"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/name_big"
+msgid "Cutting the Highway"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/outro_completed"
+msgid "Even though our initial strike was a success we couldn't hold against a massive amount of enemy armor. We had to retreat from this sector but the battle is not over yet. Now we are able to count our losses, regroup and strike the enemy even harder."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/outro_failed"
+msgid "That’s a disappointment. Our last chance to cut the Allied spearhead has come and gone, and now the allies are likely to reach Arnhem after all. We should organize another attempt to take the road as soon as possible, failure is not an option!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/date"
+msgid "September 26th, 1944 · Koevering, North-Brabant, Netherlands"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/place"
+msgid "Kampfgruppe Jungwirth"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/story"
+msgid "A few days ago, the British paratroopers in Arnhem retreated South across the Rhine River, effectively putting an end to Operation Market Garden. \n\n All that remains of the original plan is the salient around Highway 69 (Hell’s Highway), and the Allies are hanging on to it with everything they have. \n\n Your unit is part of “Kampfgruppe Jungwirth”, which is in position near Koevering, ready to attack Highway 69. \n\n If you succeed, the allies to the North will be trapped! Take the highway, and hold it!"
+msgstr ""

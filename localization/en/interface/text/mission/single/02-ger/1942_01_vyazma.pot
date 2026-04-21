@@ -1,0 +1,277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_01_vyazma)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/date"
+msgid "January 16th, 1942 - Glushkovo"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/lose_troops"
+msgid "You lost all your men!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/mission_option_select1"
+msgid "SELECT YOUR TACTICAL DOCTRINE:"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/name"
+msgid "Back to Square One"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/name_big"
+msgid "Back to Square One"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/hint/skip"
+msgid "If you are ready, you can skip the defensive preparations by clicking on the right button."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/01"
+msgid "God almighty, this place looked much better the first time we came around."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/02"
+msgid "Shut it. Our situation is no laughing matter. We're about to be surrounded by an overwhelming force with little to counter their relentless counterattack. The only thing playing in our favor is the stellar performance of our close air support."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03"
+msgid "The Mayo"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/04"
+msgid "Herr Hauptmann, reporting in as requested!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/01"
+msgid "Good to have you here! Come closer. You once lead the assault on this sector, today I need you to defend it with the help of our air force."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/02"
+msgid "I expect a full Soviet assault on the north and north-west. We are the only thing standing in the way of the Soviets and the encirclement of our armies. There will be no more retreats, am I making myself clear?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/03"
+msgid "I am assigning you a brigade of our most devastating weapon against the Bolshevik armor - the 8.8cm anti-aircraft guns. You should plan your tactics entirely around these guns."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/04"
+msgid "These men are our artillery signalers. Their flares will mark the way for Hoepner's 4th Army artillery. Use them sparingly. The Luftwaffe squadron ZG26 will support your ground forces. Good luck, Herr Leutnant!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/05"
+msgid "Find some cover! The enemy is about to start a fireworks display!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/06"
+msgid "Do not build defenses too much north from the main road! This area is where the Soviets think we have our defensive lines. I'm sure they will bomb the hell out of it. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/07"
+msgid "As I predicted, they thought our defenses were further north... Well, that's one way to clear our line of fire. Brace yourselves, the enemy will soon make their appearance."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/08"
+msgid "You have at your disposal our artillery signalers. Their flares will mark the way for Hoepner's 4th Army artillery. Use them sparingly."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/09"
+msgid "Aside from air support, we are cut off, so expect no reinforcements. Keep some reserves in the rear to plug holes in the defenses."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/10"
+msgid "I'm sure they did not like our warm welcome. Stay put, the enemy will try to flank us!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/11"
+msgid "Excellent work holding the Bolsheviks in check! However, our neighboring unit was caught ill-prepared. Prepare for an attack from the southwest."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/12"
+msgid "The first Soviet elements have arrived from the southwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/13"
+msgid "What the hell is that?! That is no ordinary artillery!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/14"
+msgid "Herr Lieutenant, take whatever troops are at your disposal and eliminate the threat!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/15"
+msgid "Excellent job! No further assaults have been reported coming our way. Deal with the remaining enemy tanks in the vicinity, see whether we can salvage some of those heavy beasts. They must weigh at least 40 tons!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/16"
+msgid "Damn, the weather has worsened significantly. Our aviators will not be able to help us in these conditions!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_1"
+msgid "Callsign \"Waldkauz\" is diving for the requested target."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_2"
+msgid "Air support underway!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf109_3"
+msgid "Callsign \"Waldkauz\" reports a \"Rotte\" is being dispatched to the target."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_1"
+msgid "Requesting callsign \"Wirsing\" to bombard the designated area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_2"
+msgid "\"Wirsing\" is underway to bomb your coordinates."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_3"
+msgid "An element of ZG26 is on its way."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_4"
+msgid "Requesting callsign \"Wirsing\" to strafe the designated area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/airstrike_bf110_5"
+msgid "\"Wirsing\" is underway to strafe your coordinates."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/flak1"
+msgid "Our planes are reporting enemy anti-aircraft artillery in the area. They are reluctant to continue close air support strikes until the AAA is taken out. Find them and destroy them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/n_1"
+msgid "Soviet avalanche from the north!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/n_2"
+msgid "The Bolsheviks are back from the north!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_1"
+msgid "The enemy is pushing us once more from the northwest."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_2"
+msgid "Enemy tanks approaching from the northwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/nw_3"
+msgid "Soviet armor inbound from the northwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_1"
+msgid "Enemy wide armor formation coming from the southwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_2"
+msgid "Enemy tanks approaching from the southwestern road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/sw_3"
+msgid "Southwest! Armor following the road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/01"
+msgid "The Führer had said we'd encircle the Bolsheviks in Moscow by Christmas. I imagine he failed to specify which Christmas that would be."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/02"
+msgid "TAKE COVER!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/03"
+msgid "Shit! Our commander in chief is dead!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/04"
+msgid "The Bolsheviks have entered the premises of the headquarters! They must be driven out immediately, our command is at risk!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/05"
+msgid "Soviets in the vicinity of the HQ! Our commanding officer and our staff are in danger!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/player/06"
+msgid "Damn it! Soviets close to our headquarters! Our staff must be protected!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/outro_completed"
+msgid "The solid stand of the 9th Army along with the heroic contribution of the Luftwaffe caused Konev's forces to fail in their encirclement of Army Group Centre. The counterattack of the Soviets stagnated in February. The new frontline layout led to the Rzhev meat grinder and other battles where, despite terrible losses, the Soviet sacrifice had secured the capital. Hitler then turned south towards the Caucasus and Stalingrad, meaning that Moscow would be securely in Soviet hands and no future attempts to capture it would take place. Operation Typhoon had failed."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/outro_failed"
+msgid "Losing this battle means the main body of Army Group Centre will quickly be surrounded and, their supplies dwindling, a catastrophic loss of men and vehicles seems at hand. Not only that; we have lost control over the Dnieper crossings once again. This is even worse than going back to square one."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/place"
+msgid "9th Army, Army Group Centre."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/preparation"
+msgid "The enemy is approaching. Prepare the defences!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_50"
+msgid "Bf-110 SC-50"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_500"
+msgid "Bf-110 SC-500"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/reinf_110_guns"
+msgid "Bf-110 Strafing"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/story"
+msgid "With Operation Typhoon brought to a standstill, Stavka counterattacks, forcing the Wehrmacht into a defensive stance and pushing them back to positions previously captured in October."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/task1"
+msgid "Protect the headquarters at all costs! Keep the staff safe."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/task2"
+msgid "Take out the heavy artillery and neutralize the Soviet position."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/taskopt1"
+msgid "Take out the AAA for the air support to resume."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/taskopt2"
+msgid "Salvage at least one Soviet heavy KV-class tank."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_01_vyazma/timer"
+msgid "Defend the headquarters:"
+msgstr ""

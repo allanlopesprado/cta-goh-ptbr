@@ -1,0 +1,397 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_05_pegasus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/name"
+msgid "Pegasus Bridge"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/name_big"
+msgid "Pegasus Bridge"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/outro_completed"
+msgid "Victory is ours, you have done an outstanding job. This will show Jerry what we’re capable of. The invasion beaches will not be threatened by flanking attacks!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/outro_failed"
+msgid "Alas there is no success to be reported. The invasion beaches will be vulnerable to counterattacks as a result, and there is little we can do to prevent that. We must try again immediately!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/date"
+msgid "June 6th, 1944 · Normandy, France"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/place"
+msgid "6th Airlanding Brigade"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/story"
+msgid "To protect the invasion against German flanking attacks, a couple of bridges East of the beaches must be secured. \n\n This task has been assigned to the British 6th Airborne Brigade. They are to seize the bridge over the Caen canal and the nearby bridge over the Orne river. \n\nMonths of training proved to be invaluable as the pilot landed the glider right at the bridge over the Orne canal. \n\n Time to spring into action! First, chase the Germans out and secure Bénouville Bridge."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/gameover/defense"
+msgid "You could not hold your positions."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/gameover/pl_dead"
+msgid "You lost all of your units."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_01"
+msgid "The pilots almost got us killed faster than Jerry could! Is everyone alright? Get your stuff and get out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_02"
+msgid "This bridge is what it’s all about. We have to capture and hold it until our reinforcements arrive."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_03"
+msgid "Thank God Jerry didn't hear us landing. Let's keep it that way."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_04"
+msgid "Sir, there's a pillbox up ahead. Could be a right pain. Best knock it out first."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_05"
+msgid "Right, here's the plan: my section will take up positions overlooking the pillbox and provide covering fire, so your men can approach the bridge."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_ally_on_position"
+msgid "We're in place and ready to pin that pillbox down. Say the word."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_player_spotted"
+msgid "We’ve been spotted! Everyone, open fire!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_shots_fired"
+msgid "Why didn’t you wait for us?! Return fire!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_bunker_suppressed"
+msgid "Brilliant work! That pillbox is quiet."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_pl_see_mgun"
+msgid "There’s an MG on the other side! Someone take it out so we can cross the canal!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_enemy_retreat"
+msgid "Look at ‘em legging it! Not a bad start to the morning, ha?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_kwk_crew_killed"
+msgid "Smart move out there. One less headache to worry about."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_bridge_cleared"
+msgid "The bridge is ours. Keep focused, I’m sure there will be more of them."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_01"
+msgid "It seems like Jerry hasn’t rigged the bridge with explosives, I’d wager they have them stashed somewhere nearby. Let’s have a look around."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_02"
+msgid "Look, some lads from the other landing zone have arrived."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_03"
+msgid "One PIAT? That’s it? Are they having a laugh?!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_04"
+msgid "I can tell them to turn around if you wish, Lieutenant."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_05"
+msgid "I reckon it’s better than nothing. Still, this guy better treat that PIAT like it’s his firstborn."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_06"
+msgid "Looks like that's the last of them. The bridge is clear, area secure, and Jerry is running away. Well done! Now back to the bridge. Squad leader’s meeting in 10."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/hint_civilians_01"
+msgid "Let’s see if there are some locals around, they might know where Jerry keeps his ammo."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/pl_see_hotel_mgun"
+msgid "MG! Hotel building, first floor, get to cover!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_see"
+msgid "Heads up, anti-air spotted in the field! Knock it out so our boys in the sky can breathe easy!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_hint_destroy"
+msgid "We need to take out that Flak. Use a PIAT or find some explosives. Anything that we can use to disable it."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_destroyed"
+msgid "Nice one! That bloody Flak won't bother anyone again!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/fake_explosives_01"
+msgid "Check this out! I reckon these are the explosives meant for the bridge."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/fake_explosives_02"
+msgid "Not the charges... But have a look, perhaps we’ll find something handy."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/explosives_found"
+msgid "Here they are! Take care of those charges. One hand grenade near the vehicle might be enough to blow it up."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/explosives_destroyed"
+msgid "Blimey, were they planning to blow up half of Normandy or what?!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_01"
+msgid "Excusez-moi, monsieur... Seen any Allemania explosives? Satchels, grenades, that sort?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_02"
+msgid "(French) No, no, monsieur, there must be some mistake. I am not sheltering enemies of the Reich."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_03"
+msgid "Nah, mate, we're British! Tea, football, England! Aight, look... Explosives, Boche ammunition! We need that sort of a thing, you get it?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_04"
+msgid "Ah, oui, oui, of course! Here small depot, but les Boches, they take it away. Dominique, mon voisin, he is résistant, watch the depot, oui? Now he is in the stable… Eh… West… Big box! Box en bois, comprendre? Wood box! He have eyes like un faucon and moustache… Long, very long, jusqu’à Marseille! Good luck, les Anglais, merci!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_05"
+msgid "Alright then... Got it. Thank you, monsieur. And stay safe out there."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/hint_civilians_02"
+msgid "Reckon he means the barn west of here. There is another civvie. Sharp eyes, big moustache. Bet he knows more about the charges."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_06"
+msgid "You're Dominique? Moustache down to Marseilie, eyes like falcon? Yeah, you match the description."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_07"
+msgid "Oui, je suis Dominique! You are… Des soldats anglais, yes?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_08"
+msgid "Monsieur, where did they take the ammo? We need the German explosives."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_09"
+msgid "When you, les Anglais, you come and make noise, ze Boches, zey move ze ammo, oui? They take it... How you say... Plus loin, more far. Suivez-moi? Moi show you!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_10"
+msgid "But écoutez, if ze soldats allemands are here… You shoot, d’accord?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_11"
+msgid "Clear out Germans by that barn, and he'll show us where they stashed the charges."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_12"
+msgid "Ça semble sûr maintenant. Come on, go with me!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_01"
+msgid "The Germans will be here even sooner than you think. Set up defensive positions. Don’t let them come too close to the bridge. We do not have enough manpower to attack this riverside one more time."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_02"
+msgid "They're here! Hold the line and keep them off the bridge!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_03"
+msgid "I’m trying to raise sections from the other landing zones. They might be able to support us. Hold tight until then."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_04"
+msgid "We did it, they’re pulling back!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_spawned"
+msgid "Heads up, a half-track incoming!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_destroyed"
+msgid "Good, the half-track is sorted."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_armor_t1_spawned"
+msgid "Another one rollin' in! Get the PIAT! And if you’re out, find grenades or something, quick!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_armor_t1_destroyed"
+msgid "Well done, that'll make 'em think twice before pushing again."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_ammo_out_01"
+msgid "I'm dry! I need a fresh mag!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_ammo_out_02"
+msgid "We are running out of ammunition. Take a look around, you'll probably find some weapon crates left by the Germans."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_pl_reinf"
+msgid "A squad from another landing zone has arrived. We’ve expected the ground forces but they will work for now too. I reckon they’ve just increased our chances of holding this bridge."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_preparation"
+msgid "Grab any ammo you can. Search the crates, buildings… Bodies… The Germans could hit us any minute."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortars_offmap_started"
+msgid "Incoming mortar! Get to cover!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortars_offmap_done"
+msgid "They’ve stopped shooting. Means they’re on the move. Get ready, lads!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortar_on_pos"
+msgid "They’ve deployed a mortar to the northwest of us! Get rid of it before it buries all of us under this damn bridge!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_attack_south_01"
+msgid "The Germans are moving in from the south! Make sure this flank is secured, don’t let them surround us!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_attack_north_01"
+msgid "They’re pushing in from the north! Bloody hell, if they break through, that squad of ours and the entire flank are in real trouble!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_at_on_position"
+msgid "Eyes on the western direction, lads! They’ve brought in an AT gun."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_commandos_arrived"
+msgid "Just look who finally decided to show up! Commandos! These guys are as tough as they come. Now it's Jerry who's got the problem. Let's destroy the remaining attacking forces together."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/bridge_captured"
+msgid "We lost the Bridge! Get over there and take it back, now!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/bridge_recaptured"
+msgid "Good, the bridge is ours again. I nearly got a heart attack."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/b33r"
+msgid "Quenching thirst at work? Since when have you become Irish?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cafe"
+msgid "Café Goon… Goon-dry? Christ, sounds like something you catch, not drink. Ah, Gondrée. Bloody French."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/ushanka"
+msgid "Have the Soviets really got such hats? No way they are seriously wearing furry rotten teabags on their heads."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_01"
+msgid "You’re telling me they are so late because were dragging the damn orchestra?.."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_02"
+msgid "Gentlemen, frightfully sorry for the terrible delay. Traffic on the beaches was nothing short of murderous."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_03"
+msgid "Great to see you here, your lordship. We managed so far, but now we’re at the end of our tether to be honest."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_04"
+msgid "You have held this sector with remarkable resolve. An exceptional achievement indeed. I shall raise the matter of your promotion with Command. They already owe you a proper drink, preferably something French."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_05"
+msgid "We’ll agree to anything spirit-based, your lordship. Even if it tastes like petrol."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_06"
+msgid "But you sound dreadfully weary, gentlemen. To your good fortune, we brought some sleeping bags. Have a rest chaps, before sheer exhaustion claims you."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_07"
+msgid "I reckon that’s even better than a wine. And my back… It’s so numb. Thank you, Milord."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_08"
+msgid "I shan’t trouble you any longer. Worry not, we’ll take care of it."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/01_clear"
+msgid "Take control of the Bénouville bridge"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/02_explosives"
+msgid "Find and neutralize the demolition charges"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/04_flak38"
+msgid "Destroy the 20mm anti-air gun"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/05_bridge_night"
+msgid "Defeat the enemy counterattack"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/06_bridge_morning"
+msgid "Hold the bridge until relieved"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret01_civilians"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret01_civilians_completed"
+msgid "Secret objective: A guy with big Moustache - Ask civilians for help"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret02_ushanka"
+msgid "Secret objective #2"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret02_ushanka_completed"
+msgid "Secret objective: Ostfront Trophies - Put an Ushanka hat on while having a beer crate in hands"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret03_kwk"
+msgid "Secret objective #3"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret03_kwk_completed"
+msgid "Secret objective: Hands off! - Eliminate the KwK 39 crew before they board the gun"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/ui/skip_preparation"
+msgid "Skip preparation"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/ui/timer_bridge_lost"
+msgid "<c(B29557)>Take back the positions</c>"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_06_05_pegasus/ui/timer_preparation"
+msgid "German counterattack"
+msgstr ""

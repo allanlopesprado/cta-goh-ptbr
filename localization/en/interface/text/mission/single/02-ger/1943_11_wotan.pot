@@ -1,0 +1,222 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_11_wotan)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1943_11_wotan/date"
+msgid "November 23rd, 1943 - Armeegruppe 35/46."
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/02-ger/1943_11_wotan/defence_progress"
+msgid "Enemy wave %1% out of 10 underway!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/name"
+msgid "In Spite of Everything"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/name_big"
+msgid "In Spite of Everything"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/assistant/skip"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/1"
+msgid "Soldiers! The enemy is about to assault this position in great numbers. Today we have to stand our ground! The Wotan line must stop the Bolsheviks right here."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/10"
+msgid "They must be preparing for another major assault. Now that they are familiar with our positions, they'll be attempting to smash us to pieces! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/11"
+msgid "Use this time to build new defensive positions! And lay more mines! Expect the Soviets to bombard the current ones!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/12"
+msgid "Excellent work soldiers. Our forward observers have spotted the enemy tank forces halting their offensive. Fend off their remaining infantry! This is our last stand! Make the Reich proud!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/13"
+msgid "Once more you have proven your tactical leadership, Herr Leutnant. I'm proud to be serving by your side."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/14"
+msgid "All the troops have been lost! The enemy has obliterated your men!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/15"
+msgid "The Soviets have breached the industrial area! Our key position has been completely overrun!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/16"
+msgid "The enemy has set foot in the industrial area! You need to drive them out of there immediately, that's an order!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/17"
+msgid "Russians in the factory facilities! Herr Leutnant, drive them out of there now! Or we're lost!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/18"
+msgid "The enemy has entered our industrial position! Eliminate them as the highest priority! If more of them enter the premises, we're done!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/2"
+msgid "Your task is to hold this industrial position at all costs. Expect attacks from all sides! Luckily the poor weather keeps enemy attack aircraft grounded. No reinforcements are available, but we have a solid line of defense at your disposal. You are our only hope in stopping the Red tide!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/3"
+msgid "Armored vehicles are expected from the south..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/4"
+msgid "Enemy infantry regiments crossed the Dnieper and are expected to attack us from the north... we don't know how much longer it will take for them to build pontoon crossings and deploy armored divisions from this sector..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/5"
+msgid "We also anticipate that Ivan will attempt to break through at the village. Grenadiers with short-range weaponry have been deployed there for close-quarters combat..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/6"
+msgid "You have some time to prepare the defenses before the arrival of the first enemy scouts. Dig foxholes, position your men and lay down the mines from the crates by the dispersal area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/7"
+msgid "The enemy is almost here. Man your positions! If we can hold until nightfall the enemy may call off their assault!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/8"
+msgid "That was not much... I believe we are about to face the true grunt of the enemy attack. Get ready to defend the southern flank!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/9"
+msgid "The Soviets have slowed down their pace. They must be preparing for a decisive blow! Use this valuable time to resupply and reinforce the defenses!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/artillery"
+msgid "The enemy has deployed heavy artillery on the northwest. They're trying to bombard us from afar!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/mortars1"
+msgid "The Soviets are deploying mortars on the north!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/mortars2"
+msgid "Enemy mortars spotted in the south! They're planning to bomb us out!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/n_generic1"
+msgid "The Bolsheviks are coming from the north!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/n_generic2"
+msgid "Ivan is assaulting our northern flank!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/n_inf"
+msgid "The Soviet infantry has arrived at our northern positions! We're now fighting on 2 fronts! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/nw_generic1"
+msgid "Soviet column approaching us from the northwest! On the road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/nw_generic2"
+msgid "Ivan has been spotted in the northwest. They're coming along the mud road."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/s_generic1"
+msgid "Soviets spotted near the southern road! They're coming this way!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/s_generic2"
+msgid "Enemy troops coming from the south, from the main road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/s_tanks"
+msgid "Enemy tank column coming from the south on the road!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/se2_generic1"
+msgid "Soviets coming from the south!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/se2_generic2"
+msgid "The enemy is approaching from the south!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/se_generic1"
+msgid "The enemy is approaching from the southeast! Hold them back!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/se_generic2"
+msgid "Soviet wave coming from the southeast! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/se_scouts"
+msgid "The Bolsheviks scouts are coming from the southeast!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/sw_generic1"
+msgid "Enemy infantry storming the positions on the southwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/sw_generic2"
+msgid "The Soviets are attempting to breach our positions in the southwest!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/narrator/soldier/1"
+msgid "Herr Leutnant, it seems the Soviets stopped pressing us further!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/outro_completed"
+msgid "The onslaught continued and the Wehrmacht committed all their strength and courage to withstand the Red wave. In Ukraine, the tenacious Soviet forces continued overwhelming the unfinished Wotan line with brute force. Whatever fortifications had been built along the Dnieper were rather subpar, as both materials and labor had been insufficient to build a position strong enough to withstand the might of the Red Army. Nevertheless, in some places, the Germans held the line until well into 1944. Surrounded, undergunned and in spite of all the odds, the Panther-Wotan line bought precious time for the Wehrmacht, for more solid attempts to stop the avalanche of the Soviets and attempt to tilt the balance of the eastern front once more..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/outro_failed"
+msgid "Since you were unable to stop the Red tide here, the Red Army can now march west unopposed. They will leave Army Group Centre in complete disarray, and will be able to reach Warsaw before summer. A year from now, still in 1944, Berlin will fall to the allies."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/place"
+msgid "West of Gomel, Gomel Oblast."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/skip"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/story"
+msgid "The Germans have been constructing defenses along the west bank of the Dnieper river in an attempt to stop the Red Army's advance. But the Soviets arrive earlier than expected."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/task1"
+msgid "Hold the industrial position at all costs!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/task2"
+msgid "Prepare the defenses"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/task3"
+msgid "Eliminate any remaining Soviet troops!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/timer1"
+msgid "Prepare the defenses!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_11_wotan/timer2"
+msgid "Time until the next wave:"
+msgstr ""

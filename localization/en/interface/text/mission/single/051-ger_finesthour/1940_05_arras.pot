@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1940_05_arras)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[hint]"
+msgid "Select the target of mortar barrage"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/01"
+msgid "We must continue moving, secure that outpost so our advance can continue."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/02"
+msgid "Take your platoon and advance and clear the enemy positions ahead of us, you have the support of a nearby mortar company. Do not waste any time, we need to keep moving West."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/03"
+msgid "We have a long way to go and we cannot afford any further delays."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/04"
+msgid "Good job men. Hold here in case the English decide they want this back. The column will now continue moving."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/05"
+msgid "Oh god! Where did they come from?! We need to stop them!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/06"
+msgid "I’ve received word that some heavy guns are being brought forward! We need to hold out as long as we can while they set up the guns!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/07"
+msgid "A screen of 88s and howitzers have been set up just behind us. You can now fallback and regroup at Mercatel to reinforce them!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/08"
+msgid "Take command of the 88s set up just outside Mercatel. We need to stop the enemy armored assault before they reach the town and cut deeper into our lines!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/09"
+msgid "Gute arbeit, männer. The Tommies are running away! They won't come back anytime soon while the Luftwaffe is in the sky!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/01"
+msgid "Herr leutnant! Our forward Aufklärer spotted some Tommies dug in around the town ahead of us. What are your orders?"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/02"
+msgid "Panzer Alarm! Tanks coming from the North-West!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/03"
+msgid "Their armor is too thick! We're doing nothing to them! Aim at the tracks and immobilise them!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/04"
+msgid "The British artillery is trying to hit one of our Acht-Acht's! Move it to a new position before they zero in on it!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/05"
+msgid "Take grenades and explosives from this crate!  Use anything you can find! We must stop them!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/06"
+msgid "Planes incoming!... Wait, it's our boys! They will show them now!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[reinforcements]/mortars"
+msgid "Mortar barrage"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[scenario]/phase2"
+msgid "2 hours later..."
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task01"
+msgid "Eliminate British forward positions"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task02"
+msgid "Stop enemy tanks before they reach our temporary HQ!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task03"
+msgid "Repulse the enemy counter-attack!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task_secret01"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task_secret01_completed"
+msgid "Secret objective #1: Shoot a turret off a Matilda I tank"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[timer]/timer_phase2"
+msgid "Do not let the enemy tanks reach the field HQ:"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/name"
+msgid "Fall Gelb"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/name_big"
+msgid "Fall Gelb"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/outro_completed"
+msgid "Wunderbar! Your improvisation skills have stopped the British counterattack, which means the ghost division can continue racing to the Channel coast. Well done, and keep going!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/outro_failed"
+msgid "This is serious; our advance has come to a halt because the British tanks have broken the encirclement we almost established. We cannot afford to push forward anymore. This is a serious setback!"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/date"
+msgid "May 21st, 1940 · Arras, Pas-de-Calais, France"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/place"
+msgid "7th Panzer Division"
+msgstr ""
+
+msgctxt "mission/single/051-ger_finesthour/1940_05_arras/story"
+msgid "Just 11 days ago, Europe went from ‘Sitzkrieg’ to ‘Blitzkrieg’ with the rapid advance of German troops into the Netherlands, Belgium, and Luxembourg.\n\n Taking everyone by surprise, the Germans quickly cross the Meuse River at Sedan just days later and push West. \n\nExploiting the element of surprise, the 7th Panzer Division has been on the move for 8 days straight. Right now, you are approaching Agny, south of Arras. \n\n We have just found a British strongpoint that is blocking our way. \n\n Take the lead and clear that up quickly, so we can maintain momentum and drive forward to the Channel Coast."
+msgstr ""
+

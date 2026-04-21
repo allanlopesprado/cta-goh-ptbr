@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_yugoslavia)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/date"
+msgid "September 25th, 1944 · Carpathian mountains, Belgrade region, Yugoslavia"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/name"
+msgid "Carpathian Turmoil <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/name_big"
+msgid "Carpathian Turmoil"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/01"
+msgid "Hmmm. The command post looks way too quiet... where is our garrison?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/02"
+msgid "I'm certain that something has happened to our soldiers defending the checkpoint, the area is crawling with Yugoslav partisans."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/03"
+msgid "We first need to establish contact with the Gebirgsjäger unit and make sure the checkpoint is safe. Be cautious, both the Yugoslav partisans and the forward elements of the Red Army are active in the area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/04"
+msgid "Damn it! Partisans spotted! They know we're here, give them hell!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/05"
+msgid "There is no time to mess around. There are many units undergoing evacuation, unite forces and work together to secure this area for the arrival of our forces!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/06"
+msgid "Good job, Soldaten! The checkpoint is ours. This is a strategic location which oversees the entire valley. We must keep it under our control at all costs!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/07"
+msgid "Gentlemen, one of our supply evacuation convoys has arrived to the valley. They need to be escorted to the extraction point southward."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/08"
+msgid "Take them to their destination and keep them safe from the enemy ambushes! We know both Soviet and Yugoslavian forces are active in the area!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/09"
+msgid "Our supply vehicles are overloaded to the brim! With this much weight, they can only reliably travel on roads. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/10"
+msgid "The Allied bombers are pummeling the infrastructure! The bridges are getting bombed to hell!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/11"
+msgid "Soviets! There are enemy Soviet troops in the mix, too!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/12"
+msgid "Excellent work. The supplies are on their way to safety. Now our priority must be to keep their rearguard safe. The Soviets are pressing behind us, we will hold them back!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator/13"
+msgid "The last remnants of our armored columns have entered the perimeter. Take command of those forces and keep the soviets busy until our transports are safe! Defend the central checkpoint at all costs!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator_gebirgs/01"
+msgid "Brandenburger! We are glad to see you are safe and sound! The Yugoslav partisans have taken the checkpoint, and we lost our commanding officer!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator_gebirgs/02"
+msgid "Attention! I hear something... I think we have bombers overhead!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/narrator_gebirgs/03"
+msgid "Dust on the horizon! Mobilized troops coming in from the south-east!"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/obj_progress"
+msgid "%1% out of 3 trucks have been delivered to the extraction point."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/outro_completed"
+msgid "That was close! You have shown your leadership, guiding your troops to safety. Maybe it’s not your style to retreat, but at least we live to fight another day. Now, we must get back to our own lines somehow."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/outro_failed"
+msgid "This is a bitter defeat. We lost a lot of lives and valuable equipment. Also, the division’s re- grouping orders can’t be fulfilled anymore. The march on Belgrade is going to be too easy for the Soviets! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/place"
+msgid "Remnants of army group F"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/story"
+msgid " The German army in Yugoslavia is in trouble. Bulgaria and Romania are no longer allies, and the Soviet offensive puts them under high pressure. Not only that, but all over Yugoslavia they are up against Tito’s Yugoslav partisans as well. The Soviet offensive starts with a fast move across the Danube, splitting the main German force in two. With resistance and attacks on all sides, fighting becomes increasingly difficult. All the action is around German units that are desperately trying to escape the squeeze everywhere, trying to get to the south and to friendly territory.\n\n In this mission, you will be in charge of clearing the bridges across the river Olt. Advance and take the area around the bridges. Hold the area until our trucks arrive from the north. Guide them to safety, which is on the road all the way to the south where it leaves the sector. Regardless of what happens, your objective is to get the majority of your troops out of here in one piece.  \n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task1"
+msgid "Rendez-vouz the Gebirgsjäger and Brandenburger units"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task2"
+msgid "Secure the crossroads checkpoint"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task3"
+msgid "Safely evacuate the transport convoy to their destination. At least three trucks must make it through."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task4"
+msgid "Defend the checkpoint from the Red Army assault."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task_sec1"
+msgid "Secret Objective #1"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task_sec1_complete"
+msgid "Secret Objective #1: Find the partisan hideout."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task_sec2"
+msgid "Secret Objective #2"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/task_sec2_complete"
+msgid "Secret Objective #2: Find the underground mining tunnels"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_09_yugoslavia/timer"
+msgid "Hold the checkpoint until our transports get to safety:"
+msgstr ""

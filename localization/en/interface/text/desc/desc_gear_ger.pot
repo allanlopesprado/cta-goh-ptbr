@@ -1,0 +1,2146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/stuff/bandage_ger"
+msgid "German Bandage"
+msgstr ""
+
+msgctxt "desc/stuff/dynamite_ger_x3"
+msgid "Dynamite (3 Sticks)"
+msgstr ""
+
+msgctxt "desc/stuff/dynamite_ger_x7"
+msgid "Dynamite (7 Sticks)"
+msgstr ""
+
+msgctxt "desc/stuff/geballteladung_3kg"
+msgid "3kg demolition charge 'Geballte Ladung'"
+msgstr ""
+
+msgctxt "desc/stuff/ger_crusher_cap"
+msgid "Heer Officer 'Knautschmütze' 34 [Infanterie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_crusher_cap_arty"
+msgid "Heer Officer 'Knautschmütze' 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_crusher_cap_tank"
+msgid "Heer Officer 'Knautschmütze' 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_camo"
+msgid "Einheitsfeldmütze 43 - Splittertarn"
+msgstr ""
+
+msgctxt "desc/stuff/ger_km_officer_cap"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m28_beret"
+msgid "Schutzmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_Officer_cap_goggles"
+msgid "Heer Schirmmütze 34 - Officer [Infanterie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_Officer_cap_luftwaffe"
+msgid "Luftwaffe Schirmmütze 34 - Officer [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_arty"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_goggles"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_km"
+msgid "Kriegsmarine Feldmütze 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_luftwaffe"
+msgid "Luftwaffe Fliegermütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_nco"
+msgid "Heer Feldmütze 34 - Officer [Infanterie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_pz_scout"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_pz_scout_off"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_radio"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m34_sidecap_tank"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_luftschutz_helmet"
+msgid "Luftschütz 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_camo"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_blue"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_desert"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_camo_winter"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_desert"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_medic"
+msgid "Stahlhelm 38 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_medic_desert"
+msgid "Stahlhelm 38 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_medic_winter"
+msgid "Stahlhelm 38 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_net"
+msgid "Stahlhelm M38 Fallschirmjäger helmet"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_net_desert"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_net_winter"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_helmet_winter"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m38_luftschutz_helmet"
+msgid "Luftschütz 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo1_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo2_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_camo3_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_early"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_mid"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_blau"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_desert"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_feldgendarmerie"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_feldgendarmie_googles"
+msgid "Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_goggles"
+msgid "Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_green_mg"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_green_net"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_green_strapontop"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_grey_strapontop"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_luftwaffe"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_medic"
+msgid "Stahlhelm 35 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_mg"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_volkssturm"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m40_helmet_winter"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_hessian"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_italian"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_oak"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_peadot"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_plaintree"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_splinter"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_sumpf"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_marsh"
+msgid "Stahlhelm M42 helmet"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_winter"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m42_helmet_winter_cover"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m43_cap"
+msgid "Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m43_cap_camo"
+msgid "Heer Einheitsfeldmütze 43 - Splittertarn"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m43_cap_gebirgs"
+msgid "Heer Bergmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m43_cap_luftwaffe"
+msgid "Luftwaffe Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_m43_cap_tank"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_marine_cap"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_mask_sniper"
+msgid "Face Mask - Splittertarn"
+msgstr ""
+
+msgctxt "desc/stuff/ger_officer_cap"
+msgid "Heer Schirmmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_officer_cap_goggles"
+msgid "Heer Schirmmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_officer_cap_goggles"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_officer_cap_tank"
+msgid "Heer Schirmmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_cap"
+msgid "Field cap"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_fieldcap"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_sidecap"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_cap_officer"
+msgid "Heer Schirmmütze 34 - Officer [Infanterie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_helmet"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_helmet_strap"
+msgid "Stahlhelm 35"
+msgstr ""
+
+
+msgctxt "desc/stuff/ger_poa_m39_sidecap"
+msgid "M39 side cap"
+msgstr ""
+
+msgctxt "desc/stuff/ger_poa_m43_fieldcap"
+msgid "Feldmütze M43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_km_var1"
+msgid "Kriegsmarine Feldmütze 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_km_var2"
+msgid "Kriegsmarine Feldmütze 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_km_var3"
+msgid "Kriegsmarine Feldmütze 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var1"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var2"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var3"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var1_white"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var2_white"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_km_var3_white"
+msgid "Kriegsmarine Matrosenmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_fielddiv"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Luftwaffen-Feld]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_fielddiv_em_1"
+msgid "Luftwaffe Schirmmütze 35 [Luftwaffen-Feld]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_fielddiv_em_2"
+msgid "Luftwaffe Schirmmütze 35 [Luftwaffen-Feld]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flak"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Flak-Truppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flak_em_1"
+msgid "Luftwaffe Schirmmütze 35 [Flak-Truppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flak_em_2"
+msgid "Luftwaffe Schirmmütze 35 [Flak-Truppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flying"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flying_em_1"
+msgid "Luftwaffe Schirmmütze 35 [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_flying_em_2"
+msgid "Luftwaffe Schirmmütze 35 [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_hg"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Hermann Göring]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_hg_em_1"
+msgid "Luftwaffe Schirmmütze 35 [Hermann Göring]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_hg_em_2"
+msgid "Luftwaffe Schirmmütze 35 [Hermann Göring]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_pio"
+msgid "Luftwaffe Schirmmütze 35 - Officer [Luftwaffen-Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_pio_em_1"
+msgid "Luftwaffe Schirmmütze 35 [Luftwaffen-Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_luft_pio_em_2"
+msgid "Luftwaffe Schirmmütze 35 [Luftwaffen-Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_luft_fielddiv"
+msgid "Luftwaffe Officer 'Knautschmütze' 35 [Luftwaffen-Feld]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_luft_flak"
+msgid "Luftwaffe Officer 'Knautschmütze' 35 [Flak-Truppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_luft_flying"
+msgid "Luftwaffe Officer 'Knautschmütze' 35 [Fliegertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_luft_hg"
+msgid "Luftwaffe Officer 'Knautschmütze' 35 [Hermann Göring]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_luft_pio"
+msgid "Luftwaffe Officer 'Knautschmütze' 35 [Luftwaffen-Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_luft_var1"
+msgid "Luftwaffe Fliegermütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_luft_var2"
+msgid "Luftwaffe Fliegermütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_overseascap_luft_var3"
+msgid "Luftwaffe Fliegermütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_admin"
+msgid "Heer Feldmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_admin_off"
+msgid "Heer Feldmütze 34 - Officer [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_arty"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_arty_off"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_cav"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_cav_off"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_feldg"
+msgid "Heer Feldmütze 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_feldg_off"
+msgid "Heer Feldmütze 34 - Officer [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_inf"
+msgid "Heer Feldmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_inf_off"
+msgid "Heer Feldmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_jag"
+msgid "Heer Feldmütze 34 [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_jag_off"
+msgid "Heer Feldmütze 34 - Officer [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_log"
+msgid "Heer Feldmütze 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_log_off"
+msgid "Heer Feldmütze 34 - Officer [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_med"
+msgid "Heer Feldmütze 34 [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_med_off"
+msgid "Heer Feldmütze 34 - Officer [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_mot"
+msgid "Heer Feldmütze 34 [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_mot_off"
+msgid "Heer Feldmütze 34 - Officer [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pio"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pio_off"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pz"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pz_off"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzgren"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzgren_off"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_signal"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_signal_off"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var1"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var1_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var1"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var1_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_arty_panzer"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_arty_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_cav_panzer"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_cav_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pz_panzer"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pz_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzgren_panzer"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzgren_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzpio_panzer"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_pzpio_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_signal_panzer"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_signal_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var1_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var1_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var1_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var1_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_admin"
+msgid "Heer Feldmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_admin_off"
+msgid "Heer Feldmütze 34 - Officer [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_arty"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_arty_off"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_cav"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_cav_off"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_feldg"
+msgid "Heer Feldmütze 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_feldg_off"
+msgid "Heer Feldmütze 34 - Officer [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_inf"
+msgid "Heer Feldmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_inf_off"
+msgid "Heer Feldmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_jag"
+msgid "Heer Feldmütze 34 [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_jag_off"
+msgid "Heer Feldmütze 34 - Officer [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_log"
+msgid "Heer Feldmütze 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_log_off"
+msgid "Heer Feldmütze 34 - Officer [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_med"
+msgid "Heer Feldmütze 34 [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_med_off"
+msgid "Heer Feldmütze 34 - Officer [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_mot"
+msgid "Heer Feldmütze 34 [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_mot_off"
+msgid "Heer Feldmütze 34 - Officer [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pio"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pio_off"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pz"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pz_off"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzgren"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzgren_off"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_signal"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_signal_off"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var2"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var2_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var2"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var2_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_arty_panzer"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_arty_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_cav_panzer"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_cav_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pz_panzer"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pz_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzgren_panzer"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzgren_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzpio_panzer"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_pzpio_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_signal_panzer"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var2_signal_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var2_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var2_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var2_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var2_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_admin"
+msgid "Heer Feldmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_admin_off"
+msgid "Heer Feldmütze 34 - Officer [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_arty"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_arty_off"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_cav"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_cav_off"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_feldg"
+msgid "Heer Feldmütze 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_feldg_off"
+msgid "Heer Feldmütze 34 - Officer [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_inf"
+msgid "Heer Feldmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_inf_off"
+msgid "Heer Feldmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_jag"
+msgid "Heer Feldmütze 34 [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_jag_off"
+msgid "Heer Feldmütze 34 - Officer [Jäger]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_log"
+msgid "Heer Feldmütze 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_log_off"
+msgid "Heer Feldmütze 34 - Officer [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_med"
+msgid "Heer Feldmütze 34 [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_med_off"
+msgid "Heer Feldmütze 34 - Officer [Sanitätstruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_mot"
+msgid "Heer Feldmütze 34 [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_mot_off"
+msgid "Heer Feldmütze 34 - Officer [Kradschützen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pio"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pio_off"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pz"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pz_off"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzgren"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzgren_off"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_signal"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_signal_off"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var3"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var3_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var3"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var3_off"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_arty_panzer"
+msgid "Heer Feldmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_arty_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_cav_panzer"
+msgid "Heer Feldmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_cav_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pz_panzer"
+msgid "Heer Feldmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pz_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzgren_panzer"
+msgid "Heer Feldmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzgren_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzpio_panzer"
+msgid "Heer Feldmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_pzpio_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_signal_panzer"
+msgid "Heer Feldmütze 34 [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var3_signal_off_panzer"
+msgid "Heer Feldmütze 34 - Officer [Nachrichtentruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var3_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m41_var3_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var3_panzer"
+msgid "Heer Feldmütze 34"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m42_var3_off_panzer"
+msgid "Heer Feldmütze 34 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_camp"
+msgid "Heer Einheitsfeldmütze 43 - Splittertarn"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_camp_liberm"
+msgid "Heer Einheitsfeldmütze 43 - Leibermuster"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gj"
+msgid "Heer Bergmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gj_gog_a_up"
+msgid "Heer Bergmütze - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gj_var1"
+msgid "Heer Bergmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gj_var2"
+msgid "Heer Bergmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gj_var3"
+msgid "Heer Bergmütze"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gog_a_down"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gog_a_up"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gog_b_down"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_gog_b_up"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_off"
+msgid "Heer Einheitsfeldmütze 43 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_var1"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_var2"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_var3"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_camo_liberm"
+msgid "Einheitsfeldmütze 43 - Leibermuster"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_luft_camo"
+msgid "Luftwaffe Einheitsfeldmütze 43 - Splittertarn"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_luft"
+msgid "Luftwaffe Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_luft_off"
+msgid "Luftwaffe Einheitsfeldmütze 43 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_luft_var1"
+msgid "Luftwaffe Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_luft_var2"
+msgid "Luftwaffe Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_luft_var3"
+msgid "Luftwaffe Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_gog_a_down"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_gog_a_up"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_gog_b_down"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_gog_b_up"
+msgid "Heer Einheitsfeldmütze 43 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_off"
+msgid "Heer Einheitsfeldmütze 43 - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_var1"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_var2"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_fieldcap_m43_panzer_var3"
+msgid "Heer Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_sidecap_m39_var1_admin"
+msgid "Heer Feldmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_admin"
+msgid "Heer Schirmmütze 34 - Officer [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_admin_em_1"
+msgid "Heer Schirmmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_admin_em_2"
+msgid "Heer Schirmmütze 34 [Heeresverwaltung]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_arty"
+msgid "Heer Schirmmütze 34 - Officer [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_arty_em_1"
+msgid "Heer Schirmmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_arty_em_2"
+msgid "Heer Schirmmütze 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_cav"
+msgid "Heer Schirmmütze 34 - Officer [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_cav_em_1"
+msgid "Heer Schirmmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_cav_em_2"
+msgid "Heer Schirmmütze 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_feldg"
+msgid "Heer Schirmmütze 34 - Officer [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_feldg_em_1"
+msgid "Heer Schirmmütze 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_feldg_em_2"
+msgid "Heer Schirmmütze 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf"
+msgid "Heer Schirmmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf_em_1"
+msgid "Heer Schirmmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf_em_2"
+msgid "Heer Schirmmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf"
+msgid "Heer Schirmmütze 34 - Officer [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf_em_1"
+msgid "Heer Schirmmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_inf_em_2"
+msgid "Heer Schirmmütze 34 [Infantrie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_log"
+msgid "Heer Schirmmütze 34 - Officer [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_log_em_1"
+msgid "Heer Schirmmütze 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_log_em_2"
+msgid "Heer Schirmmütze 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pio"
+msgid "Heer Schirmmütze 34 - Officer [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pio_em_1"
+msgid "Heer Schirmmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pio_em_2"
+msgid "Heer Schirmmütze 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pz"
+msgid "Heer Schirmmütze 34 - Officer [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pz_em_1"
+msgid "Heer Schirmmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pz_em_2"
+msgid "Heer Schirmmütze 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pzgren"
+msgid "Heer Schirmmütze 34 - Officer [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pzgren_em_1"
+msgid "Heer Schirmmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_pzgren_em_2"
+msgid "Heer Schirmmütze 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_arty"
+msgid "Heer Officer 'Knautschmütze' 34 [Artillerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_cav"
+msgid "Heer Officer 'Knautschmütze' 34 [Kavallerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_feldg"
+msgid "Heer Officer 'Knautschmütze' 34 [Feldgendarmerie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_inf"
+msgid "Heer Officer 'Knautschmütze' 34 [Infanterie]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_log"
+msgid "Heer Officer 'Knautschmütze' 34 [Fahrtruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_pio"
+msgid "Heer Officer 'Knautschmütze' 34 [Pioniere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_pz"
+msgid "Heer Officer 'Knautschmütze' 34 [Panzertruppen]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_pzgren"
+msgid "Heer Officer 'Knautschmütze' 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_off_cap_crusher_pzgren"
+msgid "Heer Officer 'Knautschmütze' 34 [Panzergrenadiere]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo1_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo2_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo3_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_camo4_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_ital"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_ital_band"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover"
+msgid "Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_band"
+msgid "Heer Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover"
+msgid "Heer Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_sumpf"
+msgid "Heer Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_sumpf_band"
+msgid "Heer Stahlhelm 35 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_strap"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_dirt_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_band_var1"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_band_var2"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_cover"
+msgid "Luftwaffe Stahlhelm 35 - Splittertarn Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_cover_band"
+msgid "Luftwaffe Stahlhelm 35 - Splittertarn Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_gog_a_down"
+msgid "Luftwaffe Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_gog_a_up"
+msgid "Luftwaffe Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_gog_b_down"
+msgid "Luftwaffe Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_gog_b_up"
+msgid "Luftwaffe Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_strap"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_strap_holder"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_var1"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_var2"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_var3"
+msgid "Luftwaffe Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_wire"
+msgid "Luftwaffe Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo1_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo2_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo3_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_camo4_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_band_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_var2"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_lw_dirt_wire"
+msgid "Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_cover"
+msgid "Stahlhelm 38 - Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_gog_a_down"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_gog_a_up"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_gog_b_down"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_gog_b_up"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_41_wire"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_cover"
+msgid "Stahlhelm 38 - Splittertarn Cover"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_gog_a_down"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_gog_a_up"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_gog_b_down"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_gog_b_up"
+msgid "Stahlhelm 38 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_wire"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_1"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_1_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_1_wire"
+msgid "Stahlhelm 38 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_2"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_2_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_2_wire"
+msgid "Stahlhelm 38 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_3"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_3_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_3_wire"
+msgid "Stahlhelm 38 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_4"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_4_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_camo_4_wire"
+msgid "Stahlhelm 38 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_dirt"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_dirt_strap"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_dirt_wire"
+msgid "Stahlhelm 38 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_fj_43_medic"
+msgid "Stahlhelm 38 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_band_var1"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_band_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_cloth"
+msgid "Stahlhelm 35 - Cloth"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_gog_b_down"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_gog_b_up"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_strap"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_strap_holder"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_var1"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_var3"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_var4"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_wire"
+msgid "Heer Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_band_var1"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_band_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_cloth"
+msgid "Stahlhelm 35 - Cloth"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_gog_b_down"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_gog_b_up"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_strap"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_strap_holder"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_var1"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_var3"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_var4"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_wire"
+msgid "Heer Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_band_var1"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_band_var2"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_cloth"
+msgid "Stahlhelm 35 - Cloth"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_gog_a_down"
+msgid "Kriegsmarine Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_gog_a_up"
+msgid "Kriegsmarine Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_gog_b_down"
+msgid "Kriegsmarine Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_gog_b_up"
+msgid "Kriegsmarine Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_strap"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_strap_holder"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_var1"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_var2"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_var3"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_var4"
+msgid "Kriegsmarine Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_km_wire"
+msgid "Kriegsmarine Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_band_var1"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_band_var2"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_strap"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_var1"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_var2"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_var3"
+msgid "Blue Legion Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_blau_wire"
+msgid "Blue Legion Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_band_var1"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_band_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_gog_b_down"
+msgid "Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_gog_b_up"
+msgid "Stahlhelm 35 - Goggles"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_strap"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_var1"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_var2"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_var3"
+msgid "Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_wire"
+msgid "Heer Stahlhelm 35 - Wire"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_medic_var1"
+msgid "Stahlhelm 35 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_medic_var2"
+msgid "Stahlhelm 35 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_medic_var3"
+msgid "Stahlhelm 35 - Medic"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_ital_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m43_cover_sumpf_face"
+msgid "Stahlhelm 35 - Cover [Sniper]"
+msgstr ""
+
+msgctxt "desc/stuff/ger_gasmask_1"
+msgid "Gasmaske 38"
+msgstr ""
+
+msgctxt "desc/stuff/ger_gasmask_2"
+msgid "Gasmaske 38"
+msgstr ""
+
+msgctxt "desc/stuff/german_medkit"
+msgid "German Medical Cabinet"
+msgstr ""
+
+msgctxt "desc/stuff/hafthohlladung"
+msgid "Hafthohlladung Magnetic Mine"
+msgstr ""
+
+msgctxt "desc/stuff/m24"
+msgid "M24 Grenade"
+msgstr ""
+
+msgctxt "desc/stuff/m24_geballteladung"
+msgid "M24 AT Grenade 'Geballte Ladung'"
+msgstr ""
+
+msgctxt "desc/stuff/m24_smoke"
+msgid "M24 Nb. (Smoke)"
+msgstr ""
+
+msgctxt "desc/stuff/m24_smoke_supplies"
+msgid "M24 Nb. (Supplies)"
+msgstr ""
+
+msgctxt "desc/stuff/m24_splinter"
+msgid "M24 Splinter Grenade"
+msgstr ""
+
+msgctxt "desc/stuff/nbk39"
+msgid "Nb.K. 39 (Smoke)"
+msgstr ""
+
+msgctxt "desc/stuff/nbks"
+msgid "Nb.K.S. (Smoke)"
+msgstr ""
+
+msgctxt "desc/stuff/pwm_l"
+msgid "PWM-1 AT Grenade 'Lang'"
+msgstr ""
+
+msgctxt "desc/stuff/s mine"
+msgid "Antipersonnel S-Mine 'Bouncing Betty'"
+msgstr ""
+
+msgctxt "desc/stuff/tmi_35 mine"
+msgid "Anti-Tank Tellermine 35"
+msgstr ""
+
+msgctxt "desc/stuff/tmi_43 mine"
+msgid "Anti-Tank Tellermine 43"
+msgstr ""

@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_06_bloody_gulch)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/airstrike"
+msgid "Artillery barrage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/date"
+msgid "June 13th, 1944 · near Carentan, Normandy, France."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/name"
+msgid "Battle of Bloody Gulch"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/name_big"
+msgid "Battle of Bloody Gulch"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator01"
+msgid "Easy Company! Our scouts reported that an enemy formation is coming our way and will be here soon!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator03"
+msgid "Take up defensive positions along these hedgerows. Reinforce them if you need to. Use the mines to cover possible enemy approaches."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator04"
+msgid "Hold your ground and let them come to us. Hang tough, men!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator05"
+msgid "The enemy has trapped our scout team behind their lines. They’ve held up in this compound!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator06"
+msgid "Third squad! Break through the German line, link up with the scout team, and fall back before the enemy attack arrives."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator07"
+msgid "Come on, Blithe! Stand up! Get on your feet, soldier! Fire your weapon, Blithe!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator08"
+msgid "Here they come! Get ready, soldiers!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator09"
+msgid "Enemy halftracks! Take them out!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator10"
+msgid "They are bringing mortars!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator11"
+msgid "I hear tank tracks in the distance! Enemy armor inbound!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator12"
+msgid "We need to neutralize the German armor. Bazooka teams, flank and destroy them!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator13"
+msgid "Tanks destroyed!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator14"
+msgid "We've repelled the enemy assault! Now that we have armor, it's time to go on the offensive."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator15"
+msgid "No time to rest, let's push 'em back!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator16"
+msgid "Germans have breached the perimeter!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator18"
+msgid "Well done! Those German mortars are done for!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator_soldier01"
+msgid "You guys made it just in time. I thought we were goners for sure! If you help me get back to HQ, I can call for additional support with my radio."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_completed"
+msgid "Easy Company successfully repelled the German attack with support from the 2nd Armored Division. With the German attackers routed, the Allies were able to push west and cut off the German forces in the Cotentin Peninsula from German-occupied France."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_failed"
+msgid "Easy Company was destroyed by the Germans while defending its position west of Carentan. Now, nothing stands in the way of the German advance towards Carentan. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/lose_winters"
+msgid "Lt. Winters is dead!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/preparation"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/preparation_hint"
+msgid "Press on this button to skip the preparation countdown and move on to the next part of the mission."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/skip_prep"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/story"
+msgid "  The 101st has been in action constantly since the jump into Normandy over a week ago. After clearing Carentan yesterday, it’s time to push forward and capitalize on this victory.\n\n  Easy company will be covering the extreme right flank. Headquarters has sent scouts forward along the axis of advance. Depending on what they report, we will proceed accordingly. Report to the 506th Parachute Infantry Regiment for further orders and prepare for what could be a bloody battle.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task1"
+msgid "Prepare a defense line along the hedgerow!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task2"
+msgid "Rescue the scout team!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task3"
+msgid "Save the radio operator from the scout team."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task4"
+msgid "Escort the radio operator to your HQ for additional support."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task5"
+msgid "Hold your position and defend the HQ!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task6"
+msgid "Flank and neutralize enemy StuGs!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task7"
+msgid "Clear the remaining enemy troops from the battlefield!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_winters"
+msgid "Lt. Winters must survive."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_heal_winters"
+msgid "Treat Lt. Winters before he bleeds to death!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_secret"
+msgid "Secret Objective #1"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task_secret_comp"
+msgid "(Secret Objective #1): Encourage Blithe"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/timer1"
+msgid "Remaining time before enemy attack:"
+msgstr ""

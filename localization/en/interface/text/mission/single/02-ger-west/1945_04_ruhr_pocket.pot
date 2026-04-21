@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_04_ruhr_pocket)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/date"
+msgid "April 17th, 1945 · Attern, Ruhr, Germany"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/fight"
+msgid "Fight to the death"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/name"
+msgid "Last stand at the Ruhr"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/name_big"
+msgid "Last stand at the Ruhr"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/01"
+msgid "Soldaten! The fate of the Fatherland lies in our hands! Unfortunately, our organisation in this sector is currently rather messy! "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/02"
+msgid "We have been sent here to make things right. You are all veterans of this war, and we will rely on your experience to command the troops to victory."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/021"
+msgid "Our primary objective is to defend the town of Attern while the local population is being evacuated, or drafted as part of our local defence forces - the Volkssturm."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/03"
+msgid "So far, our Volkssturm defense forces have performed poorly, commanded by utterly incompetent Gauleiters. Your first task is to find the volkssturm batallion and recruit as many of them as you can. Teach them some real tactics!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/04"
+msgid "We also require you to recover any damaged vehicles or abandoned equipment in order to ready them for use against the Americans."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/05"
+msgid "Members of the Volkssturm! We are what's left of of the 116th Panzer Division. The Americans are closing in! We have learnt how to fight them after the Normandy landings. Join us and you might survive the next enemy onslaught."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/06"
+msgid "Pick 10 Volkssturm soldiers. They will be under your command. I will lead the others."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/07"
+msgid "Herr Leutnant, the enemy is approaching on the main road. Set up an ambush! Use the high ground and let it rain Panzerfausts. There are extra Panzerfausts in the boxes."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/08"
+msgid "The Americans are losing troops and realise that this sector is still hostile. They brought in heavy artillery to obliterate the town. We cannot let them do this! But since they don't know that you have dealt with their column, you can use the element of surprise against them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/09"
+msgid "Good job! Now fall back to our main defensive line. Morale isn't great. Go to the main square and recruit any troops you see. Prepare to defend Attern."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/10"
+msgid "They're coming. This is our last chance! Make it count!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/11"
+msgid "Excellent job Soldaten. The Americans are backing off."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/fight1"
+msgid "Soldaten! The enemy has offered terms of unconditional surrender but we have chosen to fight! We haven't fought them all the way from Normandy to here, just to bow down to them now!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/fight2"
+msgid "We will die defending the Fatherland, like our fathers and grandfathers did. Let our actions today be the tales inspiring our grandchildren! For Germany!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/fight3"
+msgid "Thank you for showing respect to my troops. These men all deserved long and happy lives in peace."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/grille"
+msgid "What is that thing there? Get that Grille crewed and operational!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/offer"
+msgid "Herr Leutnant, you and your men have earned the respect of both me and our American adversaries. It is only fair for you to decide the fate of our unit. We will stand by your decision. Make the choice, Herr Leutnant."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/offer1"
+msgid "I command this element of the 116th Panzer Division. What do you want?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/offer2"
+msgid "You want us to surrender, then? Avoiding bloodshed after you obliterated this town?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/ostwind"
+msgid "An Ostwind has been left abandoned in these high grounds. We should definitely repair and re-service it."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/pak40"
+msgid "Look! An abandoned PaK-40. I think we could make good use of that."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/pak9738"
+msgid "A well positioned pak gun in the hill! Yes, very good. We should use it."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/pershing"
+msgid "What the hell is that tank coming down the road? It doesn't look like a Sherman. Have the Americans learnt how to build proper tanks?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender1"
+msgid "Soldaten! You have fought bravely and proudly for your country!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender2"
+msgid "In spite of our best efforts, this war is now over for us. Do not feel ashamed, do not feel dishonoured."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender3"
+msgid "Your enemies have feared you. Your enemies have respected you. We have waged our war honorably and gallantly."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender4"
+msgid "You've seen death and you suffered together. But now, you should all return to your families and live the rest of your life in peace."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender5"
+msgid "But do so looking up at the clear skies, and not down at your feet! Germany will recover for sure."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender6"
+msgid "I'm proud to have served with each and every one of you. From the shores of Normandy to the heart of our country, We've defended Fortress Europe together; you made your country proud."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender7"
+msgid "We hereby surrender to the US Armed Forces. There is no other way to survive this bloodshed, this hell!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator_usa/fight1"
+msgid "Well, Sir, that's the best we could do. Your men deserved a proper burial after the fight they put up. "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator_usa/fight2"
+msgid "Unfortunately, you do need to come with us now... Soldiers, please escort the german commander back to HQ."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator_usa/offer1"
+msgid "German Soldiers! We are company commanders from the 7th Armored and 99th Infantry. You have fought hard today. With whom do we have the pleasure of speaking?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator_usa/offer2"
+msgid "We have come with an offer which could be of great interest for us all! Your war is lost. There is no need for more bloodshed. "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator_usa/offer3"
+msgid "You are surrounded and severely outnumbered. Lay down your arms, and we will take good care of your men. We will give you food and medical attention, and help you bury your dead."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narratorhint/01"
+msgid "In order to recruit soldiers, move your units close and hover over the soldier you want to recruit. A grabbing icon will appear. Inspect the troops and click to recruit 10 soldiers of your choice."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/outro_completed"
+msgid "This is the end. Regardless of the choice you just made, there will be no medals, just a lot of graves. You will need to roll up your sleeves and start building back your country and make sure that a senseless war like this will not repeat itself. Well done!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/outro_failed"
+msgid "This failure will have consequences. For one, we cannot prevent being surrounded anymore; furthermore, the road to Berlin is now open to the Americans. Who will tell General von Waldenburg the bad news?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/place"
+msgid "116th Panzer Division"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/skip"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/story"
+msgid " It is now April 1945. A few weeks ago, the Ludendorff bridge at Remagen was captured intact. The Allies also crossed the Rhine at Wesel and Nierstein. As a result, army group B has become encircled completely; the stage for the battle of the Ruhr pocket has been set.\n\n You and the 116th Panzer division have been directed to the area south of Iserlohn. Your first problem is the wide area over which your troops have been dispersed in the past few days; they’re literally everywhere, which makes it impossible for them to act as a unit.\n\n You should group all available troops and see whether you can find any supplies and equipment that was abandoned during yesterday’s fighting, before you can even think about any coordinated actions. Use your experience to make the most of this difficult situation. Do not despair, wonder weapons will soon tip the balance of the war in our favor.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/surrender"
+msgid "Surrender"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task1"
+msgid "Go to the local Volkssturm forces and recruit 10 soldiers."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task2"
+msgid "Recover at least 2 AT guns."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task3"
+msgid "Recover and repair at least 2 tanks."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task4"
+msgid "Ambush the American column."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task5"
+msgid "Take out the heavy artillery."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task6"
+msgid "Regroup at the town of Attern and defend it!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/task7"
+msgid "Choose: Surrender or fight to the last man"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/timer"
+msgid "US column will arrive in:"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/timer2"
+msgid "US attack will commence in:"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/timer3"
+msgid "Defend Attern!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/timer4"
+msgid "Choose the fate of your troops:"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/win"
+msgid "You chose to fight, your soldiers did the ultimate sacrifice for the Fatherland, and the enemy has buried your troops with honours out of admiration for your fighting spirit."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/win2"
+msgid "You chose to surrender to the US forces, and spare the lives of your men in a desperate situation against overwhelming odds. The enemy will take good care of your troops out of respect for the tenacious fighting spirit. Soon, Germany will capitulate and the troops will be able to go back to their families."
+msgstr ""

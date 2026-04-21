@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_09_pavlovs_house)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/180"
+msgid "Artillery strike"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/date"
+msgid "September 27th, 1942 · Stalingrad"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/name"
+msgid "Pavlov's House <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/name_big"
+msgid "Pavlov's House"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/01"
+msgid "What has become of our beloved Stalingrad? The streets of the city are ruined… almost everything has been demolished."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/02"
+msgid "Comrades, I've taken command of the 62nd Army. I tell you this - Stalingrad will decide our fate! I’ll either keep the fascists out of Stalingrad or die trying. There is no land beyond the Volga!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/03"
+msgid "I do realise your men have been called forward without resupply. You need weapons and ammo. We are going to deal with this situation first. We know for a fact a German depot is nearby."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/04"
+msgid "Your next objective is to take the strategic apartment building overlooking this entire area."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/05"
+msgid "Due to our grueling losses, I have put into action Order 166: Offensives are to be organized into small groups with sub-machine guns, hand grenades, and anti-tank rifles. Taking this building is your assignment, Comrades. I will try to get reinforcements for you after the building is in your hands."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/06"
+msgid "Good work Comrades. Take positions around this building. The Germans will surely want to take back such a strategic spot."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/07"
+msgid "I am dispatching Lieutenant Afanasyev from the 3rd Machine Gun Company to reinforce your position. Sergeant Pavlov, you remain in command of this group. Keep your building safe!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/08"
+msgid "I am sending a notorious sniper to reinforce your men, Comrade Pavlov. He is young, but has a reputation among the fascist hordes. Keep him alive and safe."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/09"
+msgid "Comrades, engineering supplies have been found left behind by the Germans. I am ordering you to reinforce the approaches of the building to improve its defensive capabilities. "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/10"
+msgid "Make our defense unbreakable! All the furious attacks of the Fascist troops will shatter upon these obstacles just like sea waves are broken by granite rock!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/11"
+msgid "That's it, Comrades. We are winning. Every German soldier must be made to feel that he is living under the muzzle of a Russian gun."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/12"
+msgid "German artillery has been deployed very close to your position and they are threatening our landings on the Volga. I need you to take them out, Comrades!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/13"
+msgid "Good work, Soldiers. I would not have believed such an inferno could open up on earth. Your men died but they did not retreat. Remarkable."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/14"
+msgid "Enemies are within Pavlov's House and you've left it unprotected! I'll give you a minute to turn this situation over, or you're done! And don't let this happen again!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/outro_completed"
+msgid "Excellent work! This was a remarkable display of leadership and tenacity. You have defied the odds and successfully prevented the fascists from taking the main prize of their campaign: Stalingrad. You are a true hero of the Soviet Union. Better get your uniform washed and pressed for a ceremony!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/outro_failed"
+msgid "That is a dramatic end to a dramatic battle. What now? Do we let the fascists take control of Stalingrad? General Chuikov will not like this news. You will have to go in again and this time, hold on to the house. Don’t give up, there is no land beyond the Volga!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/place"
+msgid "13th Guards Rifle Division, 62nd Army"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/story"
+msgid "German army group B has reached Stalingrad, despite Stalin’s order 227 saying “not a step back”. Already in September, street fighting is a grim everyday reality.\n\nThe Soviet 62nd army, commanded by general Chuikov, is hanging on to a few small bridgeheads on the west bank of the Volga river.\n\nIf the Germans want to get to the Volga, they will need to get past Pavlov’s house first!\n\nIn this mission, General Chuikov will brief you on taking the house with your men. As soon as you have full control of the house, prepare every floor and every position for the inevitable next fascist attack. Hold the house long enough for the next wave of supplies to arrive. Show no mercy.\n\nZa Rodinu!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task1"
+msgid "Secure the strategic building"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task2"
+msgid "Hold the building at all costs!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task3"
+msgid "Take out the enemy artillery threatening the Volga landings"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task4"
+msgid "Sergeant Yakov Pavlov must survive!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task5"
+msgid "Keep Sniper Anatoly Checkov alive."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task_supply"
+msgid "Secure supplies"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/timer"
+msgid "German counter-attack in:"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_09_pavlovs_house/mission_heal_pavlov"
+msgid "Treat Sergeant Yakov Pavlov before he bleeds to death!"
+msgstr ""

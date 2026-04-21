@@ -1,0 +1,593 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Soviet Gear 2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/stuff/sov_cap_peaked"
+msgid "RKKA Visor Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_gog"
+msgid "RKKA Visor Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_air_var1"
+msgid "RKKA Visor Cap - Officer [Aviation]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_air_var1_gog"
+msgid "RKKA Visor Cap - Officer [Aviation]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_air_var2"
+msgid "RKKA Visor Cap - Officer [Aviation]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_air_var2_gog"
+msgid "RKKA Visor Cap - Officer [Aviation]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_arty"
+msgid "RKKA Visor Cap - Officer [Artillery]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_arty_gog"
+msgid "RKKA Visor Cap - Officer [Artillery]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_cav"
+msgid "RKKA Visor Cap - Officer [Cavalry]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_cav_gog"
+msgid "RKKA Visor Cap - Officer [Cavalry]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_inf"
+msgid "RKKA Visor Cap - Officer [Infantry]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_inf_gog"
+msgid "RKKA Visor Cap - Officer [Infantry]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_navy"
+msgid "VMF Visor Cap - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_navy_gog"
+msgid "VMF Visor Cap - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_nkvd"
+msgid "NKVD Visor Cap - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_nkvd_gog"
+msgid "NKVD Visor Cap - Officer"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_nkvd_bg"
+msgid "NKVD Visor Cap - Officer [Border Troops]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_nkvd_bg_gog"
+msgid "NKVD Visor Cap - Officer [Border Troops]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_tank"
+msgid "NKVD Visor Cap - Officer [Armored]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_tank_gog"
+msgid "NKVD Visor Cap - Officer [Armored]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_brown_var1"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_brown_var2"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_brown_var3"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_navy_var1"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_navy_var2"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_navy_var3"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_var1"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_var2"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_var3"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_bg_var1"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_bg_var2"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_nkvd_bg_var3"
+msgid "NKVD Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_tank_var1"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_tank_var2"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_tank_var3"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var1"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var1_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var2"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var2_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var3"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_a_var3_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var1"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var1_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var2"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var2_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var3"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_b_var3_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var1"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var1_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var2"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var2_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var3"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_pilotka_c_var3_sub"
+msgid "Pilotka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var1"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var1_tilt"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var1_tilt_l"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var1_tilt_r"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var2"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var2_tilt"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var2_tilt_l"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_sailor_var2_tilt_r"
+msgid "Sailor's Cap"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_closed"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_down"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_down_tilt"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_up"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_up_tilt"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_up_tilt_l"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_navy_up_tilt_r"
+msgid "Ushanka (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_closed"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_down"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_down_tilt"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_up"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_up_tilt"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_up_tilt_l"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var1_up_tilt_r"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_closed"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_down"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_down_tilt"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_up"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_up_tilt"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_up_tilt_l"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_ushanka_var2_up_tilt_r"
+msgid "Ushanka"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_medic_a"
+msgid "'Steel Helmet' SSh-36 (Medic)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_medic_b"
+msgid "'Steel Helmet' SSh-36 (Medic)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_medic_c"
+msgid "'Steel Helmet' SSh-36 (Medic)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_medic_gog"
+msgid "'Steel Helmet' SSh-36 (Medic)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var1_a"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var1_b"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var1_c"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var1_gog"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var2_a"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var2_b"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var2_c"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_navy_var2_gog"
+msgid "'Steel Helmet' SSh-36 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var1_a"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var1_b"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var1_c"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var1_gog"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var2_a"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var2_b"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var2_c"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh36_var2_gog"
+msgid "'Steel Helmet' SSh-36"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var1_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var1_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var1_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var2_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var2_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var2_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var3_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var3_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_cover_amoeba_var3_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_gog"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_ushanka_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_medic_ushanka_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_a"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_b"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_c"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_gog"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_ushanka_a"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var1_ushanka_b"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_a"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_b"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_c"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_gog"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_ushanka_a"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_navy_var2_ushanka_b"
+msgid "'Steel Helmet' SSh-39 (Naval)"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_para"
+msgid "SSh 39 - [Paratrooper]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_tank"
+msgid "SSh 39 - [Tanker]"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_gog"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_ushanka_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var1_ushanka_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_c"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_gog"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_ushanka_a"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_ssh39_var2_ushanka_b"
+msgid "'Steel Helmet' SSh-39"
+msgstr ""
+
+msgctxt "desc/stuff/sov_helm_para"
+msgid "Desantnik helmet"
+msgstr ""
+
+msgctxt "desc/stuff/sov_cap_peaked_cav_var1"
+msgid "RKKA Visor Cap - Officer [Cavalry]"
+msgstr ""

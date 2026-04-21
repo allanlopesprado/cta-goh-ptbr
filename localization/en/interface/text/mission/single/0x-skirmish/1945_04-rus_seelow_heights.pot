@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1945_04-rus_seelow_heights)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/name"
+msgid "Bloodshed at Seelow Heights"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/name_big"
+msgid "Bloodshed at Seelow Heights"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/story"
+msgid "Seelow heights, Oderbruch Offensive. The attack is about to begin. As usual, there will be a big artillery bombardment. Attack as soon as possible!\n\nGoals:\n - Clear the way to Berlin.\n - Destruction of the German 9th Army."
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/place"
+msgid "Seelow, Germany"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/date"
+msgid "April, 1945"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_completed"
+msgid "Victory! The road to Berlin is now open. Good job!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_failed"
+msgid "Mission failed; enemy resistance was too much. We will have to try again!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_failed_hq"
+msgid "Mission failed! - The enemy captured our HQ!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_attack"
+msgid "Break through the Seelow Heights"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start0"
+msgid "You are now in the lair of the Beast! This is our field HQ, it must remain in our control!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start1"
+msgid "Comrade, you are tasked with breaching through these heavily defended heights. We must crush the Seelow defenses and drive on to Berlin!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start2"
+msgid "The germans are planning to reinforce their lines with everything they've got! Make sure to flank them and overwhelm them with our numbers!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start3"
+msgid "Begin securing the objectives, you will get some reinforcements soon!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/allied_enemy_near_hq"
+msgid "Comrades! Germans are sneaking up on our Field HQ!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/player_enemy_near_hq"
+msgid "We must hold this command post at all costs, or ruin the coordination of an entire army!"
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/hq_bonus"
+msgid "Comrade! Now you can request an airstrike."
+msgstr ""

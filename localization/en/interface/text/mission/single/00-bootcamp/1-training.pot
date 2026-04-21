@@ -1,0 +1,330 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1-training)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "mission/single/00-bootcamp/1-training/date"
+msgid "August 20th, 1939"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_barrel"
+msgid "Do not blow things up in the fuel area!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_die"
+msgid "A man has been killed! Unacceptable!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/fail_grenades"
+msgid "Grenades must not explode in the area of the shooting range."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/mission_fail"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/mission_win"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/name"
+msgid "Military Camp"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/name_big"
+msgid "Military Camp"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/fuel"
+msgid "There are 2 ways you can refuel a vehicle: automatically, by driving a refueling supply truck close to it, or manually, with fuel cans. To use fuel cans, collect them into your soldier's inventory, and while holding them, clicking on a fuel source like fuel trucks and big barrels to fill the empty can with fuel. When the can is full, you can \"pour out\" the fuel contents into the empty vehicle."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grabweapon"
+msgid "Select your soldier, and move him around with your mouse clicks. You can examine boxes by clicking on them to transfer the items between the box's and soldier's inventories. Grab a helmet, rifle, and ammo from the different boxes."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grenade"
+msgid "You can throw grenades to eliminate targets behind cover. For the most effective use of grenades, you can 'cook' them in direct control mode (select a single soldier and press the direct control button on the bottom left of the interface or press the hotkey 'E' by default). Direct control allows you to micro-control one unit with WASD movement and mouse aiming/shooting."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/highlight"
+msgid "You can highlight objects that can be collected by your units - like the weapons on the table - by clicking on the 'highlight items' button on the bottom right corner of the interface 'cubed shape button' or by holding the hotkey 'C' by default"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/objectives"
+msgid "You can always open the Mission Objectives menu using the button on the bottom right of the interface or by clicking 'O' by default. You can click on each mission objective to show where it takes place on the map. Secondary mission objectives are not essential for the completion of the mission."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/pak"
+msgid "You will need to manually shoot the targets in direct control. Press \"E\" by default to switch to direct control with the selected unit. Press \"T\" by default to toggle \"Classic\" and \"Third Person\" modes. Note that the longer you aim at a target, the more accurate your shot will be."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/reinf"
+msgid "You now have control of three more soldiers."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/repair"
+msgid "Different components of vehicles can be damaged on the battlefield (tracks, engine, gun, turret, body, etc.). You will need repair kits to repair these components. You can find them in most vehicle's inventory. Repair kits are a single-use item. If multiple components are broken, you will need a repair kit for each component. Take a repair kit from the vehicle into your soldier's inventory, then with the soldier selected, press the repair button in the bottom right corner of the interface (Wrench icon). Lastly, click on the vehicle to order your soldier to repair it."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/sandbag"
+msgid "Get to cover behind the sandbags and get ready to fire. Select your soldiers, and hover the cursor close to the sandbag. A silhouette previews the position of your soldiers behind cover. Utilize cover as much as possible to increase the survivability and accuracy of your soldiers."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/spec"
+msgid "Do not leave the hideout area before completing the task. If you leave the hideout, new targets will not appear."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/tripod"
+msgid "You can place different weapons on the tripod. Start off by collecting an MG-34 machine gun from the box and put it in the tripod's inventory. You can examine vehicles' inventory by pressing \"X\"."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/tripod2"
+msgid "Now you have to mount the machinegun. To do so, crew the tripod and open the tripod’s inventory by selecting it and hitting the hotkey 'I' by default. Double click on the machinegun in the inventory to mount it. Now shoot all the targets in the firing range. You will notice mounted weapons are more accurate and have less recoil."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/end"
+msgid "Good luck, Soldiers. Make the fatherland proud!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/fuel"
+msgid "That is the fuel station. Our vehicles need fuel to keep on running. You should familiarize yourself with the refueling process."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/fuellimit"
+msgid "That truck must stay within the gasoline station grounds."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/grenades"
+msgid "Good work, Soldiers. Now head over to the grenade area. Use the hand grenades to blow up some of the fuel barrels."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/k98"
+msgid "The Karabiner 98-K is the standard infantry weapon. A precise bolt action rifle, ideal for engaging the enemy at medium and long ranges."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/mgrange"
+msgid "This is the MG and Mortar range. Infantry support weapons are essential, and you should train using them. You need to man these vehicles with at least two operators to move them, and they are very effective when placed in strategic positions."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak1"
+msgid "This is the Cannon range. Here we will show you how to engage enemy armored targets with a variety of projectiles. Crew the 3.7cm PaK anti-tank gun with your soldiers to begin the ballistics briefing!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak2"
+msgid "The 3.7cm PaK Light Anti-Tank Gun fires various types of ammunition. To penetrate and destroy armored targets, use Armor Piercing (AP) and Armor Piercing Composite Rigid (APCR) rounds. To penetrate the thicker plates in front of you, use APCR. Against angled armor APCR it will ricochet off instead of penetrating. AP shells are more effective in this case."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak3"
+msgid "For wooden or other soft targets, High Explosive (HE) shells are best. These shells detonate on impact and cause a lot of damage to non-armored objects, unlike AP shells that would pass through and cause little damage."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak4"
+msgid "The high-velocity APCR shells are lightweight and penetrate more than AP shells at close ranges but they lose their kinetic energy quickly at longer ranges. It is better to use AP shells to engage distant targets."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/part2"
+msgid "Now you have acquired basic weapons training. You may look around the facilities and explore all the testing grounds which Kummersdorf has to offer. You will find the latest military equipment on various testing grounds."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/part2_1"
+msgid "Once you consider yourself ready for posting, board the trucks at the dispersal area. You will be delivered to your regiments."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/shootingrange"
+msgid "Now you must learn your weapon and put your aim to the test. Head to the western shooting range!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/shootingrange2"
+msgid "Get ready to shoot at the targets! Take cover behind the sandbags! "
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec01"
+msgid "Welcome to the intensive training camp for special forces soldiers. In front of you is a combined obstacle course for different types of battles, which will help you get acquainted with the weapon in the closest possible conditions."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec02"
+msgid "When you're ready to take the course, go to the entrance."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec03"
+msgid "It is better to use a machine gun to pass the first stage. The most effective medium to long-range weapon against superior opponents."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec04"
+msgid "Once you're ready to climb over the fence, the obstacle course timer will begin. Take a position at the indicated point and hit all targets that rise."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec05"
+msgid "Well done! Not bad at all. Now, move on to the next stage."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec06"
+msgid "For combat in confined spaces, a submachine gun is best suited. Also, use grenades to quickly and safely clean the rooms."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec07"
+msgid "Hit all targets to complete this stage!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec08"
+msgid "Excellent. Keep moving."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec09"
+msgid "Remember, heavy anti-tank grenades can be used to blow up obstacles in your path."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec10"
+msgid "You can accurately throw grenades in direct control mode. Narrow windows and cracks are not a hindrance for you. Throw grenades inside these two fortifications and damage the barrels."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec11"
+msgid "You are a very capable soldier, just what the Reich needs. Let's proceed to the final stage."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec12"
+msgid "Get on the motorcycle. Hook up the cannon and move to the final point. In strategic mode, you can set the path for the unit if you hold down the \"Shift\" and give orders with the left mouse button."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec13"
+msgid "You're damn good. In the upcoming battles, Germany can rely on you."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec14"
+msgid "Complete amateurs are being hired now. You are a disgrace to Germany."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start1"
+msgid "Soldiers! Welcome to the Kummersdorf training camp. "
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start1_01"
+msgid "We expect nothing but the very best from all of you."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start2"
+msgid "We are on the brink of war! Here you will undergo basic combat training to defend the fatherland! First off, grab a helmet, grab your weapon and grab some ammunition. "
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/tanklimit"
+msgid "That tank must stay within the test-drive grounds."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/targets1"
+msgid "Shoot at the targets, soldiers! Steady your aim for as long as possible to get the most accurate shots."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/targets2"
+msgid "The Wehrmacht counts with the finest weaponry available to any infantryman. A variety of automatic and precision weapons are available on the tables. Some are more effective for short-range fights and others favor long-distance engagements. Use your preferred armament against the next set of targets!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive"
+msgid "Behold the latest design of our armed forces! The Panzer III. With this kind of armor, nobody can stop us. Feel free to board this tank and take it for a test drive."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive2"
+msgid "In front of you is an obstacle course. Move to the highlighted points and destroy targets as quickly as possible!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive3"
+msgid "For effective control of the tank, switch to direct control mode using the \"E\" key."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive4"
+msgid "Remember to choose the right weapon type. Use machine guns to destroy the infantry. In direct control mode, switch quickly to specific weapons using the keys 1-4 or right mouse click to cycle through all the weapons."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive_complete"
+msgid "Great job! I see this tank will become your favorite in battle."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/testdrive_fail"
+msgid "You disappoint me. You better not mess with the tank troops."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/tankman/ask"
+msgid "Damn it! Aaahhh! .... Hey, you! Can you lend me a hand here? I've injured my hand but I still have to get this tank up and running for this evening's exercises. If you can, get some repair tools and fix it!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/narrator/tankman/complete"
+msgid "Thank you very much, soldier. I see you have some useful skills!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/outro_completed"
+msgid "Just 2 weeks after this, the second world war started. The Gates of Hell were opened."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/outro_failed"
+msgid "Make sure you're ready to go to war. You will not survive without the right skills! Keep going, you will learn."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/place"
+msgid "Military training facility, Kummersdorf, Brandenburg"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/story"
+msgid "In this mission, you can learn the basics of gameplay."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/task1"
+msgid "Equip your soldier with a helmet, a rifle and ammo (at least 20 rifle rounds)."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/task2"
+msgid "Eliminate all the targets at the shooting range."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/task2_1"
+msgid "Blow up all the barrels with grenades."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/task3"
+msgid "Board the vehicle to conclude the military camp training."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt1"
+msgid "Go to the armored vehicle test area for vehicle test driving."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt2"
+msgid "Go to the repair workshop for mechanic training."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt3"
+msgid "Go to the AT gun shooting range for armored combat training."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt4"
+msgid "Go to the supply station for refuel training."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt5"
+msgid "Attend the MG and mortar shooting range training."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt6"
+msgid "Go to the advanced training course for special forces."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/taskopt7"
+msgid "Go to the engineering course."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/timer"
+msgid "Time to overcome the obstacle course:"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/1-training/timer_spec"
+msgid "Time to complete the special training course:"
+msgstr ""

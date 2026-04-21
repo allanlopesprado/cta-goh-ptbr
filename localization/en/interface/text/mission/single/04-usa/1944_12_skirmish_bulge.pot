@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_12_skirmish_bulge)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/name"
+msgid "Battle of the Bulge [SKIRMISH]"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/name_big"
+msgid "Battle of the Bulge"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/story"
+msgid "The Battle of the Bulge\n\nAfter the initial battles, you are surrounded by Germans. Time for a breakout attempt!\n\nGoals:\n - Break the encirclement.\n - Close the front."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/place"
+msgid "Region between Hotton and Bastogne"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/date"
+msgid "January, 1945"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/outro_completed"
+msgid "Well done! We'll drive them back to their starting point next!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/outro_failed"
+msgid "This is not the desired outcome. You need to regroup, and use different tactics!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/outro_failed_hq"
+msgid "We have been defeated at the Ardennes. With nothing to stop the Germans, they may get to Antwerp and cut our european armies in two!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/mission_attack"
+msgid "Punch a hole in the enemy position and drive east!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/narrator_start0"
+msgid "The German assault on the Ardennes has taken us by complete surprise! Lieutenant, This is your field HQ, as you know by now, we cannot afford to lose it!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/narrator_start1"
+msgid "The Krauts hit us hard during Christmas, but our new year's resolution is to turn the tables on their offensive! Seize the initiative and drive the Nazis back to Germany!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/narrator_start2"
+msgid "Expect heavy resistance from their well-trained and battle hardened troops."
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/narrator_start3"
+msgid "Begin the attack, Lieutenant! Show them what we're made of!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/allied_enemy_near_hq"
+msgid "Gentlemen! Germans are close to our Field HQ!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/allied_enemy_plane2"
+msgid "German aircraft inbound!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/player_enemy_near_hq"
+msgid "We must hold our command post! You have your orders!"
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_12_skirmish_bulge/hq_bonus"
+msgid "Lieutenant! Now may now request an airstrike. The skies have cleared since the Krauts began their offensive, and now wse may resume our air supremacy!"
+msgstr ""

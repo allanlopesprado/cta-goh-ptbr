@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_08_19_falaise_escape)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/date"
+msgid "August 19th, 1944 · Magny, Normandy, France"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/name"
+msgid "Escaping the Pocket"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/name_big"
+msgid "Escaping the Pocket"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/01"
+msgid "Fallschirmjäger! We need to cross the river if we want to escape the Allied encirclement. The river current makes it impossible to swim with all our equipment attached."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/02"
+msgid "We have spread out into small squads to try to get through the Allied lines. This sector has Americans at every corner, so watch out!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/03"
+msgid "Your first objective is to approach the bridge at Magny. We will see if it's possible to cross the river at this point."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/04"
+msgid "It is up to you to either sneak through or blast your way through. But we are at a severe disadvantage. So pick your fights very carefully."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/05"
+msgid "The shrubbery, the rain and the darkness make it very difficult to spot the enemy. Move carefully and assume that wherever there may be lights, there will be Americans."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/06"
+msgid "This bridge is no good. It's barricaded and swarming with Americans. We also risk them blowing it up if we get into a firefight. We need to find another way!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/07"
+msgid "I hear gunshots! Kameraden, there is another squad being pinned down. Go and assist them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/08"
+msgid "Fallschirmjäger! It's good to see you. We bring bad news from Magny. The bridge is a no-go. Have you found another way out?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/09"
+msgid "And what is all that artillery gunfire?"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/10"
+msgid "... Hmm...  Some of us here speak french and english. I wonder if we could convince the canadians to fire at their own allied positions by the river ford..."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/11"
+msgid "Excellent, we have a plan of attack! Go to that manor and get hold of an American Radio back pack."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/12"
+msgid "Excellent work. And there's all the maps laying around, too! Now, we shall transmit the river ford coordinates."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/13"
+msgid "The artillery should have done its work. Fallschirmjäger! Cross the river by the ford!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/14"
+msgid "Good job Fallschirmjäger! The last job for today is to fight your way to the extraction point, let's go!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/15"
+msgid "Everybody, cross over to the north-east side of the river! The Allied forces are arriving in large numbers to our previous positions!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/wounded"
+msgid "I also see you have wounded soldiers! We will try to get you some medical supplies!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/01"
+msgid "Jawohl Herr Hauptmann! We located a ford in the river, but the Americans spotted us and ruhed a whole damn armored column in to cover it."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/02"
+msgid "The Canadians and Americans want to prove whose artillery is more accurate. They've been firing at multiple coordinates all evening."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/03"
+msgid "We could definitely try, Herr Hauptmann! I believe the enemy is directing the artillery from a radio station inside the nearby manor. "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/outro_completed"
+msgid "Good work! This result would be called a victory if it wasn’t for the fact we are retreating. But since you succeeded, we have a fighting chance to keep the allies from breaking out in the direction of Paris. Well done!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/outro_failed"
+msgid "This is very bad news. We should have gotten out of this situation in order to regroup, but largely due to this failed breakout we’re suddenly a lot more likely to be taken prisoner, and that includes you! "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/place"
+msgid "3rd Fallschirmjäger Division "
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/skip"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/story"
+msgid " August 1944. The German counterattack at Mortain has failed to achieve its goals, and the allies are breaking out of the bridgehead. The threat of encirclement is real; but even now, Hitler demands new counter attacks in the direction of Avranches. A few days later he finally approves a retreat east. But around Falaise the remnants of no less than 14 divisions, including yours, are being pushed back into a pocket, and the few roads east from Falaise are constantly under attack by allied aircraft and artillery. High command has ordered a breakout by night.\n\n In this mission, the plan for you and the 3rd Fallschirmjäger Division is to break out of the encirclement in small groups. You will command one group, and you are to infiltrate and push through the allied lines, while creating some big distractions to get their attention. Your first assignment is to find a way for the division to cross the river Dives. Once you have found a suitable place to cross, report to 3rd FJ division command, after which further instructions will be issued.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task1"
+msgid "Approach the Magny bridge to perform reconnaissance."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task2"
+msgid "Rescue the friendly squad."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task3"
+msgid "Acquire an American portable radio to give false artillery coordinates in order to eliminate the US forces at the ford."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task4"
+msgid "Cross the river by the fording area."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task5"
+msgid "Escape the falaise pocket by fighting your way to the extraction point."
+msgstr ""
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/taskopt1"
+msgid "Bring medical supplies to the wounded soldiers."
+msgstr ""

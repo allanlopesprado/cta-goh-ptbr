@@ -1,0 +1,461 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_09_elbrus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_01"
+msgid "Greetings! We are on our way to the \"Hotu-Tau\" pass. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_02"
+msgid "Negative, we're short on time and the Soviets may get there first."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/ally_officer/p2_03"
+msgid "Roger, if we do get back, we will definitely be in need of a drink!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/date"
+msgid "September 1942 · Mount Elbrus, Caucasus"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_01"
+msgid "Damn, look, a corpse!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_02"
+msgid "The enemy is here. We need to raise the alarm!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_03"
+msgid "Alarm! Enemy contact!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_04"
+msgid "We're under attack! Sound the alarm immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_04_shot"
+msgid "This is shooting! We are under attack, raise the alarm, right now!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_05_a"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_05_b"
+msgid "Hmm... What is it over there?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_06_a"
+msgid "Who is there?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/extra_person/p1_06_b"
+msgid "What was it?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/gameover/won"
+msgid "Good job!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/name"
+msgid "Among the heavens"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/name_big"
+msgid "Among the heavens"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/outro_completed"
+msgid "Machine gun fire echoed across the mountains for several hours. Slowly the tide of battle turned against Lieutenant Grigoryants and his men. Only 4 men from his detachment made it back alive. The Lieutenants body was one of many that slipped down the mountain slope."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/outro_failed"
+msgid "The Soviets, having seen the vulnerability of isolated stations like the one you just lost, will now raid every single strategic point in this mountain range and by the end of 1942, the entire Caucasus might be lost. The 11th Army will very likely get pushed all the way back into the Taman Peninsula."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_01"
+msgid "We are almost there."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_02"
+msgid "Our task is to capture \"Shelter of the Eleven\", ideally without raising the alarm."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_03"
+msgid "They don't expect us. We have the element of surprise."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_04"
+msgid "We should eliminate any enemy patrols along the way."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_05"
+msgid "Correct, our tracks will go unseen. Visibility is poor and we can get close to their patrols without being seen."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_06"
+msgid "They raised the alarm! It's going to get much tougher."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_07"
+msgid "Take defensive positions around the building, I will contact HQ. Our reinforcements will deal with the remaining enemy units."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_08"
+msgid "The Reich will be proud of you soldiers. Excellent work!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_09"
+msgid "The hotel is in front of us. You should quietly silence the perimeter without being spotted."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_10"
+msgid "Capture the building, take out all the Bolsheviks! Kill everyone around the shelter."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_01"
+msgid "The enemy will now make their next move. Gather the squad for a briefing!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_02"
+msgid "Gentlemen, listen up."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_03"
+msgid "Our scouts have spotted Soviet movement five kilometers to the northeast. We must assume that they will try to recapture this position."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_04"
+msgid "We need to get ready for anything. Plant explosives around the area."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_05"
+msgid "What the hell?!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_06"
+msgid "Save the explosives for the Bolsheviks!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_07"
+msgid "Don't waste your bullets! We will need every round for the Soviets’ attack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_08"
+msgid "You have a good supply of mines at your disposal. Mine the four slopes in this sector, and prepare defensive positions. Choose the best defensive positions. We know that the Soviets can attack from 4 possible directions. Place the machine gun points among the stones, to control possible attack directions. Don't let the Soviets take over the Shelter!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_09"
+msgid "All slopes are mined - excellent work. This will give us an additional ace up our sleeves."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_10"
+msgid "We'll hold this position for the time being."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_11"
+msgid "Nice to see you! Can we treat you to a warm drink?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_12"
+msgid "Good luck with your mission! We found several bottles of vodka here, when you get back we can share them."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_15"
+msgid "Any moment now, stay on high alert!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_01"
+msgid "Move into position immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_02"
+msgid "Excellent! Get on the radio to HQ and report the enemy is attacking the \"Shelter of the Eleven\". Tell them we are outnumbered and that we need reinforcements immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_03"
+msgid "Hold your positions at all costs and buy them some time!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_04"
+msgid "Great, now to the generator."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_05"
+msgid "There's too many of them! We need reinforcements."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_06"
+msgid "Find a repair kit and fix the generator immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_07"
+msgid "Just in time!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_08"
+msgid "Damn! They have deployed mortars on the north!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_09"
+msgid "Destroy the enemy mortars immediately or we will be done for!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p3_10"
+msgid "It looks like these are all their remaining troops. Kill them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_01"
+msgid "Numerous enemy patrols are to be expected."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_02"
+msgid "The blizzard will conceal our movement."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_03"
+msgid "The area is ours. There are still a few patrols around, but the hotel is secured."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p1_04"
+msgid "The area is secure! All hostiles have been silenced, the remaining Soviets fled northeast."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_01"
+msgid "The storm has cleared. What a beautiful view."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_03"
+msgid "The northeastern slope is mined."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_04"
+msgid "The eastern slope is mined."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_05"
+msgid "The northern slope is mined."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_06"
+msgid "The northwestern slope is mined."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_07"
+msgid "I am glad we're done here. Frostbite is starting to creep in..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p2_08"
+msgid "How much longer before the Soviets arrive?"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_01"
+msgid "Alarm! Alarm! Herr Leutnant, the Soviets are coming!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_02"
+msgid "We ran into Russian forces on the northwestern slope. We exchanged fire, but we had to retreat. There's too many of them!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_03"
+msgid "The generator is fixed! We can contact HQ now."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_04"
+msgid "HQ is deploying a nearby squad to our position. It will take a couple of minutes for them to arrive."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_05"
+msgid "I think I see what's wrong with it. This is pretty easy to repair."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_06"
+msgid "Herr Leutnant, we could use the generator to power the radio, but it's broken down."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_07"
+msgid "Yes sir! If I remember correctly, I saw one around the houses on the southeastern slope."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_08"
+msgid "Yes sir! I think I saw one around the huts near the hotel."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_09"
+msgid "Yes sir! I vividly remember seeing a repair kit near the hotel."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_10"
+msgid "The reinforcements have arrived."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_11"
+msgid "Soviet infantry coming from the northeastern slope!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_12"
+msgid "Soviet squad spotted on the eastern slope!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_13"
+msgid "Enemies spotted coming from the northern slope!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_14"
+msgid "Enemy approaching from the northwestern slope!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_15"
+msgid "Mortars eliminated!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_16"
+msgid "They are retreating! We repelled the attack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/place"
+msgid "1st Gebirgsjägerdivision"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/story"
+msgid "During the 'Fall Blau' offensive, the 'Shelter of the Eleven', a mountaineer hotel, becomes a refuge to the Gebirgsjäger. An attempt to recapture the refuge should be expected."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_01"
+msgid "Don't raise the alarm!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02"
+msgid "Find a repair kit"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02_1"
+msgid "Take the repair kit to the generator room"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_03"
+msgid "Mine the northeastern slope"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_04"
+msgid "Mine the eastern slope"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_05"
+msgid "Mine the northern slope"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_06"
+msgid "Mine the northwestern slope"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_01"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/sec_task_03"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_01"
+msgid "Capture the \"Shelter of the Eleven\""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_02"
+msgid "Prepare to defend the hotel"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_03"
+msgid "Defend the Shelter of the Eleven"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_04"
+msgid "Destroy the enemy mortar battery"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/task_05"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_01"
+msgid "August 1942. Mountain Elbrus, near the \"Shelter of the Eleven\"."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_02"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_03"
+msgid "Finish the preparation phase"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_03_hint"
+msgid "If you are sure you are ready, click to complete the preparation phase."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_04"
+msgid "Prepare to defend your position. Lay down explosives and use this time to resupply your men. When you are ready, press the button to end the preparation phase."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_05"
+msgid "You can find additional ammunition in boxes."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_05_1"
+msgid "Place charges on mountain slopes. Place them in places where you expect the enemy to pass in the direction of the shelter. Use the scout to detonate the charges when the enemy passes there."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_06"
+msgid "The reinforcements will arrive in:"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_07"
+msgid "Blow up the northeast"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_07_hint"
+msgid "Detonate the charges on the northeastern side."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_08"
+msgid "Blow up the east"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_08_hint"
+msgid "Detonate the charges on the eastern side."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_09"
+msgid "Blow up the north"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_09_hint"
+msgid "Explosive charges laid in the north."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_10"
+msgid "Blow up the charges on the northwestern side"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1942_09_elbrus/text/text_10_hint"
+msgid "Detonate the charges on the northwestern side."
+msgstr ""

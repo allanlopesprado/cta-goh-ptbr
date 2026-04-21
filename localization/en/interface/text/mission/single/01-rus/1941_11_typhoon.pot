@@ -1,0 +1,150 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_11_typhoon)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/arty_strike"
+msgid "Artillery support"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/arty_strike_hint"
+msgid "Click on the area to bombard."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/date"
+msgid "November 16th, 1941 · Volokolamsk, near Moscow."
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/01-rus/1941_11_typhoon/dummyguns"
+msgid "%1% out of 5 dummy guns built. You need to take 2 cords of wood to each of the emplacement locations. Dummy guns will attract enemy artillery fire."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/name"
+msgid "Absolute zero"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/name_big"
+msgid "Absolute zero"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/assistant/01"
+msgid "Select the artillery barrage and click on the designated firing area. Obtain points by kills."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/assistant/02"
+msgid "Enemy artillery is about to fire on the crosshair location."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/01"
+msgid "Comrades, welcome, great timing. We're seriously down on manpower here. Wait... Is this all of you?!!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/02"
+msgid "Well... we're up shit creek without a paddle! We know the fascists want to smash through here to get to Moscow. We must do everything we can to stop them!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/03"
+msgid "They're attacking! Get our artillery ready to kill them! Hold the line!!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/04a"
+msgid "I think that plane was a spotter! Enemy artillery will attempt to destroy our AT guns!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/04b"
+msgid "That plane is scouting for our AT guns! Enemy artillery will shoot at whatever he observed!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/05"
+msgid "The High Command has mobilized our reserves, including a new prototype tank. Comrade, no German vehicle will survive a shot from this monster. Send the Fascist vermin back to hell where they belong!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/06"
+msgid "The Fascists have entered the village! Take them out immediately, or we will be done for!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/officer/fail"
+msgid "You had been ordered to not let the Germans inside the village! There is no room for cowards and traitors in our Red Army!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01"
+msgid "Fetch these coordinates! Give them hell!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01b"
+msgid "Fire on these coordinates! I want to hear them scream!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/01c"
+msgid "Open fire! Give them hell!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/02"
+msgid "Artillery reloaded! Awaiting targets!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/player/03"
+msgid "We should lay mines. We must man the AT guns. Let's go!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/01"
+msgid "The Germans use spotters to find targets for their artillery and their planes. We've collected some timber to build dummy guns. If you care for your men - you better distract their artillery! "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/02"
+msgid "Artillery ready! Awaiting coordinates!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/narrator/scout/03"
+msgid "Artillery is down! We'll have to do without the big guns!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/outro_completed"
+msgid "Operation Typhoon started with great prospects for the Germans, but soon the tenacious Soviet resistance made it harder and harder for the Germans to make further gains. The harsh winter conditions, the constant attrition of combat and the stubbornness of the Soviet defenses slowed the relentless Blitzkrieg to a standstill. With fresh reserves from the east, the Stavka would order a counterattack. The road to Berlin was to begin. The outcome of the Great Patriotic War was now inevitable.\n\n For the successful defense of the station of Dubosekovo, a number of monuments were built in honor of Panfilov’s 28 men who were collectively declared heroes of the Soviet Union. In reality, the story turned out to be fabricated. There were many more men in the fight, and the losses for the 8th\n Guards Rifle Division were much greater. Comrade General Panfilov died two days later, on November 18th."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/outro_failed"
+msgid "Because you were unable to stop the attack, the Germans march on unopposed and will most likely surround Moscow very soon. Our reinforcements from the east will not make it in time to hold Moscow. This will be a huge blow to morale!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/place"
+msgid "1075th Rifle regiment"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/scenario"
+msgid "Volokolamsk road. Less than 100 km away from Moscow."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/skip"
+msgid "Skip preparation stage"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/story"
+msgid "The German forces launch an attack on Volokolamsk during “Operation Typhoon”, in order to circumvent the northern part of the Moscow defense line."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/task1"
+msgid "Do not let the enemy reach Dubosekovo!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/task_guns"
+msgid "Build dummy guns to bait the enemy artillery fire."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/timer"
+msgid "Prepare positions!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1941_11_typhoon/timer_village"
+msgid "The Germans have entered the village! Clear it out and don't let them enter again!"
+msgstr ""

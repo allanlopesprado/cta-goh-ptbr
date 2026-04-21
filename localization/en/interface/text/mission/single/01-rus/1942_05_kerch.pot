@@ -1,0 +1,543 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_05_kerch)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1942_05_kerch/date"
+msgid "May 12th, 1942 · Kerch peninsula, Crimea"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/name"
+msgid "Operation Bustard Hunt"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/name_big"
+msgid "Operation Bustard Hunt"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_01"
+msgid "What is that in front of us?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_02"
+msgid "It's an enemy tank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_03"
+msgid "Dismount, everybody out!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_05"
+msgid "Men! Take out that tank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_06"
+msgid "Flank the enemy at once, otherwise, our comrades will be obliterated."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_06_1"
+msgid "Enemy aircraft! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_07"
+msgid "We will mourn them later. Keep going, otherwise, we will be dead too!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_08"
+msgid "Comrades, you are now under my command."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_09"
+msgid "We must protect our trucks along the length of the entire road!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_10"
+msgid "Prepare defensive positions, dig trenches and foxholes, and mine the approaches to the road! You can find ammunition and mines in the trucks."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_11"
+msgid "We were attacked by enemy recon units."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_12"
+msgid "The Germans broke through to the road, regain the initiative and drive them out!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_13"
+msgid "Secure the positions near the road! Drive the Germans away!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_14"
+msgid "We need to send scouts up ahead. Ivanov, move forward and report German movement."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_15"
+msgid "They are coming back in full strength. Hold positions!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_16"
+msgid "We must use this time to strengthen the defenses."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_17"
+msgid "Hold the right flank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_18"
+msgid "Hold the left flank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_19"
+msgid "Hold the center! We can't lose it!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_20"
+msgid "We are losing too many transports! Do something!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_21"
+msgid "You failed at protecting the convoy, you will be held accountable!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_22"
+msgid "We are still losing trucks! Do something!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_23"
+msgid "They destroyed our trucks! Take back the road!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_24"
+msgid "We must warn the remaining convoy so they can take another route."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_25"
+msgid "Excellent! Retreat to the prepared line of defense."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_26"
+msgid "We have lost the anti-aircraft gun, we can't shoot down any aircraft!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_27"
+msgid "We have lost a few trucks, but you completed the task!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_28"
+msgid "To retreat, move your soldiers onto the road and you will leave this sector. Any soldier that remains fighting in the open will sacrifice himself here, covering your retreat. "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_01"
+msgid "We have almost reached our position."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_02"
+msgid "What the hell?! The Fascists have already reached the first line of defense. Stand your ground! Move into position and hold the line!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_03"
+msgid "The Germans are moving from the west towards the trucks! Protect the vehicles to the last man!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_04"
+msgid "We regained control of the defense line!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_07"
+msgid "The truck driver is down! Now the truck is a sitting duck!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_08"
+msgid "They destroyed the truck, damn it! Do something about it!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_09"
+msgid "We've managed to do our best holding this defensive perimeter, but we must now pull back to the second line of defense!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_10"
+msgid "Hold the line at all costs!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_11"
+msgid "We're losing ground too fast, damn it! We're pulling back to the second line of defense!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_12"
+msgid "The Germans are coming from the northwest!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_13"
+msgid "The Fascists are coming from the beach!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_14"
+msgid "The enemy is advancing along the center, aim your guns towards the road!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_15"
+msgid "The enemy has captured our first line!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part2_16"
+msgid "Requesting naval artillery support!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_01"
+msgid "What happened here?"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_02"
+msgid "I will grant you reinforcements. Don't waste them, and don't allow the enemy to destroy any of our convoys."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_03"
+msgid "I will go to HQ with Belousov to report German movements. Belousov, get into the second truck!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_04"
+msgid "I will go to HQ to report on the situation. "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_04_1"
+msgid "Good luck comrades."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_05"
+msgid "HQ allocated reinforcements to cover the column! Use the anti-aircraft gun to destroy the enemy fighter aircraft."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_06"
+msgid "We are preparing the main defensive position. As soon as the column is safe, pull back!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_01"
+msgid "It is nice to see you alive and well, comrade. We have a critical situation. The Germans broke through the defenses in the nearby sector and are dashing towards our position. Our right flank was completely obliterated."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_02"
+msgid "Take command of several of my soldiers. I also transfer my medics to your command. Try to treat the wounded and stabilize the frontline!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_03"
+msgid "On the south, German planes bombed the last convoy. Two cars loaded with wounded soldiers were left stranded. You must protect the vehicles from enemy attacks at any rate! Use the landscape as cover, and don't let the enemy kill our wounded!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_04_lost"
+msgid "They destroyed our line of defense! You were unable to cope with the task at hand. Traitor!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_05"
+msgid "Great job, you regained control of the defense line. There is no time to waste. The main German forces can be here at any moment. Distribute the troops along the defense line. Try to make the surviving guns and tanks operational, the Germans will press us without mercy."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_06"
+msgid "HQ reports it will take a considerable amount of time to evacuate. We need to delay the enemy for as long as possible and then retreat away from the sector. You will be informed of the progress of the evacuation."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_07"
+msgid "They're hitting us hard! Take some of the reserve troops and plug in the gaps along the defensive line!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_09"
+msgid "They're heading to the evacuation point across the beach! Don't let them get through!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_10_line2_lost"
+msgid "You lost the second line of defense, now the Germans have nothing stopping them from reaching our ships!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_11"
+msgid "The Black Sea fleet light cruiser 'Voroshilov' is nearby, they are ready to provide us fire support. Try to fire on large enemy troop concentrations, at this range the accuracy of the barrage will be low."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_12"
+msgid "Our aircraft have reported enemy artillery movement into our sector. They will likely deploy them in the whereabouts to shoot at our naval vessels. I'll report the situation to headquarters!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_13"
+msgid "Enemy artillery has begun to fire at our ships! We must stop them! Our comrades' blood is in your hands!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_13_1"
+msgid "The Germans have broken through! You have failed to protect the evacuation point."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_14"
+msgid "HQ is now granting you our last reserves to break through the Germans and destroy the enemy artillery!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_01"
+msgid "The enemy plane has been hit! We're putting our air force to shame with our endless retreat!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_02"
+msgid "I'm engaged!!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_03"
+msgid "Tank moving to the right flank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_04"
+msgid "Tank moving to the left flank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_05"
+msgid "German squad on the right flank!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_05_1"
+msgid "We're fighting out in the open. Enemy aircraft will shred us to pieces."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_06"
+msgid "Comrade commander, we have lost Voloshin's squad!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_07"
+msgid "The enemy is retreating!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_08"
+msgid "The enemy has been destroyed."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_09"
+msgid "The convoy is on its way!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_10"
+msgid "The next convoy is here!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_11"
+msgid "Another convoy is on its way!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_12"
+msgid "Incoming Germans!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_13"
+msgid "Another wave of Germans!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_14"
+msgid "They stopped pressing!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_15"
+msgid "We are under attack from that Messerschmitt! Shoot it down!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_16"
+msgid "Plane inbound from the seaside!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_17"
+msgid "Enemy airplane incoming from the west!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_18"
+msgid "Enemy fighter coming from the east!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_19"
+msgid "Got 'em!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_21"
+msgid "Out of range... I hope he will not strafe our convoys..."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_22"
+msgid "They are doubling their efforts!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_23"
+msgid "Artillery strike! Take cover!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_24"
+msgid "The Fascists are coming at us once more!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_26"
+msgid "We haven't lost any trucks! Great!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_01"
+msgid "We fixed the first truck. It's heading out."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_02"
+msgid "The second truck is also leaving!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_03"
+msgid "The truck has left this area!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_04"
+msgid "The trucks have left this area!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_05"
+msgid "Artillery shelling, take cover! Lie down in your trenches! "
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_06"
+msgid "They're coming!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_07_beach"
+msgid "The enemy is coming in from the coastline!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_08"
+msgid "The last ship sailed away from the coast. A job well done, comrade!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_09"
+msgid "Enemy artillery took up positions on the shore! It will take time to adjust their guns to fire. Something needs to be done immediately, commander."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_10"
+msgid "Their artillery missed by a hundred meters! They are zeroing in fast!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_11"
+msgid "The enemy has missed our ship by a mere couple of meters!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_12"
+msgid "They sank our ship!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part2_13"
+msgid "We destroyed the enemy battery! Our ships are safe!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/opt_task_01"
+msgid "Mine the approaches to the road"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/opt_task_01_1"
+msgid "Dig trenches and foxholes to defend the road"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/opt_task_02"
+msgid "Shoot down the German plane!"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/outro_completed"
+msgid "Eventually, the Red Army evacuated what was left of the 44th Army by sea. A rearguard was left behind to cover the evacuation, which took place on the east beaches. Some 116,000 soldiers escaped. Later that summer, Sevastopol fell; but the Red Army would return in 1944 to take it all back."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/outro_failed"
+msgid "Because you did not do enough to delay the Germans, they are now driving toward the east beaches! The evacuation will turn into a bloodbath. After that, the Germans will be able to cross into the Taman Peninsula almost unopposed. Their attack plan for next year can now be altered to include an army group marching on Maikop from just 300 km to the west."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/part1_retreat_button"
+msgid "Retreat"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/part1_retreat_button_hint"
+msgid "Order soldiers to retreat to allied positions"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/part2_naval_art"
+msgid "Naval artillery"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/part2_naval_art_hint"
+msgid "Shelling of naval artillery"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/place"
+msgid "44th Army"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/sec_task_01"
+msgid "Not a single truck should be destroyed"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/start"
+msgid "May 5th, 1942. Kerch peninsula"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/story"
+msgid "What the Germans call Operation Bustard Hunt is now underway. The Red Army tries to stop them, having built defensive lines stretching from coast to coast across the peninsula."
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_01"
+msgid "Destroy the enemy tank and infantry"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_02"
+msgid "Dig in and prepare the defensive line"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_03"
+msgid "Protect the retreating convoy from the enemy"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_03_1"
+msgid "Send a soldier to warn the convoy"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_04"
+msgid "Go to the frontline and take command"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_05"
+msgid "Get to the positions and find out about the situation"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_06"
+msgid "Take back control of the position and protect the trucks with the wounded"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_07"
+msgid "Hold the first line of defense"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_08"
+msgid "Hold the second line of defense"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_09"
+msgid "Defend the Soviet Evacuation from the Peninsula"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/01-rus/1942_05_kerch/task_09_loaded"
+msgid "%1%% loaded to ships"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/task_10"
+msgid "Attack and destroy the enemy artillery battery"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/timer"
+msgid "Time to warn the convoy:"
+msgstr ""
+
+msgctxt "mission/single/01-rus/1942_05_kerch/timer_convoy"
+msgid "Next convoy in:"
+msgstr ""
+
+#, boost-format
+msgctxt "mission/single/01-rus/1942_05_kerch/trucks_lost_1"
+msgid "You lost %1% of 5 trucks"
+msgstr ""

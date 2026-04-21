@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_09_20_marketgarden_skirmish)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/name"
+msgid "The Dash of XXX Corps [SKIRMISH]"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/name_big"
+msgid "The Dash of XXX Corps"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/story"
+msgid "It’s day 5 of Market Garden, and today will decide the outcome of the entire operation. \n\n XXX Corps has been advancing despite fierce German counterattacks on the motorway they’re using, which has already been dubbed 'Hell’s Highway'. \n\n Despite the constant counterattacks from east and west of the highway, you’ve advanced all the way to Nijmegen. \n\n Unfortunately, we have no intel on German strength and position in the area, so we should start moving forward and find out where they are ourselves. The Paratroopers are waiting for us at the very next bridge, just 7 miles away. Let’s go!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/place"
+msgid "XXX Corps"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/date"
+msgid "September 20th, 1944 · Nijmegen, Netherlands"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_completed"
+msgid "You’ve done the king proud! This will surely earn a mention in dispatches. The entire operation seems doomed, but now at least we can push on and give Market Garden one last chance; we will see what happens next. Splendid soldiering!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_failed"
+msgid "Too bad, commander! The Germans reacted more efficiently than we expected, putting the entire operation at risk. We should have found a way through the German positions but we didn’t, who’s going to tell General Horrocks?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_failed_hq"
+msgid "That borders on disaster. We failed to secure a win, you need to go back and get another effort going!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/mission_hq"
+msgid "You must hold North bridgehead!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/mission_attack"
+msgid "Punch a hole in the enemy position and drive north!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/narrator_start0"
+msgid "Welcome back to the front line, Lieutenant! This is north bridgehead, it must remain in our control!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/narrator_start1"
+msgid "Operation Market Garden is in critical phase, push towards Arnhem must be attempted at all costs!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/narrator_start2"
+msgid "Be quick, be decisive, and try not to lose too many men! Use the terrain to your advantage."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/narrator_start3"
+msgid "More reinforcements will become available as you progress with your assault!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/allied_enemy_near_hq"
+msgid "Gentlemen! Germans are close to our Field HQ!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/player_enemy_near_hq"
+msgid "We must hold our command post! There is no room for surrender!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/player_rescue"
+msgid "Americans from 82nd Airborne are bogged down ahead! Let's help them out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/para_survivors_assign"
+msgid "Good to see you, Lieutenant! We didn't think we'd make it! Our men are under your command."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/rescue"
+msgid "Rescue stranded paratroopers!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/secret01"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/secret01_completed"
+msgid "Secret objective #1: Wicked! - incinerated enemy soldiers"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/secret02"
+msgid "Secret objective #2"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/secret02_completed"
+msgid "Secret objective #2: Tamed the cat! - captured German panther."
+msgstr ""

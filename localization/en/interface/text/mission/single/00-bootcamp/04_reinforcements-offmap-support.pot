@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (04_reinforcements-offmap-support)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/complete"
+msgid "Congratulations, you have finished the fourth tutorial (Reinforcements)."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/date"
+msgid "June 25th, 1941 · Border with the USSR"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint_video"
+msgid "Press this button to re-watch the video for this tutorial phase."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/name"
+msgid "Tutorial 4: Reinforcements"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/name_big"
+msgid "Reinforcements"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00"
+msgid "Soldaten! Welcome back to the front line! Today you will learn advanced strategies like requesting reinforcements from HQ and using support weaponry like the artillery signaller."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00a"
+msgid "First, call in a 'Rifle Squad'. Once they arrive, order them into the trenches."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00c"
+msgid "Excellent! New units are available to reinforce your defenses!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/reinf_info4"
+msgid "When you hover your cursor over each reinforcement button you will see additional information."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/reinf_info5"
+msgid "Currently, the Manpower points (MP) available to you are limited, but there is enough for you to call in the required units. Depending on the situation, additional points may be awarded for completing objectives."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/01"
+msgid "Now, call in a MG 34, a 8cm mortar, and a 2cm Flak. Place them on the frontline to defend our HQ."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/02"
+msgid "Prepare your units to defend the front line. Our scouts provided an estimated time before the enemy attack will arrive."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/skiphelp"
+msgid "A new reinforcement option is unlocked: 'Skip preparation phase'. It will allow you to skip the current preparation phase and begin the next phase. Often it is the enemy attack."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/artyzone"
+msgid "You must call artillery on the active battlefield of the map to complete its task."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/airstrikezone"
+msgid "You must call the target area within the map borders for the air strike to complete it's task."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/03"
+msgid "Good job, they are running away! Your next objective is to call in an Artillery Signaller."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/03b"
+msgid "Crawl to approach the enemy outpost undetected, then signal for an artillery bombardment by firing a flare with your flare pistol."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/04"
+msgid "Excellent work! Now we must destroy the enemy and capture their HQ."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/04b"
+msgid "You now have additional units and resources available to call in for reinforcements."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/05a"
+msgid "Airstrikes and artillery strikes are now available to be called in."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/05b"
+msgid "Your orders are to attack the enemy with both air and artillery strikes!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/05c"
+msgid "Intelligence suggests Russians have a heavy tank at their HQ. An airstrike would be most effective to deal with that problem!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/reinf_arrive"
+msgid "Reinforcements are here!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/reinf_arrive_alt"
+msgid "Reinforcements have arrived!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/timer"
+msgid "Prepare to defend the frontline"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/skiphint"
+msgid "Skip the preparation phase when you’re ready!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/defendstatus"
+msgid "Repel the enemy attack"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/outro_completed"
+msgid "Mission Accomplished!\n\n"
+"Click on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/place"
+msgid "Army Group Centre"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/replay_video"
+msgid "Replay Video"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/story"
+msgid "Welcome to support weaponry training, Soldier.\n\n"
+"In this tutorial, you will learn the basics of reinforcements. This includes calling in additional standard units and requesting support assets such as artillery and air strikes.\n\n"
+"                                      Good luck!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task0"
+msgid "Call in the Rifle Squad and move them into the trenches!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task1"
+msgid "Call in a MG 34, a 8cm Mortar and a 2cm Flak. Place them on the frontline (green outline) to defend our HQ!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task2"
+msgid "Skip Preparation Phase."
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task3"
+msgid "Call in the Artillery Signaller!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task4"
+msgid "Carefully advance towards - and shoot a flare at - the enemy outpost!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task5"
+msgid "Capture the enemy HQ"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task6"
+msgid "Call off-map Airstrike on enemy targets!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task7"
+msgid "Call off-map Artillery on enemy targets!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/outro_failed"
+msgid "You have been defeated!"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/sdkfz222"
+msgid "Sd.Kfz 222 Ausf.A"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/mg34_lafette"
+msgid "Lafette MG 34"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/80mm_sgrw34"
+msgid "8cm sGrW 34"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/20mm_flak30"
+msgid "2cm FlaK 30"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/inf"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/signaller"
+msgid "Artillery Signaller"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/panzer4f1"
+msgid "Pz.Kpfw IV Ausf.F1"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/airstrike2"
+msgid "Bf 110 Airstrike"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/artystrike"
+msgid "Artillery Strike"
+msgstr ""
+
+msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/skip"
+msgid "Skip preparation phase"
+msgstr ""

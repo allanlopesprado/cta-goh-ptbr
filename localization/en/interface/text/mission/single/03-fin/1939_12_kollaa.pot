@@ -1,0 +1,470 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1939_12_kollaa)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/ally_ambush_ready"
+msgid "We set up our positions and are ready to greet our guests. Tell us when you're ready, too. I bet Ivan will show up right after the snowstorm ends, so hurry."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/ally_ambush_spawn"
+msgid "The Soviet columns drive on the main road and railroad. My platoon is on the way to intercept. Please take care of the rest."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/ammobox_exploded"
+msgid "This may not be the Juhannus festival, but Ivan's artillery made for a great fireworks display. Good job, everyone!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/date"
+msgid "December 7th, 1939 · Kollaa River, Finland"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/gameover/kollaa_lost"
+msgid "The Soviets broke your defensive lines."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/gameover/units_dead"
+msgid "You lost all your men!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/gameover/win"
+msgid "Kollaa did not fall!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_officer_01"
+msgid "Here are some of our retreating troops from Suojärvi. They had a tough battle before, and now Ivan is on their heels. We expect them to arrive in the morning."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_officer_02"
+msgid "The retreating troops will take and fortify our main defensive positions behind the river. However, they are not ready to receive the red tide yet. We must slow them down here, while our main line prepares."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_officer_03"
+msgid "Your objective is to set up ambushes along the forest area. The allied units will support you by taking positions along the main road and the railroad. You have to support each other if things get hairy!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_soldier_01"
+msgid "It's so cold out here, I can't even sneak into the bushes to answer nature's call."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_soldier_02"
+msgid "Maybe so… Simo, what kind of sniper does not use a scope anyway?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_wd_01"
+msgid "This cold is our greatest ally. It will slow down the enemy more than any of our bullets."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/intro_wd_02"
+msgid "I’m more accurate and harder to detect without it!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_base4"
+msgid "We lost our positions at Base 4!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_trench_02"
+msgid "We lost our positions on the left side of the main road!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_trench_03"
+msgid "Soviet forces have captured our positions right of the main road!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_trench_04"
+msgid "The enemy has captured one of our positions in the center!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_trench_05"
+msgid "The enemy has captured one of our positions on the left flank!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/lost_trench_06"
+msgid "The enemy has captured our positions at the railroad!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/name"
+msgid "Kollaa Kestää"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/name_big"
+msgid "Kollaa Kestää"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/objective_progress"
+msgid "Engineers can install %1% more AT mines"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task01"
+msgid "Hold the Kollaa line at all costs!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task02"
+msgid "Destroy the Soviet vanguard forces"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task03"
+msgid "Hold the positions near the railroad"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task04"
+msgid "Hold the positions near the main road"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt01"
+msgid "Set up the ambush positions using terrain (at least 3)"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt02"
+msgid "Wait until both Soviet columns are fully visible before opening fire to maximize the element of surprise"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt03"
+msgid "Simo Häyhä, the \"White Death\" must survive"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt04"
+msgid "Destroy artillery emplacements"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt05"
+msgid "Protect the engineers while they are setting up AT mines"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt06"
+msgid "Kill the Soviet flamethrowers"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_opt07"
+msgid "Save \"White Death\" before he bleeds out!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_secret01"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/task_secret01_completed"
+msgid "Secret objective - Detonate the ammo crate to destroy the artillery emplacement"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/objectives/timer_vanguard"
+msgid "Arrival of Soviet vanguard forces"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_ally_retreat"
+msgid "You do not have to fight until the last man, or else we will not have any defenders left. Use maneuver defense tactics, pick better positions, and retreat when the moment is right."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_01"
+msgid "Watch out! Ivan has brought his artillery emplacements! They will be very dangerous for our engineers out in the open. We have to destroy them as fast as possible! I am providing you with a captured Soviet armoured vehicle for this purpose. Use it to raid the enemy's rear and destroy this artillery battery."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_destroyed"
+msgid "Excellent job! This artillery battery will not bother us anymore!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_01"
+msgid "Artillery strike! Everyone, take cover!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_02"
+msgid "I hear the artillery! Lay down!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_base4"
+msgid "Artillery strike at the fourth base positions, take cover!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_hq"
+msgid "Soviet artillery is firing at our positions at the Dugout Hill, take cover!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_rock_01"
+msgid "The Soviets are firing their long range artillery at our trenches near the rock positions!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_rock_02"
+msgid "Soviet artillery is firing on the hill at the rock positions!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_end_01"
+msgid "You're right, we stopped their advance. At least for now. Men, you all proved yourselves today. I am very proud of you all. Take some rest, you've earned it."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_engineers_01"
+msgid "Our forces have taken and fortified the main defensive line. But the engineers have not placed enough AT mines yet. We have to protect them as long as possible. The more mines they place, the easier the fight will be for us."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_last_wave"
+msgid "Soldiers, scouts report that the Soviet forces are too exhausted to advance! We did it! Let's send their remaining forces to hell!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_part2_few_man"
+msgid "If necessary, fall back to the rock positions. You don't have to stay in the forest forever."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_part3_last_push"
+msgid "Soldiers, I received bad news from the frontline at Tolvajärvi. The enemy has broken through there, which means we are the next target. We are the last line of defense in Karelia! Our country depends on us! Let them come - we will stop them right here - let's make history!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_part3_main_force"
+msgid "Here they come! Men, prepare to fight! Let’s show them what we're made of! For our land, for our families, for our freedom, they shall not pass! The Kollaa line shall not fall!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_part3_pause_done"
+msgid "And here they come again. They are throwing everything at us. We have to hold this line, men. Otherwise, the whole front will fall. I believe in you."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_part3_preparation"
+msgid "We slowed them down for a little while. Use this time to reinforce your positions and to destroy the Soviet artillery!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_pause_01"
+msgid "Seems like the Soviets decided to give us a little break. I don't think any of them expected this much resistance from us. You are doing very well, men. It's an honor for me to serve with you."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_positions_lost"
+msgid "They broke our defensive lines! We have to retreat!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_rail_pos_lost"
+msgid "The enemy has captured our positions at the railroad... The Kollaa line has been breached..."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_road_pos_lost"
+msgid "The enemy has captured our positions at the main road... The Kollaa line has been breached..."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_vanguard_destroyed"
+msgid "Great job, soldiers! The column is destroyed. However, don't relax just yet. It looks like they only sent a small recon group. Heavier forces will be here soon."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_wd_bleeding"
+msgid "Simo Häyhä is injured! Help him as soon as possible!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/officer_wd_dead"
+msgid "Perkele! Simo Häyhä didn't make it... He was such a talented man."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/outro_completed"
+msgid "Outstanding work! The Finns achieved what the world thought impossible. The Battle of Kollaa lasted over three grueling months, but through sheer determination and tactical brilliance, the defense held strong. Finland’s resilience has become legendary, giving the nation hope in its darkest hour."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/outro_failed"
+msgid "The Kollaa River defense has fallen, and with it, a critical opportunity to stall the Soviet advance. Without a foothold, the Finns face a grim future as the Soviets push deeper into Karelia. This loss will echo throughout Finland, but the fight is not yet over - regroup and find another way!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/pause_soldier_01"
+msgid "I'm quite surprised there aren't any Soviet planes overhead. They'd probably bomb us to pieces if they had a chance."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/pause_soldier_02"
+msgid "Didn't the retreating troops from Suojärvi bring anything to eat or drink with them? I feel quite hungry and thirsty."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/pause_wd_01"
+msgid "Oh, forgive us, your Majesty! I am sure the retreating troops simply forgot to carry the entire field kitchen on their backs under artillery fire. Look around, we are standing by the river. Just crush some ice and melt it at one of the burning tanks."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/place"
+msgid "Kollaa River, Loimola area, Ladoga’s Karelia"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/artillery"
+msgid "37 PstK/36"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/btn_ambush"
+msgid "Begin ambush!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/btn_skip_preparation"
+msgid "Skip preparation"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_allround"
+msgid "<c(B29557)>All-Round:</c> 76 RK/27"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_defensive"
+msgid "<c(B29557)>Defensive:</c> 76 RK/27"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_irregular"
+msgid "<c(B29557)>Irregular:</c> Sissi Commandos"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_offensive"
+msgid "<c(B29557)>Offensive:</c> 120 K/78-31"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/gift"
+msgid "Captured BA-6"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/inf_at"
+msgid "AT Rifleman"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/inf_t1"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/inf_t2"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/mortar"
+msgid "81 Krh/36"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/resupply"
+msgid "Ford V3000S (Supply)"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/small_talk_soldier_01"
+msgid "So... Has anyone heard what happened back there in Suojärvi?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/small_talk_soldier_02"
+msgid "Oh man... Only so few troops have made it here so far. And now it's our turn to meet the Reds... Hard to believe just last week I was back home, chopping wood and minding my own business."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/small_talk_soldier_03"
+msgid "I miss my family so much... I would give anything to hear from them. But you know, mail takes forever as the lines are cut. I hope my son manages the farm and helps my daughters."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/small_talk_wd_01"
+msgid "It's been too rough. Our men got hammered by endless artillery barrages. We were forced to retreat before encountering enemies."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/small_talk_wd_02"
+msgid "Feels like a different world now. But that's the price we pay to keep our families safe."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_ally_retreat"
+msgid "Perkele, it seems like the whole population of Murmansk is storming our positions! Retreating to better positions, cover me."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_end_01"
+msgid "Is that... Is that all?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_flamethrowers"
+msgid "Flamethrowers incoming! They are going to set fire to the forest areas!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_flamethrowers_dead"
+msgid "Very good, these flamethrowers will not damage our forest anymore."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_flamethrowers_escaped"
+msgid "Perkele, one of those flamethrowers has escaped! We should at least try to kill the rest of them!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_molotov"
+msgid "It's funny, but the Soviets still haven't admitted the invasion of Suomi. A week ago, when they bombed Helsinki, their propagandists claimed they were dropping food instead of bombs. So let's give them a real treat in return right here, and call it a cocktail party!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_part2_few_man"
+msgid "We do not have a lot of troops left here, and the enemy is pushing like crazy... When will the main defensive line be ready?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_pause"
+msgid "Use this break to resupply, patch yourself up, and shake the snow out of your boots."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_secret_task_hint"
+msgid "Just look how close they placed their ammunition crates near the artillery. I bet one grenade could make a beautiful firework."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_strike_completed"
+msgid "We destroyed 4 units already! Where did they get even more?!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_strike_shown"
+msgid "It's worth destroying those artillery emplacements as quickly as possible."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_tanks_hint"
+msgid "You're right, Simo. We have to take advantage of this. At least we have plenty of bottles. Me and the other boys call them \"cocktail for Molotov\". I am wondering if it's possible to drink them to warm up. I mean, they are still cocktails..."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_vanguard_arrived"
+msgid "My men are in ambush, waiting for your command to open fire. Let's wait for the moment the entire column is visible."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_vanguard_destroyed"
+msgid "Change your ambush positions as often as you can. I am sure that each next wave of Soviets will attack the places where they saw you last."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_vanguard_reached_half"
+msgid "All of them are in sight, come on, aseveljet!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_vanguard_reached_threshold"
+msgid "We can't wait anymore! Open fire!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/soldier_vanguard_spawned"
+msgid "All vehicles are in sight, waiting for your command."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/story"
+msgid "December, 1939. The Soviet army crosses the border and invades Finland in several places. \nIn the South- East, the Soviets attack Finnish positions at Suojärvi. The Finnish retreat, because their position becomes untenable. They retreat to a position on the Kollaa river; this is considered more defensible than the one at Suojärvi, but the Soviets are still hot on their heels! \nA defensive line must be set up very quickly; the 12th division cannot keep retreating to the west. \nAnd so, the Winter War begins in earnest. The situation is as clear as it is serious; you need to stop the Soviets here, or else the entire front line will collapse and your comrades in the west, like at Summa, might get attacked from behind. \nReport to your commanding officer immediately, there is no time to waste; do whatever is required to stop this red tide! "
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/vanguard_see_player"
+msgid "They saw us! Return fire!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/wd_end"
+msgid "I think so. I don't see more of them incoming."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/wd_flamethrowers_01"
+msgid "Let me deal with them..."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/wd_molotov"
+msgid "Cocktail for Molotov? I get the part about Molotov, but why is it a cocktail?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/wd_pause"
+msgid "I've already lost count of the men I shot. I don't understand why they are advancing so recklessly. What's the whole point of it?"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1939_12_kollaa/wd_tanks_hint"
+msgid "Why do the Soviets send their tanks without infantry cover? Just look at how unprotected these tanks are. It's not that hard to ambush them with the Molotov cocktails onto their engine bay."
+msgstr ""
+

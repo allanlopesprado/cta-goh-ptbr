@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1940_05_20_arras_skirmish)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/name"
+msgid "The Battle of Arras [SKIRMISH]"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/name_big"
+msgid "The Battle of Arras"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/story"
+msgid "The Battle of France is reaching a critical stage. The German thrust through the Ardennes forest has been very successful, as their armored spearhead reaches the Channel coast near Abbeville on this day. \n\nThe Allies must counterattack to cut off the German breakthrough, or face certain defeat. \n\nThe British will counterattack from Arras today, with almost all of their remaining armor. \n\nAfter a stop at Vimy you have now reached the starting line. \n\nThe fate of France - and that of the entire BEF - depends on this counterattack. You have to stop the Germans at all costs!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/place"
+msgid "British Expeditionary Force"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/date"
+msgid "May 20th, 1940 · Achicourt, France"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/outro_completed"
+msgid "Well done, we have well and truly given the Germans something to think about! This will undoubtedly raise morale among the troops. Even if we didn’t stop the German advance, at least we slowed it down."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/outro_failed"
+msgid "This counts as a costly failure; because we allowed our attack to be stopped, the Germans can now continue the encirclement of our main force. We must regroup and try again, after reporting to HQ. "
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/outro_failed_hq"
+msgid "Bloody hell… We failed to secure our field HQ! you need to go back and get another effort going!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_attack"
+msgid "Punch a hole in the enemy position and drive north!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_start0"
+msgid "Welcome back to the front line, Lieutenant! This is our field HQ, it must remain in our control!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_start1"
+msgid "Counter-attack is in full swing, a swift assault is necessary to breach through the German lines."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_start2"
+msgid "Be quick, be decisive, and try not to lose too many men! Use the terrain to your advantage."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_start3"
+msgid "More reinforcements will become available as you progress with your assault!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/allied_enemy_near_hq"
+msgid "Gentlemen! Germans are close to our Field HQ!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/allied_survivors_assign"
+msgid "Thanks for coming to our aid Lieutenant! We are under your command now."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/player_enemy_near_hq"
+msgid "We must hold our command post! There is no room for surrender!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_ambush"
+msgid "Bloody hell! One of our tanks and trucks got lost and knocked out. We should try and recover this tank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/tasks/extra"
+msgid "Recover Matilda tank!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/tasks/secret01"
+msgid "Secret objective #1"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/tasks/secret01_completed"
+msgid "Secret objective #1: Retribution - killed 10+ enemy soldiers in a short time."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/tasks/secret02"
+msgid "Secret objective #2"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/tasks/secret02_completed"
+msgid "Secret objective #2: Top Gun - rapidly destroyed 3 enemy vehicles."
+msgstr ""

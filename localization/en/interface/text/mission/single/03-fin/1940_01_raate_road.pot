@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1940_01_raate_road)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/date"
+msgid "4th of January, 1940 · Raate road, Kotiranta, Finland"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/men"
+msgid "You lost all your men!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/name"
+msgid "The Raate Road"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/name_big"
+msgid "The Raate Road"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/01"
+msgid "Soldiers, the enemy is stuck on the nearby road. They have no idea we have encircled them, though. Your mission today is to break up the enemy positions and capture as much equipment as possible."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/02"
+msgid "The enemy is freezing, hungry and demoralised. If you isolate the enemy encampments, there is a likelyhood they will surrender. We are outnumbered heavily, but through guerilla warfare we can focus on surprise precision strikes and take down their positions."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/03"
+msgid "Additionally, high command requests we capture as many enemy assets as possible. Try not to blow everything up, and bring the enemy captured vehicles to the designated extraction points."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/03b"
+msgid "The blizzard is making it extremely difficult to spot the enemy. Move in cautiously and try to spot the enemy camp fires. It will give away their positions!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/04"
+msgid "Great job soldiers!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/05"
+msgid "Excellent!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/06"
+msgid "Very good, our army will make good use of these assets."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/07"
+msgid "This piece of equipment will surely come in handy."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/08"
+msgid "Splendid. The soviet war machines will be turned against the aggressors!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/09"
+msgid "Great job soldiers, your country is proud of your work today!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/10"
+msgid "These soviets are surrendering!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/narrator/officer/11"
+msgid "Another enemy position has laid out their weapons. Great job!"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/outro_completed"
+msgid "Well done! With this victory secured, we can now breathe a sigh of relief. Oulu is now out of reach of the Soviets. There is a guy here from HQ, he’s going to take photographs of this carnage now. They requested it so they can use such photographs for propaganda leaflets. These will be aimed at Soviet soldiers, telling them that they will also meet “white death” when they try again."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/outro_failed"
+msgid "As a result of the quick breakthrough, the Soviet offensive will reach Oulu and the front is cut in half, heavily compromising our disposition of troops, and probably forcing general Mannerheim to commit his last reserves. It looks like a matter of days before the situation will become hopeless and we may even have to surrender."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/place"
+msgid "9th JR (Infantry Regiment)"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/story"
+msgid " After the Finnish victory at Suomussalmi, the red army sends in a rifle division from the east to renew the attack toward the west, past Suomussalmi in the direction of Oulu. The 44th rifle division, however, is confined to the Raate road. After initial contact, a series of Finnish flank attacks begins; this splits the Soviet 44th rifle division in no less than 7 pockets, each of these on the Raate road. The Finns attack the groups one by one.\n\n In this mission you are in charge of attacking the Haukila pocket, using “motti” tactics."
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/task1"
+msgid "Eliminate the russian garrison"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/task2"
+msgid "Capture 5 enemy wheeled vehicles and take them to the extraction point"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/task3"
+msgid "Capture 5 enemy tanks and take them to the extraction point"
+msgstr ""
+
+msgctxt "mission/single/03-fin/1940_01_raate_road/task4"
+msgid "Capture 5 enemy artillery pieces and take them to the extraction point"
+msgstr ""

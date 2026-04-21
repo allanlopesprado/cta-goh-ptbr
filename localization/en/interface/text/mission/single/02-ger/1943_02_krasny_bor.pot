@@ -1,0 +1,197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_02_krasny_bor)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/date"
+msgid "10th of February, 1943 · Krasny Bor, Leningrad Oblast"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/name"
+msgid "The Legend of Krasny Bor"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/name_big"
+msgid "The Legend of Krasny Bor"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/hint/01"
+msgid "The \"Blue Division\""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/01"
+msgid "Soldiers of the 250th Infantry Division! Listen up!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/02"
+msgid "The Soviet counteroffensive is at large! The bolsheviks are eager to break the Leningrad encirclement and are dashing toward your defences with armor! Everything is at stake!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/03"
+msgid "Today is the day where the Red wave will meet the Blue wall! You already defeated the communists once. I am confident you will do it once more! "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04"
+msgid "Your objective is to hold our rear headquarters at all costs, but it will also be convenient to secure our secondary key objectives: "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04a"
+msgid "The railway station,..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04b"
+msgid "...the artillery battery,..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04c"
+msgid "...and the communications vehicle, which you need to keep operational to maintain radio-contact to call for reinforcements. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/05"
+msgid "I regret to inform you our Anti-tank weaponry is in extremely short supply. However, we have reserves of mines and grenades to deal with the enemy tanks. "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/06"
+msgid "The enemy has commenced to bombard our first line. Get to work laying mine-fields and prepare for the enemy assault.  "
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/07"
+msgid "The enemy is approaching. You can tell where they are coming from, as they will use flares to light up the path for their tanks! Hold out until sunrise. No step back!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/08"
+msgid "Our field hospital is endangered so close to the front line. I have ordered its immediate re-location. You must protect it at all costs!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/09"
+msgid "You should consider pulling back your forces into a second defensive line in the village. It has been fortified for the occasion."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/comms1"
+msgid "The communications vehicle has been jeopardised! Try to get it back in action!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/comms2"
+msgid "Reinforcements are now at your disposal."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/end"
+msgid "Good job soldiers. You have once again made the Fatherland proud!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hospital_complete"
+msgid "The evacuation of the hospital was a success. Our wounded will live to fight once more."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hospital_fail"
+msgid "The trucks with the wounded have been hit! This careless escorting will not be tolerated!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hq"
+msgid "Enemy tanks are approaching our headquarters. See to it! They need to be destroyed immediately!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/positions"
+msgid "The soviet forces are building defensive positions!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/prisoners"
+msgid "The enemy has a column of prisoners being taken away. I need you to ambush the column and liberate our men!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/prisoners_complete"
+msgid "Good to have our soldiers fighting for the fatherland once again!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/rocket"
+msgid "Enemy rocket artillery in the area! Stalin's organs have arrived to set the tunes for the sunrise!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_completed"
+msgid "Because the blue division held the line at Krasny Bor, the 18th army was not surrounded like the 6th at Stalingrad. But they paid a terrible price; only 1 in five got out alive. \nThe Germans thought the blue division’s tenacity was unmatched. This seems no more than fair, considering how little they had to defend themselves against the huge odds."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_failed"
+msgid "Your failure to hold Krasny Bor has grave consequences; the 18th army has just been cut off from the front, facing the same fate as the 6th army at Stalingrad. Thousands will succumb to injury, illness and starvation. Those that can still walk will be sent to Siberia. This is a dent in your reputation to say the least!  \n"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/place"
+msgid "250th Infantry Division \"Blue Division\""
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/apminer"
+msgid "AP miners"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/artillerymen"
+msgid "Artillerymen"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/atminer"
+msgid "AT miners"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/atsquad"
+msgid "AT detachment"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/engineer"
+msgid "Field Engineers"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/medic"
+msgid "Medics"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/mgun"
+msgid "MG-42 lafette"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/squad"
+msgid "Regular infantry squad"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/supply"
+msgid "Supply crate"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/skip"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/story"
+msgid "February 1943; the Red army goes offensive in the Leningrad region. Operation \"polar star\" aims to encircle the German 18th army. One of its goals is to take Tosno, following the road and railroad, both leading straight through Krasny Bor.\n\nKrasny Bor is at the centre of attention in this mission. The initial attack is met by the Spanish Blue Division, who have dug in a handful of AT guns and a few artillery pieces at the village. With enemies approaching from all sides, this battle will be a serious test of your improvisation skills.\n\nHold your position until it is time to counterattack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_hospital"
+msgid "Escort the trucks evacuating the hospital. At least 2 trucks must survive."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_main"
+msgid "Don't let the enemy tanks overrun the headquarters."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_arty"
+msgid "Don't let the enemy tanks overrun the artillery battery"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_comms"
+msgid "Keep the radio vehicle crewed and operational for reinforcements."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_station"
+msgid "Don't let the enemy tanks enter the train station"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/timer"
+msgid "Prepare for the enemy attack!"
+msgstr ""

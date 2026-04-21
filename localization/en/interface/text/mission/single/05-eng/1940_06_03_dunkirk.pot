@@ -1,0 +1,349 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1940_06_03_dunkirk)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/name"
+msgid "Dynamo"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/name_big"
+msgid "Dynamo"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/story"
+msgid "Ever since the Germans broke through at Sedan three weeks ago, the Allies have been on the back foot.\n\nCalais fell on the 27th, and Belgium capitulated on the 28th. The perimeter around Dunkirk is shrinking, and an attack on the remaining allied forces seems to be a matter of time only.\n\nThe Germans are pushing in on the shrinking perimeter from all sides, including from the air.\n\nToday, it’s up to you and your comrades to buy the evacuation operation more time and to keep the Germans away from the beach as far as possible."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/date"
+msgid "June 3rd, 1940 · Dunkirk, France"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/place"
+msgid "British Expeditionary Force, Armée de Terre"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/outro_completed"
+msgid "Your tenacity and courage have saved many lives today. The British empire will be able to continue the fight another day as the last country in Europe fighting against Germany."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/outro_failed"
+msgid "Operation Dynamo has not been very successful, and it remains to be seen whether we will stay in the war - or surrender."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_01"
+msgid "With all due respect, Sir, but you only won because Cliff Bastin was out half the season."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_02"
+msgid "Keep telling yourself that. Everton didn’t need Bastin to lift the cup."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_03"
+msgid "Lawton just had one flashy season. He’d never last against Arsenal’s back line in their prime!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_04"
+msgid "We have more of these flyers than we do toilet paper… They really want us to wave the white flag."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_05"
+msgid "God help us if Jerry gets his hands on us…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_06"
+msgid "Let’s just… Let’s just keep moving…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_07"
+msgid "Sir… Haven’t you heard what they do to prisoners?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_08"
+msgid "I’ve only heard the rumors, same as you."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_10"
+msgid "Is it true they use prisoners as bloody human shields?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_11"
+msgid "Where did you hear that, Corporal? Same place you heard the Gunners were still the best in England?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_12"
+msgid "The whole company is talking about this. And there's worse… Have you heard what the French are saying?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_13"
+msgid "Alright, Corporal, let’s just hope we don’t find out."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_14"
+msgid "Oh my God…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_15"
+msgid "They’ve sent civilian boats? Well, I reckon it’s better than nothing."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_16"
+msgid "There you are, lieutenant! Over here, I’ve got a job for you."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_01"
+msgid "Set up the first line of defense at the double. Our engineers are busy sabotaging the vehicles to prevent them from falling into enemy hands. We have to hold the Germans here until they are done."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_02"
+msgid "Calling this situation critical is an understatement. The evacuation is far from complete and the enemy may strike any second."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_03"
+msgid "During the retreat we left a lot of weapons and ammunition in these crates. Take a look inside them."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_04"
+msgid "Sir, where are the rest of the gun crews?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_05"
+msgid "I beg your pardon, Lieutenant?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_06"
+msgid "We have a couple of AT guns but… Not enough trained personnel to operate them."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_07"
+msgid "They’re most likely either on the beach or on their way home. I’m afraid some of your riflemen have to learn on the fly. This evacuation has been a total mess from the beginning."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_11"
+msgid "What the?.. Jerry is already here!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_12"
+msgid "Damn, I’ve seen this before. It looks like they’re probing our line, that means the fun is about to begin…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_14"
+msgid "Watch out, enemy plane incoming! Get to cover!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_15"
+msgid "We don’t have much time, bolster the line as much as you can."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_16"
+msgid "Sir, with all due respect… How are we meant to hold here? We’re already running low."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_17"
+msgid "I saw some crates with small arms ammunition that were left during the retreat. Take a look at them."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_01"
+msgid "Here they are! Hold fast!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_02"
+msgid "The engineers are still working on the vehicles. Use anything you can find in ammunition crates and don’t let them get too close to us!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_03"
+msgid "Damn, we haven’t got enough AT-guns to stop all these tanks…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_04"
+msgid "The retreating forces have left us a lot of rifles with cup dischargers. Their AT grenades are powerful enough to stop a tank at close quarters. We can shoot from behind fences and from buildings to ambush their vehicles."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_06"
+msgid "The boys have finished! Lieutenant Shaw, retreat to the second line, I’m going to put the remainder of one of my companies under your command."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_07"
+msgid "The engineers have set up a timer to blow up the vehicles. Make sure you stay well clear of them!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_08"
+msgid "The vehicles are going to go up any second. Be careful."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_09"
+msgid "What a waste. But I reckon it’s better than leaving them to the enemy."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_lost"
+msgid "Our defense has collapsed! Lieutenant Shaw, I am relieving you of your command, dismissed!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_fallback_reminder"
+msgid "Fall back to the second line, lieutenant! Think of your men."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_01"
+msgid "Watch the skies, incoming enemy planes!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_02"
+msgid "Hey, look! The Brylcreem Boys decided to show up! Go get ‘em!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_03"
+msgid "We should assist them somehow… Has anyone seen a functional anti-air gun?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_04"
+msgid "I am afraid all of them are out of service. With a bit of luck you might repair one of them."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_05"
+msgid "Excellent, that’s exactly what we need right now. This Bofors can shoot the bloody planes down."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_06"
+msgid "More German planes incoming, reload the gun!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_07"
+msgid "I don’t see anymore of them. Brilliant work! I bet the RAF will owe us."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_08"
+msgid "Well, at least we’ve repaired this Bofors."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_09"
+msgid "They just shot down one of our planes! We need to find something against these German fighters!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_10"
+msgid "They’ve destroyed our fighters! We can’t count on RAF support anymore."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/pl_reinf_01"
+msgid "Sir, there are a few allied troops coming from the east! Where are they coming from?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/pl_reinf_02"
+msgid "These are the reinforcements we expected an hour ago… Use them to fill any gaps in your line."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/pl_first_line_retreat_warning"
+msgid "Where the hell are you going?! There was no order for falling back!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_01"
+msgid "Vessels from home are beginning to arrive. We must hold our ground to protect the evacuation."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_02"
+msgid "There’s a vessel at the mole, steady on!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_03"
+msgid "Another boat is at the mole, provide cover!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_04"
+msgid "A transport is at the mole, keep at it!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_05"
+msgid "This is the last one! We must hold a little longer while the wounded are loaded."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/enemy_near_beach"
+msgid "The Germans have reached the beach! Wipe them out before they slaughter our men at the mole!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_01"
+msgid "To the mole, quick!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_02"
+msgid "Damn, how many of you are still out there…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_03"
+msgid "Major! Greenwood, have you seen him?"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_04"
+msgid "We’re the last ones! Move your arse to the mole, lieutenant!"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_05"
+msgid "Shit…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_06"
+msgid "I don’t know how we made it out of there…"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/gameover_early_retreat"
+msgid "You fell back too early. Do not send your units too far from your first defensive line."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/gameover_def_lost"
+msgid "The enemy has broken through."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/progress_evac"
+msgid "You have saved %1% lives"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/reinf_airstrike"
+msgid "Air Strike"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_preparation"
+msgid "Prepare your defensive lines"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_sabotage"
+msgid "Vehicles sabotage, stay away"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/hint_airstrike"
+msgid "Royal Air Forces are ready to provide close air support. There are only <c(B29557)>2 planes available</c>, use them as a last resort."
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_early_fallback"
+msgid "<c(B29557)>Bring your units back to the first defensive line</c>"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/01_defense"
+msgid "Protect the Evactuation of British Expeditionary Forces"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/02_line_one"
+msgid "Hold the First Line while Engineers are sabotaging Abandoned Vehicles"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/03_fallback"
+msgid "Fall back to the Second Line"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/04_line_two"
+msgid "Slow down the German advance"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/opt03_dogfight"
+msgid "Help the Royal Air Force to win the Dogfight"
+msgstr ""
+
+msgctxt "mission/single/05-eng/1940_06_03_dunkirk/tasks/opt03_dogfight_completed"
+msgid "Unlike Tom - Help the Royal Air Force to win the Dogfight"
+msgstr ""

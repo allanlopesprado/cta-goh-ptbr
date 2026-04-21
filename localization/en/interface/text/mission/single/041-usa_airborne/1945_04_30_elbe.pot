@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_04_30_elbe)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/date"
+msgid "April 20th, 1945 · Drethem, Germany."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/name"
+msgid "When will it end?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/name_big"
+msgid "When will it end?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator01"
+msgid "Bahrendorf is ours. Now, we must secure Drethem and the surrounding area before we can cross the river."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator02"
+msgid "Let's send a patrol to Drethem to see if there are any enemy forces in the area."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator04"
+msgid "We should take a look at that farmhouse as well."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator03"
+msgid "Ambush!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian01"
+msgid "*Shit*, the Americans are here. Please! You must leave this place!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator05"
+msgid "Why do you say that? What's got you worried?"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian03"
+msgid "There are fanatical troops in the surrounding area. They are observing us. They are observing the whole area!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian04"
+msgid "Junger Mann, we cannot be seen helping you, nor do we want to be caught in the middle of a fight. Not with them! Not here! *God Help Us!*"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator06"
+msgid "Listen up, men! Set up a defensive perimeter around the village and stay alert! There could be more stubborn Krauts nearby."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator07"
+msgid "We need to get these civilians out of harm's way. Let's use one of these trucks to evacuate them back to Bahrendorf."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator08"
+msgid "The civilians should be safe now!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian02"
+msgid "Thank you for saving us! But please, just turn around! As long as you can and spare your men! And spare my village! This war - it is already over."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator10"
+msgid "Move out! Secure the remaining areas on our side of the river!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator09"
+msgid "Due to the poor weather conditions, we cannot use our aircraft, but we can use a nearby artillery battery to strike the enemy."
+msgstr ""
+
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/outro_completed"
+msgid "At last! You have reached the Elbe, and the war is as good as over. Those civilians will be very thankful, and you’ve done a great job to master a challenging situation. You have gloriously completed a campaign that was long and difficult. Maybe High Command will finally send you for some R & R, or maybe you can even go home? Time will tell. One thing is sure: you have earned a reputation of legendary proportions. Excellent work, soldier!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/outro_failed"
+msgid "That’s very unfortunate. This kind of failure hasn’t happened in a long time. But maybe the circumstances were too unusual and too complicated this time. Maybe that’s what caused your mistakes. Your record shows you should be able to get this right. You should try again!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/reinforcements_artillery"
+msgid "Artillery barrage"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/story"
+msgid "  After the Battle of the Bulge, and after helping to secure the Ruhr, the 82nd Airborne Division is driving into Germany. Anyone in their right mind can see that the war is ending. Yet, any Germans caught waving a white flag still run the risk of being executed on the spot.\n\n  The 82nd knows full well what might still happen as it enters the hamlet of Bahrendorf. Your unit advances to Drethem, which is on the Elbe River. After taking Drethem, crossing the river can be considered only if the area is secure.\n\n Good luck!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task01"
+msgid "Secure the village of Drethem."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task02"
+msgid "Check the nearby farmhouse."
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task03"
+msgid "Defend the village!"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task04"
+msgid "Evacuate the civilians to safety. (All 10 must survive)"
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task05"
+msgid "Clear all the enemy resistance on this side of the Elbe River."
+msgstr ""

@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_03_narva)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1944_03_narva/date"
+msgid "March 10th, 1944 · West of Narva"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/lose"
+msgid "You lost all your troops!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/name"
+msgid "Clash at Narva <c(a655af)>[DLC]</c>"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/name_big"
+msgid "Clash at Narva"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/01"
+msgid "Welcome to Narva, Herr Leutnant. The Soviets appear to be bogged down in the marshes..."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/02"
+msgid "We have two lines of defense, but high command wants us to shift to the offensive using the Tigers from Strachwitz Battle Group. Unfortunately, we don't have any information about the Soviet troops in this area. We could be walking into a trap!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/03"
+msgid "I need you to cross the marshes and acquire soviet documents to give us the intel we need. Get to their headquarters, get the documents, and get the hell out!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/04"
+msgid "We have located the soviet HQ with our scouts. They will spot targets for you. Advance cautiously!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/05"
+msgid "Great job, these are the documents we need. Take them to our high command now!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/06"
+msgid "Good work, the documents and maps will now be studied and translated in detail."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/07"
+msgid "God all mighty! The soviets aren't simply bogged down on the marshes, they're regrouping! We've caught them preparing an armored assault!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/08"
+msgid "The soviets will no doubt accelerate their plans now that they've been caught off guard. Get ready to hold back their armor!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/09"
+msgid "The enemy is on the move! Take command of our first line of defense!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/10"
+msgid "Attention Soldiers! Our forces from the Grossdeutschland division have deployed the second line of defense further back, with more powerful Anti-tank weaponry. We have received orders to fall back and consolidate our line. Move out!!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/11"
+msgid "Herr Leutnant, take command of the Grossdeutschland units and continue holding the line! You are about to meet the tough grunt of the enemy assault!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/12"
+msgid "The Bolsheviks are pressing on! Here come their next attack!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/13"
+msgid "Well done, Soldaten! The enemy has been stopped dead in their tracks!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/14"
+msgid "In spite of the Soviet attack, we must not lose track of our original orders from the Strachwitz Battle Group. We are to take the initiative and attack at once. The enemy is standing down, it's our turn to deal a devastating blow!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/15"
+msgid "Reinforcements from the Strachwitz Battle Group are at your disposal, Herr Leutnant. Drive the enemy back straight to hell!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/16"
+msgid "Attention, the enemy is initiating a flanking attack from the south!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/17"
+msgid "One of your vehicles is being targeted by enemy artillery! Watch out!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/18"
+msgid "Well done, Soldiers. The Bolsheviks will be pushed out of Narva, and our heroic defense will go down history!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/19"
+msgid "Enemy aircraft are trying to spot one of your tanks in the fog! Prepare for an incoming airstrike!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/outro_completed"
+msgid "Victory is ours! Your plan has worked; the enemy has given up his offensive. The sector has once more gone quiet. To save our comrades of the Narva garrison, we have to push into the enemy flank next, to turn the tables on this Soviet offensive. You have dealt the first blow, excellent job!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/outro_failed"
+msgid "This is more than just unfortunate! Apparently, we should have used our possibilities differently. The Soviets will break through now, which probably means our comrades of the Narva garrison will get surrounded soon. You must try again!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/place"
+msgid "Strachwitz Battle Group"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/artilleryman"
+msgid "Artillerymen"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/b1bis"
+msgid "Panzer B2"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/gd"
+msgid "Grossdeutschland squad"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/grille"
+msgid "Grille Ausf. K"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/jagdpanther"
+msgid "Jagdpanther"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/panzer4h"
+msgid "Panzer IV Ausf. H"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/tiger1e"
+msgid "Tiger I Ausf. E"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/reinf/wirbelwind"
+msgid "Flakpanzer IV Wirbelwind"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/story"
+msgid " The German army is on the retreat everywhere. In the aftermath of the Kursk battles and Operation Kutuzov, the front line is shifting west so rapidly the Germans can only hope the 'Panther Stellung' will stem the red tide. Army Group North takes up positions on the west bank of the Narva river. In march the situation changes dramatically when the Soviets break through south- west of Narva.\n\n A large-scale Soviet attack by the 59th army into the flank of the German 43rd corps threatens to cut the supply line and isolate the city of Narva.\n\n In this mission, you are in charge of units within the defensive line. The front is quiet and the enemy seems passive. Send out a scout squad to find information. Go behind the lines to snatch whatever information or maps you can get, then return to HQ. Use the information you get back to issue orders, either for defense or counterattack. In any case, you will be in charge and you have no time to waste.\n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/task1"
+msgid "Obtain soviet strategic documents."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/task2"
+msgid "Deliver the documents to our command."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/task3"
+msgid "Defend from the soviet assault."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/task4"
+msgid "Fall back to the second line!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/task5"
+msgid "Push back the enemy and secure the region."
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/timer1"
+msgid "Hold the first line of defense!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/timer2"
+msgid "Pull back to the second line!"
+msgstr ""
+
+msgctxt "mission/single/02-ger/1944_03_narva/timer3"
+msgid "Defend the second line of defense at all costs!"
+msgstr ""

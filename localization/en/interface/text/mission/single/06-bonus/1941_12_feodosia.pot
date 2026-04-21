@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_12_feodosia)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/date"
+msgid "December 29th, 1941 · Feodosia, Crimea, Ukraine"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/gameover/failed"
+msgid "The squad led by Lieutenant Arkady F. Aydinov could not establish control over the bridgehead."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/hints/pistol_holder"
+msgid "To signal other troops, fire a flare at the pier. The squad leader has the flare gun in his inventory."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/name"
+msgid "Red Tide"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/name_big"
+msgid "Red Tide"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/armor"
+msgid "The Fascists brought in their vehicles! Use the full firepower of the gunboat and destroy them."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/boat_crash_01"
+msgid "Scum! The nervedragging anti-tank guns here! Comrades, we must silence those guns immediately."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/clear_01"
+msgid "Well done, marines. A strong showing. Looks like the Germans didn't expect us. But we should not relax too early - they will surely try to retake this ground."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/defense_01"
+msgid "Here they come, the bastards. Didn't take them long. We must hold this line - the outcome of the operation depends on this very patch of land. Get to work, comrades."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/flare_01"
+msgid "Good work, boys - the lighthouse is secured. Now fire the flare and let the others know. They're likely already worried sick over there."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/flare_02"
+msgid "The entrance is free!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/landing_01"
+msgid "Let's go, comrades! We need to take that lighthouse and signal a flare - without it, no reinforcements will come. We won't last long standing in the open like this!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/landing_02"
+msgid "Germans are bringing more from the south! Best to leave a few men behind to cover the landing zone. We should not leave our rear uncovered."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/mo4_control"
+msgid "The Germans are well dug in at the port. Our comrades will assault them, and they will need naval support. I placed one of our gunboats under your command. It's on the far side of the pier."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/mortars"
+msgid "Get down! Enemy mortar fire incoming! Expect the Germans to charge as soon as the mortars stop firing!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/plane_01"
+msgid "Enemy aircraft! It's going straight for the gunboat - shoot it down immediately!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/plane_02"
+msgid "Heads up - aircraft incoming from the west! It's preparing to strike the gunboat!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/plane_03"
+msgid "Another plane approaches!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/port_cleared"
+msgid "Well done, comrades - the port is under our control now. Reinforcements should arrive at any moment."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/preparation_01"
+msgid "Reinforcements have arrived - just in time. Let's use this short pause to prepare for the enemy's counterattack."
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/retreat"
+msgid "They're falling back! We've done it, comrades! We held the line - and showed the full strength of our Black Sea Fleet! Now our brothers in arms and families in Sevastopol have a real chance to stand strong!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/outro_completed"
+msgid "Excellent work! The people and the garrison at Sevastopol will be thankful for your victory!
+When you get back, report to Brigade-Commissar Brezhnev. He will be very pleased with your performance!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/outro_failed"
+msgid "Ouch! That is not the outcome Stavka planned. You don’t want this reported to HQ. Maybe you should try again?"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/place"
+msgid "Lt. Aydinov's landing party, Soviet Black Sea Fleet"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/skip_preparation"
+msgid "Skip preparation"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/story"
+msgid "You are going on a mission to support besieged Sevastopol. To be precise, you are ordered to secure the Crimean harbor of Feodosiya for the large invasion force that will land there. We will go ashore behind the enemy’s back, and you will be in the first echelon. \nThis attack will relieve pressure on Sevastopol for sure, when the Germans have to turn around and fight us in Feodosiya; the importance of this mission cannot be overstated. \nThe success of your mission depends on your improvisation skills and the ability to use every bit of equipment you come across. \n\nGood luck!"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/01-lighthouse"
+msgid "Capture the lighthouse"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/02-flare"
+msgid "Fire a flare near the lighthouse"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/03-clean"
+msgid "Establish control over the port area"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/04-pak36"
+msgid "Capture or eliminate the AT guns"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/05-defense"
+msgid "Hold the landing zone near the lighthouse"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/06-mo4"
+msgid "The gunboat under your command must survive"
+msgstr ""
+
+msgctxt "mission/single/06-bonus/1941_12_feodosia/timer"
+msgid "German counter-attack:"
+msgstr ""

@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: laststand\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+msgctxt "mp/game/frontlines"
+msgid "Frontlines"
+msgstr ""
+
+msgctxt "mp/game/frontlines/info"
+msgid "\nOne army attacks the defended position of the other team. \nFight for territory and incur as many losses as possible to the foe!"
+msgstr ""
+
+msgctxt "mp/game/frontlines/rules"
+msgid "Frontlines\n\nFrontlines is an attack-and-defend scenario. Team A attacks and team B defends. The attacking team's goal is to capture all lines of defense within the time limit. The defending team's goal is to hold these lines of defense. Each line of defense is indicated by a set of flags, and all must be captured to enable the defense to fall. The game ends and is won by the attacking team if all lines of defense are captured. Points are awarded by killing enemy troops, and the attack-defense effectiveness. At the end of the game, the team with the best performance wins."
+msgstr ""
+
+msgctxt "mp/game/frontlines/objective/a"
+msgid "Capture all lines of the enemy defense before the time runs out."
+msgstr ""
+
+msgctxt "mp/game/frontlines/objective/b"
+msgid "Hold back the enemy at the defensive line, until the time expires."
+msgstr ""
+
+msgctxt "mp/game/text/unitlost"
+msgid "Unit lost"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_ready"
+msgid "Get ready! The attack will commence in %1% seconds."
+msgstr ""
+
+msgctxt "mp/game/text/frontline_go_a"
+msgid "Forward! Capture all the flags to take the front line."
+msgstr ""
+
+msgctxt "mp/game/text/frontline_go_b"
+msgid "The enemy is attacking! Hold your positions!"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_captured"
+msgid "The front line has been captured!"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_flag_captured"
+msgid "A strategic area has been captured!"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_retreat_hint"
+msgid "Retreat to the next line"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_retreat_btn"
+msgid "Retreat"
+msgstr ""
+
+msgctxt "mp/game/text/frontline_phase_hint"
+msgid "Front line"
+msgstr ""
+
+msgctxt "mp/settings/frontlineteam#attackers"
+msgid "Team A Attackers"
+msgstr ""
+
+msgctxt "mp/settings/frontlineteam#defenders"
+msgid "Team B Defenders"
+msgstr ""
+
+msgctxt "mp/lobby/setup/settings.freezeTime"
+msgid "Frontline preparation time"
+msgstr ""
+
+msgctxt "mp/lobby/setup/settings.freezeTime#hint"
+msgid "Time allotted for preparing the defenses and mustering the attack"
+msgstr ""
+
+msgctxt "mp/settings/teamb#defenders"
+msgid "Team B Defenders"
+msgstr ""
+
+msgctxt "mp/settings/teama#attackers"
+msgid "Team A Attackers"
+msgstr ""
+
+msgctxt "actionbar/frontline_retreat"
+msgid "Retreat to the second line!"
+msgstr ""
+
+msgctxt "actionbar/frontline_retreat/action"
+msgid "Retreat to the next line of defenses and receive new resources."
+msgstr ""
+
