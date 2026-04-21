@@ -1,0 +1,185 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (03_artillery-reinforcements)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/complete"
+msgid "Congratulations, you have finished the third tutorial (AT guns and artillery)."
+msgstr "Parabéns, você concluiu o terceiro tutorial (canhões AT e artilharia)."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/date"
+msgid "June 24th, 1941 · Border with the USSR"
+msgstr "24 de junho de 1941 · Fronteira com a URSS"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/hint_video"
+msgid "Press this button to re-watch the video for this tutorial phase."
+msgstr "Pressione este botão para rever o vídeo desta fase do tutorial."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/name"
+msgid "Tutorial 3: AT Guns and Artillery"
+msgstr "Tutorial 3: Canhões AT e Artilharia"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/name_big"
+msgid "AT Guns and Artillery"
+msgstr "Canhões AT e Artilharia"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/00"
+msgid "Soldaten! Welcome back to the front line! Today you will learn how to deploy Anti-Tank guns, build sandbags, and distinguish between direct and indirect fire units."
+msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão a posicionar canhões AT, construir sacos de areia e distinguir entre unidades de tiro direto e indireto."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01"
+msgid "First, use all of your soldiers to crew the Anti-Tank gun."
+msgstr "Primeiro, use todos os seus soldados para tripular o canhão AT."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01b"
+msgid "Soldiers, it's time to relocate the AT gun to a new firing position near the pond. Move it!"
+msgstr "Soldados, está na hora de reposicionar o canhão AT para uma nova posição de tiro perto do lago. Movam-no!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/02"
+msgid "Great! Now it's time to build sandbags around your AT gun for extra protection!"
+msgstr "Ótimo! Agora é hora de construir sacos de areia ao redor do canhão AT para proteção adicional!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/03"
+msgid "Enemy vehicles down the road! Wipe them out!"
+msgstr "Veículos inimigos pela estrada! Eliminem-nos!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/04"
+msgid "What is this?! It's a heavy Soviet tank, a KV-1! Take it out immediately using APCR rounds!"
+msgstr "O que é isso?! É um tanque pesado soviético, um KV-1! Destruam-no imediatamente usando projéteis APCR!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/04b"
+msgid "Great job destroying the heavy tank! Now let us prepare to relocate again."
+msgstr "Ótimo trabalho destruindo o tanque pesado! Agora vamos nos preparar para reposicionar novamente."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/05"
+msgid "Here, take this truck and attach your AT gun to it so you can tow it quickly to a new location."
+msgstr "Pegue este caminhão e atrele seu canhão AT a ele para que possa rebocá-lo rapidamente para um novo local."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/05b"
+msgid "Detach the AT gun and move it into position near the trenches!"
+msgstr "Desatrele o canhão AT e posicione-o perto das trincheiras!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06a"
+msgid "Now we will familiarize ourselves with our standard light field howitzer, the 10.5cm LeFH 18! First, you need some ammunition for it."
+msgstr "Agora vamos nos familiarizar com nosso obus de campanha leve padrão, o LeFH 18 de 10,5cm! Primeiro, você precisa de munição para ele."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06b"
+msgid "You now possess an ammunition truck. Crew the artillery piece and drive the truck closer to resupply your howitzer!"
+msgstr "Agora você tem um caminhão de munição. Tripule a peça de artilharia e aproxime o caminhão para reabastecer o obus!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/07"
+msgid "Soviets have arrived at the village west of our location. Use the howitzer to destroy their trucks!"
+msgstr "Os soviéticos chegaram à aldeia a oeste de nossa posição. Use o obus para destruir os caminhões deles!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/07helper"
+msgid "Firing multiple shots at the same target or location increases the accuracy of each subsequent shot."
+msgstr "Disparar múltiplos tiros no mesmo alvo ou local aumenta a precisão de cada tiro subsequente."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/08"
+msgid "Soviets armored car spotted! Switch the howitzer ammunition to either armor-piercing (APHE) or high-explosive anti-tank (HEAT) to destroy it with direct fire!"
+msgstr "Carro blindado soviético avistado! Troque a munição do obus para perfurante (APHE) ou Alto Explosivo Antitanque (HEAT) para destruí-lo com tiro direto!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/09"
+msgid "An exceptional kill! Now, kill the remaining enemy soldiers!"
+msgstr "Uma eliminação excepcional! Agora, matem os soldados inimigos restantes!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/hint/01"
+msgid "Your AT gun is set to 'return fire' firing mode. Switch to 'fire at will' or manually shoot in direct control mode."
+msgstr "Seu canhão AT está configurado para o modo de disparo 'Contra-atacar'. Mude para 'Fogo à vontade' ou atire manualmente no modo de Controle Direto."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/scene/01"
+msgid "This is the 5cm PaK 38. It is a direct-fire Anti-Tank weapon. Ideal for ambushing enemy tanks with pinpoint accuracy."
+msgstr "Este é o 5 cm PaK 38. É uma arma antitanque de tiro direto. Ideal para emboscar tanques inimigos com alta precisão."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/scene/02"
+msgid "Changing your location is always good idea. For example, your new location should allow for an even better angle of the road."
+msgstr "Mudar de posição é sempre uma boa ideia. Por exemplo, sua nova posição deve oferecer um ângulo ainda melhor da estrada."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/scene/03"
+msgid "Tow your AT gun to the new position using the truck."
+msgstr "Reboque seu canhão AT para a nova posição usando o caminhão."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/outro_completed"
+msgid "Mission Accomplished!\n\n"
+"Click on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission."
+msgstr "Missão Cumprida!\n\nClique em 'continuar' para continuar jogando esta missão ou clique em 'próxima' para ir diretamente à próxima missão."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/place"
+msgid "Army Group Centre"
+msgstr "Grupo de Exércitos Centro"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/reinf_video"
+msgid "Re-watch steps."
+msgstr "Rever etapas."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/replay_video"
+msgid "Replay Video"
+msgstr "Repetir vídeo"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/story"
+msgid "Welcome to artillery training, Soldier.\n\n"
+"In this tutorial you will learn the basics of artillery emplacements and how their direct and indirect fire modes can be decisive in battle.\n\n"
+"What artillery lacks in mobility, it makes up for in firepower.\n\n"
+"                                        Good luck!"
+msgstr "Bem-vindo ao treinamento de artilharia, Soldado.\n\nNeste tutorial, você aprenderá os fundamentos das posições de artilharia e como seus modos de tiro direto e indireto podem ser decisivos em batalha.\n\nO que a artilharia perde em mobilidade, compensa em poder de fogo.\n\n                                        Boa sorte!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task1"
+msgid "Crew the AT gun with all your men."
+msgstr "Tripule o canhão AT com todos os seus homens."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task1b"
+msgid "Move your AT gun to a new location as shown."
+msgstr "Mova seu canhão AT para um novo local conforme indicado."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task2"
+msgid "Build sandbags for your AT gun."
+msgstr "Construa sacos de areia para o canhão AT."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task3"
+msgid "Destroy the enemy vehicles!"
+msgstr "Destrua os veículos inimigos!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task4"
+msgid "Destroy the enemy KV-1!"
+msgstr "Destrua o KV-1 inimigo!"
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task5a"
+msgid "Connect your AT gun to the truck for towing."
+msgstr "Conecte seu canhão AT ao caminhão para reboque."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task5"
+msgid "Tow the AT gun to the new position as indicated."
+msgstr "Reboque o canhão AT para a nova posição conforme indicado."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task5b"
+msgid "Detach the AT gun and move it into the given position."
+msgstr "Desatrele o canhão AT e mova-o para a posição indicada."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task6"
+msgid "Resupply the light field howitzer."
+msgstr "Reabasteça o obus de campanha leve."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task7"
+msgid "Destroy the enemy trucks with the howitzer."
+msgstr "Destrua os caminhões inimigos com o obus."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task8"
+msgid "Destroy the Soviet armored car with direct fire with AP/HEAT shells."
+msgstr "Destrua o carro blindado soviético com tiro direto usando projéteis AP/HEAT."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task9"
+msgid "Destroy the remaining enemy units."
+msgstr "Destrua as unidades inimigas restantes."
+
+msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/outro_failed"
+msgid "You have been defeated!"
+msgstr "Você foi derrotado!"

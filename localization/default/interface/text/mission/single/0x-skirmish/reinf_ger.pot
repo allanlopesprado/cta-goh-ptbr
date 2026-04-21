@@ -1,0 +1,517 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_ger)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/hintbonus"
+msgid "Air attack of the selected area"
+msgstr "Ataque aéreo da área selecionada."
+
+msgctxt "mission/single/0x-skirmish/menu_ger/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Implante seus reforços no campo de batalha"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/menu:1_1"
+msgid "Infantry"
+msgstr "Infantaria"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/menu:2_1"
+msgid "Support"
+msgstr "Apoio"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/menu:3_1"
+msgid "Vehicles"
+msgstr "Veículos"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/menu:4_1"
+msgid "Tanks"
+msgstr "Tanques"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/menu:back"
+msgid "Return to menu"
+msgstr "Voltar ao menu"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/airstrike"
+msgid "Bf109 strafing run"
+msgstr "Ataque rasante de Bf109"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/airstrike2"
+msgid "Bf110 bombing run"
+msgstr "Bombardeio de Bf110"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/officer"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/inf"
+msgid "Infantry squad"
+msgstr "Esquadra de Infantaria"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/volkssturm_heavy"
+msgid "Volkssturm unit"
+msgstr "Unidade Volkssturm"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/volksgrenadier"
+msgid "Volksgrenadiers"
+msgstr "Volksgranadeiros"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/crew"
+msgid "Tank crew"
+msgstr "Tripulação de tanque"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/atsq"
+msgid "AT squad"
+msgstr "Esquadra AT"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/flamer"
+msgid "Flamer"
+msgstr "Lança-chamas"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sniper"
+msgid "Sniper"
+msgstr "Franco-atirador"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/reconsq"
+msgid "Recon Squad"
+msgstr "Esquadra de Reconhecimento"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/grossdeutsq"
+msgid "Grossdeutschlands"
+msgstr "Grossdeutschlands"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/blaudiv"
+msgid "Blau division"
+msgstr "Divisão Azul"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/fallsjager"
+msgid "Fallschirmjaegers"
+msgstr "Fallschirmjaegers"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/brandenb"
+msgid "Brandenburger"
+msgstr "Brandenburger"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pioneer"
+msgid "Pionier squad"
+msgstr "Esquadra Pioneiro"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/gebirgsjag"
+msgid "Gebirgsjager"
+msgstr "Gebirgsjager"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/crate"
+msgid "Ammo crate"
+msgstr "Caixa de Munição"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_art_ammo"
+msgid "Opel Blitz(Supply)"
+msgstr "Opel Blitz(Suprimentos)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_fuel"
+msgid "Opel Blitz(Fuel)"
+msgstr "Opel Blitz(Combustível)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzerpio"
+msgid "Motorized-Pionier"
+msgstr "Pioneiro Motorizado"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/ketteneng"
+msgid "Engineering team"
+msgstr "Equipe de Engenharia"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_engineering"
+msgid "Opel(Engineer)"
+msgstr "Opel(Engenheiro)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz10_pak38"
+msgid "Sd.Kfz 10 PaK 38"
+msgstr "Sd.Kfz 10 PaK 38"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz8_flak18"
+msgid "Sd.Kfz 8 FlaK 18"
+msgstr "Sd.Kfz 8 FlaK 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz231"
+msgid "Sd.Kfz 231"
+msgstr "Sd.Kfz 231"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/mg34_lafette"
+msgid "Lafette MG 34"
+msgstr "Lafette MG 34"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/80mm_sgrw34"
+msgid "8cm sGrW 34"
+msgstr "8cm sGrW 34"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/20mm_flak30"
+msgid "2cm FlaK 30"
+msgstr "2cm FlaK 30"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/37mm_flak37"
+msgid "3.7cm FlaK 37"
+msgstr "3.7cm FlaK 37"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/50mm_pak38"
+msgid "5cm PaK 38"
+msgstr "5cm PaK 38"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/75mm_leig18"
+msgid "7.5cm le IG 18"
+msgstr "7.5cm le IG 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/75mm_legebig18"
+msgid "7.5cm IG18"
+msgstr "7.5cm IG18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/47mm_pakt"
+msgid "4.7cm PaK(t)"
+msgstr "4.7cm PaK(t)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/37mm_pak36"
+msgid "3.7cm PaK"
+msgstr "3.7cm PaK"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/105mm_lefh18"
+msgid "10.5cm LeFH 18"
+msgstr "10.5cm LeFH 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/150mm_sig33"
+msgid "15cm s IG 33"
+msgstr "15cm s IG 33"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/150mm_sfh18"
+msgid "15cm sFH 18"
+msgstr "15cm sFH 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/88mm_flak18"
+msgid "8.8cm Flak18 towed"
+msgstr "8.8cm Flak18 towed"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/210mm_morser18"
+msgid "21cm Morser 18"
+msgstr "21cm Morser 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/210mm_morser18_tow"
+msgid "21cm Morser(towed)"
+msgstr "21cm Morser(Rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/150mm_nebelwerfer41"
+msgid "Nebelwerfer 41"
+msgstr "Nebelwerfer 41"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer2f"
+msgid "Pz.Kpfw II Ausf.F"
+msgstr "Pz.Kpfw II Ausf.F"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzerjager1"
+msgid "Panzerjager I"
+msgstr "Panzerjager I"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer731r"
+msgid "Pz.Kpfw 731(r)"
+msgstr "Pz.Kpfw 731(r)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer1b"
+msgid "Pz.Kpfw I Ausf.B"
+msgstr "Pz.Kpfw I Ausf.B"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer2c"
+msgid "Pz.Kpfw II Ausf.C"
+msgstr "Pz.Kpfw II Ausf.C"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pz38t_f"
+msgid "Pz.Kpfw 38(t) F"
+msgstr "Pz.Kpfw 38(t) F"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4d"
+msgid "Pz.Kpfw IV Ausf.D"
+msgstr "Pz.Kpfw IV Ausf.D"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3f"
+msgid "Pz.Kpfw III F"
+msgstr "Pz.Kpfw III F"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pz35t"
+msgid "Pz.Kpfw 35(t)"
+msgstr "Pz.Kpfw 35(t)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/p204_f"
+msgid "Pz.SpW. P204(f)"
+msgstr "Pz.SpW. P204(f)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer742r"
+msgid "Pz.Kpfw 742(r)"
+msgstr "Pz.Kpfw 742(r)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3j"
+msgid "Pz.Kpfw III Ausf.J"
+msgstr "Pz.Kpfw III Ausf.J"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3j1"
+msgid "Pz.Kpfw III J (L/60)"
+msgstr "Pz.Kpfw III J (L/60)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4f1"
+msgid "Pz.Kpfw IV Ausf.F1"
+msgstr "Pz.Kpfw IV Ausf.F1"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/stug3b"
+msgid "StuG III Ausf.B"
+msgstr "StuG III Ausf.B"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/bison"
+msgid "Sturmpanzer I"
+msgstr "Sturmpanzer I"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/jagersq"
+msgid "Jager squad"
+msgstr "Esquadra Jäger"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzeraufksq"
+msgid "Panzeraufklarers"
+msgstr "Panzeraufklarers"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/grenadieresq"
+msgid "Grenadier squad"
+msgstr "Esquadra Granadeiro"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/lwfieldinf"
+msgid "Luftwaffe troops"
+msgstr "Tropas da Luftwaffe"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz221"
+msgid "Sd.Kfz 221"
+msgstr "Sd.Kfz 221"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz222a"
+msgid "Sd.Kfz 222 Ausf.A"
+msgstr "Sd.Kfz 222 Ausf.A"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4f2"
+msgid "Pz.Kpfw IV Ausf.F2"
+msgstr "Pz.Kpfw IV Ausf.F2"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sig33b"
+msgid "StuIG 33"
+msgstr "StuIG 33"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/stug3f"
+msgid "StuG III Ausf.F"
+msgstr "StuG III Ausf.F"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/signaller"
+msgid "Artillery Signaller"
+msgstr "Sinaleiro de Artilharia"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/grenadierinf"
+msgid "Grenadier squad"
+msgstr "Esquadra Granadeiro"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzergren_ar"
+msgid "Panzergrenadiers"
+msgstr "Panzergranadeiros"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pioteam_ht"
+msgid "Pionier team"
+msgstr "Equipe Pioneiro"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pioneer_pzsq"
+msgid "Panzerpioniers"
+msgstr "Pioneiros Blindados"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz250a_11"
+msgid "Sd.Kfz 250/11 (sPzB 41)"
+msgstr "Sd.Kfz 250/11 (sPzB 41)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz303b"
+msgid "Sd.Kfz 303b"
+msgstr "Sd.Kfz 303b"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz234_2"
+msgid "Sd.Kfz 234 Puma"
+msgstr "Sd.Kfz 234 Puma"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/28mm_pzb41"
+msgid "2.8cm sPzB 41"
+msgstr "2.8cm sPzB 41"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/88mm_flak36"
+msgid "8.8cm FlaK36(towed)"
+msgstr "8.8cm FlaK36(Rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/75mm_pak40"
+msgid "7.5cm PaK 40"
+msgstr "7.5cm PaK 40"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/120mm_sgrw42"
+msgid "12cm sGrW 42"
+msgstr "12cm sGrW 42"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/300mm_nebelwerfer42"
+msgid "Nebelwerfer 42"
+msgstr "Nebelwerfer 42"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/marder3m"
+msgid "Marder III Ausf.M"
+msgstr "Marder III Ausf.M"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer1f"
+msgid "Pz.Kpfw I Ausf.F"
+msgstr "Pz.Kpfw I Ausf.F"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/marder2"
+msgid "Marder II"
+msgstr "Marder II"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer2l"
+msgid "Pz.Kpfw II Ausf.L"
+msgstr "Pz.Kpfw II Ausf.L"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/hetzer"
+msgid "Jagdpanzer 38"
+msgstr "Jagdpanzer 38"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3m"
+msgid "Pz.Kpfw III Ausf.M"
+msgstr "Pz.Kpfw III Ausf.M"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3n"
+msgid "Pz.Kpfw III Ausf.N"
+msgstr "Pz.Kpfw III Ausf.N"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/stuh42"
+msgid "StuH 42 Ausf.G"
+msgstr "StuH 42 Ausf.G"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sturmpanzer4"
+msgid "Sturmpanzer IV"
+msgstr "Sturmpanzer IV"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer5d"
+msgid "Panther Ausf.D"
+msgstr "Panther Ausf.D"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4j"
+msgid "Pz.Kpfw IV Ausf.J"
+msgstr "Pz.Kpfw IV Ausf.J"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/stug3g"
+msgid "StuG III Ausf.G"
+msgstr "StuG III Ausf.G"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/stug3g_late"
+msgid "StuG III.G(Late)"
+msgstr "StuG III.G(Late)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4g"
+msgid "Pz.Kpfw IV Ausf.G"
+msgstr "Pz.Kpfw IV Ausf.G"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer5g"
+msgid "Panther Ausf.G"
+msgstr "Panther Ausf.G"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/jagdpanther"
+msgid "Jagdpanther"
+msgstr "Jagdpanther"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sturmtiger"
+msgid "Sturmmörser"
+msgstr "Sturmmörser"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/tiger2h"
+msgid "'Konigstiger'"
+msgstr "'Konigstiger'"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer5a"
+msgid "Panther Ausf.A"
+msgstr "Panther Ausf.A"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3_flamm"
+msgid "Pz.Kpfw III Flamm"
+msgstr "Pz.Kpfw III Flamm"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer4h"
+msgid "Pz.Kpfw IV Ausf.H"
+msgstr "Pz.Kpfw IV Ausf.H"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/tiger1h"
+msgid "Tiger Ausf.H"
+msgstr "Tiger Ausf.H"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/tiger1e"
+msgid "Tiger Ausf.E"
+msgstr "Tiger Ausf.E"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/tiger1hunt"
+msgid "Tiger Ausf.E 'Ace'"
+msgstr "Tiger Ausf.E 'Ace'"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/ferdinand"
+msgid "Ferdinand"
+msgstr "Ferdinand"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/pz756r"
+msgid "KV-1B KwK 40 L/43"
+msgstr "KV-1B KwK 40 L/43"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz10_4"
+msgid "Sd.Kfz 10/4 (2cm)"
+msgstr "Sd.Kfz 10/4 (2cm)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz6_2"
+msgid "Sd.Kfz 6/2(FlaK)"
+msgstr "Sd.Kfz 6/2(FlaK)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz251c_2"
+msgid "Sd.Kfz251(8cm GrW)"
+msgstr "Sd.Kfz251(8cm GrW)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/210mm_nebelwerfer42"
+msgid "21cm Nebelwerfer"
+msgstr "21cm Nebelwerfer"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/105mm_sk18"
+msgid "10cm sK 18"
+msgstr "10cm sK 18"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/50mm_flak41"
+msgid "5cm Flak 41"
+msgstr "5cm Flak 41"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/100mm_nbw35"
+msgid "10cm NbW 35"
+msgstr "10cm NbW 35"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/200mm_ldgw40"
+msgid "20cm leLdgW"
+msgstr "20cm leLdgW"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer35s"
+msgid "Pz.Kpfw 35S 739(f)"
+msgstr "Pz.Kpfw 35S 739(f)"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3l"
+msgid "Pz.Kpfw III Ausf.L"
+msgstr "Pz.Kpfw III Ausf.L"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/panzer3h"
+msgid "Pz.Kpfw III Ausf.H"
+msgstr "Pz.Kpfw III Ausf.H"
+
+msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_flak30"
+msgid "Opel Blitz (2cm)"
+msgstr "Opel Blitz (2cm)"

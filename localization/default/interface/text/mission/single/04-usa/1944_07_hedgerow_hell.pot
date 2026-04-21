@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_07_hedgerow_hell)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/date"
+msgid "July 11th, 1944 · Les Hauts-Vents, West of Pont-Hebert, Normandy"
+msgstr "11 de julho de 1944 · Les Hauts-Vents, a oeste de Pont-Hébert, Normandia"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/hold_hq"
+msgid "Hold your HQ"
+msgstr "Segure o seu QG"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_911"
+msgid "Capture Hill 91-1"
+msgstr "Capture o Morro 91-1"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_912"
+msgid "Capture Hill 91-2"
+msgstr "Capture o Morro 91-2"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_fusbat275"
+msgid "Break the positions of Fus Bat 275"
+msgstr "Rompa as posições do Fus Bat 275"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_pzrgt902"
+msgid "Break the positions of Pz Gren Rgt 902"
+msgstr "Rompa as posições do Pz Gren Rgt 902"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/mission_rgt984"
+msgid " Break the positions of Gren Rgt 984"
+msgstr " Rompa as posições do Gren Rgt 984"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/name"
+msgid "Hedgerow Hell"
+msgstr "Inferno do Bocage"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/name_big"
+msgid "Hedgerow Hell "
+msgstr "Inferno do Bocage"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/00"
+msgid "Welcome to Normandy, 3rd Armored. The situation ain't pretty."
+msgstr "Bem-vindo à Normandia, 3ª Blindada. A situação não é nada boa."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/01"
+msgid "Our advance across the river Vire was rather slow but now we're approaching Hauts Vents. Fighting among the hedgerows is extremely difficult."
+msgstr "Nosso avanço através do rio Vire foi bastante lento, mas agora estamos nos aproximando de Hauts Vents. Lutar entre os bocages é extremamente difícil."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/02"
+msgid "Our reconnaissance team has established this command post just off the main road towards Pont- Hébert. We are waiting for reinforcements."
+msgstr "Nossa equipe de reconhecimento estabeleceu este posto de comando perto da estrada principal em direção a Pont-Hébert. Estamos aguardando reforços."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/03"
+msgid "The first Sherman has arrived, let’s hope the rest makes it here quick."
+msgstr "O primeiro Sherman chegou, tomara que o restante chegue logo."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/04"
+msgid "That was close but I hear tank engines in the distance. Prepare to defend our HQ at all costs, the Germans are trying to take us by surprise!"
+msgstr "Foi por pouco, mas ouço motores de tanques à distância. Prepare-se para defender nosso QG a todo custo — os alemães estão tentando nos surpreender!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/05"
+msgid "We held our own, but the neighboring platoon got hit hard. They need our help to push back the Germans. If the Krauts overrun them, they will push into our rear, that cannot happen."
+msgstr "Nos sustentamos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os alemães. Se os alemães os sobrepassarem, avançarão pela nossa retaguarda — isso não pode acontecer."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/06"
+msgid "We have captured Germans from the Panzer Lehr Division, which means they are probably in the area. The prisoners also told us that the 275. Infantry Division has set up defenses everywhere, you have to advance extremely carefully."
+msgstr "Capturamos alemães da Divisão Panzer Lehr, o que significa que provavelmente estão na área. Os prisioneiros também nos disseram que a 275ª Divisão de Infantaria montou defesas por toda parte — você tem que avançar com extremo cuidado."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/07"
+msgid "Our scouts also have reported an 88 battery set up along the ridge overlooking the roads, we need to take it out if we want to push towards Hauts Vents."
+msgstr "Nossos batedores também relataram uma bateria de 88mm instalada ao longo da crista com vista para as estradas — precisamos neutralizá-la se quisermos avançar em direção a Hauts Vents."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/08"
+msgid "All in all, we've extracted from the prisoners the positions of all the main German forces in the area. I order you to take them all out. "
+msgstr "No geral, extraímos dos prisioneiros as posições de todas as principais forças alemãs na área. Ordeno que as elimine todas."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/09"
+msgid "Reinforcements have arrived. This is all that we can commit to this attack right now. Make the best out of it, Lieutenant!"
+msgstr "Os reforços chegaram. Isso é tudo o que podemos comprometer neste ataque agora. Aproveite ao máximo, Tenente!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/outro_completed"
+msgid "Congratulations! You stand victorious after a hard-fought battle. The attack on St.Lo and Operation Cobra are next. This battle has proven once again that we are an unstoppable force, and the Liberation of Europe is only a matter of time. Keep it up!"
+msgstr "Parabéns! Você está vitorioso após uma batalha disputada. O ataque a St.Lô e a Operação Cobra são os próximos. Esta batalha provou mais uma vez que somos uma força imparável, e a Libertação da Europa é apenas uma questão de tempo. Continue assim!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/outro_failed"
+msgid "These hedgerows really are hell on earth right now. Apparently, we need different tactics or a bit more luck. We can’t be fazed though, and we need to repeat the attack or Operation Cobra has failed before it has even begun. General Watson’s orders were very clear!"
+msgstr "Esses bocados realmente são um inferno na terra agora. Aparentemente, precisamos de táticas diferentes ou um pouco mais de sorte. Não podemos nos abater, porém, e precisamos repetir o ataque ou a Operação Cobra fracassará antes mesmo de começar. As ordens do General Watson foram muito claras!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/place"
+msgid "3rd Armored Division “Spearhead”"
+msgstr "3ª Divisão Blindada 'Spearhead'"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/player/01"
+msgid "The first Shermans have arrived, let’s hope the rest makes it here quick."
+msgstr "Os primeiros Shermans chegaram, tomara que o restante chegue logo."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/player/02"
+msgid "I hear tank engines in the distance. Prepare to defend our headquarters at all costs, the Germans are trying to take us by surprise!"
+msgstr "Ouço motores de tanques à distância. Prepare-se para defender nosso quartel-general a todo custo — os alemães estão tentando nos surpreender!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/player/03"
+msgid "We held our own, but the neighboring platoon got hit hard. They need our help to push back the German tanks that took the crossroads to the west of our position. As long as they hold it they can push into our rear, don't let that happen."
+msgstr "Nos sustentamos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os tanques alemães que tomaram o cruzamento a oeste de nossa posição. Enquanto o segurarem, podem avançar pela nossa retaguarda — não deixe isso acontecer."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/push_line"
+msgid "Re- establish the line & destroy the German tanks"
+msgstr "Restabeleça a linha e destrua os tanques alemães"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/story"
+msgid " July 1944. Since the D-Day landings in June, your advance has been steady, if a bit slow; but gradually, the bridgehead widens and deepens, as does the crisis for the Germans. The main objective of general Bradley’s advance is to take the area around St. Lô. To get there, the road to St. Lô must be cleared first.\n\n You will be leading your troops into the hedgerows today. A spotter plane has reported enemy movement nearby. This might be the Panzer Lehr division! They might be trying to counterattack, better sound the alarm and brace yourself. Stand your ground until our main force arrives, and stand by for further orders.\n\nGood luck!"
+msgstr " Julho de 1944. Desde os desembarques do Dia D em junho, seu avanço tem sido constante, se um pouco lento; mas gradualmente, a cabeça de ponte se alarga e aprofunda, assim como a crise para os alemães. O principal objetivo do avanço do General Bradley é tomar a área ao redor de St. Lô. Para chegar lá, a estrada para St. Lô deve ser limpa primeiro.\n\n Você liderará suas tropas para dentro do bocage hoje. Um avião batedore reportou movimentação inimiga nas proximidades. Pode ser a Divisão Panzer Lehr! Eles podem estar tentando contra-atacar; é melhor soar o alarme e se preparar. Mantenha o terreno até que nossa força principal chegue, e aguarde ordens.\n\nBoa sorte!"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task1"
+msgid "Take positions among the hedgerows around the HQ."
+msgstr "Tome posições entre os bocages ao redor do QG."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task2"
+msgid "Hold off the German column and await reinforcements"
+msgstr "Contenha a coluna alemã e aguarde reforços"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task3"
+msgid "Re- establish the line & destroy the German push"
+msgstr "Restabeleça a linha e destrua o avanço alemão"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/timer"
+msgid "Set up positions around HQ:"
+msgstr "Montar posições ao redor do QG:"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/hint_allied_ai"
+msgid "In this mission, you will be assisted by allied infantry of 3rd Armored Division. On the reinforcements tab you can give an order to assault one of the available enemy positions."
+msgstr "Nesta missão, você será assistido por infantaria aliada da 3ª Divisão Blindada. Na aba de reforços você pode dar uma ordem para assaltar uma das posições inimigas disponíveis."
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/mission_opt_aa"
+msgid "Neutralize German air defense to unlock air support"
+msgstr "Neutralize a defesa aérea alemã para desbloquear apoio aéreo"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/order_911"
+msgid "<c(B29557)>Assault order:</c> Hill 91-1"
+msgstr "<c(B29557)>Ordem de assalto:</c> Morro 91-1"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/order_912"
+msgid "<c(B29557)>Assault order:</c> Hill 91-2"
+msgstr "<c(B29557)>Ordem de assalto:</c> Morro 91-2"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/order_fusbat275"
+msgid "<c(B29557)>Assault order:</c> Fus Bat 275 Pos."
+msgstr "<c(B29557)>Ordem de assalto:</c> Pos. Fus Bat 275"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/order_pzrgt902"
+msgid "<c(B29557)>Assault order:</c> Pz Gren Rgt 902 Pos."
+msgstr "<c(B29557)>Ordem de assalto:</c> Pos. Pz Gren Rgt 902"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/order_rgt984"
+msgid "<c(B29557)>Assault order:</c> Gren Rgt 984 Pos."
+msgstr "<c(B29557)>Ordem de assalto:</c> Pos. Gren Rgt 984"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/support_air"
+msgid "Call-in air support"
+msgstr "Solicitar apoio aéreo"
+
+msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/v2/reinf/support_barrage"
+msgid "Call-in artillery barrage 155mm"
+msgstr "Solicitar barragem de artilharia 155mm"

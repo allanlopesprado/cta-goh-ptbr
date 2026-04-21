@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_08_19_falaise_escape)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/date"
+msgid "August 19th, 1944 · Magny, Normandy, France"
+msgstr "19 de agosto de 1944 · Magny, Normandia, França"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/name"
+msgid "Escaping the Pocket"
+msgstr "Fuga do Bolsão"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/name_big"
+msgid "Escaping the Pocket"
+msgstr "Fuga do Bolsão"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/01"
+msgid "Fallschirmjäger! We need to cross the river if we want to escape the Allied encirclement. The river current makes it impossible to swim with all our equipment attached."
+msgstr "Fallschirmjäger! Precisamos cruzar o rio se quisermos escapar do cerco aliado. A correnteza do rio torna impossível nadar com todo o equipamento."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/02"
+msgid "We have spread out into small squads to try to get through the Allied lines. This sector has Americans at every corner, so watch out!"
+msgstr "Espalhamo-nos em pequenos esquadrões para tentar atravessar as linhas aliadas. Este setor tem americanos em cada esquina — cuidado!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/03"
+msgid "Your first objective is to approach the bridge at Magny. We will see if it's possible to cross the river at this point."
+msgstr "Seu primeiro objetivo é se aproximar da ponte em Magny. Veremos se é possível cruzar o rio neste ponto."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/04"
+msgid "It is up to you to either sneak through or blast your way through. But we are at a severe disadvantage. So pick your fights very carefully."
+msgstr "Cabe a você infiltrar-se furtivamente ou abrir caminho pela força. Mas estamos em grande desvantagem. Portanto, escolha seus combates com muito cuidado."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/05"
+msgid "The shrubbery, the rain and the darkness make it very difficult to spot the enemy. Move carefully and assume that wherever there may be lights, there will be Americans."
+msgstr "A vegetação, a chuva e a escuridão dificultam muito avistar o inimigo. Mova-se com cuidado e assuma que onde houver luzes, haverá americanos."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/06"
+msgid "This bridge is no good. It's barricaded and swarming with Americans. We also risk them blowing it up if we get into a firefight. We need to find another way!"
+msgstr "Esta ponte não serve. Está barricada e cheia de americanos. Também arriscamos eles a destruírem se entrarmos em combate. Precisamos encontrar outro caminho!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/07"
+msgid "I hear gunshots! Kameraden, there is another squad being pinned down. Go and assist them!"
+msgstr "Ouço tiros! Kameraden, há outra esquadra sendo imobilizado. Vá ajudá-los!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/08"
+msgid "Fallschirmjäger! It's good to see you. We bring bad news from Magny. The bridge is a no-go. Have you found another way out?"
+msgstr "Fallschirmjäger! É bom vê-los. Trazemos más notícias de Magny. A ponte não serve. Você encontrou outra saída?"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/09"
+msgid "And what is all that artillery gunfire?"
+msgstr "E o que são todos esses disparos de artilharia?"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/10"
+msgid "... Hmm...  Some of us here speak french and english. I wonder if we could convince the canadians to fire at their own allied positions by the river ford..."
+msgstr "... Hmm... Alguns de nós aqui falam francês e inglês. Será que poderíamos convencer os canadenses a atirar em suas próprias posições aliadas perto do vau do rio..."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/11"
+msgid "Excellent, we have a plan of attack! Go to that manor and get hold of an American Radio back pack."
+msgstr "Excelente — temos um plano de ataque! Vá àquela mansão e consiga uma mochila de rádio americana."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/12"
+msgid "Excellent work. And there's all the maps laying around, too! Now, we shall transmit the river ford coordinates."
+msgstr "Excelente trabalho. E há todos os mapas espalhados também! Agora transmitiremos as coordenadas do vau do rio."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/13"
+msgid "The artillery should have done its work. Fallschirmjäger! Cross the river by the ford!"
+msgstr "A artilharia deve ter feito seu trabalho. Fallschirmjäger! Cruzem o rio pelo vau!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/14"
+msgid "Good job Fallschirmjäger! The last job for today is to fight your way to the extraction point, let's go!"
+msgstr "Bom trabalho, Fallschirmjäger! A última tarefa de hoje é abrir caminho até o ponto de extração — vamos!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/15"
+msgid "Everybody, cross over to the north-east side of the river! The Allied forces are arriving in large numbers to our previous positions!"
+msgstr "Todos, cruzem para o lado nordeste do rio! As forças aliadas estão chegando em grande número às nossas posições anteriores!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/wounded"
+msgid "I also see you have wounded soldiers! We will try to get you some medical supplies!"
+msgstr "Também vejo que você tem soldados feridos! Tentaremos conseguir suprimentos médicos para vocês!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/01"
+msgid "Jawohl Herr Hauptmann! We located a ford in the river, but the Americans spotted us and ruhed a whole damn armored column in to cover it."
+msgstr "Jawohl, Herr Hauptmann! Localizamos um vau no rio, mas os americanos nos avistaram e enviaram uma maldita coluna blindada inteira para cobri-lo."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/02"
+msgid "The Canadians and Americans want to prove whose artillery is more accurate. They've been firing at multiple coordinates all evening."
+msgstr "Os canadenses e americanos querem provar cuja artilharia é mais precisa. Estiveram atirando em múltiplas coordenadas a noite toda."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/03"
+msgid "We could definitely try, Herr Hauptmann! I believe the enemy is directing the artillery from a radio station inside the nearby manor. "
+msgstr "Definitivamente podemos tentar, Herr Hauptmann! Acredito que o inimigo está dirigindo a artilharia de uma estação de rádio dentro da mansão próxima."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/outro_completed"
+msgid "Good work! This result would be called a victory if it wasn’t for the fact we are retreating. But since you succeeded, we have a fighting chance to keep the allies from breaking out in the direction of Paris. Well done!"
+msgstr "Bom trabalho! Este resultado seria chamado de vitória se não fosse pelo fato de estarmos recuando. Mas já que você teve êxito, temos uma chance de impedir os aliados de avançar em direção a Paris. Muito bem!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/outro_failed"
+msgid "This is very bad news. We should have gotten out of this situation in order to regroup, but largely due to this failed breakout we’re suddenly a lot more likely to be taken prisoner, and that includes you! "
+msgstr "Esta é uma notícia muito ruim. Deveríamos ter saído desta situação para nos reagrupar, mas em grande parte por causa desta fuga fracassada, somos muito mais propensos a ser capturados — e isso inclui você!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/place"
+msgid "3rd Fallschirmjäger Division "
+msgstr "3ª Divisão Fallschirmjäger"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/story"
+msgid " August 1944. The German counterattack at Mortain has failed to achieve its goals, and the allies are breaking out of the bridgehead. The threat of encirclement is real; but even now, Hitler demands new counter attacks in the direction of Avranches. A few days later he finally approves a retreat east. But around Falaise the remnants of no less than 14 divisions, including yours, are being pushed back into a pocket, and the few roads east from Falaise are constantly under attack by allied aircraft and artillery. High command has ordered a breakout by night.\n\n In this mission, the plan for you and the 3rd Fallschirmjäger Division is to break out of the encirclement in small groups. You will command one group, and you are to infiltrate and push through the allied lines, while creating some big distractions to get their attention. Your first assignment is to find a way for the division to cross the river Dives. Once you have found a suitable place to cross, report to 3rd FJ division command, after which further instructions will be issued.\n\nGood luck!"
+msgstr " Agosto de 1944. O contra-ataque alemão em Mortain falhou em alcançar seus objetivos, e os aliados estão rompendo a cabeça de ponte. A ameaça de cerco é real; mas mesmo agora, Hitler exige novos contra-ataques na direção de Avranches. Alguns dias depois ele finalmente aprova uma retirada a leste. Mas ao redor de Falaise os remanescentes de não menos de 14 divisões, incluindo a sua, estão sendo empurrados de volta para um bolsão, e as poucas estradas a leste de Falaise estão constantemente sob ataque de aeronaves e artilharia aliadas. O alto comando ordenou uma fuga noturna.\n\nNesta missão, o plano para você e a 3ª Divisão Fallschirmjäger é escapar do cerco em pequenos grupos. Você comandará um grupo, devendo se infiltrar e avançar pelas linhas aliadas enquanto cria grandes distrações para chamar sua atenção. Sua primeira missão é encontrar um caminho para que a divisão cruce o rio Dives. Depois de encontrar um local adequado para cruzar, reporte-se ao comando da 3ª FJ, após o qual novas instruções serão emitidas.\n\nBoa sorte!"
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task1"
+msgid "Approach the Magny bridge to perform reconnaissance."
+msgstr "Aproxime-se da ponte de Magny para realizar reconhecimento."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task2"
+msgid "Rescue the friendly squad."
+msgstr "Resgate a esquadra amigo."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task3"
+msgid "Acquire an American portable radio to give false artillery coordinates in order to eliminate the US forces at the ford."
+msgstr "Adquira um rádio portátil americano para transmitir coordenadas falsas de artilharia e eliminar as forças americanas no vau."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task4"
+msgid "Cross the river by the fording area."
+msgstr "Cruze o rio pela área de vau."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task5"
+msgid "Escape the falaise pocket by fighting your way to the extraction point."
+msgstr "Escape do bolsão de Falaise abrindo caminho até o ponto de extração."
+
+msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/taskopt1"
+msgid "Bring medical supplies to the wounded soldiers."
+msgstr "Leve suprimentos médicos aos soldados feridos."

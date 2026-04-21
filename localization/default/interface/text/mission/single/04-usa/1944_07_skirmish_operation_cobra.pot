@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_07_skirmish_operation_cobra)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/name"
+msgid "Operation Cobra [SKIRMISH]"
+msgstr "Operação Cobra [ESCARAMUÇA]"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/name_big"
+msgid "Operation Cobra"
+msgstr "Operação Cobra"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/story"
+msgid "Combat Command B, 3rd Armored Division - Operation Cobra.\n\nGentlemen, today the 3rd Armored Division will punch deep into enemy territory.\n\nGoals: \n - Break through the German lines.\n - Capture Marigny."
+msgstr "Comando de Combate B, 3ª Divisão Blindada — Operação Cobra.\n\nSenhores, hoje a 3ª Divisão Blindada avançará fundo em território inimigo.\n\nObjetivos:\n - Romper as linhas alemãs.\n - Capturar Marigny."
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/place"
+msgid "Outskirts of Marigny"
+msgstr "Arredores de Marigny"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/date"
+msgid "July, 1944"
+msgstr "Julho de 1944"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/outro_completed"
+msgid "Well done! This was the best result we could have expected. HQ will be pleased with your reports."
+msgstr "Muito bem! Este foi o melhor resultado que poderíamos ter esperado. O QG ficará satisfeito com seus relatórios."
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/outro_failed"
+msgid "That's quite unexpected! What happened? We need to win this one for Ike!"
+msgstr "Isso é bastante inesperado! O que aconteceu? Precisamos ganhar esta por Ike!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/outro_failed_hq"
+msgid "That borders on disaster. We failed to secure a win, you need to go back and get another effort going!"
+msgstr "Isso beira o desastre. Falhamos em garantir uma vitória — você precisa voltar e fazer uma nova tentativa!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/mission_attack"
+msgid "Punch a hole in the enemy position and drive north!"
+msgstr "Abra uma brecha na posição inimiga e avance para o norte!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/narrator_start0"
+msgid "Welcome back to the front line, Lieutenant! This is our field HQ, it must remain in our control!"
+msgstr "Bem-vindo de volta à linha de frente, Tenente! Este é nosso QG de campo — deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/narrator_start1"
+msgid "Operation Cobra is in full swing, a swift assault is necessary to breach through the German lines."
+msgstr "A Operação Cobra está em pleno andamento — um assalto rápido é necessário para romper as linhas alemãs."
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/narrator_start2"
+msgid "Be quick, be decisive, and try not to lose too many men! Use the terrain to your advantage."
+msgstr "Seja rápido, seja decisivo e tente não perder muitos homens! Use o terreno a seu favor."
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/narrator_start3"
+msgid "More reinforcements will become available as you progress with your assault!"
+msgstr "Mais reforços ficarão disponíveis conforme você avança com seu assalto!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/allied_enemy_near_hq"
+msgid "Gentlemen! Germans are close to our Field HQ!"
+msgstr "Senhores! Os alemães estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr "Avião inimigo!!!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/allied_enemy_plane2"
+msgid "German aircraft inbound!"
+msgstr "Aeronave alemã se aproximando!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/player_enemy_near_hq"
+msgid "We must hold our command post! There is no room for surrender!"
+msgstr "Devemos manter nosso posto de comando! Não há espaço para rendição!"
+
+msgctxt "mission/single/04-usa/1944_07_skirmish_operation_cobra/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr "Major! Agora você pode solicitar um ataque aéreo."

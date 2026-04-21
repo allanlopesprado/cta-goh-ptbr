@@ -1,0 +1,401 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "desc/stuff/can_beret_para"
+msgid "Paratrooper Beret [Canadian]"
+msgstr "Boina de Paraquedista [Canadense]"
+
+msgctxt "desc/stuff/pol_beret_para"
+msgid "Paratrooper Beret [Polish]"
+msgstr "Boina de Paraquedista [Polonês]"
+
+msgctxt "desc/stuff/uk_beanie"
+msgid "Cap, Comforter"
+msgstr "Gorro de Conforto"
+
+msgctxt "desc/stuff/uk_beret_commando"
+msgid "Commando Beret"
+msgstr "Boina Commando"
+
+msgctxt "desc/stuff/uk_beret_para"
+msgid "Paratrooper Beret"
+msgstr "Boina de Paraquedista"
+
+msgctxt "desc/stuff/uk_beret_para_eng"
+msgid "Paratrooper Engineer Beret"
+msgstr "Boina de Engenheiro Paraquedista"
+
+msgctxt "desc/stuff/uk_beret_pol_tank"
+msgid "Tanker Beret [Polish]"
+msgstr "Boina de Tanqueiro [Polonês]"
+
+msgctxt "desc/stuff/uk_beret_pol_tank_headset"
+msgid "Tanker Beret - Headset [Polish]"
+msgstr "Boina de Tanqueiro - Fone [Polonês]"
+
+msgctxt "desc/stuff/uk_beret_rm_commando"
+msgid "Royal Marines Commando Beret"
+msgstr "Boina Commando dos Royal Marines"
+
+msgctxt "desc/stuff/uk_beret_sas"
+msgid "SAS Beret"
+msgstr "Boina SAS"
+
+msgctxt "desc/stuff/uk_beret_sas_early"
+msgid "SAS Beret"
+msgstr "Boina SAS"
+
+msgctxt "desc/stuff/uk_beret_tank"
+msgid "Tanker Beret"
+msgstr "Boina de Tanqueiro"
+
+msgctxt "desc/stuff/uk_beret_tank_headset"
+msgid "Tanker Beret - Headset"
+msgstr "Boina de Tanqueiro - Fone"
+
+msgctxt "desc/stuff/uk_helm_brodie"
+msgid "Steel Helmet Mk. II"
+msgstr "Capacete de Aço Mk. II"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie"
+msgid "Steel Helmet Mk. II"
+msgstr "Capacete de Aço Mk. II"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_chinstrap"
+msgid "Steel Helmet Mk. II"
+msgstr "Capacete de Aço Mk. II"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_chinstrap"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_1"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_2"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_3"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_torn"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_chinstrap"
+msgid "Steel Helmet Mk. II"
+msgstr "Capacete de Aço Mk. II"
+
+msgctxt "desc/stuff/uk_helm_brodie_medic"
+msgid "Steel Helmet Mk. II - Medic"
+msgstr "Capacete de Aço Mk. II - Médico"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_chinstrap"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_1"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_2"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_3"
+msgid "Steel Helmet Mk. II - Scrim"
+msgstr "Capacete de Aço Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_torn"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_veil_down"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mesh_veil_up"
+msgid "Steel Helmet Mk. II - Cover"
+msgstr "Capacete de Aço Mk. II - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3"
+msgid "Steel Helmet Mk. III"
+msgstr "Capacete de Aço Mk. III"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie"
+msgid "Steel Helmet Mk. III"
+msgstr "Capacete de Aço Mk. III"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_chinstrap"
+msgid "Steel Helmet Mk. III"
+msgstr "Capacete de Aço Mk. III"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_chinstrap"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_1"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_2"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_3"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_torn"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_chinstrap"
+msgid "Steel Helmet Mk. III"
+msgstr "Capacete de Aço Mk. III"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_chinstrap"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_1"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_2"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_3"
+msgid "Steel Helmet Mk. III - Scrim"
+msgstr "Capacete de Aço Mk. III - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_torn"
+msgid "Steel Helmet Mk. III - Cover"
+msgstr "Capacete de Aço Mk. III - Capa"
+
+msgctxt "desc/stuff/uk_helm_brodie_net"
+msgid "Steel Helmet Mk. II - Net"
+msgstr "Steel Helmet Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_brodie_net_scrim"
+msgid "Steel Helmet Mk. II - Net"
+msgstr "Steel Helmet Mk. II - Rede"
+
+msgctxt "desc/stuff/uk_helm_para"
+msgid "Helmet HSAT Mk. I"
+msgstr "Capacete HSAT Mk. I"
+
+msgctxt "desc/stuff/uk_helm_para_net"
+msgid "Helmet HSAT Mk. I - Net"
+msgstr "Capacete HSAT Mk. I - Rede"
+
+msgctxt "desc/stuff/uk_helm_para_net_scrim"
+msgid "Helmet HSAT Mk. I - Net"
+msgstr "Capacete HSAT Mk. I - Rede"
+
+msgctxt "desc/stuff/uk_helm_para_medic"
+msgid "Helmet HSAT Mk. I - Medic"
+msgstr "Capacete HSAT Mk. I - Médico"
+
+msgctxt "desc/stuff/uk_helm_para_pol"
+msgid "Helmet HSAT Mk. I [Polish] "
+msgstr "Capacete HSAT Mk. I [Polonês] "
+
+msgctxt "desc/stuff/uk_helm_para_pol_net"
+msgid "Helmet HSAT Mk. I - Net [Polish]"
+msgstr "Capacete HSAT Mk. I - Rede [Polonês]"
+
+msgctxt "desc/stuff/uk_helm_para_pol_net_scrim"
+msgid "Helmet HSAT Mk. I - Net [Polish]"
+msgstr "Capacete HSAT Mk. I - Rede [Polonês]"
+
+msgctxt "desc/stuff/uk_helm_brodie_pol"
+msgid "Steel Helmet Mk. II [Polish]"
+msgstr "Capacete de Aço Mk. II [Polonês]"
+
+msgctxt "desc/stuff/uk_helm_brodie_pol_net"
+msgid "Steel Helmet Mk. II - Net [Polish]"
+msgstr "Capacete de Aço Mk. II - Rede [Polonês]"
+
+msgctxt "desc/stuff/uk_helm_brodie_pol_net_scrim"
+msgid "Steel Helmet Mk. II - Net [Polish]"
+msgstr "Capacete de Aço Mk. II - Rede [Polonês]"
+
+msgctxt "desc/stuff/uk_helm_brodie_rn"
+msgid "Steel Helmet Mk. II [Navy]"
+msgstr "Capacete de Aço Mk. II [Navy]"
+
+msgctxt "desc/stuff/uk_helm_brodie_net_rn"
+msgid "Steel Helmet Mk. II - Net [Navy]"
+msgstr "Capacete de Aço Mk. II - Rede [Navy]"
+
+msgctxt "desc/stuff/uk_helm_brodie_net_scrim_rn"
+msgid "Steel Helmet Mk. II - Net [Navy]"
+msgstr "Capacete de Aço Mk. II - Rede [Navy]"
+
+msgctxt "desc/stuff/uk_peaked_cap_inf"
+msgid "Officer Peaked Cap [Infantry]"
+msgstr "Quepe de Oficial [Infantaria]"
+
+msgctxt "desc/stuff/uk_peaked_cap_light_inf"
+msgid "Officer Peaked Cap [Light Infantry]"
+msgstr "Quepe de Oficial [Infantaria Leve]"
+
+msgctxt "desc/stuff/uk_peaked_cap_mp"
+msgid "Military Police Service Cap"
+msgstr "Boné de Serviço da Polícia Militar"
+
+msgctxt "desc/stuff/uk_peaked_cap_navy"
+msgid "Officer Peaked Cap [Navy]"
+msgstr "Quepe de Oficial [Marinha]"
+
+msgctxt "desc/stuff/uk_servicecap_var1"
+msgid "General Service Cap"
+msgstr "Boné de Serviço Geral"
+
+msgctxt "desc/stuff/uk_servicecap_var2"
+msgid "General Service Cap"
+msgstr "Boné de Serviço Geral"
+
+msgctxt "desc/stuff/uk_servicecap_var2_inf"
+msgid "General Service Cap [Infantry]"
+msgstr "Boné de Serviço Geral [Infantaria]"
+
+msgctxt "desc/stuff/uk_servicecap_var2_pol"
+msgid "General Service Cap [Polish]"
+msgstr "Boné de Serviço Geral [Polonês]"
+
+msgctxt "desc/stuff/uk_sidecap_var1"
+msgid "Field Service Sidecap"
+msgstr "Boné de Serviço de Campo"
+
+msgctxt "desc/stuff/uk_sidecap_var1_pol"
+msgid "Field Service Sidecap [Polish]"
+msgstr "Boné de Serviço de Campo [Polonês]"
+
+msgctxt "desc/stuff/uk_sidecap_var2"
+msgid "Field Service Sidecap"
+msgstr "Boné de Serviço de Campo"
+
+msgctxt "desc/stuff/uk_sidecap_var2_pol"
+msgid "Field Service Sidecap [Polish]"
+msgstr "Boné de Serviço de Campo [Polonês]"
+
+msgctxt "desc/stuff/uk_servicecap_hd_bw"
+msgid "General Service Cap - Black Watch"
+msgstr "Boné de Serviço Geral - Black Watch"
+
+msgctxt "desc/stuff/uk_servicecap_hd"
+msgid "General Service Cap - Highland Division"
+msgstr "Boné de Serviço Geral - Highland Division"
+
+msgctxt "desc/stuff/bagpipes"
+msgid "Scottish Bagpipes"
+msgstr "Gaita Escocesa"
+
+msgctxt "desc/stuff/no8_smoke"
+msgid "No.8 Smoke Generator"
+msgstr "No.8 Gerador de Fumaça"
+
+msgctxt "desc/stuff/no36m"
+msgid "No.36M Mk.I Grenade 'Mills bomb'"
+msgstr "No.36M Mk.I Granada 'Mills bomb'"
+
+msgctxt "desc/stuff/no36m_early"
+msgid "No.36M Mk.I Grenade 'Mills bomb' (Early fuze)"
+msgstr "No.36M Mk.I Granada 'Mills bomb' (Espoleta Inicial)"
+
+msgctxt "desc/stuff/no69"
+msgid "No.69 Mk.I Grenade"
+msgstr "No.69 Mk.I Granada"
+
+msgctxt "desc/stuff/no73"
+msgid "No.73 Mk.I AT Grenade 'Thermos'"
+msgstr "No.73 Mk.I AT Granada 'Thermos'"
+
+msgctxt "desc/stuff/no74"
+msgid "No.74 Mk.I AT Grenade 'Sticky Bomb'"
+msgstr "No.74 Mk.I AT Granada 'Sticky Bomb'"
+
+msgctxt "desc/stuff/no75"
+msgid "No.75 Mk.I AT Grenade 'Hawkins grenade'"
+msgstr "No.75 Mk.I AT Granada 'Hawkins grenade'"
+
+msgctxt "desc/stuff/no76_ic"
+msgid "No.76 Special Incendiary Grenade"
+msgstr "No.76 Granada Incendiária Especial"
+
+msgctxt "desc/stuff/no77_wp"
+msgid "No.77 Mk.I Grenade (Fumaça WP)"
+msgstr "No.77 Mk.I Granada (Fumaça WP)"
+
+msgctxt "desc/stuff/no82"
+msgid "No.82 Mk.I Grenade 'Gammon bomb'"
+msgstr "No.82 Mk.I Granada 'Gammon bomb'"
+
+msgctxt "desc/stuff/ap_shrapnel_mk1 mine"
+msgid "Antipersonnel Shrapnel Mine Mk.I"
+msgstr "Mina Antipessoal de Estilhaço Mk.I"
+
+msgctxt "desc/stuff/at_gs_mk4 mine"
+msgid "Anti-Tank Mine GS Mk.IV"
+msgstr "Mina Antitanque GS Mk.IV"
+
+msgctxt "desc/stuff/at_gs_mk5 mine"
+msgid "Anti-Tank Mine GS Mk.V"
+msgstr "Mina Antitanque GS Mk.V"
+
+msgctxt "desc/stuff/shovel_eng"
+msgid "Pattern 1937 Entrenching Tool"
+msgstr "Ferramenta de Escavação Padrão 1937"
+
+msgctxt "desc/stuff/knife_eng"
+msgid "F-S Knife"
+msgstr "F-S Faca"
+
+msgctxt "desc/stuff/bandage_eng"
+msgid "British First-Aid Dressing"
+msgstr "Curativo de Primeiros Socorros Britânico"
+
+msgctxt "desc/stuff/satchel_charge_eng"
+msgid "Demolition Charge"
+msgstr "Carga de Demolição"
+
+msgctxt "desc/stuff/tnt_eng"
+msgid "4x Demolition Slab C.E. TNT"
+msgstr "4x Carga de Demolição C.E. TNT"
+
+msgctxt "desc/stuff/eng_radio"
+msgid "Wireless Set No.18 Set"
+msgstr "Rádio No.18"

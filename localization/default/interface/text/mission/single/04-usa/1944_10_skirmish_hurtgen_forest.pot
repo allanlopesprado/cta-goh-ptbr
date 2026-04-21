@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1944_10_skirmish_hurtgen_forest)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/name"
+msgid "Battle of Hurtgen Forest [SKIRMISH]"
+msgstr "Batalha da Floresta de Hürtgen [ESCARAMUÇA]"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/name_big"
+msgid "Battle of Hurtgen Forest"
+msgstr "Batalha da Floresta de Hürtgen"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/story"
+msgid "Operation Queen, Hurtgen offensive - The attack by the 28th Division started on 2nd November.\n\n2nd Rangers listen up! The forest ahead needs to be cleared of enemies. Clear the forest and chase the enemy out!\n\nGoals:\n - Clear the forest.\n - Chase the enemy from his trenches."
+msgstr "Operação Queen, ofensiva de Hürtgen — o ataque da 28ª Divisão começou em 2 de novembro.\n\n2º Rangers, atenção! A floresta à frente precisa ser limpa de inimigos. Limpe a floresta e expulse o inimigo!\n\nObjetivos:\n - Limpar a floresta.\n - Expulsar o inimigo de suas trincheiras."
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/place"
+msgid "Hurtgen Forest"
+msgstr "Floresta de Hürtgen"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/date"
+msgid "November, 1944"
+msgstr "Novembro de 1944"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/outro_completed"
+msgid "Well done! High command will be pleased. Now, it's on to the Rhine river."
+msgstr "Muito bem! O alto comando ficará satisfeito. Agora, avançamos para o rio Reno."
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/outro_failed"
+msgid "That was brutal. But you're going to bounce back! Go back, and remember you might benefit from using different tactics."
+msgstr "Isso foi brutal. Mas você vai se recuperar! Volte e lembre-se de que talvez se beneficie de usar táticas diferentes."
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/outro_failed_hq"
+msgid "We lost our HQ and are no longer in control here."
+msgstr "Perdemos nosso QG e não estamos mais no controle aqui."
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/mission_attack"
+msgid "Punch a hole in the enemy positions!"
+msgstr "Abra uma brecha nas posições inimigas!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start0"
+msgid "Welcome to the infamous Hürtgen forest! This is your field HQ, it must remain in our control!"
+msgstr "Bem-vindo à infame floresta de Hürtgen! Este é seu QG de campo — deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start1"
+msgid "Lieutenant, we're against the ropes here, and high command deems it best to seize the initiative immediately. Attack!"
+msgstr "Tenente — estamos encurralados aqui, e o alto comando considera melhor tomar a iniciativa imediatamente. Ataque!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start2"
+msgid "The germans are unprepared for a massive assault, but their fortifications and obstacles will be tough to crack!"
+msgstr "Os alemães não estão preparados para um assalto massivo, mas suas fortificações e obstáculos serão difíceis de romper!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start3"
+msgid "Commence the assault, more reinforcements will be sent here soon!"
+msgstr "Inicie o assalto — mais reforços serão enviados em breve!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/allied_enemy_near_hq"
+msgid "Attention! Our Field HQ is under threat!"
+msgstr "Atenção! Nosso QG de campo está sob ameaça!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr "Avião inimigo!!!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/allied_enemy_plane2"
+msgid "German aircraft inbound!"
+msgstr "Aeronave alemã se aproximando!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/player_enemy_near_hq"
+msgid "Hold the command post or go down trying! We cannot afford to retreat!"
+msgstr "Segure o posto de comando ou caia tentando! Não podemos nos dar ao luxo de recuar!"
+
+msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/hq_bonus"
+msgid "Attention! Now you can request an airstrike."
+msgstr "Atenção! Agora você pode solicitar um ataque aéreo."

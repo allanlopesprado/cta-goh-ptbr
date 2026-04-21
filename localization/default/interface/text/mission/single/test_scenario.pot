@@ -1,0 +1,25 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) ()\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "mission/single/test_scenario/test/name"
+msgid "test"
+msgstr "teste"
+
+msgctxt "mission/single/test_scenario/test/name_big"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/test_scenario/test/test"
+msgid "this is a test subtitle message, this should display in white color on the bottom of the cutscene. And it will remain here for the whole duration of the cutscene. It should also auto-trigger a voice file for this line, like with the talk command."
+msgstr "Esta é uma mensagem de legenda de teste, deve aparecer em branco na parte inferior da cutscene. Ela permanecerá aqui durante toda a duração da cutscene. Também deverá disparar automaticamente um arquivo de voz para esta linha, como com o comando talk."

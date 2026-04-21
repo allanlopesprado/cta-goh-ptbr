@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (announcements)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "button/supporterpack"
+msgid "BUY THE SUPPORTER PACK!"
+msgstr "COMPRE O PACOTE APOIADOR!"
+
+msgctxt "announce_contentupdate6"
+msgid "We have just released Content Update 6, one of our biggest updates thus far!\n\nIt covers <c(f5d167)>CONQUEST</c> improvements, <c(f5d167)>ANTI-AIRCRAFT</c> fixes, <c(f5d167)>OPTIMIZATION</c>, new <c(f5d167)>ANIMATIONS</c>, and a MASSIVE addition of content to the <c(f5d167)>TALVISOTA DLC</c>.\n\nWe're grateful that you enable us to keep updating the game and working with the community to make these improvements come true.\n\n We'd like to thank our volunteer helpers and the supporter pack owners for going the extra mile to make this happen. If you'd like to see continued updates to our older releases, please consider joining the fight by acquring the <c(f5d167)>SUPPORTER PACK</c>."
+msgstr "Acabamos de lançar a Atualização de Conteúdo 6, uma das nossas maiores atualizações até agora!\n\nCobre melhorias na <c(f5d167)>CONQUISTA</c>, correções de <c(f5d167)>ANTIAÉREO</c>, <c(f5d167)>OTIMIZAÇÃO</c>, novas <c(f5d167)>ANIMAÇÕES</c>, e uma adição MASSIVA de conteúdo ao <c(f5d167)>DLC TALVISOTA</c>.\n\nAgradecemos por nos permitirem continuar atualizando o jogo e trabalhar com a comunidade para concretizar essas melhorias.\n\n Gostaríamos de agradecer aos nossos colaboradores voluntários e aos donos do pacote apoiador por fazerem um esforço extra para tornar isso possível. Se você deseja ver atualizações contínuas nos nossos lançamentos mais antigos, considere entrar na luta adquirindo o <c(f5d167)>PACOTE APOIADOR</c>."

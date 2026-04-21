@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_08_porlampi)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/date"
+msgid "31st August, 1941 · Porlampi, Karelian isthmus "
+msgstr "31 de agosto de 1941 · Porlampi, Istmo da Carélia"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/men"
+msgid "You lost all your men!"
+msgstr "Você perdeu todos os seus homens!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/name"
+msgid "Through the Fire"
+msgstr "Através do Fogo"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/name_big"
+msgid "Through the Fire"
+msgstr "Através do Fogo"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/timer"
+msgid "Time until convoy arrival:"
+msgstr "Tempo até a chegada do comboio:"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/story"
+msgid " August 1941. The Finnish IV corps marches on Viipuri, while the 8th division crosses the bay and lands south of the town. Very soon, the 8th will try to encircle the Soviet 43rd rifle division at Porlampi. The Soviets offer fierce resistance, trying to break out and regroup.\n\n In this mission, you will have to prove that you know the right “motti” tactics to bring about a swift victory."
+msgstr " Agosto de 1941. O IV Corpo finlandês marcha sobre Viipuri, enquanto a 8ª Divisão cruza a baía e desembarca ao sul da cidade. Em breve, a 8ª tentará cercar a 43ª Divisão de Fuzileiros soviética em Porlampi. Os soviéticos oferecem resistência feroz, tentando romper o cerco e se reorganizar.\n\n Nesta missão, você terá de provar que conhece as táticas motti certas para obter uma vitória rápida."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/outro_completed"
+msgid "Well done! You have completely out- manoeuvred and out- witted the entire Soviet 43rd rifle division, and the enemy is retreating in disorder. We have captured an unbelievable amount of enemy equipment and stocks: 300 artillery pieces and nearly 20.000 shells, over 50 tanks, hundreds of vehicles, and much, much more. Soviet resistance has broken down completely on this front; the road to Leningrad is now open!"
+msgstr "Muito bem! Você superou completamente em manobra e estratégia toda a 43ª Divisão de Fuzileiros soviética, e o inimigo está recuando em desordem. Capturamos uma quantidade inacreditável de equipamentos e estoques inimigos: 300 peças de artilharia e quase 20.000 projéteis, mais de 50 tanques, centenas de veículos e muito, muito mais. A resistência soviética entrou em colapso completo nesta frente — o caminho para Leningrado está aberto!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/outro_failed"
+msgid "The enemy broke out! This means he will fall back to his next defensive line with all of his heavy equipment, and have another go at us. We are supposed to be within artillery range of Leningrad next week, but we might be unable to achieve that. Next time we will have to do better than we did today."
+msgstr "O inimigo escapou! Isso significa que recuará para sua próxima linha defensiva com todo o equipamento pesado e tentará novamente contra nós. Supostamente deveríamos estar ao alcance de artilharia de Leningrado na próxima semana, mas podemos ser incapazes de alcançar isso. Na próxima vez teremos que fazer melhor do que hoje."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/01"
+msgid "Stay put, soldiers! Do not make any unnecessary movements... The enemy column is approaching, get ready to surprise them!"
+msgstr "Fiquem quietos, soldados! Não façam movimentos desnecessários... A coluna inimiga está se aproximando — preparem-se para surpreendê-los!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/02"
+msgid "Let them come into the village before you open fire... You'll be able to grenade them from the houses"
+msgstr "Deixe-os entrar na aldeia antes de abrir fogo... Você conseguirá graná-los a partir das casas"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/03"
+msgid "Don't let any vehicle get through!!!"
+msgstr "Não deixe nenhum veículo passar!!!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/04"
+msgid "Good job, boys! "
+msgstr "Bom trabalho, rapazes!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/05"
+msgid "Soldiers, support our neighboring detachment to the south-west and intercept the next enemy column!"
+msgstr "Soldados — apoiem nosso destacamento vizinho a sudoeste e interceptem a próxima coluna inimiga!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/06"
+msgid "Check that out, it's an artillery convoy! It would be a shame if those big howitzers ended up in the wrong hands, huh? Try to keep them operational."
+msgstr "Olhem aquilo — é um comboio de artilharia! Seria uma pena se esses grandes obuseiros acabassem nas mãos erradas, não é? Tente mantê-los operacionais."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/07"
+msgid "Well done. Let's try to re-purpose these artillery pieces right here. They seem to be out of ammo! You can find extra ammunition at the first column you ambushed."
+msgstr "Muito bem. Vamos tentar reaproveitar essas peças de artilharia aqui mesmo. Parecem estar sem munição! Você pode encontrar munição extra na primeira coluna que emboscou."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/08"
+msgid "Right then. With these tools at our disposal, the enemy is most certainly doomed. I want you to encircle the enemy from all directions and squeeze the pocket!"
+msgstr "Certo. Com essas ferramentas à nossa disposição, o inimigo está certamente condenado. Quero que cerque o inimigo de todas as direções e aperte o bolsão!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/09"
+msgid "I am granting you command of the neighboring infantry company to complete the encirclement of the enemy. In addition, our air force has a couple of bombers standing by. They are now at your disposal. "
+msgstr "Estou concedendo a você o comando da companhia de infantaria vizinha para completar o cerco ao inimigo. Além disso, nossa força aérea tem um par de bombardeiros em alerta. Estão agora à sua disposição."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/10"
+msgid "Yes! Eliminate the soviet vermin! I want to see them burn!"
+msgstr "Sim! Elimine a gentalha soviética! Quero vê-los arder!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/officer/11"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/narrator/soldier/01"
+msgid "Sir! I can hear another column approaching in the distance, toward the south-west!"
+msgstr "Senhor! Posso ouvir outra coluna se aproximando à distância, em direção ao sudoeste!"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/place"
+msgid "8th Infantry Division"
+msgstr "8ª Divisão de Infantaria"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/task1"
+msgid "Ambush the enemy supply convoy"
+msgstr "Embosque o comboio de suprimentos inimigo"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/task2"
+msgid "Intercept and silence the retreating artillery column."
+msgstr "Intercepte e silencie a coluna de artilharia em retirada."
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/task3"
+msgid "Capture and re-supply the enemy artillery"
+msgstr "Capture e reabasteça a artilharia inimiga"
+
+msgctxt "mission/single/03-fin/1941_08_porlampi/task4"
+msgid "Eliminate the enemy forces in the area"
+msgstr "Elimine as forças inimigas na área"

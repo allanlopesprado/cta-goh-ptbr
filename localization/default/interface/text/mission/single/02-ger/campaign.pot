@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (campaign)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/campaign/title"
+msgid "Germany, 1941-45"
+msgstr "Alemanha, 1941–45"
+
+msgctxt "mission/single/02-ger/campaign/name"
+msgid "OSTFRONT</c>"
+msgstr "OSTFRONT</c>"

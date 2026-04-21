@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic weaponry\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/ammo/ap"
+msgid "<f(anka)s(12)x.>Armor Piercing"
+msgstr "<f(anka)s(12)x.>Perfurante de Blindagem"
+
+msgctxt "desc/ammo/ap2"
+msgid "<f(anka)s(12)x.>Armor Piercing"
+msgstr "<f(anka)s(12)x.>Perfurante de Blindagem"
+
+msgctxt "desc/ammo/apbc"
+msgid "AP Ballistic Cap"
+msgstr "Perf. com Capuz Balístico"
+
+msgctxt "desc/ammo/apbc2"
+msgid "AP Ballistic Cap"
+msgstr "Perf. com Capuz Balístico"
+
+msgctxt "desc/ammo/apc"
+msgid "AP Capped"
+msgstr "Perfurante Encapuçado"
+
+msgctxt "desc/ammo/apc2"
+msgid "AP Capped"
+msgstr "Perfurante Encapuçado"
+
+msgctxt "desc/ammo/apcbc"
+msgid "AP Capped Ballist. Cap"
+msgstr "Perf. Enc. Cap. Balístico"
+
+msgctxt "desc/ammo/apcbc2"
+msgid "AP Capped Ballist. Cap"
+msgstr "Perf. Enc. Cap. Balístico"
+
+msgctxt "desc/ammo/apcbche"
+msgid "APC Ballist. Cap w/ HE Fill"
+msgstr "Perf. Enc. Cap. Bal. c/ Carga EX"
+
+msgctxt "desc/ammo/apcbche2"
+msgid "APC Ballist. Cap w/ HE Fill"
+msgstr "Perf. Enc. Cap. Bal. c/ Carga EX"
+
+msgctxt "desc/ammo/apche"
+msgid "AP Capped w/ HE Filler"
+msgstr "Perfurante Enc. c/ Carga EX"
+
+msgctxt "desc/ammo/apche2"
+msgid "AP Capped w/ HE Filler"
+msgstr "Perfurante Enc. c/ Carga EX"
+
+msgctxt "desc/ammo/apcr"
+msgid "AP Composite Rigid"
+msgstr "Perf. Composto Rígido"
+
+msgctxt "desc/ammo/apcr2"
+msgid "AP Composite Rigid"
+msgstr "Perf. Composto Rígido"
+
+msgctxt "desc/ammo/apds"
+msgid "AP Discarding Sabot"
+msgstr "Perf. com Sabot Descartável"
+
+msgctxt "desc/ammo/apds2"
+msgid "AP Discarding Sabot"
+msgstr "Perf. com Sabot Descartável"
+
+msgctxt "desc/ammo/aphe"
+msgid "AP w/ HE Filler"
+msgstr "Perf. c/ Carga Explosiva"
+
+msgctxt "desc/ammo/aphe2"
+msgid "AP w/ HE Filler"
+msgstr "Perf. c/ Carga Explosiva"
+
+msgctxt "desc/ammo/aphebc"
+msgid "AP Ballist. Cap w/ HE Fill"
+msgstr "Perf. Cap. Balíst. c/ Carga EX"
+
+msgctxt "desc/ammo/aphebc2"
+msgid "AP Ballist. Cap w/ HE Fill"
+msgstr "Perf. Cap. Balíst. c/ Carga EX"
+
+msgctxt "desc/ammo/he"
+msgid "High Explosive"
+msgstr "Alto Explosivo"
+
+msgctxt "desc/ammo/he2"
+msgid "High Explosive"
+msgstr "Alto Explosivo"
+
+msgctxt "desc/ammo/hei"
+msgid "High Explosive Incendiary"
+msgstr "Alto Explosivo Incendiário"
+
+msgctxt "desc/stuff/bulleteng_20_auto"
+msgid "High Explosive Incendiary"
+msgstr "Alto Explosivo Incendiário"
+
+msgctxt "desc/ammo/heat"
+msgid "High Explosive Anti Tank"
+msgstr "Alto Explosivo Antitanque"
+
+msgctxt "desc/ammo/heat2"
+msgid "High Explosive Anti Tank"
+msgstr "Alto Explosivo Antitanque"
+
+msgctxt "desc/ammo/heata"
+msgid "High Explosive Anti Tank"
+msgstr "Alto Explosivo Antitanque"
+
+msgctxt "desc/ammo/heatb"
+msgid "High Explosive Anti Tank"
+msgstr "Alto Explosivo Antitanque"
+
+msgctxt "desc/ammo/heatc"
+msgid "High Explosive Anti Tank"
+msgstr "Alto Explosivo Antitanque"
+
+msgctxt "desc/ammo/hvap"
+msgid "High Velocity Armor Piercing"
+msgstr "Perf. de Alta Velocidade"
+
+msgctxt "desc/ammo/ic"
+msgid "Incendiary"
+msgstr "Incendiário"
+
+msgctxt "desc/ammo/ic2"
+msgid "Incendiary"
+msgstr "Incendiário"
+
+msgctxt "desc/ammo/sm"
+msgid "Smoke"
+msgstr "Fumaça"
+
+msgctxt "desc/ammo/sm2"
+msgid "Smoke"
+msgstr "Fumaça"
+
+msgctxt "desc/ammo/wp"
+msgid "White Phosphorus"
+msgstr "Fósforo Branco"
+
+msgctxt "desc/ammo/wp2"
+msgid "White Phosphorus"
+msgstr "Fósforo Branco"

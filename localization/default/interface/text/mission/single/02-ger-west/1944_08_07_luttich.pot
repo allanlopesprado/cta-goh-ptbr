@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_08_07_luttich)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/date"
+msgid "August 7th-8th, 1944 · Mortain, Normandy, France"
+msgstr "7–8 de agosto de 1944 · Mortain, Normandia, França"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/lose_panthers"
+msgid "You were unable to keep at least one Panther tank operational!"
+msgstr "Você não conseguiu manter pelo menos um tanque Panther operacional!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/name"
+msgid "Operation Lüttich"
+msgstr "Operação Lüttich"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/name_big"
+msgid "Operation Lüttich"
+msgstr "Operação Lüttich"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/01"
+msgid "Before us stands the town of Le-Mesnil-Tôve. We must seize its vital crossroads if we want Operation Lüttich to succeed!"
+msgstr "À nossa frente está a cidade de Le-Mesnil-Tôve. Devemos tomar seu cruzamento vital se quisermos que a Operação Lüttich tenha sucesso!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/02"
+msgid "The town is only lightly defended. I place our Panzeraufklärer under your command! When you have captured the crossroads, our Panzers will roll in."
+msgstr "A cidade está apenas levemente defendida. Coloco nosso Panzeraufklärer sob seu comando! Quando capturar o cruzamento, nossos Panzers avançarão."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/03"
+msgid "You should be able to make quick work of the Americans, but you don't have a lot of manpower. Advance cautiously and don't take unnecessary risks."
+msgstr "Você deve conseguir neutralizar rapidamente os americanos, mas não tem muito efetivo. Avance com cautela e não tome riscos desnecessários."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/04"
+msgid "Ah, look what the Americans left us! What a beautiful half-track!"
+msgstr "Ah, veja o que os americanos nos deixaram! Que half-track bonito!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/05"
+msgid "Good work, Soldaten! I will now dispatch a garrison to hold Le-Mesnil-Tôve. But as for you, unfortunately you will not have much time to rest. I will need you for further tasking in a couple hours!"
+msgstr "Bom trabalho, Soldaten! Enviarei agora uma guarnição para manter Le-Mesnil-Tôve. Mas quanto a você, infelizmente não terá muito tempo para descansar. Precisarei de você para mais tarefas em algumas horas!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/06"
+msgid "The Panzergrenadiere from Kampfgruppe Zander have met resistance on the approaches to Chérencé le Roussel in the north. I need you to assist them."
+msgstr "Os Panzergrenadiere do Kampfgruppe Zander encontraram resistência nas aproximações de Chérencé le Roussel ao norte. Preciso que os auxilie."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/07"
+msgid "I place some of our armor under your command. Keep the enemy pinned at maximum range, where you will be impervious to their 57mm AT guns. "
+msgstr "Coloco parte de nossos blindados sob seu comando. Mantenha o inimigo imobilizado no alcance máximo, onde estará a salvo dos canhões AT de 57mm deles."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/08"
+msgid "Enemy counterattack from the direction of Chérencé le Roussel! Deal with those Americans, Herr Leutnant!"
+msgstr "Contra-ataque inimigo da direção de Chérencé le Roussel! Lide com esses americanos, Herr Leutnant!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/081"
+msgid "Well done Herr Leutnant. Despite the effort, we have not reached Chérencé le Roussel; US defenses have not collapsed, and the constant counter attacks are grinding our offensive momentum to a halt. "
+msgstr "Muito bem, Herr Leutnant. Apesar do esforço, não alcançamos Chérencé le Roussel — as defesas americanas não entraram em colapso, e os constantes contra-ataques estão desgastando nosso impulso ofensivo."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/09"
+msgid "..... Attention! The Americans are threatening Le-Mesnil-Tôve from our rear! We cannot afford to lose this position! I order you to turn around immediately! Come back to the town and reinforce the garrison!"
+msgstr "..... Atenção! Os americanos estão ameaçando Le-Mesnil-Tôve pela nossa retaguarda! Não podemos perder esta posição! Ordeno que se vire imediatamente! Volte à cidade e reforce a guarnição!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/10"
+msgid "We have further bad news. The attack of our neighoring unit has failed and the remnants have returned here after a fighting retreat."
+msgstr "Temos mais más notícias. O ataque de nossa unidade vizinha falhou e os remanescentes retornaram aqui após uma retirada combatendo."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/11"
+msgid "The Panthers need resupply and repairs. Moreover, we cannot afford to lose more of them. Take good care of them, and quickly. We need at least one of them going by the time this is over."
+msgstr "Os Panthers precisam de reabastecimento e reparos. Além disso, não podemos perder mais nenhum. Cuide bem deles, e rapidamente. Precisamos de pelo menos um operacional quando isto acabar."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/12"
+msgid "In any case, back to the elephant in the room - we are encircled! Your new objective is to defend these crossroads and fend off any american attacks at sunrise!"
+msgstr "De qualquer forma, voltando ao assunto principal — estamos cercados! Seu novo objetivo é defender este cruzamento e repelir quaisquer ataques americanos ao amanhecer!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/13"
+msgid "We have received our last reinforcements, Herr Leutnant. Some engineers and air defence trucks to bolster your defences. I suppose some AAA is quite welcome, we expect the Americans to attack us from the air tomorrow."
+msgstr "Recebemos nossos últimos reforços, Herr Leutnant. Alguns engenheiros e caminhões de defesa antiaérea para reforçar suas defesas. Suponho que alguma AAA é bem-vinda — esperamos que os americanos nos ataquem pelo ar amanhã."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/sniper"
+msgid "Attention! Enemy sniper on top of that grain silo!"
+msgstr "Atenção! Franco-atirador inimigo no topo daquele silo de grãos!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/outro_completed"
+msgid "Excellent work! The Oberkommando will be delighted with your leadership. We might win the battle for Normandy after all, after which we’ll probably go back to the eastern front to beat the Soviets. Good job!"
+msgstr "Excelente trabalho! O Oberkommando ficará encantado com sua liderança. Talvez vençamos a batalha pela Normandia afinal, após o que provavelmente voltaremos à Frente Leste para bater os soviéticos. Bom trabalho!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/outro_failed"
+msgid "This is very unfortunate indeed. We should have been en route to Avranches but we aren’t. How are you going to explain this to the Oberkommando? You will have to regroup and try again, with a bit more vigor!"
+msgstr "Isso é muito infeliz. Deveríamos estar a caminho de Avranches, mas não estamos. Como você vai explicar isso ao Oberkommando? Você terá de reagrupar e tentar novamente, com um pouco mais de vigor!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/place"
+msgid "116th Panzer Division"
+msgstr "116ª Divisão Panzer"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/story"
+msgid " August, 1944. After the American breakthrough at St. Lô, Avranches has now fallen into American hands. German high command orders a counterattack in the direction of Avranches, hoping to cut off the allied advance. This counterattack, known as Operation Lüttich, aims to cut into the allied flank around Mortain.\n\n You’re a Panzer commander from 116th Panzer Division, and your battalion is attached to Kampfgruppe Schake for this mission. You have orders to advance and take Le- Mesnil- Tôve. Take the village and secure the area. There is little or no information on enemy disposition, so it’s up to your tactical insight and improvisation skill to achieve your goals. Move out immediately, establish contact with the Panzergrenadiers, and wait for further instructions.\n\nGood luck!"
+msgstr " Agosto de 1944. Após o avanço americano em St. Lô, Avranches caiu em mãos americanas. O alto comando alemão ordena um contra-ataque em direção a Avranches, esperando cortar o avanço aliado. Este contra-ataque, conhecido como Operação Lüttich, visa atacar o flanco aliado em torno de Mortain.\n\n Você é um comandante de Panzer da 116ª Divisão Panzer, e seu batalhão está vinculado ao Kampfgruppe Schake para esta missão. Você tem ordens de avançar e tomar Le-Mesnil-Tôve. Tome a vila e assegure a área. Há pouca ou nenhuma informação sobre a disposição do inimigo, portanto depende do seu discernimento tático e habilidade de improviso para alcançar seus objetivos. Mova-se imediatamente, estabeleça contato com os Panzergrenadiers e aguarde mais instruções.\n\nBoa sorte!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task1"
+msgid "Capture the vital crossroads at Le-Mesnil-Tôve "
+msgstr "Capture o cruzamento vital em Le-Mesnil-Tôve"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task2"
+msgid "Attack to the north to support Kampfgruppe Zander from 116.PZD"
+msgstr "Ataque ao norte para apoiar o Kampfgruppe Zander da 116ª PZD"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task2_1"
+msgid "Eliminate checkpoint to the northeast"
+msgstr "Elimine o posto de controle a nordeste"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task2_2"
+msgid "Eliminate checkpoint to the northwest"
+msgstr "Elimine o posto de controle a noroeste"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task3"
+msgid "Return to the crossroad to rescue the garrison "
+msgstr "Retorne ao cruzamento para resgatar a guarnição"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task4"
+msgid "Defend Le-Mesnil-Tôve at all costs. "
+msgstr "Defenda Le-Mesnil-Tôve a todo custo."
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/task_panthers"
+msgid "Keep at least one Panther operational"
+msgstr "Mantenha pelo menos um Panther operacional"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/timer"
+msgid "Prepare to defend the crossroads!"
+msgstr "Prepare-se para defender o cruzamento!"
+
+msgctxt "mission/single/02-ger-west/1944_08_07_luttich/timer2"
+msgid "Defend the town against the American assault!"
+msgstr "Defenda a cidade contra o assalto americano!"

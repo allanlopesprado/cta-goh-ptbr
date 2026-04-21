@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_03_brecourt_manor)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/date"
+msgid "June 6th, 1944 · Brécourt Manor, Normandy, France."
+msgstr "6 de junho de 1944 · Mansão Brécourt, Normandia, França."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/ending"
+msgid "The successful assault at Brécourt Manor, in part, gave the troops at Utah Beach a relatively easy landing. This assault has become a classic case study in military training for engaging a superior enemy force. Colonel Robert Sink, who commanded the 506th Parachute Infantry Regiment, put forward Dick Winters for the Medal of Honor. Still, it was downgraded to the Distinguished Service Cross due to a policy allowing only one Medal of Honor per division. Despite this, both Winters and Lieutenant Speirs would later gain global recognition for their actions at Brécourt Manor and in subsequent battles."
+msgstr "O bem-sucedido assalto à Mansão Brécourt, em parte, proporcionou às tropas na Praia Utah um desembarque relativamente tranquilo. Este assalto tornou-se um estudo de caso clássico em treinamento militar para combater uma força inimiga superior. O Coronel Robert Sink, que comandava o 506º Regimento de Infantaria Paraquedista, indicou Dick Winters para a Medalha de Honra. No entanto, foi rebaixada para a Cruz de Serviço Distinto devido a uma política que permitia apenas uma Medalha de Honra por divisão. Apesar disso, tanto Winters quanto o Tenente Speirs ganhariam reconhecimento global por suas ações na Mansão Brécourt e em batalhas subsequentes."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/name"
+msgid "Hold Fast!"
+msgstr "Aguentar Firme!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/name_big"
+msgid "Hold Fast!"
+msgstr "Aguentar Firme!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator01"
+msgid "Easy Company, Listen Up! Our boys on Utah Beach are getting hammered by that Kraut artillery. Drop everything except weapons and ammo!"
+msgstr "Easy Company, atenção! Nossos rapazes na Praia Utah estão sendo massacrados por aquela artilharia alemã. Largue tudo exceto armas e munição!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator02"
+msgid "Our main objective is to destroy the enemy howitzer battery. Use TNT or satchel charges!"
+msgstr "Nosso objetivo principal é destruir a bateria de obuseiros inimiga. Use TNT ou cargas explosivas!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator03"
+msgid "After we're done with the howitzers, we'll need to clear the Germans from the nearby manor."
+msgstr "Depois de terminarmos com os obuses, precisaremos limpar os alemães da mansão próxima."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator04"
+msgid "We'll use the .30 cal machine guns to set a base of fire and assault the enemy artillery from the flank. We'll get in close, then hit them hard and fast."
+msgstr "Usaremos as metralhadoras calibre .30 para estabelecer uma base de fogo e assaltar a artilharia inimiga pelo flanco. Chegaremos perto, depois golpeamos forte e rápido."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator05"
+msgid "Avoid the open field to the east, or they'll spot us!"
+msgstr "Evite o campo aberto a leste, ou eles nos verão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator06"
+msgid "Great job! We destroyed the guns!"
+msgstr "Ótimo trabalho! Destruímos os canhões!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator07"
+msgid "We need to take out that MG42 on the other side of the field!"
+msgstr "Precisamos destruir aquela MG42 do outro lado do campo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator08"
+msgid "Excellent! That MG42 is not a threat anymore!"
+msgstr "Excelente! Aquela MG42 não é mais uma ameaça!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator09"
+msgid "Now we need to take the manor! Let's go!"
+msgstr "Agora precisamos tomar a mansão! Vamos lá!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator10"
+msgid "The manor is ours! Good job!"
+msgstr "A mansão é nossa! Bom trabalho!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator11"
+msgid "Stay out of the open field in front of the cannons! They'll stop firing at the beaches and instead start fire at us!"
+msgstr "Fique fora do campo aberto na frente dos canhões! Eles pararão de atirar nas praias e começarão a atirar em nós!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator12"
+msgid "Enemy infantry, coming from the east! Get one of those .30 cals over here and pour it on them!"
+msgstr "Infantaria inimiga vindo do leste! Traga uma das calibre .30 aqui e abra fogo neles!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator13"
+msgid "Hey Lieutenant Speirs. We appreciate Dog Company's help today."
+msgstr "Ei, Tenente Speirs. Agradecemos a ajuda da Dog Company hoje."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator14"
+msgid "Yeah, sure. Here you go."
+msgstr "Sim, claro. Aqui está."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun1"
+msgid "One down, three to go!"
+msgstr "Um destruído, faltam três!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun2"
+msgid "Another one destroyed! On to the next gun!"
+msgstr "Mais um destruído! Para o próximo canhão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_gun3"
+msgid "There's only one left! Let's go!"
+msgstr "Só resta um! Vamos lá!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_secret"
+msgid "I can't see a thing... Maybe I could see better if I climbed up this tree..."
+msgstr "Não consigo ver nada... Talvez eu pudesse ver melhor se subisse nesta árvore..."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs1"
+msgid "D Company here! We figured you could use some help!"
+msgstr "D Company aqui! Achamos que você poderia usar alguma ajuda!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs2"
+msgid "Looks like they've had enough!"
+msgstr "Parece que eles já chegaram ao limite!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs3"
+msgid "... Hey, you got some cigarettes?"
+msgstr "... Ei, você tem cigarros?"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_speirs4"
+msgid "..."
+msgstr "..."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_tank"
+msgid "Hey! We could use some help over here! Blow up these obstacles so we can get through!"
+msgstr "Ei! Precisamos de ajuda aqui! Exploda esses obstáculos para que possamos passar!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator_tank2"
+msgid "Thanks! We were sitting ducks!"
+msgstr "Obrigado! Éramos alvos fáceis!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/outro_failed"
+msgid "You failed to complete the primary objective! Because we did not silence the enemy artillery, our boys on Utah Beach took heavy damage. You must try again!"
+msgstr "Você falhou em completar o objetivo principal! Por não silenciarmos a artilharia inimiga, nossos rapazes na Praia Utah sofreram pesadas baixas. Tente novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/outro_completed"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/situation1"
+msgid "Brécourt Manor - 08:35 hours"
+msgstr "Mansão Brécourt - 08h35"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/situation2"
+msgid "E (\"Easy\") Company, 2nd Battalion, 506th Parachute Infantry Regiment"
+msgstr "Companhia E (\"Easy\"), 2º Batalhão, 506º Regimento de Infantaria Paraquedista"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/story"
+msgid "  6th of June, 1944. It’s been about 7 hours since you made the 'Big Jump'.\n\n  You have spent most of the night moving towards your main objective and regrouping with your Easy Company comrades along the way. After daybreak, you arrive at Le Grand Chemin, a small village between Ste Marie du Mont and Utah Beach.\n\n  The main task of securing the Utah Beach causeways is far from complete. The company’s Headquarters Section is missing in action this morning, so your orders are to report to Battalion HQ, Lieutenant Winters.\n\n Good luck!"
+msgstr "  6 de junho de 1944. Já se passaram cerca de 7 horas desde que você fez o Grande Salto.\n\n  Você passou a maior parte da noite se movendo em direção ao seu objetivo principal e se reagrupando com seus camaradas da Easy Company ao longo do caminho. Ao amanhecer, você chega em Le Grand Chemin, uma pequena aldeia entre Ste Marie du Mont e a Praia Utah.\n\n  A principal tarefa de assegurar as passagens da Praia Utah está longe de estar completa. A Seção de Comando da companhia está desaparecida em combate esta manhã, portanto suas ordens são se apresentar ao QG do Batalhão, ao Tenente Winters.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task1"
+msgid "Sabotage the enemy howitzers!"
+msgstr "Sabote os obuseiros inimigos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task2"
+msgid "Neutralize the enemy machine gun!"
+msgstr "Neutralize a metralhadora inimiga!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task3"
+msgid "Capture the manor!"
+msgstr "Capture a mansão!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task4"
+msgid "Destroy the roadblock."
+msgstr "Destrua o bloqueio da estrada."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_secret"
+msgid "(Secret objective) Climb up the tree"
+msgstr "(Objetivo Secreto) Suba na árvore"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_secret_noncomp"
+msgid "(Secret objective)"
+msgstr "(Objetivo Secreto)"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_speirs"
+msgid "Lt. Speirs must survive."
+msgstr "O Ten. Speirs deve sobreviver."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_winters"
+msgid "Lt. Winters must survive."
+msgstr "O Ten. Winters deve sobreviver."
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_speirs"
+msgid "Treat Lt. Speirs before he bleeds to death!"
+msgstr "Trate o Ten. Speirs antes que ele morra de hemorragia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_winters"
+msgid "Treat Lt. Winters before he bleeds to death!"
+msgstr "Trate o Ten. Winters antes que ele morra de hemorragia!"

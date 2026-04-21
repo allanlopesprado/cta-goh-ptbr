@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1943_02-ger_kharkov)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/name"
+msgid "Kharkov"
+msgstr "Kharkov"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/name_big"
+msgid "Kharkov"
+msgstr "Kharkov"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/story"
+msgid "The third battle of Kharkov - Counterattack. We have to re-take Kharkov. Failure would result in a big gap in the front line.\n\nGoals:\n - Take the town in a swift counterattack.\n - Destroy all abandoned enemy material."
+msgstr "A terceira batalha de Kharkov - Contra-ataque. Temos de retomar Kharkov. O fracasso resultaria em uma grande lacuna na linha de frente.\n\nObjetivos:\n - Tome a cidade num contra-ataque rápido.\n - Destrua todo o material inimigo abandonado."
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/place"
+msgid "On the west side of Kharkov"
+msgstr "No lado oeste de Kharkov"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/date"
+msgid "February, 1943"
+msgstr "Fevereiro de 1943"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_completed"
+msgid "Congratulations! Your counterattack was executed brilliantly. The frontline is closed once again! We lost an appalling number of men today, and we owe it to them to hold Kharkov at any cost."
+msgstr "Parabéns! Seu contra-ataque foi executado de forma brilhante. A linha de frente está fechada mais uma vez! Perdemos um número assustador de homens hoje, e lhes devemos manter Kharkov a qualquer custo."
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_failed"
+msgid "This was a failure, maybe not surprising - considering the enemy has enjoyed overwhelming numerical superiority. Whatever is left of your troops will now retreat in chaos with the red army in hot pursuit."
+msgstr "Este foi um fracasso, talvez não surpreendente — considerando que o inimigo desfrutou de uma superioridade numérica avassaladora. O que resta de suas tropas agora recuará em caos, com o Exército Vermelho em perseguição."
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_failed_hq"
+msgid "Mission failed - the enemy captured your HQ!"
+msgstr "Missão fracassada - o inimigo capturou o seu QG!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_attack"
+msgid "Capture the outskirts of Kharkov!"
+msgstr "Capture os arredores de Kharkov!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/flag_capture_status"
+msgid "Your soldiers secured %1%/7 Soviet positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições soviéticas!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start0"
+msgid "Welcome to battle, Major! This is our field HQ, it must remain in our control!"
+msgstr "Bem-vindo à batalha, Major! Este é o nosso QG de campo, deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start1"
+msgid "You need to attack at full speed! Use the mobility of your armor to achieve surprise."
+msgstr "Você precisa atacar em velocidade máxima! Use a mobilidade de sua blindagem para alcançar o efeito surpresa."
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start2"
+msgid "The soviets deployed many tanks. Make sure you spot them before rushing in!"
+msgstr "Os soviéticos implantaram muitos tanques. Certifique-se de detectá-los antes de avançar!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start3"
+msgid "Begin securing the objectives, meanwhile more reinforcements are being prepared for deployment!"
+msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para implantação!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/allied_enemy_near_hq"
+msgid "Comrades! Soviets are close to our Field HQ!"
+msgstr "Camaradas! Os soviéticos estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/player_enemy_near_hq"
+msgid "We must hold the command post! There can be no surrender!"
+msgstr "Devemos manter nosso posto de comando! Não pode haver capitulação!"
+
+msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/hq_bonus"
+msgid "Major! Now you can request an airstrike, ZG 1 is at your disposal."
+msgstr "Major! Agora você pode solicitar um ataque aéreo, o ZG 1 está à sua disposição."

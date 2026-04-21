@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/ammo/76mm_landmattress"
+msgid "3-inch Barrage Rocket 'Land Mattress' [<c(ff1200)>HE</c>]"
+msgstr "Foguete de Barragem 'Land Mattress' 3 pol. [<c(ff1200)>HE</c>]"
+
+msgctxt "desc/entity/tram_eu"
+msgid "Tram"
+msgstr "Bonde"
+
+msgctxt "info/special/tram_eu"
+msgid "<c(c3baae)>Railcar</c>"
+msgstr "<c(c3baae)>Vagão de Trilho</c>"
+
+msgctxt "desc/entity/tram_sov"
+msgid "Tram"
+msgstr "Bonde"
+
+msgctxt "info/special/tram_sov"
+msgid "<c(c3baae)>Railcar</c>"
+msgstr "<c(c3baae)>Vagão de Trilho</c>"
+
+msgctxt "mp/army/eng_early"
+msgid "United Kingdom (Early War)"
+msgstr "Reino Unido (Início da Guerra)"
+
+msgctxt "mp/army/eng_mid"
+msgid "United Kingdom (Mid War)"
+msgstr "Reino Unido (Meio da Guerra)"
+
+msgctxt "mp/army/eng_late"
+msgid "United Kingdom (Late War)"
+msgstr "Reino Unido (Final da Guerra)"
+
+msgctxt "mp/army/can_late"
+msgid "Canada (Late War)"
+msgstr "Canadá (Final da Guerra)"
+
+msgctxt "mp/army/pol_late"
+msgid "Poland (Late War)"
+msgstr "Polônia (Final da Guerra)"
+
+msgctxt "mp/army/fra_early"
+msgid "France (Early War)"
+msgstr "França (Início da Guerra)"
+
+msgctxt "mp/army/fra_late"
+msgid "France (Late War)"
+msgstr "França (Final da Guerra)"
+
+msgctxt "mp/army/ned_late"
+msgid "Netherlands (Late War)"
+msgstr "Países Baixos (Final da Guerra)"
+
+msgctxt "desc/squad/doctrine_cruiser_mk3"
+msgid "<c(B29557)>( I )</c> Cruiser Mk.III"
+msgstr "<c(B29557)>( I )</c> Cruiser Mk.III"
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sniper"
+msgid "Royal HL. Black Watch Sniper [BA]"
+msgstr "Franco-atirador Royal HL. Black Watch [BA]"
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_coy_signalman"
+msgid "7th AD. Company Signalman [BA]"
+msgstr "Sinaleiro de Companhia 7ª DA [BA]"
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_com_sten"
+msgid "7th AD. Section Commander [BA]"
+msgstr "Comandante de Seção 7ª DA [BA]"
+
+msgctxt "desc/human/mp/eng/mid/rm_com_piat"
+msgid "Royal Marine Commando AT Inf. [RM]"
+msgstr "Inf. AT Commando Royal Marines [RM]"
+
+msgctxt "desc/human/mp/eng/mid/rm_com_piat_asst"
+msgid "Royal Marine Commando AT Asst. [RM]"
+msgstr "Aux. AT Commando Royal Marines [RM]"
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sniper"
+msgid "6th Airlanding Recon Sniper [BA]"
+msgstr "Franco-atirador Reconhecimento 6° Desembarque Aéreo [BA]"
+
+msgctxt "desc/human/mp/eng/late/gds_ad_driver_smg"
+msgid "Guards AD. Driver [BA]"
+msgstr "Guards AD. Motorista [BA]"
+
+msgctxt "desc/ammo/bulleteng_20_auto box ap"
+msgid "20mm AP Shot Mk.IX.T Box Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Munição AP 20mm Mk.IX.T Carregador [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto box he"
+msgid "20mm HE/HE-T Shell Box Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HE/HE-T 20mm Carregador [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto box hei"
+msgid "20mm HEI/HEI-T Shell Box Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HEI/HEI-T 20mm Carregador [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto drum ap"
+msgid "20mm AP Shot Mk.IX.T Drum Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Munição AP 20mm Mk.IX.T Tambor [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto drum he"
+msgid "20mm HE/HE-T Shell Drum Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HE/HE-T 20mm Tambor [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+
+msgctxt "desc/ammo/bulleteng_20_auto drum hei"
+msgid "20mm HEI/HEI-T Shell Drum Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HEI/HEI-T 20mm Tambor [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"

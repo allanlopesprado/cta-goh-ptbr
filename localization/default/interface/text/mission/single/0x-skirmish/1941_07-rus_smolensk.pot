@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1941_07-rus_smolensk)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/name"
+msgid "Battle of Smolensk"
+msgstr "Batalha de Smolensk"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/name_big"
+msgid "Battle of Smolensk"
+msgstr "Batalha de Smolensk"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/story"
+msgid " East of Smolensk, relief offensive. After the initial battles, you're surrounded by Germans. Time for a breakout attempt!\n\nGoals:\n - Break the encirclement of the 20th army.\n - Close the front east of Kiev."
+msgstr " A leste de Smolensk, ofensiva de socorro. Após as batalhas iniciais, vocês estão cercados pelos alemães. Hora de uma tentativa de fuga!\n\nObjetivos:\n - Rompa o cerco ao 20º Exército.\n - Feche a frente a leste de Kiev."
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/place"
+msgid "East of Smolensk"
+msgstr "A leste de Smolensk"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/date"
+msgid "21 July, 1941"
+msgstr "21 de julho de 1941"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/outro_completed"
+msgid "Well done! we have established contact with the trapped armies!"
+msgstr "Muito bem! Estabelecemos contato com os exércitos encurralados!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/outro_failed"
+msgid "We haven't been able to relieve the trapped armies, and since we lost a lot of equipment we will need to fall back to the east!"
+msgstr "Não conseguimos socorrer os exércitos encurralados e, como perdemos muito equipamento, precisaremos recuar para o leste!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/outro_failed_hq"
+msgid "We lost the chance to open a corridor through which no less than 3 armies could have been saved. A black day in soviet history."
+msgstr "Perdemos a chance de abrir um corredor pelo qual não menos de 3 exércitos poderiam ter sido salvos. Um dia negro na história soviética."
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/mission_attack"
+msgid "Punch a hole in the enemy position and drive west!"
+msgstr "Abra uma brecha na posição inimiga e avance para o oeste!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/narrator_start0"
+msgid "Welcome to battle, Major! This is our field HQ, it must remain in our control!"
+msgstr "Bem-vindo à batalha, Major! Este é o nosso QG de campo, deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/narrator_start1"
+msgid "Comrade, there is no choice but to attack immediately. Orders from the Kommisar were quite clear, you can't afford to postpone the attack!"
+msgstr "Camarada, não há escolha senão atacar imediatamente. As ordens do Comissário foram muito claras, você não pode se dar ao luxo de adiar o ataque!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/narrator_start2"
+msgid "The germans will not expect us to attack from this direction, they are focused on eliminating the Smolensk garrison!"
+msgstr "Os alemães não esperarão que ataquemos desta direção, estão concentrados em eliminar a guarnição de Smolensk!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/narrator_start3"
+msgid "Begin the attack, meanwhile more reinforcements are being prepared for your disposal!"
+msgstr "Inicie o ataque, enquanto mais reforços são preparados para o seu uso!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/allied_enemy_near_hq"
+msgid "Comrades! Germans are close to our Field HQ!"
+msgstr "Camaradas! Os alemães estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/allied_enemy_plane"
+msgid "Enemy plane!!!"
+msgstr "Avião inimigo!!!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/allied_enemy_plane2"
+msgid "German aircraft inbound!"
+msgstr "Aeronave alemã se aproximando!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/player_enemy_near_hq"
+msgid "We must hold our command post! There is no room for cowards and traitors in our Red Army!"
+msgstr "Devemos manter nosso posto de comando! Não há espaço para covardes e traidores!"
+
+msgctxt "mission/single/01-rus_skirmish/1941_07-rus_smolensk/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr "Major! Agora você pode solicitar um ataque aéreo."

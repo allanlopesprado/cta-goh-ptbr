@@ -1,0 +1,197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_02_krasny_bor)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/date"
+msgid "10th of February, 1943 · Krasny Bor, Leningrad Oblast"
+msgstr "10 de fevereiro de 1943 · Krasny Bor, Oblast de Leningrado"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/name"
+msgid "The Legend of Krasny Bor"
+msgstr "A Lenda de Krasny Bor"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/name_big"
+msgid "The Legend of Krasny Bor"
+msgstr "A Lenda de Krasny Bor"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/hint/01"
+msgid "The \"Blue Division\""
+msgstr "A \"Divisão Azul\""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/01"
+msgid "Soldiers of the 250th Infantry Division! Listen up!"
+msgstr "Soldados da 250ª Divisão de Infantaria! Atenção!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/02"
+msgid "The Soviet counteroffensive is at large! The bolsheviks are eager to break the Leningrad encirclement and are dashing toward your defences with armor! Everything is at stake!"
+msgstr "A contra-ofensiva soviética está em pleno andamento! Os bolcheviques estão ansiosos para romper o cerco de Leningrado e avançam para suas defesas com blindados! Tudo está em jogo!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/03"
+msgid "Today is the day where the Red wave will meet the Blue wall! You already defeated the communists once. I am confident you will do it once more! "
+msgstr "Hoje é o dia em que a onda vermelha encontrará o muro azul! Vocês já derrotaram os comunistas uma vez. Tenho confiança de que o farão mais uma vez!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04"
+msgid "Your objective is to hold our rear headquarters at all costs, but it will also be convenient to secure our secondary key objectives: "
+msgstr "Seu objetivo é manter nosso quartel-general da retaguarda a todo custo, mas também será conveniente assegurar nossos objetivos secundários:"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04a"
+msgid "The railway station,..."
+msgstr "A estação ferroviária,..."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04b"
+msgid "...the artillery battery,..."
+msgstr "...a bateria de artilharia,..."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04c"
+msgid "...and the communications vehicle, which you need to keep operational to maintain radio-contact to call for reinforcements. "
+msgstr "...e o veículo de comunicações, que você precisa manter operacional para manter contato por rádio e chamar reforços."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/05"
+msgid "I regret to inform you our Anti-tank weaponry is in extremely short supply. However, we have reserves of mines and grenades to deal with the enemy tanks. "
+msgstr "Lamento informar que nossos armamentos antitanque estão em escassez extrema. No entanto, temos reservas de minas e granadas para lidar com os tanques inimigos."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/06"
+msgid "The enemy has commenced to bombard our first line. Get to work laying mine-fields and prepare for the enemy assault.  "
+msgstr "O inimigo começou a bombardear nossa primeira linha. Trabalhe na colocação de campos minados e prepare-se para o assalto inimigo."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/07"
+msgid "The enemy is approaching. You can tell where they are coming from, as they will use flares to light up the path for their tanks! Hold out until sunrise. No step back!"
+msgstr "O inimigo está se aproximando. Você pode perceber de onde estão vindo, pois usarão sinalizadores para iluminar o caminho para seus tanques! Aguente até o amanhecer. Nenhum passo atrás!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/08"
+msgid "Our field hospital is endangered so close to the front line. I have ordered its immediate re-location. You must protect it at all costs!"
+msgstr "Nosso hospital de campanha está em perigo tão perto da linha de frente. Ordenei sua realocação imediata. Você deve protegê-lo a todo custo!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/09"
+msgid "You should consider pulling back your forces into a second defensive line in the village. It has been fortified for the occasion."
+msgstr "Você deve considerar recuar suas forças para uma segunda linha defensiva na aldeia. Foi reforçada para a ocasião."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/comms1"
+msgid "The communications vehicle has been jeopardised! Try to get it back in action!"
+msgstr "O veículo de comunicações foi comprometido! Tente colocá-lo de volta em ação!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/comms2"
+msgid "Reinforcements are now at your disposal."
+msgstr "Reforços estão agora à sua disposição."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/end"
+msgid "Good job soldiers. You have once again made the Fatherland proud!"
+msgstr "Bom trabalho, soldados. Vocês fizeram a Pátria se orgulhar novamente!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hospital_complete"
+msgid "The evacuation of the hospital was a success. Our wounded will live to fight once more."
+msgstr "A evacuação do hospital foi um sucesso. Nossos feridos viverão para lutar mais uma vez."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hospital_fail"
+msgid "The trucks with the wounded have been hit! This careless escorting will not be tolerated!"
+msgstr "Os caminhões com os feridos foram atingidos! Esta escolta descuidada não será tolerada!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/hq"
+msgid "Enemy tanks are approaching our headquarters. See to it! They need to be destroyed immediately!"
+msgstr "Tanques inimigos estão se aproximando do nosso quartel-general. Providencie! Precisam ser destruídos imediatamente!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/positions"
+msgid "The soviet forces are building defensive positions!"
+msgstr "As forças soviéticas estão construindo posições defensivas!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/prisoners"
+msgid "The enemy has a column of prisoners being taken away. I need you to ambush the column and liberate our men!"
+msgstr "O inimigo tem uma coluna de prisioneiros sendo levada. Preciso que você embosque a coluna e liberte nossos homens!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/prisoners_complete"
+msgid "Good to have our soldiers fighting for the fatherland once again!"
+msgstr "Ótimo ter nossos soldados lutando pela Pátria novamente!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/rocket"
+msgid "Enemy rocket artillery in the area! Stalin's organs have arrived to set the tunes for the sunrise!"
+msgstr "Artilharia de foguetes inimiga na área! Os órgãos de Stalin chegaram para dar a melodia ao amanhecer!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_completed"
+msgid "Because the blue division held the line at Krasny Bor, the 18th army was not surrounded like the 6th at Stalingrad. But they paid a terrible price; only 1 in five got out alive. \nThe Germans thought the blue division’s tenacity was unmatched. This seems no more than fair, considering how little they had to defend themselves against the huge odds."
+msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército não foi cercado como o 6º em Stalingrado. Mas pagou um preço terrível: apenas 1 em cada 5 saiu vivo.\nOs alemães consideravam a tenacidade da Divisão Azul incomparável. Isso parece justo, considerando quão pouco eles tinham para se defender diante de odds tão grandes."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_failed"
+msgid "Your failure to hold Krasny Bor has grave consequences; the 18th army has just been cut off from the front, facing the same fate as the 6th army at Stalingrad. Thousands will succumb to injury, illness and starvation. Those that can still walk will be sent to Siberia. This is a dent in your reputation to say the least!  \n"
+msgstr "Seu fracasso em manter Krasny Bor tem graves consequências — o 18º Exército acaba de ser cortado da frente, enfrentando o mesmo destino do 6º Exército em Stalingrado. Milhares sucumbirão a ferimentos, doenças e inanição. Os que ainda conseguem andar serão enviados à Sibéria. Isso é um baque para sua reputação, para dizer o mínimo!\n"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/place"
+msgid "250th Infantry Division \"Blue Division\""
+msgstr "250ª Divisão de Infantaria \"Divisão Azul\""
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/apminer"
+msgid "AP miners"
+msgstr "Minadores AP"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/artillerymen"
+msgid "Artillerymen"
+msgstr "Artilheiros"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/atminer"
+msgid "AT miners"
+msgstr "Minadores AT"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/atsquad"
+msgid "AT detachment"
+msgstr "Destacamento antitanque"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/engineer"
+msgid "Field Engineers"
+msgstr "Engenheiros de Campo"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/medic"
+msgid "Medics"
+msgstr "Médicos"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/mgun"
+msgid "MG-42 lafette"
+msgstr "MG-42 lafette"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/squad"
+msgid "Regular infantry squad"
+msgstr "Esquadra de Infantaria regular"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/reinf/supply"
+msgid "Supply crate"
+msgstr "Caixa de suprimentos"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/skip"
+msgid "Skip preparation phase"
+msgstr "Pular fase de preparação"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/story"
+msgid "February 1943; the Red army goes offensive in the Leningrad region. Operation \"polar star\" aims to encircle the German 18th army. One of its goals is to take Tosno, following the road and railroad, both leading straight through Krasny Bor.\n\nKrasny Bor is at the centre of attention in this mission. The initial attack is met by the Spanish Blue Division, who have dug in a handful of AT guns and a few artillery pieces at the village. With enemies approaching from all sides, this battle will be a serious test of your improvisation skills.\n\nHold your position until it is time to counterattack!"
+msgstr "Fevereiro de 1943 — o Exército Vermelho vai à ofensiva na região de Leningrado. A Operação \"Estrela Polar\" visa cercar o 18º Exército alemão. Um de seus objetivos é tomar Tosno, seguindo a estrada e a ferrovia, ambas passando diretamente por Krasny Bor.\n\nKrasny Bor é o centro das atenções nesta missão. O ataque inicial é enfrentado pela Divisão Azul espanhola, que entrincheirou alguns canhões AT e algumas peças de artilharia na aldeia. Com inimigos se aproximando por todos os lados, esta batalha será um sério teste de suas habilidades de improvisação.\n\nMantenha sua posição até que seja hora de contra-atacar!"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_hospital"
+msgid "Escort the trucks evacuating the hospital. At least 2 trucks must survive."
+msgstr "Escolta os caminhões que evacuam o hospital. Pelo menos 2 caminhões devem sobreviver."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_main"
+msgid "Don't let the enemy tanks overrun the headquarters."
+msgstr "Não deixe os tanques inimigos invadirem o quartel-general."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_arty"
+msgid "Don't let the enemy tanks overrun the artillery battery"
+msgstr "Não deixe os tanques inimigos invadirem a bateria de artilharia"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_comms"
+msgid "Keep the radio vehicle crewed and operational for reinforcements."
+msgstr "Mantenha o veículo de rádio tripulado e operacional para os reforços."
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_station"
+msgid "Don't let the enemy tanks enter the train station"
+msgstr "Não deixe os tanques inimigos entrarem na estação ferroviária"
+
+msgctxt "mission/single/02-ger/1943_02_krasny_bor/timer"
+msgid "Prepare for the enemy attack!"
+msgstr "Prepare-se para o ataque inimigo!"

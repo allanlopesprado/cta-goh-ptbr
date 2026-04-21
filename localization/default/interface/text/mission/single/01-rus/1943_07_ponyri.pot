@@ -1,0 +1,123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1943_07_ponyri)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/date"
+msgid "July 7th, 1943 · Ponyri, Kursk Oblast"
+msgstr "7 de julho de 1943 · Ponyri, Oblast de Kursk"
+
+#, boost-format
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/mineprogress"
+msgid "%1% out of 500 mines deployed!"
+msgstr "%1% de 500 minas implantadas!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/name"
+msgid "The Citadel <c(a655af)>[DLC]</c>"
+msgstr "A Cidadela <c(a655af)>[DLC]</c>"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/name_big"
+msgid "The Citadel"
+msgstr "A Cidadela"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/01"
+msgid "Comrades, we have received intelligence that confirms the fascist summer offensive will start today!"
+msgstr "Camaradas, recebemos inteligência que confirma que a ofensiva de verão fascista começa hoje!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/02"
+msgid "We have dug the most comprehensive fortification lines ever seen in the history of warfare. We are ready to stop the hitlerite hordes and drive them back to Berlin!"
+msgstr "Cavamos as linhas de fortificação mais abrangentes já vistas na história da guerra. Estamos prontos para parar as hordas hitlerists e expulsá-las de volta a Berlim!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/03"
+msgid "We've been ordered to lay as many mines as possible in preparation for the fascist attack. Get to work, soldiers!"
+msgstr "Fomos ordenados a assentar o maior número possível de minas em preparação para o ataque fascista. Ao trabalho, soldados!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/04"
+msgid "The Germans are attacking! They already breached the outer defence line. Get ready to hold them back!"
+msgstr "Os alemães estão atacando! Eles já romperam a linha de defesa exterior. Prepare-se para contê-los!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/05"
+msgid "The German tanks are here! We have information the fascists are using new tank types, watch out for those!"
+msgstr "Os tanques alemães estão aqui! Temos informação de que os fascistas estão usando novos tipos de tanque — fique atento!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/06"
+msgid "Well done comrades!"
+msgstr "Muito bem, camaradas!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/07"
+msgid "The enemy just sent a new wave!"
+msgstr "O inimigo acabou de enviar uma nova onda!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/08"
+msgid "The fascists are deploying their artillery to help with the assault!"
+msgstr "Os fascistas estão implantando sua artilharia para auxiliar no assalto!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/09"
+msgid "German aircraft incoming!"
+msgstr "Aeronaves alemãs se aproximando!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/10"
+msgid "We have received additional reinforcements, try to keep the Germans at bay!"
+msgstr "Recebemos reforços adicionais — tente manter os alemães à distância!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/11"
+msgid "We have received further reinforcements. It's time to drive the Germans out of here and bring their offensive to a halt!"
+msgstr "Recebemos mais reforços. É hora de expulsar os alemães daqui e parar sua ofensiva!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/narrator/12"
+msgid "Excellent work comrades, the brutal beast is beaten! This battle - and our inevitable victory - will be remembered for centuries! "
+msgstr "Excelente trabalho, camaradas — a besta brutal foi derrotada! Esta batalha — e nossa vitória inevitável — será lembrada por séculos!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/outro_completed"
+msgid "Congratulations! You have stopped the enemy as ordered, a major achievement. Your counterattack was a prelude to operation Kutuzov, the massive Soviet counteroffensive which is about to end the German attack and crush German hope for a big victory this year. From now on, the red army calls the shots in this war."
+msgstr "Parabéns! Você deteve o inimigo conforme ordenado — uma grande conquista. Seu contra-ataque foi um prelúdio à Operação Kutuzov, a massiva contra-ofensiva soviética que está prestes a encerrar o ataque alemão e destruir a esperança alemã de uma grande vitória este ano. A partir de agora, o Exército Vermelho dita as regras nesta guerra."
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/outro_failed"
+msgid "That is not the desired result! The Germans have broken through, and they advance towards the town of Tim, somewhere east of Kursk. If the same thing happens at the south pincer, we’re doomed, and the Germans will surely take us prisoner. But maybe it’s not too late. Gather all the men you can find, and go in again - never give up!"
+msgstr "Este não é o resultado desejado! Os alemães romperam a linha e avançam em direção à cidade de Tim, a leste de Kursk. Se o mesmo acontecer no flanco sul, estamos perdidos, e os alemães certamente nos farão prisioneiros. Mas talvez não seja tarde demais. Reúna todos os homens que puder e entre novamente — jamais desista!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/place"
+msgid "307th Rifle Division and 13th Army"
+msgstr "307ª Divisão de Fuzileiros e 13º Exército"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_box"
+msgid "Ammo supplies"
+msgstr "Suprimentos de munição"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_il2"
+msgid "IL-2 M1943 Airstrike"
+msgstr "Ataque aéreo IL-2 M1943"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/reinf_squad"
+msgid "Infantry squad"
+msgstr "Esquadra de Infantaria"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/story"
+msgid "The pincer attack to encircle the Soviet troops around Kursk is in its third day. The northern pincer still hasn’t gained real momentum. This is caused by fierce Soviet opposition and well- prepared defenses.\n\nThe Germans push toward Ponyri and Olkhovatka. The area around Ponyri becomes the stage of one of the fiercest battles ever. The central front, under general Rokossovsky, is determined to stand its ground, come hell or high water.\n\nYou will be in charge of the defenses in this mission. Make sure you cleverly place some mines between the tank ditches to stop enemy armor from breaking through. If they do, fall back to the second line of defense. Make sure you hold the second line until our comrades of the 13th army are ready to join you for a counterattack.\n\nMake the motherland proud!"
+msgstr "O ataque em tenaz para cercar as tropas soviéticas em torno de Kursk está em seu terceiro dia. O flanco norte ainda não ganhou real impulso, em razão da feroz oposição soviética e das defesas bem preparadas.\n\nOs alemães avançam em direção a Ponyri e Olkhovatka. A região em torno de Ponyri torna-se palco de uma das batalhas mais ferozes já travadas. A frente central, sob o General Rokossovsky, está decidida a manter o terreno, aconteça o que acontecer.\n\nVocê estará no comando das defesas nesta missão. Certifique-se de colocar minas estrategicamente entre as valas antitanque para impedir blindados inimigos de romper a linha. Se isso acontecer, recue para a segunda linha de defesa. Mantenha a segunda linha até que os camaradas do 13º Exército estejam prontos para se juntar a você num contra-ataque.\n\nFaça a Mãe Pátria orgulhar-se!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task1"
+msgid "Lay down a vast minefield beyond the anti-tank ditches"
+msgstr "Assentar um vasto campo minado além dos valões antitanque"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task2"
+msgid "Defend Ponyri station at all costs!"
+msgstr "Defenda a estação de Ponyri a todo custo!"
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/task3"
+msgid "Drive the remaining Germans out of Ponyri."
+msgstr "Expulse os alemães restantes de Ponyri."
+
+msgctxt "mission/single/01-rus/1943_07_ponyri/timer"
+msgid "Defend the station at Ponyri:"
+msgstr "Defenda a estação de Ponyri:"

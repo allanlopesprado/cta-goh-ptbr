@@ -1,0 +1,83 @@
+name: Release Pak
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag (example: v1.1, v1.2, v2.0)"
+        required: true
+      title:
+        description: "Release title"
+        required: true
+      notes:
+        description: "Release notes (plain text)"
+        required: true
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  release:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build pak
+        shell: pwsh
+        run: |
+          .\criar_pak.ps1
+          if (-not (Test-Path ".\dist\default.pak")) {
+            Write-Error "dist/default.pak was not generated"
+          }
+
+      - name: Validate pak structure
+        shell: pwsh
+        run: |
+          Add-Type -AssemblyName System.IO.Compression.FileSystem
+          $pak = ".\dist\default.pak"
+          $zip = [System.IO.Compression.ZipFile]::OpenRead($pak)
+          $entries = $zip.Entries
+
+          $hasRoot = ($entries | Where-Object { $_.FullName -eq "default/" }).Count -gt 0
+          $hasInfo = ($entries | Where-Object { $_.FullName -eq "default/localization.info" }).Count -gt 0
+          $potCount = ($entries | Where-Object { $_.FullName -like "default/interface/**/*.pot" }).Count
+
+          if (-not $hasRoot) {
+            $zip.Dispose()
+            Write-Error "Missing root entry default/"
+          }
+          if (-not $hasInfo) {
+            $zip.Dispose()
+            Write-Error "Missing default/localization.info"
+          }
+          if ($potCount -lt 300) {
+            $zip.Dispose()
+            Write-Error "Unexpected .pot count inside pak: $potCount"
+          }
+
+          $zip.Dispose()
+          Write-Host "PAK validation passed. POT files: $potCount"
+
+      - name: Create release (tag push)
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/default.pak
+          generate_release_notes: true
+
+      - name: Create release (manual dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag }}
+          name: ${{ github.event.inputs.title }}
+          body: ${{ github.event.inputs.notes }}
+          files: dist/default.pak

@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "desc/squad/squad_gebirgs_recon_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> Gebirgsaufklärer squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Gebirgsaufklärer [1944]"
+
+msgctxt "desc/squad/squad_pzg_lehr_armor_con"
+msgid "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Grenadier squad [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra Blindada Pz-Lehr Pz.Granadeiro [1944]"
+
+msgctxt "desc/squad/squad_sturm_pzg_lehr_armor_con"
+msgid "<c(A5A095)>(3+)</c> Armored Pz-Lehr Pz.Sturmgrenadier squad [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra Blindada Pz-Lehr Pz.Sturmgranadeiro [1944]"
+
+msgctxt "desc/squad/squad_pz_pio_late_con"
+msgid "<c(A5A095)>(2)</c> Armored Pz.Pionier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Blindada Pz.Pioneiro [1944]"
+
+msgctxt "desc/squad/squad_fusilier_late_con(ger)"
+msgid "<c(A5A095)>(3)</c> Füsilier squad [1944]"
+msgstr "<c(A5A095)>(3)</c> Esquadra Füsilier [1944]"
+
+msgctxt "desc/squad/squad_fusilier_smg_late_con(ger)"
+msgid "<c(A5A095)>(3)</c> Füsilier SMG squad [1944]"
+msgstr "<c(A5A095)>(3)</c> Esquadra Füsilier SMG [1944]"
+
+msgctxt "desc/squad/squad_pz_recon_armor_late_con"
+msgid "<c(A5A095)>(2)</c> Armored Pz.Aufklärer team [1944]"
+msgstr "<c(A5A095)>(2)</c> Equipe Blindada Pz.Aufklärer [1944]"
+
+msgctxt "desc/squad/squad_lw_jaeger_con(ger)"
+msgid "<c(A5A095)>(2)</c> Luftwaffe Jäger squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Jäger da Luftwaffe [1944]"
+
+msgctxt "desc/squad/squad_fallschirmjaeger_late_motor_con"
+msgid "<c(A5A095)>(4)</c> Motorized Fallschirmjäger squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Fallschirmjäger Motorizada [1944]"
+
+msgctxt "desc/squad/squad_fallschirm_recon_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> Fallschirmaufklärer squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Fallschirmaufklärer [1944]"
+
+msgctxt "desc/squad/squad_volkssturm_con(ger)"
+msgid "<c(A5A095)>(1)</c> Volkssturm squad [1945]"
+msgstr "<c(A5A095)>(1)</c> Esquadra Volkssturm [1945]"
+
+msgctxt "desc/squad/squad_grenadier_con(ger)"
+msgid "<c(A5A095)>(2)</c> Grenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Granadeiro [1944]"
+
+msgctxt "desc/squad/squad_sturmgren_con(ger)"
+msgid "<c(A5A095)>(2)</c> Sturmgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Sturmgranadeiro [1944]"
+
+msgctxt "desc/squad/squad_sturmgren_heavy_con(ger)"
+msgid "<c(A5A095)>(2)</c> Heavy Sturmgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Sturmgranadeiro Pesada [1944]"
+
+msgctxt "desc/squad/squad_volksg_con(ger)"
+msgid "<c(A5A095)>(2)</c> Volksgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Volksgranadeiro [1944]"
+
+msgctxt "desc/squad/squad_volksg_sturm_con(ger)"
+msgid "<c(A5A095)>(2)</c> Sturm Volksgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Sturm Volksgranadeiro [1944]"
+
+msgctxt "desc/squad/squad_volksg_heavy_con(ger)"
+msgid "<c(A5A095)>(2)</c> Heavy Volksgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Volksgranadeiro Pesada [1944]"
+
+msgctxt "desc/squad/squad_pzgren_motor_con"
+msgid "<c(A5A095)>(2)</c> Motorized Panzergrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Panzergranadeiro Motorizada [1944]"
+
+msgctxt "desc/squad/squad_pzgren_armor_con"
+msgid "<c(A5A095)>(2)</c> Armored Panzergrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Panzergranadeiro Blindada [1944]"
+
+msgctxt "desc/squad/squad_sturm_pzgren_armor_con"
+msgid "<c(A5A095)>(2)</c> Armored Pz.Sturmgrenadier squad [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra Blindada Pz.Sturmgranadeiro [1944]"
+
+msgctxt "desc/squad/squad_sturmjager_con(ger)"
+msgid "<c(A5A095)>(3)</c> Sturmjäger squad [1944]"
+msgstr "<c(A5A095)>(3)</c> Esquadra Sturmjäger [1944]"
+
+msgctxt "desc/squad/squad_sturm_begleitgren_motor_con"
+msgid "<c(A5A095)>(3)</c> Motorized Sturm Begleitgrenadier squad [1944]"
+msgstr "<c(A5A095)>(3)</c> Esquadra Sturm Begleitgranadeiro Motorizada [1944]"
+
+msgctxt "desc/squad/squad_pzg_gd_armor_con"
+msgid "<c(A5A095)>(3+)</c> Armored Großdeutschland Pz.grenadier squad [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra Blindada Pz.Granadeiro Großdeutschland [1944]"
+
+msgctxt "desc/squad/squad_gebirgsjaeger_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> Gebirgsjäger squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Gebirgsjäger [1944]"
+
+msgctxt "desc/squad/squad_fallschirmjaeger_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> Fallschirmjäger squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Fallschirmjäger [1944]"
+
+msgctxt "desc/squad/squad_brandenburger_44_con(ger)"
+msgid "<c(A5A095)>(4)</c> Brandenburger squad [1944]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Brandenburger [1944]"

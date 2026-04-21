@@ -1,0 +1,251 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1942_10_obsich)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/attack"
+msgid "Attack signal"
+msgstr "Sinal de ataque"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/date"
+msgid "October 20th, 1942 · Occupied Ukraine."
+msgstr "20 de outubro de 1942 · Ucrânia ocupada."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/name"
+msgid "Unbroken"
+msgstr "Inquebrável"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/name_big"
+msgid "Unbroken"
+msgstr "Inquebrável"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/ger_officer"
+msgid "Upon arrival to the village, I want the prisoners dealt with and the men gathered for a sweep of the marshes. The Command wants us to rat out a problematic partisan group."
+msgstr "Ao chegarmos à aldeia, quero que os prisioneiros sejam tratados e os homens reunidos para uma varredura nos pântanos. O Comando quer que delatemos um grupo de partisans problemático."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/ger_soldier"
+msgid "Scheisse! I lost control of the steering... the brakes are also down god damn it!!"
+msgstr "Scheisse! Perdi o controle da direção... os freios também falharam, merda!!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/01"
+msgid "Go comrades, take cover and grab any weapon you find! Death to the fascist invaders!"
+msgstr "Vamos, camaradas — abriguem-se e peguem qualquer arma que encontrarem! Morte aos invasores fascistas!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/02"
+msgid "Onward comrades! The supply truck is ours! Scavenge everything you can from it!"
+msgstr "Avante, camaradas! O caminhão de suprimentos é nosso! Recolha tudo que puder dele!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/03"
+msgid "The Germans are coming!"
+msgstr "Os alemães estão vindo!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/04"
+msgid "Germans! The Germans are leaving the village! They're coming this way!!"
+msgstr "Alemães! Os alemães estão saindo da aldeia! Estão vindo por aqui!!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/05"
+msgid "Comrade Commander, I don't think they have given our position away! It's not just the Germans. Some of our villagers have joined them too! The Fascists are forcing our own people against us!"
+msgstr "Camarada Comandante, não acho que delataram nossa posição! Não são só os alemães. Alguns de nossos aldeões se juntaram a eles também! Os fascistas estão forçando nosso próprio povo contra nós!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/01"
+msgid "Welcome to Obsich, comrades. I am in charge here. The Fascists are sending a lot of their convoys through these roads nowadays, we try to target the easy ones with supplies."
+msgstr "Bem-vindos a Obsich, camaradas. Estou no comando aqui. Os fascistas estão enviando muitos de seus comboios por essas estradas hoje em dia — tentamos atacar os mais fáceis com suprimentos."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/02"
+msgid "We could use your help! The Germans are doing something to our village. It has become a fortified supply nexus, they've reinforced the sector and we know nothing of our people. We fear the worst..."
+msgstr "Poderíamos usar sua ajuda! Os alemães estão fazendo algo com nossa aldeia. Ela se tornou um nó de suprimentos fortificado — eles reforçaram o setor e não sabemos nada de nosso povo. Tememos o pior..."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/03"
+msgid "Agreed. Follow us! We'll take you to our hideout. "
+msgstr "Concordo. Sigam-nos! Levaremos vocês ao nosso esconderijo."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/04"
+msgid "The German activity in the village is alarmingly high. There is a reckless German officer stationed there and the Soviet high command has requested we terminate him. All entrances are guarded. This Fascist swine is important!"
+msgstr "A atividade alemã na aldeia é assustadoramente alta. Há um oficial alemão imprudente estacionado lá e o alto comando soviético solicitou que o eliminássemos. Todas as entradas estão guardadas. Este porco fascista é importante!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/05"
+msgid "With your men, we will attempt to infiltrate the village, take out the armor, and most importantly, do not let that Fascist officer escape alive! If we can strike a hard blow against the Hitlerite hordes, hopefully, they will leave our village alone."
+msgstr "Com seus homens, tentaremos infiltrar a aldeia, destruir a blindagem e, o mais importante, não deixar aquele oficial fascista escapar com vida! Se pudermos dar um golpe duro contra as hordas hitlerists, esperançosamente eles deixarão nossa aldeia em paz."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/06"
+msgid "What!? Impossible! Somebody has given away our hideout!"
+msgstr "O quê?! Impossível! Alguém entregou nosso esconderijo!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/07"
+msgid "I should have never trusted you, traitors!"
+msgstr "Nunca deveria ter confiado em vocês, traidores!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/08"
+msgid "Shit! Hanomag! Flank that vehicle and get them from behind before that MG-42 kills us all!"
+msgstr "Merda! Hanomag! Flanqueie aquele veículo e ataque-os por trás antes que aquela MG-42 nos mate todos!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/09"
+msgid "There's ammo, weapons and equipment in the crates! Take what you need!"
+msgstr "Há munição, armas e equipamentos nas caixas! Pegue o que precisar!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/10"
+msgid "Great work comrades. Now our position is compromised. We must proceed with our plans of liberating Obsich and terminating the Fascist commanding officer!"
+msgstr "Ótimo trabalho, camaradas. Agora nossa posição está comprometida. Devemos prosseguir com nossos planos de libertar Obsich e eliminar o oficial fascista comandante!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/11"
+msgid "Go! For the Motherland! Death to the fascist beast!"
+msgstr "Vamos! Pela Mãe Pátria! Morte à besta fascista!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/12"
+msgid "A drink, comrades! Henceforth, our village may remain free from the yoke of fascism!"
+msgstr "Um brinde, camaradas! A partir de agora, nossa aldeia pode permanecer livre do jugo do fascismo!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/convoy1"
+msgid "The Fascists are missing the schedule, they are in haste. Ambush the supply vehicles and let the others go, I don't think they'll be after you."
+msgstr "Os fascistas estão fora do cronograma — estão com pressa. Embosque os veículos de suprimentos e deixe os outros passar, não acho que virão atrás de você."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/convoy2"
+msgid "Comrade, focus your attention only on the trucks!"
+msgstr "Camarada, concentre sua atenção apenas nos caminhões!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/convoy3"
+msgid "Ignore the armor! We're only interested in the supply vehicles!"
+msgstr "Ignore a blindagem! Estamos interessados apenas nos veículos de suprimentos!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/mortars"
+msgid "The enemy has brought mortars! You must eliminate them quickly!"
+msgstr "O inimigo trouxe morteiros! Você deve eliminá-los rapidamente!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/officer"
+msgid "The officer is trying to get away! You cannot let this happen at any rate!"
+msgstr "O oficial está tentando escapar! Você não pode deixar isso acontecer de jeito nenhum!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part31"
+msgid "I need your squad to move swiftly. Some of my men are acting as spotters in the village. Cut off any escape routes the officer may want to use. We will attack when you give us the signal."
+msgstr "Preciso que sua esquadra se mova rapidamente. Alguns de meus homens estão atuando como observadores na aldeia. Corte qualquer rota de fuga que o oficial possa querer usar. Atacaremos quando você nos der o sinal."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part32"
+msgid "If the officer is compromised, he will try to escape!! You must have all exits covered by the time you give us the attack signal. I will give you three of my best men to help you in this dangerous task."
+msgstr "Se o oficial for comprometido, ele tentará escapar!! Você deve ter todas as saídas cobertas quando der o sinal de ataque. Darei a você três de meus melhores homens para ajudá-lo nesta tarefa perigosa."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part41"
+msgid "Home sweet home! ...They left behind all the documents... How very interesting..."
+msgstr "Lar doce lar! ...Eles deixaram todos os documentos para trás... Muito interessante..."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part42"
+msgid "Convoys. Lots of them. It seems we're in one of the few available crossroads where they don't get completely stuck in the mud."
+msgstr "Comboios. Muitos deles. Parece que estamos em um dos poucos entroncamentos disponíveis onde eles não ficam completamente presos na lama."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part43"
+msgid "Every truck we stop... Every minute we delay them... It buys precious time for our comrades in the front line to stop the fascist advance!"
+msgstr "Cada caminhão que paramos... Cada minuto que os atrasamos... Compra tempo precioso para nossos camaradas na linha de frente pararem o avanço fascista!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part44"
+msgid "Another column is coming soon! I'll keep you posted! I reckon you have a couple of minutes until its arrival! Find some mines or explosives around the village and prepare for them!"
+msgstr "Outra coluna está chegando em breve! Manterei você informado! Calculo que você tem alguns minutos até a chegada! Encontre minas ou explosivos ao redor da aldeia e prepare-se!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part45"
+msgid "The enemy convoy is approaching from the northwest!"
+msgstr "O comboio inimigo está se aproximando pelo noroeste!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part46"
+msgid "The Fascist column is approaching from the southwest!"
+msgstr "A coluna fascista está se aproximando pelo sudoeste!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part47"
+msgid "Attention! The enemy convoy is arriving from the south!"
+msgstr "Atenção! O comboio inimigo está chegando pelo sul!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part48"
+msgid "My scouts can see the next German convoy has almost arrived on our doorstep! I will keep you posted."
+msgstr "Meus batedores veem que o próximo comboio alemão está quase chegando à nossa porta! Manterei você informado."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/part49"
+msgid "Take down the trucks! They are our target! Let the armored vehicles through! We are no match for the fascist armor."
+msgstr "Abata os caminhões! Eles são nosso alvo! Deixe os veículos blindados passarem! Não somos páreo para a blindagem fascista."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/01"
+msgid "We'll join you, comrade. First, we need to get the hell out of here before the Germans know what hit them."
+msgstr "Nos juntaremos a vocês, camarada. Primeiro, precisamos sair daqui antes que os alemães saibam o que os atingiu."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/02"
+msgid "Stop this nonsense comrade! We've not betrayed you!"
+msgstr "Pare com essa bobagem, camarada! Não o traímos!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/03"
+msgid "Take defensive positions! We will defend this place to the last man!"
+msgstr "Assumam posições defensivas! Defenderemos este lugar até o último homem!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/part41"
+msgid "What is it?"
+msgstr "O que é?"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/part42"
+msgid "Our squad will ambush as many as we can! Keep us updated on the German’s movements!"
+msgstr "Nossa esquadra vai emboscar o máximo que puder! Mantenha-nos informados sobre os movimentos dos alemães!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/narrator/player/secret"
+msgid "Aha, what's this? We could work something out..."
+msgstr "Ahá, o que é isso? Poderíamos chegar a um acordo..."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/outro_completed"
+msgid "The Vitebsk gate would play an important part in the war. It enabled the partisans to disrupt supply lines more easily. Big battles were influenced by the partisans, such as the battle of Kursk. German supplies would never be safe again. Many partisans re-enlisted in the Red Army once their territory had been liberated, a feat to which they themselves had been instrumental."
+msgstr "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os partisans perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos partisans, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos partisans se reenlistaram no Exército Vermelho assim que seu território foi libertado — feito no qual eles próprios foram fundamentais."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/outro_failed"
+msgid "Now that the German attack has succeeded, we can no longer use our exposed base. All equipment and supplies will have to be hauled through the marshes for dozens of kilometres. Losing this battle also means we will have to share our supplies with the villagers, who are now forced to leave their homes. We will not be able to block German reinforcements for a while. We can only hope this battle didn’t make us lose another one at the front."
+msgstr "Agora que o ataque alemão teve êxito, não podemos mais usar nossa base exposta. Todo o equipamento e suprimentos terão de ser transportados pelos pântanos por dezenas de quilômetros. Perder esta batalha também significa que teremos de compartilhar nossos suprimentos com os aldeões, que agora são forçados a abandonar suas casas. Não conseguiremos bloquear os reforços alemães por algum tempo. Só nos resta torcer para que esta batalha não nos tenha custado outra na frente."
+
+#, boost-format
+
+msgctxt "mission/single/01-rus/1942_10_obsich/part4_progress"
+msgid "%1% out of 10 supply trucks neutralized."
+msgstr "%1% de 10 caminhões de suprimentos neutralizados."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/place"
+msgid "POW squad"
+msgstr "Esquadra de prisioneiros de guerra"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/story"
+msgid "Convoys of valuable Soviet POWs are brought back and forth for questioning and interning in camps. With the wet autumn underway, only a few roads remain serviceable."
+msgstr "Comboios de valiosos prisioneiros de guerra soviéticos são transportados para cá e para lá para interrogatório e internação em campos. Com o outono chuvoso em curso, apenas algumas estradas permanecem transitáveis."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/task1"
+msgid "Assist the partisans in eliminating the German convoy."
+msgstr "Auxilie os partisans na eliminação do comboio alemão."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/task2"
+msgid "Follow the partisans to their dugout."
+msgstr "Siga os partisans até seu abrigo."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/task3"
+msgid "Defend the camp!"
+msgstr "Defenda o acampamento!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/task4"
+msgid "Drive the Germans out of Obsich."
+msgstr "Expulse os alemães de Obsich."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/task5"
+msgid "Eliminate the enemy convoys, don't let any supply vehicle get through!"
+msgstr "Elimine os comboios inimigos — não deixe nenhum veículo de suprimentos passar!"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/taskoff"
+msgid "Kill the German high-ranking officer."
+msgstr "Elimine o oficial alemão de alto escalão."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/tasksec1"
+msgid "Secret Objective"
+msgstr "Objetivo Secreto"
+
+msgctxt "mission/single/01-rus/1942_10_obsich/tasksec1c"
+msgid "Find the abandoned German truck."
+msgstr "Encontre o caminhão alemão abandonado."
+
+msgctxt "mission/single/01-rus/1942_10_obsich/timer"
+msgid "Arrival of the next convoy:"
+msgstr "Chegada do próximo comboio:"

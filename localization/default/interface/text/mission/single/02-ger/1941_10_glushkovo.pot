@@ -1,0 +1,201 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1941_10_glushkovo)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/date"
+msgid "October 20th, 1941 - Glushkovo, north of Vyazma."
+msgstr "20 de outubro de 1941 — Glushkovo, norte de Vyazma."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/name"
+msgid "The Big Prize"
+msgstr "O Grande Prêmio"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/name_big"
+msgid "The Big Prize"
+msgstr "O Grande Prêmio"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearbridge"
+msgid "Excellent! The bridge access seems to have been cleared."
+msgstr "Excelente! O acesso à ponte parece ter sido liberado."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearelevation"
+msgid "Excellent job soldiers. This elevated position will no longer be a threat when the weather clears up."
+msgstr "Excelente trabalho, soldados. Esta posição elevada não será mais uma ameaça quando o tempo melhorar."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearford"
+msgid "Very good. It looks like the fording area has been cleared of hostile troops."
+msgstr "Muito bem. Parece que a área de travessia foi limpa de tropas hostis."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearglushkovo"
+msgid "A fine display of tactical excellence, soldiers. The village has been neutralized."
+msgstr "Uma bela demonstração de excelência tática, soldados. A aldeia foi neutralizada."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/glushkovo"
+msgid "Herr Leutnant, scouts are reporting tank movement towards the village of Glushkovo. Unfortunately, in this weather, the Luftwaffe cannot help you."
+msgstr "Herr Leutnant, os batedores reportam movimento de tanques em direção à aldeia de Glushkovo. Infelizmente, com este tempo, a Luftwaffe não pode ajudá-lo."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/part2"
+msgid "Soldiers! We are not done yet! The enemy still holds the other river bank. It’s imperative we break through and seize all the strategic positions."
+msgstr "Soldados! Ainda não terminamos! O inimigo ainda controla a outra margem do rio. É imperativo que rompamos a linha e tomemos todas as posições estratégicas."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/part2_2"
+msgid "Herr Leutnant, I have been told that we should expect the village of Glushkovo to be heavily defended. The Soviets are holding the line to prevent the encirclement of their troops between Vyazma and Bryansk."
+msgstr "Herr Leutnant, fui informado de que a aldeia de Glushkovo deve estar fortemente defendida. Os soviéticos estão segurando a linha para evitar o cerco de suas tropas entre Vyazma e Bryansk."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/reinf2"
+msgid "Reserves and upgraded equipment are at your disposal Herr Leutnant."
+msgstr "Reservas e equipamentos aprimorados estão à sua disposição, Herr Leutnant."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/reinfshow"
+msgid "Reinforcements are at your disposal! Use them well. Our reserves are limited."
+msgstr "Reforços estão à sua disposição! Use-os bem. Nossas reservas são limitadas."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/start"
+msgid "Soldiers! We have orders to clear the road for the attack on Vyazma. But the village ahead keeps us from crossing the Dnieper, and is heavily defended."
+msgstr "Soldaten! Temos ordens de limpar a estrada para o ataque a Vyazma. Mas a aldeia à frente nos impede de cruzar o Dnieper, e está fortemente defendida."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/start2"
+msgid "We must seize the Dnieper crossings and drive the enemy out of this sector! I expect nothing but the very best from all of you! "
+msgstr "Devemos tomar as travessias do Dnieper e expulsar o inimigo deste setor! Não espero nada além do melhor de todos vocês!"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/tank_counter"
+msgid "Soviet armored reserves are incoming from the east!"
+msgstr "Reservas blindadas soviéticas se aproximando pelo leste!"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/soldier/nebelwerfer"
+msgid "Friendly casualties located! Those poor guys really ended up in the worst possible place..."
+msgstr "Baixas amigas localizadas! Aqueles coitados realmente foram parar no pior lugar possível..."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/outro_completed"
+msgid "After Glushkovo, the attack on Vyazma succeeded and the Germans marched toward Moscow. However, because of the extreme cold and a large-scale Soviet counteroffensive, an attack on the Russian capital was no longer on the cards. Little were they to know they would have to fight over the same place just a few months later."
+msgstr "Após Glushkovo, o ataque a Vyazma teve êxito e os alemães marcharam em direção a Moscou. Porém, devido ao frio extremo e a uma contra-ofensiva soviética em larga escala, um ataque à capital russa deixou de ser possível. Pouco sabiam eles que teriam de lutar pelo mesmo local apenas alguns meses depois."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/outro_failed"
+msgid "Not crossing the Dnieper means not taking Vyazma, and many more casualties for Army Group Centre. This mission result means the northern half of the attack on Vyazma is missing, delaying the end of the encirclement by 4 weeks and stopping the German offensive when it matters most."
+msgstr "Não cruzar o Dnieper significa não tomar Vyazma, e muito mais baixas para o Grupo de Exércitos Centro. Este resultado da missão significa que a metade norte do ataque a Vyazma está faltando, atrasando o encerramento do cerco em 4 semanas e parando a ofensiva alemã no momento mais crítico."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/place"
+msgid "3rd Panzer Group, Army Group Centre."
+msgstr "3º Grupo Panzer, Grupo de Exércitos Centro."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/crew"
+msgid "Panzerwaffe crew"
+msgstr "Tripulação da Panzerwaffe"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Implante seus reforços no campo de batalha"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/infantry_truck"
+msgid "Motorized Inf. squad"
+msgstr "Esquadra de Inf. motorizada"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/mg34"
+msgid "MG-34 tripod"
+msgstr "MG-34 tripé"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/mortar"
+msgid "SGrW. 34 Mortar"
+msgstr "SGrW. 34 Morteiro"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/pak38"
+msgid "PaK 38 AT gun"
+msgstr "Canhão AT PaK 38"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzer1"
+msgid "Panzer I Ausf. B"
+msgstr "Panzer I Ausf. B"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzer2"
+msgid "Panzer II Ausf. F"
+msgstr "Panzer II Ausf. F"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzer3"
+msgid "Panzer III Ausf. J"
+msgstr "Panzer III Ausf. J"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzer35t"
+msgid "Panzer 35(t)"
+msgstr "Panzer 35(t)"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzer4f1"
+msgid "Panzer IV Ausf. F1"
+msgstr "Panzer IV Ausf. F1"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/panzerjager"
+msgid "Panzerjäger 1"
+msgstr "Panzerjäger 1"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/pioniere"
+msgid "Sturmpioniere"
+msgstr "Sturmpioniere"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/scouts"
+msgid "Scout and Sniper"
+msgstr "Batedores e Atiradores de Elite"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/fueltruck"
+msgid "Fuel truck"
+msgstr "Caminhão de combustível"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/supply"
+msgid "Supply truck"
+msgstr "Caminhão de suprimentos"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/menu:1_1"
+msgid "Infantry"
+msgstr "Infantaria"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/menu:2_1"
+msgid "Emplacements"
+msgstr "Posições de tiro"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/menu:3_1"
+msgid "Armor vehicles"
+msgstr "Veículos blindados"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/menu:back"
+msgid "Return to menu"
+msgstr "Voltar ao menu"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/skip"
+msgid "somebody has skipped the cutscene"
+msgstr "alguém pulou a cena"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/story"
+msgid "'Operation Taifun' just entered its third week. Slowed by bad weather, the final push for Moscow starts with a pincer attack on Vyazma. This mission is about the north pincer, trying to cross the Dnieper."
+msgstr "A 'Operação Tufão' entrou em sua terceira semana. Atrasado pelo mau tempo, o avanço final em direção a Moscou começa com um ataque em pinça sobre Vyazma. Esta missão trata do flanco norte da pinça, tentando cruzar o Dnieper."
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/task1"
+msgid "Clear the bridge over the Dnieper"
+msgstr "Libere a ponte sobre o Dnieper"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/task1_2"
+msgid "Clear the Dnieper fording area"
+msgstr "Libere a área de travessia do Dnieper"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/task2"
+msgid "Clear out the Soviet elevated position"
+msgstr "Elimine a posição elevada soviética"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/task3"
+msgid "Drive the enemy out of Glushkovo"
+msgstr "Expulse o inimigo de Glushkovo"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/tasks1"
+msgid "Secret objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/02-ger/1941_10_glushkovo/tasks1_revealed"
+msgid "Secret objective #1: Recover the Nebelwerfer"
+msgstr "Objetivo Secreto nº 1: Recupere o Nebelwerfer"

@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic weaponry\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/weapon/type/main"
+msgid "<f(anka)s(12)x.>Main MG"
+msgstr "<f(anka)s(12)x.>MG Principal"
+
+msgctxt "desc/weapon/type/coaxial"
+msgid "<f(anka)s(12)x.>Coaxial MG"
+msgstr "<f(anka)s(12)x.>MG Coaxial"
+
+msgctxt "desc/weapon/type/hull"
+msgid "<f(anka)s(12)x.>Hull MG"
+msgstr "<f(anka)s(12)x.>MG de Casco"
+
+msgctxt "desc/weapon/type/rear"
+msgid "<f(anka)s(12)x.>Rear MG"
+msgstr "<f(anka)s(12)x.>MG Traseira"
+
+msgctxt "desc/weapon/type/aa"
+msgid "<f(anka)s(12)x.>Anti-Aircraft MG"
+msgstr "<f(anka)s(12)x.>MG Antiaérea"
+
+msgctxt "desc/weapon/type/secondary_flamer"
+msgid "<f(anka)s(12)x.>Hull Flamethrower"
+msgstr "<f(anka)s(12)x.>Lança-chamas de Casco"
+
+msgctxt "desc/weapon/type/coaxial_flamer"
+msgid "<f(anka)s(12)x.>Coaxial Flamethrower"
+msgstr "<f(anka)s(12)x.>Lança-chamas Coaxial"
+
+msgctxt "desc/weapon/type/mgun_turret_left"
+msgid "<f(anka)s(12)x.>Left Turret MG"
+msgstr "<f(anka)s(12)x.>MG Torreta Esquerda"
+
+msgctxt "desc/weapon/type/mgun_turret_right"
+msgid "<f(anka)s(12)x.>Right Turret MG"
+msgstr "<f(anka)s(12)x.>MG Torreta Direita"
+
+msgctxt "desc/weapon/type/mgun_turret_rear_left"
+msgid "<f(anka)s(12)x.>Left Rear Turret MG"
+msgstr "<f(anka)s(12)x.>MG Torreta Traseira Esquerda"
+
+msgctxt "desc/weapon/type/mgun_turret_rear_right"
+msgid "<f(anka)s(12)x.>Right Rear Turret MG"
+msgstr "<f(anka)s(12)x.>MG Torreta Traseira Direita"
+
+msgctxt "desc/weapon/type/commander"
+msgid "<f(anka)s(12)x.>Commander"
+msgstr "<f(anka)s(12)x.>Comandante"
+
+msgctxt "desc/weapon/type/searchlight"
+msgid "<f(anka)s(12)x.>Searchlight"
+msgstr "<f(anka)s(12)x.>Holofote"
+
+msgctxt "desc/weapon/binocular"
+msgid "Binoculars"
+msgstr "Binóculos"
+
+msgctxt "desc/stuff/binocular"
+msgid "Binoculars"
+msgstr "Binóculos"
+
+msgctxt "desc/stuff/box"
+msgid "Box"
+msgstr "Caixa"
+
+msgctxt "desc/stuff/small_box"
+msgid "Small Box"
+msgstr "Caixa Pequena"
+
+msgctxt "desc/stuff/searchlight"
+msgid "Searchlight"
+msgstr "Holofote"
+
+msgctxt "desc/stuff/light"
+msgid ""
+msgstr ""
+
+msgctxt "desc/weapon/type/cupola"
+msgid "<f(anka)s(12)x.>Cupola MG"
+msgstr "<f(anka)s(12)x.>MG de Cúpula"
+
+msgctxt "desc/weapon/type/left"
+msgid "<f(anka)s(12)x.>Left MG"
+msgstr "<f(anka)s(12)x.>MG Esquerda"
+
+msgctxt "desc/weapon/type/right"
+msgid "<f(anka)s(12)x.>Right MG"
+msgstr "<f(anka)s(12)x.>MG Direita"
+
+msgctxt "desc/weapon/type/left_flamer"
+msgid "<f(anka)s(12)x.>Left Flamethrower"
+msgstr "<f(anka)s(12)x.>Lança-chamas Esquerdo"
+
+msgctxt "desc/weapon/type/right_flamer"
+msgid "<f(anka)s(12)x.>Right Flamethrower"
+msgstr "<f(anka)s(12)x.>Lança-chamas Direito"

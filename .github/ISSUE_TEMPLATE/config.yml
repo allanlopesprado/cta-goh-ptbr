@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Solicitação legal/titular de direitos
+    url: https://github.com/allanlopesprado/cta-goh-ptbr/issues/new
+    about: Abra uma issue e use o prefixo [LEGAL] no título.

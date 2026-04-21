@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1945_04-rus_seelow_heights)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/name"
+msgid "Bloodshed at Seelow Heights"
+msgstr "Banho de Sangue nas Alturas de Seelow"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/name_big"
+msgid "Bloodshed at Seelow Heights"
+msgstr "Banho de Sangue nas Alturas de Seelow"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/story"
+msgid "Seelow heights, Oderbruch Offensive. The attack is about to begin. As usual, there will be a big artillery bombardment. Attack as soon as possible!\n\nGoals:\n - Clear the way to Berlin.\n - Destruction of the German 9th Army."
+msgstr "Alturas de Seelow, Ofensiva do Oderbruch. O ataque está prestes a começar. Como de costume, haverá um grande bombardeio de artilharia. Ataque o mais rápido possível!\n\nObjetivos:\n - Abra caminho para Berlim.\n - Destruição do 9º Exército alemão."
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/place"
+msgid "Seelow, Germany"
+msgstr "Seelow, Alemanha"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/date"
+msgid "April, 1945"
+msgstr "Abril de 1945"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_completed"
+msgid "Victory! The road to Berlin is now open. Good job!"
+msgstr "Vitória! O caminho para Berlim está aberto. Bom trabalho!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_failed"
+msgid "Mission failed; enemy resistance was too much. We will have to try again!"
+msgstr "Missão fracassada; a resistência inimiga foi forte demais. Teremos de tentar novamente!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/outro_failed_hq"
+msgid "Mission failed! - The enemy captured our HQ!"
+msgstr "Missão fracassada! - O inimigo capturou o nosso QG!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_attack"
+msgid "Break through the Seelow Heights"
+msgstr "Rompa as Alturas de Seelow"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/flag_capture_status"
+msgid "Your soldiers secured %1%/7 German positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start0"
+msgid "You are now in the lair of the Beast! This is our field HQ, it must remain in our control!"
+msgstr "Você está agora no covil da Besta! Este é o nosso QG de campo, deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start1"
+msgid "Comrade, you are tasked with breaching through these heavily defended heights. We must crush the Seelow defenses and drive on to Berlin!"
+msgstr "Camarada, você está encarregado de romper estas alturas fortemente defendidas. Devemos esmagar as defesas de Seelow e avançar para Berlim!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start2"
+msgid "The germans are planning to reinforce their lines with everything they've got! Make sure to flank them and overwhelm them with our numbers!"
+msgstr "Os alemães planejam reforçar suas linhas com tudo o que têm! Certifique-se de flanqueá-los e de os dominar com nossos números!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start3"
+msgid "Begin securing the objectives, you will get some reinforcements soon!"
+msgstr "Comece a assegurar os objetivos, você receberá alguns reforços em breve!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/allied_enemy_near_hq"
+msgid "Comrades! Germans are sneaking up on our Field HQ!"
+msgstr "Camaradas! Os alemães estão se aproximando furtivamente do nosso QG de campo!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/player_enemy_near_hq"
+msgid "We must hold this command post at all costs, or ruin the coordination of an entire army!"
+msgstr "Devemos manter este posto de comando a todo custo, ou arruinaremos a coordenação de toda a operação!"
+
+msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/hq_bonus"
+msgid "Comrade! Now you can request an airstrike."
+msgstr "Camarada! Agora você pode solicitar um ataque aéreo."

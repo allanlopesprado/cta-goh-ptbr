@@ -1,0 +1,151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_03_cologne)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/date"
+msgid "March 6th, 1945 · Köln, Germany"
+msgstr "6 de março de 1945 · Colônia, Alemanha"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/lose"
+msgid "You lost all your troops!"
+msgstr "Você perdeu todas as suas tropas!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/name"
+msgid "Lair of the Beast"
+msgstr "O Covil da Besta"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/name_big"
+msgid "Lair of the Beast"
+msgstr "O Covil da Besta"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/01"
+msgid "Holy smokes, that thing is god damn enormous! It's a shame the rest of the city is blown to shit!"
+msgstr "Meu Deus, aquela coisa é imensamente enorme! É uma pena que o resto da cidade tenha sido destruído!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/02"
+msgid "Alright, Lt. Shaw, take it easy peaking over that corner."
+msgstr "Certo, Ten. Shaw — vá com cuidado ao espreitar por aquela esquina."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/03"
+msgid "God damn it, blown to smithereens! The Germans have panzerfausts and AT guns on every damn turn!"
+msgstr "Maldição — destruído em pedaços! Os alemães têm Panzerfausts e canhões AT em cada maldita esquina!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/04"
+msgid "Alright Gentlemen, we're not risking our Pershing just yet. Go in there and get me that square cleared out, now!"
+msgstr "Certo, senhores — ainda não vamos arriscar nosso Pershing. Entrem lá e limpem aquela praça para mim — agora!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/05"
+msgid "These god damn streets are riddled with Anti-tank hedgehogs. We need engineers with satchel charges."
+msgstr "Essas malditas ruas estão cheias de ouriços antitanque. Precisamos de engenheiros com cargas explosivas."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/06"
+msgid "It looks like the 104th Infantry Division is stuck nearby. They have engineers, for sure, but they also have some Krauts pinning them down. Soldiers, get your asses there and help our boys out."
+msgstr "Parece que a 104ª Divisão de Infantaria está travada por perto. Eles têm engenheiros, com certeza, mas também têm alguns alemães os imobilizando. Soldados — vão lá e ajudem nossos rapazes."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/08"
+msgid "Alright gentlemen. We have explosives now, but we also have further problems. There's enemy snipers overlooking the streets. We cannot advance toward the cathedral until the snipers are taken out."
+msgstr "Certo, senhores. Temos explosivos agora, mas também temos mais problemas. Há atiradores inimigos cobrindo as ruas. Não podemos avançar em direção à catedral até que os atiradores sejam eliminados."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/09"
+msgid "There's a god damn 88 nest at the crossroads. That's the last foreseeable threat remaining for our Pershing. Take it out and I'll let you sweep the floor with the Pershing."
+msgstr "Tem um maldito ninho de canhão 88mm no cruzamento. Essa é a última ameaça previsível restante para nosso Pershing. Elimine-o e deixarei você varrer o chão com o Pershing."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/10"
+msgid "Allright boys! Let's go visit those spires, shall we? I order you to take the cathedral district. And remember - don't you even think about losing my Pershing. Got it?"
+msgstr "Certo, rapazes! Vamos visitar aquelas torres, não vamos? Ordeno que tomem o distrito da catedral. E lembrem-se — nem pensem em perder meu Pershing. Entenderam?"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/11"
+msgid "German counterattack around the cathedral! Watch out!"
+msgstr "Contra-ataque alemão em torno da catedral! Cuidado!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/12"
+msgid "What a display of tactical excellence, Soldiers. I will make sure each and every one of you get recommended for promotions. Now take a step back and contemplate the might of humankind's architecture. They may be bloody Krauts, but they sure know how to build."
+msgstr "Que demonstração de excelência tática, soldados. Vou garantir que cada um de vocês seja recomendado para promoções. Agora deem um passo atrás e contemplem o poder da arquitetura humana. Podem ser malditos alemães, mas certamente sabem construir."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/panther"
+msgid "Panther! There's a Panther on that intersection! Well, this time we did come prepared. Let's see how the Pershing fares against it. I'll make sure the combat photographers film it for posterity."
+msgstr "Panther! Tem um Panther naquela interseção! Bem — desta vez viemos preparados. Vamos ver como o Pershing se sai contra ele. Vou garantir que os fotógrafos de combate o filmem para a posteridade."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/panzerfaust"
+msgid "Watch out for those Panzerfausts. They will shred through our heaviest armour, and they seem to be giving them away like candy. There's old men and children fighting like fanatics, and they know this city well."
+msgstr "Cuidado com esses Panzerfausts. Eles destruirão nossa blindagem mais pesada, e parecem estar os distribuindo como balas. Há velhos e crianças lutando como fanáticos, e conhecem bem esta cidade."
+
+msgctxt "mission/single/04-usa/1945_03_cologne/narrator/pershing"
+msgid "Well done Sir. Take command of the M26 Pershing, but we have instructions from HQ not to lose this asset. Take good care of our little beast."
+msgstr "Muito bem, senhor. Assuma o comando do M26 Pershing, mas temos instruções do QG para não perder este ativo. Cuide bem do nosso pequeno monstro."
+
+#, boost-format
+
+msgctxt "mission/single/04-usa/1945_03_cologne/obj_progress"
+msgid "%1% out of 10 snipers eliminated"
+msgstr "%1% de 10 atiradores eliminados"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/outro_completed"
+msgid "Great job, General Rose will be very pleased! Now, let’s get the press guys up here and show them the results of this fight; we seem to have plenty of cameramen here. If they managed to get some footage of the action, this fight might become symbolic for the Battle of Cologne someday. Who knows?"
+msgstr "Ótimo trabalho, o General Rose ficará muito satisfeito! Agora, vamos trazer a imprensa aqui e mostrar os resultados desta luta; parece que temos vários cinegrafistas por aqui. Se conseguiram registrar alguma imagem da ação, esta batalha pode se tornar simbólica para a Batalha de Colônia algum dia. Quem sabe?"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/outro_failed"
+msgid "What happened? Now that we have the Pershing tank available, we should be able to win a battle like this. We desperately need to take all of Cologne this side of the river, but if we can’t get past a few enemies, that’s going to be very hard. For the next attempt, maybe you can change tactics?"
+msgstr "O que aconteceu? Agora que temos o tanque Pershing disponível, deveríamos ser capazes de vencer uma batalha como esta. Precisamos urgentemente tomar toda a Colônia deste lado do rio, mas se não conseguimos passar por alguns inimigos, será muito difícil. Para a próxima tentativa, talvez possa mudar de tática?"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/place"
+msgid "3rd Armored Division 'Spearhead'"
+msgstr "3ª Divisão Blindada 'Spearhead'"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/story"
+msgid "March 1945.\n\n After the bitter fighting in the Ardennes and the Hürtgen forest, the allied drive to the Rhine seems unstoppable. They advance on a wide front with relative ease.\n\n In early March, your 3rd armored division reaches the outskirts of Cologne. Moving along its streets with your tanks, you will need to be very careful not to break your tracks or get stuck in the piles of rubble. Today, you are tasked to fight your way into the city, and to advance all the way to the Rhine River. Keep your tanks safe by clearing the houses on both sides of the roads. Watch out for snipers while you advance to the central station near the cathedral and the bridges. You’ll likely run into enemy tanks as well.\n\n If the need arises, we can send some of our brand new heavy tanks forward. For now, get ready to move.\n\nGood luck!"
+msgstr "Março de 1945.\n\n Após o amargo combate nas Ardenas e na Floresta de Hürtgen, o avanço aliado ao Reno parece imparável. Eles avançam numa frente ampla com relativa facilidade.\n\n No início de março, sua 3ª Divisão Blindada chega às franjas de Colônia. Movendo-se pelas suas ruas com seus tanques, você precisará ter muito cuidado para não quebrar as esteiras ou ficar preso nas pilhas de escombros. Hoje, sua missão é abrir caminho para dentro da cidade e avançar até o Rio Reno. Mantenha seus tanques seguros limpando as casas em ambos os lados das estradas. Cuidado com atiradores de elite enquanto avança até a estação central próxima à catedral e às pontes. Você provavelmente encontrará tanques inimigos também.\n\n Se necessário, podemos enviar alguns de nossos novos tanques pesados à frente. Por ora, prepare-se para mover.\n\nBoa sorte!"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task1"
+msgid "Clear the junction"
+msgstr "Limpe o cruzamento"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task2"
+msgid "Rendezvous with the 104th ID engineers"
+msgstr "Encontre os engenheiros da 104ª DI"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task3"
+msgid "Clear out the snipers"
+msgstr "Elimine os atiradores"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task4"
+msgid "Take out the 88 in order to get access to the Pershing"
+msgstr "Neutralize o canhão 88 para ter acesso ao Pershing"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task5"
+msgid "Capture the cathedral"
+msgstr "Capture a catedral"
+
+msgctxt "mission/single/04-usa/1945_03_cologne/task6"
+msgid "Keep the M26 Pershing operational"
+msgstr "Mantenha o M26 Pershing operacional"

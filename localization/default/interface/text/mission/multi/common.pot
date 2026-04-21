@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (common)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/multi/enemy_plane_alert1"
+msgid "Enemy aircraft! He's planning a bombing run!"
+msgstr "Aeronave inimiga! Está planejando uma passagem de bombardeio!"
+
+msgctxt "mission/multi/enemy_plane_alert2"
+msgid "Enemy bomber! Expect air attack on the next pass!"
+msgstr "Bombardeiro inimigo! Espere ataque aéreo na próxima passagem!"
+
+msgctxt "mission/multi/minefield_alert1"
+msgid "Bloody hell! I see a minefield sign!"
+msgstr "Droga! Vejo uma placa de campo minado!"
+
+msgctxt "mission/multi/minefield_alert2"
+msgid "Careful, there are mines nearby!"
+msgstr "Cuidado, há minas por perto!"
+
+msgctxt "mission/multi/minefield_alert3"
+msgid "Damn! Enemy planted mines around here! Watch out!"
+msgstr "Droga! O inimigo plantou minas por aqui! Cuidado!"
+
+msgctxt "mission/multi/display_defense_rus"
+msgid "Intelligence reports confirm the enemy is arriving soon from the areas indicated on the map.
+\n 
+\nPrepare immediately for their attack!"
+msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
+\n 
+\nPrepare-se imediatamente para o ataque!"
+
+msgctxt "mission/multi/display_defense_ger"
+msgid "Intelligence reports confirm the enemy is arriving soon from the areas indicated on the map.
+\n 
+\nPrepare immediately for their attack!"
+msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
+\n 
+\nPrepare-se imediatamente para o ataque!"
+
+msgctxt "mission/multi/display_defense_fin"
+msgid "Intelligence reports confirm the enemy is arriving soon from the areas indicated on the map.
+\n 
+\nPrepare immediately for their attack!"
+msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
+\n 
+\nPrepare-se imediatamente para o ataque!"
+
+msgctxt "mission/multi/display_defense_usa"
+msgid "Intelligence reports confirm the enemy is arriving soon from the areas indicated on the map.
+\n 
+\n Prepare immediately for their attack!"
+msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
+\n 
+\n Prepare-se imediatamente para o ataque!"
+
+msgctxt "mission/multi/display_defense_eng"
+msgid "Intelligence reports confirm the enemy is arriving soon from the areas indicated on the map.
+\n 
+\n Prepare immediately for their attack!"
+msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
+\n 
+\n Prepare-se imediatamente para o ataque!"

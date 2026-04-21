@@ -1,0 +1,28 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de saída de auditoria (gerados automaticamente)
+*.txt
+
+# Arquivos de jogo (não redistribuíveis)
+*.pot.bak
+
+# Excluir .pot apenas fora da pasta localization/
+# (dentro de localization/ os .pot traduzidos SÃO o produto distribuível)
+*.pot
+!localization/**/*.pot
+
+# Binários gerados (distribuídos via GitHub Releases, não no git)
+dist/
+*.pak
+
+# Arquivos temporários
+*.bak
+*.bak2
+desktop.ini
+
+# Outros
+.env

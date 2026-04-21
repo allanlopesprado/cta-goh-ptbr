@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_12_03_bastogne)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/date"
+msgid "December 25th, 1944 - Champs, Ardennes, \nBelgium."
+msgstr "25 de dezembro de 1944 - Champs, Ardenas, \nBélgica."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/mine_progress"
+msgid "Explosives planted: %1%"
+msgstr "Explosivos instalados: %1%"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/name"
+msgid "NUTS!"
+msgstr "NUTS!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/name_big"
+msgid "NUTS!"
+msgstr "NUTS!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator01"
+msgid "The situation in Bastogne is desperate..."
+msgstr "A situação em Bastogne é desesperadora..."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator02"
+msgid "We've been holding out for days, surrounded by the enemy with no supplies coming through."
+msgstr "Estamos resistindo há dias, cercados pelo inimigo sem suprimentos chegando."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator03"
+msgid "The men are worn down to the bone; tired, hungry, and cold. Ammunition is running low, and our medics can barely keep up with the wounded."
+msgstr "Os homens estão esgotados até os ossos; cansados, com fome e frio. A munição está acabando, e nossos médicos mal conseguem acompanhar os feridos."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator04"
+msgid "There's no way to fall back, no room to maneuver. The noose tightens every day we stay here, but we won't give up Bastogne."
+msgstr "Não há como recuar, sem espaço para manobrar. O cerco aperta a cada dia que ficamos aqui, mas não entregaremos Bastogne."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier09"
+msgid "Look! C-47s!"
+msgstr "Olhe! C-47s!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator06"
+msgid "Our planes dropped supplies into no-man's land!"
+msgstr "Nossos aviões lançaram suprimentos na terra de ninguém!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier08"
+msgid "We could really use whatever is in those drops!"
+msgstr "Realmente poderíamos usar o que quer que esteja nesses lançamentos!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator08"
+msgid "Soldier! Use the truck to recover everything you can from the supply drops before the Krauts do!"
+msgstr "Soldado! Use o caminhão para recuperar tudo que puder dos lançamentos de suprimentos antes dos alemães!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier02"
+msgid "Yes, Sir!"
+msgstr "Sim, Senhor!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier07"
+msgid "There they are! Christmas presents from Uncle Sam!"
+msgstr "Lá estão eles! Presentes de Natal do Tio Sam!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier03"
+msgid "A box full of mines! Jerry won't know what hit 'em!"
+msgstr "Uma caixa cheia de minas! O Jerry não saberá o que o acertou!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier04"
+msgid "Yes! A bazooka! My favorite!"
+msgstr "Sim! Uma bazuca! Minha favorita!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier05"
+msgid "We got some .30cals and ammo here!"
+msgstr "Temos algumas calibre .30 e munição aqui!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier06"
+msgid "Looks like we got it all! Let's get back to our lines!"
+msgstr "Parece que pegamos tudo! Vamos voltar para nossas linhas!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator21"
+msgid "The Germans captured the air drops before we could!"
+msgstr "Os alemães capturaram os lançamentos aéreos antes de nós!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator18"
+msgid "Now let’s finish preparing those defenses. Every second counts. Take the explosives from this crate..."
+msgstr "Agora vamos terminar de preparar essas defesas. Cada segundo conta. Pegue os explosivos nesta caixa..."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator19"
+msgid "...and plant them along the road."
+msgstr "...e plante-os ao longo da estrada."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator20"
+msgid "When the Krauts use the road, we'll detonate the explosive charges remotely."
+msgstr "Quando os alemães usarem a estrada, detonaremos as cargas explosivas remotamente."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier10"
+msgid "Jerry's Christmas present is all wrapped up and ready to go!"
+msgstr "O presente de Natal do Jerry está todo embalado e pronto para ir!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator23"
+msgid "Dawn’s almost here! Get those airdrop supplies handed out and prepare for the enemy assault."
+msgstr "O amanhecer está quase aí! Distribua os suprimentos do lançamento aéreo e prepare-se para o assalto inimigo."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator24"
+msgid "The sun is rising. Get ready, men!"
+msgstr "O sol está nascendo. Preparem-se, homens!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator25"
+msgid "Incoming! Take cover!"
+msgstr "Fogo inimigo! Cubra-se!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier11"
+msgid "Enemy vehicles are coming down the main road! We should use the explosives to take them out! Get ready to trigger the charges!"
+msgstr "Veículos inimigos estão descendo a estrada principal! Devemos usar os explosivos para destruí-los! Preparem-se para acionar as cargas!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator27"
+msgid "General McAuliffe has granted us artillery support."
+msgstr "O General McAuliffe nos concedeu apoio de artilharia."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_assistant01"
+msgid "Coordinates received! Fire for effect!"
+msgstr "Coordenadas recebidas! Fogo efetivo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier12"
+msgid "They are running away! Is that all they got?!"
+msgstr "Eles estão fugindo! É tudo que têm?!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier01"
+msgid "German armor broke through! They are behind us!"
+msgstr "Blindados alemães romperam! Estão atrás de nós!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator29"
+msgid "Shit! Turn around, men! We need to stop the Krauts from reaching the Command Post!"
+msgstr "Merda! Girem, homens! Precisamos impedir os alemães de alcançarem o Posto de Comando!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator30"
+msgid "Soldiers! Shift positions and form a new defensive line around Headquarters. We must protect it!"
+msgstr "Soldados! Mudem de posição e formem uma nova linha defensiva ao redor do Quartel-General. Precisamos protegê-lo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_assistant02"
+msgid "Aw Nuts! The artillery battery is under attack. No more artillery support until we deal with this!"
+msgstr "Que droga! A bateria de artilharia está sob ataque. Sem mais apoio de artilharia até resolvermos isso!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator31"
+msgid "Great, even more good news."
+msgstr "Ótimo, mais boas notícias."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier13"
+msgid "Here they come!"
+msgstr "Lá vêm eles!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_assistant03"
+msgid "There are two armored units in your area. Choose one to reinforce you."
+msgstr "Há duas unidades blindadas em sua área. Escolha uma para reforçá-lo."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator33"
+msgid "Well done. We've stopped their attack, and the HQ is still standing."
+msgstr "Bem feito. Paramos o ataque deles, e o QG ainda está de pé."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator35"
+msgid "The remaining Germans have set up defensive positions in the village. We need to clear it!"
+msgstr "Os alemães restantes estabeleceram posições defensivas na aldeia. Precisamos limpá-la!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator36"
+msgid "Reinforcements have arrived! Let's take back the village!"
+msgstr "Os reforços chegaram! Vamos retomar a aldeia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_assistant04"
+msgid "Enemy attack dealt with. The artillery battery is operational!"
+msgstr "Ataque inimigo resolvido. A bateria de artilharia está operacional!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/outro_completed"
+msgid "Excellent work! The Germans failed to break through our lines and reach Bastogne. For now, the road to Antwerp remains outside the German's reach. This may prove to be a pivotal point in stopping the entire German offensive."
+msgstr "Excelente trabalho! Os alemães falharam em romper nossas linhas e alcançar Bastogne. Por enquanto, a estrada para Antuérpia permanece fora do alcance alemão. Isso pode ser um ponto crucial para parar toda a ofensiva alemã."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/outro_failed"
+msgid "We failed to keep the Germans from capturing Bastogne. Now, they can waltz right through town and continue west. The road to Antwerp is open to them unless you try again!"
+msgstr "Falhamos em impedir os alemães de capturar Bastogne. Agora, podem avançar pela cidade e continuar para o oeste. A estrada para Antuérpia está aberta para eles, a menos que você tente novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/place"
+msgid "101st Airborne Division \"Screaming Eagles\""
+msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/reinf_arty"
+msgid "155mm artillery fire"
+msgstr "Fogo de artilharia de 155mm"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/reinf_medium_tanks"
+msgid "Medium tanks"
+msgstr "Tanques médios"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/reinf_radio_mine"
+msgid "Detonate explosives"
+msgstr "Detonar explosivos"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/reinf_tank_destroyers"
+msgid "Tank destroyers"
+msgstr "Caça-tanques"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/story"
+msgid "  The fierce struggle playing out in the Ardennes is reaching a critical phase. The Germans urgently need to take Bastogne. Right now, the town is completely surrounded by the German 5th army, led by von Manteuffel.\n\n  The German forces have offered terms of surrender, to which General McAuliffe has responded with a single word: NUTS! The screaming eagles will have to hold out. The Germans will probably start a massive attack at dawn; so there is some time to prepare for the onslaught, and you need to do everything within your power to get dug in and get organized. Your sector is just outside Bastogne, covering a road that leads into the town. Hold that road at any cost!\n\n Good luck!"
+msgstr "  A feroz luta que se desenrola nas Ardenas está chegando a uma fase crítica. Os alemães precisam urgentemente tomar Bastogne. Agora, a cidade está completamente cercada pelo 5º Exército alemão, liderado por von Manteuffel.\n\n  As forças alemãs ofereceram termos de rendição, ao que o General McAuliffe respondeu com uma única palavra: NUTS! Os Screaming Eagles terão de aguentar. Os alemães provavelmente iniciarão um ataque maciço ao amanhecer; portanto, há algum tempo para se preparar para o assalto, e você precisa fazer tudo ao seu alcance para se entrincheirar e se organizar. Seu setor fica logo fora de Bastogne, cobrindo uma estrada que leva à cidade. Segure essa estrada a qualquer custo!\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task01"
+msgid "Secure the supplies before the enemy does!"
+msgstr "Assegure os suprimentos antes do inimigo!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task02"
+msgid "Put the supplies into the truck and return to our lines."
+msgstr "Coloque os suprimentos no caminhão e retorne às nossas linhas."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task03"
+msgid "Plant the explosives along the road, in the indicated area."
+msgstr "Plante os explosivos ao longo da estrada, na área indicada."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task04"
+msgid "Prepare for the enemy attack."
+msgstr "Prepare-se para o ataque inimigo."
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task05"
+msgid "Hold your line in the forest!"
+msgstr "Segure sua linha na floresta!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task06"
+msgid "Stop the German tanks and protect the HQ!"
+msgstr "Pare os tanques alemães e proteja o QG!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task07"
+msgid "Clear the remaining enemies in the village!"
+msgstr "Elimine os inimigos restantes na aldeia!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task_secret01"
+msgid "(Secret objective)"
+msgstr "(Objetivo Secreto)"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/task_secret01_comp"
+msgid "(Secret Objective #1): Repair and crew the damaged howitzer!"
+msgstr "(Objetivo Secreto nº 1): Repare e tripule o obuseiro danificado!"
+
+msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/timer"
+msgid "Time before the Germans find the supply drops."
+msgstr "Tempo antes dos alemães encontrarem os lançamentos de suprimentos."

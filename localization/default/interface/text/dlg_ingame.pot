@@ -1,0 +1,2449 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms - Gates of Hell: Ostfront (dlg_ingame)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "actionbar/speed"
+msgid "Switch movement speed"
+msgstr "Alternar velocidade de movimento"
+
+msgctxt "actionbar/ammo/lock_ammo"
+msgid "Ammo Switching Unlocked"
+msgstr "Troca de Munição Desbloqueada"
+
+msgctxt "actionbar/ammo/lock_ammo/action"
+msgid "Cannon Shell Type Unlocked"
+msgstr "Tipo de Projétil Desbloqueado"
+
+msgctxt "actionbar/ammo/lock_ammo/usage"
+msgid "Unit will automatically switch cannon shell type depending on its target"
+msgstr "A unidade mudará automaticamente o tipo de projétil conforme o alvo"
+
+msgctxt "actionbar/ammo/unlock_ammo"
+msgid "Ammo Switching Locked"
+msgstr "Troca de Munição Bloqueada"
+
+msgctxt "actionbar/ammo/unlock_ammo/action"
+msgid "Cannon Shell Type Locked"
+msgstr "Tipo de Projétil Bloqueado"
+
+msgctxt "actionbar/ammo/unlock_ammo/usage"
+msgid "Unit is locked to current cannon shell type until unlocked or out of current type of ammo"
+msgstr "A unidade está bloqueada no tipo de projétil atual até ser desbloqueada ou ficar sem munição"
+
+msgctxt "actionbar/engine_toggle"
+msgid "Toggle Engine on/off"
+msgstr "Ligar/Desligar Motor"
+
+msgctxt "actionbar/sandbag_vehicle"
+msgid "Vehicle sandbags"
+msgstr "Sacos de areia para veículo"
+
+msgctxt "actionbar/mp_available_points"
+msgid "MP Points"
+msgstr "Pontos de MP"
+
+msgctxt "actionbar/sp_available_points/action"
+msgid "Shows how much you can spend on conquest reinforcements."
+msgstr "Mostra quanto pode gastar em reforços de conquista."
+
+msgctxt "actionbar/sandbag_vehicle"
+msgid "Build emplacement for vehicle"
+msgstr "Construir posição para veículo"
+
+msgctxt "actionbar/sp_available_points"
+msgid "Doctrine Points"
+msgstr "Pontos de Doutrina"
+
+msgctxt "actionbar/attack/action"
+msgid "Attack enemy units."
+msgstr "Atacar unidades inimigas."
+
+msgctxt "actionbar/attack"
+msgid "Attack"
+msgstr "Atacar"
+
+msgctxt "actionbar/pour_in"
+msgid "Pour In"
+msgstr "Embarcar"
+
+msgctxt "actionbar/pour_out"
+msgid "Pour Out"
+msgstr "Desembarcar"
+
+msgctxt "actionbar/human/stand"
+msgid ""
+msgstr ""
+
+msgctxt "objectives/objnew"
+msgid "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>NEW OBJECTIVE"
+msgstr "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>NOVO OBJETIVO"
+
+msgctxt "actionbar/cancel/action"
+msgid "Cancel all orders issued to the selected units."
+msgstr "Cancelar todas as ordens das unidades selecionadas."
+
+msgctxt "actionbar/chat/action"
+msgid "Show/hide chat window."
+msgstr "Mostrar/ocultar janela de chat."
+
+msgctxt "actionbar/throw_ap_grenade"
+msgid "Anti-Personnel Grenade"
+msgstr "Granada Antipessoal"
+
+msgctxt "actionbar/attack/usage"
+msgid "Click on an enemy unit to attack it. Click on a destination to order your squad to fight their way towards it."
+msgstr "Clique em uma unidade inimiga para atacar. Clique em um destino para ordenar que a esquadra avance combatendo."
+
+msgctxt "actionbar/repair/usage"
+msgid "Click on the button, then click on a damaged vehicle that you want to repair."
+msgstr "Clique no botão e depois clique em um veículo danificado para reparar."
+
+msgctxt "actionbar/weapon_reload/on"
+msgid "Load or reload weapon"
+msgstr "Carregar ou recarregar arma"
+
+msgctxt "actionbar/attack_ground"
+msgid "Attack ground"
+msgstr "Atacar solo"
+
+msgctxt "actionbar/engine_toggle"
+msgid "Turn engine on/off"
+msgstr "Ligar/Desligar motor"
+
+msgctxt "actionbar/examine"
+msgid "Examine"
+msgstr "Examinar"
+
+msgctxt "stats/flag_captured"
+msgid "<f(arial_hq)c(FFFFFF)s(8)>Flag captured"
+msgstr "<f(arial_hq)c(FFFFFF)s(8)>Bandeira capturada"
+
+msgctxt "actionbar/attack_ground/action"
+msgid "Attack ground"
+msgstr "Atacar solo"
+
+msgctxt "vehiclebar/desc"
+msgid "<f(arial_hq)s(8)x.>%1%"
+msgstr "<f(arial_hq)s(8)x.>%1%"
+
+msgctxt "actionbar/human/attack_melee/action"
+msgid "Perform a melee attack."
+msgstr "Realizar ataque corpo a corpo."
+
+msgctxt "vehiclebar/desc_item"
+msgid "<f(arial_hq)s(8)x(5)>%1%"
+msgstr "<f(arial_hq)s(8)x(5)>%1%"
+
+msgctxt "actionbar/drop"
+msgid "Drop"
+msgstr "Largar"
+
+msgctxt "actionbar/attack_ground/usage"
+msgid "Choose a spot to cover."
+msgstr "Escolha um ponto para cobrir."
+
+msgctxt "crew_view/stunned"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>stunned"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>atordoado"
+
+msgctxt "actionbar/cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "actionbar/drop/action"
+msgid "Drop the currently held item."
+msgstr "Largar o item atual."
+
+msgctxt "loading/apply_scene_mod"
+msgid "Applying scene mod"
+msgstr "Aplicando mod de cena"
+
+msgctxt "actionbar/hold_fire"
+msgid "Hold fire"
+msgstr "Cessar fogo"
+
+msgctxt "actionbar/collect"
+msgid "Take"
+msgstr "Pegar"
+
+msgctxt "actionbar/human/pose/crawl"
+msgid "Change stance"
+msgstr "Mudar postura"
+
+msgctxt "actionbar/drop/usage"
+msgid "After clicking the button, click the unit, item, or place where you wish to drop the item."
+msgstr "Após clicar no botão, clique na unidade, item ou local onde deseja largar o item."
+
+msgctxt "entity_info/desc/car"
+msgid "<c(c3baae)>car</c>"
+msgstr "<c(c3baae)>carro</c>"
+
+msgctxt "storing/entities"
+msgid "Entities"
+msgstr "Entidades"
+
+msgctxt "actionbar/mine_ap/usage"
+msgid "After clicking the button, click the location where you wish to plant the mine."
+msgstr "Após clicar no botão, clique no local onde deseja plantar a mina."
+
+msgctxt "actionbar/mine_at/usage"
+msgid "After clicking the button, click the location where you wish to plant the mine."
+msgstr "Após clicar no botão, clique no local onde deseja plantar a mina."
+
+msgctxt "actionbar/examine/action"
+msgid "Examine inventory"
+msgstr "Examinar inventário"
+
+msgctxt "actionbar/weapon_prepare/off/action"
+msgid "Holster weapon"
+msgstr "Guardar arma"
+
+msgctxt "hints/enemy_winning"
+msgid "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>Enemy team is winning!"
+msgstr "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>A equipe inimiga está vencendo!"
+
+msgctxt "actionbar/weapon_reload/off/action"
+msgid "Unload weapon"
+msgstr "Descarregar arma"
+
+msgctxt "actionbar/browse_attack"
+msgid "Attack options"
+msgstr "Opções de ataque"
+
+msgctxt "actionbar/throw_at_grenade"
+msgid "Anti-Tank Grenade"
+msgstr "Granada Antitanque"
+
+msgctxt "actionbar/examine/usage"
+msgid "Click item or unit whose inventory you want to examine."
+msgstr "Clique em um item ou unidade cujo inventário deseja examinar."
+
+msgctxt "crewbar/charger"
+msgid "<f(roboto_mono)>Charger"
+msgstr "<f(roboto_mono)>Carregador"
+
+msgctxt "actionbar/collect/action"
+msgid "Pick up"
+msgstr "Pegar"
+
+msgctxt "actionbar/collect/usage"
+msgid "After clicking the button, specify an object to pick up from the ground."
+msgstr "Após clicar no botão, clique em um objeto no chão para pegar."
+
+msgctxt "actionbar/rotate"
+msgid "Rotate"
+msgstr "Girar"
+
+msgctxt "human_view/health"
+msgid "<f(anka)s(21)y(+5)e(shadow)c(%1%)b>%2%"
+msgstr "<f(anka)s(21)y(+5)e(shadow)c(%1%)b>%2%"
+
+msgctxt "actionbar/rotate/action"
+msgid "Turn around and aim at the selected destination."
+msgstr "Girar e mirar no destino selecionado."
+
+msgctxt "actionbar/rotate/usage"
+msgid "Click this button, then click on the area that the selected unit should face."
+msgstr "Clique neste botão e depois clique na área para onde a unidade deve se virar."
+
+msgctxt "actionbar/human/lie/action"
+msgid ""
+msgstr ""
+
+msgctxt "vehiclebar/efficiency"
+msgid "<f(arial_hq)s(8)><e(shadow)>%.0f%"
+msgstr "<f(arial_hq)s(8)><e(shadow)>%.0f%"
+
+msgctxt "actionbar/use"
+msgid "Use item"
+msgstr "Usar item"
+
+msgctxt "actionbar/weapon_prepare/off"
+msgid "Draw/holster weapon."
+msgstr "Sacar/guardar arma."
+
+msgctxt "actionbar/weapon_prepare/on/action"
+msgid "Draw weapon"
+msgstr "Sacar arma"
+
+msgctxt "actionbar/spread"
+msgid "Spread out"
+msgstr "Dispersar"
+
+msgctxt "actionbar/aimed_shot"
+msgid "Sniper zeroed shot"
+msgstr "Tiro de precisão do franco-atirador"
+
+msgctxt "actionbar/aimed_shot/action"
+msgid "Aims and fires the sniper rifle with maximum precision."
+msgstr "Mira e dispara o rifle de precisão com máxima precisão."
+
+msgctxt "actionbar/aimed_shot/usage"
+msgid "Click on the button, then click on an enemy unit to shoot at. The unit must remain stationary for the zeroing to be completed."
+msgstr "Clique no botão e depois clique em uma unidade inimiga para atirar. A unidade deve ficar parada para completar a zeragem."
+
+msgctxt "actionbar/wirecutter"
+msgid "Cut wire"
+msgstr "Cortar arame"
+
+msgctxt "actionbar/wirecutter/action"
+msgid "Break through barbed wire and wired fences."
+msgstr "Cortar arame farpado e cercas arambadas."
+
+msgctxt "actionbar/wirecutter/usage"
+msgid "Click on the button, then click on the object to cut."
+msgstr "Clique no botão e depois clique no objeto para cortar."
+
+msgctxt "actionbar/bazooka_shot"
+msgid "Rocket launcher shot"
+msgstr "Disparo de lança-foguetes"
+
+msgctxt "actionbar/inventory/action"
+msgid "Show/hide the selected unit's inventory."
+msgstr "Mostrar/ocultar o inventário da unidade selecionada."
+
+msgctxt "actionbar/human/squat"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/bazooka_shot/action"
+msgid "Fire a rocket launcher."
+msgstr "Disparar o lança-foguetes."
+
+msgctxt "actionbar/move_fast"
+msgid ""
+msgstr ""
+
+msgctxt "crewbar/seat9"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "actionbar/free_fire"
+msgid "Fire at will"
+msgstr "Fogo à vontade"
+
+msgctxt "actionbar/bazooka_shot/usage"
+msgid "Click on the button, then click on an enemy unit or a location at which to fire a rocket."
+msgstr "Clique no botão e depois clique em uma unidade inimiga ou local para disparar um foguete."
+
+msgctxt "actionbar/throw_at_grenade/action"
+msgid "Throw a anti-tank grenade."
+msgstr "Lançar uma granada antitanque."
+
+msgctxt "actionbar/throw_at_grenade/usage"
+msgid "Click on the button, then click on an enemy unit or a location at which to throw the grenade."
+msgstr "Clique no botão e depois clique em uma unidade inimiga ou local para lançar a granada."
+
+msgctxt "actionbar/throw_ap_grenade/action"
+msgid "Throw a anti-personnel grenade."
+msgstr "Lançar uma granada antipessoal."
+
+msgctxt "actionbar/weapon_unprepare"
+msgid ""
+msgstr ""
+
+msgctxt "objectives/objstyle"
+msgid "<f(pobeda)s(42)b+c(f0e7e2)e(shadow)>"
+msgstr "<f(pobeda)s(42)b+c(f0e7e2)e(shadow)>"
+
+msgctxt "actionbar/throw_ap_grenade/usage"
+msgid "Click on the button, then click on an enemy unit or a location at which to throw the grenade."
+msgstr "Clique no botão e depois clique em uma unidade inimiga ou local para lançar a granada."
+
+msgctxt "actionbar/highlight/corpses"
+msgid "Highlight Corpses"
+msgstr "Destacar Cadáveres"
+
+msgctxt "actionbar/weapon_prepare/on"
+msgid "Draw/holster weapon."
+msgstr "Sacar/guardar arma."
+
+msgctxt "actionbar/move_slow"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/map_control/show_compass_icons"
+msgid "Show compass icons"
+msgstr "Mostrar ícones da bússola"
+
+msgctxt "actionbar/advance"
+msgid "Advance"
+msgstr "Avançar"
+
+msgctxt "actionbar/altitude/surface/action"
+msgid "Descend to ground level."
+msgstr "Descer ao nível do chão."
+
+msgctxt "actionbar/weapon_reload"
+msgid ""
+msgstr ""
+
+msgctxt "hints/timer"
+msgid "<f(bookman_hq)s(13)>%02d:%02d <f(arial_hq)s(8)c(00FFFF)>%d"
+msgstr "<f(bookman_hq)s(13)>%02d:%02d <f(arial_hq)s(8)c(00FFFF)>%d"
+
+msgctxt "actionbar/hatch_state/open/action"
+msgid "Open Hatch"
+msgstr "Abrir Escotilha"
+
+msgctxt "actionbar/weapon_reload/action"
+msgid ""
+msgstr ""
+
+msgctxt "quantspeeddialog/slow"
+msgid "Slow"
+msgstr "Lento"
+
+msgctxt "vehiclebar/speed"
+msgid "<f(arial_hq)s(8)><e(shadow)>%.0f km/h"
+msgstr "<f(arial_hq)s(8)><e(shadow)>%.0f km/h"
+
+msgctxt "compass_view/secondary_objective"
+msgid "<e(shadow)s(8)c(b3ecec)>%.1fm"
+msgstr "<e(shadow)s(8)c(b3ecec)>%.1fm"
+
+msgctxt "crewbar/seat6"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "actionbar/weapon_reload/on/action"
+msgid "Reload weapon"
+msgstr "Recarregar arma"
+
+msgctxt "crewbar/commander"
+msgid "<f(roboto_mono)>Commander"
+msgstr "<f(roboto_mono)>Comandante"
+
+msgctxt "actionbar/minimap_fade_out"
+msgid "Increase transparency"
+msgstr "Aumentar transparência"
+
+msgctxt "actionbar/leave_unit"
+msgid "Abandon vehicle"
+msgstr "Abandonar veículo"
+
+msgctxt "actionbar/weapon_reload/off"
+msgid "Load or reload weapon"
+msgstr "Carregar ou recarregar arma"
+
+msgctxt "actionbar/leave_unit/action"
+msgid "Exit and destroy vehicle"
+msgstr "Sair e destruir veículo"
+
+msgctxt "actionbar/cannon/fire/action"
+msgid "Firing position"
+msgstr "Posição de tiro"
+
+msgctxt "actionbar/human/fortification/action"
+msgid "Use to erect a fortification around a target structure."
+msgstr "Use para erguer uma fortificação ao redor de uma estrutura alvo."
+
+msgctxt "actionbar/leave_unit/usage"
+msgid "Click on the button to make the crew exit the vehicle and start a self-destruction. Re-enter the vehicle in time to abort the self-destruction."
+msgstr "Clique no botão para fazer a tripulação sair do veículo e iniciar a autodestruição. Entre novamente a tempo para abortar."
+
+msgctxt "actionbar/repair/action"
+msgid "Repair vehicle"
+msgstr "Reparar veículo"
+
+msgctxt "reinforcement_bar/hint"
+msgid "%1%\n"
+"MP: %2%\n"
+"Time: %3%"
+msgstr "%1%\nPM: %2%\nTempo: %3%"
+
+msgctxt "actionbar/repair"
+msgid "Repair"
+msgstr "Reparar"
+
+msgctxt "objectives/objcompleted"
+msgid "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>Objective completed"
+msgstr "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>Objetivo concluído"
+
+msgctxt "actionbar/back_fire"
+msgid "Return fire"
+msgstr "Retornar fogo"
+
+msgctxt "actionbar/hold_position"
+msgid "Hold position"
+msgstr "Manter posição"
+
+msgctxt "stats/damage/blast"
+msgid "explode"
+msgstr "explodir"
+
+msgctxt "loading/entities"
+msgid "Loading entities (%d%)"
+msgstr "Carregando entidades (%d%)"
+
+msgctxt "actionbar/vehicle_speed"
+msgid "Current Speed"
+msgstr "Velocidade Atual"
+
+msgctxt "actionbar/human/lie"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/manual_control/usage"
+msgid "While in direct control mode, use the cursor to aim and the directional keys to move."
+msgstr "No modo de controle direto, use o cursor para mirar e as teclas direcionais para mover."
+
+msgctxt "actionbar/move_at_will"
+msgid ""
+msgstr ""
+
+msgctxt "humanbar/veterancy/weapon_reload"
+msgid "+%.0f% Weapon reload"
+msgstr "+%.0f% Recarga de arma"
+
+msgctxt "actionbar/human/lie/usage"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/human/heal"
+msgid "Heal"
+msgstr "Curar"
+
+msgctxt "entity_info/weapon_secondary"
+msgid "Machine gun"
+msgstr "Metralhadora"
+
+msgctxt "visionmode_view/modes/night"
+msgid "NIGHTVISION"
+msgstr "VISÃO NOTURNA"
+
+msgctxt "actionbar/human/heal/action"
+msgid "Heal the selected soldier."
+msgstr "Curar o soldado selecionado."
+
+msgctxt "actionbar/human/attack_melee"
+msgid "Melee attack"
+msgstr "Ataque corpo a corpo"
+
+msgctxt "actionbar/human/attack_melee/usage"
+msgid "Click the button, then click an enemy soldier to attack in hand-to-hand combat."
+msgstr "Clique no botão e depois clique em um soldado inimigo para combate corpo a corpo."
+
+msgctxt "actionbar/barbwire"
+msgid "Place barbed wire barricade"
+msgstr "Colocar barricada de arame farpado"
+
+msgctxt "stats/damage/crush"
+msgid "crush"
+msgstr "esmagar"
+
+msgctxt "actionbar/human/pose/normal"
+msgid "Change stance"
+msgstr "Mudar postura"
+
+msgctxt "actionbar/human/pose/normal/action"
+msgid "Stand"
+msgstr "Em pé"
+
+msgctxt "actionbar/human/pose/normal/usage"
+msgid "Click the button to change soldier's stance: standing, squatting, or prone."
+msgstr "Clique no botão para mudar a postura do soldado: em pé, agachado ou deitado."
+
+msgctxt "actionbar/human/pose/squat"
+msgid "Change stance"
+msgstr "Mudar postura"
+
+msgctxt "perk/vision"
+msgid "Vision"
+msgstr "Visão"
+
+msgctxt "vehiclebar/terrain/ground"
+msgid "Ground"
+msgstr "Solo"
+
+msgctxt "vehiclebar/terrain/forest"
+msgid "Forest"
+msgstr "Floresta"
+
+msgctxt "vehiclebar/terrain/slope"
+msgid "Slope"
+msgstr "Declive"
+
+msgctxt "actionbar/map_control/docking_editor#/topright"
+msgid "Top Right"
+msgstr "Superior Direito"
+
+msgctxt "actionbar/human/pose/squat/action"
+msgid "Squat"
+msgstr "Agachado"
+
+msgctxt "actionbar/human/pose/squat/usage"
+msgid "Click the button to change soldier's stance: standing, squatting, or prone."
+msgstr "Clique no botão para mudar a postura do soldado: em pé, agachado ou deitado."
+
+msgctxt "stats/effector/world"
+msgid "<c(FFFFFF)>world"
+msgstr "<c(FFFFFF)>mundo"
+
+msgctxt "actionbar/human/pose/crawl/action"
+msgid "Prone"
+msgstr "Deitado"
+
+msgctxt "actionbar/human/pose/crawl/usage"
+msgid "Click the button to change soldier's stance: standing, squatting, or prone."
+msgstr "Clique no botão para mudar a postura do soldado: em pé, agachado ou deitado."
+
+msgctxt "actionbar/map_control/show_waypoints"
+msgid "Show waypoints"
+msgstr "Mostrar pontos de rota"
+
+msgctxt "actionbar/vehicle/emit"
+msgid "Unload crew"
+msgstr "Desembarcar tripulação"
+
+msgctxt "actionbar/move"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/vehicle/emit/action"
+msgid "Unload crew from the selected vehicle."
+msgstr "Desembarcar tripulação do veículo selecionado."
+
+msgctxt "actionbar/vehicle/emit/usage"
+msgid "After clicking the button, click the location where you want to unload your crew."
+msgstr "Após clicar no botão, clique no local onde deseja desembarcar a tripulação."
+
+msgctxt "actionbar/vehicle/smoke_decoy"
+msgid "Smoke decoy"
+msgstr "Cobertura de fumaça"
+
+msgctxt "actionbar/vehicle/smoke_decoy/action"
+msgid "Create a wall of smoke in front of your vehicle."
+msgstr "Criar uma cortina de fumaça na frente do veículo."
+
+msgctxt "tips/menu/forw"
+msgid "Forward"
+msgstr "Avançar"
+
+msgctxt "actionbar/vehicle/smoke_decoy/usage"
+msgid "Use this to escape from tricky situations."
+msgstr "Use isso para escapar de situações difíceis."
+
+msgctxt "actionbar/vehicle/mount"
+msgid "Firing position"
+msgstr "Posição de tiro"
+
+msgctxt "perk/level/lvl1"
+msgid "lvl 1"
+msgstr "nível 1"
+
+msgctxt "actionbar/vehicle/unmount"
+msgid "Towed position"
+msgstr "Posição de reboque"
+
+msgctxt "actionbar/vehicle/board"
+msgid "Enter vehicle"
+msgstr "Entrar no veículo"
+
+msgctxt "entity_info/armor"
+msgid "Armor"
+msgstr "Blindagem"
+
+msgctxt "actionbar/squad/dismiss"
+msgid "Dismiss squad"
+msgstr "Dispensar esquadra"
+
+msgctxt "actionbar/squad/control"
+msgid "Dismiss squad"
+msgstr "Dispensar esquadra"
+
+msgctxt "actionbar/squad/control/action"
+msgid "The selected squad will be dismissed."
+msgstr "A esquadra selecionada será dispensada."
+
+msgctxt "actionbar/mine_ap"
+msgid "Anti-Personnel Mine"
+msgstr "Mina Antipessoal"
+
+msgctxt "actionbar/mine_at"
+msgid "Anti-Tank Mine"
+msgstr "Mina Antitanque"
+
+msgctxt "actionbar/mine_detection"
+msgid "Mine Detector"
+msgstr "Detector de Minas"
+
+msgctxt "actionbar/put_dynamite"
+msgid "Use explosives"
+msgstr "Usar explosivos"
+
+msgctxt "actionbar/put_dynamite/usage"
+msgid "After clicking the button, click the place where you want to plant explosives."
+msgstr "Após clicar no botão, clique no local para colocar os explosivos."
+
+msgctxt "actionbar/attach"
+msgid ""
+msgstr ""
+
+msgctxt "hints/slowdown/slow"
+msgid "<f(bookman_hq)s(13)>Slow-motion"
+msgstr "<f(bookman_hq)s(13)>Câmera lenta"
+
+msgctxt "actionbar/attach/on"
+msgid "Attach cargo"
+msgstr "Acoplar carga"
+
+msgctxt "visionmode_view/modes/none"
+msgid "NONE"
+msgstr "NENHUM"
+
+msgctxt "humanbar/health_regeneration"
+msgid "+%.0f hpm"
+msgstr "+%.0f hpm"
+
+msgctxt "actionbar/attach/on/action"
+msgid "Attach a trailer or cannon"
+msgstr "Acoplar reboque ou canhão"
+
+msgctxt "mass_view/kg"
+msgid "<f(arial_hq)s(8)x.>Mass: %g kg"
+msgstr "<f(arial_hq)s(8)x.>Peso: %g kg"
+
+msgctxt "actionbar/attach/on/usage"
+msgid "Move your vehicle close to a trailer or cannon to attach it by clicking the button."
+msgstr "Aproxime o veículo de um reboque ou canhão e clique no botão para acoplar."
+
+msgctxt "actionbar/attach/off"
+msgid "Detach cargo"
+msgstr "Desacoplar carga"
+
+msgctxt "gameover/stats"
+msgid "<f(pobeda)s(27)b+c(EEEEEE)>\n"
+"Enemy losses:<x(135)> %1% men, %2% vehicles\n"
+"Ally losses:<x(135)> %3% men, %4% vehicles</f>"
+msgstr "<f(pobeda)s(27)b+c(EEEEEE)>\nPerdas inimigas:<x(165)> %1% soldados, %2% veículos\nPerdas aliadas:<x(165)> %3% soldados, %4% veículos</f>"
+
+msgctxt "actionbar/attach/off/action"
+msgid "Detach trailer or cannon"
+msgstr "Desacoplar reboque ou canhão"
+
+msgctxt "stats/damage/fire"
+msgid "burn"
+msgstr "queimar"
+
+msgctxt "actionbar/detach"
+msgid ""
+msgstr ""
+
+msgctxt "tips/button/forw"
+msgid "Forw"
+msgstr "Avançar"
+
+msgctxt "actionbar/supply"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/supply/on"
+msgid "Enable auto resupply"
+msgstr "Ativar reabastecimento automático"
+
+msgctxt "humanbar/veterancy/stamina"
+msgid "+%.0f% Stamina"
+msgstr "+%.0f% Resistência"
+
+msgctxt "actionbar/supply/on/action"
+msgid "Enable auto resupply of your unit."
+msgstr "Ativar reabastecimento automático da unidade."
+
+msgctxt "loading/prepare_scene"
+msgid "Preparing scene"
+msgstr "Preparando cena"
+
+msgctxt "hints/restart"
+msgid "Game will restart in %1% sec"
+msgstr "O jogo reiniciará em %1% seg"
+
+msgctxt "actionbar/supply/off"
+msgid "Disable auto resupply"
+msgstr "Desativar reabastecimento automático"
+
+msgctxt "storing/zones"
+msgid "Zones"
+msgstr "Zonas"
+
+msgctxt "actionbar/supply/off/action"
+msgid "Disable auto resupply of your unit."
+msgstr "Desativar reabastecimento automático da unidade."
+
+msgctxt "scenemenu/savegame"
+msgid "Save game:"
+msgstr "Salvar jogo:"
+
+msgctxt "actionbar/altitude"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/altitude/travel"
+msgid "Ascend"
+msgstr "Subir"
+
+msgctxt "actionbar/mp_per_second/action"
+msgid "Shows how many MP you gain every second."
+msgstr "Mostra quantos MP você ganha por segundo."
+
+msgctxt "actionbar/altitude/travel/action"
+msgid "Ascend to optimal travel altitude."
+msgstr "Subir para altitude de viagem ideal."
+
+msgctxt "actionbar/altitude/surface"
+msgid "Descend"
+msgstr "Descer"
+
+msgctxt "actionbar/altitude/surface_warning"
+msgid "Descend"
+msgstr "Descer"
+
+msgctxt "hints/enemy_leading"
+msgid "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>Enemy team is leading!"
+msgstr "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>A equipe inimiga está liderando!"
+
+msgctxt "crewbar/seat4"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "actionbar/altitude/surface_warning/action"
+msgid "Descend to ground level."
+msgstr "Descer ao nível do chão."
+
+msgctxt "actionbar/altitude/surface_warning/usage"
+msgid "<c(e74236)>Beware possibly unsafe landing ground!</c>"
+msgstr "<c(e74236)>Atenção: solo de pouso potencialmente inseguro!</c>"
+
+msgctxt "humanbar/health_hint"
+msgid "Health (%1% / %2%)%3%"
+msgstr "Saúde (%1% / %2%)%3%"
+
+msgctxt "actionbar/manual_control"
+msgid "Direct Control mode"
+msgstr "Modo de Controle Direto"
+
+msgctxt "actionbar/manual_control/action"
+msgid "Enable / Disable direct control over the selected unit."
+msgstr "Ativar/Desativar controle direto da unidade selecionada."
+
+msgctxt "actionbar/manualMode"
+msgid "Direct Control pre-selector"
+msgstr "Pré-seletor de Controle Direto"
+
+msgctxt "actionbar/manualMode/action"
+msgid "Pre-select between third person or classic direct control for when you enter Direct Control mode."
+msgstr "Pré-selecione entre terceira pessoa ou controle direto clássico para o modo de controle direto."
+
+msgctxt "actionbar/manualMode/dc"
+msgid "Direct Control pre-selection"
+msgstr "Pré-seleção de Controle Direto"
+
+msgctxt "actionbar/manualMode/dc/usage"
+msgid "Currently selected for when you enter Direct Control mode."
+msgstr "Atualmente selecionado para quando entrar no modo de controle direto."
+
+msgctxt "actionbar/manualMode/dc/action"
+msgid "Third Person view"
+msgstr "Visão em Terceira Pessoa"
+
+msgctxt "actionbar/manualMode/tpc"
+msgid "Direct Control pre-selection"
+msgstr "Pré-seleção de Controle Direto"
+
+msgctxt "actionbar/manualMode/tpc/action"
+msgid "Classic Direct Control view"
+msgstr "Visão de Controle Direto Clássico"
+
+msgctxt "actionbar/manualMode/tpc/usage"
+msgid "Currently selected for when you enter Direct Control mode."
+msgstr "Atualmente selecionado para quando entrar no modo de controle direto."
+
+msgctxt "component/format"
+msgid "<f(roboto_mono)s(14)e(shadow)>"
+msgstr "<f(roboto_mono)s(14)e(shadow)>"
+
+msgctxt "component/driver_die"
+msgid "<c(cc1900)>Driver Killed"
+msgstr "<c(cc1900)>Motorista Morto"
+
+msgctxt "component/gunner_die"
+msgid "<c(cc1900)>Gunner Killed"
+msgstr "<c(cc1900)>Atirador Morto"
+
+msgctxt "component/gunner2_die"
+msgid "<c(cc1900)>AA Gunner Killed"
+msgstr "<c(cc1900)>Atirador AA Morto"
+
+msgctxt "component/gunner3_die"
+msgid "<c(cc1900)>Bow Gunner Killed"
+msgstr "<c(cc1900)>Atirador de Proa Morto"
+
+msgctxt "component/gunner4_die"
+msgid "<c(cc1900)>Gunner Killed"
+msgstr "<c(cc1900)>Atirador Morto"
+
+msgctxt "component/gunner5_die"
+msgid "<c(cc1900)>Gunner Killed"
+msgstr "<c(cc1900)>Atirador Morto"
+
+msgctxt "component/gunner6_die"
+msgid "<c(cc1900)>Gunner Killed"
+msgstr "<c(cc1900)>Atirador Morto"
+
+msgctxt "component/charger_die"
+msgid "<c(cc1900)>Loader Killed"
+msgstr "<c(cc1900)>Carregador Morto"
+
+msgctxt "component/charger2_die"
+msgid "<c(cc1900)>2nd Loader Killed"
+msgstr "<c(cc1900)>2º Carregador Morto"
+
+msgctxt "component/charger3_die"
+msgid "<c(cc1900)>3rd Loader Killed"
+msgstr "<c(cc1900)>3º Carregador Morto"
+
+msgctxt "component/charger4_die"
+msgid "<c(cc1900)>4th Loader Killed"
+msgstr "<c(cc1900)>4º Carregador Morto"
+
+msgctxt "component/charger5_die"
+msgid "<c(cc1900)>5th Loader Killed"
+msgstr "<c(cc1900)>5º Carregador Morto"
+
+msgctxt "component/commander_die"
+msgid "<c(cc1900)>Commander Killed"
+msgstr "<c(cc1900)>Comandante Morto"
+
+msgctxt "component/shock"
+msgid "<c(f3ff00)>Crew Shocked"
+msgstr "<c(f3ff00)>Tripulação em Choque"
+
+msgctxt "component/empty"
+msgid ""
+msgstr ""
+
+msgctxt "component/gun_broken"
+msgid "<c(ff8c00)>Gun Broken"
+msgstr "<c(ff8c00)>Canhão Avariado"
+
+msgctxt "component/gun_jammed"
+msgid "<c(f3ff00)>Gun Elevation Jam"
+msgstr "<c(f3ff00)>Trava de Elevação do Canhão"
+
+msgctxt "component/turret_broken"
+msgid "<c(ff8c00)>Turret Broken"
+msgstr "<c(ff8c00)>Torrreta Avariada"
+
+msgctxt "component/body_break"
+msgid "<c(ff8c00)>Hull Broken"
+msgstr "<c(ff8c00)>Casco Avariado"
+
+msgctxt "component/body_broken"
+msgid "<c(cc1900)>Hull Destroyed"
+msgstr "<c(cc1900)>Casco Destruído"
+
+msgctxt "component/body_destroyed"
+msgid "<c(cc1900)>Hull Destroyed"
+msgstr "<c(cc1900)>Casco Destruído"
+
+msgctxt "component/engine_broken"
+msgid "<c(ff8c00)>Engine Broken"
+msgstr "<c(ff8c00)>Motor Avariado"
+
+msgctxt "component/engine_burn"
+msgid "<c(cc1900)>Engine on Fire"
+msgstr "<c(cc1900)>Motor em Chamas"
+
+msgctxt "component/track_broken"
+msgid "<c(ff8c00)>Track Broken"
+msgstr "<c(ff8c00)>Esteira Avariada"
+
+msgctxt "component/ammo_fire"
+msgid "<c(cc1900)>Ammunition on Fire"
+msgstr "<c(cc1900)>Munição em Chamas"
+
+msgctxt "component/ammo_broken"
+msgid "<c(cc1900)>Ammunition Explosion"
+msgstr "<c(cc1900)>Explosão de Munição"
+
+msgctxt "component/score_gain"
+msgid ""
+msgstr ""
+
+msgctxt "component/body_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/engine_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/turret_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/gun_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/track_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/armor_injured"
+msgid ""
+msgstr ""
+
+msgctxt "component/armor_broken"
+msgid ""
+msgstr ""
+
+msgctxt "component/leave_unit"
+msgid "<c(CCCCCC)>Self-destruction initiated<c(FFFFFF)>"
+msgstr "<c(CCCCCC)>Autodestruição iniciada<c(FFFFFF)>"
+
+msgctxt "component/grenade_timer"
+msgid "<f(arial_hq)s(8)e(shadow)>%s%.1f"
+msgstr "<f(arial_hq)s(8)e(shadow)>%s%.1f"
+
+msgctxt "loading/parsing_files"
+msgid "Parsing files"
+msgstr "Processando arquivos"
+
+msgctxt "actionbar/inventory"
+msgid "Inventory"
+msgstr "Inventário"
+
+msgctxt "actionbar/objectives"
+msgid "Objectives"
+msgstr "Objetivos"
+
+msgctxt "tips/title"
+msgid "Help"
+msgstr "Ajuda"
+
+msgctxt "actionbar/objectives/action"
+msgid "Show/hide mission objectives."
+msgstr "Mostrar/ocultar objetivos da missão."
+
+msgctxt "actionbar/hatch_state/action"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/fire/back/action"
+msgid "Return fire"
+msgstr "Retornar fogo"
+
+msgctxt "actionbar/message_history"
+msgid "Message history"
+msgstr "Histórico de mensagens"
+
+msgctxt "vehiclebar/ability"
+msgid "Crew efficiency: %1%%\n"
+"Movement speed: %2%%\n"
+"Reload speed: %2%%\n"
+"Accuracy: %2%%"
+msgstr "Eficiência da tripulação: %1%%\nVelocidade de movimento: %2%%\nVelocidade de recarga: %2%%\nPrecisão: %2%%"
+
+msgctxt "actionbar/message_history/action"
+msgid "Show/hide message history."
+msgstr "Mostrar/ocultar histórico de mensagens."
+
+msgctxt "hints/slow_with_timer"
+msgid "<f(bookman_hq)s(13)>Slow %1%s"
+msgstr "<f(bookman_hq)s(13)>Câmera lenta %1%s"
+
+msgctxt "actionbar/minimap_fade_in"
+msgid "Decrease transparency"
+msgstr "Diminuir transparência"
+
+msgctxt "actionbar/map"
+msgid "Mini-map"
+msgstr "Minimapa"
+
+msgctxt "actionbar/map/action"
+msgid "Show/hide mini-map."
+msgstr "Mostrar/ocultar minimapa."
+
+msgctxt "loading/caching_interface"
+msgid "Caching interface"
+msgstr "Armazenando interface em cache"
+
+msgctxt "actionbar/map_control"
+msgid "<y(+16)><s(19)>Mini-map options"
+msgstr "<y(+16)><s(19)>Opções do minimapa"
+
+msgctxt "actionbar/map_control/docking"
+msgid "Position"
+msgstr "Posição"
+
+msgctxt "hints/spawntime"
+msgid "Order units within %1% seconds, or surrender!"
+msgstr "Ordene unidades em %1% segundos ou se renda!"
+
+msgctxt "actionbar/map_control/docking#/topleft"
+msgid "Top Left"
+msgstr "Superior Esquerdo"
+
+msgctxt "actionbar/map_control/docking#/topright"
+msgid "Top Right"
+msgstr "Superior Direito"
+
+msgctxt "actionbar/map_control/docking_editor"
+msgid "Position"
+msgstr "Posição"
+
+msgctxt "actionbar/map_control/docking_editor#/topleft"
+msgid "Top Left"
+msgstr "Superior Esquerdo"
+
+msgctxt "actionbar/map_control/size"
+msgid "Size"
+msgstr "Tamanho"
+
+msgctxt "perk/level/lvl4"
+msgid "lvl 4"
+msgstr "nível 4"
+
+msgctxt "weapon_view/ammo_count"
+msgid "<f(anka)s(18)c(edd28c)e(shadow)y(15)>%1%"
+msgstr "<f(anka)s(18)c(edd28c)e(shadow)y(15)>%1%"
+
+msgctxt "actionbar/fire/free/usage"
+msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
+msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+
+msgctxt "actionbar/map_control/opacity"
+msgid "Transparency"
+msgstr "Transparência"
+
+msgctxt "actionbar/map_control/clickable"
+msgid "Enable buttons"
+msgstr "Habilitar botões"
+
+msgctxt "entity_info/desc/tank/medium"
+msgid "<c(c3baae)>medium tank</c>"
+msgstr "<c(c3baae)>tanque médio</c>"
+
+msgctxt "actionbar/map_control/show_tracers"
+msgid "Show tracers"
+msgstr "Mostrar traçantes"
+
+msgctxt "actionbar/map_control/show_squad_icons"
+msgid "Show squad icons"
+msgstr "Mostrar ícones de esquadra"
+
+msgctxt "actionbar/map_control/enable_squad_icons"
+msgid "Use squad icons"
+msgstr "Usar ícones de esquadra"
+
+msgctxt "actionbar/map_control/show_hit_cursor"
+msgid "Show hit information"
+msgstr "Mostrar informações de acerto"
+
+msgctxt "vehiclebar/terrain/swamp"
+msgid "Swamp"
+msgstr "Pântano"
+
+msgctxt "actionbar/map_control/show_damage_messages"
+msgid "Show info messages"
+msgstr "Mostrar mensagens informativas"
+
+msgctxt "loading/caching"
+msgid "Caching entities (%d%)"
+msgstr "Armazenando entidades (%d%)"
+
+msgctxt "actionbar/map_control/show_kill_stream"
+msgid "Enable event log stream"
+msgstr "Ativar fluxo de log de eventos"
+
+msgctxt "actionbar/minimap_zoom_in"
+msgid "Zoom in"
+msgstr "Aproximar"
+
+msgctxt "actionbar/minimap_zoom_in/usage"
+msgid "Click to zoom in the mini-map."
+msgstr "Clique para ampliar o minimapa."
+
+msgctxt "actionbar/move/hold"
+msgid "Movement mode"
+msgstr "Modo de movimento"
+
+msgctxt "actionbar/minimap_zoom_out"
+msgid "Zoom out"
+msgstr "Afastar"
+
+msgctxt "hints/friendly_leading"
+msgid "<f(roboto_mono)s(18)c(FFFFFF)e(shadow)>Your team is leading!"
+msgstr "<f(roboto_mono)s(18)c(FFFFFF)e(shadow)>Sua equipe está liderando!"
+
+msgctxt "actionbar/minimap_zoom_out/usage"
+msgid "Click to zoom out the mini-map."
+msgstr "Clique para reduzir o minimapa."
+
+msgctxt "actionbar/game_menu"
+msgid "Game menu"
+msgstr "Menu do jogo"
+
+msgctxt "entity_info/desc/airborne"
+msgid "<c(c3baae)>plane</c>"
+msgstr "<c(c3baae)>avião</c>"
+
+msgctxt "actionbar/game_menu/action"
+msgid "Switch to the main game menu"
+msgstr "Ir para o menu principal do jogo"
+
+msgctxt "humanbar/veterancy_desc"
+msgid "Veterancy %1%"
+msgstr "Veterania %1%"
+
+msgctxt "actionbar/count_fx"
+msgid "<f(arial_hq)s(9)x-y-c(EAEADE)p(0)x.e(shadow)>%1%"
+msgstr "<f(arial_hq)s(9)x-y-c(EAEADE)p(0)x.e(shadow)>%1%"
+
+msgctxt "map/title"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "actionbar/count_fx_red"
+msgid "<f(arial_hq)s(9)c(B42424)p(0)x.e(shadow)>%1%"
+msgstr "<f(arial_hq)s(9)c(B42424)p(0)x.e(shadow)>%1%"
+
+msgctxt "actionbar/count_black"
+msgid "<f(arial_hq)s(9)c(0 0 0)p(0)x.>%1%"
+msgstr "<f(arial_hq)s(9)c(0 0 0)p(0)x.>%1%"
+
+msgctxt "actionbar/hatch_state/open"
+msgid "Open Hatch"
+msgstr "Abrir Escotilha"
+
+msgctxt "actionbar/count_white"
+msgid "<f(anka)s(14)c(220 220 220)p(0)x(3)y(3)e(shadow)>%1%"
+msgstr "<f(anka)s(14)c(220 220 220)p(0)x(3)y(3)e(shadow)>%1%"
+
+msgctxt "perk/level/lvl2"
+msgid "lvl 2"
+msgstr "nível 2"
+
+msgctxt "actionbar/fire/hold/usage"
+msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
+msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+
+msgctxt "actionbar/highlight/stuff"
+msgid "Highlight Items"
+msgstr "Destacar Itens"
+
+msgctxt "actionbar/highlight/stuff/action"
+msgid "Enable/disable highlighting of items on the ground."
+msgstr "Ativar/desativar destaque de itens no chão."
+
+msgctxt "entity_info/desc/tank/light"
+msgid "<c(c3baae)>light tank</c>"
+msgstr "<c(c3baae)>tanque leve</c>"
+
+msgctxt "actionbar/highlight/corpses/action"
+msgid "Enable/disable highlighting of corpses."
+msgstr "Ativar/desativar destaque de cadáveres."
+
+msgctxt "humanbar/veterancy/stamina_regeneration"
+msgid "+%.0f% Stamina regeneration"
+msgstr "+%.0f% Regeneração de resistência"
+
+msgctxt "actionbar/highlight/silhouettes"
+msgid "Highlight Silhouettes"
+msgstr "Destacar Silhuetas"
+
+msgctxt "actionbar/highlight/silhouettes/action"
+msgid "Toggle highlighting of unit silhouettes. May reduce performance."
+msgstr "Ativar/desativar destaque de silhuetas de unidades. Pode reduzir o desempenho."
+
+msgctxt "actionbar/dummy"
+msgid "Button slot"
+msgstr "Slot de botão"
+
+msgctxt "actionbar/dummy/usage"
+msgid "Right-click, then drag and drop frequently used buttons from the right panel into this slot."
+msgstr "Clique com o botão direito e arraste botões usados frequentemente do painel direito para este slot."
+
+msgctxt "actionbar/fire"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/fire/action"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/fire/usage"
+msgid ""
+msgstr ""
+
+msgctxt "objectives/title"
+msgid "<y(+16)><f(pobeda)s(30)b+c(240 240 240)>Mission objectives"
+msgstr "<y(+16)><f(pobeda)s(30)b+c(240 240 240)>Objetivos da missão"
+
+msgctxt "vehiclebar/terrain/snow"
+msgid "Snow/Mud"
+msgstr "Neve/Lama"
+
+msgctxt "actionbar/fire/free"
+msgid "Firing mode"
+msgstr "Modo de disparo"
+
+msgctxt "actionbar/fire/free/action"
+msgid "Fire at will"
+msgstr "Fogo à vontade"
+
+msgctxt "hints/pause"
+msgid "Pause"
+msgstr "Pausado"
+
+msgctxt "event_history/title"
+msgid "<y(+16)><s(19)>Event history"
+msgstr "<y(+16)><s(19)>Histórico de eventos"
+
+msgctxt "visionmode_view/modes/drone"
+msgid "DRONE"
+msgstr "DRONE"
+
+msgctxt "actionbar/fire/hold"
+msgid "Firing mode"
+msgstr "Modo de disparo"
+
+msgctxt "actionbar/mp_payback"
+msgid "MP Payback"
+msgstr "Reembolso de MP"
+
+msgctxt "actionbar/fire/hold/action"
+msgid "Hold fire"
+msgstr "Cessar fogo"
+
+msgctxt "hints/slow"
+msgid "<f(bookman_hq)s(13)>Slow"
+msgstr "<f(bookman_hq)s(13)>Lento"
+
+msgctxt "actionbar/fire/back"
+msgid "Firing mode"
+msgstr "Modo de disparo"
+
+msgctxt "crew_view/efficiency"
+msgid "<f(pobeda)s(27)e(shadow)b+c(%1%)>%2%% Efficiency"
+msgstr "<f(pobeda)s(27)e(shadow)b+c(%1%)>%2%% Eficiência"
+
+msgctxt "actionbar/fire/back/usage"
+msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
+msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+
+msgctxt "replay/current_player"
+msgid "<e(shadow)>Currently watching: %1%"
+msgstr "<e(shadow)>Assistindo: %1%"
+
+msgctxt "visionmode_view/modes/thermal"
+msgid "THERMAL IMAGE"
+msgstr "IMAGEM TÉRMICA"
+
+msgctxt "actionbar/cannon/action"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/move/action"
+msgid ""
+msgstr ""
+
+msgctxt "hints/vehicle_not_working"
+msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>Vehicle is immobile. Turn the engine on, repair or refuel the vehicle!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está imóvel. Ligue o motor, repare ou reabastecça o veículo!"
+
+msgctxt "actionbar/move/usage"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/move/at_will"
+msgid "Movement mode"
+msgstr "Modo de movimento"
+
+msgctxt "actionbar/browse_useitem"
+msgid "Item options"
+msgstr "Opções de item"
+
+msgctxt "actionbar/move/at_will/action"
+msgid "Move at will"
+msgstr "Mover à vontade"
+
+msgctxt "actionbar/vehicle_fuel"
+msgid "Remaining Fuel"
+msgstr "Combustível Restante"
+
+msgctxt "actionbar/move/at_will/usage"
+msgid "Click this button to switch between the different movement modes: Hold position or Move at will."
+msgstr "Clique para alternar entre os modos de movimento: Manter posição ou Mover à vontade."
+
+msgctxt "actionbar/move/hold/action"
+msgid "Hold position"
+msgstr "Manter posição"
+
+msgctxt "actionbar/move/hold/usage"
+msgid "Click this button to switch between the different movement modes: Hold position or Move at will."
+msgstr "Clique para alternar entre os modos de movimento: Manter posição ou Mover à vontade."
+
+msgctxt "actionbar/event_history"
+msgid "Event history"
+msgstr "Histórico de eventos"
+
+msgctxt "actionbar/cannon"
+msgid ""
+msgstr ""
+
+msgctxt "actionbar/cannon/usage"
+msgid ""
+msgstr ""
+
+msgctxt "chatwheel/normal"
+msgid "<f(anka)s(21)c(e5dcd3bb)e(shadow)>%s"
+msgstr "<f(anka)s(21)c(e5dcd3bb)e(shadow)>%s"
+
+msgctxt "actionbar/cannon/fire"
+msgid "Change artillery position"
+msgstr "Mudar posição de artilharia"
+
+msgctxt "actionbar/cannon/fire/usage"
+msgid "Click this button to toggle between an artillery piece's Firing and Towing modes."
+msgstr "Clique para alternar entre os modos de Tiro e Reboque da peça de artilharia."
+
+msgctxt "actionbar/cannon/move"
+msgid "Change artillery position"
+msgstr "Mudar posição de artilharia"
+
+msgctxt "actionbar/cannon/move/action"
+msgid "Towed position"
+msgstr "Posição de reboque"
+
+msgctxt "actionbar/cannon/move/usage"
+msgid "Click this button to toggle between an artillery piece's Firing and Towing modes."
+msgstr "Clique para alternar entre os modos de Tiro e Reboque da peça de artilharia."
+
+msgctxt "actionbar/browse_useitem/usage"
+msgid "Click the button, then select the desired item action."
+msgstr "Clique no botão e selecione a ação desejada para o item."
+
+msgctxt "actionbar/browse_special"
+msgid "Special options"
+msgstr "Opções especiais"
+
+msgctxt "chatwheel/select"
+msgid "<f(anka)s(21)c(D8BB61)e(shadow)>%s"
+msgstr "<f(anka)s(21)c(D8BB61)e(shadow)>%s"
+
+msgctxt "actionbar/browse_special/usage"
+msgid "Click the button, then select the desired special action."
+msgstr "Clique no botão e selecione a ação especial desejada."
+
+msgctxt "actionbar/browse_attack/usage"
+msgid "Click the button, then select the desired attack action."
+msgstr "Clique no botão e selecione a ação de ataque desejada."
+
+msgctxt "actionbar/browse_back"
+msgid "Back"
+msgstr "Voltar"
+
+msgctxt "stats/player_leave"
+msgid "<f(arial_hq)c(FFFFFF)s(8)>%1%"
+msgstr "<f(arial_hq)c(FFFFFF)s(8)>%1%"
+
+msgctxt "vehicle_view/fuel"
+msgid "<e(shadow)f(anka)s(21)x.y.b+c(%1%)p(25)> %2% L<x(+15)> "
+msgstr "<e(shadow)f(anka)s(21)x.y.b+c(%1%)p(25)> %2% L<x(+15)> "
+
+msgctxt "vehicle_view/speed"
+msgid "<e(shadow)f(anka)s(15)x.y.b+c(%1%)p(25)>%2% km/h\n"
+"<e(shadow)f(anka)s(12)x.y.b+c(%1%)p(25)>(%3%)"
+msgstr "<e(shadow)f(anka)s(15)x.y.b+c(%1%)p(25)>%2% km/h\n"
+"<e(shadow)f(anka)s(12)x.y.b+c(%1%)p(25)>(%3%)"
+
+msgctxt "vehicle_view/body"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Hull Armor: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Blindagem do Casco: %2%/%3%"
+
+msgctxt "vehicle_view/body_broken"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Hull Damage: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Dano do Casco: %2%/%3%"
+
+msgctxt "vehicle_view/engine"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Engine Armor: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Blindagem do Motor: %2%/%3%"
+
+msgctxt "vehicle_view/engine_broken"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Engine Damage: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Dano do Motor: %2%/%3%"
+
+msgctxt "vehicle_view/turret"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Turret Armor: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Blindagem da Torrreta: %2%/%3%"
+
+msgctxt "humanbar/veterancy/level"
+msgid "<s(12)c(207 133 64)p(0)x.>lvl %d"
+msgstr "<s(12)c(207 133 64)p(0)x.>nív %d"
+
+msgctxt "actionbar/browse_back/action"
+msgid "Return to the previous menu."
+msgstr "Voltar ao menu anterior."
+
+msgctxt "vehiclebar/fuel_hint"
+msgid "(%1% / %2%)"
+msgstr "(%1% / %2%)"
+
+msgctxt "vehiclebar/turret"
+msgid "<f(arial_hq)s(8)x.>%1% / %2%"
+msgstr "<f(arial_hq)s(8)x.>%1% / %2%"
+
+msgctxt "vehiclebar/body"
+msgid "<f(arial_hq)s(8)x.>%1% / %2%"
+msgstr "<f(arial_hq)s(8)x.>%1% / %2%"
+
+msgctxt "vehiclebar/body_broken"
+msgid "<f(arial_hq)s(8)x.>%1% / %2%"
+msgstr "<f(arial_hq)s(8)x.>%1% / %2%"
+
+msgctxt "vehiclebar/engine"
+msgid "<f(arial_hq)s(8)x.>%1% / %2%"
+msgstr "<f(arial_hq)s(8)x.>%1% / %2%"
+
+msgctxt "vehiclebar/engine_broken"
+msgid "<f(arial_hq)s(8)x.>%1% / %2%"
+msgstr "<f(arial_hq)s(8)x.>%1% / %2%"
+
+msgctxt "actionbar/key_hint"
+msgid "%1% (<c(ffff60)>%2%</c>)"
+msgstr "%1% (<c(ffff60)>%2%</c>)"
+
+msgctxt "actionbar/throw_sk_grenade"
+msgid "Smoke grenade"
+msgstr "Granada de fumaça"
+
+msgctxt "actionbar/throw_sk_grenade/action"
+msgid "Throw a smoke grenade"
+msgstr "Lançar uma granada de fumaça"
+
+msgctxt "actionbar/throw_sk_grenade/usage"
+msgid "After clicking this button, click the location where you want to place a smoke grenade."
+msgstr "Após clicar neste botão, clique no local onde deseja lançar uma granada de fumaça."
+
+msgctxt "actionbar/barricade"
+msgid "Place big barricade"
+msgstr "Construir barricada grande"
+
+msgctxt "actionbar/barricade/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a big barricade."
+msgstr "Após clicar neste botão, clique e arraste no mapa para definir a posição de uma barricada grande."
+
+msgctxt "actionbar/barbwire/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a barbed wire barricade."
+msgstr "Após clicar neste botão, clique e arraste no mapa para definir a posição de uma barricada de arame farpado."
+
+msgctxt "loading/title"
+msgid "<s(21)>%s"
+msgstr "<s(21)>%s"
+
+msgctxt "actionbar/hatch_state/open/usage"
+msgid "Open the top hatch to allow units to mount an exposed secondary weapon."
+msgstr "Abrir a escotilha superior para permitir que unidades montem uma arma secundária exposta."
+
+msgctxt "actionbar/chat"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "actionbar/mp_per_second"
+msgid "MP / Second"
+msgstr "MP / Segundo"
+
+msgctxt "actionbar/score_table"
+msgid "Score table"
+msgstr "Tabela de pontuação"
+
+msgctxt "vehiclebar/terrain/undef"
+msgid "Undef"
+msgstr "Indefinido"
+
+msgctxt "actionbar/score_table/action"
+msgid "Show/hide score table."
+msgstr "Mostrar/ocultar tabela de pontuação."
+
+msgctxt "actionbar/videocapture"
+msgid "Capture video"
+msgstr "Capturar vídeo"
+
+msgctxt "actionbar/videocapture/action"
+msgid "Toggle video capture on/off."
+msgstr "Ativar/desativar captura de vídeo."
+
+msgctxt "actionbar/event_history/action"
+msgid "Show/hide event history."
+msgstr "Mostrar/ocultar histórico de eventos."
+
+msgctxt "weapon_view/ammo_type"
+msgid "<f(anka)s(12)x.><c(%1%)>%2%"
+msgstr "<f(anka)s(12)x.><c(%1%)>%2%"
+
+msgctxt "actionbar/transfer"
+msgid "Unit transfer"
+msgstr "Transferência de unidade"
+
+msgctxt "actionbar/transfer/action"
+msgid "Selected units will be transferred to chosen player in your team."
+msgstr "As unidades selecionadas serão transferidas para o jogador selecionado na sua equipe."
+
+msgctxt "actionbar/cp_current"
+msgid "Current CP value"
+msgstr "Valor atual de CP"
+
+msgctxt "actionbar/cp_current/action"
+msgid "Value raises with every purchased unit. Cannot exceed the limit."
+msgstr "O valor aumenta com cada unidade comprada. Não pode exceder o limite."
+
+msgctxt "actionbar/mp_payback/action"
+msgid "Regain some MP for troops that you've lost."
+msgstr "Recupere alguns MP pelas tropas que perdeu."
+
+msgctxt "actionbar/vehicle_fuel/action"
+msgid "This vehicle needs fuel to run. It can be re-filled."
+msgstr "Este veículo precisa de combustível para funcionar. Pode ser reabastecido."
+
+msgctxt "hints/play"
+msgid "<f(bookman_hq)s(13)>Play"
+msgstr "<f(bookman_hq)s(13)>Jogar"
+
+msgctxt "vehiclebar/terrain/water"
+msgid "Water"
+msgstr "Água"
+
+msgctxt "actionbar/vehicle_supplies"
+msgid "Remaining Supplies"
+msgstr "Suprimentos Restantes"
+
+msgctxt "actionbar/vehicle_supplies/action"
+msgid "This vehicle supplies your troops with equipment. It refills itself automatically."
+msgstr "Este veículo abastece suas tropas com equipamento. Reabastece-se automaticamente."
+
+msgctxt "actionbar/vehicle_speed/action"
+msgid "Current Speed."
+msgstr "Velocidade Atual."
+
+msgctxt "actionbar/hatch_state/usage"
+msgid ""
+msgstr ""
+
+msgctxt "hints/replay_timer"
+msgid "<f(bookman_hq)s(13)c(FFFFFF)>Demo replay will begin in %1% seconds"
+msgstr "<f(bookman_hq)s(13)c(FFFFFF)>A repetição começará em %1% segundos"
+
+msgctxt "vehiclebar/terrain/no_pass"
+msgid "No pass"
+msgstr "Sem passagem"
+
+msgctxt "actionbar/hatch_state/close"
+msgid "Close Hatch"
+msgstr "Fechar Escotilha"
+
+msgctxt "actionbar/hatch_state/close/action"
+msgid "Close Hatch"
+msgstr "Fechar Escotilha"
+
+msgctxt "actionbar/hatch_state/close/usage"
+msgid "Close the top hatch to prevent units to mount an exposed secondary weapon."
+msgstr "Fechar a escotilha superior para impedir que unidades montem uma arma secundária exposta."
+
+msgctxt "crewbar/driver"
+msgid "<f(roboto_mono)>Driver"
+msgstr "<f(roboto_mono)>Motorista"
+
+msgctxt "crewbar/seat5"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "equipmentbar/title"
+msgid "<x.f(bookman_hq)s(8)><e(shadow)>%s"
+msgstr "<x.f(bookman_hq)s(8)><e(shadow)>%s"
+
+msgctxt "crewbar/gunner"
+msgid "<f(roboto_mono)>Gunner"
+msgstr "<f(roboto_mono)>Atirador"
+
+msgctxt "crewbar/seat0"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "stats/damage/bullet"
+msgid "shot"
+msgstr "tiro"
+
+msgctxt "crewbar/seat1"
+msgid "<f(roboto_mono)>Passenger"
+msgstr "<f(roboto_mono)>Passageiro"
+
+msgctxt "crewbar/seat2"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "tips/menu/next"
+msgid "Next"
+msgstr "Próximo"
+
+msgctxt "crewbar/seat3"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat7"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat8"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "vehiclebar/stunned"
+msgid "<f(arial_hq)s(8)><e(shadow)>stunned"
+msgstr "<f(arial_hq)s(8)><e(shadow)>atordoado"
+
+msgctxt "humanbar/veterancy/health"
+msgid "+%.0f% Health"
+msgstr "+%.0f% Saúde"
+
+msgctxt "humanbar/veterancy/health_regeneration"
+msgid "+%.0f% Health regeneration"
+msgstr "+%.0f% Regeneração de saúde"
+
+msgctxt "humanbar/veterancy/tank"
+msgid "+%.0f% Tank"
+msgstr "+%.0f% Tanque"
+
+msgctxt "humanbar/veterancy/vehicle"
+msgid "+%.0f% Vehicle"
+msgstr "+%.0f% Veículo"
+
+msgctxt "humanbar/veterancy/cannon"
+msgid "+%.0f% Cannon"
+msgstr "+%.0f% Canhão"
+
+msgctxt "hints/record"
+msgid "<f(bookman_hq)s(13)>Record"
+msgstr "<f(bookman_hq)s(13)>Gravar"
+
+msgctxt "humanbar/veterancy/weapon_skill"
+msgid "+%1% Weapon skill"
+msgstr "+%1% Habilidade com armas"
+
+msgctxt "tips/button/prev"
+msgid "Prev"
+msgstr "Anterior"
+
+msgctxt "humanbar/health"
+msgid "<f(roboto_mono)s(11)x.e(shadow)>%1%"
+msgstr "<f(roboto_mono)s(11)x.e(shadow)>%1%"
+
+msgctxt "humanbar/stamina"
+msgid "<f(roboto_mono)s(11)x.e(shadow)>%1%"
+msgstr "<f(roboto_mono)s(11)x.e(shadow)>%1%"
+
+msgctxt "stats/color/enemy"
+msgid "<c(d18686)>"
+msgstr "<c(d18686)>"
+
+msgctxt "humanbar/stamina_hint"
+msgid "Stamina (%1% / %2%)%3% (%4%)"
+msgstr "Resistência (%1% / %2%)%3% (%4%)"
+
+msgctxt "humanbar/stamina_regeneration"
+msgid "%.0f sps"
+msgstr "%.0f sps"
+
+msgctxt "humanbar/equipment_mass"
+msgid "%.1f kg"
+msgstr "%.1f kg"
+
+msgctxt "humanbar/veterancy"
+msgid "<s(10)c(dea968)p(0)x.e(shadow)>%1%"
+msgstr "<s(10)c(dea968)p(0)x.e(shadow)>%1%"
+
+msgctxt "loading/meshgroups"
+msgid "Building mesh groups (%d%)"
+msgstr "Construindo grupos de malha (%d%)"
+
+msgctxt "humanbar/veterancy_hint"
+msgid "<f(anka)s(14)c(dea968)e(shadow)>Veterancy<f(anka)c(eeeeee)s(12)y(+5)>\n"
+"Affects Unit combat efficency and stats.\n"
+"<y(+5)>Earned through elimination of enemy troops and vehicles\n"
+"\n"
+"<c(85b1cc)>Points to next level: (%1% / %2%)"
+msgstr "<f(anka)s(14)c(dea968)e(shadow)>Veterania<f(anka)c(eeeeee)s(12)y(+5)>\n"
+"Afeta a eficiência de combate e os atributos da unidade.\n"
+"<y(+5)>Adquirida pela eliminação de tropas e veículos inimigos\n"
+"\n"
+"<c(85b1cc)>Pontos para o próximo nível: (%1% / %2%)"
+
+msgctxt "humanbar/moral_hint"
+msgid "Morale"
+msgstr "Moral"
+
+msgctxt "humanbar/desc"
+msgid "<f(arial_hq)s(8)x.>%1%"
+msgstr "<f(arial_hq)s(8)x.>%1%"
+
+msgctxt "humanbar/repair"
+msgid "%s:%g%%"
+msgstr "%s:%g%%"
+
+msgctxt "crew_view/place"
+msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>%2%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>%2%"
+
+msgctxt "human_view/stamina"
+msgid "<f(anka)s(15)e(shadow)y(+5)c(%1%)>%2% (%3%)"
+msgstr "<f(anka)s(15)e(shadow)y(+5)c(%1%)>%2% (%3%)"
+
+msgctxt "perk/stealth"
+msgid "Stealth"
+msgstr "Furtividade"
+
+msgctxt "squad_view/squad_member"
+msgid "<f(roboto_mono)s(12)e(shadow)c(%1%)>%2%: %3%"
+msgstr "<f(roboto_mono)s(12)e(shadow)c(%1%)>%2%: %3%"
+
+msgctxt "vehiclebar/terrain/shallow_water"
+msgid "Shallow water"
+msgstr "Água rasa"
+
+msgctxt "visionmode_view/desc"
+msgid "<f(arial_hq)s(8)e(shadow)>%1%. %2%"
+msgstr "<f(arial_hq)s(8)e(shadow)>%1%. %2%"
+
+msgctxt "weapon_view/key"
+msgid "<f(pobeda)s(21)e(shadow)b+c(dddddd)x(5)>%1%"
+msgstr "<f(pobeda)s(21)e(shadow)b+c(dddddd)x(5)>%1%"
+
+msgctxt "extender/flare"
+msgid "Flares"
+msgstr "Sinalizadores"
+
+msgctxt "weapon_view/level"
+msgid "<f(anka)e(shadow)s(12)y(+15)>%1%"
+msgstr "<f(anka)e(shadow)s(12)y(+15)>%1%"
+
+msgctxt "compass_view/primary_objective"
+msgid "<e(shadow)s(8)c(c0f100)>%.1fm"
+msgstr "<e(shadow)s(8)c(c0f100)>%.1fm"
+
+msgctxt "vehiclebar/supply"
+msgid "%.0f"
+msgstr "%.0f"
+
+msgctxt "vehiclebar/supply_hint"
+msgid "(%1% / %2%) +%3% spm"
+msgstr "(%1% / %2%) +%3% spm"
+
+msgctxt "vehiclebar/fuel"
+msgid "%.1f"
+msgstr "%.1f"
+
+msgctxt "vehiclebar/terrain/road"
+msgid "Road"
+msgstr "Estrada"
+
+msgctxt "vehiclebar/terrain/no_pass_human"
+msgid "No human pass"
+msgstr "Bloqueado para humanos"
+
+msgctxt "vehiclebar/terrain/deep_water"
+msgid "Deep water"
+msgstr "Água profunda"
+
+msgctxt "loading/landscape"
+msgid "Loading landscape"
+msgstr "Carregando paisagem"
+
+msgctxt "vehiclebar/terrain/air"
+msgid "Air"
+msgstr "Ar"
+
+msgctxt "interface/cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "interface/no"
+msgid "No"
+msgstr "Não"
+
+msgctxt "reinforcement_bar/head"
+msgid "<f(arial_narrow)s(16)><e(shadow)>%1% / %2% MP"
+msgstr "<f(arial_narrow)s(16)><e(shadow)>%1% / %2% MP"
+
+msgctxt "interface/ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "interface/yes"
+msgid "Yes"
+msgstr "Sim"
+
+msgctxt "reinforcement_bar/available"
+msgid "\n"
+"Available: %1%"
+msgstr "\n"
+"Disponível: %1%"
+
+msgctxt "mass_view/ton"
+msgid "<f(arial_hq)s(8)x.>Mass: %g ton"
+msgstr "<f(arial_hq)s(8)x.>Peso: %g ton"
+
+msgctxt "scenemenu/choose"
+msgid "Choose a game to save"
+msgstr "Escolha uma partida para salvar"
+
+msgctxt "objectives/primary"
+msgid "<f(pobeda)s(27)b+c(171 160 147)e(shadow_ex)>Primary:"
+msgstr "<f(pobeda)s(27)b+c(171 160 147)e(shadow_ex)>Principal:"
+
+msgctxt "objectives/secondary"
+msgid "<f(pobeda)s(24)c(171 160 147)e(shadow_ex)>Secondary:"
+msgstr "<f(pobeda)s(24)c(171 160 147)e(shadow_ex)>Secundário:"
+
+msgctxt "objectives/objfailed"
+msgid "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>OBJECTIVE FAILED"
+msgstr "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>OBJETIVO FALHOU"
+
+msgctxt "hints/enemy_capturing"
+msgid "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>Your flag is being captured!"
+msgstr "<f(bookman_hq)s(13)c(FFFFFF)e(shadow)>Sua bandeira está sendo capturada!"
+
+msgctxt "message_history/title"
+msgid "<y(+16)><s(19)>Message history"
+msgstr "<y(+16)><s(19)>Histórico de mensagens"
+
+msgctxt "quantspeeddialog/title"
+msgid "<y(+16)><s(19)>Game speed"
+msgstr "<y(+16)><s(19)>Velocidade do jogo"
+
+msgctxt "quantspeeddialog/fast"
+msgid "Fast"
+msgstr "Rápido"
+
+msgctxt "hints/outofsync"
+msgid "<f(bookman_hq)s(13)>Out of sync"
+msgstr "<f(bookman_hq)s(13)>Fora de sincronização"
+
+msgctxt "hints/slowdown/fast"
+msgid "<f(bookman_hq)s(13)>Fast-motion"
+msgstr "<f(bookman_hq)s(13)>Câmera rápida"
+
+msgctxt "storing/waypoints"
+msgid "Waypoints"
+msgstr "Pontos de rota"
+
+msgctxt "hints/custom_hint"
+msgid "<f(bookman_hq)s(13)c(FFFFFF)>"
+msgstr "<f(bookman_hq)s(13)c(FFFFFF)>"
+
+msgctxt "stats/flag_lost"
+msgid "<f(arial_hq)c(FFFFFF)s(8)>Flag lost"
+msgstr "<f(arial_hq)c(FFFFFF)s(8)>Bandeira perdida"
+
+msgctxt "hints/friendly_winning"
+msgid "<f(roboto_mono)s(18)c(FFFFFF)e(shadow)>Your team is winning!"
+msgstr "<f(roboto_mono)s(18)c(FFFFFF)e(shadow)>Sua equipe está vencendo!"
+
+msgctxt "hints/vehicle_repaired"
+msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>Vehicle repaired!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>Veículo reparado!"
+
+msgctxt "hints/friendly_fire"
+msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>FRIENDLY FIRE!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>FOGO AMIGO!"
+
+msgctxt "hints/weapon_not_working"
+msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>The vehicle is damaged and unable to shoot, it needs to be repaired!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está danificado e não pode atirar, precisa ser reparado!"
+
+msgctxt "entity_info/desc/helicopter"
+msgid "<c(c3baae)>helicopter</c>"
+msgstr "<c(c3baae)>helicóptero</c>"
+
+msgctxt "tips/button/back"
+msgid "Back"
+msgstr "Voltar"
+
+msgctxt "tips/button/next"
+msgid "Next"
+msgstr "Próximo"
+
+msgctxt "tips/menu/back"
+msgid "Back"
+msgstr "Voltar"
+
+msgctxt "tips/menu/prev"
+msgid "Prev"
+msgstr "Anterior"
+
+msgctxt "gameover/can_loot"
+msgid "Click 'Continue' to keep playing. Click 'Close' to end the battle."
+msgstr "Clique em 'Continuar' para continuar jogando. Clique em 'Fechar' para encerrar a batalha."
+
+msgctxt "loading/starting"
+msgid "<c(96 120 191)>Starting"
+msgstr "<c(96 120 191)>Iniciando"
+
+msgctxt "loading/spawning"
+msgid "Spawning (%d%)"
+msgstr "Criando entidades (%d%)"
+
+msgctxt "loading/wait4players"
+msgid "Waiting for players"
+msgstr "Aguardando jogadores"
+
+msgctxt "loading/coverbase"
+msgid "Init cover base"
+msgstr "Iniciando base de cobertura"
+
+msgctxt "loading/interface"
+msgid "Loading interface"
+msgstr "Carregando interface"
+
+msgctxt "loading/textures"
+msgid "Loading textures (%d%)"
+msgstr "Carregando texturas (%d%)"
+
+msgctxt "loading/purging_resources"
+msgid "Purging resources"
+msgstr "Limpando recursos"
+
+msgctxt "entity_info/desc/moto"
+msgid "<c(c3baae)>motorcycle</c>"
+msgstr "<c(c3baae)>motocicleta</c>"
+
+msgctxt "loading/pathernetwork"
+msgid "Initializing pather network"
+msgstr "Inicializando rede de pathfinding"
+
+msgctxt "loading/resources_to_vidmem"
+msgid "Caching to VRAM"
+msgstr "Armazenando na VRAM"
+
+msgctxt "talk/ally"
+msgid "<c(e1ceb4)>%s"
+msgstr "<c(e1ceb4)>%s"
+
+msgctxt "perk/rocketlauncher"
+msgid "RPG"
+msgstr "RPG"
+
+msgctxt "replay/fow_switch"
+msgid "<e(shadow)>Fog of War"
+msgstr "<e(shadow)>Névoa de Guerra"
+
+msgctxt "talk/enemy"
+msgid "<c(d24444)>%s"
+msgstr "<c(d24444)>%s"
+
+msgctxt "talk/cant turn railway switch"
+msgid "The railway switch is blocked"
+msgstr "O desvio ferroviário está bloqueado"
+
+msgctxt "perk/health"
+msgid "Health"
+msgstr "Saúde"
+
+msgctxt "perk/pistol"
+msgid "Pistol"
+msgstr "Pistola"
+
+msgctxt "perk/smg"
+msgid "SMG"
+msgstr "SMG"
+
+msgctxt "perk/mgun"
+msgid "MG"
+msgstr "MG"
+
+msgctxt "perk/mgun_light"
+msgid "MG (Light)"
+msgstr "MG (Leve)"
+
+msgctxt "perk/rifle"
+msgid "Rifle"
+msgstr "Fuzil"
+
+msgctxt "perk/level/lvl0"
+msgid "lvl 0"
+msgstr "nível 0"
+
+msgctxt "perk/level/lvl3"
+msgid "lvl 3"
+msgstr "nível 3"
+
+msgctxt "extender/smokescreen"
+msgid "Smoke Screen"
+msgstr "Cortina de Fumaça"
+
+msgctxt "stats/color/ally"
+msgid "<c(86b9d1)>"
+msgstr "<c(86b9d1)>"
+
+msgctxt "stats/effector/enemy"
+msgid "<c(d22b2b)>enemy"
+msgstr "<c(d22b2b)>inimigo"
+
+msgctxt "stats/effector/ally"
+msgid "<c(599dbd)>ally"
+msgstr "<c(599dbd)>aliado"
+
+msgctxt "stats/effector/neutral"
+msgid "<c(c4b658)>neutral"
+msgstr "<c(c4b658)>neutro"
+
+msgctxt "stats/damage/blow"
+msgid "melee"
+msgstr "corpo a corpo"
+
+msgctxt "stats/damage/unknown"
+msgid "??"
+msgstr "??"
+
+msgctxt "stats/destroy"
+msgid "<f(arial_hq)s(8)>%1% <c(ffffff)>%2% %3% <c(9fd186)>%4% "
+msgstr "<f(arial_hq)s(8)>%1% <c(ffffff)>%2% %3% <c(9fd186)>%4% "
+
+msgctxt "stats/kills_count"
+msgid "<f(roboto_con)s(18)b+c(dddddd)e(shadow)x.y(-4)>%1%"
+msgstr "<f(roboto_con)s(18)b+c(dddddd)e(shadow)x.y(-4)>%1%"
+
+msgctxt "stats/flags_count"
+msgid "<b+c(FFFFFF)s(20)x.y.>%1%"
+msgstr "<b+c(FFFFFF)s(20)x.y.>%1%"
+
+msgctxt "entity_info/desc/tank"
+msgid "<c(c3baae)>tank</c>"
+msgstr "<c(c3baae)>tanque</c>"
+
+msgctxt "entity_info/desc/tank/heavy"
+msgid "<c(c3baae)>heavy tank</c>"
+msgstr "<c(c3baae)>tanque pesado</c>"
+
+msgctxt "entity_info/desc/human"
+msgid ""
+msgstr ""
+
+msgctxt "entity_info/desc/armored_car"
+msgid "<c(c3baae)>armored vehicle</c>"
+msgstr "<c(c3baae)>veículo blindado</c>"
+
+msgctxt "entity_info/desc/cannon"
+msgid "<c(c3baae)>emplacement</c>"
+msgstr "<c(c3baae)>posição</c>"
+
+msgctxt "entity_info/desc/marine"
+msgid "<c(c3baae)>boat</c>"
+msgstr "<c(c3baae)>bote</c>"
+
+msgctxt "entity_info/crew"
+msgid "Crew"
+msgstr "Tripulação"
+
+msgctxt "gamebar/clock_style"
+msgid "<b+c(F2E9DA)f(pobeda)s(42)e(shadow)x.y.>"
+msgstr "<b+c(F2E9DA)f(pobeda)s(42)e(shadow)x.y.>"
+
+msgctxt "entity_info/max_speed"
+msgid "Speed"
+msgstr "Velocidade"
+
+msgctxt "entity_info/weapon_primary"
+msgid "Main gun"
+msgstr "Canhão principal"
+
+msgctxt "entity_info/weapon_primary_range"
+msgid "Range (current ammo): %g m"
+msgstr "Alcance (munição atual): %g m"
+
+msgctxt "entity_info/weapon_secondary_range"
+msgid "Range: %g m"
+msgstr "Alcance: %g m"
+
+msgctxt "entity_info/human_weapon_primary_range"
+msgid "Range: %g m"
+msgstr "Alcance: %g m"
+
+msgctxt "humanbar/resources"
+msgid "<f(arial_hq)s(8)x.>%1%"
+msgstr "<f(arial_hq)s(8)x.>%1%"
+
+msgctxt "humanbar/resources_regeneration"
+msgid "+%.0f bmpm"
+msgstr "+%.0f bmpm"
+
+msgctxt "humanbar/resources_hint"
+msgid "<f(anka)s(14)c(dea968)e(shadow)>Building Material<f(anka)c(eeeeee)s(12)y(+5)>\nUsed to construct engineer emplacements.\n<y(+5)>Can be renewed by supply trucks\n\nBuilding material left: (%1%/%2%)"
+msgstr "<f(anka)s(14)c(dea968)e(shadow)>Material de construção<f(anka)c(eeeeee)s(12)y(+5)>\nUsado para construir posições de engenharia.\n<y(+5)>Pode ser reabastecido por caminhões de suprimentos\n\nMaterial restante: (%1%/%2%)"
+
+msgctxt "crewbar/seat10"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat11"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat12"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat13"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "crewbar/seat14"
+msgid "<f(roboto_mono)>Passengers"
+msgstr "<f(roboto_mono)>Passageiros"
+
+msgctxt "actionbar/browse_emplacement"
+msgid "Emplacement options"
+msgstr "Opções de posição"
+
+msgctxt "actionbar/browse_emplacement/usage"
+msgid "Click the button, then select the desired emplacement action."
+msgstr "Clique no botão e selecione a ação de posição desejada."
+
+msgctxt "actionbar/tank_cover"
+msgid "Place tank trench"
+msgstr "Posicionar trincheira de tanque"
+
+msgctxt "actionbar/tank_cover/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a tank trench."
+msgstr "Após clicar, arraste no mapa para definir a posição da trincheira de tanque."
+
+msgctxt "actionbar/tank_cover/action"
+msgid "Place tank trench"
+msgstr "Posicionar trincheira de tanque"
+
+msgctxt "actionbar/fin_bunker"
+msgid "Place concrete bunker"
+msgstr "Construir bunker de concreto"
+
+msgctxt "actionbar/fin_bunker/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a concrete bunker."
+msgstr "Após clicar, arraste no mapa para definir a posição do bunker de concreto."
+
+msgctxt "actionbar/fin_bunker/action"
+msgid "Place concrete bunker"
+msgstr "Construir bunker de concreto"
+
+msgctxt "actionbar/fin_coastal_gun"
+msgid "Place coastal gun emplacement"
+msgstr "Construir posição de canhão costeiro"
+
+msgctxt "actionbar/fin_coastal_gun/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a coastal gun emplacement. Upgrade by clicking on concrete pad again with engineers"
+msgstr "Após clicar, arraste no mapa para definir a posição do canhão costeiro. Melhore clicando novamente na base de concreto com engenheiros."
+
+msgctxt "actionbar/fin_coastal_gun/action"
+msgid "Place coastal gun emplacement"
+msgstr "Construir posição de canhão costeiro"
+
+msgctxt "actionbar/hedgehog"
+msgid "Place tank barrier"
+msgstr "Colocar obstáculo antitanque"
+
+msgctxt "actionbar/hedgehog/usage"
+msgid "After clicking this button, click on the map to define the position for building a tank barrier."
+msgstr "Após clicar, clique no mapa para definir a posição do obstáculo antitanque."
+
+msgctxt "actionbar/foxhole"
+msgid "Dig small foxhole"
+msgstr "Escavar foxhole pequeno"
+
+msgctxt "actionbar/foxhole/action"
+msgid "Dig small foxhole"
+msgstr "Escavar foxhole pequeno"
+
+msgctxt "actionbar/foxhole/usage"
+msgid "After clicking this button, click and drag on the map to define the position and orientation for digging a small foxhole."
+msgstr "Após clicar, arraste no mapa para definir a posição e orientação do foxhole pequeno."
+
+msgctxt "actionbar/foxhole_big"
+msgid "Dig large foxhole"
+msgstr "Escavar foxhole grande"
+
+msgctxt "actionbar/foxhole_big/usage"
+msgid "After clicking this button, click and drag on the map to define the position and orientation for digging a large foxhole."
+msgstr "Após clicar, arraste no mapa para definir a posição e orientação do foxhole grande."
+
+msgctxt "actionbar/medic_rally"
+msgid "Medical Rally Point"
+msgstr "Ponto de Reunião Médico"
+
+msgctxt "actionbar/medic_rally/action"
+msgid "Construct Medic rally point"
+msgstr "Construir ponto de reunião médico"
+
+msgctxt "actionbar/medic_rally/usage"
+msgid "Medical Rally points resupply healing equipment. After clicking this button, click on the map to define the position and orientation for placing the rally."
+msgstr "Pontos de reunião médico reabastecem equipamentos de cura. Após clicar, clique no mapa para definir a posição."
+
+msgctxt "actionbar/vehicle_body"
+msgid "Hull armor"
+msgstr "Blindagem do casco"
+
+msgctxt "actionbar/vehicle_body_broken"
+msgid "Hull damage"
+msgstr "Dano do casco"
+
+msgctxt "actionbar/vehicle_engine"
+msgid "Engine armor"
+msgstr "Blindagem do motor"
+
+msgctxt "actionbar/vehicle_engine_broken"
+msgid "Engine damage"
+msgstr "Dano do motor"
+
+msgctxt "actionbar/vehicle_turret"
+msgid "Turret armor"
+msgstr "Blindagem da torrreta"
+
+msgctxt "actionbar/vehicle_turret_broken"
+msgid "Turret damage"
+msgstr "Dano da torrreta"
+
+msgctxt "actionbar/barricade_sq"
+msgid "Place small barricade"
+msgstr "Colocar barricada pequena"
+
+msgctxt "actionbar/barricade_sq/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a small barricade."
+msgstr "Após clicar, arraste no mapa para definir a posição da barricada pequena."
+
+msgctxt "entity_info/desc/self_propelled"
+msgid "<c(c3baae)>self-propelled gun</c>"
+msgstr "<c(c3baae)>canhão autopropulsado</c>"
+
+msgctxt "entity_info/armor_hull"
+msgid "Hull Armor"
+msgstr "Blindagem do Casco"
+
+msgctxt "entity_info/armor_turret"
+msgid "Turret Armor"
+msgstr "Blindagem da Torrreta"
+
+msgctxt "entity_info/armor_shield"
+msgid "Extra Armor"
+msgstr "Blindagem Extra"
+
+msgctxt "actionbar/injection"
+msgid "Morphine shot"
+msgstr "Injeção de morfina"
+
+msgctxt "actionbar/injection/usage"
+msgid "Instantly revive a fallen soldier with a consumable morphine shot"
+msgstr "Reanime instantaneamente um soldado caído com uma injeção de morfina"
+
+msgctxt "actionbar/call_ally"
+msgid "Recruit Soldiers"
+msgstr "Recrutar Soldados"
+
+msgctxt "actionbar/call_ally/usage"
+msgid "Recruit nearby AI soldiers into your command"
+msgstr "Recrutar soldados AI próximos para seu comando"
+
+msgctxt "actionbar/suppression_fire"
+msgid "Suppression Fire"
+msgstr "Fogo de Supressão"
+
+msgctxt "actionbar/suppression_fire/usage"
+msgid "Unleash intense firepower at the overall vicinity of a designated target or location for 60 seconds."
+msgstr "Desencadeie poder de fogo intenso na área de um alvo designado por 60 segundos."
+
+msgctxt "actionbar/mortar_pit"
+msgid "Place mortar trench"
+msgstr "Posicionar trincheira para morteiro"
+
+msgctxt "actionbar/mortar_pit/usage"
+msgid "After clicking this button, click and drag on the map to define the position for building a mortar trench."
+msgstr "Após clicar, arraste no mapa para definir a posição da trincheira do morteiro."
+
+msgctxt "actionbar/mortar_pit/action"
+msgid "Place mortar trench"
+msgstr "Posicionar trincheira para morteiro"
+
+msgctxt "actionbar/auto_medic/enabled"
+msgid "Automatic Revive"
+msgstr "Reanimação Automática"
+
+msgctxt "actionbar/auto_medic/enabled/action"
+msgid "Auto-revive DISABLED"
+msgstr "Reanimação automática DESATIVADA"
+
+msgctxt "actionbar/auto_medic/enabled/usage"
+msgid "Click this button to toggle automatic revive of nearby soldiers"
+msgstr "Clique para ativar/desativar a reanimação automática de soldados próximos"
+
+msgctxt "actionbar/auto_medic/disabled"
+msgid "Automatic Revive"
+msgstr "Reanimação Automática"
+
+msgctxt "actionbar/auto_medic/disabled/action"
+msgid "Auto-revive ENABLED"
+msgstr "Reanimação automática ATIVADA"
+
+msgctxt "actionbar/auto_medic/disabled/usage"
+msgid "Click this button to toggle automatic revive of nearby soldiers"
+msgstr "Clique para ativar/desativar a reanimação automática de soldados próximos"
+
+msgctxt "actionbar/auto_medic_place_flag"
+msgid "Place auto-revive location"
+msgstr "Definir local de reanimação automática"
+
+msgctxt "actionbar/auto_medic_place_flag/usage"
+msgid "After clicking this button, click and drag on the ground to scale a custom boundary for the medic to auto-revive soldiers."
+msgstr "Após clicar, arraste para definir uma área personalizada para o médico reanimar soldados automaticamente."
+
+msgctxt "actionbar/burn"
+msgid "Start Fire"
+msgstr "Iniciar Incêndio"
+
+msgctxt "actionbar/burn/usage"
+msgid "Click on the button, then choose a place to start a fire."
+msgstr "Clique no botão e escolha um local para iniciar um incêndio."
+
+msgctxt "actionbar/squad/call_ally"
+msgid "Recruit ally soldier"
+msgstr "Recrutar soldado aliado"
+
+msgctxt "actionbar/reverse_state/forced"
+msgid "Reverse Mode"
+msgstr "Modo de Marcha Ré"
+
+msgctxt "actionbar/reverse_state/forced/action"
+msgid "Reverse Automatic"
+msgstr "Marcha Ré Automática"
+
+msgctxt "actionbar/reverse_state/forced/usage"
+msgid "Vehicle will automatically choose to move in forward or reverse gears"
+msgstr "O veículo escolherá automaticamente entre marcha avante ou marcha ré"
+
+msgctxt "actionbar/reverse_state/auto"
+msgid "Reverse Mode"
+msgstr "Modo de Marcha Ré"
+
+msgctxt "actionbar/reverse_state/auto/action"
+msgid "Reverse Only"
+msgstr "Somente Marcha Ré"
+
+msgctxt "actionbar/reverse_state/auto/usage"
+msgid "Vehicle will only move in reverse"
+msgstr "O veículo só se moverá em marcha ré"

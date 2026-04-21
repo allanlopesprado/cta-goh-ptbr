@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (1942_11-ger_mamayev_kurgan)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/mission_buys_stay_flag"
+msgid "Reinforcement Menu:"
+msgstr "Menu de Reforços:"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/buys_on_after_flag"
+msgid "Units unlock permanently"
+msgstr "Unidades desbloqueadas permanentemente"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/name"
+msgid "Mamayev Kurgan"
+msgstr "Mamayev Kurgan"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/name_big"
+msgid "Mamayev Kurgan"
+msgstr "Mamayev Kurgan"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/story"
+msgid "The battle for Mamayev Kurgan - Battle of Stalingrad. Whoever is in control of Mamayev Kurgan has the advantage of controlling the entire battle. We must take this hill at any price!\n\nGoals:\n - Capture the fortified top of the hill.\n - Fend off counterattacks."
+msgstr "A batalha pelo Mamayev Kurgan - Batalha de Stalingrado. Quem controla o Mamayev Kurgan tem a vantagem de controlar toda a batalha. Devemos tomar esta colina a qualquer preço!\n\nObjetivos:\n - Capture o topo fortificado da colina.\n - Repila os contra-ataques."
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/place"
+msgid "Stalingrad"
+msgstr "Stalingrado"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/date"
+msgid "September, 1942"
+msgstr "Setembro de 1942"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/outro_completed"
+msgid "Mission accomplished! Now we have the fortress on the hill under control we will be able to direct the whole battle from here!"
+msgstr "Missão cumprida! Agora que temos a fortaleza no topo da colina sob controle, poderemos dirigir toda a batalha daqui!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/outro_failed"
+msgid "Mission failed; this attack will have to be repeated, we cannot allow the soviets keeping control of the hill. You will have to attack again at the first opportunity!"
+msgstr "Missão fracassada; este ataque terá de ser repetido, não podemos permitir que os soviéticos mantenham o controle da colina. Você terá de atacar novamente na primeira oportunidade!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/outro_failed_hq"
+msgid "Mission failure! - Enemy captured your HQ!"
+msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/mission_hq"
+msgid "You must hold your field HQ!"
+msgstr "Você deve manter o seu QG de campo!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/mission_attack"
+msgid "Capture the fortifications on the hilltop!"
+msgstr "Capture as fortificações no topo da colina!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/flag_capture_status"
+msgid "Your soldiers secured %1%/7 Soviet positions!"
+msgstr "Seus soldados asseguraram %1%/7 posições soviéticas!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/narrator_start0"
+msgid "Welcome to battle, Major! This is our field HQ, it must remain in our control!"
+msgstr "Bem-vindo à batalha, Major! Este é o nosso QG de campo, deve permanecer sob nosso controle!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/narrator_start1"
+msgid "Kamerad, you are tasked with assault of enemy defenses and taking the Mamayev Kurgan hill."
+msgstr "Kamerad, você está encarregado do assalto às defesas inimigas e da tomada da colina do Mamayev Kurgan."
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/narrator_start2"
+msgid "Whoever controls this hill, controls the battle of Stalingrad. You must gain control of the top!"
+msgstr "Quem controla esta colina, controla a Batalha de Stalingrado. Você deve conquistar o controle do topo!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/narrator_start3"
+msgid "Begin securing the objectives, meanwhile more reinforcements are being prepared at your disposal!"
+msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para o seu uso!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/allied_enemy_near_hq"
+msgid "Kameraden! Soviets are close to our Field HQ!"
+msgstr "Kameraden! Os soviéticos estão perto do nosso QG de campo!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/player_enemy_near_hq"
+msgid "We must hold the command post! There is no room for cowards and traitors!"
+msgstr "Devemos manter nosso posto de comando! Não há espaço para covardes e traidores!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/allied_enemyarty"
+msgid "Soviet artillery inbound from across the Volga river!"
+msgstr "Artilharia soviética chegando do outro lado do rio Volga!"
+
+msgctxt "mission/single/02-ger_skirmish/1942_11-ger_mamayev_kurgan/hq_bonus"
+msgid "Major! Now you can request an airstrike."
+msgstr "Major! Agora você pode solicitar um ataque aéreo."

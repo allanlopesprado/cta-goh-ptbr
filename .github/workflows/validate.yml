@@ -1,0 +1,53 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build-pak:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build pak
+        shell: pwsh
+        run: |
+          .\criar_pak.ps1
+          if (-not (Test-Path ".\dist\default.pak")) {
+            Write-Error "dist/default.pak was not generated"
+          }
+
+      - name: Validate pak structure
+        shell: pwsh
+        run: |
+          Add-Type -AssemblyName System.IO.Compression.FileSystem
+          $pak = ".\dist\default.pak"
+          $zip = [System.IO.Compression.ZipFile]::OpenRead($pak)
+          $entries = $zip.Entries
+
+          $hasRoot = ($entries | Where-Object { $_.FullName -eq "default/" }).Count -gt 0
+          $hasInfo = ($entries | Where-Object { $_.FullName -eq "default/localization.info" }).Count -gt 0
+          $potCount = ($entries | Where-Object { $_.FullName -like "default/interface/**/*.pot" }).Count
+
+          if (-not $hasRoot) {
+            $zip.Dispose()
+            Write-Error "Missing root entry default/"
+          }
+          if (-not $hasInfo) {
+            $zip.Dispose()
+            Write-Error "Missing default/localization.info"
+          }
+          if ($potCount -lt 300) {
+            $zip.Dispose()
+            Write-Error "Unexpected .pot count inside pak: $potCount"
+          }
+
+          $zip.Dispose()
+          Write-Host "PAK validation passed. POT files: $potCount"

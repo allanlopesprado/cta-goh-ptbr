@@ -1,0 +1,70 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: laststand\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+msgctxt "mp/game/evacuation"
+msgid "Last Stand"
+msgstr "Última Resistência"
+
+msgctxt "mp/game/evacuation/info"
+msgid "\nDefend your HQ against waves of enemies. \nHold out until time has expired! \nSecure key locations for additional resources!"
+msgstr "\nDefenda seu QG contra ondas de inimigos. \nAguentem até o tempo expirar! \nAssegure pontos-chave para obter recursos adicionais!"
+
+msgctxt "mp/game/evacuation/rules"
+msgid "Last Stand"
+msgstr "Última Resistência"
+
+msgctxt "mp/game/evacuation/objective"
+msgid "
+\n- Defend your Headquarters against waves of enemies until time has expired
+\n- Capture secondary objectives that appear randomly on the map to receive extra resources"
+msgstr "
+\n- Defenda seu Quartel-General contra ondas de inimigos até o tempo expirar
+\n- Capture objetivos secundários que aparecem aleatoriamente no mapa para receber recursos extras"
+
+msgctxt "mp/game/text/evacuation_wavetime"
+msgid "The %1%. enemy wave will arrive in"
+msgstr "A %1%.ª onda inimiga chegará em"
+
+msgctxt "mp/game/text/evacuation_supply_secured"
+msgid "You have secured the designated location, HQ has sent you additional resources."
+msgstr "Você assegurou o local designado. O QG enviou recursos adicionais."
+
+msgctxt "mp/game/text/evacuation_supply_enabled"
+msgid "Secondary objective available! Secure the designated location for additional resources!"
+msgstr "Objetivo secundário disponível! Assegure o local designado para obter recursos extras!"
+
+msgctxt "mp/settings/team#defenders"
+msgid "Team A Defenders"
+msgstr "Time A — Defensores"
+
+msgctxt "mp/settings/team#attackers"
+msgid "Team B Attackers"
+msgstr "Time B — Atacantes"
+
+msgctxt "mp/lobby/setup/settings.firstWaveTime"
+msgid "Start wave time"
+msgstr "Tempo até a primeira onda"
+
+msgctxt "mp/lobby/setup/settings.firstWaveTime#hint"
+msgid "Time in seconds between the start of the match and the first attack wave."
+msgstr "Tempo em segundos entre o início da partida e a primeira onda de ataque."
+
+msgctxt "mp/lobby/setup/settings.waveTime"
+msgid "Interval wave time"
+msgstr "Intervalo entre ondas"
+
+msgctxt "mp/lobby/setup/settings.waveTime#hint"
+msgid "Time in seconds between each attack wave after the first attack."
+msgstr "Tempo em segundos entre cada onda de ataque após a primeira."

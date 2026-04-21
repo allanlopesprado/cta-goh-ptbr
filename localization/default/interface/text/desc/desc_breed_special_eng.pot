@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finest Hour narrators\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/human/narrator/eng-arnhem-frost"
+msgid "Lt. Col. John Frost"
+msgstr "Ten. Cel. John Frost"
+
+msgctxt "desc/human/narrator/eng-arnhem-digby"
+msgid "Maj. Digby Tatham-Warter"
+msgstr "Maj. Digby Tatham-Warter"
+
+msgctxt "desc/human/narrator/eng-pegasus-howard"
+msgid "Maj. John Howard"
+msgstr "Maj. John Howard"
+
+msgctxt "desc/human/narrator/eng-pegasus-lovat"
+msgid "Brigadier Simon Fraser, Lord Lovat"
+msgstr "Brigadeiro Simon Fraser, Lord Lovat"
+
+msgctxt "desc/human/narrator/eng-pegasus-wood"
+msgid "Lt. David Wood"
+msgstr "Ten. David Wood"
+
+msgctxt "desc/human/narrator/eng-dyle-crosby"
+msgid "Cpl. Stuart Crosby"
+msgstr "Cabo Stuart Crosby"
+
+msgctxt "desc/human/narrator/eng-dyle-carter"
+msgid "Cpt. Robert Carter"
+msgstr "Cap. Robert Carter"
+
+msgctxt "desc/human/narrator/eng-dyle-williams"
+msgid "Lt. Mike Williams"
+msgstr "Ten. Mike Williams"
+
+msgctxt "desc/human/narrator/eng-dunkirk-ingram"
+msgid "Maj. Ollie Ingram"
+msgstr "Maj. Ollie Ingram"
+
+msgctxt "desc/human/narrator/eng-dunkirk-shaw"
+msgid "Lt. Ken Shaw"
+msgstr "Ten. Ken Shaw"
+
+msgctxt "desc/human/narrator/eng-dunkirk-greenwood"
+msgid "Sgt. Glen Greenwood"
+msgstr "Sgt. Glen Greenwood"
+
+msgctxt "desc/human/narrator/eng-varsity-para-officer"
+msgid "Cpt. Samuel Rowse"
+msgstr "Cap. Samuel Rowse"
+
+msgctxt "desc/human/narrator/eng-varsity-para-soldier"
+msgid "Sgt. Fletcher Shelton"
+msgstr "Sgt. Fletcher Shelton"
+
+msgctxt "desc/human/narrator/eng-varsity-tank-officer"
+msgid "Lt. Leonard Hall"
+msgstr "Ten. Leonard Hall"
+
+msgctxt "desc/human/narrator/eng-varsity-tank-soldier"
+msgid "Pvt. Ewan MacKenzie"
+msgstr "Sol. Ewan MacKenzie"
+
+msgctxt "desc/human/narrator/eng-goodwood-officer"
+msgid "Cpt. Conall MacSullivan"
+msgstr "Cap. Conall MacSullivan"
+
+msgctxt "desc/human/narrator/eng-goodwood-soldier"
+msgid "Sgt. Aiden O'Hara"
+msgstr "Sgt. Aiden O'Hara"
+
+msgctxt "desc/human/narrator/fra-civilian3"
+msgid "French Farmer"
+msgstr "Fazendeiro Francês"
+
+msgctxt "desc/human/narrator/ned-resistance"
+msgid "Dutch Resistance Leader"
+msgstr "Líder da Resistência Holandesa"
+
+msgctxt "desc/human/narrator/pol-oosterbek-officer"
+msgid "Lt. Jan Kowalczyk"
+msgstr "Ten. Jan Kowalczyk"
+
+msgctxt "desc/human/narrator/eng-oosterbek-urquhart"
+msgid "Maj. Gen Elliot Urquhart"
+msgstr "Gen. Maj. Elliot Urquhart"
+
+msgctxt "desc/human/narrator/eng-officer"
+msgid "Company Commander"
+msgstr "Comandante de Companhia"
+
+msgctxt "desc/human/narrator/eng-tank_commander"
+msgid "Guards AD. Tank Commander"
+msgstr "Guards AD. Comandante de Tanque"

@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1945_04_30_elbe)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/date"
+msgid "April 20th, 1945 · Drethem, Germany."
+msgstr "20 de abril de 1945 · Drethem, Alemanha."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/name"
+msgid "When will it end?"
+msgstr "Quando isso vai acabar?"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/name_big"
+msgid "When will it end?"
+msgstr "Quando isso vai acabar?"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator01"
+msgid "Bahrendorf is ours. Now, we must secure Drethem and the surrounding area before we can cross the river."
+msgstr "Bahrendorf é nossa. Agora, devemos assegurar Drethem e a área ao redor antes de podermos cruzar o rio."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator02"
+msgid "Let's send a patrol to Drethem to see if there are any enemy forces in the area."
+msgstr "Vamos enviar uma patrulha a Drethem para ver se há forças inimigas na área."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator04"
+msgid "We should take a look at that farmhouse as well."
+msgstr "Devemos dar uma olhada naquela casa rural também."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator03"
+msgid "Ambush!"
+msgstr "Emboscada!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian01"
+msgid "*Shit*, the Americans are here. Please! You must leave this place!"
+msgstr "*Merda*, os americanos estão aqui. Por favor! Vocês devem deixar este lugar!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator05"
+msgid "Why do you say that? What's got you worried?"
+msgstr "Por que diz isso? O que está preocupando você?"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian03"
+msgid "There are fanatical troops in the surrounding area. They are observing us. They are observing the whole area!"
+msgstr "Há tropas fanáticas na área ao redor. Elas estão nos observando. Estão observando toda a área!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian04"
+msgid "Junger Mann, we cannot be seen helping you, nor do we want to be caught in the middle of a fight. Not with them! Not here! *God Help Us!*"
+msgstr "Junger Mann, não podemos ser vistos ajudando vocês, nem queremos ser apanhados no meio de uma briga. Não com eles! Não aqui! *Deus nos ajude!*"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator06"
+msgid "Listen up, men! Set up a defensive perimeter around the village and stay alert! There could be more stubborn Krauts nearby."
+msgstr "Atenção, homens! Estabeleçam um perímetro defensivo ao redor da aldeia e fiquem alertas! Pode haver mais alemães obstinados por perto."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator07"
+msgid "We need to get these civilians out of harm's way. Let's use one of these trucks to evacuate them back to Bahrendorf."
+msgstr "Precisamos colocar esses civis em segurança. Vamos usar um desses caminhões para evacuá-los de volta a Bahrendorf."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator08"
+msgid "The civilians should be safe now!"
+msgstr "Os civis devem estar seguros agora!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator_civilian02"
+msgid "Thank you for saving us! But please, just turn around! As long as you can and spare your men! And spare my village! This war - it is already over."
+msgstr "Obrigado por nos salvar! Mas por favor, voltem! Enquanto puderem e poupem seus homens! E poupem minha aldeia! Esta guerra — já acabou."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator10"
+msgid "Move out! Secure the remaining areas on our side of the river!"
+msgstr "Partam! Assegurem as áreas restantes do nosso lado do rio!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/narrator09"
+msgid "Due to the poor weather conditions, we cannot use our aircraft, but we can use a nearby artillery battery to strike the enemy."
+msgstr "Devido às condições climáticas ruins, não podemos usar nossa aviação, mas podemos usar uma bateria de artilharia próxima para atacar o inimigo."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/outro_completed"
+msgid "At last! You have reached the Elbe, and the war is as good as over. Those civilians will be very thankful, and you’ve done a great job to master a challenging situation. You have gloriously completed a campaign that was long and difficult. Maybe High Command will finally send you for some R & R, or maybe you can even go home? Time will tell. One thing is sure: you have earned a reputation of legendary proportions. Excellent work, soldier!"
+msgstr "Finalmente! Você chegou ao Elba, e a guerra está praticamente acabada. Aqueles civis ficarão muito gratos, e você fez um excelente trabalho ao dominar uma situação desafiadora. Você concluiu gloriosamente uma campanha longa e difícil. Talvez o Alto Comando finalmente o envie para um descanso, ou talvez você possa até voltar para casa? O tempo dirá. Uma coisa é certa: você conquistou uma reputação de proporções lendárias. Excelente trabalho, soldado!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/outro_failed"
+msgid "That’s very unfortunate. This kind of failure hasn’t happened in a long time. But maybe the circumstances were too unusual and too complicated this time. Maybe that’s what caused your mistakes. Your record shows you should be able to get this right. You should try again!"
+msgstr "Que pena. Este tipo de fracasso não acontecia há muito tempo. Mas talvez as circunstâncias fossem incomuns e complicadas demais desta vez. Talvez isso tenha causado seus erros. Seu histórico mostra que você é capaz de acertar desta vez. Você deve tentar novamente!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/place"
+msgid "82nd Airborne Division \"All American\""
+msgstr "82ª Divisão Aerotransportada \"All American\""
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/reinforcements_artillery"
+msgid "Artillery barrage"
+msgstr "Barragem de artilharia"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/story"
+msgid "  After the Battle of the Bulge, and after helping to secure the Ruhr, the 82nd Airborne Division is driving into Germany. Anyone in their right mind can see that the war is ending. Yet, any Germans caught waving a white flag still run the risk of being executed on the spot.\n\n  The 82nd knows full well what might still happen as it enters the hamlet of Bahrendorf. Your unit advances to Drethem, which is on the Elbe River. After taking Drethem, crossing the river can be considered only if the area is secure.\n\n Good luck!"
+msgstr "  Após a Batalha das Ardenas, e após ajudar a assegurar o Ruhr, a 82ª Divisão Aerotransportada avança para dentro da Alemanha. Qualquer pessoa em sã consciência pode ver que a guerra está terminando. No entanto, alemães flagrados acenando bandeira branca ainda correm o risco de ser executados no local.\n\n  A 82ª sabe muito bem o que ainda pode acontecer ao entrar na aldeia de Bahrendorf. Sua unidade avança para Drethem, que fica no Rio Elba. Após tomar Drethem, a travessia do rio só poderá ser considerada se a área estiver assegurada.\n\n Boa sorte!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task01"
+msgid "Secure the village of Drethem."
+msgstr "Assegure a aldeia de Drethem."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task02"
+msgid "Check the nearby farmhouse."
+msgstr "Verifique a casa rural próxima."
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task03"
+msgid "Defend the village!"
+msgstr "Defenda a aldeia!"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task04"
+msgid "Evacuate the civilians to safety. (All 10 must survive)"
+msgstr "Evacue os civis para segurança. (Todos os 10 devem sobreviver)"
+
+msgctxt "mission/single/041-usa_airborne/1945_04_30_elbe/task05"
+msgid "Clear all the enemy resistance on this side of the Elbe River."
+msgstr "Elimine toda a resistência inimiga neste lado do Rio Elba."

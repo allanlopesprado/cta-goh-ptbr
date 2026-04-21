@@ -1,0 +1,489 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (menu_eng)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/hintbonus"
+msgid "Air bombing of the selected area"
+msgstr "Bombardeio aéreo da área selecionada"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/hint"
+msgid "Deploy your reinforcements on the battlefield"
+msgstr "Implante seus reforços no campo de batalha"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/hint_wp"
+msgid "Deploy your reinforcements on the battlefield.\n\nClick at the unit icon, select a destination on the map\nand click to send reinforcements to the selected area.\n\n"
+msgstr "Implante seus reforços no campo de batalha.\n\nClique no ícone da unidade, selecione um destino no mapa\ne clique para enviar os reforços para a área selecionada.\n\n"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/menu:1_1"
+msgid "Infantry"
+msgstr "Infantaria"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/menu:2_1"
+msgid "Support"
+msgstr "Apoio"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/menu:3_1"
+msgid "Vehicles"
+msgstr "Veículos"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/menu:4_1"
+msgid "Tanks"
+msgstr "Tanques"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/menu:back"
+msgid "Return to menu"
+msgstr "Voltar ao menu"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/airstrike"
+msgid "Air strike"
+msgstr "Ataque aéreo"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/crew"
+msgid "Tank crew"
+msgstr "Tripulação de tanque"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/artymen"
+msgid "Artillerymen"
+msgstr "Artilheiros"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sniper"
+msgid "Sniper"
+msgstr "Franco-atirador"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/officer"
+msgid "Officer"
+msgstr "Oficial"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/medic"
+msgid "Medic"
+msgstr "Médico"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/flamer"
+msgid "Flamer"
+msgstr "Lança-chamas"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/51piobuilder"
+msgid "51st pioneer builder"
+msgstr "Construtor Pioneiro do 51º"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/comgren"
+msgid "Commando grenadier"
+msgstr "Granadeiro Commando"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/signaller"
+msgid "Battery signaller"
+msgstr "Sinaleiro de Bateria"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/atsq"
+msgid "AT squad"
+msgstr "Esquadra AT"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/inf"
+msgid "Rifle squad"
+msgstr "Esquadra de Fuzileiros"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/51st_hi_sq"
+msgid "51st Highland squad"
+msgstr "Esquadra Highland do 51º"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/recon_sq"
+msgid "Recon squad"
+msgstr "Esquadra de Reconhecimento"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/rifle_heavy_sq"
+msgid "Heavy rifle squad"
+msgstr "Esquadra de Fuzileiros Pesados"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/pioneer_sq"
+msgid "Pioneer squad"
+msgstr "Esquadra Pioneiro"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/commando_sq"
+msgid "Commando squad"
+msgstr "Esquadra Commando"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/veteran_sq"
+msgid "Veteran squad"
+msgstr "Esquadra Veterana"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/guards_sq"
+msgid "Guards squad"
+msgstr "Esquadra da Guarda"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/motor_rifle_sq"
+msgid "Motor Rifle squad"
+msgstr "Esquadra de Fuzileiros Motorizados"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/crate"
+msgid "Supply Crate"
+msgstr "Caixa de Suprimentos"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/supply_truck"
+msgid "Supply Truck"
+msgstr "Caminhão de Suprimentos"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/fuel_truck"
+msgid "Fuel Truck"
+msgstr "Caminhão de Combustível"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/engineer_truck"
+msgid "Engineering Truck"
+msgstr "Caminhão de Engenharia"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/truck_and_armoredinf"
+msgid "Armored Infantry(halftrack)"
+msgstr "Infantaria Blindada (half-track)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/gdsmot_sq"
+msgid "Guards AD. Motorized(halftrack)"
+msgstr "Motorizada da Guarda (half-track)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/vickers_mg"
+msgid "Vickers Mk.I"
+msgstr "Vickers Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/humber_mk2"
+msgid "Humber Mk.II"
+msgstr "Humber Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/morris_cs9"
+msgid "Morris CS9"
+msgstr "Morris CS9"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/m15a1_cgmc"
+msgid "CGMC M15A1"
+msgstr "CGMC M15A1"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/universal_carrier_mk1"
+msgid "Universal Mk.I"
+msgstr "Universal Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/bren_carrier"
+msgid "Bren No.2"
+msgstr "Bren No.2"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/universal_carrier_mk1_2mg"
+msgid "Universal Mk.I (2mg)"
+msgstr "Universal Mk.I (2mg)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/mortar_carrier_mk2"
+msgid "2-inch Mortar Carrier Mk.II"
+msgstr "Porta-Morteiro de 2 pol. Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/matilda1"
+msgid "Matilda I"
+msgstr "Matilda I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/matilda2_mk1"
+msgid "Matilda II Mk.I"
+msgstr "Matilda II Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cruiser_mk1"
+msgid "Cruiser A9 Mk.I"
+msgstr "Cruiser A9 Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cruiser_mk2"
+msgid "Cruiser A10 Mk.II"
+msgstr "Cruiser A10 Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cruiser_mk3"
+msgid "Cruiser A13 Mk.I"
+msgstr "Cruiser A13 Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cruiser_mk4"
+msgid "Cruiser A13 Mk.II"
+msgstr "Cruiser A13 Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3_early"
+msgid "ML 3-inch Mortar (Early)"
+msgstr "ML 3-inch Morteiro (Inicial)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikon"
+msgid "Oerlikon No.2 UM"
+msgstr "Oerlikon No.2 UM"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikontow"
+msgid "Oerlikon No.2 UM (towed)"
+msgstr "Oerlikon No.2 UM (rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf2_early"
+msgid "QF 2-pdr (Early)"
+msgstr "QF 2-pdr (Inicial)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf2"
+msgid "QF 2-pdr"
+msgstr "QF 2-pdr"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/m16_mgmc"
+msgid "MGMC M16"
+msgstr "MGMC M16"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aa"
+msgid "QF 3.7-inch AA"
+msgstr "QF 3.7-inch AA"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aatow"
+msgid "QF 3.7-inch AA (towed)"
+msgstr "QF 3.7-inch AA (rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden"
+msgid "QF 4.5inch Howitzer"
+msgstr "QF 4.5inch Obuseiro"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden_tow"
+msgid "QF 4.5inch Howitzer(towed)"
+msgstr "QF 4.5inch Obuseiro (rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf40_early"
+msgid "QF 40mm Mk.III (Early)"
+msgstr "QF 40mm Mk.III (Inicial)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf40"
+msgid "QF 40mm Mk.III"
+msgstr "QF 40mm Mk.III"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/84mm_qf18_4p"
+msgid "QF 18-pdr Mk.IV"
+msgstr "QF 18-pdr Mk.IV"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/84mm_qf18_5p"
+msgid "QF 18-pdr Mk.V"
+msgstr "QF 18-pdr Mk.V"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_how_early"
+msgid "QF 3.7-inch Howitzer (Early)"
+msgstr "QF 3.7-inch Obuseiro (Inicial)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6"
+msgid "BL 6-inch 26-cwt Howitzer Mk.I"
+msgstr "BL 6-inch 26-cwt Obuseiro Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6_mk19"
+msgid "BL 6-Inch Mk. XIX Gun"
+msgstr "BL 6-Inch Mk. XIX Gun"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk1_4p"
+msgid "QF 25-pdr Mk.I"
+msgstr "QF 25-pdr Mk.I"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/203mm_bl_8"
+msgid "BL 8-inch Howitzer Mk.VIII"
+msgstr "BL 8-inch Obuseiro Mk.VIII"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/m18_hellcat"
+msgid "M18 'Hellcat'"
+msgstr "M18 'Hellcat'"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/daimler_dingo"
+msgid "Daimler Dingo Mk.II"
+msgstr "Daimler Dingo Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/daimler_dingo_early"
+msgid "Daimler Dingo Mk.II"
+msgstr "Daimler Dingo Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/mmg_carrier_mk2"
+msgid "Machine Gun Carrier Mk.II"
+msgstr "Porta-Metralhadora Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/universal_carrier_mk2"
+msgid "Universal Mk.II"
+msgstr "Universal Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/tetrarch_mk7"
+msgid "Light Mk.VII Tetrarch"
+msgstr "Tanque Leve Mk.VII Tetrarch"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/daimler_mk2"
+msgid "Daimler Mk.II"
+msgstr "Daimler Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/humber_mk4"
+msgid "Humber Mk.IV"
+msgstr "Humber Mk.IV"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/staghound_mkaa"
+msgid "Staghound AA"
+msgstr "Staghound AA"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/stuart5"
+msgid "Stuart V"
+msgstr "Stuart V"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/valentine_mk9"
+msgid "Valentine Mk.IX"
+msgstr "Valentine Mk.IX"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cromwell4"
+msgid "Cromwell Mk.IV"
+msgstr "Cromwell Mk.IV"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/cromwell6"
+msgid "Cromwell Mk.VI CS"
+msgstr "Cromwell Mk.VI CS"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/archer"
+msgid "Valentine 17-pdr Mk.I Archer"
+msgstr "Valentine 17-pdr Mk.I Archer"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman1c"
+msgid "Sherman Ic"
+msgstr "Sherman Ic"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman1c_hybrid"
+msgid "Sherman Ic Hybrid"
+msgstr "Sherman Ic Hybrid"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman2_late"
+msgid "Sherman II (Late)"
+msgstr "Sherman II (Late)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman5_mid"
+msgid "Sherman V"
+msgstr "Sherman V"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman5c"
+msgid "Sherman Vc"
+msgstr "Sherman Vc"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman5_crab"
+msgid "Sherman V 'Crab'"
+msgstr "Sherman V 'Crab'"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sherman1b"
+msgid "Sherman Ib"
+msgstr "Sherman Ib"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk3"
+msgid "Churchill Mk.III"
+msgstr "Churchill Mk.III"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk4"
+msgid "Churchill Mk.IV"
+msgstr "Churchill Mk.IV"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk4_qf75"
+msgid "Churchill Mk.IV (QF 75-pdr)"
+msgstr "Churchill Mk.IV (QF 75-pdr)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk7"
+msgid "Churchill Mk.VII"
+msgstr "Churchill Mk.VII"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk7_croc"
+msgid "Churchill Mk.VII 'Crocodile'"
+msgstr "Churchill Mk.VII 'Crocodile'"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk8"
+msgid "Churchill Mk.VIII"
+msgstr "Churchill Mk.VIII"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk4_avre"
+msgid "Churchill Mk.IV (AVRE)"
+msgstr "Churchill Mk.IV (AVRE)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/achilles_mk2"
+msgid "Achilles Mk.II"
+msgstr "Achilles Mk.II"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4_late"
+msgid "QF 6-pdr Mk.IV(late)"
+msgstr "QF 6-pdr Mk.IV(late)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4"
+msgid "QF 6-pdr Mk.IV"
+msgstr "QF 6-pdr Mk.IV"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/76mm_qf17_mid"
+msgid "QF 17-pdr"
+msgstr "QF 17-pdr"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/76mm_qf17_late"
+msgid "QF 17-pdr(late)"
+msgstr "QF 17-pdr(late)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3"
+msgid "ML 3-inch Mortar"
+msgstr "ML 3-inch Morteiro"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/107mm_ml4_2"
+msgid "ML 4.2-inch Mortar"
+msgstr "ML 4.2-inch Morteiro"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/76mm_land_mattress"
+msgid "Land Mattress"
+msgstr "Land Mattress"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/75mm_m1a1_eng"
+msgid "75mm M1A1 (M8 Carriage)"
+msgstr "75mm M1A1 (M8 Carriage)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk2_late"
+msgid "QF 25-pdr Mk.II (Late)"
+msgstr "QF 25-pdr Mk.II (Late)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5"
+msgid "BL 4.5-inch Mk.II Gun"
+msgstr "BL 4.5-inch Mk.II Gun"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5_mk1"
+msgid "BL 4.5-inch Mk.I Gun"
+msgstr "BL 4.5-inch Mk.I Gun"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/155mm_m1a1_longtom_eng"
+msgid "155mm Gun M1A1 'Long Tom'"
+msgstr "155mm Gun M1A1 'Long Tom'"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/183mm_bl_7_2_mk6"
+msgid "BL 7.2-inch Howitzer Mk.VI"
+msgstr "BL 7.2-inch Obuseiro Mk.VI"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_late"
+msgid "BL 5.5-inch Mk.III Gun"
+msgstr "BL 5.5-inch Mk.III Gun"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_latetow"
+msgid "BL 5.5-inch Mk.III(towed)"
+msgstr "BL 5.5-inch Mk.III(rebocado)"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/7thad_sq"
+msgid "7th AD. Section"
+msgstr "Seção da 7ª Div. Blindada"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/engineer_sq"
+msgid "Royal Engineer Sappers"
+msgstr "Sapadores Engenheiros Reais"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/roy_marine_sq"
+msgid "Royal Marines squad"
+msgstr "Esquadra de Fuzileiros Navais Reais"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/6thairborne_sq"
+msgid "6th Airlanding squad"
+msgstr "Esquadra Aeroterrestre do 6º"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/polpara_sq"
+msgid "1st Parachute squad"
+msgstr "1º Esquadra Paraquedista"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/gdseng_sq"
+msgid "Guards AD. Engineer squad"
+msgstr "Engenharia Blindada da Guarda"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/sas_sq"
+msgid "SAS squad"
+msgstr "Esquadra SAS"
+
+msgctxt "mission/single/0x-skirmish/menu_eng/vickers_mk6"
+msgid "Light Mk.VIb"
+msgstr "Tanque Leve Mk.VIb"

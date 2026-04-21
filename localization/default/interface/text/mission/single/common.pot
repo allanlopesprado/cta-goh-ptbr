@@ -1,0 +1,57 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (common)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/single/hint_repair"
+msgid "Engineers and tankmen are able to repair a vehicle, the latter with the exception of the vehicle's hull. To repair a damaged vehicle, press [Shift]+[R] or click the \"Repair\" button (the wrench) while a capable soldier or the defect vehicle is selected."
+msgstr "Engenheiros e tripulantes de tanques podem reparar um veículo, com exceção do casco do veículo para os últimos. Para reparar um veículo danificado, pressione [Shift]+[R] ou clique no botão \"Reparar\" (chave inglesa) enquanto um soldado capaz ou o veículo defeituoso estiver selecionado."
+
+msgctxt "mission/single/hint_bleeding_heal"
+msgid "Wounded soldiers with at least a veterancy of 1 can be revived for a short time before they bleed out. Select a medic and click the bleeding man. Medics and various elite soldiers have basic medic training indicated by the cross icon."
+msgstr "Soldados feridos com pelo menos 1 ponto de veterania podem ser reanimados por um curto período antes de sangrar até a morte. Selecione um médico e clique no soldado sangrando. Médicos e alguns soldados de elite possuem treinamento médico básico, indicado pelo ícone de cruz."
+
+msgctxt "mission/single/hint_hide_corpse"
+msgid "To pick up the corpse, click the Take icon (in the inventory actions icon group) and click the body. To put the corpse down, select any weapon, drag the body out of your soldier's inventory or click the Drop icon and specify a location."
+msgstr "Para pegar o cadáver, clique no ícone Pegar (no grupo de ações do inventário) e clique no corpo. Para largar o cadáver, selecione qualquer arma, arraste o corpo para fora do inventário do soldado ou clique no ícone Largar e especifique um local."
+
+msgctxt "mission/single/hint_newbuy"
+msgid "New reinforcement available!"
+msgstr "Novo reforço disponível!"
+
+msgctxt "mission/single/hint_newbuys"
+msgid "New reinforcements accessible!"
+msgstr "Novos reforços acessíveis!"
+
+msgctxt "mission/single/hint_resources"
+msgid "Resources grow over time. As you hold more points, this growth increases."
+msgstr "Os recursos crescem com o tempo. Quanto mais pontos você controlar, maior será o crescimento."
+
+msgctxt "mission/single/hint_killtanksmoney"
+msgid "Destroying enemy armor and cannons adds extra resource points as well."
+msgstr "Destruir blindados e canhões inimigos também adiciona pontos de recurso."
+
+msgctxt "mission/single/stealth_status_0"
+msgid "Your stealth status: <c(4fe736)>undetected"
+msgstr "Seu status de furtividade: <c(4fe736)>não detectado"
+
+msgctxt "mission/single/stealth_status_1"
+msgid "Your stealth status: <c(ffff00)>suspect"
+msgstr "Seu status de furtividade: <c(ffff00)>suspeito"
+
+msgctxt "mission/single/stealth_status_2"
+msgid "Your stealth status: <c(ff9900)>warning!"
+msgstr "Seu status de furtividade: <c(ff9900)>alerta!"
+
+msgctxt "mission/single/stealth_status_3"
+msgid "Your stealth status: <c(e74236)>exposed!"
+msgstr "Seu status de furtividade: <c(e74236)>exposto!"

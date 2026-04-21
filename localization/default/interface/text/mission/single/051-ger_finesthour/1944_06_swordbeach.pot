@@ -1,0 +1,126 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_swordbeach)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/01"
+msgid "Soldaten! The day has come... The Allies are storming the beaches of France. We have to stop them and push them back into the sea. Our future relies on you today."
+msgstr "Soldaten! O momento chegou... Os Aliados estão desembarcando nas praias da França. Precisamos detê-los e empurrá-los de volta ao mar. Nosso futuro depende de vocês hoje."
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/02"
+msgid "Their landing craft are in sight. Take one last minute to check your weapons and reinforce our weak points."
+msgstr "Suas embarcações de desembarque estão à vista. Aproveitem este último minuto para verificar as armas e reforçar nossos pontos fracos."
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/03"
+msgid "Another wave of landing craft incoming! Prepare yourself!"
+msgstr "Outra onda de embarcações de desembarque se aproximando! Preparem-se!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/04"
+msgid "The British broke through on our right flank! Our defence is collapsing! Quick, reinforce the right flank before they swarm the town!"
+msgstr "Os britânicos romperam o flanco direito! Nossa defesa está desmoronando! Rápido, reforcem o flanco direito antes que tomem a cidade!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/05"
+msgid "Soldaten! Our new objective is to take up positions inside the town and to stop the British from capturing it! You are allowed to tactically retreat to our second line!"
+msgstr "Soldaten! Nosso novo objetivo é tomar posições dentro da cidade e impedir que os britânicos a capturem! Vocês estão autorizados a recuar taticamente para nossa segunda linha!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/06"
+msgid "We are not getting any support. We are the last stand in this area. Soldaten! Fall back to the Widerstandsnest!"
+msgstr "Não estamos recebendo apoio algum. Somos a última linha de resistência desta área. Soldaten! Recuem para o Widerstandsnest!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/07"
+msgid "There are Panzerfausts and anti-tank grenades in these crates! Take as many as you need to destroy the tanks!"
+msgstr "Há Panzerfausts e granadas antitanque nestas caixas! Peguem o quanto precisarem para destruir os tanques!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/01"
+msgid "They are getting too close!"
+msgstr "Estão chegando perto demais!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/02"
+msgid "They are coming!"
+msgstr "Estão vindo!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/03"
+msgid "Verdammt! What is that coming our way?! They have amphibious Panzers?!"
+msgstr "Verdammt! O que é isso que vem aí?! Eles têm Panzer anfíbios?!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/04"
+msgid "Herr Kommandant! They are everywhere! And they've got even more tanks!"
+msgstr "Herr Kommandant! Estão por toda parte! E ainda têm mais tanques!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/05"
+msgid "There's an armored vehicle that has been damaged by an artillery shell. We should repair it and put it back in action."
+msgstr "Há um veículo blindado danificado por uma bomba de artilharia. Devemos repará-lo e colocá-lo de volta em ação."
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/06"
+msgid "Herr Kommandant! We're gonna get overrun! Where are our reinforcements?!"
+msgstr "Herr Kommandant! Vamos ser sobrepassados! Onde estão os nossos reforços?!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_01"
+msgid "Stop the invasion on the beach!"
+msgstr "Deter a invasão na praia!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_02"
+msgid "Do not let the enemy capture the town!"
+msgstr "Não deixar o inimigo capturar a cidade!"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_03"
+msgid "Hold the WN21! (at least 5 soldiers need to survive)"
+msgstr "Defender o WN21! (pelo menos 5 soldados precisam sobreviver)"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_secondary1"
+msgid "Repair the armored vehicle"
+msgstr "Reparar o veículo blindado"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_secret01"
+msgid "Secret objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_secret01_completed"
+msgid "Secret objective #1: Destroy an enemy tank on the beach using the detonator"
+msgstr "Objetivo Secreto nº 1: Destruir um tanque inimigo na praia usando o detonador"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[timers]/task_02"
+msgid "Hold the town"
+msgstr "Defender a cidade"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[timers]/task_03"
+msgid "Hold the WN21"
+msgstr "Defender o WN21"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/name"
+msgid "Sword Beach"
+msgstr "Sword Beach"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/name_big"
+msgid "Sword Beach"
+msgstr "Sword Beach"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/outro_completed"
+msgid "There was not much we could do. We have resisted as long as we could, at least in our sector. Let’s hope the entire Atlantikwall stood firm and did its job.
+"
+msgstr "Não havia muito que pudéssemos fazer. Resistimos o máximo que pudemos, ao menos em nosso setor. Esperemos que o Atlantikwall inteiro tenha se mantido firme e cumprido sua função."
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/outro_failed"
+msgid "The Atlantikwall isn't supposed to fail, but it did! This beach is now firmly in British hands, when we should have thrown them all back into the sea. What went wrong, and what are you going to do about it?"
+msgstr "O Atlantikwall não deveria falhar, mas falhou! Esta praia está firmemente nas mãos dos britânicos, quando deveríamos ter jogado todos de volta ao mar. O que correu mal, e o que você vai fazer a respeito?"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/date"
+msgid "June 6th, 1944 · Lion-sur-Mer, Normandy, France"
+msgstr "6 de junho de 1944 · Lion-sur-Mer, Normandia, França"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/place"
+msgid "716. Infanterie-Division"
+msgstr "716ª Divisão de Infantaria"
+
+msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/story"
+msgid "It’s the early morning of June 6th, 1944. In the coastal town of Lion-sur-Mer, everything seems quiet. The Normandy beaches are empty except for barbed wire and obstacles. The coastal fortifications have never fired a single shot in anger yet. \n\n After months of quiet anticipation and preparations, the silence is suddenly shattered by the horrifying sound of incoming shells, followed by a series of heavy explosions around your Atlantikwall position. Several allied cruisers have opened fire from a great distance, and the effect is devastating. Sound the alarm! \n\n Is this the moment you’ve been preparing for in the past months? \n\n Position WN 21, located just West of Lion-sur-Mer, gets pounded by a naval bombardment, and there’s nothing you can do about it, except wait until it’s over, and brace for the invasion."
+msgstr "É a madrugada de 6 de junho de 1944. Na cidade costeira de Lion-sur-Mer, tudo parece calmo. As praias da Normandia estão vazias, exceto por arame farpado e obstáculos. As fortificações costeiras ainda não dispararam um único tiro em combate.\n\n Depois de meses de silenciosa antecipação e preparativos, o silêncio é subitamente quebrado pelo assustador som de projéteis chegando, seguido de uma série de pesadas explosões ao redor de sua posição no Atlantikwall. Vários cruzadores aliados abriram fogo de grande distância — o efeito é devastador. Soe o alarme!\n\n Seria este o momento para o qual você se preparou nos últimos meses?\n\n A posição WN 21, localizada a oeste de Lion-sur-Mer, é bombardeada por uma barragem naval. Não há nada que você possa fazer, exceto aguardar que termine e se preparar para a invasão."

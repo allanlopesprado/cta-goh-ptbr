@@ -1,0 +1,29 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell (mutiplayer/conquest script errors_helper)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/multi/dcg_error01"
+msgid "Warning - dcg error 01: enemyid is above 4.(setting to 5)"
+msgstr "Aviso - erro dcg 01: enemyid acima de 4. (ajustando para 5)"
+
+msgctxt "mission/multi/dcg_error02"
+msgid "Warning - dcg error 02: user nation unknown.(defaulting to rus)"
+msgstr "Aviso - erro dcg 02: nação do usuário desconhecida. (definindo como rus)"
+
+msgctxt "mission/multi/dcg_error03"
+msgid "Warning - dcg error 03: bots_spawnside unknown.(defaulting user_side to map-a)"
+msgstr "Aviso - erro dcg 03: bots_spawnside desconhecido. (definindo user_side como map-a)"
+
+msgctxt "mission/multi/ev_error01"
+msgid "Warning - last_stand error 01: invalid Players:Composition.(bots scripting disabled)"
+msgstr "Aviso - erro last_stand 01: Players:Composition inválido. (script de bots desativado)"

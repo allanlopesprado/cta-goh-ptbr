@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (announcements)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "announce_finesthour"
+msgid "The long wait is almost over! The <c(f5d167)>COMMONWEALTH</c> is coming!\n\nA few words from the Prime Minister, Mr. Churchill:\n\nWhat General Weygand called the Battle of France is over. I expect that the Battle of Britain is about to begin. The whole fury and might of the enemy must very soon be turned on us.\n\n Let us therefore brace ourselves to our duties, and so bear ourselves that if the British Empire and its Commonwealth last for a thousand years, men will still say, <c(f5d167)>'THIS WAS THEIR FINEST HOUR'</c>."
+msgstr "A longa espera está quase terminando! A <c(f5d167)>COMMONWEALTH</c> está chegando!\n\nAlgumas palavras do Primeiro-Ministro, Sr. Churchill:\n\nO que o General Weygand chamou de Batalha da França acabou. Espero que a Batalha da Grã-Bretanha esteja prestes a começar. Toda a fúria e o poderio do inimigo deverão em breve ser voltados contra nós.\n\n Portanto, fortaleçamos nosso compromisso com os nossos deveres, e que nos portemos de tal maneira que, se o Império Britânico e a sua Commonwealth durarem mil anos, os homens ainda dirão: <c(f5d167)>'ESTE FOI O SEU MOMENTO MAIS GLORIOSO'</c>."
+
+msgctxt "button/wishlist"
+msgid "WISHLIST NOW!"
+msgstr "ADICIONAR À LISTA DE DESEJOS!"

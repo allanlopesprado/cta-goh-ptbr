@@ -1,0 +1,395 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_17_arnhem)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/name"
+msgid "Arnhem Hell"
+msgstr "O Inferno de Arnhem"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/name_big"
+msgid "Arnhem Hell"
+msgstr "O Inferno de Arnhem"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/outro_completed"
+msgid "You can be proud of yourself; you did everything you possibly could, despite the odds and poor planning on the part of supreme command. The Germans are duly impressed with your courage and tenacity. If only this operation would have been properly planned..."
+msgstr "Você pode se orgulhar; fez tudo o que era humanamente possível, apesar das adversidades e do planejamento deficiente do alto comando. Os alemães estão devidamente impressionados com sua coragem e tenacidade. Se ao menos esta operação tivesse sido devidamente planejada..."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/outro_failed"
+msgid "In the end, there was no way in which you could have held the position at the bridge. Lacking firepower and proper means of communication, plus very poor planning, this outcome was predictable; but your courage will be remembered."
+msgstr "No fim, não havia como você ter mantido a posição na ponte. Faltando potência de fogo e meios adequados de comunicação, além de um planejamento muito deficiente, este resultado era previsível — mas sua coragem será lembrada."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/date"
+msgid "September 17th, 1944 · Arnhem, Netherlands"
+msgstr "17 de setembro de 1944 · Arnhem, Holanda"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/place"
+msgid "1st Airborne Division"
+msgstr "1ª Divisão Aerotransportada"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/story"
+msgid "Operation Market Garden has begun!\n\nXXX Corps also started moving into the Netherlands from Belgium. They need to cover the distance to Arnhem in a matter of days if they are to relieve your unit at the Arnhem bridge.\n\nIn the Nijmegen area, the US paratroopers will also attempt to capture the bridges.\n\nYou have marched from your dropzone to Arnhem proper in the meantime. The Drop Zone, however, was miles away from the bridge you have to take; you have been marching east along the river for a while now, wondering why there isn't a single German to be seen.\n\nYour orders are to take the bridge and to hold it until XXX Corps arrives from the south. It’s a relatively simple objective, but it will be hard to achieve."
+msgstr "A Operação Market Garden começou!\n\nO XXX Corpo também começou a se mover para os Países Baixos a partir da Bélgica. Eles precisam cobrir a distância até Arnhem em poucos dias para socorrer sua unidade na ponte de Arnhem.\n\nNa área de Nijmegen, os paraquedistas americanos também tentarão capturar as pontes.\n\nVocê marchou da zona de lançamento até o centro de Arnhem nesse ínterim. A Zona de Lançamento, no entanto, ficava a quilômetros da ponte que você tem de tomar; você vem marchando a leste ao longo do rio há algum tempo, se perguntando por que não há um único alemão à vista.\n\nSuas ordens são tomar a ponte e mantê-la até que o XXX Corpo chegue pelo sul. É um objetivo relativamente simples, mas será difícil de cumprir."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_east"
+msgid "Jerry is attacking our positions at the Eastern side of the bridge!"
+msgstr "Jerry está atacando nossas posições no lado leste da ponte!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_west"
+msgid "Germans are pushing our positions at the Western side of the bridge!"
+msgstr "Os alemães estão pressionando nossas posições no lado oeste da ponte!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_district"
+msgid "They are attacking the residential area!"
+msgstr "Estão atacando a área residencial!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_factory"
+msgid "The enemy is attacking the factory facilities!"
+msgstr "O inimigo está atacando as instalações da fábrica!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_hq"
+msgid "Germans are attacking HQ! We cannot lose it!"
+msgstr "Os alemães estão atacando o QG! Não podemos perdê-lo!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_jeeppark"
+msgid "Positions at the jeep park are under attack!"
+msgstr "As posições no parque de jipes estão sob ataque!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_post"
+msgid "Our outpost is under attack!"
+msgstr "Nosso posto avançado está sob ataque!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_prison"
+msgid "Another attack, it’s on the prison building!"
+msgstr "Mais um ataque — é no edifício da prisão!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_workshop"
+msgid "The enemy is attacking our positions at the workshop facilities!"
+msgstr "O inimigo está atacando nossas posições nas instalações da oficina!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_b_east"
+msgid "We’ve lost our positions at the Eastern side of the bridge!"
+msgstr "Perdemos nossas posições no lado leste da ponte!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_b_west"
+msgid "The enemy has captured our positions at the Western side of the bridge!"
+msgstr "O inimigo capturou nossas posições no lado oeste da ponte!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_district"
+msgid "We’ve lost control over the residential area!"
+msgstr "Perdemos o controle da área residencial!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_factory"
+msgid "Germans have captured our positions at the factory facilities! Fall back to the Eastern side of the bridge!"
+msgstr "Os alemães capturaram nossas posições nas instalações da fábrica! Recue para o lado leste da ponte!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_hq"
+msgid "We’ve lost the HQ!"
+msgstr "Perdemos o QG!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_jeeppark"
+msgid "Germans have taken control over the jeep park!"
+msgstr "Os alemães tomaram o controle do parque de jipes!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_post"
+msgid "They have captured our outpost!"
+msgstr "Capturaram nosso posto avançado!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_prison"
+msgid "The prison building has been lost! Now they can strike right to our HQ!"
+msgstr "O edifício da prisão foi perdido! Agora podem atacar diretamente nosso QG!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/captured_workshop"
+msgid "Workshop facilities have been lost! Fall back to the prison building!"
+msgstr "As instalações da oficina foram perdidas! Recue para o edifício da prisão!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/6pd_lost_01"
+msgid "We just lost one of our 6-pounders!"
+msgstr "Acabamos de perder um de nossos canhões de 6 libras!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/6pd_lost_02"
+msgid "The enemy has destroyed another 6-pounder! We have only one left!"
+msgstr "O inimigo destruiu mais um canhão de 6 libras! Só nos resta um!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/6pd_lost_03"
+msgid "We’ve lost all our 6-pounders! Now we can count only on our PIATs!"
+msgstr "Perdemos todos os nossos canhões de 6 libras! Agora só podemos contar com nossos PIATs!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_01"
+msgid "We’ve made it. Come on men, the bridge is not that far by now. Let’s keep moving."
+msgstr "Conseguimos. Venham, rapazes; a ponte não está tão longe agora. Continuemos."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_02"
+msgid "Digby should have been here by now but I don’t think we can wait for him any longer. I’m afraid we will have to handle this ourselves."
+msgstr "Digby deveria ter chegado até aqui, mas acho que não podemos esperar mais. Temo que teremos de dar conta disso sozinhos."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_03"
+msgid "Hopefully, they will reach us by morning. Till then, we must control this bridge. Lucky for us, looks like most of the Germans have gone, so we shouldn’t meet tough resistance."
+msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. Com sorte para nós, parece que a maioria dos alemães foi embora — não devemos encontrar resistência forte."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_04"
+msgid "The bridge is ours now. Dig in, keep watch and get some rest. Digby had better show up by morning…"
+msgstr "A ponte é nossa agora. Entre em trincheiras, fique de guarda e descanse um pouco. Digby é melhor aparecer de manhã..."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/secret01_hint"
+msgid "This appears to be one of the tanks which attacked us during the day, let's see if it's still repairable."
+msgstr "Este parece ser um dos tanques que nos atacou durante o dia — vamos ver se ainda é reparável."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/enemy_see_pl_tank"
+msgid "Looks like we scared them to death with the tank."
+msgstr "Parece que os assustamos de morte com o tanque."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_01"
+msgid "Beautiful morning, Colonel Frost. I hope your kits are not completely soaked. The weather here is indeed not much different from our homelands."
+msgstr "Bela manhã, Coronel Frost. Espero que seus equipamentos não estejam completamente encharcados. O tempo por aqui realmente não é muito diferente do de nossa terra natal."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_02"
+msgid "Good to see you, Major. The kits are fine which I cannot say about our situation."
+msgstr "Bom vê-lo, Major. Os equipamentos estão bem — o que não posso dizer da nossa situação."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_03"
+msgid "Thirty Corps is moving much slower than we’ve expected even in the worst case scenario. It seems like we have to be ready for all possible German counterattacks."
+msgstr "O XXX Corpo está se movendo bem mais devagar do que esperávamos, mesmo no pior cenário. Parece que devemos estar preparados para todos os contra-ataques alemães possíveis."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_04"
+msgid "I believe we have everything we need, Colonel. The 6-pounders are rolling out, AT specialists looking for ambush positions."
+msgstr "Acredito que temos tudo o que precisamos, Coronel. Os canhões de 6 libras estão sendo posicionados; especialistas AT buscando posições de emboscada."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_05"
+msgid "This might not be enough, I am afraid. The enemy cannot afford to lose this bridge, otherwise their entire frontline will fall. They will throw everything they have."
+msgstr "Isso pode não ser suficiente, receio. O inimigo não pode se dar ao luxo de perder esta ponte — caso contrário, toda a linha de frente deles vai desmoronar. Eles jogarão tudo o que têm."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_06"
+msgid "This is going to be not easy for us but I am sure we will do it. The Corps has some delay but they are not that far from us. I suggest discussing the details in the HQ if you have any by far."
+msgstr "Não vai ser fácil, mas tenho certeza de que conseguiremos. O Corpo tem algum atraso, mas não está tão longe de nós. Sugiro discutirmos os detalhes no QG se você tiver um momento."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_01"
+msgid "Listen up, lads! We are to hold this bridge until the ground forces arrive. Could be hours, could be days. No one knows. The only thing I know is that Jerry has to take this bridge brick by brick if they want it."
+msgstr "Atenção, rapazes! Devemos manter esta ponte até que as forças terrestres cheguem. Podem ser horas; podem ser dias. Ninguém sabe. A única coisa que sei é que Jerry vai ter de tomar esta ponte tijolo por tijolo se quiserem."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_02"
+msgid "We’re completely surrounded, gentlemen. That simplifies our problem. Shoot everything that moves and expect enemy attacks from all directions."
+msgstr "Estamos completamente cercados, senhores. Isso simplifica nosso problema: atirem em tudo que se mover e esperem ataques inimigos de todas as direções."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_03"
+msgid "Remember, this is the job we have been trained for. The eyes of the world are upon us. Let us show them what the Airborne can do."
+msgstr "Lembrem-se: este é o trabalho para o qual fomos treinados. Os olhos do mundo estão sobre nós. Vamos mostrar o que os Aerotransportados podem fazer."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_04"
+msgid "I have always appreciated your attitude, Sir Digby. However let us not forget how short we are on supplies. Make every shot count and spare your ammo."
+msgstr "Sempre apreciei sua atitude, Sir Digby. No entanto, não vamos esquecer quão escassos estamos de suprimentos. Faça cada tiro valer a pena e poupe sua munição."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_05"
+msgid "In case you decide to take positions in houses… For God’s sake, please watch your head while going upstairs. These bloody stairs will take us out quicker than the Germans."
+msgstr "Caso decidam ocupar posições em casas... Pelo amor de Deus, cuidem da cabeça ao subir as escadas. Essas malditas escadas vão nos eliminar mais rápido do que os alemães."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/resistance_01"
+msgid "Goedemorgen friends, we are the local resistance fighters. Can’t miss the chance to throw occupants off our land."
+msgstr "Goedemorgen amigos; somos os combatentes da resistência local. Não podemos perder a oportunidade de expulsar os ocupantes de nossa terra."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/resistance_02"
+msgid "How can we assist you? We know every corner of this city and could help you either on the battlefield or go look for some ammunition and weapons."
+msgstr "Como podemos ajudá-los? Conhecemos cada canto desta cidade e poderíamos ajudá-los tanto no campo de batalha quanto procurando munição e armas."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/resistance_ammo"
+msgid "Got it. My people will come back soon, you will not regret. We won’t let you down."
+msgstr "Entendido. Meu pessoal voltará em breve; você não vai se arrepender. Não vamos decepcioná-los."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/resistance_joined"
+msgid "It’s an honor for us to fight back the occupiers together with you. We won’t let you down."
+msgstr "É uma honra para nós lutar contra os ocupantes ao lado de vocês. Não vamos decepcioná-los."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_artstrike_start"
+msgid "They are firing artillery at our positions! Take cover at our defensive positions!"
+msgstr "Estão bombardeando nossas posições com artilharia! Abriguem-se em nossas posições defensivas!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_artstrike_done"
+msgid "We haven't got much time, make sure we are ready to meet the German forces very soon."
+msgstr "Não temos muito tempo; certifique-se de que estamos prontos para enfrentar as forças alemãs em breve."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_01"
+msgid "Is that all? I expected something more serious, not a few token infantrymen."
+msgstr "É só isso? Esperava algo mais grave — não meia dúzia de infantes simbólicos."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_02"
+msgid "Those poor sods must’ve been probing our defenses."
+msgstr "Esses pobres coitados devem ter estado sondando nossas defesas."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_03"
+msgid "Gentlemen, I’ve received a spot of good news. Thirty Corps and the American 82nd are advancing towards the bridge at Nijmegen. We might get relief even sooner as we thought."
+msgstr "Senhores, recebi uma boa notícia. O XXX Corpo e a 82ª americana estão avançando em direção à ponte em Nijmegen. Podemos receber reforços ainda mais cedo do que pensávamos."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_04"
+msgid "Sir, if I'm correct, then the ground forces will be here in a couple hours."
+msgstr "Senhor, se estiver correto, as forças terrestres estarão aqui em algumas horas."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_05"
+msgid "The whole show hangs on what we do today. If we make it, we might just wrap up the war by Christmas. Think of the lives saved."
+msgstr "Tudo depende do que fazemos hoje. Se conseguirmos, talvez possamos encerrar a guerra antes do Natal. Pense nas vidas salvas."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_01"
+msgid "Everyone, take cover in basements! They are rolling out rocket artillery!"
+msgstr "Todos, para os porões! Estão lançando foguetes Nebelwerfer!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_02"
+msgid "I have one of my best squads on the other side. They’ll do their best."
+msgstr "Tenho um dos meus melhores esquadrões do outro lado. Farão o melhor que puderem."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_03"
+msgid "Let’s be very careful, these are elite troops. First, we have to distract them before they fire."
+msgstr "Sejamos muito cuidadosos; estas são tropas de elite. Primeiro, temos de distraí-los antes que abram fogo."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_04"
+msgid "Look, the Germans have left some explosive charges here. That’s exactly what we need."
+msgstr "Olha, os alemães deixaram algumas cargas explosivas aqui. É exatamente o que precisamos."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_05"
+msgid "Fantastic job, people. We should get the hell out of here before their reinforcements arrive."
+msgstr "Trabalho fantástico, pessoal. Devemos sair daqui antes que seus reforços cheguem."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part04_01"
+msgid "I cannot believe they made it… Now all the odds to hold this city are on our side!"
+msgstr "Não posso acreditar que conseguiram... Agora todas as possibilidades de manter esta cidade estão do nosso lado!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part04_02"
+msgid "Seems like the Corps is stuck on its way. We have to hold a little longer."
+msgstr "Parece que o Corpo está preso no caminho. Temos de aguentar um pouco mais."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part04_03"
+msgid "Damn, I’ve been hit!"
+msgstr "Merda, fui atingido!"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part04_ammo"
+msgid "The resistance has brought us this truck. They said to take a look inside."
+msgstr "A resistência trouxe este caminhão. Disseram para dar uma olhada dentro."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/outro_01"
+msgid "They will not come for us, will they?"
+msgstr "Eles não virão por nós, virão?"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/outro_02"
+msgid "Tell them to lower their weapons… Our fight is over…"
+msgstr "Mandem-lhes dizer para baixar as armas... Nossa luta acabou..."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/01_bridge"
+msgid "Secure the bridge"
+msgstr "Assegure a ponte"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/02_hq"
+msgid "Hold the HQ building at all costs"
+msgstr "Mantenha o edifício do QG a todo custo"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/03_nebelwerfer"
+msgid "Destroy the Nebelwerfer battery"
+msgstr "Destrua a bateria de Nebelwerfer"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt01_workshop"
+msgid "Hold the workshop facilities"
+msgstr "Mantenha as instalações da oficina"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt02_prison"
+msgid "Hold the prison building"
+msgstr "Mantenha o edifício da prisão"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt03_jeeppark"
+msgid "Hold the jeep park"
+msgstr "Mantenha o parque de jipes"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt04_b_east"
+msgid "Hold the eastern bridge"
+msgstr "Mantenha a ponte leste"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt04_b_west"
+msgid "Hold the western bridge"
+msgstr "Mantenha a ponte oeste"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt06_district"
+msgid "Hold the residential area"
+msgstr "Mantenha a área residencial"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt07_factory"
+msgid "Hold the factory facilities"
+msgstr "Mantenha as instalações da fábrica"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt08_post"
+msgid "Hold the outpost"
+msgstr "Mantenha o posto avançado"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt_resistance_ammo_completed"
+msgid "I'll take two - Ask the Dutch resistance squad to find more ammunition"
+msgstr "Fico com dois - Peça aa esquadra de resistência holandês para encontrar mais munição"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt_resistance_recruit_completed"
+msgid "Doomed Tea Party - Recruit the Dutch resistance squad"
+msgstr "Festa do Chá Condenada - Recrute a esquadra de resistência holandês"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/secret01"
+msgid "Secret objective #1"
+msgstr "Objetivo Secreto nº 1"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/secret01_completed"
+msgid "Secret objective: Why die for Arnhem? - Make German garrison retreat without fight"
+msgstr "Objetivo Secreto: Por que morrer por Arnhem? - Faça a guarnição alemã recuar sem combate"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/secret02"
+msgid "Secret objective #2"
+msgstr "Objetivo Secreto nº 2"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/secret02_completed"
+msgid "Secret objective: Career shift - After loosing all AT guns, give a PIAT to any of your former AT gun crew"
+msgstr "Objetivo Secreto: Mudança de carreira - Após perder todos os canhões AT, dê um PIAT a qualquer ex-artilheiro AT"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/loose_nebelwerfer"
+msgid "You did not destroy the artillery in time."
+msgstr "Você não destruiu a artilharia a tempo."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/loose_units_lost"
+msgid "You lost all your units."
+msgstr "Você perdeu todas as suas unidades."
+
+#, boost-format
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/obj_progress_reinf"
+msgid "Allied forces are %1% km away"
+msgstr "As forças aliadas estão a %1% km de distância"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_ammo"
+msgid "Search for ammo"
+msgstr "Procure munição"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_ammo_hint"
+msgid "Send the Dutch Resistance squad to search for ammunition. They will come back later with their findings."
+msgstr "Envie a esquadra de Resistência Holandesa para procurar munição. Eles voltarão mais tarde com suas descobertas."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_join"
+msgid "Join us"
+msgstr "Junte-se a nós"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_join_hint"
+msgid "The Dutch Resistance squad becomes playable for the rest of this mission."
+msgstr "A esquadra de Resistência Holandesa fica jogável pelo resto desta missão."
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_skip_preparation"
+msgid "Skip preparation"
+msgstr "Pular preparação"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/timer_nebelwerfer"
+msgid "Distract artillery men before they fire"
+msgstr "Distraia os artilheiros antes que disparem"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/timer_preparation"
+msgid "Arrival of German mechanized forces"
+msgstr "Chegada das forças mecanizadas alemãs"
+
+msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/hint_choice"
+msgid "The Dutch Resistance squad is willing to help you. Choose one of the options in the <c(B29557)>reinforcements tab</c>."
+msgstr "A esquadra de Resistência Holandesa está disposto a ajudá-los. Escolha uma das opções na <c(B29557)>aba de reforços</c>."

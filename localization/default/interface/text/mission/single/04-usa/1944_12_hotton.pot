@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Editor (Dev) (1944_12_hotton)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/date"
+msgid "December 21-25, 1944 · Marcouray, Ardennes, Belgium"
+msgstr "21–25 de dezembro de 1944 · Marcouray, Ardenas, Bélgica"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/doctrine_allround"
+msgid "Doctrine: All-Round"
+msgstr "Doutrina: Versátil"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/doctrine_defensive"
+msgid "Doctrine: Defensive"
+msgstr "Doutrina: Defensiva"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/doctrine_irregular"
+msgid "Doctrine: Irregular"
+msgstr "Doutrina: Irregular"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/doctrine_offensive"
+msgid "Doctrine: Offensive"
+msgstr "Doutrina: Ofensiva"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/mission_option_select1"
+msgid "Select your Doctrine for the mission:"
+msgstr "Selecione sua Doutrina para a missão:"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/fail_bridge"
+msgid "German armour crossed the bridge. You had strict orders to prevent that."
+msgstr "Blindados alemães cruzaram a ponte. Você tinha ordens estritas para impedir isso."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/fail_stretchers"
+msgid "You lost too many stretchers with wounded soldiers!"
+msgstr "Você perdeu macas demais com soldados feridos!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/name"
+msgid "Christmas Trouble"
+msgstr "Problemas no Natal"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/name_big"
+msgid "Christmas Trouble"
+msgstr "Problemas no Natal"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/01"
+msgid "Christ! The weather is god damn attrocious! It seems we're getting screwed both in combat and when we're in reserve..."
+msgstr "Caramba! O tempo está maldito horrível! Parece que estamos sendo penalizados tanto no combate quanto quando estamos na reserva..."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/02"
+msgid "Calm down Soldier. The Krauts here? How is that even possible?"
+msgstr "Calma, soldado. Os alemães aqui? Como isso é possível?"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/03"
+msgid "Get ready, everyone! Take your positions and hold this checkpoint!"
+msgstr "Preparem-se, todos! Tomem suas posições e segurem este posto de controle!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/04"
+msgid "Enemy tanks! God damn it! We only have bazookas to deal with them, make the best of it!"
+msgstr "Tanques inimigos! Maldição! Só temos bazucas para lidar com eles — tire o máximo proveito!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/05"
+msgid "Panthers! Bloody Panthers! "
+msgstr "Panthers! Malditos Panthers!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/06"
+msgid "You there! What the hell are you doing?"
+msgstr "Você aí! O que diabos está fazendo?"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/07"
+msgid "Your tank's broke. Why on earth don't you fix it? We could definitely use it, you know?"
+msgstr "Seu tanque está quebrado. Por que diabos não o conserta? Definitivamente poderíamos usá-lo, sabe?"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/08"
+msgid "Useless bunch of drunks! My men will take care of it."
+msgstr "Bando inútil de bêbados! Meus homens cuidarão disso."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/09"
+msgid "We are unable to hold the Germans in the open! Fall back to HQ! We'll get those Panthers with bazookas in close quarters combat."
+msgstr "Não conseguimos conter os alemães a céu aberto! Recuem ao QG! Pegaremos aqueles Panthers com bazucas em combate aproximado."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/10"
+msgid "We also need to evacuate our wounded. I order you to transport the stretchers to the other side of the river, where the Germans will be kept at bay."
+msgstr "Também precisamos evacuar nossos feridos. Ordeno que transporte as macas para o outro lado do rio, onde os alemães serão mantidos à distância."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/11"
+msgid "We've managed to keep the Germans back but they've overrun the town and we cannot match their numbers. Our only chance is to fall back and concentrate all our forces in defending the bridge. Get it done, Soldiers!"
+msgstr "Conseguimos manter os alemães afastados, mas eles tomaram a cidade e não podemos igualar seus números. Nossa única chance é recuar e concentrar todas as forças na defesa da ponte. Façam isso, soldados!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/12"
+msgid "We have a Slugger ready to shred through some Kraut armor. Give them hell, Soldiers! Show them how our 90's roll."
+msgstr "Temos um Slugger pronto para destruir a blindagem alemã. Mande-os para o inferno, soldados! Mostre como nosso 90mm funciona."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/13"
+msgid "The Krauts understand that they are sitting ducks against our bazookas and grenades the moment they stand still. They plan to overwhelm us and break right through our lines without stopping. Do not let that happen. Not a SINGLE german tank is to cross this bridge. Understood?"
+msgstr "Os alemães entendem que são alvos fáceis para nossas bazucas e granadas no momento em que param. Planejam nos sobrepassar e romper nossas linhas sem parar. Não deixe isso acontecer. Nem UM ÚNICO tanque alemão deve cruzar esta ponte. Entendido?"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/14"
+msgid "Well done Soldiers. The Germans are now on the defensive. That will show them!"
+msgstr "Muito bem, soldados. Os alemães agora estão na defensiva. Isso vai lhes ensinar!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/15"
+msgid "Alright Gentlemen. We managed to mobilise our reserves. With these reinforcements, I order you to take back Hotton from the Germans. The documents and supplies in our HQ are too valuable to let the Krauts have em."
+msgstr "Certo, senhores. Conseguimos mobilizar nossas reservas. Com esses reforços, ordeno que retome Hotton dos alemães. Os documentos e suprimentos em nosso QG são valiosos demais para deixar os alemães terem."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/16"
+msgid "The Boches brought in heavy artillery! That's gonna throw in a wrench in our plans! Make sure to advance during the reloads between salvos."
+msgstr "Os Boches trouxeram artilharia pesada! Isso vai atrapalhar nossos planos! Certifique-se de avançar durante as recargas entre as salvas."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator/scout/01"
+msgid "Germans! Germans! The damn Krauts are coming in half-tracks and armor!"
+msgstr "Alemães! Alemães! Os malditos alemães estão chegando em half-tracks e blindados!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator2/01"
+msgid "We're eating cheese and drinking beer."
+msgstr "Estamos comendo queijo e bebendo cerveja."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/narrator2/02"
+msgid "Oh, man. We only ride'em, we don't know what makes 'em work..."
+msgstr "Nossa, cara. Só os dirigimos — não sabemos o que os faz funcionar..."
+
+#, boost-format
+
+msgctxt "mission/single/04-usa/1944_12_hotton/obj3_progress"
+msgid "%1% out of at least 10 stretchers evacuated to the other side of the river."
+msgstr "%1% de pelo menos 10 macas evacuadas para o outro lado do rio."
+
+msgctxt "mission/single/04-usa/1944_12_hotton/outro_completed"
+msgid "Excellent work soldier! This victory is evidence of your bravery and tenacity in the face of overwhelming odds. You certainly made a favorable impression on your superiors today. We will report this victory to General Rose’s HQ immediately. Well done!"
+msgstr "Excelente trabalho, soldado! Esta vitória é evidência de sua coragem e tenacidade diante de odds avassaladoras. Você certamente causou uma impressão favorável em seus superiores hoje. Reportaremos esta vitória imediatamente ao QG do General Rose. Muito bem feito!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/outro_failed"
+msgid "This is not going to go down well with General Rose. There is only one thing you can do, and that is to try again and try something different this time. We can’t allow this to happen!"
+msgstr "Isso não vai agradar ao General Rose. Há apenas uma coisa que você pode fazer: tentar novamente e usar uma abordagem diferente desta vez. Não podemos deixar isso acontecer!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/place"
+msgid "3rd Armored Division 'Spearhead'"
+msgstr "3ª Divisão Blindada 'Spearhead'"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/story"
+msgid " December 1944. After 6 months of advancing since D-Day, you and everybody else got a big surprise a couple of days ago. In appalling winter weather, the Germans have launched a massive counteroffensive in the Ardennes region! They are pushing into Belgium, with orders to take Antwerp. Our commanders have sent out task forces on a number of roads that lead to the southwest to recon and intercept the German Kampfgruppen. We have no information on the whereabouts of the task forces, or those of the Germans.\n\n In this mission, you will be in charge of the main road checkpoint, close to our forward HQ. Our HQ and our field hospital have been set up in the town. Set up a defense perimeter around the roadblocks to deny access to the town. Get your men to dig in and await further orders.\n\nGood luck!"
+msgstr " Dezembro de 1944. Após 6 meses avançando desde o Dia D, você e todos os outros receberam uma grande surpresa há alguns dias. Em condições de inverno horríveis, os alemães lançaram uma enorme contraofensiva na região das Ardenas! Estão avançando para a Bélgica com ordens de tomar Antuérpia. Nossos comandantes enviaram forças-tarefa por diversas estradas que levam ao sudoeste para reconhecer e interceptar os Kampfgruppen alemães. Não temos informações sobre o paradeiro das forças-tarefa, nem dos alemães.\n\nNesta missão, você estará encarregado do posto de controle na estrada principal, perto de nosso QG avançado. Nosso QG e nosso hospital de campanha foram instalados na cidade. Monte um perímetro defensivo ao redor dos bloqueios para negar acesso à cidade. Faça seus homens se entrincheirarem e aguardem novas ordens.\n\nBoa sorte!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task1"
+msgid "Defend the Checkpoint"
+msgstr "Defenda o Posto de Controle"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task2"
+msgid "Defend the Checkpoint"
+msgstr "Defenda o Posto de Controle"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task3"
+msgid "Defend the HQ"
+msgstr "Defenda o QG"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task4"
+msgid "Evacuate the wounded from the field hospital"
+msgstr "Evacue os feridos do hospital de campanha"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task5"
+msgid "Defend the bridge and don't let the germans through"
+msgstr "Defenda a ponte e não deixe os alemães passarem"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task6"
+msgid "Retake the town"
+msgstr "Retome a cidade"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task_sec1"
+msgid "Secret objective"
+msgstr "Objetivo Secreto"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/task_sec1c"
+msgid "Secret Objective: Repair the stranded tank!"
+msgstr "Objetivo Secreto: Repare o tanque encalhado!"
+
+msgctxt "mission/single/04-usa/1944_12_hotton/timer"
+msgid "Defend the HQ for:"
+msgstr "Defender o QG por:"
