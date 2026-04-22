@@ -18,7 +18,7 @@ msgstr "Silêncio... Devemos estar perto das linhas britânicas. Eles podem ouvi
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/02"
 msgid "Take them down quietly if possible. If they're here it means we're right next to the village."
-msgstr "Eliminem-nos em silêncio se possível. Se estão aqui, significa que estamos bem perto do vilarejo."
+msgstr "Eliminem-nos em silêncio, se possível. Se estão aqui, é sinal de que estamos bem próximos do vilarejo."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/03"
 msgid "Our objective is to secure Le Tôt - the village right next to us. After that, we will set up a bridgehead so our main force can arrive safely."
@@ -34,11 +34,11 @@ msgstr "Nossa força principal chegou. Agora estamos prontos para empurrar os re
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/06"
 msgid "With enemy artillery observers watching our every move we cannot move out our tanks in the open. We need to send a small squad to eliminate the enemy forward observers and their radio operator."
-msgstr "Com os observadores de artilharia inimigos monitorando cada um de nossos movimentos, não podemos avançar com os tanques no campo aberto. Precisamos enviar um pequena esquadra para eliminar os observadores avançados inimigos e seu operador de rádio."
+msgstr "Com os observadores de artilharia inimigos monitorando cada um de nossos movimentos, não podemos avançar com os tanques em campo aberto. Precisamos enviar um pequeno grupo para eliminar os observadores avançados inimigos e seu operador de rádio."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/07"
 msgid "After we make the enemy destroyer blind we will be able to use our tanks to neutralize enemy AA battery and call in our planes."
-msgstr "Depois de deixarmos o contratorpedeiro inimigo sem visão, poderemos usar nossos tanques para neutralizar a bateria antiaérea inimiga e chamar nossas aeronaves."
+msgstr "Depois de cegarmos o contratorpedeiro inimigo, poderemos usar nossos tanques para neutralizar a bateria antiaérea inimiga e chamar nossas aeronaves."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/08"
 msgid "Gute arbeit Soldaten! I'm giving you control of our armored vehicles and tanks."
@@ -50,7 +50,7 @@ msgstr "Bateria antiaérea inimiga neutralizada. A Luftwaffe está pronta para l
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/10"
 msgid "Our howitzer battery has just arrived. You also have access to airstrikes now. Use both of them to sink that floating piece of junk!"
-msgstr "Nossa bateria de obuseiros acabou de chegar. Você também tem acesso a ataques aéreos agora. Use ambos para afundar aquele pedaço de ferrugem flutuante!"
+msgstr "Nossa bateria de obuseiros acabou de chegar. Agora você também tem acesso a ataques aéreos. Use ambos para afundar aquele pedaço de ferrugem flutuante!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/11"
 msgid "Good hit! The destroyer is neutralized!"
@@ -58,7 +58,7 @@ msgstr "Acerto certeiro! O contratorpedeiro foi neutralizado!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/12"
 msgid "Soldaten! Time for the last push! Let's throw the Tommies off the cliff! Their morale is low but they still have some dangerous units in their reserves."
-msgstr "Soldaten! Hora do último avanço! Joguemos os Tommies da falésia! O moral deles está baixo, mas ainda têm algumas unidades perigosas em reserva."
+msgstr "Soldaten! Hora do último avanço! Vamos jogar os Tommies da falésia! O moral deles está baixo, mas ainda têm algumas unidades perigosas em reserva."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_officer/13"
 msgid "With the destroyer neutralized, the British soldiers had no chance of escaping! Secure their weapons, we've won another battle!"
@@ -66,7 +66,7 @@ msgstr "Com o contratorpedeiro neutralizado, os soldados britânicos não tivera
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_soldier/01"
 msgid "Scheiße... It's so foggy today. I can't see a thing."
-msgstr "Scheiße... Hoje está muito nevoeiro. Não estou enxergando nada."
+msgstr "Scheiße... Hoje está muito nevoeiro. Não enxergo nada."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[narrators]/ger_narrator_soldier/02"
 msgid "Halt! Two Tommies ahead! Verdammt..."
@@ -110,7 +110,7 @@ msgstr "Ataque aéreo"
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[tasks]/task01"
 msgid "Capture Le Tôt before the main force can arrive."
-msgstr "Capturar Le Tôt antes que a força principal chegue."
+msgstr "Capture Le Tôt antes que a força principal chegue."
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/[tasks]/task02"
 msgid "Eliminate enemy forward observers and radio operator to gain control of the tanks!"
@@ -162,4 +162,4 @@ msgstr "7ª Divisão Panzer"
 
 msgctxt "mission/single/051-ger_finesthour/1940_06_st_valery_en_caux/story"
 msgid "The 7th Panzer, a.k.a. The “Ghost Division” passes Rouen on the 9th of June and makes for the coast the next day. Rushing to reach the coast, it has now closed the encirclement, successfully blocking the way out for several Allied divisions that are currently positioned in Valéry-en-Caux. \n\n Once more, we have successfully encircled an allied army - or what’s left of it.\n\n We can’t allow a second Dunkirk; you have to destroy the enemy before he has a chance to escape. Take the lead and advance immediately!"
-msgstr "A 7ª Panzer, também conhecida como a 'Divisão Fantasma', passa por Rouen em 9 de junho e avança para a costa no dia seguinte. Correndo para alcançar o litoral, ela fechou o cerco e bloqueou a retirada de várias divisões aliadas posicionadas em Valéry-en-Caux.\n\n Mais uma vez, cercamos com sucesso um exército aliado — ou o que restou dele.\n\n Não podemos permitir um segundo Dunquerque; você precisa destruir o inimigo antes que ele tenha chance de escapar. Tome a frente e avance imediatamente!"
+msgstr "A 7ª Panzer, também conhecida como 'Divisão Fantasma', passou por Rouen em 9 de junho e avançou para a costa no dia seguinte. Correndo para alcançar o litoral, fechou o cerco e bloqueou a retirada de várias divisões aliadas posicionadas em Valéry-en-Caux.\n\n Mais uma vez, cercamos com sucesso um exército aliado — ou o que restou dele.\n\n Não podemos permitir um segundo Dunquerque; você precisa destruir o inimigo antes que ele tenha chance de escapar. Tome a frente e avance imediatamente!"

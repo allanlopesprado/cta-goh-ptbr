@@ -30,7 +30,7 @@ msgstr "Os britânicos romperam o flanco direito! Nossa defesa está desmoronand
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/05"
 msgid "Soldaten! Our new objective is to take up positions inside the town and to stop the British from capturing it! You are allowed to tactically retreat to our second line!"
-msgstr "Soldaten! Nosso novo objetivo é tomar posições dentro da cidade e impedir que os britânicos a capturem! Vocês estão autorizados a recuar taticamente para nossa segunda linha!"
+msgstr "Soldaten! Nosso novo objetivo é tomar posições dentro da cidade e impedir que os britânicos a capturem! Vocês têm permissão para recuar taticamente para a segunda linha!"
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/06"
 msgid "We are not getting any support. We are the last stand in this area. Soldaten! Fall back to the Widerstandsnest!"
@@ -38,7 +38,7 @@ msgstr "Não estamos recebendo apoio algum. Somos a última linha de resistênci
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_officer/07"
 msgid "There are Panzerfausts and anti-tank grenades in these crates! Take as many as you need to destroy the tanks!"
-msgstr "Há Panzerfausts e granadas antitanque nestas caixas! Peguem o quanto precisarem para destruir os tanques!"
+msgstr "Há Panzerfausts e granadas antitanque nestas caixas! Peguem quantos precisarem para destruir os tanques!"
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[narrators]/ger_soldier/01"
 msgid "They are getting too close!"
@@ -70,7 +70,7 @@ msgstr "Deter a invasão na praia!"
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_02"
 msgid "Do not let the enemy capture the town!"
-msgstr "Não deixar o inimigo capturar a cidade!"
+msgstr "Não deixe o inimigo capturar a cidade!"
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/[tasks]/task_03"
 msgid "Hold the WN21! (at least 5 soldiers need to survive)"
@@ -111,7 +111,7 @@ msgstr "Não havia muito que pudéssemos fazer. Resistimos o máximo que pudemos
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/outro_failed"
 msgid "The Atlantikwall isn't supposed to fail, but it did! This beach is now firmly in British hands, when we should have thrown them all back into the sea. What went wrong, and what are you going to do about it?"
-msgstr "O Atlantikwall não deveria falhar, mas falhou! Esta praia está firmemente nas mãos dos britânicos, quando deveríamos ter jogado todos de volta ao mar. O que correu mal, e o que você vai fazer a respeito?"
+msgstr "O Atlantikwall não deveria falhar, mas falhou! Esta praia está firmemente nas mãos dos britânicos, quando deveríamos ter jogado todos de volta ao mar. O que deu errado, e o que você vai fazer a respeito?"
 
 msgctxt "mission/single/051-ger_finesthour/1944_06_swordbeach/date"
 msgid "June 6th, 1944 · Lion-sur-Mer, Normandy, France"
