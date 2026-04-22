@@ -79,12 +79,12 @@ msgstr "Precisamos destruir aqueles lançadores de foguetes alemães antes que n
 #removed
 #msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator10"
 #msgid "Let them burn!"
-#msgstr ""
+#msgstr "Deixe-os queimar!"
 
 #removed
 #msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator11"
 #msgid "There's too many of them! We can't hold the town for much longer!"
-#msgstr ""
+#msgstr "São muitos! Não conseguimos segurar a cidade por muito mais tempo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator12"
 msgid "Friendly tank destroyers approaching, just in time!"
@@ -101,8 +101,7 @@ msgstr "Eles estão fugindo! Bem feito!"
 #removed
 #msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry04"
 #msgid "Good work! Our firepower has greatly increased thanks to those repaired tanks and guns!"
-#msgid "Good work! "
-#msgstr ""
+#msgstr "Bom trabalho! Nosso poder de fogo aumentou significativamente graças aos tanques e canhões reparados!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry05"
 msgid "The minefields will help slow any incoming German armor!"
