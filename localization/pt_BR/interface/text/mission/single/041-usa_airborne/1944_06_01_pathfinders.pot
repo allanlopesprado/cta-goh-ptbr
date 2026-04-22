@@ -66,23 +66,23 @@ msgstr "Venha pra cá antes que o Jerry te veja!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/03"
 msgid "Enemy patrol approaching from down the road. Wait until they get close, and let’em have it!"
-msgstr "Certo, acho que sei qual estrada é essa. Soldados, comigo! Vamos conferir o mapa!"
+msgstr "Patrulha inimiga se aproximando pela estrada. Aguardem se aproximarem e abram fogo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/04"
 msgid "Alright, I think I know which road this is. On me, troopers, let's take a look at the map!"
-msgstr "Atenção! Precisamos instalar os balizadores o mais rápido possível. Toda a operação pode fracassar se não estiverem prontos a tempo!"
+msgstr "Certo, acho que sei qual estrada é esta. Sigam-me, soldados, vamos dar uma olhada no mapa!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/05"
 msgid "Soldiers, let's move East and group up with any paratroopers we find. Remember the code words!"
-msgstr "Excelente trabalho, homens! Tomara que o resto dos soldados chegue mais organizado do que nós."
+msgstr "Soldados, vamos avançar para o leste e nos reunir com quaisquer paraquedistas que encontrarmos. Lembrem-se das palavras-código!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/06"
 msgid "Alright, men, rally on me! Let's move out and see if we can find anyone else!"
-msgstr "Bom, você já está bem. Pegue seu equipamento e forme-se comigo!"
+msgstr "Certo, homens, reagrupem-se comigo! Vamos nos mover e ver se encontramos mais alguém!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/07"
 msgid "Soldiers, you're with me now. Let's go!"
-msgstr "Ataque a fazenda e resgate os paraquedistas capturados."
+msgstr "Soldados, agora vocês estão comigo. Vamos!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/08"
 msgid "Flash!"
@@ -114,11 +114,11 @@ msgstr "Ótimo! Aquele oficial alemão não vai a lugar nenhum. Bem feito!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/15"
 msgid "Listen up! We have to set up those beacons ASAP. It could sink the whole operation if they're not ready in time!"
-msgstr "Atenção! Precisamos instalar as balizas o mais rápido possível. Toda a operação pode afundar se não estiverem prontas a tempo!"
+msgstr "Atenção! Precisamos instalar as sinalizadores o mais rápido possível. Toda a operação pode afundar se não estiverem prontas a tempo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/16"
 msgid "Let's get close to the coordinates and install the beacons."
-msgstr "Vamos nos aproximar das coordenadas e instalar os balizadores."
+msgstr "Vamos nos aproximar das coordenadas e instalar os sinalizadores."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/17"
 msgid "Well, you're alright now. Grab your gear and form up on me!"
@@ -126,7 +126,7 @@ msgstr "Bom, você está bem agora. Pegue seu equipamento e forme comigo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/18"
 msgid "Excellent work men! Hopefully, the rest of the guys will arrive more organized than we did."
-msgstr "Excelente trabalho, homens! Esperançosamente, o resto dos rapazes chegará mais organizado do que nós."
+msgstr "Excelente trabalho, homens! Tomara que o restante chegue mais organizado do que nós."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/19"
 msgid "Way to go, troopers! Those Flak guns won't be bothering anyone else."
@@ -254,15 +254,15 @@ msgstr "Vamos! Estamos partindo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/obj_progress"
 msgid "%1% out of 3 beacons deployed."
-msgstr "%1% de 3 balizas instaladas."
+msgstr "%1% de 3 sinalizadores instalados."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/outro_completed"
 msgid "Excellent work! You have shown the enemy what you’re capable of. Thanks to our radio beacons, the next wave of aircraft could locate the drop zones and bring in the second wave. Great job!"
-msgstr "Excelente trabalho! Você mostrou ao inimigo do que é capaz. Graças aos nossos balizadores de rádio, a próxima onda de aeronaves conseguiu localizar as zonas de lançamento e trazer a segunda onda. Ótimo trabalho!"
+msgstr "Excelente trabalho! Você mostrou ao inimigo do que é capaz. Graças aos nossos sinalizadores de rádio, a próxima onda de aeronaves conseguiu localizar as zonas de lançamento e trazer a segunda onda. Ótimo trabalho!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/outro_failed"
 msgid "You failed to complete the primary objective! Our troops won’t locate their drop zones because the beacons were not deployed. The drops will be scattered all over Normandy, and the Germans will maintain control over the area. You must try again!"
-msgstr "Você falhou no objetivo primário! Nossas tropas não conseguirão localizar suas zonas de lançamento porque os balizadores não foram implantados. Os lançamentos estarão espalhados por toda a Normandia, e os alemães manterão o controle da área. Você deve tentar novamente!"
+msgstr "Você falhou no objetivo primário! Nossas tropas não conseguirão localizar suas zonas de lançamento porque os sinalizadores não foram implantados. Os lançamentos estarão espalhados por toda a Normandia, e os alemães manterão o controle da área. Você deve tentar novamente!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/place"
 msgid "Pathfinders, 501st PIR, 101st \"Screaming Eagles\""
@@ -278,7 +278,7 @@ msgstr "Zona de Lançamento \"Charlie\""
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/story"
 msgid "  On the evening of June 5th, 1944, a massive formation of C-47 aircraft lifts off from RAF North Witham for Normandy. They will drop large numbers of paratroopers behind the D-Day invasion beaches.\n\n  Thirty minutes ahead of them, the pathfinders of the 101st US airborne division are already on their way! They are the first American troops to land in German-occupied France. Several waves of para-drops and troop-carrying gliders will bring in the airborne assault troops.\n\n  Less than one hour into D-Day, the Screaming Eagles’ 501st Parachute Infantry Regiment jumps into action, with orders to place three small radio beacons to guide the other aircraft in.\n\nGood luck!"
-msgstr "  Na noite de 5 de junho de 1944, uma enorme formação de aeronaves C-47 decola da RAF North Witham em direção à Normandia. Elas lançarão grande número de paraquedistas atrás das praias do Dia D.\n\n  Trinta minutos à frente delas, os batedores do 101º Aerotransportado dos EUA já estão a caminho! São os primeiros soldados americanos a pousar na França ocupada pelos alemães. Várias ondas de lançamentos de paraquedistas e planadores transportando tropas trarão as forças aerotransportadas.\n\n  Menos de uma hora no Dia D, o 501º Regimento de Infantaria de Paraquedistas dos Screaming Eagles entra em ação com ordens de posicionar três pequenos balizadores de rádio para guiar as demais aeronaves.\n\nBoa sorte!"
+msgstr "  Na noite de 5 de junho de 1944, uma enorme formação de aeronaves C-47 decola da RAF North Witham em direção à Normandia. Elas lançarão grande número de paraquedistas atrás das praias do Dia D.\n\n  Trinta minutos à frente delas, os batedores do 101º Aerotransportado dos EUA já estão a caminho! São os primeiros soldados americanos a pousar na França ocupada pelos alemães. Várias ondas de lançamentos de paraquedistas e planadores transportando tropas trarão as forças aerotransportadas.\n\n  Menos de uma hora no Dia D, o 501º Regimento de Infantaria de Paraquedistas dos Screaming Eagles entra em ação com ordens de posicionar três pequenos sinalizadores de rádio para guiar as demais aeronaves.\n\nBoa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task0"
 msgid "Eliminate the German truck patrol."
@@ -290,7 +290,7 @@ msgstr "Entre em contato com outros paraquedistas"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task2"
 msgid "Deploy the radio beacons in the designated locations."
-msgstr "Instale as balizas de rádio nos locais designados."
+msgstr "Instale os sinalizadores de rádio nos locais designados."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/task3"
 msgid "Kill the German officer attempting to escape, preventing the arrival of enemy reinforcements."
