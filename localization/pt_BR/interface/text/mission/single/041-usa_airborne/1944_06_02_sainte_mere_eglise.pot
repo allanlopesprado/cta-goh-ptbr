@@ -18,7 +18,7 @@ msgstr "Trovão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/case1_failed"
 msgid "You wandered off and failed to find your Commander. You have been captured - Mission failure!"
-msgstr "Você se perdeu e não encontrou seu Comandante. Você foi capturado — Missão fracassada!"
+msgstr "Você se perdeu e não encontrou o Comandante. Você foi capturado — Missão fracassada!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/date"
 msgid "June 6th, 1944 · Ste-Mere-Eglise, Normandy, France."
@@ -34,15 +34,15 @@ msgstr "Rápido! Saia da parte sudoeste da cidade (zona vermelha) para evitar se
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/recruitpara"
 msgid "To recruit landing paratroopers, approach close to one, and they will automatically be assigned to your team!"
-msgstr "Para recrutar paraquedistas que pousaram, aproxime-se de um deles e ele será automaticamente adicionado à sua equipe!"
+msgstr "Para recrutar paraquedistas recém-chegados, aproxime-se de um deles e ele será automaticamente adicionado à sua unidade!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/recruitpara2"
 msgid "Alternatively, move one of your units near the friendly unit you wish to recruit, hover your cursor over the allied unit, and a grabbing icon will appear."
-msgstr "Alternativamente, mova uma de suas unidades perto da unidade aliada que deseja recrutar, passe o cursor sobre ela e um ícone de pegar aparecerá."
+msgstr "Alternativamente, mova uma de suas unidades para perto da unidade aliada que deseja recrutar, passe o cursor sobre ela e um ícone de mão aparecerá."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/01avoid"
 msgid "Check your map and follow the alternating pointers to reach your objective. Avoid German patrols if you can. Above all, stay away from the southwest part of town (red zone) to avoid being captured!"
-msgstr "Verifique o mapa e siga os ponteiros alternados para alcançar seu objetivo. Evite patrulhas alemãs se possível. Acima de tudo, fique longe da parte sudoeste da cidade (zona vermelha) para não ser capturado!"
+msgstr "Verifique o mapa e siga os marcadores alternados para alcançar seu objetivo. Evite patrulhas alemãs sempre que possível. Acima de tudo, mantenha-se longe da parte sudoeste da cidade (zona vermelha) para evitar ser capturado!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/avoidaa"
 msgid "Keep away from German AA guns until you regroup with your Commander! Search the area north of the church as indicated."

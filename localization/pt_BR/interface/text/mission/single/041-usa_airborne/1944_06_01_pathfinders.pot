@@ -30,11 +30,11 @@ msgstr "Os Batedores"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/01"
 msgid "Come on. We're at war, after all. At least you're still alive!"
-msgstr "Vamos. Estamos em guerra, afinal. Pelo menos você ainda está vivo!"
+msgstr "Vamos lá. Estamos em guerra, afinal. Pelo menos você está vivo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/02"
 msgid "Hey, my American friends! Sorry for the harsh welcome. Life here has become tough for all of us under German occupation, but most of us are glad you are finally here. However, I fear my friend intends to inform the Germans of your position."
-msgstr "Ei, meus amigos americanos! Desculpe a recepção difícil. A vida aqui ficou dura para todos nós sob a ocupação alemã, mas a maioria está feliz que vocês finalmente chegaram. No entanto, temo que meu amigo pretenda informar os alemães sobre a posição de vocês."
+msgstr "Ei, amigos americanos! Desculpem a recepção difícil. A vida aqui ficou dura para todos sob a ocupação alemã, mas a maioria está feliz que vocês finalmente chegaram. Porém, temo que meu amigo queira informar os alemães sobre a posição de vocês."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/03"
 msgid "Hey, hey! Americans!"
@@ -62,27 +62,27 @@ msgstr "Trovão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/02"
 msgid "Get your ass over here before Jerry sees you!"
-msgstr "Venha aqui antes que o Jerry te veja!"
+msgstr "Tanto faz, podia estar morto agora! Vocês, malditos americanos, tinham que arrumar confusão logo aqui. Agora meu único sustento está morto! Sumam daqui! Vocês vão pagar por isso!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/03"
 msgid "Enemy patrol approaching from down the road. Wait until they get close, and let’em have it!"
-msgstr "Patrulha inimiga se aproximando pela estrada. Esperem eles chegarem perto e dêem o que merecem!"
+msgstr "Certo, acho que sei qual estrada é essa. Soldados, comigo! Vamos conferir o mapa!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/04"
 msgid "Alright, I think I know which road this is. On me, troopers, let's take a look at the map!"
-msgstr "Certo, acho que sei qual estrada é essa. Comigo, soldados, vamos ver o mapa!"
+msgstr "Atenção! Precisamos instalar os balizadores o mais rápido possível. Toda a operação pode fracassar se não estiverem prontos a tempo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/05"
 msgid "Soldiers, let's move East and group up with any paratroopers we find. Remember the code words!"
-msgstr "Soldados, vamos mover para leste e nos reunir com quaisquer paraquedistas que encontrarmos. Lembrem-se das palavras de código!"
+msgstr "Excelente trabalho, homens! Tomara que o resto dos soldados chegue mais organizado do que nós."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/06"
 msgid "Alright, men, rally on me! Let's move out and see if we can find anyone else!"
-msgstr "Certo, homens, formem comigo! Vamos partir e ver se encontramos mais alguém!"
+msgstr "Bom, você já está bem. Pegue seu equipamento e forme-se comigo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/07"
 msgid "Soldiers, you're with me now. Let's go!"
-msgstr "Soldados, estão comigo agora. Vamos lá!"
+msgstr "Ataque a fazenda e resgate os paraquedistas capturados."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/08"
 msgid "Flash!"
@@ -118,7 +118,7 @@ msgstr "Atenção! Precisamos instalar as balizas o mais rápido possível. Toda
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/16"
 msgid "Let's get close to the coordinates and install the beacons."
-msgstr "Vamos nos aproximar das coordenadas e instalar as balizas."
+msgstr "Vamos nos aproximar das coordenadas e instalar os balizadores."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/17"
 msgid "Well, you're alright now. Grab your gear and form up on me!"
