@@ -434,7 +434,7 @@ msgstr "Acho que foi o último deles. Vamos continuar, chlopaki."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_take_body"
 msgid "To carry the dead body,\n\nclick <c(B29557)>Take</c> action in <c(B29557)>Item Options</c> on the control panel. \n\nTo drop the body, select any weapon at your unit."
-msgstr "Para carregar o cadáver,\n\nclique em <c(B29557)>Pegar</c> em <c(B29557)>Opções de Item</c> no painel de controle. \n\nPara largá-lo, clique em <c(B29557)>Soltar</c>."
+msgstr "Para carregar o cadáver,\n\nclique em <c(B29557)>Pegar</c> nas <c(B29557)>Opções de Item</c> no painel de controle.\n\nPara largar o corpo, selecione qualquer arma da sua unidade."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_stealth_evac"
 msgid "Only 1 soldier must reach the British perimeter if you decide for a stealth approach."
@@ -446,7 +446,7 @@ msgstr "Use <c(B29557)>facas de arremesso</c> para eliminar inimigos silenciosam
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_side_quest"
 msgid "Optional activities will not be available after reporting to HQ. \n\nTo report to HQ, click on the specific button in the reinforcements tab. This button is shown when you're near to the hotel building."
-msgstr "As atividades opcionais não estarão disponíveis após reportar ao QG. \n\nPara reportar ao QG, clique no botão específico na <c(B29557)>aba de reforços</c>."
+msgstr "msgstr "As atividades opcionais não estarão disponíveis após reportar ao QG.\n\nPara reportar ao QG, clique no botão específico na <c(B29557)>aba de reforços</c>. Esse botão aparece quando você estiver próximo ao hotel."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_refuel_01"
 msgid "Find a <c(B29557)>gas can</c> to refuel the tractor."
