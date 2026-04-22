@@ -18,19 +18,19 @@ msgstr "Selecione o alvo do bombardeio de morteiro"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/01"
 msgid "We must continue moving, secure that outpost so our advance can continue."
-msgstr "Devemos continuar avançando, tomem aquele posto avançado para que nosso avanço prossiga."
+msgstr "Precisamos continuar avançando. Tomem aquele posto avançado para que possamos prosseguir."
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/02"
 msgid "Take your platoon and advance and clear the enemy positions ahead of us, you have the support of a nearby mortar company. Do not waste any time, we need to keep moving West."
-msgstr "Leve seu pelotão e avance para limpar as posições inimigas à nossa frente, você conta com o apoio de uma companhia de morteiros próxima. Não perca tempo, precisamos continuar avançando para o Oeste."
+msgstr "Leve seu pelotão, avance e limpe as posições inimigas à nossa frente. Você conta com o apoio de uma companhia de morteiros próxima. Sem perder tempo, precisamos avançar para o Oeste."
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/03"
 msgid "We have a long way to go and we cannot afford any further delays."
-msgstr "Temos um longo caminho pela frente e não podemos nos dar ao luxo de mais atrasos."
+msgstr "Temos um longo caminho pela frente e não podemos permitir mais atrasos."
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/04"
 msgid "Good job men. Hold here in case the English decide they want this back. The column will now continue moving."
-msgstr "Bom trabalho, soldados. Fiquem aqui caso os ingleses decidam reconquistar a posição. A coluna continuará avançando."
+msgstr "Bom trabalho, soldados. Permaneçam aqui caso os ingleses tentem retomar a posição. A coluna continuará avançando."
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_officer]/05"
 msgid "Oh god! Where did they come from?! We need to stop them!"
@@ -66,15 +66,15 @@ msgstr "A blindagem deles é grossa demais! Não estamos causando nenhum dano! M
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/04"
 msgid "The British artillery is trying to hit one of our Acht-Acht's! Move it to a new position before they zero in on it!"
-msgstr "A artilharia britânica está tentando acertar um dos nossos Acht-Acht! Mude-o de posição antes que eles o acertem!"
+msgstr "A artilharia britânica está mirando em um dos nossos Acht-Acht! Mova-o para uma nova posição antes que eles ajustem a mira!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/05"
 msgid "Take grenades and explosives from this crate!  Use anything you can find! We must stop them!"
-msgstr "Peguem granadas e explosivos desta caixa! Usem o que encontrarem! Precisamos detê-los!"
+msgstr "Peguem granadas e explosivos desta caixa! Usem tudo o que puderem! Precisamos detê-los!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[narrators]/[narrator_soldier]/06"
 msgid "Planes incoming!... Wait, it's our boys! They will show them now!"
-msgstr "Aviões se aproximando!... Espere, são os nossos! Agora eles vão mostrar o que é bom!"
+msgstr "Aviões se aproximando!... Espere, são os nossos! Agora eles vão mostrar do que somos capazes!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[reinforcements]/mortars"
 msgid "Mortar barrage"
@@ -90,7 +90,7 @@ msgstr "Eliminar posições avançadas britânicas"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task02"
 msgid "Stop enemy tanks before they reach our temporary HQ!"
-msgstr "Deter os tanques inimigos antes que cheguem ao QG temporário!"
+msgstr "Impeça os tanques inimigos de chegarem ao QG temporário!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/[tasks]/task03"
 msgid "Repulse the enemy counter-attack!"
@@ -118,11 +118,11 @@ msgstr "Fall Gelb"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/outro_completed"
 msgid "Wunderbar! Your improvisation skills have stopped the British counterattack, which means the ghost division can continue racing to the Channel coast. Well done, and keep going!"
-msgstr "Wunderbar! Sua habilidade de improvisação deteve o contra-ataque britânico, o que significa que a divisão fantasma pode continuar avançando para a Costa do Canal. Excelente trabalho, e continuem em frente!"
+msgstr "Wunderbar! Sua habilidade de improvisação deteve o contra-ataque britânico, o que significa que a divisão fantasma pode continuar avançando para a Costa do Canal. Excelente trabalho, e continuem avançando!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/outro_failed"
 msgid "This is serious; our advance has come to a halt because the British tanks have broken the encirclement we almost established. We cannot afford to push forward anymore. This is a serious setback!"
-msgstr "Isso é grave; nosso avanço foi paralisado porque os tanques britânicos romperam o cerco que quase estabelecemos. Não podemos mais nos dar ao luxo de avançar. Este é um revés grave!"
+msgstr "Isso é grave; nosso avanço foi paralisado porque os tanques britânicos romperam o cerco que quase estabelecemos. Não podemos mais avançar. Este é um revés sério!"
 
 msgctxt "mission/single/051-ger_finesthour/1940_05_arras/date"
 msgid "May 21st, 1940 · Arras, Pas-de-Calais, France"
