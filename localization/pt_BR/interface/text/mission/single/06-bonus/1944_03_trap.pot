@@ -126,11 +126,11 @@ msgstr "Em segundo lugar, precisamos libertar nossos homens. Não podemos deixá
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_09"
 msgid "And another thing: I saw a Soviet officer with a briefcase in this village. I wouldn't mind taking a look at the papers inside. They could explain why Russians control this village. I need to be the one to read those documents, since I am the only one in the squad who understands Russian."
-msgstr "E mais uma coisa: vi um oficial soviético com uma maleta neste vilarejo. Não me importaria de dar uma olhada nos papéis lá dentro. Eles podem explicar por que os russos controlam este vilarejo. Preciso ser eu a ler esses documentos, pois sou o único da esquadra que entende russo."
+msgstr "E mais uma coisa: vi um oficial soviético com uma maleta neste vilarejo. Não me importaria de dar uma olhada nos papéis. Eles podem explicar por que os russos controlam este vilarejo. Preciso ser eu a ler esses documentos, pois sou o único da unidade que entende russo."
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/jagdpanther_repaired"
 msgid "Outstanding work, soldiers. Armor like that will take us all the way to Moscow. But be careful with it, this beast is the only one we've got."
-msgstr "Trabalho excepcional, soldados. Uma blindagem assim nos levará até Moscou. Mas tenham cuidado com ela — esta fera é a única que temos."
+msgstr "Trabalho excepcional, soldados. Um blindado desses nos levará até Moscou. Mas tenham cuidado com ele — esta fera é a única que temos."
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/pow_free"
 msgid "Good day, men. We thought you could use some help. You are now temporarily under my command."
@@ -174,7 +174,7 @@ msgstr "O que diabos está acontecendo lá?"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_04"
 msgid "Damn them! And I thought that the front line was twenty kilometers from here!"
-msgstr "Que merda! E eu pensava que a linha de frente ficava a vinte quilômetros daqui!"
+msgstr "Malditos! E eu achava que a linha de frente estava a vinte quilômetros daqui!"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/jagdpanther"
 msgid "Hauptmann Hellmann, look! The Russians have something that is rightfully ours."
@@ -190,7 +190,7 @@ msgstr "Parabéns, você conseguiu! Demonstrou grande habilidade de improvisaç�
 
 msgctxt "mission/single/06-bonus/1944_03_trap/outro_failed"
 msgid "That was not what we planned for. You’ll have to regroup, go in again, and try different tactics; giving up is not an option for our captured friends."
-msgstr "Isso não era o que planejamos. Você terá que reagrupar, tentar novamente com táticas diferentes; desistir não é uma opção para nossos camaradas capturados."
+msgstr "Não era isso que planejamos. Você terá que se reagrupar, avançar novamente e tentar táticas diferentes; desistir não é uma opção para nossos camaradas capturados."
 
 msgctxt "mission/single/06-bonus/1944_03_trap/place"
 msgid "Elements of the 4th Panzer Army"

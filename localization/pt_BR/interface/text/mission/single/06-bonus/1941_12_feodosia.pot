@@ -18,7 +18,7 @@ msgstr "29 de dezembro de 1941 · Feodósia, Crimeia, Ucrânia"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/gameover/failed"
 msgid "The squad led by Lieutenant Arkady F. Aydinov could not establish control over the bridgehead."
-msgstr "A esquadra liderado pelo Tenente Arkady F. Aydinov não conseguiu estabelecer controle sobre a cabeça de ponte."
+msgstr "A esquadra liderada pelo Tenente Arkady F. Aydinov não conseguiu estabelecer controle sobre a cabeça de ponte."
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/hints/pistol_holder"
 msgid "To signal other troops, fire a flare at the pier. The squad leader has the flare gun in his inventory."
@@ -38,7 +38,7 @@ msgstr "Os fascistas trouxeram seus veículos! Use toda a potência de fogo do b
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/boat_crash_01"
 msgid "Scum! The nervedragging anti-tank guns here! Comrades, we must silence those guns immediately."
-msgstr "Malditos! Os canhões antitanque aqui nos estão massacrando! Camaradas, precisamos silenciar esses canhões imediatamente."
+msgstr "Malditos! Esses canhões antitanque estão nos massacrando! Camaradas, precisamos silenciá-los imediatamente."
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/clear_01"
 msgid "Well done, marines. A strong showing. Looks like the Germans didn't expect us. But we should not relax too early - they will surely try to retake this ground."
@@ -94,7 +94,7 @@ msgstr "Os reforços chegaram — bem a tempo. Usemos esta breve pausa para nos 
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/narrator/aydinov/retreat"
 msgid "They're falling back! We've done it, comrades! We held the line - and showed the full strength of our Black Sea Fleet! Now our brothers in arms and families in Sevastopol have a real chance to stand strong!"
-msgstr "Estão recuando! Conseguimos, camaradas! Segurámos a linha — e mostramos a plena força de nossa Frota do Mar Negro! Agora nossos irmãos de armas e famílias em Sevastopol têm uma real chance de resistir!"
+msgstr "Estão recuando! Conseguimos, camaradas! Seguramos a linha — e mostramos toda a força da nossa Frota do Mar Negro! Agora nossos irmãos de armas e famílias em Sevastopol têm uma chance real de resistir!"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/outro_completed"
 msgid "Excellent work! The people and the garrison at Sevastopol will be thankful for your victory!
@@ -132,7 +132,7 @@ msgstr "Estabelecer controle sobre a área do porto"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/04-pak36"
 msgid "Capture or eliminate the AT guns"
-msgstr "Capturar ou eliminar os canhões AT"
+msgstr "Capturar ou eliminar os canhões antitanque"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/05-defense"
 msgid "Hold the landing zone near the lighthouse"
