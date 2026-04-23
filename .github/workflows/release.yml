@@ -67,19 +67,7 @@ jobs:
             const patch = Number(latestParts[3] || 0);
             const nextTag = parsed.length ? `v${major}.${minor}.${patch + 1}` : 'v1.0.0';
 
-            let releaseBody = 'Atualização automática sem mudanças de texto significativas.';
-            if (context.eventName === 'push' && context.ref === 'refs/heads/main') {
-              try {
-                const compare = await github.rest.repos.compareCommits({ owner, repo, base: latest, head: context.sha });
-                const commits = compare.data.commits || [];
-                if (commits.length) {
-                  const messages = commits.map(commit => `- ${commit.commit.message.split('\n')[0]}`);
-                  releaseBody = `Alterações desde ${latest}:\n${messages.join('\n')}`;
-                }
-              } catch (error) {
-                // fallback message is already set
-              }
-            }
+            const releaseBody = `Atualização de tradução pt_BR\n\n- Correções e melhorias gerais\n\nAlterações completas: https://github.com/${owner}/${repo}/compare/${latest}...${nextTag}`;
 
             core.setOutput('latest_tag', latest);
             core.setOutput('next_tag', nextTag);
