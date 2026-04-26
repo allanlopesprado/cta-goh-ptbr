@@ -399,7 +399,7 @@ msgstr "Rajajääkäri [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/late/cav_mg"
 msgid "Ratsuväki MG Operator [Maavoimat]"
-$1[Exército]$2
+msgstr "Ratsuväki Operador MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/cav_mg_asst"
 msgid "Ratsuväki MG Asst. [Maavoimat]"
