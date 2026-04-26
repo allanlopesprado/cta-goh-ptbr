@@ -370,43 +370,43 @@ msgstr "<c(A5A095)>(2+)</c> Seção de Fuzileiros Veteranos"
 
 msgctxt "desc/squad/squad_1st_airland_pio_mid_all(eng)"
 msgid "<c(A5A095)>(3)</c> 1st Airlanding Pioneer Section"
-msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_pio_mid_con(eng)"
 msgid "<c(A5A095)>(3)</c> 1st Airlanding Pioneer Section"
-msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_recon_mid_all(eng)"
 msgid "<c(A5A095)>(3)</c> 1st Airlanding Recon Section"
-msgstr "<c(A5A095)>(3)</c> Seção de Reconhecimento 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> Seção de Reconhecimento 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_mid_all_1(eng)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 1st Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_mid_all_2(eng)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 1st Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_support_mid_all_3(eng)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 1st Airlanding Support Section"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Seção de Apoio 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Seção de Apoio 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_mid_con(eng)"
 msgid "<c(A5A095)>(3)</c> 1st Airlanding Support Section"
-msgstr "<c(A5A095)>(3)</c> Seção de Apoio 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> Seção de Apoio 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_all_1(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_all_2(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_all_3(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_div_defense_mid_def(eng)"
 msgid "<c(A5A095)>(1)</c> Divisional Defense Section"
@@ -462,11 +462,11 @@ msgstr "<c(A5A095)>(3)</c> Seção em Transporte 7ª DA"
 
 msgctxt "desc/squad/squad_1st_para_eng_mid_def_1(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 1st Airborne Engineer Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Engenheiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Engenheiros 1ª Aerotransportados "
 
 msgctxt "desc/squad/squad_1st_para_eng_mid_def_2(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 1st Airborne Engineer Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Engenheiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Engenheiros 1ª Aerotransportados "
 
 msgctxt "desc/squad/squad_mp_mid_irr(eng)"
 msgid "<c(A5A095)>(1)</c> MP Detachment"
@@ -518,15 +518,15 @@ msgstr "<c(A5A095)>(3+)</c> Seção em Transporte 51st Highlanders"
 
 msgctxt "desc/squad/squad_1st_para_recce_mid_irr(eng)"
 msgid "<c(A5A095)>(4)</c> 1st Airborne Recce Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Reconhecimento Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> Seção de Reconhecimento 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_recce_mid_con(eng)"
 msgid "<c(A5A095)>(4)</c> 1st Airborne Recce Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Reconhecimento Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> Seção de Reconhecimento 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_at_mid_irr(eng)"
 msgid "<c(A5A095)>(4)</c> 1st Airborne AT Section"
-msgstr "<c(A5A095)>(4)</c> Seção AT Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> Seção AT 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_com_rifle_mid_con(eng)"
 msgid "<c(A5A095)>(4)</c> Commando Rifle Sub-Section"
@@ -582,23 +582,23 @@ msgstr "<c(A5A095)>(3)</c> Sub-seção de Assalto Commando dos Royal Marines"
 
 msgctxt "desc/squad/squad_1st_para_protect_mid_off(eng)"
 msgid "<c(A5A095)>(4)</c> 1st Airborne Protective Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Proteção Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> Seção de Proteção 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_off_1(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_off_2(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_off_3(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_mid_con(eng)"
 msgid "<c(A5A095)>(4)</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4)</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_brig_defense_late_all(eng)"
 msgid "<c(A5A095)>(1)</c> Brigade Defense Section"
@@ -674,55 +674,55 @@ msgstr "<c(A5A095)>(2+)</c> Seção de Fuzileiros Veteranos [1944]"
 
 msgctxt "desc/squad/squad_6th_airland_pio_late_all(eng)"
 msgid "<c(A5A095)>(3)</c> 6th Airlanding Pioneer Section"
-msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 6ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> Seção de Pioneiros 6ª Aerotransportada"
 
 msgctxt "desc/squad/squad_6th_airland_recon_late_con(eng)"
 msgid "<c(A5A095)>(3)</c> 6th Airlanding Recon Section [1944]"
-msgstr "<c(A5A095)>(3)</c> Seção de Reconhecimento Desembarque Aéreo 6ª [1944]"
+msgstr "<c(A5A095)>(3)</c> Seção de Reconhecimento Aerotransportada 6ª [1944]"
 
 msgctxt "desc/squad/squad_6th_airland_rifle_late_all_1(eng)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 6th Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Seção de Fuzileiros 6ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Seção de Fuzileiros 6ª Aerotransportada"
 
 msgctxt "desc/squad/squad_6th_airland_rifle_late_all_2(eng)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 6th Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Seção de Fuzileiros 6ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Seção de Fuzileiros 6ª Aerotransportada"
 
 msgctxt "desc/squad/squad_6th_airland_rifle_late_con(eng)"
 msgid "<c(A5A095)>(3)</c> 6th Airlanding Rifle Section [1944]"
-msgstr "<c(A5A095)>(3)</c> Seção de Fuzileiros Desembarque Aéreo 6ª [1944]"
+msgstr "<c(A5A095)>(3)</c> Seção de Fuzileiros Aerotransportada 6ª [1944]"
 
 msgctxt "desc/squad/squad_1st_airland_recon_late_con(eng)"
 msgid "<c(A5A095)>(3+)</c> 1st Airlanding Recon Section [1944]"
-msgstr "<c(A5A095)>(3+)</c> Seção de Reconhecimento Desembarque Aéreo 1ª [1944]"
+msgstr "<c(A5A095)>(3+)</c> Seção de Reconhecimento Aerotransportada 1ª [1944]"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_late_all_1(eng)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 1st Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_late_all_2(eng)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 1st Airlanding Rifle Section"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Desembarque Aéreo"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Aerotransportada"
 
 msgctxt "desc/squad/squad_1st_airland_rifle_late_con(eng)"
 msgid "<c(A5A095)>(3+)</c> 1st Airlanding Rifle Section [1944]"
-msgstr "<c(A5A095)>(3+)</c> Seção de Fuzileiros Desembarque Aéreo 1ª [1944]"
+msgstr "<c(A5A095)>(3+)</c> Seção de Fuzileiros Aerotransportada 1ª [1944]"
 
 msgctxt "desc/squad/squad_1st_airland_support_late_con(eng)"
 msgid "<c(A5A095)>(3+)</c> 1st Airlanding Support Section [1944]"
-msgstr "<c(A5A095)>(3+)</c> Seção de Apoio Desembarque Aéreo 1ª [1944]"
+msgstr "<c(A5A095)>(3+)</c> Seção de Apoio Aerotransportada 1ª [1944]"
 
 msgctxt "desc/squad/squad_6th_para_rifle_late_all_1(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 6th Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros Aerotransportados 6ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 6ª Seção de Fuzileiros Aerotransportados"
 
 msgctxt "desc/squad/squad_6th_para_rifle_late_all_2(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 6th Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros Aerotransportados 6ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 6ª Seção de Fuzileiros Aerotransportados"
 
 msgctxt "desc/squad/squad_6th_para_rifle_late_all_3(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 6th Airborne Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros Aerotransportados 6ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 6ª Seção de Fuzileiros Aerotransportados"
 
 msgctxt "desc/squad/squad_6th_para_rifle_late_con(eng)"
 msgid "<c(A5A095)>(4)</c> 6th Airborne Rifle Section [1944]"
@@ -834,11 +834,11 @@ msgstr "<c(A5A095)>(3+)</c> Seção de Engenheiros 7ª DA [1944]"
 
 msgctxt "desc/squad/squad_6th_para_eng_late_def_1(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 6th Airborne Engineer Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Engenheiros Aerotransportados 6ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 6ª Seção de Engenheiros Aerotransportados"
 
 msgctxt "desc/squad/squad_6th_para_eng_late_def_2(eng)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 6th Airborne Engineer Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Engenheiros Aerotransportados 6ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 6ª Seção de Engenheiros Aerotransportados"
 
 msgctxt "desc/squad/squad_6th_para_eng_late_con(eng)"
 msgid "<c(A5A095)>(4)</c> 6th Airborne Engineer Section [1944]"
@@ -846,11 +846,11 @@ msgstr "<c(A5A095)>(4)</c> Seção de Engenheiros Aerotransportada 6ª [1944]"
 
 msgctxt "desc/squad/squad_1st_para_at_late_def(eng)"
 msgid "<c(A5A095)>(4+)</c> 1st Airborne AT Section"
-msgstr "<c(A5A095)>(4+)</c> Seção AT Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> Seção AT 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_protect_late_def(eng)"
 msgid "<c(A5A095)>(4+)</c> 1st Airborne Protective Section"
-msgstr "<c(A5A095)>(4+)</c> Seção de Proteção Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> Seção de Proteção 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_rear_echelon_late_irr(can)"
 msgid "<c(A5A095)>(1)</c> Canadian Rear Echelon Infantry"
@@ -926,7 +926,7 @@ msgstr "<c(A5A095)>(3+)</c> Seção de Fuzileiros 7ª DA [1944]"
 
 msgctxt "desc/squad/squad_1st_para_at_late_irr(can)"
 msgid "<c(A5A095)>(4)</c> Canadian 1st Parachute AT Section"
-msgstr "<c(A5A095)>(4)</c> Seção AT Para-quedistas Canadenses 1ª"
+msgstr "<c(A5A095)>(4)</c> 1ª Seção AT Para-quedistas Canadenses"
 
 msgctxt "desc/squad/squad_1st_para_at_late_con(can)"
 msgid "<c(A5A095)>(4)</c> Canadian 1st Parachute AT Section [1944]"
@@ -934,7 +934,7 @@ msgstr "<c(A5A095)>(4)</c> Seção AT do 1º Paraquedista Canadense [1944]"
 
 msgctxt "desc/squad/squad_1st_para_protect_late_irr(can)"
 msgid "<c(A5A095)>(4)</c> Canadian 1st Parachute Protective Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Proteção Para-quedistas Canadenses 1ª"
+msgstr "<c(A5A095)>(4)</c> 1ª Seção de Proteção Para-quedistas Canadenses"
 
 msgctxt "desc/squad/squad_1st_para_protect_late_con(can)"
 msgid "<c(A5A095)>(4)</c> Canadian 1st Parachute Protective Section [1944]"
@@ -942,15 +942,15 @@ msgstr "<c(A5A095)>(4)</c> Seção de Proteção do 1º Paraquedista Canadense [
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_irr_1(can)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Canadian 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros Para-quedistas Canadenses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 1ª Seção de Fuzileiros Para-quedistas Canadenses"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_irr_2(can)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Canadian 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros Para-quedistas Canadenses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 1ª Seção de Fuzileiros Para-quedistas Canadenses"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_irr_3(can)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Canadian 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros Para-quedistas Canadenses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 1ª Seção de Fuzileiros Para-quedistas Canadenses"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_con(can)"
 msgid "<c(A5A095)>(4)</c> Canadian 1st Parachute Rifle Section [1944]"
@@ -958,7 +958,7 @@ msgstr "<c(A5A095)>(4)</c> Seção de Fuzileiros do 1º Paraquedista Canadense [
 
 msgctxt "desc/squad/squad_1st_para_eng_flame_late_irr(eng)"
 msgid "<c(A5A095)>(4+)</c> 1st Airborne Engineer Flamer Section"
-msgstr "<c(A5A095)>(4+)</c> Seção de Engenheiros Lança-chamas Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> Seção de Engenheiros Lança-chamas 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_rear_echelon_late_off(eng)"
 msgid "<c(A5A095)>(1)</c> Rear Echelon Infantry"
@@ -1058,7 +1058,7 @@ msgstr "<c(A5A095)>(4)</c> Seção de Engenheiros do 1º Paraquedista Polonês [
 
 msgctxt "desc/squad/squad_1st_para_eng_flame_late_off(pol)"
 msgid "<c(A5A095)>(4)</c> Polish 1st Parachute Engineer Flamer Section"
-msgstr "<c(A5A095)>(4)</c> Seção de Engenheiros Lança-chamas Para-quedistas Poloneses 1ª"
+msgstr "<c(A5A095)>(4)</c> 1ª Seção de Engenheiros Lança-chamas Paraquedistas Poloneses"
 
 msgctxt "desc/squad/squad_1st_para_eng_flame_late_con(pol)"
 msgid "<c(A5A095)>(4)</c> Polish 1st Parachute Engineer Flamer Section [1944]"
@@ -1066,15 +1066,15 @@ msgstr "<c(A5A095)>(4)</c> Seção de Engenheiros Lança-chamas do 1º Paraquedi
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_1(pol)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Polish 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Fuzileiros Para-quedistas Poloneses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 1ª Seção de Fuzileiros Paraquedistas Poloneses "
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_2(pol)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Polish 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Fuzileiros Para-quedistas Poloneses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 1ª Seção de Fuzileiros Paraquedistas Poloneses "
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_3(pol)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Polish 1st Parachute Rifle Section"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Seção de Fuzileiros Para-quedistas Poloneses 1ª"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>3.</c> 1ª Seção de Fuzileiros Paraquedistas Poloneses "
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_con(pol)"
 msgid "<c(A5A095)>(4)</c> Polish 1st Parachute Rifle Section [1944]"
@@ -1086,15 +1086,15 @@ msgstr "<c(A5A095)>(4+)</c> Seção de Engenheiros Aerotransportada 1ª [1944]"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_1(eng)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_2(eng)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_off_3(eng)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>3.</c> 1st Airborne Rifle Section"
-msgstr "<c(A5A095)>(4+)</c> <c(E56042)>3.</c> Seção de Fuzileiros Aerotransportados 1ª"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>3.</c> Seção de Fuzileiros 1ª Aerotransportados"
 
 msgctxt "desc/squad/squad_1st_para_rifle_late_con(eng)"
 msgid "<c(A5A095)>(4+)</c> 1st Airborne Rifle Section [1944]"

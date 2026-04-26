@@ -114,7 +114,7 @@ msgstr "Ótimo! Aquele oficial alemão não vai a lugar nenhum. Bem feito!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/15"
 msgid "Listen up! We have to set up those beacons ASAP. It could sink the whole operation if they're not ready in time!"
-msgstr "Atenção! Precisamos instalar as sinalizadores o mais rápido possível. Toda a operação pode afundar se não estiverem prontas a tempo!"
+msgstr "Atenção! Precisamos instalar os sinalizadores o mais rápido possível. Toda a operação pode afundar se não estiverem prontas a tempo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/16"
 msgid "Let's get close to the coordinates and install the beacons."
@@ -210,7 +210,7 @@ msgstr "Senhor! Sim, Senhor!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier2/03"
 msgid "Beacon deployed, Sir!"
-msgstr "Baliza instalada, Senhor!"
+msgstr "Sinalizador instalada, Senhor!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier3/01"
 msgid "Thunder!"
@@ -226,7 +226,7 @@ msgstr "Trovão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier4/02"
 msgid "Yes Sir! On you, Sir!"
-msgstr "Sim, Senhor! Com o senhor, Senhor!"
+msgstr "Sim, senhor! Estou com o senhor!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier_prisoner/01"
 msgid "Sir! Thanks for saving us! We landed right on top of their positions. We didn't stand a chance."
