@@ -299,8 +299,8 @@ msgstr "Cortar arame"
 
 msgctxt "actionbar/wirecutter/action"
 msgid "Break through barbed wire and wired fences."
-msgstr "Cortar arame farpado e cercas arambadas."
-
+msgstr "Cortar arame farpado e cercas aramadas."
+        
 msgctxt "actionbar/wirecutter/usage"
 msgid "Click on the button, then click on the object to cut."
 msgstr "Clique no botão e depois clique no objeto para cortar."
@@ -1362,7 +1362,7 @@ msgstr ""
 
 msgctxt "hints/vehicle_not_working"
 msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>Vehicle is immobile. Turn the engine on, repair or refuel the vehicle!"
-msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está imóvel. Ligue o motor, repare ou reabastecça o veículo!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está inoperante. Ligue o motor, repare ou reabasteça o veículo!"
 
 msgctxt "actionbar/move/usage"
 msgid ""
@@ -2266,7 +2266,7 @@ msgstr "Após clicar, clique no mapa para definir a posição do obstáculo anti
 
 msgctxt "actionbar/foxhole"
 msgid "Dig small foxhole"
-msgstr "Escavar abrigo individual"
+msgstr "Escavar abrigo"
 
 msgctxt "actionbar/foxhole/action"
 msgid "Dig small foxhole"
