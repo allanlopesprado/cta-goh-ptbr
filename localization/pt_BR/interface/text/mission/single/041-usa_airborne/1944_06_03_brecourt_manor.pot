@@ -30,7 +30,7 @@ msgstr "Aguentem Firme!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator01"
 msgid "Easy Company, Listen Up! Our boys on Utah Beach are getting hammered by that Kraut artillery. Drop everything except weapons and ammo!"
-msgstr "Easy Company, atenção! Nossos rapazes em Utah Beach estão sob fogo pesado da artilharia alemã. Larguem tudo, exceto armas e munição!"
+msgstr "Easy Company, atenção! Nossos rapazes em Utah Beach estão sob fogo pesado da artilharia Kraut. Larguem tudo, exceto armas e munição!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/narrator02"
 msgid "Our main objective is to destroy the enemy howitzer battery. Use TNT or satchel charges!"
@@ -174,16 +174,16 @@ msgstr "(Objetivo Secreto)"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_speirs"
 msgid "Lt. Speirs must survive."
-msgstr "O Ten. Speirs deve sobreviver."
+msgstr "O Tenente Speirs deve sobreviver."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_winters"
 msgid "Lt. Winters must survive."
-msgstr "O Ten. Winters deve sobreviver."
+msgstr "O Tenente Winters deve sobreviver."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_speirs"
 msgid "Treat Lt. Speirs before he bleeds to death!"
-msgstr "Trate o Ten. Speirs antes que ele morra de hemorragia!"
+msgstr "Trate o Tenente Speirs antes que ele morra de hemorragia!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_03_brecourt_manor/task_heal_winters"
 msgid "Treat Lt. Winters before he bleeds to death!"
-msgstr "Trate o Ten. Winters antes que ele morra de hemorragia!"
+msgstr "Trate o Tenente Winters antes que ele morra de hemorragia!"

@@ -74,7 +74,7 @@ msgstr "Tropas aliadas de planador chegando pelo noroeste!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator14"
 msgid "Kraut Halftrack!"
-msgstr "Meia-lagarta alemão!"
+msgstr "Meia-lagarta Kraut!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator15"
 msgid "Go, go, go!"
@@ -110,7 +110,7 @@ msgstr "O Jerry está recuando de novo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier04"
 msgid "Those Krauts have had enough!"
-msgstr "Aqueles alemães já chegaram ao limite!"
+msgstr "Aqueles Krauts já chegaram ao limite!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier05"
 msgid "Hey, check this out! Jerry was too busy runnin’ to take this with ‘em!"
@@ -182,11 +182,11 @@ msgstr "(Objetivo Secreto nº 1) Encontre a artilharia de foguetes alemã."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_winters"
 msgid "Lt. Winters must survive."
-msgstr "O Ten. Winters deve sobreviver."
+msgstr "O Tenente Winters deve sobreviver."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task_heal_winters"
 msgid "Treat Lt. Winters before he bleeds to death!"
-msgstr "Trate o Ten. Winters antes que ele morra de hemorragia!"
+msgstr "Trate o Tenente Winters antes que ele morra de hemorragia!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/timer"
 msgid "Prepare for an enemy counterattack:"

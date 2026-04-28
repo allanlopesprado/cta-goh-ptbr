@@ -31,7 +31,7 @@ msgstr "Rajavartija Operador de MG [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/early/border_guard_mg_asst"
 msgid "Rajavartija MG Asst. [Rajavartiolaitos]"
-msgstr "Rajavartija Aux. de MG [Rajavartiolaitos]"
+msgstr "Rajavartija Auxiliar de Metralhadora [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/early/border_guard_rifle"
 msgid "Rajavartija [Rajavartiolaitos]"
@@ -59,7 +59,7 @@ msgstr "Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/cav_mg_asst"
 msgid "Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/cav_rifle"
 msgid "Ratsuväki [Maavoimat]"
@@ -135,7 +135,7 @@ msgstr "Jääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/jag_mg_asst"
 msgid "Jääkäri MG Asst. [Maavoimat]"
-msgstr "Jääkäri Aux. de MG [Maavoimat]"
+msgstr "Jääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/jag_rifle"
 msgid "Jääkäri [Maavoimat]"
@@ -175,7 +175,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mg_crew"
 msgid "MG crew [Maavoimat]"
@@ -183,7 +183,7 @@ msgstr "Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mg_crew_asst"
 msgid "MG crew Asst. [Maavoimat]"
-msgstr "Aux. de Tripulação MG [Maavoimat]"
+msgstr "Auxiliar de Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mg_madsen"
 msgid "MG Operator [Maavoimat]"
@@ -231,7 +231,7 @@ msgstr "Sissi Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/sissi_mg_asst"
 msgid "Sissi MG Asst. [Maavoimat]"
-msgstr "Sissi Aux. de MG [Maavoimat]"
+msgstr "Sissi Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/sissi_rifle"
 msgid "Sissi [Maavoimat]"
@@ -279,7 +279,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/summer_mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/summer_rifle"
 msgid "Rifleman [Maavoimat]"
@@ -371,7 +371,7 @@ msgstr "Rajajääkäri Operador de MG [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/late/border_jag_mg_asst"
 msgid "Rajajääkäri MG Asst. [Rajavartiolaitos]"
-msgstr "Rajajääkäri Aux. de MG [Rajavartiolaitos]"
+msgstr "Rajajääkäri Auxiliar de Metralhadora [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/late/border_jag_rifle"
 msgid "Rajajääkäri [Rajavartiolaitos]"
@@ -403,7 +403,7 @@ msgstr "Ratsuväki Operador MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/cav_mg_asst"
 msgid "Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/cav_rifle"
 msgid "Ratsuväki [Maavoimat]"
@@ -463,7 +463,7 @@ msgstr "Jääkäri Tripulação [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/jag_crew_asst"
 msgid "Jääkäri Crew Asst. [Maavoimat]"
-msgstr "Jääkäri Tripulação Aux. [Maavoimat]"
+msgstr "Jääkäri Tripulação Auxiliar [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/jag_engineer_flamer"
 msgid "Jääkäri Engineer Flamer inf. [Maavoimat]"
@@ -479,7 +479,7 @@ msgstr "Jääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/jag_mg_asst"
 msgid "Jääkäri MG Asst. [Maavoimat]"
-msgstr "Jääkäri Aux. de MG [Maavoimat]"
+msgstr "Jääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/jag_pzfaust"
 msgid "Jääkäri AT inf. [Maavoimat]"
@@ -539,7 +539,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_crew"
 msgid "MG crew [Maavoimat]"
@@ -547,7 +547,7 @@ msgstr "Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_crew_asst"
 msgid "MG crew Asst. [Maavoimat]"
-msgstr "Aux. de Tripulação MG [Maavoimat]"
+msgstr "Auxiliar de Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_dp"
 msgid "MG Operator [Maavoimat]"
@@ -555,7 +555,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_dp_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/officer"
 msgid "Officer [Maavoimat]"
@@ -567,7 +567,7 @@ msgstr "Operador de MG de Reserva [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/reservist_mg_asst"
 msgid "Reserve MG Asst. [Maavoimat]"
-msgstr "Aux. de MG de Reserva [Maavoimat]"
+msgstr "Auxiliar de Metralhadora de Reserva [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/reservist_rifle"
 msgid "Reserve Rifleman [Maavoimat]"
@@ -615,7 +615,7 @@ msgstr "Sissi Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/sissi_mg_asst"
 msgid "Sissi MG Asst. [Maavoimat]"
-msgstr "Sissi Aux. de MG [Maavoimat]"
+msgstr "Sissi Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/sissi_rifle"
 msgid "Sissi [Maavoimat]"
@@ -663,7 +663,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/summer_mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/summer_rifle"
 msgid "Rifleman [Maavoimat]"
@@ -735,7 +735,7 @@ msgstr "Rajajääkäri Operador de MG [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/mid/border_jag_mg_asst"
 msgid "Rajajääkäri MG Asst. [Rajavartiolaitos]"
-msgstr "Rajajääkäri Aux. de MG [Rajavartiolaitos]"
+msgstr "Rajajääkäri Auxiliar de Metralhadora [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/mid/border_jag_rifle"
 msgid "Rajajääkäri [Rajavartiolaitos]"
@@ -763,7 +763,7 @@ msgstr "Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/cav_mg_asst"
 msgid "Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/cav_rifle"
 msgid "Ratsuväki [Maavoimat]"
@@ -827,7 +827,7 @@ msgstr "Jääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/jag_mg_asst"
 msgid "Jääkäri MG Asst. [Maavoimat]"
-msgstr "Jääkäri Aux. de MG [Maavoimat]"
+msgstr "Jääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/jag_rifle"
 msgid "Jääkäri [Maavoimat]"
@@ -867,7 +867,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_crew"
 msgid "MG crew [Maavoimat]"
@@ -875,7 +875,7 @@ msgstr "Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_crew_asst"
 msgid "MG crew Asst. [Maavoimat]"
-msgstr "Aux. de Tripulação MG [Maavoimat]"
+msgstr "Auxiliar de Tripulação MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_dp"
 msgid "MG Operator [Maavoimat]"
@@ -883,7 +883,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_dp_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/officer"
 msgid "Officer [Maavoimat]"
@@ -939,7 +939,7 @@ msgstr "Sissi Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/sissi_mg_asst"
 msgid "Sissi MG Asst. [Maavoimat]"
-msgstr "Sissi Aux. de MG [Maavoimat]"
+msgstr "Sissi Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/sissi_rifle"
 msgid "Sissi [Maavoimat]"
@@ -983,7 +983,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/summer_mg_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/summer_rifle"
 msgid "Rifleman [Maavoimat]"
@@ -1043,7 +1043,7 @@ msgstr "Veterano Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/vet_mg_asst"
 msgid "Veteran MG Asst. [Maavoimat]"
-msgstr "Veterano Aux. de MG [Maavoimat]"
+msgstr "Veterano Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/vet_squadleader"
 msgid "Veteran Squadleader [Maavoimat]"
@@ -1087,7 +1087,7 @@ msgstr "Elite Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/elite_mg_dp_asst"
 msgid "Elite MG Asst. [Maavoimat]"
-msgstr "Elite Aux. de MG [Maavoimat]"
+msgstr "Elite Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/elite_rifleman"
 msgid "Elite Rifleman [Maavoimat]"
@@ -1115,7 +1115,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/mg_dt_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_cav_mg"
 msgid "Veteran Ratsuväki MG Operator [Maavoimat]"
@@ -1123,7 +1123,7 @@ msgstr "Veterano Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_cav_mg_asst"
 msgid "Veteran Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Veterano Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Veterano Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_cav_rifle"
 msgid "Veteran Ratsuväki [Maavoimat]"
@@ -1151,7 +1151,7 @@ msgstr "Veterano Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_mg_dp_asst"
 msgid "Veteran MG Asst. [Maavoimat]"
-msgstr "Veterano Aux. de MG [Maavoimat]"
+msgstr "Veterano Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_rifleman"
 msgid "Veteran Rifleman [Maavoimat]"
@@ -1207,7 +1207,7 @@ msgstr "Veterano Jääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_jag_mg_asst"
 msgid "Veteran Jääkäri MG Asst. [Maavoimat]"
-msgstr "Veterano Jääkäri Aux. de MG [Maavoimat]"
+msgstr "Veterano Jääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/vet_jag_rifle"
 msgid "Veteran Jääkäri [Maavoimat]"
@@ -1263,7 +1263,7 @@ msgstr "Elite Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_mg_asst"
 msgid "Elite MG Asst. [Maavoimat]"
-msgstr "Elite Aux. de MG [Maavoimat]"
+msgstr "Elite Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_mg_dp"
 msgid "Elite MG Operator [Maavoimat]"
@@ -1271,7 +1271,7 @@ msgstr "Elite Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_mg_dp_asst"
 msgid "Elite MG Asst. [Maavoimat]"
-msgstr "Elite Aux. de MG [Maavoimat]"
+msgstr "Elite Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_rifle"
 msgid "Elite Rifleman [Maavoimat]"
@@ -1307,7 +1307,7 @@ msgstr "Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/mg_dt_asst"
 msgid "MG Asst. [Maavoimat]"
-msgstr "Aux. de MG [Maavoimat]"
+msgstr "Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/pio_builder"
 msgid "Pioneeri Engineer [Maavoimat]"
@@ -1335,7 +1335,7 @@ msgstr "Veterano Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_cav_mg_asst"
 msgid "Veteran Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Veterano Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Veterano Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_cav_rifle"
 msgid "Veteran Ratsuväki [Maavoimat]"
@@ -1363,7 +1363,7 @@ msgstr "Veterano Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_mg_asst"
 msgid "Veteran MG Asst. [Maavoimat]"
-msgstr "Veterano Aux. de MG [Maavoimat]"
+msgstr "Veterano Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_mg_dp"
 msgid "Veteran MG Operator [Maavoimat]"
@@ -1371,7 +1371,7 @@ msgstr "Veterano Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_mg_dp_asst"
 msgid "Veteran MG Asst. [Maavoimat]"
-msgstr "Veterano Aux. de MG [Maavoimat]"
+msgstr "Veterano Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_rifle"
 msgid "Veteran Rifleman [Maavoimat]"
@@ -1415,7 +1415,7 @@ msgstr "Veterano Jääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_jag_mg_asst"
 msgid "Veteran Jääkäri MG Asst. [Maavoimat]"
-msgstr "Veterano Jääkäri Aux. de MG [Maavoimat]"
+msgstr "Veterano Jääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/vet_jag_rifle"
 msgid "Veteran Jääkäri [Maavoimat]"
@@ -1475,7 +1475,7 @@ msgstr "Hämeen Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/hrr_cav_mg_asst"
 msgid "Hämeen Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Hämeen Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Hämeen Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/hrr_cav_rifle"
 msgid "Hämeen Ratsuväki [Maavoimat]"
@@ -1503,7 +1503,7 @@ msgstr "Kevyt Osasto Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/light_scout_mg_asst"
 msgid "Kevyt Osasto MG Asst. [Maavoimat]"
-msgstr "Kevyt Osasto Aux. de MG [Maavoimat]"
+msgstr "Kevyt Osasto Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/light_scout_rifle"
 msgid "Kevyt Osasto Rifleman [Maavoimat]"
@@ -1531,7 +1531,7 @@ msgstr "Sotapoliisi Líder de Esquadra [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mp_off_asst"
 msgid "Sotapoliisi Asst. Leader [Maavoimat]"
-msgstr "Sotapoliisi Aux. de Líder [Maavoimat]"
+msgstr "Sotapoliisi Auxiliar de Líder [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/mp_rifle"
 msgid "Sotapoliisi [Maavoimat]"
@@ -1543,7 +1543,7 @@ msgstr "Jägar Operador MG [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_jag_mg_asst"
 msgid "Jägar MG Asst. [Svensk Volontär]"
-msgstr "Jägar Aux. MG [Svensk Volontär]"
+msgstr "Jägar Auxiliar de Metralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_jag_rifle"
 msgid "Jägar [Svensk Volontär]"
@@ -1555,7 +1555,7 @@ msgstr "Jägar Líder de Esquadra [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_jag_sl_asst"
 msgid "Jägar Asst. Leader [Svensk Volontär]"
-msgstr "Jägar Aux. Líder [Svensk Volontär]"
+msgstr "Jägar Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_jag_smg"
 msgid "Jägar [Svensk Volontär]"
@@ -1567,7 +1567,7 @@ msgstr "Operador MG [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_mg_asst"
 msgid "MG Asst. [Svensk Volontär]"
-msgstr "Aux. MG [Svensk Volontär]"
+msgstr "Auxiliar de Metralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_recon_rifle"
 msgid "Recon [Svensk Volontär]"
@@ -1587,7 +1587,7 @@ msgstr "Líder de Esquadra [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_sl_asst"
 msgid "Asst. Leader [Svensk Volontär]"
-msgstr "Aux. Líder [Svensk Volontär]"
+msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
@@ -1599,7 +1599,7 @@ msgstr "Uudenmaan Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/urr_cav_mg_asst"
 msgid "Uudenmaan Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Uudenmaan Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Uudenmaan Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/urr_cav_rifle"
 msgid "Uudenmaan Ratsuväki [Maavoimat]"
@@ -1627,7 +1627,7 @@ msgstr "Iskuryhmä Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/assault_mg_asst"
 msgid "Iskuryhmä MG Asst. [Maavoimat]"
-msgstr "Iskuryhmä Aux. de MG [Maavoimat]"
+msgstr "Iskuryhmä Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/assault_rifle"
 msgid "Iskuryhmä Rifleman [Maavoimat]"
@@ -1655,7 +1655,7 @@ msgstr "Fortress Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_mg_asst"
 msgid "Fortress MG Asst. [Maavoimat]"
-msgstr "Fortress Aux. de MG [Maavoimat]"
+msgstr "Fortress Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_rifle"
 msgid "Fortress Rifleman [Maavoimat]"
@@ -1735,7 +1735,7 @@ msgstr "Hämeen Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/hrr_cav_mg_asst"
 msgid "Hämeen Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Hämeen Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Hämeen Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/hrr_cav_rifle"
 msgid "Hämeen Ratsuväki [Maavoimat]"
@@ -1787,7 +1787,7 @@ msgstr "Penal Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/penal_mg_asst"
 msgid "Penal MG Asst. [Maavoimat]"
-msgstr "Penal Aux. de MG [Maavoimat]"
+msgstr "Penal Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/penal_rifle"
 msgid "Penal Rifleman [Maavoimat]"
@@ -1807,7 +1807,7 @@ msgstr "Operador MG [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/swe_mg_asst"
 msgid "MG Asst. [Svensk Volontär]"
-msgstr "Aux. MG [Svensk Volontär]"
+msgstr "Auxiliar de Metralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/swe_rifle"
 msgid "Rifleman [Svensk Volontär]"
@@ -1819,7 +1819,7 @@ msgstr "Líder de Esquadra [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/swe_sl_asst"
 msgid "Asst. Leader [Svensk Volontär]"
-msgstr "Aux. Líder [Svensk Volontär]"
+msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
@@ -1831,7 +1831,7 @@ msgstr "Uudenmaan Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/urr_cav_mg_asst"
 msgid "Uudenmaan Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Uudenmaan Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Uudenmaan Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/urr_cav_rifle"
 msgid "Uudenmaan Ratsuväki [Maavoimat]"
@@ -1879,7 +1879,7 @@ msgstr "Panssarijääkäri Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/arm_jag_mg_asst"
 msgid "Panssarijääkäri MG Asst. [Maavoimat]"
-msgstr "Panssarijääkäri Aux. de MG [Maavoimat]"
+msgstr "Panssarijääkäri Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/arm_jag_pzs"
 msgid "Panssarijääkäri AT Inf. [Maavoimat]"
@@ -1887,7 +1887,7 @@ msgstr "Panssarijääkäri Inf. AT [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/arm_jag_pzs_asst"
 msgid "Panssarijääkäri AT Asst. [Maavoimat]"
-msgstr "Panssarijääkäri Aux. AT [Maavoimat]"
+msgstr "Panssarijääkäri Auxiliar Antitanque [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/arm_jag_rifle"
 msgid "Panssarijääkäri [Maavoimat]"
@@ -1935,7 +1935,7 @@ msgstr "Iskuryhmä Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/assault_mg_asst"
 msgid "Iskuryhmä MG Asst. [Maavoimat]"
-msgstr "Iskuryhmä Aux. de MG [Maavoimat]"
+msgstr "Iskuryhmä Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/assault_rifle"
 msgid "Iskuryhmä Rifleman [Maavoimat]"
@@ -1959,7 +1959,7 @@ msgstr "Fortress Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_mg_asst"
 msgid "Fortress MG Asst. [Maavoimat]"
-msgstr "Fortress Aux. de MG [Maavoimat]"
+msgstr "Fortress Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_rifle"
 msgid "Fortress Rifleman [Maavoimat]"
@@ -2047,7 +2047,7 @@ msgstr "Hämeen Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/hrr_cav_mg_asst"
 msgid "Hämeen Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Hämeen Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Hämeen Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/hrr_cav_rifle"
 msgid "Hämeen Ratsuväki [Maavoimat]"
@@ -2083,7 +2083,7 @@ msgstr "Penal Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/penal_mg_asst"
 msgid "Penal MG Asst. [Maavoimat]"
-msgstr "Penal Aux. de MG [Maavoimat]"
+msgstr "Penal Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/penal_rifle"
 msgid "Penal Rifleman [Maavoimat]"
@@ -2103,7 +2103,7 @@ msgstr "Penal Inf. SMG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/reservist_mg_asst_m21"
 msgid "Reserve MG Asst. [Maavoimat]"
-msgstr "Aux. de MG de Reserva [Maavoimat]"
+msgstr "Auxiliar de Metralhadora de Reserva [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/reservist_mg_m21"
 msgid "Reserve MG Operator [Maavoimat]"
@@ -2123,7 +2123,7 @@ msgstr "Operador MG [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/swe_mg_asst"
 msgid "MG Asst. [Svensk Volontär]"
-msgstr "Aux. MG [Svensk Volontär]"
+msgstr "Auxiliar de Metralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/swe_rifle"
 msgid "Rifleman [Svensk Volontär]"
@@ -2139,7 +2139,7 @@ msgstr "Líder de Esquadra [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/swe_sl_asst"
 msgid "Asst. Leader [Svensk Volontär]"
-msgstr "Aux. Líder [Svensk Volontär]"
+msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
@@ -2151,7 +2151,7 @@ msgstr "Uudenmaan Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/urr_cav_mg_asst"
 msgid "Uudenmaan Ratsuväki MG Asst. [Maavoimat]"
-msgstr "Uudenmaan Ratsuväki Aux. de MG [Maavoimat]"
+msgstr "Uudenmaan Ratsuväki Auxiliar de Metralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/urr_cav_rifle"
 msgid "Uudenmaan Ratsuväki [Maavoimat]"

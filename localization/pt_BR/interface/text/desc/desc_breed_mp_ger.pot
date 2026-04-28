@@ -55,11 +55,11 @@ msgstr "Brandenburger [Heer]"
 
 msgctxt "desc/human/mp/ger/early/brand_4"
 msgid "Brandenburger MG Asst. [Heer]"
-msgstr "Brandenburger Aux. de MG [Heer]"
+msgstr "Brandenburger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/brand_5"
 msgid "Brandenburger Asst. Leader [Heer]"
-msgstr "Brandenburger Aux. de Líder [Heer]"
+msgstr "Brandenburger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/brand_6"
 msgid "Brandenburger [Heer]"
@@ -99,7 +99,7 @@ msgstr "Fallschirmjäger Carregador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_mg_asst"
 msgid "Fallschirmjäger MG Asst. [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_crew"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -119,7 +119,7 @@ msgstr "Fallschirmjäger Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_sl_asst"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_smg"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -151,7 +151,7 @@ msgstr "Großdeutschland Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_mg_asst"
 msgid "Großdeutschland MG Asst. [Heer]"
-msgstr "Großdeutschland Aux. de MG [Heer]"
+msgstr "Großdeutschland Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_rifle"
 msgid "Großdeutschland Rifleman [Heer]"
@@ -163,7 +163,7 @@ msgstr "Großdeutschland Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_sl_asst"
 msgid "Großdeutschland Asst. Leader [Heer]"
-msgstr "Großdeutschland Aux. de Líder [Heer]"
+msgstr "Großdeutschland Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_1"
 msgid "Gebirgsjäger [Heer]"
@@ -183,7 +183,7 @@ msgstr "Gebirgsjäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_mg_asst"
 msgid "Gebirgsjäger MG Asst. [Heer]"
-msgstr "Gebirgsjäger Aux. de MG [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_rifle"
 msgid "Gebirgsjäger [Heer]"
@@ -195,7 +195,7 @@ msgstr "Gebirgsjäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_sl_asst"
 msgid "Gebirgsjäger Asst. Leader [Heer]"
-msgstr "Gebirgsjäger Aux. de Líder [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_smg"
 msgid "Gebirgsjäger [Heer]"
@@ -211,7 +211,7 @@ msgstr "Landesschütze Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/landwehr_mg_asst"
 msgid "Landesschütze MG Asst. [Heer]"
-msgstr "Landesschütze Aux. de MG [Heer]"
+msgstr "Landesschütze Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/landwehr_rifle"
 msgid "Landesschütze [Heer]"
@@ -223,7 +223,7 @@ msgstr "Landesschütze Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/landwehr_sl_asst"
 msgid "Landesschütze Asst. Leader [Heer]"
-msgstr "Landesschütze Aux. de Líder [Heer]"
+msgstr "Landesschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/luft_1"
 msgid "LW Field Inf. [Luftwaffe]"
@@ -247,7 +247,7 @@ msgstr "LW Carregador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/luft_mg_asst"
 msgid "LW MG Asst. [Luftwaffe]"
-msgstr "LW Aux. de MG [Luftwaffe]"
+msgstr "LW Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/luft_rifle"
 msgid "LW Rifleman [Luftwaffe]"
@@ -259,7 +259,7 @@ msgstr "LW Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/luft_sl_asst"
 msgid "LW Asst. Leader [Luftwaffe]"
-msgstr "LW Aux. de Líder [Luftwaffe]"
+msgstr "LW Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/marine_mg"
 msgid "Marine MG Operator [Kriegsmarine]"
@@ -271,7 +271,7 @@ msgstr "Marine Carregador de MG [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_mg_asst"
 msgid "Marine MG Asst. [Kriegsmarine]"
-msgstr "Marine Aux. de MG [Kriegsmarine]"
+msgstr "Marine Auxiliar de Metralhadora [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_rifle"
 msgid "Marine [Kriegsmarine]"
@@ -283,7 +283,7 @@ msgstr "Marine Líder de Esquadra [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_sl_asst"
 msgid "Marine Asst. Leader [Kriegsmarine]"
-msgstr "Marine Aux. de Líder [Kriegsmarine]"
+msgstr "Marine Auxiliar de Líder [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/medic"
 msgid "Medic [Heer]"
@@ -295,7 +295,7 @@ msgstr "Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mg_crew_asst"
 msgid "MG crew Asst. [Heer]"
-msgstr "Aux. de Tripulação MG [Heer]"
+msgstr "Auxiliar de Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mgun_1"
 msgid "MG Operator [Heer]"
@@ -303,11 +303,11 @@ msgstr "Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mgun_2"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mgun_2_rifle"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mgun_3"
 msgid "MG Ammo Bearer [Heer]"
@@ -327,7 +327,7 @@ msgstr "Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/nco_asst"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pilot"
 msgid "Pilot [Luftwaffe]"
@@ -363,7 +363,7 @@ msgstr "Pionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_mgun_asst"
 msgid "Pionier MG Asst. [Heer]"
-msgstr "Pionier Aux. de MG [Heer]"
+msgstr "Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_rifle"
 msgid "Pionier [Heer]"
@@ -383,7 +383,7 @@ msgstr "Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_sl_asst"
 msgid "Pionier Asst. Leader [Heer]"
-msgstr "Pionier Aux. de Líder [Heer]"
+msgstr "Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_flame"
 msgid "Panzerpionier [Heer]"
@@ -399,7 +399,7 @@ msgstr "Panzerpionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_mg_asst"
 msgid "Panzerpionier MG Asst. [Heer]"
-msgstr "Panzerpionier Aux. de MG [Heer]"
+msgstr "Panzerpionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_rifle"
 msgid "Panzerpionier [Heer]"
@@ -419,7 +419,7 @@ msgstr "Panzerpionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_sl_asst"
 msgid "Panzerpionier Asst. Leader [Heer]"
-msgstr "Panzerpionier Aux. de Líder [Heer]"
+msgstr "Panzerpionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/recon_mg"
 msgid "Aufklärer MG Operator [Heer]"
@@ -427,7 +427,7 @@ msgstr "Aufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/recon_mg_asst"
 msgid "Aufklärer MG Asst. [Heer]"
-msgstr "Aufklärer Aux. de MG [Heer]"
+msgstr "Aufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/recon_rifle"
 msgid "Aufklärer [Heer]"
@@ -439,7 +439,7 @@ msgstr "Aufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/recon_sl_asst"
 msgid "Aufklärer Asst. Leader [Heer]"
-msgstr "Aufklärer Aux. de Líder [Heer]"
+msgstr "Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/rifleman_1"
 msgid "Rifleman [Heer]"
@@ -551,7 +551,7 @@ msgstr "Begleitgrenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_mg_asst"
 msgid "Begleitgrenadier MG Asst. [Heer]"
-msgstr "Begleitgrenadier Aux. de MG [Heer]"
+msgstr "Begleitgrenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_sa"
 msgid "Begleitgrenadier [Heer]"
@@ -567,7 +567,7 @@ msgstr "Begleitgrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_sl_asst"
 msgid "Begleitgrenadier Asst. Leader [Heer]"
-msgstr "Begleitgrenadier Aux. de Líder [Heer]"
+msgstr "Begleitgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_stg"
 msgid "Begleitgrenadier [Heer]"
@@ -587,11 +587,11 @@ msgstr "Brandenburger [Heer]"
 
 msgctxt "desc/human/mp/ger/late/brand_4"
 msgid "Brandenburger MG Asst. [Heer]"
-msgstr "Brandenburger Aux. de MG [Heer]"
+msgstr "Brandenburger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/brand_5"
 msgid "Brandenburger Asst. Leader [Heer]"
-msgstr "Brandenburger Aux. de Líder [Heer]"
+msgstr "Brandenburger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/brand_6"
 msgid "Brandenburger [Heer]"
@@ -631,7 +631,7 @@ msgstr "Fallschirmjäger Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_mg_asst"
 msgid "Fallschirmjäger MG Asst. [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_mg"
 msgid "Fallschirmpionier MG Operator [Luftwaffe]"
@@ -639,7 +639,7 @@ msgstr "Fallschirmpionier Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_mg_asst"
 msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_rifle"
 msgid "Fallschirmpionier [Luftwaffe]"
@@ -655,7 +655,7 @@ msgstr "Fallschirmpionier Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_sl_asst"
 msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_crew"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -687,11 +687,11 @@ msgstr "Fallschirmjäger Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_sl_asst"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_sl_asst_stg"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_stg"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -707,7 +707,7 @@ msgstr "Füsilier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_mg_asst"
 msgid "Füsilier MG Asst. [Heer]"
-msgstr "Füsilier Aux. de MG [Heer]"
+msgstr "Füsilier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_rifle"
 msgid "Füsilier [Heer]"
@@ -731,7 +731,7 @@ msgstr "Füsilier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_sl_asst"
 msgid "Füsilier Asst. Leader [Heer]"
-msgstr "Füsilier Aux. de Líder [Heer]"
+msgstr "Füsilier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_smg"
 msgid "Füsilier [Heer]"
@@ -743,7 +743,7 @@ msgstr "GD.Pz.Grenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pzgren_mg_asst"
 msgid "GD.Pz.Grenadier MG Asst. [Heer]"
-msgstr "GD.Pz.Grenadier Aux. de MG [Heer]"
+msgstr "GD.Pz.Grenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pzgren_rifle"
 msgid "GD.Pz.Grenadier [Heer]"
@@ -767,7 +767,7 @@ msgstr "GD.Pz.Grenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pzgren_sl_asst"
 msgid "GD.Pz.Grenadier Asst. Leader [Heer]"
-msgstr "GD.Pz.Grenadier Aux. de Líder [Heer]"
+msgstr "GD.Pz.Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pzgren_stg"
 msgid "GD.Pz.Grenadier [Heer]"
@@ -791,7 +791,7 @@ msgstr "Gebirgsjäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_mg_asst"
 msgid "Gebirgsjäger MG Asst. [Heer]"
-msgstr "Gebirgsjäger Aux. de MG [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_rifle"
 msgid "Gebirgsjäger [Heer]"
@@ -803,7 +803,7 @@ msgstr "Gebirgsjäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_sl_asst"
 msgid "Gebirgsjäger Asst. Leader [Heer]"
-msgstr "Gebirgsjäger Aux. de Líder [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_smg"
 msgid "Gebirgsjäger [Heer]"
@@ -823,7 +823,7 @@ msgstr "Grenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_mg_asst"
 msgid "Grenadier MG Asst. [Heer]"
-msgstr "Grenadier Aux. de MG [Heer]"
+msgstr "Grenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_rifle"
 msgid "Grenadier [Heer]"
@@ -843,15 +843,15 @@ msgstr "Grenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sl_asst"
 msgid "Grenadier Asst. Leader [Heer]"
-msgstr "Grenadier Aux. de Líder [Heer]"
+msgstr "Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sl_asst_smg"
 msgid "Grenadier Asst. Leader [Heer]"
-msgstr "Grenadier Aux. de Líder [Heer]"
+msgstr "Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sl_asst_sniper"
 msgid "Grenadier Asst. Leader [Heer]"
-msgstr "Grenadier Aux. de Líder [Heer]"
+msgstr "Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_smg"
 msgid "Grenadier [Heer]"
@@ -863,7 +863,7 @@ msgstr "Sturmgrenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sturm_mg_asst"
 msgid "Sturmgrenadier MG Asst. [Heer]"
-msgstr "Sturmgrenadier Aux. de MG [Heer]"
+msgstr "Sturmgrenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sturm_pzf"
 msgid "Sturmgrenadier [Heer]"
@@ -879,7 +879,7 @@ msgstr "Sturmgrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sturm_sl_asst"
 msgid "Sturmgrenadier Asst. Leader [Heer]"
-msgstr "Sturmgrenadier Aux. de Líder [Heer]"
+msgstr "Sturmgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gren_sturm_stg"
 msgid "Sturmgrenadier [Heer]"
@@ -891,7 +891,7 @@ msgstr "Jäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_mg_asst"
 msgid "Jäger MG Asst. [Heer]"
-msgstr "Jäger Aux. de MG [Heer]"
+msgstr "Jäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_rifle"
 msgid "Jäger [Heer]"
@@ -907,7 +907,7 @@ msgstr "Jäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_sl_asst"
 msgid "Jäger Asst. Leader [Heer]"
-msgstr "Jäger Aux. de Líder [Heer]"
+msgstr "Jäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_smg"
 msgid "Jäger [Heer]"
@@ -923,7 +923,7 @@ msgstr "Sturmjäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_sturm_mg_asst"
 msgid "Sturmjäger MG Asst. [Heer]"
-msgstr "Sturmjäger Aux. de MG [Heer]"
+msgstr "Sturmjäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_sturm_sa"
 msgid "Sturmjäger [Heer]"
@@ -935,7 +935,7 @@ msgstr "Sturmjäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_sturm_sl_asst"
 msgid "Sturmjäger Asst. Leader [Heer]"
-msgstr "Sturmjäger Aux. de Líder [Heer]"
+msgstr "Sturmjäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/jager_sturm_stg"
 msgid "Sturmjäger [Heer]"
@@ -963,7 +963,7 @@ msgstr "LW Füsilier Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_fus_mg_asst"
 msgid "LW Füsilier MG Asst. [Luftwaffe]"
-msgstr "LW Füsilier Aux. de MG [Luftwaffe]"
+msgstr "LW Füsilier Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_fus_rifle"
 msgid "LW Füsilier [Luftwaffe]"
@@ -975,7 +975,7 @@ msgstr "LW Füsilier Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_fus_sl_asst"
 msgid "LW Füsilier Asst. Leader [Luftwaffe]"
-msgstr "LW Füsilier Aux. de Líder [Luftwaffe]"
+msgstr "LW Füsilier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_fus_smg"
 msgid "LW Füsilier [Luftwaffe]"
@@ -991,7 +991,7 @@ msgstr "Marine Líder de Esquadra [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/late/marine_sl_asst"
 msgid "Marine Asst. Leader [Kriegsmarine]"
-msgstr "Marine Aux. de Líder [Kriegsmarine]"
+msgstr "Marine Auxiliar de Líder [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/late/medic"
 msgid "Medic [Heer]"
@@ -1003,7 +1003,7 @@ msgstr "Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/mg_crew_asst"
 msgid "MG crew Asst. [Heer]"
-msgstr "Aux. de Tripulação MG [Heer]"
+msgstr "Auxiliar de Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/mgun_1"
 msgid "MG Operator [Heer]"
@@ -1071,7 +1071,7 @@ msgstr "Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pioneer_mgun_asst"
 msgid "Pionier MG Asst. [Heer]"
-msgstr "Pionier Aux. de MG [Heer]"
+msgstr "Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pioneer_pzf"
 msgid "Pionier [Heer]"
@@ -1091,7 +1091,7 @@ msgstr "Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pioneer_sl_asst"
 msgid "Pionier Asst. Leader [Heer]"
-msgstr "Pionier Aux. de Líder [Heer]"
+msgstr "Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pioneer_sl_stg"
 msgid "Pionier Squadleader [Heer]"
@@ -1107,7 +1107,7 @@ msgstr "Panzergrenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_mg_asst"
 msgid "Panzergrenadier MG Asst. [Heer]"
-msgstr "Panzergrenadier Aux. de MG [Heer]"
+msgstr "Panzergrenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_rifle"
 msgid "Panzergrenadier [Heer]"
@@ -1131,7 +1131,7 @@ msgstr "Panzergrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_sl_asst"
 msgid "Panzergrenadier Asst. Leader [Heer]"
-msgstr "Panzergrenadier Aux. de Líder [Heer]"
+msgstr "Panzergrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_stg"
 msgid "Panzergrenadier [Heer]"
@@ -1151,7 +1151,7 @@ msgstr "Pz.Sturmgrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_sturm_sl_asst"
 msgid "Pz.Sturmgrenadier Asst. Leader [Heer]"
-msgstr "Pz.Sturmgrenadier Aux. de Líder [Heer]"
+msgstr "Pz.Sturmgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pzgren_sturm_stg"
 msgid "Pz.Sturmgrenadier [Heer]"
@@ -1163,7 +1163,7 @@ msgstr "Aufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_mg_asst"
 msgid "Aufklärer MG Asst. [Heer]"
-msgstr "Aufklärer Aux. de MG [Heer]"
+msgstr "Aufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_rifle"
 msgid "Aufklärer [Heer]"
@@ -1171,15 +1171,15 @@ msgstr "Aufklärer [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_sl_asst_rifle"
 msgid "Aufklärer Asst. Leader [Heer]"
-msgstr "Aufklärer Aux. de Líder [Heer]"
+msgstr "Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_sl_asst_sa"
 msgid "Aufklärer Asst. Leader [Heer]"
-msgstr "Aufklärer Aux. de Líder [Heer]"
+msgstr "Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_sl_asst_stg"
 msgid "Aufklärer Asst. Leader [Heer]"
-msgstr "Aufklärer Aux. de Líder [Heer]"
+msgstr "Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/recon_sl_rifle"
 msgid "Aufklärer Squadleader [Heer]"
@@ -1295,7 +1295,7 @@ msgstr "Volksgrenadier [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_at2"
 msgid "Volksgrenadier AT Asst. [Heer]"
-msgstr "Volksgrenadier Aux. AT [Heer]"
+msgstr "Volksgrenadier Auxiliar Antitanque [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_at"
 msgid "Volksgrenadier AT inf. [Heer]"
@@ -1307,11 +1307,11 @@ msgstr "Volksgrenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_mg_asst"
 msgid "Volksgrenadier MG Asst. [Heer]"
-msgstr "Volksgrenadier Aux. de MG [Heer]"
+msgstr "Volksgrenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_mg_asst_sa"
 msgid "Volksgrenadier MG Asst. [Heer]"
-msgstr "Volksgrenadier Aux. de MG [Heer]"
+msgstr "Volksgrenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_rifle"
 msgid "Volksgrenadier [Heer]"
@@ -1347,11 +1347,11 @@ msgstr "Volksgrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_sl_asst"
 msgid "Volksgrenadier Asst. Leader [Heer]"
-msgstr "Volksgrenadier Aux. de Líder [Heer]"
+msgstr "Volksgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_sl_asst_smg"
 msgid "Volksgrenadier Asst. Leader [Heer]"
-msgstr "Volksgrenadier Aux. de Líder [Heer]"
+msgstr "Volksgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/volksg_sl_smg"
 msgid "Volksgrenadier Squadleader [Heer]"
@@ -1459,11 +1459,11 @@ msgstr "Blau Div. Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/blau_6"
 msgid "Blau Div. MG Asst. [Heer]"
-msgstr "Blau Div. Aux. de MG [Heer]"
+msgstr "Blau Div. Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/blau_sl_asst"
 msgid "Blau Div. Asst. Leader [Heer]"
-msgstr "Blau Div. Aux. de Líder [Heer]"
+msgstr "Blau Div. Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/brand_1"
 msgid "Brandenburger Squadleader [Heer]"
@@ -1479,11 +1479,11 @@ msgstr "Brandenburger [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/brand_4"
 msgid "Brandenburger MG Asst. [Heer]"
-msgstr "Brandenburger Aux. de MG [Heer]"
+msgstr "Brandenburger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/brand_5"
 msgid "Brandenburger Asst. Leader [Heer]"
-msgstr "Brandenburger Aux. de Líder [Heer]"
+msgstr "Brandenburger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/brand_6"
 msgid "Brandenburger [Heer]"
@@ -1531,7 +1531,7 @@ msgstr "Fallschirmjäger Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_mg_asst"
 msgid "Fallschirmjäger MG Asst. [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_crew"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -1559,11 +1559,11 @@ msgstr "Fallschirmjäger Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_sl_asst"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_sl_asst_fg"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_smg"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -1579,7 +1579,7 @@ msgstr "Operador de MG 'Großdeutschland' [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_mg_asst"
 msgid "MG Asst. 'Großdeutschland' [Heer]"
-msgstr "Aux. de MG 'Großdeutschland' [Heer]"
+msgstr "Auxiliar de Metralhadora 'Großdeutschland' [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_rifle"
 msgid "Rifleman 'Großdeutschland' [Heer]"
@@ -1595,7 +1595,7 @@ msgstr "Líder de Esquadra 'Großdeutschland' [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_sl_asst"
 msgid "Asst. Leader 'Großdeutschland' [Heer]"
-msgstr "Aux. de Líder 'Großdeutschland' [Heer]"
+msgstr "Auxiliar de Líder 'Großdeutschland' [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_1"
 msgid "Gebirgsjäger [Heer]"
@@ -1615,7 +1615,7 @@ msgstr "Gebirgsjäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_mg_asst"
 msgid "Gebirgsjäger MG Asst. [Heer]"
-msgstr "Gebirgsjäger Aux. de MG [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_rifle"
 msgid "Gebirgsjäger [Heer]"
@@ -1627,7 +1627,7 @@ msgstr "Gebirgsjäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_sl_asst"
 msgid "Gebirgsjäger Asst. Leader [Heer]"
-msgstr "Gebirgsjäger Aux. de Líder [Heer]"
+msgstr "Gebirgsjäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_smg"
 msgid "Gebirgsjäger [Heer]"
@@ -1639,7 +1639,7 @@ msgstr "Grenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gren_mg_asst"
 msgid "Grenadier MG Asst. [Heer]"
-msgstr "Grenadier Aux. de MG [Heer]"
+msgstr "Grenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gren_rifle"
 msgid "Grenadier [Heer]"
@@ -1659,7 +1659,7 @@ msgstr "Grenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gren_sl_asst"
 msgid "Grenadier Asst. Leader [Heer]"
-msgstr "Grenadier Aux. de Líder [Heer]"
+msgstr "Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/grenadier_1"
 msgid "Grenadier [Heer]"
@@ -1679,7 +1679,7 @@ msgstr "Jäger Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/jager_mg_asst"
 msgid "Jäger MG Asst. [Heer]"
-msgstr "Jäger Aux. de MG [Heer]"
+msgstr "Jäger Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/jager_rifle"
 msgid "Jäger [Heer]"
@@ -1691,7 +1691,7 @@ msgstr "Jäger Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/jager_sl_asst"
 msgid "Jäger Asst. Leader [Heer]"
-msgstr "Jäger Aux. de Líder [Heer]"
+msgstr "Jäger Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/jager_smg"
 msgid "Jäger [Heer]"
@@ -1711,11 +1711,11 @@ msgstr "LW Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/luft_4"
 msgid "LW MG Asst. [Luftwaffe]"
-msgstr "LW Aux. de MG [Luftwaffe]"
+msgstr "LW Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/luft_5"
 msgid "LW Asst. Leader [Luftwaffe]"
-msgstr "LW Aux. de Líder [Luftwaffe]"
+msgstr "LW Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/medic"
 msgid "Medic [Heer]"
@@ -1727,7 +1727,7 @@ msgstr "Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mg_crew_asst"
 msgid "MG crew Asst. [Heer]"
-msgstr "Aux. de Tripulação MG [Heer]"
+msgstr "Auxiliar de Tripulação MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_1"
 msgid "MG Operator [Heer]"
@@ -1735,11 +1735,11 @@ msgstr "Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_2"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_2_rifle"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_3"
 msgid "MG Ammo Bearer [Heer]"
@@ -1759,11 +1759,11 @@ msgstr "Feldwebel [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/nco_asst"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/nco_asst_sa"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/osttrupp_1"
 msgid "Ostlegionär [Heer]"
@@ -1807,7 +1807,7 @@ msgstr "Pionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pioneer_mgun_asst"
 msgid "Pionier MG Asst. [Heer]"
-msgstr "Pionier Aux. de MG [Heer]"
+msgstr "Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pioneer_sl"
 msgid "Pionier Squadleader [Heer]"
@@ -1815,7 +1815,7 @@ msgstr "Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pioneer_sl_asst"
 msgid "Pionier Asst. Leader [Heer]"
-msgstr "Pionier Aux. de Líder [Heer]"
+msgstr "Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_flame"
 msgid "Panzerpionier [Heer]"
@@ -1831,7 +1831,7 @@ msgstr "Panzerpionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_mg_asst"
 msgid "Panzerpionier MG Asst. [Heer]"
-msgstr "Panzerpionier Aux. de MG [Heer]"
+msgstr "Panzerpionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_rifle"
 msgid "Panzerpionier [Heer]"
@@ -1851,7 +1851,7 @@ msgstr "Panzerpionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_sl_asst"
 msgid "Panzerpionier Asst. Leader [Heer]"
-msgstr "Panzerpionier Aux. de Líder [Heer]"
+msgstr "Panzerpionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_recon_mg"
 msgid "Panzeraufklärer MG Operator [Heer]"
@@ -1859,7 +1859,7 @@ msgstr "Panzeraufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_recon_mg_asst"
 msgid "Panzeraufklärer MG Asst. [Heer]"
-msgstr "Panzeraufklärer Aux. de MG [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_recon_rifle"
 msgid "Panzeraufklärer [Heer]"
@@ -1871,7 +1871,7 @@ msgstr "Panzeraufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_recon_sl_asst"
 msgid "Panzeraufklärer Asst. Leader [Heer]"
-msgstr "Panzeraufklärer Aux. de Líder [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/recon_mg"
 msgid "Aufklärer MG Operator [Heer]"
@@ -1879,7 +1879,7 @@ msgstr "Aufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/recon_mg_asst"
 msgid "Aufklärer MG Asst. [Heer]"
-msgstr "Aufklärer Aux. de MG [Heer]"
+msgstr "Aufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/recon_rifle"
 msgid "Aufklärer [Heer]"
@@ -1891,7 +1891,7 @@ msgstr "Aufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/recon_sl_asst"
 msgid "Aufklärer Asst. Leader [Heer]"
-msgstr "Aufklärer Aux. de Líder [Heer]"
+msgstr "Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/rifleman_1"
 msgid "Rifleman [Heer]"
@@ -1983,7 +1983,7 @@ msgstr "Veterano Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/vet_mg_asst"
 msgid "Veteran MG Asst. [Heer]"
-msgstr "Veterano Aux. de MG [Heer]"
+msgstr "Veterano Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/vet_nco"
 msgid "Veteran Squadleader [Heer]"
@@ -1991,7 +1991,7 @@ msgstr "Veterano Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/vet_nco_asst"
 msgid "Veteran Asst. Leader [Heer]"
-msgstr "Veterano Aux. de Líder [Heer]"
+msgstr "Veterano Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/vet_rifle"
 msgid "Veteran Rifleman [Heer]"
@@ -2011,7 +2011,7 @@ msgstr "Elite Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_mg_asst"
 msgid "Elite MG Asst. [Heer]"
-msgstr "Elite Aux. de MG [Heer]"
+msgstr "Elite Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_rifle"
 msgid "Elite Rifleman [Heer]"
@@ -2023,7 +2023,7 @@ msgstr "Elite Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_sl_asst"
 msgid "Elite Asst. Leader [Heer]"
-msgstr "Elite Aux. de Líder [Heer]"
+msgstr "Elite Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_sl_smg"
 msgid "Elite Squadleader [Heer]"
@@ -2039,7 +2039,7 @@ msgstr "Ersatz-Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/ersatz_sl_asst"
 msgid "Ersatz-Asst. Leader [Heer]"
-msgstr "Ersatz-Aux. de Líder [Heer]"
+msgstr "Ersatz-Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_mg"
 msgid "Fallschirmpionier MG Operator [Luftwaffe]"
@@ -2051,7 +2051,7 @@ msgstr "Fallschirmpionier Carregador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_mg_asst"
 msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_rifle"
 msgid "Fallschirmpionier [Luftwaffe]"
@@ -2063,7 +2063,7 @@ msgstr "Fallschirmpionier Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_sl_asst"
 msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_recon_mg"
 msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
@@ -2071,7 +2071,7 @@ msgstr "Fallschirmaufklärer Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_recon_mg_asst"
 msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_recon_rifle"
 msgid "Fallschirmaufklärer [Luftwaffe]"
@@ -2083,7 +2083,7 @@ msgstr "Fallschirmaufklärer Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_recon_sl_asst"
 msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_rifle_marksman"
 msgid "Fallschirmjäger Marksman [Luftwaffe]"
@@ -2107,7 +2107,7 @@ msgstr "Großdeutschland Pionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_pio_mg_asst"
 msgid "Großdeutschland Pionier MG Asst. [Heer]"
-msgstr "Großdeutschland Pionier Aux. de MG [Heer]"
+msgstr "Großdeutschland Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_pio_rifle"
 msgid "Großdeutschland Pionier [Heer]"
@@ -2127,7 +2127,7 @@ msgstr "Großdeutschland Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_pio_sl_asst"
 msgid "Großdeutschland Pionier Asst. Leader [Heer]"
-msgstr "Großdeutschland Pionier Aux. de Líder [Heer]"
+msgstr "Großdeutschland Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg"
 msgid "Gebirgspionier MG Operator [Heer]"
@@ -2139,7 +2139,7 @@ msgstr "Gebirgspionier Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg_asst"
 msgid "Gebirgspionier MG Asst. [Heer]"
-msgstr "Gebirgspionier Aux. de MG [Heer]"
+msgstr "Gebirgspionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_rifle"
 msgid "Gebirgspionier [Heer]"
@@ -2151,7 +2151,7 @@ msgstr "Gebirgspionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_sl_asst"
 msgid "Gebirgspionier Asst. Leader [Heer]"
-msgstr "Gebirgspionier Aux. de Líder [Heer]"
+msgstr "Gebirgspionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_recon_mg"
 msgid "Gebirgsaufklärer MG Operator [Heer]"
@@ -2159,7 +2159,7 @@ msgstr "Gebirgsaufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_recon_mg_asst"
 msgid "Gebirgsaufklärer MG Asst. [Heer]"
-msgstr "Gebirgsaufklärer Aux. de MG [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_recon_rifle"
 msgid "Gebirgsaufklärer [Heer]"
@@ -2171,7 +2171,7 @@ msgstr "Gebirgsaufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_recon_sl_asst"
 msgid "Gebirgsaufklärer Asst. Leader [Heer]"
-msgstr "Gebirgsaufklärer Aux. de Líder [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/marine_stoss_mg"
 msgid "Marine-Stoßtrupp MG Operator [Kriegsmarine]"
@@ -2179,7 +2179,7 @@ msgstr "Marine-Stoßtrupp Operador de MG [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_stoss_mg_asst"
 msgid "Marine-Stoßtrupp MG Asst. [Kriegsmarine]"
-msgstr "Marine-Stoßtrupp Aux. de MG [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp Auxiliar de Metralhadora [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_stoss_rifle"
 msgid "Marine-Stoßtrupp [Kriegsmarine]"
@@ -2191,7 +2191,7 @@ msgstr "Marine-Stoßtrupp Líder de Esquadra [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_stoss_sl_asst"
 msgid "Marine-Stoßtrupp Asst. Leader [Kriegsmarine]"
-msgstr "Marine-Stoßtrupp Aux. de Líder [Kriegsmarine]"
+msgstr "Marine-Stoßtrupp Auxiliar de Líder [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/mg_26t"
 msgid "MG Operator [Heer]"
@@ -2199,7 +2199,7 @@ msgstr "Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mg_asst_26t"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_at_rifle"
 msgid "Pionier AT inf. [Heer]"
@@ -2227,7 +2227,7 @@ msgstr "Panzerschütze Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_mg_asst"
 msgid "Panzerschütze MG Asst. [Heer]"
-msgstr "Panzerschütze Aux. de MG [Heer]"
+msgstr "Panzerschütze Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_at_rifle"
 msgid "Panzerpionier AT inf. [Heer]"
@@ -2239,7 +2239,7 @@ msgstr "Panzeraufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_recon_mg_asst"
 msgid "Panzeraufklärer MG Asst. [Heer]"
-msgstr "Panzeraufklärer Aux. de MG [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_recon_rifle"
 msgid "Panzeraufklärer [Heer]"
@@ -2251,7 +2251,7 @@ msgstr "Panzeraufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_recon_sl_asst"
 msgid "Panzeraufklärer Asst. Leader [Heer]"
-msgstr "Panzeraufklärer Aux. de Líder [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_rifle"
 msgid "Panzerschütze [Heer]"
@@ -2263,7 +2263,7 @@ msgstr "Panzerschütze Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_sl_asst"
 msgid "Panzerschütze Asst. Leader [Heer]"
-msgstr "Panzerschütze Aux. de Líder [Heer]"
+msgstr "Panzerschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_sl_smg"
 msgid "Panzerschütze Squadleader [Heer]"
@@ -2275,7 +2275,7 @@ msgstr "Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/sl_asst"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/sl_smg"
 msgid "Squadleader [Heer]"
@@ -2291,7 +2291,7 @@ msgstr "Veterano Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_mg_asst"
 msgid "Veteran MG Asst. [Heer]"
-msgstr "Veterano Aux. de MG [Heer]"
+msgstr "Veterano Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_rifle"
 msgid "Veteran Rifleman [Heer]"
@@ -2303,7 +2303,7 @@ msgstr "Veterano Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_sl_asst"
 msgid "Veteran Asst. Leader [Heer]"
-msgstr "Veterano Aux. de Líder [Heer]"
+msgstr "Veterano Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_sl_smg"
 msgid "Veteran Squadleader [Heer]"
@@ -2319,7 +2319,7 @@ msgstr "Elite Carregador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_mg_asst"
 msgid "Elite MG Asst. [Heer]"
-msgstr "Elite Aux. de MG [Heer]"
+msgstr "Elite Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_rifle"
 msgid "Elite Rifleman [Heer]"
@@ -2331,7 +2331,7 @@ msgstr "Elite Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_sl_asst"
 msgid "Elite Asst. Leader [Heer]"
-msgstr "Elite Aux. de Líder [Heer]"
+msgstr "Elite Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_sl_smg"
 msgid "Elite Squadleader [Heer]"
@@ -2351,7 +2351,7 @@ msgstr "Ersatz-Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/ersatz_sl_asst"
 msgid "Ersatz-Asst. Leader [Heer]"
-msgstr "Ersatz-Aux. de Líder [Heer]"
+msgstr "Ersatz-Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_pio_mg"
 msgid "Fallschirmpionier MG Operator [Luftwaffe]"
@@ -2359,7 +2359,7 @@ msgstr "Fallschirmpionier Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_pio_mg_asst"
 msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_pio_rifle"
 msgid "Fallschirmpionier [Luftwaffe]"
@@ -2375,7 +2375,7 @@ msgstr "Fallschirmpionier Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_pio_sl_asst"
 msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg"
 msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
@@ -2383,11 +2383,11 @@ msgstr "Fallschirmaufklärer Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg_asst"
 msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg_asst_gren"
 msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_recon_mg34"
 msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
@@ -2399,7 +2399,7 @@ msgstr "Fallschirmaufklärer Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_recon_sl_asst"
 msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_rifle_marksman"
 msgid "Fallschirmjäger Marksman [Luftwaffe]"
@@ -2415,7 +2415,7 @@ msgstr "Großdeutschland Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_pio_mg_asst"
 msgid "Großdeutschland Pionier MG Asst. [Heer]"
-msgstr "Großdeutschland Pionier Aux. de MG [Heer]"
+msgstr "Großdeutschland Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_pio_rifle"
 msgid "Großdeutschland Pionier [Heer]"
@@ -2431,7 +2431,7 @@ msgstr "Großdeutschland Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gd_pio_sl_asst"
 msgid "Großdeutschland Pionier Asst. Leader [Heer]"
-msgstr "Großdeutschland Pionier Aux. de Líder [Heer]"
+msgstr "Großdeutschland Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_pio_mg"
 msgid "Gebirgspionier MG Operator [Heer]"
@@ -2439,7 +2439,7 @@ msgstr "Gebirgspionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_pio_mg_asst"
 msgid "Gebirgspionier MG Asst. [Heer]"
-msgstr "Gebirgspionier Aux. de MG [Heer]"
+msgstr "Gebirgspionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_pio_rifle"
 msgid "Gebirgspionier [Heer]"
@@ -2451,7 +2451,7 @@ msgstr "Gebirgspionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_pio_sl_asst"
 msgid "Gebirgspionier Asst. Leader [Heer]"
-msgstr "Gebirgspionier Aux. de Líder [Heer]"
+msgstr "Gebirgspionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_recon_mg"
 msgid "Gebirgsaufklärer MG Operator [Heer]"
@@ -2459,7 +2459,7 @@ msgstr "Gebirgsaufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_recon_mg_asst"
 msgid "Gebirgsaufklärer MG Asst. [Heer]"
-msgstr "Gebirgsaufklärer Aux. de MG [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_recon_rifle"
 msgid "Gebirgsaufklärer [Heer]"
@@ -2471,7 +2471,7 @@ msgstr "Gebirgsaufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_recon_sl_asst"
 msgid "Gebirgsaufklärer Asst. Leader [Heer]"
-msgstr "Gebirgsaufklärer Aux. de Líder [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/gebirgs_recon_smg"
 msgid "Gebirgsaufklärer [Heer]"
@@ -2483,7 +2483,7 @@ msgstr "Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mg_asst_26t"
 msgid "MG Asst. [Heer]"
-msgstr "Aux. de MG [Heer]"
+msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_42"
 msgid "MG Operator [Heer]"
@@ -2495,7 +2495,7 @@ msgstr "Engenheiro Pioneiro [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_mg_asst"
 msgid "Panzerschütze MG Asst. [Heer]"
-msgstr "Panzerschütze Aux. de MG [Heer]"
+msgstr "Panzerschütze Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_mg34"
 msgid "Panzerschütze MG Operator [Heer]"
@@ -2519,11 +2519,11 @@ msgstr "Panzerschütze Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_sl_asst"
 msgid "Panzerschütze Asst. Leader [Heer]"
-msgstr "Panzerschütze Aux. de Líder [Heer]"
+msgstr "Panzerschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_sl_asst_sa"
 msgid "Panzerschütze Asst. Leader [Heer]"
-msgstr "Panzerschütze Aux. de Líder [Heer]"
+msgstr "Panzerschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/recon_mg42"
 msgid "Aufklärer MG Operator [Heer]"
@@ -2539,11 +2539,11 @@ msgstr "Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sl_asst"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sl_asst_sa"
 msgid "Asst. Leader [Heer]"
-msgstr "Aux. de Líder [Heer]"
+msgstr "Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sturm_pio_flame"
 msgid "Sturmpionier Flamer [Heer]"
@@ -2555,7 +2555,7 @@ msgstr "Sturmpionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sturm_pio_mg_asst"
 msgid "Sturmpionier MG Asst. [Heer]"
-msgstr "Sturmpionier Aux. de MG [Heer]"
+msgstr "Sturmpionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sturm_pio_rifle"
 msgid "Sturmpionier [Heer]"
@@ -2575,7 +2575,7 @@ msgstr "Sturmpionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sturm_pio_sl_asst"
 msgid "Sturmpionier Asst. Leader [Heer]"
-msgstr "Sturmpionier Aux. de Líder [Heer]"
+msgstr "Sturmpionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/tank_commander_pzjag"
 msgid "Tank Commander [Panzerwaffe]"
@@ -2619,11 +2619,11 @@ msgstr "Blau Legion Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/blau_6"
 msgid "Blau Legion MG Asst. [Heer]"
-msgstr "Blau Legion Aux. de MG [Heer]"
+msgstr "Blau Legion Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/blau_sl_asst"
 msgid "Blau Legion Asst. Leader [Heer]"
-msgstr "Blau Legion Aux. de Líder [Heer]"
+msgstr "Blau Legion Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_at"
 msgid "Begleitgrenadier AT inf. [Heer]"
@@ -2639,7 +2639,7 @@ msgstr "Begleitgrenadier [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_sl_asst_stg"
 msgid "Begleitgrenadier Asst. Leader [Heer]"
-msgstr "Begleitgrenadier Aux. de Líder [Heer]"
+msgstr "Begleitgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitgren_sl_stg"
 msgid "Begleitgrenadier Squadleader [Heer]"
@@ -2655,7 +2655,7 @@ msgstr "Begleitpionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitpio_mg_asst"
 msgid "Begleitpionier MG Asst. [Heer]"
-msgstr "Begleitpionier Aux. de MG [Heer]"
+msgstr "Begleitpionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitpio_rifle"
 msgid "Begleitpionier [Heer]"
@@ -2667,7 +2667,7 @@ msgstr "Begleitpionier [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitpio_sl_asst_stg"
 msgid "Begleitpionier Asst. Leader [Heer]"
-msgstr "Begleitpionier Aux. de Líder [Heer]"
+msgstr "Begleitpionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/begleitpio_sl_stg"
 msgid "Begleitpionier Squadleader [Heer]"
@@ -2715,7 +2715,7 @@ msgstr "Ersatz-Grenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/ersatz_gren_sl_asst"
 msgid "Ersatz-Grenadier Asst. Leader [Heer]"
-msgstr "Ersatz-Grenadier Aux. de Líder [Heer]"
+msgstr "Ersatz-Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_rifle_pzf"
 msgid "Fallschirmpionier [Luftwaffe]"
@@ -2727,7 +2727,7 @@ msgstr "Fallschirmpionier [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_pio_sl_asst_stg"
 msgid "Fallschirmpionier Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmpionier Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmpionier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_mg"
 msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
@@ -2735,11 +2735,11 @@ msgstr "Fallschirmaufklärer Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_mg_asst"
 msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_mg_asst_gren"
 msgid "Fallschirmaufklärer MG Asst. [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de MG [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_mg34"
 msgid "Fallschirmaufklärer MG Operator [Luftwaffe]"
@@ -2751,15 +2751,15 @@ msgstr "Fallschirmaufklärer Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst"
 msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst_fg"
 msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_recon_sl_asst_stg"
 msgid "Fallschirmaufklärer Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmaufklärer Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmaufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_rifle_pzf"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -2771,23 +2771,23 @@ msgstr "Fallschirmjäger [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_sl_asst_fg"
 msgid "Fallschirmjäger Asst. Leader [Luftwaffe]"
-msgstr "Fallschirmjäger Aux. de Líder [Luftwaffe]"
+msgstr "Fallschirmjäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_mg_asst_smg"
 msgid "Füsilier MG Asst. [Heer]"
-msgstr "Füsilier Aux. de MG [Heer]"
+msgstr "Füsilier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_sa_scope"
 msgid "Füsilier Asst. Leader [Heer]"
-msgstr "Füsilier Aux. de Líder [Heer]"
+msgstr "Füsilier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_scope"
 msgid "Füsilier Asst. Leader [Heer]"
-msgstr "Füsilier Aux. de Líder [Heer]"
+msgstr "Füsilier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_sl_asst_smg"
 msgid "Füsilier Asst. Leader [Heer]"
-msgstr "Füsilier Aux. de Líder [Heer]"
+msgstr "Füsilier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fusilier_smg_pzf"
 msgid "Füsilier [Heer]"
@@ -2819,7 +2819,7 @@ msgstr "GD.Pz.Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_mg_asst"
 msgid "GD.Pz.Pionier MG Asst. [Heer]"
-msgstr "GD.Pz.Pionier Aux. de MG [Heer]"
+msgstr "GD.Pz.Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_rifle"
 msgid "GD.Pz.Pionier [Heer]"
@@ -2839,7 +2839,7 @@ msgstr "GD.Pz.Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_sl_asst"
 msgid "GD.Pz.Pionier Asst. Leader [Heer]"
-msgstr "GD.Pz.Pionier Aux. de Líder [Heer]"
+msgstr "GD.Pz.Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg"
 msgid "Gebirgsaufklärer MG Operator [Heer]"
@@ -2847,7 +2847,7 @@ msgstr "Gebirgsaufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg_asst"
 msgid "Gebirgsaufklärer MG Asst. [Heer]"
-msgstr "Gebirgsaufklärer Aux. de MG [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_mg34"
 msgid "Gebirgsaufklärer MG Operator [Heer]"
@@ -2871,11 +2871,11 @@ msgstr "Gebirgsaufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_sl_asst"
 msgid "Gebirgsaufklärer Asst. Leader [Heer]"
-msgstr "Gebirgsaufklärer Aux. de Líder [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_sl_asst_smg"
 msgid "Gebirgsaufklärer Asst. Leader [Heer]"
-msgstr "Gebirgsaufklärer Aux. de Líder [Heer]"
+msgstr "Gebirgsaufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gebirgs_recon_smg"
 msgid "Gebirgsaufklärer [Heer]"
@@ -2903,7 +2903,7 @@ msgstr "Landesschütze Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/landes_sl_asst"
 msgid "Landesschütze Asst. Leader [Heer]"
-msgstr "Landesschütze Aux. de Líder [Heer]"
+msgstr "Landesschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_at"
 msgid "Pz-Lehr Pz.Pionier AT inf. [Heer]"
@@ -2923,7 +2923,7 @@ msgstr "Pz-Lehr Pz.Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_mg_asst"
 msgid "Pz-Lehr Pz.Pionier MG Asst. [Heer]"
-msgstr "Pz-Lehr Pz.Pionier Aux. de MG [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_rifle"
 msgid "Pz-Lehr Pz.Pionier [Heer]"
@@ -2943,7 +2943,7 @@ msgstr "Pz-Lehr Pz.Pionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_sl_asst"
 msgid "Pz-Lehr Pz.Pionier Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Pionier Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_mg"
 msgid "Pz-Lehr Pz.Aufklärer MG Operator [Heer]"
@@ -2951,7 +2951,7 @@ msgstr "Pz-Lehr Pz.Aufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_mg_asst"
 msgid "Pz-Lehr Pz.Aufklärer MG Asst. [Heer]"
-msgstr "Pz-Lehr Pz.Aufklärer Aux. de MG [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_rifle"
 msgid "Pz-Lehr Pz.Aufklärer [Heer]"
@@ -2967,15 +2967,15 @@ msgstr "Pz-Lehr Pz.Aufklärer Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst"
 msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Aufklärer Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst_sa"
 msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Aufklärer Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_asst_stg"
 msgid "Pz-Lehr Pz.Aufklärer Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Aufklärer Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Aufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_recon_sl_stg"
 msgid "Pz-Lehr Pz.Aufklärer Squadleader [Heer]"
@@ -2991,7 +2991,7 @@ msgstr "Pz-Lehr Pz.Grenadier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_mg_asst"
 msgid "Pz-Lehr Pz.Grenadier MG Asst. [Heer]"
-msgstr "Pz-Lehr Pz.Grenadier Aux. de MG [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_rifle"
 msgid "Pz-Lehr Pz.Grenadier [Heer]"
@@ -3019,7 +3019,7 @@ msgstr "Pz-Lehr Pz.Grenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_sl_asst"
 msgid "Pz-Lehr Pz.Grenadier Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Grenadier Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Grenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_stg"
 msgid "Pz-Lehr Pz.Grenadier [Heer]"
@@ -3031,7 +3031,7 @@ msgstr "Pz-Lehr Pz.Sturmgrenadier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_sl_asst"
 msgid "Pz-Lehr Pz.Sturmgrenadier Asst. Leader [Heer]"
-msgstr "Pz-Lehr Pz.Sturmgrenadier Aux. de Líder [Heer]"
+msgstr "Pz-Lehr Pz.Sturmgrenadier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pzgren_sturm_stg"
 msgid "Pz-Lehr Pz.Sturmgrenadier [Heer]"
@@ -3051,7 +3051,7 @@ msgstr "LW Jäger Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_jag_mg_asst"
 msgid "LW Jäger MG Asst. [Luftwaffe]"
-msgstr "LW Jäger Aux. de MG [Luftwaffe]"
+msgstr "LW Jäger Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_jag_mg34"
 msgid "LW Jäger MG Operator [Luftwaffe]"
@@ -3079,11 +3079,11 @@ msgstr "LW Jäger Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_jag_sl_asst"
 msgid "LW Jäger Asst. Leader [Luftwaffe]"
-msgstr "LW Jäger Aux. de Líder [Luftwaffe]"
+msgstr "LW Jäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_jag_sl_asst_scope"
 msgid "LW Jäger Asst. Leader [Luftwaffe]"
-msgstr "LW Jäger Aux. de Líder [Luftwaffe]"
+msgstr "LW Jäger Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_jag_smg"
 msgid "LW Jäger [Luftwaffe]"
@@ -3099,7 +3099,7 @@ msgstr "LW Pionier Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_pio_mg_asst"
 msgid "LW Pionier MG Asst. [Luftwaffe]"
-msgstr "LW Pionier Aux. de MG [Luftwaffe]"
+msgstr "LW Pionier Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_pio_mg34"
 msgid "LW Pionier MG Operator [Luftwaffe]"
@@ -3123,7 +3123,7 @@ msgstr "LW Pionier Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_pio_sl_asst"
 msgid "LW Pionier Asst. Leader [Luftwaffe]"
-msgstr "LW Pionier Aux. de Líder [Luftwaffe]"
+msgstr "LW Pionier Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_recon_mg"
 msgid "LW Aufklärer MG Operator [Luftwaffe]"
@@ -3131,7 +3131,7 @@ msgstr "LW Aufklärer Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_recon_mg_asst"
 msgid "LW Aufklärer MG Asst. [Luftwaffe]"
-msgstr "LW Aufklärer Aux. de MG [Luftwaffe]"
+msgstr "LW Aufklärer Auxiliar de Metralhadora [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_recon_rifle"
 msgid "LW Aufklärer [Luftwaffe]"
@@ -3151,7 +3151,7 @@ msgstr "LW Aufklärer Líder de Esquadra [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/lw_recon_sl_asst"
 msgid "LW Aufklärer Asst. Leader [Luftwaffe]"
-msgstr "LW Aufklärer Aux. de Líder [Luftwaffe]"
+msgstr "LW Aufklärer Auxiliar de Líder [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/marine_mg"
 msgid "Marine MG Operator [Kriegsmarine]"
@@ -3159,7 +3159,7 @@ msgstr "Marine Operador de MG [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/late/marine_mg_asst"
 msgid "Marine MG Asst. [Kriegsmarine]"
-msgstr "Marine Aux. de MG [Kriegsmarine]"
+msgstr "Marine Auxiliar de Metralhadora [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/late/marine_rifle_pzf"
 msgid "Marine [Kriegsmarine]"
@@ -3199,7 +3199,7 @@ msgstr "Panzerpionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_pio_mg_asst"
 msgid "Panzerpionier MG Asst. [Heer]"
-msgstr "Panzerpionier Aux. de MG [Heer]"
+msgstr "Panzerpionier Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_pio_mine"
 msgid "Panzerpionier [Heer]"
@@ -3227,7 +3227,7 @@ msgstr "Panzerpionier Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_pio_sl_asst"
 msgid "Panzerpionier Asst. Leader [Heer]"
-msgstr "Panzerpionier Aux. de Líder [Heer]"
+msgstr "Panzerpionier Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_pio_sl_stg"
 msgid "Panzerpionier Squadleader [Heer]"
@@ -3239,7 +3239,7 @@ msgstr "Panzeraufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_mg_asst"
 msgid "Panzeraufklärer MG Asst. [Heer]"
-msgstr "Panzeraufklärer Aux. de MG [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_rifle"
 msgid "Panzeraufklärer [Heer]"
@@ -3247,15 +3247,15 @@ msgstr "Panzeraufklärer [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_rifle"
 msgid "Panzeraufklärer Asst. Leader [Heer]"
-msgstr "Panzeraufklärer Aux. de Líder [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_sa"
 msgid "Panzeraufklärer Asst. Leader [Heer]"
-msgstr "Panzeraufklärer Aux. de Líder [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_sl_asst_stg"
 msgid "Panzeraufklärer Asst. Leader [Heer]"
-msgstr "Panzeraufklärer Aux. de Líder [Heer]"
+msgstr "Panzeraufklärer Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/pz_recon_sl_rifle"
 msgid "Panzeraufklärer Squadleader [Heer]"

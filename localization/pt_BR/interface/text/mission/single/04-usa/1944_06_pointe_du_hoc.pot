@@ -84,7 +84,7 @@ msgstr "Você também pode dar o sinal ao USS Satterlee para bombardear os alem�
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/04"
 msgid "Shit! There's a Kraut 20mm still standing up there! Do something about it before it chews us up!"
-msgstr "Merda! Tem um canhão alemão de 20mm ainda de pé lá em cima! Faça alguma coisa antes que nos destroce!"
+msgstr "Merda! Ainda há uma canhão Kraut de 20 mm lá em cima! Façam alguma coisa antes que ela nos despedace!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/05"
 msgid "You've now got a couple of light mortars to help you deal with the entrenched Germans."
@@ -92,7 +92,7 @@ msgstr "Agora você tem um par de morteiros leves para ajudar a lidar com os ale
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/06"
 msgid "What the hell is this? Looks like Jerry's placed some dummy guns in these bunkers. They must've taken the real guns somewhere else!"
-msgstr "O que diabos é isso? Parece que os alemães colocaram canhões falsos nesses bunkers. Devem ter levado os canhões reais para outro lugar!"
+msgstr "O que diabos é isso? Parece que os Jerry's colocaram canhões falsos nesses bunkers. Devem ter levado os canhões reais para outro lugar!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/07"
 msgid "Lieutenant, those guns can't have gotten far or intelligence would have picked it up. Lead a patrol over to the manor and find those guns!"
@@ -160,7 +160,7 @@ msgstr "Mais um fora de serviço!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/gundestroyed_alt"
 msgid "Scratch another Kraut artillery!"
-msgstr "Mais uma artilharia alemã eliminada!"
+msgstr "Mais uma artilharia Kraut eliminada!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/nogunshere"
 msgid "We have cleared the battery but the guns were wooden dummies."
@@ -212,7 +212,7 @@ msgstr "Eles estão recuando! Os penhascos estão agora sob nosso controle!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/04"
 msgid "Baker Company is getting hammered over there! They won't last much longer without some help. We need to knock out those Kraut mortars and AA guns."
-msgstr "A Companhia Baker está sendo destruída lá! Não resistirão muito mais sem ajuda. Precisamos neutralizar aqueles morteiros e canhões AA alemães."
+msgstr "A Companhia Baker está sendo massacrada lá! Não resistirão por muito mais tempo sem ajuda. Precisamos neutralizar aqueles morteiros e canhões antiaéreos Kraut."
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/05"
 msgid "B Company is getting chewed up! Support them from the flank!"
@@ -224,11 +224,11 @@ msgstr "Todos os canhões foram destruídos! Excelente trabalho, homens!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/07"
 msgid "Well done. This Kraut gun will definitely come in handy."
-msgstr "Muito bem. Este canhão alemão certamente será útil."
+msgstr "Muito bem. Este canhão Kraut certamente será útil."
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/08"
 msgid "We're expecting a Jerry counter-attack any moment now. Dig in and use whatever you can to hold the line."
-msgstr "Esperamos um contra-ataque alemão a qualquer momento. Entrincheirem-se e usem o que puderem para manter a linha."
+msgstr "Esperamos um contra-ataque Jerry a qualquer momento. Entrincheirem-se e usem o que puderem para manter a linha."
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/09"
 msgid "Move your asses, get off the beach! Go!"
@@ -236,7 +236,7 @@ msgstr "Movam-se, saiam da praia! Vai!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/10"
 msgid "You're easy targets for those Kraut MGs! Get away from the cliff! Move, move!"
-msgstr "Vocês são alvos fáceis para aquelas metralhadoras alemãs! Afastem-se do penhasco! Movam-se, movam-se!"
+msgstr "Vocês são alvos fáceis para aquelas metralhadoras Kraut! Afastem-se do penhasco! Movam-se, movam-se!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/11"
 msgid "Take down these mortars before they slaughter us!"
@@ -252,7 +252,7 @@ msgstr "Maldição — eles têm veículos demais, não podemos detê-los no ter
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/14"
 msgid "Jerry is pushing our line! Hold your ground!"
-msgstr "Os alemães estão empurrando nossa linha! Segurem suas posições!"
+msgstr "Os Jerry estão empurrando nossa linha! Segurem suas posições!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/15"
 msgid "Hey hot-shot, leave some glory for the rest of us."
@@ -264,15 +264,15 @@ msgstr "Não sabemos o que o inimigo nos lançará — estejam preparados para q
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/17"
 msgid "More Kraut tanks! We don't have very many rockets for the Bazookas, so make every shot count!"
-msgstr "Mais tanques alemães! Não temos muitos foguetes para as bazucas — faça cada tiro valer!"
+msgstr "Mais tanques Kraut! Não temos muitos foguetes para as bazucas — faça cada tiro valer!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/18"
 msgid "Kraut mortars! Get to cover, incoming!"
-msgstr "Morteiros alemães! Cubram-se — chegando!"
+msgstr "Morteiros Kraut! Cubram-se — chegando!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/19"
 msgid "Looks like Jerry has brought up mobile Flak guns! Everyone, get to cover!"
-msgstr "Parece que os alemães trouxeram canhões antiaéreos móveis! Todos, cubram-se!"
+msgstr "Parece que os Jerry trouxeram canhões antiaéreos móveis! Todos, cubram-se!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/20"
 msgid "Hold tight, men! We can't let 'em get this ground! The reinforcements are on the way!"

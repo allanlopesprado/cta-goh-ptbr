@@ -19,7 +19,7 @@ msgstr "Inf. AT [CA]"
 
 msgctxt "desc/human/mp/can/late/antitank_piat_asst"
 msgid "AT Asst. [CA]"
-msgstr "Aux. AT [CA]"
+msgstr "Auxiliar Antitanque [CA]"
 
 msgctxt "desc/human/mp/can/late/artilleryman"
 msgid "Royal Artilleryman [CA]"
@@ -27,7 +27,7 @@ msgstr "Artilheiro Real [CA]"
 
 msgctxt "desc/human/mp/can/late/bat_2ic"
 msgid "Battalion 2IC [CA]"
-msgstr "2º Cmdt. do Batalhão [CA]"
+msgstr "2º Comandante do Batalhão [CA]"
 
 msgctxt "desc/human/mp/can/late/bat_com"
 msgid "Battalion Commander [CA]"
@@ -47,7 +47,7 @@ msgstr "Ordenança [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_2ic"
 msgid "Company 2IC [CA]"
-msgstr "2º Cmdt. da Companhia [CA]"
+msgstr "2º Comandante da Companhia [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_com"
 msgid "Company Commander [CA]"
@@ -71,7 +71,7 @@ msgstr "Defesa Inf. AT [CA]"
 
 msgctxt "desc/human/mp/can/late/def_at_piat_asst"
 msgid "Defense AT Asst. [CA]"
-msgstr "Defesa Aux. AT [CA]"
+msgstr "Defesa Auxiliar Antitanque [CA]"
 
 msgctxt "desc/human/mp/can/late/def_mg"
 msgid "Defense MG Operator [CA]"
@@ -79,7 +79,7 @@ msgstr "Defesa Operador de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/def_mg_asst"
 msgid "Defense MG Asst. [CA]"
-msgstr "Defesa Aux. de MG [CA]"
+msgstr "Defesa Auxiliar de Metralhadora [CA]"
 
 msgctxt "desc/human/mp/can/late/def_rifle"
 msgid "Defense Rifleman [CA]"
@@ -91,7 +91,7 @@ msgstr "Defesa Atirador [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_2ic"
 msgid "Defense Section 2IC [CA]"
-msgstr "Defesa 2º Cmte. de Seção [CA]"
+msgstr "Defesa 2º Comandante de Seção [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_com"
 msgid "Defense Section Commander [CA]"
@@ -123,7 +123,7 @@ msgstr "Operador de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mg_asst"
 msgid "MG Asst. [CA]"
-msgstr "Aux. de MG [CA]"
+msgstr "Auxiliar de Metralhadora [CA]"
 
 msgctxt "desc/human/mp/can/late/mg_crew"
 msgid "MG Crew [CA]"
@@ -135,7 +135,7 @@ msgstr "Operador Motorizado de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_mg_asst"
 msgid "Motor MG Asst. [CA]"
-msgstr "Aux. Motorizado. de MG [CA]"
+msgstr "Auxiliar Motorizado. de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_piat"
 msgid "Motor AT Inf. [CA]"
@@ -143,7 +143,7 @@ msgstr "Inf. Motorizada. AT [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_piat_asst"
 msgid "Motor AT Asst. [CA]"
-msgstr "Aux. Motorizado. AT [CA]"
+msgstr "Auxiliar Motorizado. AT [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_rifle"
 msgid "Motor Rifleman [CA]"
@@ -183,15 +183,15 @@ msgstr "Batedora Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_sec_com"
 msgid "Motor Scout Section Commander [CA]"
-msgstr "Cmte. de Seção Batedora Motorizada [CA]"
+msgstr "Comandante de Seção Batedora Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_sec_2ic"
 msgid "Motor Section 2IC [CA]"
-msgstr "2º Cmte. de Seção Motorizada [CA]"
+msgstr "2º Comandante de Seção Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_sec_com"
 msgid "Motor Section Commander [CA]"
-msgstr "Cmte. de Seção Motorizada [CA]"
+msgstr "Comandante de Seção Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/para_batman"
 msgid "1st Parachute Batman [CA]"
@@ -199,15 +199,15 @@ msgstr "Ordenança 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_2ic"
 msgid "1st Parachute Company 2IC [CA]"
-msgstr "2º Cmte. da 1ª Cia. Paraquedista [CA]"
+msgstr "2º Comandante da 1ª Companhia Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_com"
 msgid "1st Parachute Company Commander [CA]"
-msgstr "Comandante da 1ª Cia. Paraquedista [CA]"
+msgstr "Comandante da 1ª Companhia Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_sgt_maj"
 msgid "1st Parachute Company Sergeant Major [CA]"
-msgstr "Sargento-Mor da 1ª Cia. Paraquedista [CA]"
+msgstr "Sargento-Mor da 1ª Companhia Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_crew"
 msgid "1st Parachute Crew [CA]"
@@ -223,11 +223,11 @@ msgstr "Operador de MG 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Aux. de MG 1º Paraquedista [CA]"
+msgstr "Auxiliar de Metralhadora 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst_smg"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Aux. de MG 1º Paraquedista [CA]"
+msgstr "Auxiliar de Metralhadora 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mortar"
 msgid "1st Parachute Mortarman [CA]"
@@ -235,7 +235,7 @@ msgstr "Morteirista 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mortar_asst"
 msgid "1st Parachute Mortar Asst. [CA]"
-msgstr "Aux. de Morteiro 1º Paraquedista [CA]"
+msgstr "Auxiliar de Morteiro 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_piat"
 msgid "1st Parachute AT Inf. [CA]"
@@ -243,7 +243,7 @@ msgstr "Inf. AT 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_piat_asst"
 msgid "1st Parachute AT Asst. [CA]"
-msgstr "Aux. AT 1º Paraquedista [CA]"
+msgstr "Auxiliar Antitanque 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_plt_com"
 msgid "1st Parachute Platoon Commander [CA]"
@@ -263,7 +263,7 @@ msgstr "Atirador 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_2ic"
 msgid "1st Parachute Section 2IC [CA]"
-msgstr "2º Cmte. de Seção 1º Paraquedista [CA]"
+msgstr "2º Comandante de Seção 1º Paraquedista [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_com"
 msgid "1st Parachute Section Commander [CA]"
@@ -299,11 +299,11 @@ msgstr "Pioneiro Construtor [CA]"
 
 msgctxt "desc/human/mp/can/late/pio_sec_com_cpl"
 msgid "Pioneer Section Commander [CA]"
-msgstr "Cmte. de Seção de Pioneiros [CA]"
+msgstr "Comandante de Seção de Pioneiros [CA]"
 
 msgctxt "desc/human/mp/can/late/pio_sec_com_sgt"
 msgid "Pioneer Section Commander [CA]"
-msgstr "Cmte. de Seção de Pioneiros [CA]"
+msgstr "Comandante de Seção de Pioneiros [CA]"
 
 msgctxt "desc/human/mp/can/late/plt_batman"
 msgid "Platoon Batman [CA]"
@@ -339,7 +339,7 @@ msgstr "Inf. AT [CA]"
 
 msgctxt "desc/human/mp/can/late/rifle_piat_asst"
 msgid "AT Asst. [CA]"
-msgstr "Aux. AT [CA]"
+msgstr "Auxiliar Antitanque [CA]"
 
 msgctxt "desc/human/mp/can/late/rifle_sniper"
 msgid "Sniper [CA]"
@@ -347,7 +347,7 @@ msgstr "Franco-atirador [CA]"
 
 msgctxt "desc/human/mp/can/late/sec_2ic"
 msgid "Section 2IC [CA]"
-msgstr "2º Cmte. de Seção [CA]"
+msgstr "2º Comandante de Seção [CA]"
 
 msgctxt "desc/human/mp/can/late/sec_com"
 msgid "Section Commander [CA]"
@@ -359,7 +359,7 @@ msgstr "Comandante de Seção [CA]"
 
 msgctxt "desc/human/mp/can/late/sec_subcom"
 msgid "Sub-Section Commander [CA]"
-msgstr "Cmte. de Sub-Seção [CA]"
+msgstr "Comandante de Sub-Seção [CA]"
 
 msgctxt "desc/human/mp/can/late/smg"
 msgid "SMG Inf. [CA]"

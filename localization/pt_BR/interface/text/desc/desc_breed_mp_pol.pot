@@ -19,11 +19,11 @@ msgstr "Inf. AT 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_at_piat_asst"
 msgid "1st AD. AT Asst. [PSZ]"
-msgstr "Aux. AT 1ª DA. [PSZ]"
+msgstr "Auxiliar Antitanque 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_coy_2ic"
 msgid "1st AD. Company 2IC [PSZ]"
-msgstr "2º Cmte. da 1ª DA. [PSZ]"
+msgstr "2º Comandante da 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_coy_com"
 msgid "1st AD. Company Commander [PSZ]"
@@ -31,7 +31,7 @@ msgstr "Comandante da 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_coy_signalman"
 msgid "1st AD. Company Signalman [PSZ]"
-msgstr "Sinaleiro da Cia. 1ª DA. [PSZ]"
+msgstr "Sinaleiro da Companhia 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_crew"
 msgid "1st AD. Crew [PSZ]"
@@ -63,7 +63,7 @@ msgstr "Engenheiro Operador de MG 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg_asst"
 msgid "1st AD. Engineer MG Asst. [PSZ]"
-msgstr "Aux. MG Engenheiro 1ª DA. [PSZ]"
+msgstr "Auxiliar de Metralhadora Engenheiro 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_ap"
 msgid "1st AD. Engineer AP Miner [PSZ]"
@@ -79,11 +79,11 @@ msgstr "Engenheiro Sapador 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_2ic"
 msgid "1st AD. Engineer Section 2IC [PSZ]"
-msgstr "2º Cmte. de Seção de Eng. 1ª DA. [PSZ]"
+msgstr "2º Comandante de Seção de Eng. 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_com"
 msgid "1st AD. Engineer Section Commander [PSZ]"
-msgstr "Cmte. de Seção de Eng. 1ª DA. [PSZ]"
+msgstr "Comandante de Seção de Eng. 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_medic"
 msgid "1st AD. Medic [PSZ]"
@@ -95,7 +95,7 @@ msgstr "Operador de MG 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mg_asst"
 msgid "1st AD. MG Asst. [PSZ]"
-msgstr "Aux. de MG 1ª DA. [PSZ]"
+msgstr "Auxiliar de Metralhadora 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg"
 msgid "1st AD. Motor MG Operator [PSZ]"
@@ -103,7 +103,7 @@ msgstr "Operador de MG Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg_asst"
 msgid "1st AD. Motor MG Asst. [PSZ]"
-msgstr "Aux. MG Motorizado 1ª DA. [PSZ]"
+msgstr "Auxiliar de Metralhadora Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat"
 msgid "1st AD. Motor AT Inf. [PSZ]"
@@ -111,7 +111,7 @@ msgstr "Inf. AT Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat_asst"
 msgid "1st AD. Motor AT Asst. [PSZ]"
-msgstr "Aux. AT Motorizado 1ª DA. [PSZ]"
+msgstr "Auxiliar Antitanque Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle"
 msgid "1st AD. Motor Rifleman [PSZ]"
@@ -127,11 +127,11 @@ msgstr "Franco-atirador Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_cpl"
 msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
-msgstr "Cmte. de Destacamento Batedora Mot. 1ª DA. [PSZ]"
+msgstr "Comandante de Destacamento Batedora Mot. 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_lcpl"
 msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
-msgstr "Cmte. de Destacamento Batedora Mot. 1ª DA. [PSZ]"
+msgstr "Comandante de Destacamento Batedora Mot. 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_driver"
 msgid "1st AD. Motor Scout Driver [PSZ]"
@@ -151,15 +151,15 @@ msgstr "Batedora Motorizada 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_sec_com"
 msgid "1st AD. Motor Scout Section Commander [PSZ]"
-msgstr "Cmte. de Seção Batedora Mot. 1ª DA. [PSZ]"
+msgstr "Comandante de Seção Batedora Mot. 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_2ic"
 msgid "1st AD. Motor Section 2IC [PSZ]"
-msgstr "2º Cmte. Seção Motorizada 1ª DA. [PSZ]"
+msgstr "2º Comandante Seção Motorizada 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_com"
 msgid "1st AD. Motor Section Commander [PSZ]"
-msgstr "Cmte. de Seção Motorizada 1ª DA. [PSZ]"
+msgstr "Comandante de Seção Motorizada 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_pio"
 msgid "1st AD. Pioneer [PSZ]"
@@ -171,11 +171,11 @@ msgstr "Pioneiro Construtor 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_cpl"
 msgid "1st AD. Pioneer Section Commander [PSZ]"
-msgstr "Cmte. de Seção de Pioneiros 1ª DA. [PSZ]"
+msgstr "Comandante de Seção de Pioneiros 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_sgt"
 msgid "1st AD. Pioneer Section Commander [PSZ]"
-msgstr "Cmte. de Seção de Pioneiros 1ª DA. [PSZ]"
+msgstr "Comandante de Seção de Pioneiros 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_plt_com"
 msgid "1st AD. Platoon Commander [PSZ]"
@@ -199,19 +199,19 @@ msgstr "Franco-atirador 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_sec_2ic"
 msgid "1st AD. Section 2IC [PSZ]"
-msgstr "2º Cmte. de Seção 1ª DA. [PSZ]"
+msgstr "2º Comandante de Seção 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_sec_com"
 msgid "1st AD. Section Commander [PSZ]"
-msgstr "Cmte. de Seção 1ª DA. [PSZ]"
+msgstr "Comandante de Seção 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_sec_com_sgt"
 msgid "1st AD. Section Commander [PSZ]"
-msgstr "Cmte. de Seção 1ª DA. [PSZ]"
+msgstr "Comandante de Seção 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_sec_subcom"
 msgid "1st AD. Sub-Section Commander [PSZ]"
-msgstr "Cmte. de Sub-Seção 1ª DA. [PSZ]"
+msgstr "Comandante de Sub-Seção 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_smg"
 msgid "1st AD. SMG Inf. [PSZ]"
@@ -247,11 +247,11 @@ msgstr "Tripulação de Veículo 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_coy_2ic"
 msgid "1st Parachute Company 2IC [PSZ]"
-msgstr "2º Cmte. da 1ª Cia. Paraquedista [PSZ]"
+msgstr "2º Comandante da 1ª Companhia Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_coy_com"
 msgid "1st Parachute Company Commander [PSZ]"
-msgstr "Comandante da 1ª Cia. Paraquedista [PSZ]"
+msgstr "Comandante da 1ª Companhia Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_crew"
 msgid "1st Parachute Crew [PSZ]"
@@ -275,7 +275,7 @@ msgstr "Engenheiro Operador de MG 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_mg_asst"
 msgid "1st Parachute Engineer MG Asst. [PSZ]"
-msgstr "Aux. MG Engenheiro 1º Paraquedista [PSZ]"
+msgstr "Auxiliar de Metralhadora Engenheiro 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_piat"
 msgid "1st Parachute Engineer AT Inf. [PSZ]"
@@ -283,7 +283,7 @@ msgstr "Engenheiro Inf. AT 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_piat_asst"
 msgid "1st Parachute Engineer AT Asst. [PSZ]"
-msgstr "Engenheiro Aux. AT 1º Paraquedista [PSZ]"
+msgstr "Engenheiro Auxiliar Antitanque 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_sapper"
 msgid "1st Parachute Engineer Sapper [PSZ]"
@@ -291,15 +291,15 @@ msgstr "Engenheiro Sapador 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_2ic"
 msgid "1st Parachute Engineer Section 2IC [PSZ]"
-msgstr "2º Cmte. de Seção de Eng. 1º Paraquedista [PSZ]"
+msgstr "2º Comandante de Seção de Eng. 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com"
 msgid "1st Parachute Engineer Section Commander [PSZ]"
-msgstr "Cmte. de Seção de Eng. 1º Paraquedista [PSZ]"
+msgstr "Comandante de Seção de Eng. 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com_sgt"
 msgid "1st Parachute Engineer Section Commander [PSZ]"
-msgstr "Cmte. de Seção de Eng. 1º Paraquedista [PSZ]"
+msgstr "Comandante de Seção de Eng. 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_medic"
 msgid "1st Parachute Medic [PSZ]"
@@ -311,11 +311,11 @@ msgstr "Operador de MG 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mg_asst"
 msgid "1st Parachute MG Asst. [PSZ]"
-msgstr "Aux. de MG 1º Paraquedista [PSZ]"
+msgstr "Auxiliar de Metralhadora 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mg_asst_smg"
 msgid "1st Parachute MG Asst. [PSZ]"
-msgstr "Aux. de MG 1º Paraquedista [PSZ]"
+msgstr "Auxiliar de Metralhadora 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mortar"
 msgid "1st Parachute Mortarman [PSZ]"
@@ -323,7 +323,7 @@ msgstr "Morteirista 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mortar_asst"
 msgid "1st Parachute Mortar Asst. [PSZ]"
-msgstr "Aux. de Morteiro 1º Paraquedista [PSZ]"
+msgstr "Auxiliar de Morteiro 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_piat"
 msgid "1st Parachute AT Inf. [PSZ]"
@@ -331,7 +331,7 @@ msgstr "Inf. AT 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_piat_asst"
 msgid "1st Parachute AT Asst. [PSZ]"
-msgstr "Aux. AT 1º Paraquedista [PSZ]"
+msgstr "Auxiliar Antitanque 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_plt_com"
 msgid "1st Parachute Platoon Commander [PSZ]"
@@ -355,7 +355,7 @@ msgstr "Granadeiro de Rifle 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_sec_2ic"
 msgid "1st Parachute Section 2IC [PSZ]"
-msgstr "2º Cmte. de Seção 1º Paraquedista [PSZ]"
+msgstr "2º Comandante de Seção 1º Paraquedista [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_sec_com"
 msgid "1st Parachute Section Commander [PSZ]"
