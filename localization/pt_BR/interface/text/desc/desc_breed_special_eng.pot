@@ -14,15 +14,15 @@ msgstr ""
 
 msgctxt "desc/human/narrator/eng-arnhem-frost"
 msgid "Lt. Col. John Frost"
-msgstr "Ten. Cel. John Frost"
+msgstr "Tenente-coronel John Frost"
 
 msgctxt "desc/human/narrator/eng-arnhem-digby"
 msgid "Maj. Digby Tatham-Warter"
-msgstr "Maj. Digby Tatham-Warter"
+msgstr "Major Digby Tatham-Warter"
 
 msgctxt "desc/human/narrator/eng-pegasus-howard"
 msgid "Maj. John Howard"
-msgstr "Maj. John Howard"
+msgstr "Major John Howard"
 
 msgctxt "desc/human/narrator/eng-pegasus-lovat"
 msgid "Brigadier Simon Fraser, Lord Lovat"
@@ -30,7 +30,7 @@ msgstr "Brigadeiro Simon Fraser, Lord Lovat"
 
 msgctxt "desc/human/narrator/eng-pegasus-wood"
 msgid "Lt. David Wood"
-msgstr "Ten. David Wood"
+msgstr "Tenent David Wood"
 
 msgctxt "desc/human/narrator/eng-dyle-crosby"
 msgid "Cpl. Stuart Crosby"
@@ -38,47 +38,47 @@ msgstr "Cabo Stuart Crosby"
 
 msgctxt "desc/human/narrator/eng-dyle-carter"
 msgid "Cpt. Robert Carter"
-msgstr "Cap. Robert Carter"
+msgstr "Capitão Robert Carter"
 
 msgctxt "desc/human/narrator/eng-dyle-williams"
 msgid "Lt. Mike Williams"
-msgstr "Ten. Mike Williams"
+msgstr "Tenente Mike Williams"
 
 msgctxt "desc/human/narrator/eng-dunkirk-ingram"
 msgid "Maj. Ollie Ingram"
-msgstr "Maj. Ollie Ingram"
+msgstr "Major Ollie Ingram"
 
 msgctxt "desc/human/narrator/eng-dunkirk-shaw"
 msgid "Lt. Ken Shaw"
-msgstr "Ten. Ken Shaw"
+msgstr "Tenente Ken Shaw"
 
 msgctxt "desc/human/narrator/eng-dunkirk-greenwood"
 msgid "Sgt. Glen Greenwood"
-msgstr "Sgt. Glen Greenwood"
+msgstr "Sargento Glen Greenwood"
 
 msgctxt "desc/human/narrator/eng-varsity-para-officer"
 msgid "Cpt. Samuel Rowse"
-msgstr "Cap. Samuel Rowse"
+msgstr "Capitão Samuel Rowse"
 
 msgctxt "desc/human/narrator/eng-varsity-para-soldier"
 msgid "Sgt. Fletcher Shelton"
-msgstr "Sgt. Fletcher Shelton"
+msgstr "Sargento Fletcher Shelton"
 
 msgctxt "desc/human/narrator/eng-varsity-tank-officer"
 msgid "Lt. Leonard Hall"
-msgstr "Ten. Leonard Hall"
+msgstr "Tenente Leonard Hall"
 
 msgctxt "desc/human/narrator/eng-varsity-tank-soldier"
 msgid "Pvt. Ewan MacKenzie"
-msgstr "Sol. Ewan MacKenzie"
+msgstr "Soldado Ewan MacKenzie"
 
 msgctxt "desc/human/narrator/eng-goodwood-officer"
 msgid "Cpt. Conall MacSullivan"
-msgstr "Cap. Conall MacSullivan"
+msgstr "Capitão Conall MacSullivan"
 
 msgctxt "desc/human/narrator/eng-goodwood-soldier"
 msgid "Sgt. Aiden O'Hara"
-msgstr "Sgt. Aiden O'Hara"
+msgstr "Sargento Aiden O'Hara"
 
 msgctxt "desc/human/narrator/fra-civilian3"
 msgid "French Farmer"
@@ -90,11 +90,11 @@ msgstr "Líder da Resistência Holandesa"
 
 msgctxt "desc/human/narrator/pol-oosterbek-officer"
 msgid "Lt. Jan Kowalczyk"
-msgstr "Ten. Jan Kowalczyk"
+msgstr "Tenente Jan Kowalczyk"
 
 msgctxt "desc/human/narrator/eng-oosterbek-urquhart"
 msgid "Maj. Gen Elliot Urquhart"
-msgstr "Gen. Maj. Elliot Urquhart"
+msgstr "Major-general Elliot Urquhart"
 
 msgctxt "desc/human/narrator/eng-officer"
 msgid "Company Commander"
@@ -102,4 +102,4 @@ msgstr "Comandante de Companhia"
 
 msgctxt "desc/human/narrator/eng-tank_commander"
 msgid "Guards AD. Tank Commander"
-msgstr "Guards AD. Comandante de Tanque"
+msgstr "Comandante de Tanque da Divisão Blindada da Guarda"

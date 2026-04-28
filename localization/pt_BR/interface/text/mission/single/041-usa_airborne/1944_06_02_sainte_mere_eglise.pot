@@ -98,7 +98,7 @@ msgstr "Precisamos estabelecer uma posição na seção norte da cidade enquanto
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/04"
 msgid "I saw the Krauts rounding up a number of our men. Let's get them outta there!"
-msgstr "Eu vi os alemães capturando alguns de nossos homens. Vamos tirá-los de lá!"
+msgstr "Eu vi os Krauts capturando alguns de nossos homens. Vamos tirá-los de lá!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/05"
 msgid "Some of our boys are still landing in this town. I recommend you recruit any troopers you find!"
@@ -170,7 +170,7 @@ msgstr "Relâmpago!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/gundestroyed"
 msgid "Scratch another Kraut AA!"
-msgstr "Mais um canhão antiaéreo alemão eliminado!"
+msgstr "Mais um canhão antiaéreo Kraut eliminado!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/gundestroyed2"
 msgid "One more AA gun knocked out!"
@@ -198,7 +198,7 @@ msgstr "Atirador de elite alemão eliminado!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/stayonobj"
 msgid "Uh oh! Looks like I'll run into way more Krauts if I keep going this way."
-msgstr "Uh oh! Parece que vou encontrar muito mais alemães se continuar por aqui."
+msgstr "Uh oh! Parece que vou encontrar muito mais Krauts se continuar por aqui."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/recruit_status"
 msgid "You recruited %1%/10 paratroopers!"

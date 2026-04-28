@@ -19,11 +19,11 @@ msgstr "51st Highland Div. Inf. AT [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_at_boys_asst"
 msgid "51st Highland Div. AT Asst. [TA]"
-msgstr "51st Highland Div. Aux. AT [TA]"
+msgstr "51st Highland Div. Auxiliar Antitanque [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_bat_2ic"
 msgid "51st Highland Div. Battalion 2IC [TA]"
-msgstr "51st Highland Div. 2º Cmte. de Batalhão [TA]"
+msgstr "51st Highland Div. 2º Comandante de Batalhão [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_bat_com"
 msgid "51st Highland Div. Battalion Commander [TA]"
@@ -39,7 +39,7 @@ msgstr "51st Highland Div. Ordenança [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_coy_2ic"
 msgid "51st Highland Div. Company 2IC [TA]"
-msgstr "51st Highland Div. 2º Cmte. de Companhia [TA]"
+msgstr "51st Highland Div. 2º Comandante de Companhia [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_coy_com"
 msgid "51st Highland Div. Company Commander [TA]"
@@ -75,7 +75,7 @@ msgstr "51st Highland Div. Operador de MG [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_mg_asst"
 msgid "51st Highland Div. MG Asst. [TA]"
-msgstr "51st Highland Div. Aux. de MG [TA]"
+msgstr "51st Highland Div. Auxiliar de Metralhadora [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_pio"
 msgid "51st Highland Div. Pioneer [TA]"
@@ -119,7 +119,7 @@ msgstr "51st Highland Div. Granadeiro Atirador [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_sec_2ic"
 msgid "51st Highland Div. Section 2IC [TA]"
-msgstr "51st Highland Div. 2º Cmte. de Seção [TA]"
+msgstr "51st Highland Div. 2º Comandante de Seção [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_sec_com"
 msgid "51st Highland Div. Section Commander [TA]"
@@ -143,7 +143,7 @@ msgstr "Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/early/antitank_boys_asst"
 msgid "AT Asst. [BA]"
-msgstr "Aux. AT [BA]"
+msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/early/antitank_gren"
 msgid "Rifle Grenadier [BA]"
@@ -155,7 +155,7 @@ msgstr "Artilheiro Real [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_2ic"
 msgid "Battalion 2IC [BA]"
-msgstr "2º Cmte. de Batalhão [BA]"
+msgstr "2º Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_com"
 msgid "Battalion Commander [BA]"
@@ -163,7 +163,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sarg.-Maior Regimental do Batalhão [BA]"
+msgstr "Sargento-Maior Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -183,7 +183,7 @@ msgstr "Commando Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_mg_asst"
 msgid "Commando MG Asst. [BA]"
-msgstr "Commando Aux. de MG [BA]"
+msgstr "Commando Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_rifle"
 msgid "Commando Rifleman [BA]"
@@ -211,7 +211,7 @@ msgstr "Commando Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_subsec_2ic"
 msgid "Commando Sub-Section 2IC [BA]"
-msgstr "Commando 2º Cmte. de Sub-seção [BA]"
+msgstr "Commando 2º Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_subsec_com"
 msgid "Commando Sub-Section Commander [BA]"
@@ -219,7 +219,7 @@ msgstr "Commando Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_2ic"
 msgid "Company 2IC [BA]"
-msgstr "2º Cmte. de Companhia [BA]"
+msgstr "2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_com"
 msgid "Company Commander [BA]"
@@ -227,7 +227,7 @@ msgstr "Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_qm_sgt"
 msgid "Company Quarter Master Sergeant [BA]"
-msgstr "Sarg. Quartermaster de Companhia [BA]"
+msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
@@ -279,11 +279,11 @@ msgstr "Inf. AT da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_at_boys_asst"
 msgid "Guards AT Asst. [BA]"
-msgstr "Aux. AT da Guarda [BA]"
+msgstr "Auxiliar Antitanque da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_bat_2ic"
 msgid "Guards Battalion 2IC [BA]"
-msgstr "2º Cmte. de Batalhão da Guarda [BA]"
+msgstr "2º Comandante de Batalhão da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_bat_com"
 msgid "Guards Battalion Commander [BA]"
@@ -299,7 +299,7 @@ msgstr "Ordenança da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_coy_2ic"
 msgid "Guards Company 2IC [BA]"
-msgstr "2º Cmte. de Companhia da Guarda [BA]"
+msgstr "2º Comandante de Companhia da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_coy_com"
 msgid "Guards Company Commander [BA]"
@@ -335,7 +335,7 @@ msgstr "Operador de MG da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_mg_asst"
 msgid "Guards MG Asst. [BA]"
-msgstr "Aux. de MG da Guarda [BA]"
+msgstr "Auxiliar de Metralhadora da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_pio"
 msgid "Guards Pioneer [BA]"
@@ -379,7 +379,7 @@ msgstr "Granadeiro Atirador da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_sec_2ic"
 msgid "Guards Section 2IC [BA]"
-msgstr "2º Cmte. de Seção da Guarda [BA]"
+msgstr "2º Comandante de Seção da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_sec_com"
 msgid "Guards Section Commander [BA]"
@@ -403,7 +403,7 @@ msgstr "Royal HL. Black Watch Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_at_boys_asst"
 msgid "Royal HL. Black Watch AT Asst. [BA]"
-msgstr "Royal HL. Black Watch Aux. AT [BA]"
+msgstr "Royal HL. Black Watch Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_batman"
 msgid "Royal HL. Black Watch Batman [BA]"
@@ -411,7 +411,7 @@ msgstr "Royal HL. Black Watch Ordenança [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_coy_2ic"
 msgid "Royal HL. Black Watch Company 2IC [BA]"
-msgstr "Royal HL. Black Watch 2º Cmte. de Companhia [BA]"
+msgstr "Royal HL. Black Watch 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_coy_com"
 msgid "Royal HL. Black Watch Company Commander [BA]"
@@ -447,7 +447,7 @@ msgstr "Royal HL. Black Watch Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_mg_asst"
 msgid "Royal HL. Black Watch MG Asst. [BA]"
-msgstr "Royal HL. Black Watch Aux. de MG [BA]"
+msgstr "Royal HL. Black Watch Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_pio"
 msgid "Royal HL. Black Watch Pioneer [BA]"
@@ -483,7 +483,7 @@ msgstr "Royal HL. Black Watch Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_2ic"
 msgid "Royal HL. Black Watch Section 2IC [BA]"
-msgstr "Royal HL. Black Watch 2º Cmte. de Seção [BA]"
+msgstr "Royal HL. Black Watch 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_com"
 msgid "Royal HL. Black Watch Section Commander [BA]"
@@ -507,7 +507,7 @@ msgstr "Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/mg_asst"
 msgid "MG Asst. [BA]"
-msgstr "Aux. de MG [BA]"
+msgstr "Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/mg_crew"
 msgid "MG Crew [BA]"
@@ -515,7 +515,7 @@ msgstr "Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/mg_crew_asst"
 msgid "MG Crew Asst. [BA]"
-msgstr "Aux. de Tripulação MG [BA]"
+msgstr "Auxiliar de Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_boys"
 msgid "Motor AT Inf. [BA]"
@@ -523,7 +523,7 @@ msgstr "Inf. AT Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_boys_asst"
 msgid "Motor AT Asst. [BA]"
-msgstr "Aux. AT Motorizado [BA]"
+msgstr "Auxiliar Antitanque Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_mg"
 msgid "Motor MG Operator [BA]"
@@ -531,7 +531,7 @@ msgstr "Operador Motorizado de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Aux. Motorizado. de MG [BA]"
+msgstr "Auxiliar Motorizado. de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_rifle"
 msgid "Motor Rifleman [BA]"
@@ -563,7 +563,7 @@ msgstr "Batedor Motorizado Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado 2º Cmte. de Seção [BA]"
+msgstr "Motorizado 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_sec_com"
 msgid "Motor Section Commander [BA]"
@@ -599,7 +599,7 @@ msgstr "Inf. AT de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_boys_asst"
 msgid "Pioneer AT Asst. [BA]"
-msgstr "Aux. AT de Pioneiros [BA]"
+msgstr "Auxiliar Antitanque de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_builder"
 msgid "Pioneer Builder [BA]"
@@ -615,7 +615,7 @@ msgstr "Pioneiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_mg_asst"
 msgid "Pioneer MG Asst. [BA]"
-msgstr "Pioneiro Aux. de MG [BA]"
+msgstr "Pioneiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_sec_com"
 msgid "Pioneer Section Commander [BA]"
@@ -643,7 +643,7 @@ msgstr "Royal Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_boys_asst"
 msgid "Royal Engineer AT Asst. [BA]"
-msgstr "Royal Aux. AT de Engenheiros [BA]"
+msgstr "Royal Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_builder"
 msgid "Royal Engineer Builder [BA]"
@@ -655,7 +655,7 @@ msgstr "Engenheiro Real Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_mg_asst"
 msgid "Royal Engineer MG Asst. [BA]"
-msgstr "Engenheiro Real Aux. de MG [BA]"
+msgstr "Engenheiro Real Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_mine_ap"
 msgid "Royal Engineer AP Miner [BA]"
@@ -671,7 +671,7 @@ msgstr "Royal Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_sec_2ic"
 msgid "Royal Engineer Section 2IC [BA]"
-msgstr "Engenheiro Real 2º Cmte. de Seção [BA]"
+msgstr "Engenheiro Real 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_sec_com"
 msgid "Royal Engineer Section Commander [BA]"
@@ -731,7 +731,7 @@ msgstr "Granadeiro Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/early/sec_2ic"
 msgid "Section 2IC [BA]"
-msgstr "2º Cmte. de Seção [BA]"
+msgstr "2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/early/sec_com"
 msgid "Section Commander [BA]"
@@ -783,7 +783,7 @@ msgstr "1st Aerotransportada Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_boys_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "1st Aerotransportada Aux. AT [BA]"
+msgstr "1st Aerotransportada Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_crew"
 msgid "1st Airlanding Crew [BA]"
@@ -795,7 +795,7 @@ msgstr "1st Aerotransportada Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_mg_asst"
 msgid "1st Airlanding MG Asst. [BA]"
-msgstr "1st Aerotransportada Aux. de MG [BA]"
+msgstr "1st Aerotransportada Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_piat"
 msgid "1st Airlanding AT Inf. [BA]"
@@ -803,7 +803,7 @@ msgstr "1st Aerotransportada Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_piat_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "1st Aerotransportada Aux. AT [BA]"
+msgstr "1st Aerotransportada Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_pio"
 msgid "1st Airlanding Pioneer [BA]"
@@ -823,7 +823,7 @@ msgstr "1st Aerotransportada Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_mg_asst"
 msgid "1st Airlanding Recon MG Asst. [BA]"
-msgstr "1st Aerotransportada Reconhecimento Aux. de MG [BA]"
+msgstr "1st Aerotransportada Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_rifle"
 msgid "1st Airlanding Recon [BA]"
@@ -831,7 +831,7 @@ msgstr "Reconhecimento Aerotransportada 1ª [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_2ic"
 msgid "1st Airlanding Recon Section 2IC [BA]"
-msgstr "1st Aerotransportada Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "1st Aerotransportada Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_com"
 msgid "1st Airlanding Recon Section Commander [BA]"
@@ -859,7 +859,7 @@ msgstr "1st Aerotransportada Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_2ic"
 msgid "1st Airlanding Section 2IC [BA]"
-msgstr "1st Aerotransportada 2º Cmte. de Seção [BA]"
+msgstr "1st Aerotransportada 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_com"
 msgid "1st Airlanding Section Commander [BA]"
@@ -887,11 +887,11 @@ msgstr "1st Airborne Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_boys_asst"
 msgid "1st Airborne AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT [BA]"
+msgstr "1st Airborne Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_2ic"
 msgid "1st Airborne Company 2IC [BA]"
-msgstr "1st Airborne 2º Cmte. de Companhia [BA]"
+msgstr "1st Airborne 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_com"
 msgid "1st Airborne Company Commander [BA]"
@@ -919,7 +919,7 @@ msgstr "1st Airborne Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_boys_asst"
 msgid "1st Airborne Engineer AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT de Engenheiros [BA]"
+msgstr "1st Airborne Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_mg"
 msgid "1st Airborne Engineer MG Operator [BA]"
@@ -927,7 +927,7 @@ msgstr "1st Airborne Engenheiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_mg_asst"
 msgid "1st Airborne Engineer MG Asst. [BA]"
-msgstr "1st Airborne Engenheiro Aux. de MG [BA]"
+msgstr "1st Airborne Engenheiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_piat"
 msgid "1st Airborne Engineer AT Inf. [BA]"
@@ -935,7 +935,7 @@ msgstr "1st Airborne Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_piat_asst"
 msgid "1st Airborne Engineer AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT de Engenheiros [BA]"
+msgstr "1st Airborne Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sapper"
 msgid "1st Airborne Engineer Sapper [BA]"
@@ -943,7 +943,7 @@ msgstr "1st Airborne Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sec_2ic"
 msgid "1st Airborne Engineer Section 2IC [BA]"
-msgstr "1st Airborne Engenheiro 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne Engenheiro 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sec_com"
 msgid "1st Airborne Engineer Section Commander [BA]"
@@ -959,7 +959,7 @@ msgstr "1st Airborne Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_mg_asst"
 msgid "1st Airborne MG Asst. [BA]"
-msgstr "1st Airborne Aux. de MG [BA]"
+msgstr "1st Airborne Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_mortar"
 msgid "1st Airborne Mortarman [BA]"
@@ -967,7 +967,7 @@ msgstr "1st Airborne Morteirista [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_mortar_asst"
 msgid "1st Airborne Mortar Asst. [BA]"
-msgstr "1st Airborne Aux. de Morteiro [BA]"
+msgstr "1st Airborne Auxiliar de Morteiro [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_piat"
 msgid "1st Airborne AT Inf. [BA]"
@@ -975,7 +975,7 @@ msgstr "1st Airborne Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_piat_asst"
 msgid "1st Airborne AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT [BA]"
+msgstr "1st Airborne Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_plt_com"
 msgid "1st Airborne Platoon Commander [BA]"
@@ -991,7 +991,7 @@ msgstr "1st Airborne Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_mg_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "1st Airborne Reconhecimento Aux. de MG [BA]"
+msgstr "1st Airborne Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
@@ -999,7 +999,7 @@ msgstr "Reconhecimento Aerotransportado 1ª [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_2ic"
 msgid "1st Airborne Recce Section 2IC [BA]"
-msgstr "1st Airborne Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_com"
 msgid "1st Airborne Recce Section Commander [BA]"
@@ -1031,7 +1031,7 @@ msgstr "1st Airborne Granadeiro Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_2ic"
 msgid "1st Airborne Section 2IC [BA]"
-msgstr "1st Airborne 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_com"
 msgid "1st Airborne Section Commander [BA]"
@@ -1059,7 +1059,7 @@ msgstr "51st Highland Div. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_at_boys_asst"
 msgid "51st Highland Div. AT Asst. [BA]"
-msgstr "51st Highland Div. Aux. AT [BA]"
+msgstr "51st Highland Div. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_at_piat"
 msgid "51st Highland Div. AT Inf. [BA]"
@@ -1067,7 +1067,7 @@ msgstr "51st Highland Div. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_at_piat_asst"
 msgid "51st Highland Div. AT Asst. [BA]"
-msgstr "51st Highland Div. Aux. AT [BA]"
+msgstr "51st Highland Div. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_batman"
 msgid "51st Highland Div. Batman [BA]"
@@ -1075,7 +1075,7 @@ msgstr "51st Highland Div. Ordenança [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_coy_2ic"
 msgid "51st Highland Div. Company 2IC [BA]"
-msgstr "51st Highland Div. 2º Cmte. de Companhia [BA]"
+msgstr "51st Highland Div. 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_coy_com"
 msgid "51st Highland Div. Company Commander [BA]"
@@ -1103,7 +1103,7 @@ msgstr "51st Highland Div. Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_mg_asst"
 msgid "51st Highland Div. MG Asst. [BA]"
-msgstr "51st Highland Div. Aux. de MG [BA]"
+msgstr "51st Highland Div. Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_pio"
 msgid "51st Highland Div. Pioneer [BA]"
@@ -1147,7 +1147,7 @@ msgstr "51st Highland Div. Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_sec_2ic"
 msgid "51st Highland Div. Section 2IC [BA]"
-msgstr "51st Highland Div. 2º Cmte. de Seção [BA]"
+msgstr "51st Highland Div. 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_sec_com"
 msgid "51st Highland Div. Section Commander [BA]"
@@ -1175,7 +1175,7 @@ msgstr "7th AD. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_at_boys_asst"
 msgid "7th AD. AT Asst. [BA]"
-msgstr "7th AD. Aux. AT [BA]"
+msgstr "7th AD. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_at_piat"
 msgid "7th AD. AT Inf. [BA]"
@@ -1183,7 +1183,7 @@ msgstr "7th AD. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_at_piat_asst"
 msgid "7th AD. AT Asst. [BA]"
-msgstr "7th AD. Aux. AT [BA]"
+msgstr "7th AD. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_batman"
 msgid "7th AD. Batman [BA]"
@@ -1191,7 +1191,7 @@ msgstr "7th AD. Ordenança [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_coy_2ic"
 msgid "7th AD. Company 2IC [BA]"
-msgstr "7th AD. 2º Cmte. de Companhia [BA]"
+msgstr "7th AD. 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_coy_com"
 msgid "7th AD. Company Commander [BA]"
@@ -1223,7 +1223,7 @@ msgstr "7th AD. Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_mg_asst"
 msgid "7th AD. MG Asst. [BA]"
-msgstr "7th AD. Aux. de MG [BA]"
+msgstr "7th AD. Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_plt_batman"
 msgid "7th AD. Platoon Batman [BA]"
@@ -1255,7 +1255,7 @@ msgstr "7th AD. Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_sec_2ic"
 msgid "7th AD. Section 2IC [BA]"
-msgstr "7th AD. 2º Cmte. de Seção [BA]"
+msgstr "7th AD. 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_sec_com"
 msgid "7th AD. Section Commander [BA]"
@@ -1307,7 +1307,7 @@ msgstr "Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/antitank_boys_asst"
 msgid "AT Asst. [BA]"
-msgstr "Aux. AT [BA]"
+msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/antitank_gren"
 msgid "Rifle Grenadier [BA]"
@@ -1319,7 +1319,7 @@ msgstr "Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/antitank_piat_asst"
 msgid "AT Asst. [BA]"
-msgstr "Aux. AT [BA]"
+msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/artilleryman"
 msgid "Royal Artilleryman [BA]"
@@ -1327,7 +1327,7 @@ msgstr "Artilheiro Real [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_2ic"
 msgid "Battalion 2IC [BA]"
-msgstr "2º Cmte. de Batalhão [BA]"
+msgstr "2º Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_com"
 msgid "Battalion Commander [BA]"
@@ -1335,7 +1335,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sarg.-Maior Regimental do Batalhão [BA]"
+msgstr "Sargento-Maior Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -1355,7 +1355,7 @@ msgstr "Commando Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_boys_asst"
 msgid "Commando AT Asst. [BA]"
-msgstr "Commando Aux. AT [BA]"
+msgstr "Commando Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_crew"
 msgid "Commando Crew [BA]"
@@ -1371,7 +1371,7 @@ msgstr "Commando Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_mg_asst"
 msgid "Commando MG Asst. [BA]"
-msgstr "Commando Aux. de MG [BA]"
+msgstr "Commando Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_piat"
 msgid "Commando AT Inf. [BA]"
@@ -1379,7 +1379,7 @@ msgstr "Commando Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_piat_asst"
 msgid "Commando AT Asst. [BA]"
-msgstr "Commando Aux. AT [BA]"
+msgstr "Commando Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_rifle"
 msgid "Commando Rifleman [BA]"
@@ -1407,7 +1407,7 @@ msgstr "Commando Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_subsec_2ic"
 msgid "Commando Sub-Section 2IC [BA]"
-msgstr "Commando 2º Cmte. de Sub-seção [BA]"
+msgstr "Commando 2º Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_subsec_com"
 msgid "Commando Sub-Section Commander [BA]"
@@ -1415,7 +1415,7 @@ msgstr "Commando Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_2ic"
 msgid "Company 2IC [BA]"
-msgstr "2º Cmte. de Companhia [BA]"
+msgstr "2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_com"
 msgid "Company Commander [BA]"
@@ -1423,7 +1423,7 @@ msgstr "Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_qm_sgt"
 msgid "Company Quarter Master Sergeant [BA]"
-msgstr "Sarg. Quartermaster de Companhia [BA]"
+msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
@@ -1443,7 +1443,7 @@ msgstr "Defesa Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_at_boys_asst"
 msgid "Defense AT Asst. [BA]"
-msgstr "Defesa Aux. AT [BA]"
+msgstr "Defesa Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_mg"
 msgid "Defense MG Operator [BA]"
@@ -1451,7 +1451,7 @@ msgstr "Defesa Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_mg_asst"
 msgid "Defense MG Asst. [BA]"
-msgstr "Defesa Aux. de MG [BA]"
+msgstr "Defesa Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_rifle"
 msgid "Defense Rifleman [BA]"
@@ -1463,7 +1463,7 @@ msgstr "Defesa Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_sec_2ic"
 msgid "Defense Section 2IC [BA]"
-msgstr "Defesa 2º Cmte. de Seção [BA]"
+msgstr "Defesa 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_sec_com"
 msgid "Defense Section Commander [BA]"
@@ -1515,7 +1515,7 @@ msgstr "Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mg_asst"
 msgid "MG Asst. [BA]"
-msgstr "Aux. de MG [BA]"
+msgstr "Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mg_crew"
 msgid "MG Crew [BA]"
@@ -1523,7 +1523,7 @@ msgstr "Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mg_crew_asst"
 msgid "MG Crew Asst. [BA]"
-msgstr "Aux. de Tripulação MG [BA]"
+msgstr "Auxiliar de Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_boys"
 msgid "Motor AT Inf. [BA]"
@@ -1531,7 +1531,7 @@ msgstr "Inf. AT Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_boys_asst"
 msgid "Motor AT Asst. [BA]"
-msgstr "Aux. AT Motorizado [BA]"
+msgstr "Auxiliar Antitanque Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_mg"
 msgid "Motor MG Operator [BA]"
@@ -1539,7 +1539,7 @@ msgstr "Operador Motorizado de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Aux. Motorizado. de MG [BA]"
+msgstr "Auxiliar Motorizado. de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_rifle"
 msgid "Motor Rifleman [BA]"
@@ -1571,7 +1571,7 @@ msgstr "Batedor Motorizado Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado 2º Cmte. de Seção [BA]"
+msgstr "Motorizado 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_sec_com"
 msgid "Motor Section Commander [BA]"
@@ -1631,7 +1631,7 @@ msgstr "Royal Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_boys_asst"
 msgid "Royal Engineer AT Asst. [BA]"
-msgstr "Royal Aux. AT de Engenheiros [BA]"
+msgstr "Royal Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_builder"
 msgid "Royal Engineer Builder [BA]"
@@ -1643,7 +1643,7 @@ msgstr "Engenheiro Real Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_mg_asst"
 msgid "Royal Engineer MG Asst. [BA]"
-msgstr "Engenheiro Real Aux. de MG [BA]"
+msgstr "Engenheiro Real Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_mine_ap"
 msgid "Royal Engineer AP Miner [BA]"
@@ -1659,7 +1659,7 @@ msgstr "Royal Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_sec_2ic"
 msgid "Royal Engineer Section 2IC [BA]"
-msgstr "Engenheiro Real 2º Cmte. de Seção [BA]"
+msgstr "Engenheiro Real 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_sec_com"
 msgid "Royal Engineer Section Commander [BA]"
@@ -1699,7 +1699,7 @@ msgstr "Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_mg_asst"
 msgid "Recce MG Asst. [BA]"
-msgstr "Reconhecimento Aux. de MG [BA]"
+msgstr "Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_rifle_band"
 msgid "Recce Rifleman [BA]"
@@ -1707,7 +1707,7 @@ msgstr "Atirador de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_sec_2ic"
 msgid "Recce Section 2IC [BA]"
-msgstr "Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_sec_com"
 msgid "Recce Section Commander [BA]"
@@ -1735,7 +1735,7 @@ msgstr "Inf. AT Commando Royal Marines [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_boys_asst"
 msgid "Royal Marine Commando AT Asst. [RM]"
-msgstr "Aux. AT Commando Royal Marines [RM]"
+msgstr "Auxiliar Antitanque Comando Royal Marines [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_crew"
 msgid "Royal Marine Commando Crew [RM]"
@@ -1747,7 +1747,7 @@ msgstr "Royal Marine Commando Operador de MG [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_mg_asst"
 msgid "Royal Marine Commando MG Asst. [RM]"
-msgstr "Royal Marine Commando Aux. de MG [RM]"
+msgstr "Royal Marine Commando Auxiliar de Metralhadora [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_rifle"
 msgid "Royal Marine Commando Rifleman [RM]"
@@ -1787,7 +1787,7 @@ msgstr "Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_bma"
 msgid "Royal Navy Commando Beachmaster Asst. [RN]"
-msgstr "Aux. Mestre de Praia Commando da Marinha Real [RN]"
+msgstr "Auxiliar Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_leading"
 msgid "Royal Navy Commando Leading Seaman [RN]"
@@ -1799,7 +1799,7 @@ msgstr "Royal Navy Commando Operador de MG [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_mg_asst"
 msgid "Royal Navy Commando MG Asst. [RN]"
-msgstr "Royal Navy Commando Aux. de MG [RN]"
+msgstr "Royal Navy Commando Auxiliar de Metralhadora [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_rifle"
 msgid "Royal Navy Commando Rifleman [RN]"
@@ -1815,7 +1815,7 @@ msgstr "SAS Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_boys_asst"
 msgid "SAS AT Asst. [BA]"
-msgstr "SAS Aux. AT [BA]"
+msgstr "SAS Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_crew"
 msgid "SAS Crew [BA]"
@@ -1831,7 +1831,7 @@ msgstr "SAS Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_mg_asst"
 msgid "SAS MG Asst. [BA]"
-msgstr "SAS Aux. de MG [BA]"
+msgstr "SAS Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_rifle"
 msgid "SAS Rifleman [BA]"
@@ -1871,7 +1871,7 @@ msgstr "SAS Inf. SMG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sec_2ic"
 msgid "Section 2IC [BA]"
-msgstr "2º Cmte. de Seção [BA]"
+msgstr "2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sec_com"
 msgid "Section Commander [BA]"
@@ -1931,7 +1931,7 @@ msgstr "Veterano Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_boys_asst"
 msgid "Veteran AT Asst. [BA]"
-msgstr "Veterano Aux. AT [BA]"
+msgstr "Veterano Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_mg"
 msgid "Veteran MG Operator [BA]"
@@ -1939,7 +1939,7 @@ msgstr "Veterano Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_mg_asst"
 msgid "Veteran MG Asst. [BA]"
-msgstr "Veterano Aux. de MG [BA]"
+msgstr "Veterano Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_piat"
 msgid "Veteran AT Inf. [BA]"
@@ -1947,7 +1947,7 @@ msgstr "Veterano Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_piat_asst"
 msgid "Veteran AT Asst. [BA]"
-msgstr "Veterano Aux. AT [BA]"
+msgstr "Veterano Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_rifle"
 msgid "Veteran Rifleman [BA]"
@@ -1967,7 +1967,7 @@ msgstr "Veterano Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_sec_2ic"
 msgid "Veteran Section 2IC [BA]"
-msgstr "Veterano 2º Cmte. de Seção [BA]"
+msgstr "Veterano 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_sec_com"
 msgid "Veteran Section Commander [BA]"
@@ -2003,7 +2003,7 @@ msgstr "1st Aerotransportada Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_mg_asst"
 msgid "1st Airlanding MG Asst. [BA]"
-msgstr "1st Aerotransportada Aux. de MG [BA]"
+msgstr "1st Aerotransportada Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_piat"
 msgid "1st Airlanding AT Inf. [BA]"
@@ -2011,7 +2011,7 @@ msgstr "1st Aerotransportada Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_piat_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "1st Aerotransportada Aux. AT [BA]"
+msgstr "1st Aerotransportada Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_pio"
 msgid "1st Airlanding Pioneer [BA]"
@@ -2031,7 +2031,7 @@ msgstr "1st Aerotransportada Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_mg_asst"
 msgid "1st Airlanding Recon MG Asst. [BA]"
-msgstr "1st Aerotransportada Reconhecimento Aux. de MG [BA]"
+msgstr "1st Aerotransportada Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_rifle"
 msgid "1st Airlanding Recon [BA]"
@@ -2039,7 +2039,7 @@ msgstr "Reconhecimento Aerotransportada 1ª [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_2ic"
 msgid "1st Airlanding Recon Section 2IC [BA]"
-msgstr "1st Aerotransportada Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "1st Aerotransportada Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_com"
 msgid "1st Airlanding Recon Section Commander [BA]"
@@ -2067,7 +2067,7 @@ msgstr "1st Aerotransportada Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sec_2ic"
 msgid "1st Airlanding Section 2IC [BA]"
-msgstr "1st Aerotransportada 2º Cmte. de Seção [BA]"
+msgstr "1st Aerotransportada 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sec_com"
 msgid "1st Airlanding Section Commander [BA]"
@@ -2091,7 +2091,7 @@ msgstr "1st Airborne Ordenança [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_coy_2ic"
 msgid "1st Airborne Company 2IC [BA]"
-msgstr "1st Airborne 2º Cmte. de Companhia [BA]"
+msgstr "1st Airborne 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_coy_com"
 msgid "1st Airborne Company Commander [BA]"
@@ -2123,7 +2123,7 @@ msgstr "1st Airborne Engenheiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_mg_asst"
 msgid "1st Airborne Engineer MG Asst. [BA]"
-msgstr "1st Airborne Engenheiro Aux. de MG [BA]"
+msgstr "1st Airborne Engenheiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_piat"
 msgid "1st Airborne Engineer AT Inf. [BA]"
@@ -2131,7 +2131,7 @@ msgstr "1st Airborne Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_piat_asst"
 msgid "1st Airborne Engineer AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT de Engenheiros [BA]"
+msgstr "1st Airborne Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sapper"
 msgid "1st Airborne Engineer Sapper [BA]"
@@ -2139,7 +2139,7 @@ msgstr "1st Airborne Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sec_2ic"
 msgid "1st Airborne Engineer Section 2IC [BA]"
-msgstr "1st Airborne Engenheiro 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne Engenheiro 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sec_com"
 msgid "1st Airborne Engineer Section Commander [BA]"
@@ -2159,11 +2159,11 @@ msgstr "1st Airborne Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_mg_asst"
 msgid "1st Airborne MG Asst. [BA]"
-msgstr "1st Airborne Aux. de MG [BA]"
+msgstr "1st Airborne Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_mg_asst_smg"
 msgid "1st Airborne MG Asst. [BA]"
-msgstr "1st Airborne Aux. de MG [BA]"
+msgstr "1st Airborne Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_mortar"
 msgid "1st Airborne Mortarman [BA]"
@@ -2171,7 +2171,7 @@ msgstr "1st Airborne Morteirista [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_mortar_asst"
 msgid "1st Airborne Mortar Asst. [BA]"
-msgstr "1st Airborne Aux. de Morteiro [BA]"
+msgstr "1st Airborne Auxiliar de Morteiro [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_piat"
 msgid "1st Airborne AT Inf. [BA]"
@@ -2179,7 +2179,7 @@ msgstr "1st Airborne Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_piat_asst"
 msgid "1st Airborne AT Asst. [BA]"
-msgstr "1st Airborne Aux. AT [BA]"
+msgstr "1st Airborne Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_plt_com"
 msgid "1st Airborne Platoon Commander [BA]"
@@ -2195,7 +2195,7 @@ msgstr "1st Airborne Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "1st Airborne Reconhecimento Aux. de MG [BA]"
+msgstr "1st Airborne Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo"
 msgid "1st Airborne Recce MG Operator [BA]"
@@ -2203,7 +2203,7 @@ msgstr "1st Airborne Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "1st Airborne Reconhecimento Aux. de MG [BA]"
+msgstr "1st Airborne Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
@@ -2211,7 +2211,7 @@ msgstr "Reconhecimento Aerotransportado 1ª [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_2ic"
 msgid "1st Airborne Recce Section 2IC [BA]"
-msgstr "1st Airborne Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_com"
 msgid "1st Airborne Recce Section Commander [BA]"
@@ -2243,7 +2243,7 @@ msgstr "1st Airborne Granadeiro Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_sec_2ic"
 msgid "1st Airborne Section 2IC [BA]"
-msgstr "1st Airborne 2º Cmte. de Seção [BA]"
+msgstr "1st Airborne 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com"
 msgid "1st Airborne Section Commander [BA]"
@@ -2283,7 +2283,7 @@ msgstr "6th Aerotransportada Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_mg_asst"
 msgid "6th Airlanding MG Asst. [BA]"
-msgstr "6th Aerotransportada Aux. de MG [BA]"
+msgstr "6th Aerotransportada Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_piat"
 msgid "6th Airlanding AT Inf. [BA]"
@@ -2291,7 +2291,7 @@ msgstr "6th Aerotransportada Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_piat_asst"
 msgid "6th Airlanding AT Asst. [BA]"
-msgstr "6th Aerotransportada Aux. AT [BA]"
+msgstr "6th Aerotransportada Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_pio"
 msgid "6th Airlanding Pioneer [BA]"
@@ -2311,7 +2311,7 @@ msgstr "6th Aerotransportada Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_mg_asst"
 msgid "6th Airlanding Recon MG Asst. [BA]"
-msgstr "6th Aerotransportada Reconhecimento Aux. de MG [BA]"
+msgstr "6th Aerotransportada Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_rifle"
 msgid "6th Airlanding Recon [BA]"
@@ -2319,7 +2319,7 @@ msgstr "Reconhecimento Aerotransportada 6ª [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_2ic"
 msgid "6th Airlanding Recon Section 2IC [BA]"
-msgstr "6th Aerotransportada Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "6th Aerotransportada Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_com"
 msgid "6th Airlanding Recon Section Commander [BA]"
@@ -2343,7 +2343,7 @@ msgstr "6th Aerotransportada Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sec_2ic"
 msgid "6th Airlanding Section 2IC [BA]"
-msgstr "6th Aerotransportada 2º Cmte. de Seção [BA]"
+msgstr "6th Aerotransportada 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sec_com"
 msgid "6th Airlanding Section Commander [BA]"
@@ -2367,7 +2367,7 @@ msgstr "6th Airborne Ordenança [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_coy_2ic"
 msgid "6th Airborne Company 2IC [BA]"
-msgstr "6th Airborne 2º Cmte. de Companhia [BA]"
+msgstr "6th Airborne 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_coy_com"
 msgid "6th Airborne Company Commander [BA]"
@@ -2399,7 +2399,7 @@ msgstr "6th Airborne Engenheiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_mg_asst"
 msgid "6th Airborne Engineer MG Asst. [BA]"
-msgstr "6th Airborne Engenheiro Aux. de MG [BA]"
+msgstr "6th Airborne Engenheiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_piat"
 msgid "6th Airborne Engineer AT Inf. [BA]"
@@ -2407,7 +2407,7 @@ msgstr "6th Airborne Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_piat_asst"
 msgid "6th Airborne Engineer AT Asst. [BA]"
-msgstr "6th Airborne Aux. AT de Engenheiros [BA]"
+msgstr "6th Airborne Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sapper"
 msgid "6th Airborne Engineer Sapper [BA]"
@@ -2415,7 +2415,7 @@ msgstr "6th Airborne Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sec_2ic"
 msgid "6th Airborne Engineer Section 2IC [BA]"
-msgstr "6th Airborne Engenheiro 2º Cmte. de Seção [BA]"
+msgstr "6th Airborne Engenheiro 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sec_com"
 msgid "6th Airborne Engineer Section Commander [BA]"
@@ -2435,11 +2435,11 @@ msgstr "6th Airborne Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_mg_asst"
 msgid "6th Airborne MG Asst. [BA]"
-msgstr "6th Airborne Aux. de MG [BA]"
+msgstr "6th Airborne Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_mg_asst_smg"
 msgid "6th Airborne MG Asst. [BA]"
-msgstr "6th Airborne Aux. de MG [BA]"
+msgstr "6th Airborne Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_mortar"
 msgid "6th Airborne Mortarman [BA]"
@@ -2447,7 +2447,7 @@ msgstr "6th Airborne Morteirista [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_mortar_asst"
 msgid "6th Airborne Mortar Asst. [BA]"
-msgstr "6th Airborne Aux. de Morteiro [BA]"
+msgstr "6th Airborne Auxiliar de Morteiro [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_piat"
 msgid "6th Airborne AT Inf. [BA]"
@@ -2455,7 +2455,7 @@ msgstr "6th Airborne Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_piat_asst"
 msgid "6th Airborne AT Asst. [BA]"
-msgstr "6th Airborne Aux. AT [BA]"
+msgstr "6th Airborne Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_plt_com"
 msgid "6th Airborne Platoon Commander [BA]"
@@ -2479,7 +2479,7 @@ msgstr "6th Airborne Granadeiro Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_sec_2ic"
 msgid "6th Airborne Section 2IC [BA]"
-msgstr "6th Airborne 2º Cmte. de Seção [BA]"
+msgstr "6th Airborne 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_sec_com"
 msgid "6th Airborne Section Commander [BA]"
@@ -2507,7 +2507,7 @@ msgstr "6th Airborne Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_coy_2ic"
 msgid "7th AD. Company 2IC [BA]"
-msgstr "7th AD. 2º Cmte. de Companhia [BA]"
+msgstr "7th AD. 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_coy_com"
 msgid "7th AD. Company Commander [BA]"
@@ -2547,7 +2547,7 @@ msgstr "7th AD. Engenheiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_mg_asst"
 msgid "7th AD. Engineer MG Asst. [BA]"
-msgstr "7th AD. Engenheiro Aux. de MG [BA]"
+msgstr "7th AD. Engenheiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_mine_ap"
 msgid "7th AD. Engineer AP Miner [BA]"
@@ -2563,7 +2563,7 @@ msgstr "7th AD. Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_piat_asst"
 msgid "7th AD. Engineer AT Asst. [BA]"
-msgstr "7th AD. Aux. AT de Engenheiros [BA]"
+msgstr "7th AD. Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_sapper"
 msgid "7th AD. Engineer Sapper [BA]"
@@ -2571,7 +2571,7 @@ msgstr "7th AD. Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_sec_2ic"
 msgid "7th AD. Engineer Section 2IC [BA]"
-msgstr "7th AD. Engenheiro 2º Cmte. de Seção [BA]"
+msgstr "7th AD. Engenheiro 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_sec_com"
 msgid "7th AD. Engineer Section Commander [BA]"
@@ -2587,7 +2587,7 @@ msgstr "7th AD. Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mg_asst"
 msgid "7th AD. MG Asst. [BA]"
-msgstr "7th AD. Aux. de MG [BA]"
+msgstr "7th AD. Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_mg"
 msgid "7th AD. Motor MG Operator [BA]"
@@ -2595,7 +2595,7 @@ msgstr "7th AD. Operador Motorizado de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_mg_asst"
 msgid "7th AD. Motor MG Asst. [BA]"
-msgstr "7th AD. Aux. Motorizado. de MG [BA]"
+msgstr "7th AD. Auxiliar Motorizado. de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat"
 msgid "7th AD. Motor AT Inf. [BA]"
@@ -2603,7 +2603,7 @@ msgstr "7th AD. Inf. AT Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat_asst"
 msgid "7th AD. Motor AT Asst. [BA]"
-msgstr "7th AD. Aux. AT Motorizado [BA]"
+msgstr "7th AD. Auxiliar Antitanque Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_rifle"
 msgid "7th AD. Motor Rifleman [BA]"
@@ -2647,7 +2647,7 @@ msgstr "7th AD. Batedor Motorizado Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_2ic"
 msgid "7th AD. Motor Section 2IC [BA]"
-msgstr "7th AD. Motorizado 2º Cmte. de Seção [BA]"
+msgstr "7th AD. Motorizado 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_com"
 msgid "7th AD. Motor Section Commander [BA]"
@@ -2659,7 +2659,7 @@ msgstr "7th AD. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_piat_asst"
 msgid "7th AD. AT Asst. [BA]"
-msgstr "7th AD. Aux. AT [BA]"
+msgstr "7th AD. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_pio"
 msgid "7th AD. Pioneer [BA]"
@@ -2703,7 +2703,7 @@ msgstr "7th AD. Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_sec_2ic"
 msgid "7th AD. Section 2IC [BA]"
-msgstr "7th AD. 2º Cmte. de Seção [BA]"
+msgstr "7th AD. 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_sec_com"
 msgid "7th AD. Section Commander [BA]"
@@ -2755,7 +2755,7 @@ msgstr "Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/antitank_piat_asst"
 msgid "AT Asst. [BA]"
-msgstr "Aux. AT [BA]"
+msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/artilleryman"
 msgid "Royal Artilleryman [BA]"
@@ -2763,7 +2763,7 @@ msgstr "Artilheiro Real [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_2ic"
 msgid "Battalion 2IC [BA]"
-msgstr "2º Cmte. de Batalhão [BA]"
+msgstr "2º Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_com"
 msgid "Battalion Commander [BA]"
@@ -2771,7 +2771,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sarg.-Maior Regimental do Batalhão [BA]"
+msgstr "Sargento-Maior Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -2803,7 +2803,7 @@ msgstr "Commando Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_mg_asst"
 msgid "Commando MG Asst. [BA]"
-msgstr "Commando Aux. de MG [BA]"
+msgstr "Commando Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_rifle"
 msgid "Commando Rifleman [BA]"
@@ -2823,7 +2823,7 @@ msgstr "Commando Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_rifle_piat_asst"
 msgid "Commando AT Asst. [BA]"
-msgstr "Commando Aux. AT [BA]"
+msgstr "Commando Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_sec_com"
 msgid "Commando Section Commander [BA]"
@@ -2843,11 +2843,11 @@ msgstr "Commando Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_subsec_2ic"
 msgid "Commando Sub-Section 2IC [BA]"
-msgstr "Commando 2º Cmte. de Sub-seção [BA]"
+msgstr "Commando 2º Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_subsec_2ic_smg_s"
 msgid "Commando Sub-Section 2IC [BA]"
-msgstr "Commando 2º Cmte. de Sub-seção [BA]"
+msgstr "Commando 2º Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_subsec_com"
 msgid "Commando Sub-Section Commander [BA]"
@@ -2855,7 +2855,7 @@ msgstr "Commando Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_2ic"
 msgid "Company 2IC [BA]"
-msgstr "2º Cmte. de Companhia [BA]"
+msgstr "2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_com"
 msgid "Company Commander [BA]"
@@ -2863,7 +2863,7 @@ msgstr "Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_qm_sgt"
 msgid "Company Quarter Master Sergeant [BA]"
-msgstr "Sarg. Quartermaster de Companhia [BA]"
+msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
@@ -2883,7 +2883,7 @@ msgstr "Defesa Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_at_piat_asst"
 msgid "Defense AT Asst. [BA]"
-msgstr "Defesa Aux. AT [BA]"
+msgstr "Defesa Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_mg"
 msgid "Defense MG Operator [BA]"
@@ -2891,7 +2891,7 @@ msgstr "Defesa Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_mg_asst"
 msgid "Defense MG Asst. [BA]"
-msgstr "Defesa Aux. de MG [BA]"
+msgstr "Defesa Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_rifle"
 msgid "Defense Rifleman [BA]"
@@ -2903,7 +2903,7 @@ msgstr "Defesa Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_sec_2ic"
 msgid "Defense Section 2IC [BA]"
-msgstr "Defesa 2º Cmte. de Seção [BA]"
+msgstr "Defesa 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_sec_com"
 msgid "Defense Section Commander [BA]"
@@ -2947,7 +2947,7 @@ msgstr "Sinaleiro Obs. de Art. Avançado [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_coy_2ic"
 msgid "Guards AD. Company 2IC [BA]"
-msgstr "Guards AD. 2º Cmte. de Companhia [BA]"
+msgstr "Guards AD. 2º Comandante de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_coy_com"
 msgid "Guards AD. Company Commander [BA]"
@@ -2983,7 +2983,7 @@ msgstr "Guards AD. Engenheiro Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_mg_asst"
 msgid "Guards AD. Engineer MG Asst. [BA]"
-msgstr "Guards AD. Engenheiro Aux. de MG [BA]"
+msgstr "Guards AD. Engenheiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_mine_ap"
 msgid "Guards AD. Engineer AP Miner [BA]"
@@ -2999,7 +2999,7 @@ msgstr "Guards AD. Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_piat_asst"
 msgid "Guards AD. Engineer AT Asst. [BA]"
-msgstr "Guards AD. Aux. AT de Engenheiros [BA]"
+msgstr "Guards AD. Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_sapper"
 msgid "Guards AD. Engineer Sapper [BA]"
@@ -3007,7 +3007,7 @@ msgstr "Guards AD. Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_sec_2ic"
 msgid "Guards AD. Engineer Section 2IC [BA]"
-msgstr "Guards AD. Engenheiro 2º Cmte. de Seção [BA]"
+msgstr "Guards AD. Engenheiro 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_sec_com"
 msgid "Guards AD. Engineer Section Commander [BA]"
@@ -3023,7 +3023,7 @@ msgstr "Guards AD. Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mg_asst"
 msgid "Guards AD. MG Asst. [BA]"
-msgstr "Guards AD. Aux. de MG [BA]"
+msgstr "Guards AD. Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_mg"
 msgid "Guards AD. Motor MG Operator [BA]"
@@ -3031,7 +3031,7 @@ msgstr "Guards AD. Operador Motorizado de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_mg_asst"
 msgid "Guards AD. Motor MG Asst. [BA]"
-msgstr "Guards AD. Aux. Motorizado. de MG [BA]"
+msgstr "Guards AD. Auxiliar Motorizado. de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat"
 msgid "Guards AD. Motor AT Inf. [BA]"
@@ -3039,7 +3039,7 @@ msgstr "Guards AD. Inf. AT Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat_asst"
 msgid "Guards AD. Motor AT Asst. [BA]"
-msgstr "Guards AD. Aux. AT Motorizado [BA]"
+msgstr "Guards AD. Auxiliar Antitanque Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_rifle"
 msgid "Guards AD. Motor Rifleman [BA]"
@@ -3083,7 +3083,7 @@ msgstr "Guards AD. Batedor Motorizado Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_2ic"
 msgid "Guards AD. Motor Section 2IC [BA]"
-msgstr "Guards AD. Motorizado 2º Cmte. de Seção [BA]"
+msgstr "Guards AD. Motorizado 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_com"
 msgid "Guards AD. Motor Section Commander [BA]"
@@ -3095,7 +3095,7 @@ msgstr "Guards AD. Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_piat_asst"
 msgid "Guards AD. AT Asst. [BA]"
-msgstr "Guards AD. Aux. AT [BA]"
+msgstr "Guards AD. Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_pio"
 msgid "Guards AD. Pioneer [BA]"
@@ -3139,7 +3139,7 @@ msgstr "Guards AD. Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_sec_2ic"
 msgid "Guards AD. Section 2IC [BA]"
-msgstr "Guards AD. 2º Cmte. de Seção [BA]"
+msgstr "Guards AD. 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_sec_com"
 msgid "Guards AD. Section Commander [BA]"
@@ -3199,7 +3199,7 @@ msgstr "Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/mg_asst"
 msgid "MG Asst. [BA]"
-msgstr "Aux. de MG [BA]"
+msgstr "Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/mg_crew"
 msgid "MG Crew [BA]"
@@ -3207,7 +3207,7 @@ msgstr "Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/mg_crew_asst"
 msgid "MG Crew Asst. [BA]"
-msgstr "Aux. de Tripulação MG [BA]"
+msgstr "Auxiliar de Tripulação MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_mg"
 msgid "Motor MG Operator [BA]"
@@ -3215,7 +3215,7 @@ msgstr "Operador Motorizado de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Aux. Motorizado. de MG [BA]"
+msgstr "Auxiliar Motorizado. de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_piat"
 msgid "Motor AT Inf. [BA]"
@@ -3223,7 +3223,7 @@ msgstr "Inf. AT Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_piat_asst"
 msgid "Motor AT Asst. [BA]"
-msgstr "Aux. AT Motorizado [BA]"
+msgstr "Auxiliar Antitanque Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_rifle"
 msgid "Motor Rifleman [BA]"
@@ -3267,7 +3267,7 @@ msgstr "Batedor Motorizado Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado 2º Cmte. de Seção [BA]"
+msgstr "Motorizado 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_sec_com"
 msgid "Motor Section Commander [BA]"
@@ -3331,7 +3331,7 @@ msgstr "Engenheiro Real Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_mg_asst"
 msgid "Royal Engineer MG Asst. [BA]"
-msgstr "Engenheiro Real Aux. de MG [BA]"
+msgstr "Engenheiro Real Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_mine_ap"
 msgid "Royal Engineer AP Miner [BA]"
@@ -3347,7 +3347,7 @@ msgstr "Royal Inf. AT de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_piat_asst"
 msgid "Royal Engineer AT Asst. [BA]"
-msgstr "Royal Aux. AT de Engenheiros [BA]"
+msgstr "Royal Auxiliar Antitanque de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_sapper"
 msgid "Royal Engineer Sapper [BA]"
@@ -3355,7 +3355,7 @@ msgstr "Royal Sapador de Engenheiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_sec_2ic"
 msgid "Royal Engineer Section 2IC [BA]"
-msgstr "Engenheiro Real 2º Cmte. de Seção [BA]"
+msgstr "Engenheiro Real 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_sec_com"
 msgid "Royal Engineer Section Commander [BA]"
@@ -3403,7 +3403,7 @@ msgstr "Reconhecimento Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_mg_asst"
 msgid "Recce MG Asst. [BA]"
-msgstr "Reconhecimento Aux. de MG [BA]"
+msgstr "Reconhecimento Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_rifle_band"
 msgid "Recce Rifleman [BA]"
@@ -3411,7 +3411,7 @@ msgstr "Atirador de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_sec_2ic"
 msgid "Recce Section 2IC [BA]"
-msgstr "Reconhecimento 2º Cmte. de Seção [BA]"
+msgstr "Reconhecimento 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_sec_com"
 msgid "Recce Section Commander [BA]"
@@ -3435,7 +3435,7 @@ msgstr "Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/rifle_piat_asst"
 msgid "AT Asst. [BA]"
-msgstr "Aux. AT [BA]"
+msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/rifle_sniper"
 msgid "Sniper [BA]"
@@ -3451,7 +3451,7 @@ msgstr "Royal Marine Commando Operador de MG [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_mg_asst"
 msgid "Royal Marine Commando MG Asst. [RM]"
-msgstr "Royal Marine Commando Aux. de MG [RM]"
+msgstr "Royal Marine Commando Auxiliar de Metralhadora [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_mg_vgo"
 msgid "Royal Marine Commando MG Operator [RM]"
@@ -3459,7 +3459,7 @@ msgstr "Royal Marine Commando Operador de MG [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_mg_vgo_asst"
 msgid "Royal Marine Commando MG Asst. [RM]"
-msgstr "Royal Marine Commando Aux. de MG [RM]"
+msgstr "Royal Marine Commando Auxiliar de Metralhadora [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_rifle"
 msgid "Royal Marine Commando Rifleman [RM]"
@@ -3475,7 +3475,7 @@ msgstr "Inf. AT Commando Royal Marines [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_rifle_piat_asst"
 msgid "Royal Marine Commando AT Asst. [RM]"
-msgstr "Aux. AT Commando Royal Marines [RM]"
+msgstr "Auxiliar Antitanque Comando Royal Marines [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_sniper"
 msgid "Royal Marine Commando Sniper [RM]"
@@ -3507,7 +3507,7 @@ msgstr "Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_bma"
 msgid "Royal Navy Commando Beachmaster Asst. [RN]"
-msgstr "Aux. Mestre de Praia Commando da Marinha Real [RN]"
+msgstr "Auxiliar Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_leading"
 msgid "Royal Navy Commando Leading Seaman [RN]"
@@ -3519,7 +3519,7 @@ msgstr "Royal Navy Commando Operador de MG [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_mg_asst"
 msgid "Royal Navy Commando MG Asst. [RN]"
-msgstr "Royal Navy Commando Aux. de MG [RN]"
+msgstr "Royal Navy Commando Auxiliar de Metralhadora [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_rifle"
 msgid "Royal Navy Commando Rifleman [RN]"
@@ -3547,7 +3547,7 @@ msgstr "SAS Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_mg_asst"
 msgid "SAS MG Asst. [BA]"
-msgstr "SAS Aux. de MG [BA]"
+msgstr "SAS Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_piat"
 msgid "SAS AT Inf. [BA]"
@@ -3555,7 +3555,7 @@ msgstr "SAS Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_piat_asst"
 msgid "SAS AT Asst. [BA]"
-msgstr "SAS Aux. AT [BA]"
+msgstr "SAS Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_rifle"
 msgid "SAS Rifleman [BA]"
@@ -3599,7 +3599,7 @@ msgstr "SAS Inf. SMG [BA]"
 
 msgctxt "desc/human/mp/eng/late/sec_2ic"
 msgid "Section 2IC [BA]"
-msgstr "2º Cmte. de Seção [BA]"
+msgstr "2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/sec_com"
 msgid "Section Commander [BA]"
@@ -3687,7 +3687,7 @@ msgstr "Veterano Inf. AT [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_at_piat_asst"
 msgid "Veteran AT Asst. [BA]"
-msgstr "Veterano Aux. AT [BA]"
+msgstr "Veterano Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_mg"
 msgid "Veteran MG Operator [BA]"
@@ -3695,7 +3695,7 @@ msgstr "Veterano Operador de MG [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_mg_asst"
 msgid "Veteran MG Asst. [BA]"
-msgstr "Veterano Aux. de MG [BA]"
+msgstr "Veterano Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_rifle"
 msgid "Veteran Rifleman [BA]"
@@ -3715,7 +3715,7 @@ msgstr "Veterano Franco-atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_sec_2ic"
 msgid "Veteran Section 2IC [BA]"
-msgstr "Veterano 2º Cmte. de Seção [BA]"
+msgstr "Veterano 2º Comandante de Seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_sec_com"
 msgid "Veteran Section Commander [BA]"
