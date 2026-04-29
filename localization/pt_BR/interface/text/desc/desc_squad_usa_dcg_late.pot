@@ -66,27 +66,27 @@ msgstr "<c(A5A095)>(4)</c> Seção de Armas Especiais Ranger [1944]"
 
 msgctxt "desc/squad/squad_rifle_late_con(usa)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad [1944]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis [1944]"
 
 msgctxt "desc/squad/squad_vet_rifle_late_con(usa)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad [1944]"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana [1944]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana [1944]"
 
 msgctxt "desc/squad/squad_arm_rifle_mech_late_con(usa)"
 msgid "<c(A5A095)>(2)</c> Armored Rifle Squad (Mounted) [1944]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles Blindada (Motorizada) [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis Blindada (Motorizada) [1944]"
 
 msgctxt "desc/squad/squad_2nd_arm_rifle_mech_late_con(usa)"
 msgid "<c(A5A095)>(2+)</c> 2nd.AD Rifle Squad (Mounted) [1944]"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles 2ª DA (Motorizada) [1944]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis 2ª DA (Motorizada) [1944]"
 
 msgctxt "desc/squad/squad_1st_rifle_late_con(usa)"
 msgid "<c(A5A095)>(3+)</c> 1st.Div Rifle Squad [1944]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles 1ª Div. [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis 1ª Div. [1944]"
 
 msgctxt "desc/squad/squad_1st_arm_rifle_mech_late_con(usa)"
 msgid "<c(A5A095)>(3+)</c> 1st.AD Rifle Squad (Mounted) [1944]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles 1ª DA (Motorizada) [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis 1ª DA (Motorizada) [1944]"
 
 msgctxt "desc/squad/squad_eng_mech_late_con(usa)"
 msgid "<c(A5A095)>(2)</c> Engineer Squad (Mounted) [1944]"
@@ -94,7 +94,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Engenheiros (Motorizada) [1944]"
 
 msgctxt "desc/squad/squad_mountain_late_con(usa)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle Squad [1945]"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Rifles de Montanha [1945]"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha [1945]"
 
 msgctxt "desc/squad/squad_mountain_pio_late_con(usa)"
 msgid "<c(A5A095)>(3)</c> Mountain Pioneer Squad [1945]"

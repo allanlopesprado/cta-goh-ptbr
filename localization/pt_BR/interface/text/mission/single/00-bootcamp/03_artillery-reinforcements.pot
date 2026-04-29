@@ -70,15 +70,15 @@ msgstr "Desatrele o canhão AT e posicione-o perto das trincheiras!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06a"
 msgid "Now we will familiarize ourselves with our standard light field howitzer, the 10.5cm LeFH 18! First, you need some ammunition for it."
-msgstr "Agora vamos nos familiarizar com nosso obus de campanha leve padrão, o LeFH 18 de 10,5cm! Primeiro, você precisa de munição para ele."
+msgstr "Agora vamos nos familiarizar com nosso obuseiro de campanha leve padrão, o LeFH 18 de 10,5cm! Primeiro, você precisa de munição para ele."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06b"
 msgid "You now possess an ammunition truck. Crew the artillery piece and drive the truck closer to resupply your howitzer!"
-msgstr "Agora você tem um caminhão de munição. Tripule a peça de artilharia e aproxime o caminhão para reabastecer o obus!"
+msgstr "Agora você tem um caminhão de munição. Tripule a peça de artilharia e aproxime o caminhão para reabastecer o obuseiro!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/07"
 msgid "Soviets have arrived at the village west of our location. Use the howitzer to destroy their trucks!"
-msgstr "Os soviéticos chegaram à aldeia a oeste de nossa posição. Use o obus para destruir os caminhões deles!"
+msgstr "Os soviéticos chegaram à aldeia a oeste de nossa posição. Use o obuseiro para destruir os caminhões deles!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/07helper"
 msgid "Firing multiple shots at the same target or location increases the accuracy of each subsequent shot."
@@ -86,7 +86,7 @@ msgstr "Disparar múltiplos tiros no mesmo alvo ou local aumenta a precisão de 
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/08"
 msgid "Soviets armored car spotted! Switch the howitzer ammunition to either armor-piercing (APHE) or high-explosive anti-tank (HEAT) to destroy it with direct fire!"
-msgstr "Carro blindado soviético avistado! Troque a munição do obus para perfurante (APHE) ou Alto Explosivo Antitanque (HEAT) para destruí-lo com tiro direto!"
+msgstr "Carro blindado soviético avistado! Troque a munição do obuseiro para perfurante (APHE) ou Alto Explosivo Antitanque (HEAT) para destruí-lo com tiro direto!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/09"
 msgid "An exceptional kill! Now, kill the remaining enemy soldiers!"
@@ -166,11 +166,11 @@ msgstr "Desatrele o canhão AT e mova-o para a posição indicada."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task6"
 msgid "Resupply the light field howitzer."
-msgstr "Reabasteça o obus de campanha leve."
+msgstr "Reabasteça o obuseiro de campanha leve."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task7"
 msgid "Destroy the enemy trucks with the howitzer."
-msgstr "Destrua os caminhões inimigos com o obus."
+msgstr "Destrua os caminhões inimigos com o obuseiro."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task8"
 msgid "Destroy the Soviet armored car with direct fire with AP/HEAT shells."

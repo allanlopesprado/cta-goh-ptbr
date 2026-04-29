@@ -286,7 +286,7 @@ msgstr "QF 75mm Mk.V L/40"
 
 msgctxt "desc/weapon/76mm_qf3"
 msgid "76mm QF 3-inch howitzer Mk.I L/25"
-msgstr "76mm QF 3-inch obus Mk.I L/25"
+msgstr "76mm QF 3-inch Obuseiro Mk.I L/25"
 
 msgctxt "desc/weapon/76mm_qf17"
 msgid "76mm QF 17-pounder Mk.I L/55"
@@ -342,11 +342,11 @@ msgstr "88mm QF 25-pounder Mk.II L/28"
 
 msgctxt "desc/weapon/94mm_qf3_7_how"
 msgid "94mm QF 3.7-inch howitzer L/11.8"
-msgstr "94mm QF 3.7-inch obus L/11.8"
+msgstr "94mm QF 3.7-inch Obuseiro L/11.8"
 
 msgctxt "desc/weapon/94mm_qf3_7_cs"
 msgid "94mm QF 3.7-inch Mk.IV howitzer L/15"
-msgstr "94mm QF 3.7-inch Mk.IV obus L/15"
+msgstr "94mm QF 3.7-inch Mk.IV Obuseiro L/15"
 
 msgctxt "desc/weapon/94mm_qf3_7_aa"
 msgid "94mm QF 3.7-inch AA L/50"
@@ -366,7 +366,7 @@ msgstr "114mm BL 4.5-inch canhão médio L/42.8"
 
 msgctxt "desc/weapon/114mm_qf4_5"
 msgid "114mm QF 4.5-inch howitzer L/13.2"
-msgstr "114mm QF 4.5-inch obus L/13.2"
+msgstr "114mm QF 4.5-inch Obuseiro L/13.2"
 
 msgctxt "desc/weapon/120mm_qf4_7_mk9"
 msgid "120mm QF 4.7-inch Mk.IX Gun L/45"
@@ -386,19 +386,19 @@ msgstr "152mm BL 6-inch Mk.XIX L/35"
 
 msgctxt "desc/weapon/152mm_bl6_26cwt"
 msgid "152mm BL 6-inch 26cwt howitzer L/13.3"
-msgstr "152mm BL 6-inch 26cwt obus L/13.3"
+msgstr "152mm BL 6-inch 26cwt Obuseiro L/13.3"
 
 msgctxt "desc/weapon/183mm_bl7_2"
 msgid "183mm BL 7.2-inch howitzer Mk.III L/22.4"
-msgstr "183mm BL 7.2-inch obus Mk.III L/22.4"
+msgstr "183mm BL 7.2-inch Obuseiro Mk.III L/22.4"
 
 msgctxt "desc/weapon/183mm_bl7_2_mk6"
 msgid "183mm BL 7.2-inch howitzer Mk.VI L/33.1"
-msgstr "183mm BL 7.2-inch obus Mk.VI L/33.1"
+msgstr "183mm BL 7.2-inch Obuseiro Mk.VI L/33.1"
 
 msgctxt "desc/weapon/203mm_bl8"
 msgid "203mm BL 8-inch howitzer Mk.VIII L/17"
-msgstr "203mm BL 8-inch obus Mk.VIII L/17"
+msgstr "203mm BL 8-inch Obuseiro Mk.VIII L/17"
 
 msgctxt "desc/weapon/230mm_spigot_mortar"
 msgid "29mm Spigot Mortar"

@@ -90,7 +90,7 @@ msgstr "Esquadra Antitanque"
 
 msgctxt "desc/squad/squad_at_rifles_early(ger)"
 msgid "<c(A5A095)>(2)</c> Anti-tank Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles Antitanque"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis Antitanque"
 
 msgctxt "desc/squad/squad_blau(ger)"
 msgid "Blau Division"
@@ -146,15 +146,15 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiro"
 
 msgctxt "desc/squad/squad_gd_early(ger)"
 msgid "<c(A5A095)>(3)</c> Großdeutschland Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(3)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_gd_mid(ger)"
 msgid "<c(A5A095)>(4)</c> Großdeutschland Rifle squad"
-msgstr "<c(A5A095)>(4)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(4)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_gd_motor_con"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Motorized Rifle squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra Motorizada de Rifles"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_gebirgsjaeger(ger)"
 msgid "Gebirgsjäger"
@@ -206,7 +206,7 @@ msgstr "Unidade de Campo LW."
 
 msgctxt "desc/squad/squad_luftwaffe_con(ger)"
 msgid "<c(A5A095)>(1)</c> Luftwaffe Rifle squad"
-msgstr "<c(A5A095)>(1)</c> Luftwaffe Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Luftwaffe Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_luftwaffe_early(ger)"
 msgid "LW. field unit"
@@ -306,27 +306,27 @@ msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada Aufklärer"
 
 msgctxt "desc/squad/squad_regular(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_armor_con"
 msgid "<c(A5A095)>(2)</c> Armored Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Blindada Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Blindada Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_armored(ger)"
 msgid "<c(A5A095)>(2)</c> Armored Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Blindada Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Blindada Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_con(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_early(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_motor_con"
 msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_regular_motorised"
 msgid "Sd.Kfz 251 + Inf."
@@ -338,11 +338,11 @@ msgstr "Sd.Kfz 251 + Inf."
 
 msgctxt "desc/squad/squad_regular_vet(ger)"
 msgid "<c(A5A095)>(3)</c> Veteran Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Veterano Esquadra de Rifles"
+msgstr "<c(A5A095)>(3)</c> Veterano Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_regular_vet_con(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_reserve(ger)"
 msgid "Reserves"
@@ -394,7 +394,7 @@ msgstr "Atirador Semi-automático"
 
 msgctxt "desc/squad/squad_ersatz_rifle_early_all(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_early_all(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -402,23 +402,23 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Aufklärer"
 
 msgctxt "desc/squad/squad_rifle_early_all(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_at_rifle_early_all(ger)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles AT"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_rifle_vet_early_all(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_rifle_vet_early_irr(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_rifle_elite_early_all(ger)"
 msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Elite"
 
 msgctxt "desc/squad/squad_gebirgs_pio_early_all(ger)"
 msgid "<c(A5A095)>(4)</c> Gebirgspionier Squad"
@@ -434,7 +434,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Gebirgsjäger"
 
 msgctxt "desc/squad/squad_landwehr_early_def(ger)"
 msgid "<c(A5A095)>(1)</c> Landwehr Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Landwehr Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Landwehr Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_early_def(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -466,11 +466,11 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Pionier"
 
 msgctxt "desc/squad/squad_at_rifle_early_def(ger)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles AT"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_gd_early_def(ger)"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_gebirgs_early_def(ger)"
 msgid "<c(A5A095)>(4)</c> Gebirgsjäger Squad"
@@ -478,19 +478,19 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Gebirgsjäger"
 
 msgctxt "desc/squad/squad_ersatz_rifle_early_irr(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_luft_rifle_early_irr(ger)"
 msgid "<c(A5A095)>(2)</c> Luftwaffe Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Luftwaffe Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Luftwaffe Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_early_irr(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_at_rifle_early_irr(ger)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles AT"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_marine_stoss_irr(ger)"
 msgid "<c(A5A095)>(3)</c> Marine-Stoßtrupp Squad"
@@ -534,7 +534,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Großdeutschland Pionier"
 
 msgctxt "desc/squad/squad_gd_early_off(ger)"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_gebirgs_early_off(ger)"
 msgid "<c(A5A095)>(4)</c> Gebirgsjäger Squad"
@@ -542,19 +542,19 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Gebirgsjäger"
 
 msgctxt "desc/squad/squad_ersatz_rifle_early_sup(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_km_rifle_early_sup(ger)"
 msgid "<c(A5A095)>(2)</c> Kriegsmarine Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Kriegsmarine Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Kriegsmarine Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_at_rifle_early_sup(ger)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles AT"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_rifle_vet_early_sup(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_marine_stoss_sup(ger)"
 msgid "<c(A5A095)>(3)</c> Marine-Stoßtrupp Squad"
@@ -574,7 +574,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Gebirgsjäger"
 
 msgctxt "desc/squad/squad_ersatz_rifle_mid_all(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_mid_all(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -582,27 +582,27 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Aufklärer"
 
 msgctxt "desc/squad/squad_rifle_mid_all(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_1(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra Motorizada de Rifles"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_2(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra Motorizada de Rifles"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_3(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra Motorizada de Rifles"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_vet_mid_all(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_rifle_elite_mid_all(ger)"
 msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Elite"
 
 msgctxt "desc/squad/squad_gebirgs_recon_mid_all(ger)"
 msgid "<c(A5A095)>(4)</c> Gebirgsaufklärer Squad"
@@ -614,7 +614,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Gebirgsjäger"
 
 msgctxt "desc/squad/squad_ost_rifle_mid_def(ger)"
 msgid "<c(A5A095)>(1)</c> Osttruppen Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Osttruppen Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Osttruppen Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_mid_def(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -622,7 +622,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Aufklärer"
 
 msgctxt "desc/squad/squad_rifle_mid_def(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_pio_mid_def_1(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Pionier Squad"
@@ -642,7 +642,7 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Sturmpionier"
 
 msgctxt "desc/squad/squad_blau_mid_def(ger)"
 msgid "<c(A5A095)>(4)</c> Blau Div. Rifle Squad"
-msgstr "<c(A5A095)>(4)</c> Blau Div. Esquadra de Rifles"
+msgstr "<c(A5A095)>(4)</c> Blau Div. Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_blau_late_def(ger)"
 msgid "<c(A5A095)>(4)</c> Blau Legion Squad"
@@ -650,19 +650,19 @@ msgstr "<c(A5A095)>(4)</c> Legião Azul"
 
 msgctxt "desc/squad/squad_gd_mid_def(ger)"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_straf_mid_irr_1(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Strafbataillon Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Strafbataillon Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Strafbataillon Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_straf_mid_irr_2(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Strafbataillon Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Strafbataillon Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Strafbataillon Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_straf_mid_irr_3(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Strafbataillon Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Strafbataillon Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Strafbataillon Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_mid_irr(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -670,7 +670,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Aufklärer"
 
 msgctxt "desc/squad/squad_rifle_mid_irr(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_sturm_pio_mid_irr(ger)"
 msgid "<c(A5A095)>(3)</c> Sturmpionier Squad"
@@ -690,7 +690,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Fallschirmjäger"
 
 msgctxt "desc/squad/squad_ersatz_rifle_mid_off(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_pz_recon_mid_off(ger)"
 msgid "<c(A5A095)>(2)</c> Panzeraufklärer Squad"
@@ -714,7 +714,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Großdeutschland Pionier"
 
 msgctxt "desc/squad/squad_gd_mid_off(ger)"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Rifles"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_fallschirm_mid_off(ger)"
 msgid "<c(A5A095)>(4)</c> Fallschirmjäger Squad"
@@ -722,7 +722,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Fallschirmjäger"
 
 msgctxt "desc/squad/squad_ersatz_rifle_mid_sup(ger)"
 msgid "<c(A5A095)>(1)</c> Ersatz Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Ersatz Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_mid_sup(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
@@ -730,11 +730,11 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Aufklärer"
 
 msgctxt "desc/squad/squad_rifle_mid_sup(ger)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_vet_mid_sup(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_gebirgs_pio_mid_sup(ger)"
 msgid "<c(A5A095)>(4)</c> Gebirgspionier Squad"
@@ -826,15 +826,15 @@ msgstr "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Esquadra de Volkssturm"
 
 msgctxt "desc/squad/squad_km_late_def_1(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Kriegsmarine Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Kriegsmarine Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>1.</c> Kriegsmarine Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_km_late_def_2(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Kriegsmarine Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Kriegsmarine Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>2.</c> Kriegsmarine Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_km_late_def_3(ger)"
 msgid "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Kriegsmarine Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Kriegsmarine Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> <c(E56042)>3.</c> Kriegsmarine Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_gren_late_def(ger)"
 msgid "<c(A5A095)>(2)</c> Grenadier Squad"
@@ -978,7 +978,7 @@ msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Esquadra de Fallschirmjäger"
 
 msgctxt "desc/squad/squad_landes_late_sup(ger)"
 msgid "<c(A5A095)>(1)</c> Landesschütze Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Landesschütze Esquadra de Rifles"
+msgstr "<c(A5A095)>(1)</c> Landesschütze Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_recon_late_sup(ger)"
 msgid "<c(A5A095)>(2)</c> Aufklärer Squad"
