@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "desc/squad/squad_rifle_late_dp_con(fin)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad (DP) [Late]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles (DP) [Tardio]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis (DP) [Tardio]"
 
 msgctxt "desc/squad/squad_rifle_late_dt_con(fin)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad (DT) [Late]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles (DT) [Tardio]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis (DT) [Tardio]"
 
 msgctxt "desc/squad/squad_eng_flame_con(fin)"
 msgid "<c(A5A095)>(2)</c> Engineer Flamer Squad"
@@ -34,11 +34,11 @@ msgstr "<c(A5A095)>(2+)</c> Seção de Exploradores Veterana"
 
 msgctxt "desc/squad/squad_vet_rifle_mid_con(fin)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_vet_rifle_late_con(fin)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad [Late]"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles Veterana [Tardio]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana [Tardio]"
 
 msgctxt "desc/squad/squad_marksmen_mid_con(fin)"
 msgid "<c(A5A095)>(2+)</c> Veteran Marksmen Squad"
@@ -62,11 +62,11 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Cavalaria Veterana [Tardio]"
 
 msgctxt "desc/squad/squad_elite_rifle_mid_con(fin)"
 msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Elite"
 
 msgctxt "desc/squad/squad_elite_rifle_late_con(fin)"
 msgid "<c(A5A095)>(3+)</c> Elite Rifle Squad [Late]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Elite [Tardio]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Elite [Tardio]"
 
 msgctxt "desc/squad/squad_jag_scout_late_con(fin)"
 msgid "<c(A5A095)>(4)</c> Jäger Scout Section"

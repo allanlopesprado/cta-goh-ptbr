@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "desc/squad/squad_vet_partisan_rifle_late_con(rus)"
 msgid "<c(A5A095)>(1+)</c> Veteran Partisan Rifle squad [1944]"
-msgstr "<c(A5A095)>(1+)</c> Esquadra de Rifles Partidária Veterana [1944]"
+msgstr "<c(A5A095)>(1+)</c> Esquadra de Fuzis Partidária Veterana [1944]"
 
 msgctxt "desc/squad/squad_vet_partisan_smg_late_con(rus)"
 msgid "<c(A5A095)>(1+)</c> Veteran Partisan SMG squad [1944]"
@@ -46,19 +46,19 @@ msgstr "<c(A5A095)>(2)</c> Esquadra AT NKVD"
 
 msgctxt "desc/squad/squad_nkvd_rifle_con(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles NKVD"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis NKVD"
 
 msgctxt "desc/squad/squad_rifle_43_con(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad [1943]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles [1943]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis [1943]"
 
 msgctxt "desc/squad/squad_rifle_43_heavy_con(rus)"
 msgid "<c(A5A095)>(2)</c> Heavy Rifle squad [1943]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles Pesada [1943]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis Pesada [1943]"
 
 msgctxt "desc/squad/squad_rifle_44_con(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad [1944]"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Rifles [1944]"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis [1944]"
 
 msgctxt "desc/squad/squad_smg_mg_43_con(rus)"
 msgid "<c(A5A095)>(2)</c> SMG squad [1943]"
@@ -74,11 +74,11 @@ msgstr "<c(A5A095)>(2)</c> Esquadra SMG [1944]"
 
 msgctxt "desc/squad/squad_guardsrifle_con(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles da Guarda"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda"
 
 msgctxt "desc/squad/squad_guardsrifle_motorised_con"
 msgid "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles da Guarda Mot."
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda Mot."
 
 msgctxt "desc/squad/squad_guards_smg_con(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards SMG squad"
@@ -86,11 +86,11 @@ msgstr "<c(A5A095)>(2+)</c> Esquadra SMG da Guarda"
 
 msgctxt "desc/squad/squad_guardsrifle_44_con(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle squad [1944]"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles da Guarda [1944]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda [1944]"
 
 msgctxt "desc/squad/squad_guardsrifle_44_motor_con(rus)"
 msgid "<c(A5A095)>(2+)</c> Mot. Guards Rifle squad [1944]"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Rifles da Guarda Mot. [1944]"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda Mot. [1944]"
 
 msgctxt "desc/squad/squad_guards_smg_mg_44_con(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards SMG squad [1944]"
@@ -102,7 +102,7 @@ msgstr "<c(A5A095)>(2+)</c> Esquadra SMG da Guarda Mot. [1944]"
 
 msgctxt "desc/squad/squad_nkvd_mountain_con(rus)"
 msgid "<c(A5A095)>(3)</c> NKVD Mountain Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Rifles de Montanha NKVD"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha NKVD"
 
 msgctxt "desc/squad/squad_marines_reg_con(rus)"
 msgid "<c(A5A095)>(3)</c> Marine Rifle squad"
@@ -110,11 +110,11 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros Navais"
 
 msgctxt "desc/squad/squad_cav_44_con(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Rifle squad [1944]"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Rifles de Cavalaria [1944]"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Cavalaria [1944]"
 
 msgctxt "desc/squad/squad_elite_guardsrifle_44_motor_con(rus)"
 msgid "<c(A5A095)>(3+)</c> Mot. Elite Guards Rifle squad [1944]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles da Guarda de Elite Mot. [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis da Guarda de Elite Mot. [1944]"
 
 msgctxt "desc/squad/squad_elite_guards_smg_mg_44_motor_con(rus)"
 msgid "<c(A5A095)>(3+)</c> Mot. Elite Guards SMG squad [1944]"
@@ -122,7 +122,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra SMG da Guarda de Elite Mot. [1944]"
 
 msgctxt "desc/squad/squad_guards_cav_44_con(rus)"
 msgid "<c(A5A095)>(3+)</c> Guards Cavalry Rifle squad [1944]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Rifles de Cavalaria da Guarda [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Cavalaria da Guarda [1944]"
 
 msgctxt "desc/squad/squad_guards_marines_44_con(rus)"
 msgid "<c(A5A095)>(3+)</c> Guards Marine Rifle squad [1944]"

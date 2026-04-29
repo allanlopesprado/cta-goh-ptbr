@@ -19,11 +19,11 @@ msgstr "Linhas de Frente"
 
 msgctxt "mp/game/frontlines/info"
 msgid "\nOne army attacks the defended position of the other team. \nFight for territory and incur as many losses as possible to the foe!"
-msgstr "\nUm exército ataca a posição defendida do time adversário. \nLute pelo território e cause o máximo de baixas ao inimigo!"
+msgstr "\nUm exército ataca a posição defendida da equipe adversário. \nLute pelo território e cause o máximo de baixas ao inimigo!"
 
 msgctxt "mp/game/frontlines/rules"
 msgid "Frontlines\n\nFrontlines is an attack-and-defend scenario. Team A attacks and team B defends. The attacking team's goal is to capture all lines of defense within the time limit. The defending team's goal is to hold these lines of defense. Each line of defense is indicated by a set of flags, and all must be captured to enable the defense to fall. The game ends and is won by the attacking team if all lines of defense are captured. Points are awarded by killing enemy troops, and the attack-defense effectiveness. At the end of the game, the team with the best performance wins."
-msgstr "Linhas de Frente\n\nLinhas de Frente é um cenário de ataque e defesa. O Time A ataca e o Time B defende. O objetivo do time atacante é capturar todas as linhas de defesa dentro do tempo limite. O objetivo do time defensor é segurar essas linhas. Cada linha de defesa é indicada por um conjunto de bandeiras; todas devem ser capturadas para que a defesa ceda. O jogo termina e é vencido pelo time atacante se todas as linhas forem capturadas. Pontos são concedidos por eliminar tropas inimigas e pela eficácia no ataque e na defesa. Ao final, vence o time com melhor desempenho."
+msgstr "Linhas de Frente\n\nLinhas de Frente é um cenário de ataque e defesa. A Equipe A ataca e a Equipe B defende. O objetivo da equipe atacante é capturar todas as linhas de defesa dentro do tempo limite. O objetivo da equipe defensora é segurar essas linhas. Cada linha de defesa é indicada por um conjunto de bandeiras; todas devem ser capturadas para que a defesa ceda. O jogo termina e é vencido pela equipe atacante se todas as linhas forem capturadas. Pontos são concedidos por eliminar tropas inimigas e pela eficácia no ataque e na defesa. Ao final, vence a equipe com melhor desempenho."
 
 msgctxt "mp/game/frontlines/objective/a"
 msgid "Capture all lines of the enemy defense before the time runs out."
@@ -71,11 +71,11 @@ msgstr "Linha de frente"
 
 msgctxt "mp/settings/frontlineteam#attackers"
 msgid "Team A Attackers"
-msgstr "Time A — Atacantes"
+msgstr "Equipe A — Atacantes"
 
 msgctxt "mp/settings/frontlineteam#defenders"
 msgid "Team B Defenders"
-msgstr "Time B — Defensores"
+msgstr "Equipe B — Defensores"
 
 msgctxt "mp/lobby/setup/settings.freezeTime"
 msgid "Frontline preparation time"
@@ -87,11 +87,11 @@ msgstr "Tempo para preparar as defesas e organizar o ataque"
 
 msgctxt "mp/settings/teamb#defenders"
 msgid "Team B Defenders"
-msgstr "Time B — Defensores"
+msgstr "Equipe B — Defensores"
 
 msgctxt "mp/settings/teama#attackers"
 msgid "Team A Attackers"
-msgstr "Time A — Atacantes"
+msgstr "Equipe A — Atacantes"
 
 msgctxt "actionbar/frontline_retreat"
 msgid "Retreat to the second line!"

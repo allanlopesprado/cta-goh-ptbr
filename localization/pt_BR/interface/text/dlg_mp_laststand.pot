@@ -47,11 +47,11 @@ msgstr "Objetivo secundário disponível! Assegure o local designado para obter 
 
 msgctxt "mp/settings/team#defenders"
 msgid "Team A Defenders"
-msgstr "Time A — Defensores"
+msgstr "Equipe A — Defensores"
 
 msgctxt "mp/settings/team#attackers"
 msgid "Team B Attackers"
-msgstr "Time B — Atacantes"
+msgstr "Equipe B — Atacantes"
 
 msgctxt "mp/lobby/setup/settings.firstWaveTime"
 msgid "Start wave time"

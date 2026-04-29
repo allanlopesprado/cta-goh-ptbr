@@ -191,7 +191,7 @@ msgstr "<c(B29557)>( III )</c> 60cm Karl Gerät"
 
 msgctxt "desc/squad/doctrine_at_cavalry"
 msgid "<c(B29557)>( I )</c> 2x AT cavalry"
-msgstr "<c(B29557)>( I )</c> 2x Cavalaria AT"
+msgstr "<c(B29557)>( I )</c> 2x Cavalaria Antitanque"
 
 msgctxt "desc/squad/doctrine_auflarungspanzer38t"
 msgid "<c(B29557)>( I )</c> Aufklärungspanzer 38(t)"
@@ -251,11 +251,11 @@ msgstr "<c(B29557)>( II )</c> Fi-156 Avião de Reconhecimento"
 
 msgctxt "desc/squad/doctrine_ger_logistics_early"
 msgid "<c(B29557)>( II )</c> Key Logistics"
-msgstr "<c(B29557)>( II )</c> Logística Chave"
+msgstr "<c(B29557)>( II )</c> Logística Prioritária"
 
 msgctxt "desc/squad/doctrine_ger_logistics_mid"
 msgid "<c(B29557)>( II )</c> Key Logistics"
-msgstr "<c(B29557)>( II )</c> Logística Chave"
+msgstr "<c(B29557)>( II )</c> Logística Prioritária"
 
 msgctxt "desc/squad/doctrine_grille"
 msgid "<c(B29557)>( II )</c> Grille Ausf. K"
@@ -295,7 +295,7 @@ msgstr "<c(B29557)>( I )</c> Kfz.14 Veículo de Comando"
 
 msgctxt "desc/squad/doctrine_kubelwagen_dak"
 msgid "<c(B29557)>( I )</c> Subversive unit"
-msgstr "<c(B29557)>( I )</c> Unidade Subversiva"
+msgstr "<c(B29557)>( I )</c> Unidade de Infiltração"
 
 msgctxt "desc/squad/doctrine_kubelwagen_volks"
 msgid "<c(B29557)>( I )</c> Volksgrenadier Scouts"

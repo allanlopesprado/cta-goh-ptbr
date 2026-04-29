@@ -15,7 +15,7 @@ msgstr ""
 
 msgctxt "mp/presets/unit/early"
 msgid "Early (1939-41)"
-msgstr "Precoce (1939-41)"
+msgstr "Inicial (1939-41)"
 
 msgctxt "mp/presets/unit/mid"
 msgid "Mid (1941-43)"
@@ -27,7 +27,7 @@ msgstr "Tardio (1943-45)"
 
 msgctxt "mp/settings/teama"
 msgid "A Team"
-msgstr "Time A"
+msgstr "Equipe A"
 
 msgctxt "mp/msg_lobby_full"
 msgid "Lobby is full"
@@ -211,7 +211,7 @@ msgstr "Sessão está cheia"
 
 msgctxt "mp/lobby/setup/settings.randomspawnpoints#hint"
 msgid "Team side and spawn points are randomly chosen."
-msgstr "Lado do time e pontos de spawm são escolhidos aleatoriamente."
+msgstr "Lado da equipe e pontos de spawm são escolhidos aleatoriamente."
 
 msgctxt "mp/msg_starting_in"
 msgid "Starting game in %1%..."
@@ -441,7 +441,7 @@ msgstr "Conjunto Definido pelo Usuário"
 
 msgctxt "mp/team/a"
 msgid "Team A"
-msgstr "Time A"
+msgstr "Equipe A"
 
 msgctxt "mp/trust_rating/banned"
 msgid "banned"
@@ -453,7 +453,7 @@ msgstr "Alto"
 
 msgctxt "mp/lobby/setup/team.c.alliance"
 msgid "C Team"
-msgstr "Time C"
+msgstr "Equipe C"
 
 msgctxt "mp/statistics/title"
 msgid "<f(impact)s(28)c(255 255 255)>Game Statistics"
@@ -625,7 +625,7 @@ msgstr "Conectando..."
 
 msgctxt "mp/game/cooperative/rules"
 msgid "Create a team (of up to 8 people) and battle the AI together."
-msgstr "Crie um time (de até 8 pessoas) e batalhe contra a IA juntos."
+msgstr "Crie uma equipe (de até 8 pessoas) e batalhe contra a IA juntos."
 
 msgctxt "mp/gs/qrbinderror"
 msgid "Cannot find available host ports."
@@ -735,7 +735,7 @@ msgstr "Definir Servidor"
 
 msgctxt "mp/team/d"
 msgid "Team D"
-msgstr "Time D"
+msgstr "Equipe D"
 
 msgctxt "mp/statistics2/statistics/title"
 msgid "STATISTICS"
@@ -947,7 +947,7 @@ msgstr "Jogador %1% saiu"
 
 msgctxt "mp/lobby/setup/team.f.alliance"
 msgid "F Team"
-msgstr "Time F"
+msgstr "Equipe F"
 
 msgctxt "mp/statistics_xp/victory_bonus"
 msgid "Victory Bonus (+%1%%): %2%"
@@ -979,7 +979,7 @@ msgstr "Tempo de preparação"
 
 msgctxt "mp/game/text/combat_inactivity_lose_time"
 msgid "Your team has no units left. You will lose in:"
-msgstr "Seu time não tem unidades. Você perderá em:"
+msgstr "Sua equipe não tem unidades. Você perderá em:"
 
 msgctxt "mp/lobby/replay/load_incomplete_replay"
 msgid "Replay is incomplete or corrupted. Try to load it anyway?"
@@ -1029,7 +1029,7 @@ msgstr "Tanques"
 
 msgctxt "mp/game/text/koth_capturing_enemy"
 msgid "An enemy team is now receiving additional MP!"
-msgstr "Um time inimigo está recebendo PM adicional!"
+msgstr "Uma equipe inimiga está recebendo PM adicional!"
 
 msgctxt "mp/lobby/button/replay_game"
 msgid "Replays"
@@ -1145,7 +1145,7 @@ msgstr "Extra"
 
 msgctxt "mp/team/b"
 msgid "Team B"
-msgstr "Time B"
+msgstr "Equipe B"
 
 msgctxt "mp/lobby/lbl_army"
 msgid "Army"
@@ -1157,7 +1157,7 @@ msgstr "SENHA"
 
 msgctxt "mp/team/c"
 msgid "Team C"
-msgstr "Time C"
+msgstr "Equipe C"
 
 msgctxt "mp/lobby/setup/tunes.cheatkeys"
 msgid "Enable dev commands"
@@ -1173,7 +1173,7 @@ msgstr "Exibir resultados do jogo anterior"
 
 msgctxt "mp/team/e"
 msgid "Team E"
-msgstr "Time E"
+msgstr "Equipe E"
 
 msgctxt "mp/lobby/army_mode/alliance"
 msgid "Axis vs Allies"
@@ -1185,15 +1185,15 @@ msgstr "Mínimo"
 
 msgctxt "mp/team/f"
 msgid "Team F"
-msgstr "Time F"
+msgstr "Equipe F"
 
 msgctxt "mp/team/g"
 msgid "Team G"
-msgstr "Time G"
+msgstr "Equipe G"
 
 msgctxt "mp/team/h"
 msgid "Team H"
-msgstr "Time H"
+msgstr "Equipe H"
 
 msgctxt "mp/team/spectator"
 msgid "Spectator"
@@ -1287,7 +1287,7 @@ msgstr "Jogador %1% foi expulso pelo host!"
 
 msgctxt "mp/lobby/setup/team.a.alliance"
 msgid "A Team"
-msgstr "Time A"
+msgstr "Equipe A"
 
 msgctxt "mp/reason/disconnect"
 msgid "Connection with player %1% has been lost."
@@ -1570,7 +1570,7 @@ msgstr "%1%s"
 
 msgctxt "mp/lobby/hint/remove_player"
 msgid "Remove player from team"
-msgstr "Remover jogador do time"
+msgstr "Remover jogador da equipe"
 
 msgctxt "mp/lobby/txt_creatingsession"
 msgid "Creating a game..."
@@ -1646,7 +1646,7 @@ msgstr "Este replay foi criado em uma versão diferente do jogo. Não é possív
 
 msgctxt "mp/lobby/setup/player.team"
 msgid "Player team"
-msgstr "Time do jogador"
+msgstr "Equipe do jogador"
 
 msgctxt "mp/lobby/setup/player.army"
 msgid "Player army"
@@ -1772,19 +1772,19 @@ msgstr "%1%"
 
 msgctxt "mp/lobby/setup/team.a.army"
 msgid "A Team"
-msgstr "Time A"
+msgstr "Equipe A"
 
 msgctxt "mp/lobby/setup/team.b.army"
 msgid "B Team"
-msgstr "Time B"
+msgstr "Equipe B"
 
 msgctxt "mp/lobby/setup/team.c.army"
 msgid "C Team"
-msgstr "Time C"
+msgstr "Equipe C"
 
 msgctxt "mp/lobby/setup/team.d.army"
 msgid "D Team"
-msgstr "Time D"
+msgstr "Equipe D"
 
 msgctxt "mp/lobby/setup/game.hardcore"
 msgid "Enhanced Realism"
@@ -1800,11 +1800,11 @@ msgstr "%1% vence!"
 
 msgctxt "mp/lobby/setup/team.e.army"
 msgid "E Team"
-msgstr "Time E"
+msgstr "EquipeE"
 
 msgctxt "mp/lobby/setup/team.f.army"
 msgid "F Team"
-msgstr "Time F"
+msgstr "Equipe F"
 
 msgctxt "mp/lobby/session/map"
 msgid "Map:"
@@ -1820,7 +1820,7 @@ msgstr "Mudar tipo de estatísticas"
 
 msgctxt "mp/lobby/setup/team.g.army"
 msgid "G Team"
-msgstr "Time G"
+msgstr "Equipe G"
 
 msgctxt "mp/gs/acoount_bad_name_first_number"
 msgid "Name cannot begin with a number."
@@ -1828,7 +1828,7 @@ msgstr "O nome não pode começar com um número."
 
 msgctxt "mp/lobby/setup/team.h.army"
 msgid "H Team"
-msgstr "Time H"
+msgstr "Equipe H"
 
 msgctxt "mp/lobby/hint/post_msg"
 msgid "Send message"
@@ -1836,23 +1836,23 @@ msgstr "Enviar mensagem"
 
 msgctxt "mp/lobby/setup/team.b.alliance"
 msgid "B Team"
-msgstr "Time B"
+msgstr "Equipe B"
 
 msgctxt "mp/lobby/setup/team.d.alliance"
 msgid "D Team"
-msgstr "Time D"
+msgstr "Equipe D"
 
 msgctxt "mp/lobby/setup/team.e.alliance"
 msgid "E Team"
-msgstr "Time E"
+msgstr "Equipe E"
 
 msgctxt "mp/lobby/setup/team.g.alliance"
 msgid "G Team"
-msgstr "Time G"
+msgstr "Equipe G"
 
 msgctxt "mp/lobby/hint/join_team"
 msgid "Double click to join team"
-msgstr "Duplo clique para entrar no time"
+msgstr "Duplo clique para entrar na equipe"
 
 msgctxt "mp/statistics2/personal/unlocked"
 msgid "UNLOCKED"
@@ -1860,7 +1860,7 @@ msgstr "DESBLOQUEADO"
 
 msgctxt "mp/lobby/setup/team.h.alliance"
 msgid "H Team"
-msgstr "Time H"
+msgstr "Equipe H"
 
 msgctxt "mp/lobby/setup/settings.fogofwar#/fog_off"
 msgid "Disabled"
@@ -1984,7 +1984,7 @@ msgstr "Habilitar espectadores"
 
 msgctxt "mp/lobby/lbl_players_selected"
 msgid "Team lineup:"
-msgstr "Formação do time:"
+msgstr "Formação de equipe:"
 
 msgctxt "mp/lobby/setup/settings.enablespectators#hint"
 msgid "Enables additional player slots for watching the game."
@@ -2393,7 +2393,7 @@ msgstr "Ganho de XP (%1%%)"
 
 msgctxt "mp/lobby/hint/add_player"
 msgid "Add player to team"
-msgstr "Adicionar jogador ao time"
+msgstr "Adicionar jogador a equipe"
 
 msgctxt "mp/lobby/hint/session_info"
 msgid "Detailed session information"
@@ -2619,7 +2619,7 @@ msgstr "Duração: %1%"
 
 msgctxt "mp/lobby/replay/row_team"
 msgid "Team %1%:"
-msgstr "Time %1%:"
+msgstr "Equipe %1%:"
 
 msgctxt "mp/lobby/replay/title_delete_replay"
 msgid "Delete selected replay?"
@@ -2929,7 +2929,7 @@ msgstr "<s(19)>Dizer a todos"
 
 msgctxt "mp/scene/chat/say_team"
 msgid "<s(19)>Say team"
-msgstr "<s(19)>Dizer ao time"
+msgstr "<s(19)>Dizer a equipe"
 
 msgctxt "mp/scene/chat/prefix_team"
 msgid "<c(d4d4d4)>(Team) </c>"
@@ -3087,7 +3087,7 @@ msgstr "ok"
 
 msgctxt "mp/settings/teamb"
 msgid "B Team"
-msgstr "Time B"
+msgstr "Equipe B"
 
 msgctxt "mp/chat2/cta_ukrainian"
 msgid "УКРАЇНСЬКИЙ"
@@ -3605,7 +3605,7 @@ msgstr "Derrota"
 
 msgctxt "mp/scene/txt_defeat_desc"
 msgid "Your team loses!"
-msgstr "Seu time perdeu!"
+msgstr "Sua equipe perdeu!"
 
 msgctxt "mp/scene/txt_victory"
 msgid "Victory"
@@ -3613,7 +3613,7 @@ msgstr "Vitória"
 
 msgctxt "mp/scene/txt_victory_desc"
 msgid "Your team won!"
-msgstr "Seu time venceu!"
+msgstr "Sua equipe venceu!"
 
 msgctxt "mp/result/best_unit"
 msgid "-BEST UNIT-"
