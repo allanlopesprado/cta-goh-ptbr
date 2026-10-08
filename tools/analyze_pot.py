@@ -1,3 +1,5 @@
+# Legacy, specialized Airborne-only analysis. Not used by current CI.
+# Use tools/translation-audit.mjs for the complete contextual EN/PT audit.
 import os, re, json, sys
 
 root = os.getcwd()

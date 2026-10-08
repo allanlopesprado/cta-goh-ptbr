@@ -7,7 +7,8 @@ Este repositório contém dois tipos de conteúdo:
 
 ## Escopo da licença
 
-A licença MIT em `LICENSE` aplica-se apenas aos arquivos originais criados para este repositório, como:
+A licença MIT em [LICENSE](../LICENSE) aplica-se apenas aos arquivos originais criados para este repositório, como:
+
 - scripts
 - automação
 - documentação
@@ -19,4 +20,10 @@ Nomes, marcas, textos originais, ativos e formatos de arquivo do jogo permanecem
 
 Este projeto é não oficial e não reclama posse sobre o conteúdo original do jogo.
 
-Se você for titular de direitos autorais e precisar de alterações ou remoção, abra uma issue ou entre em contato com o mantenedor.
+A licença MIT deste projeto não concede direitos sobre conteúdo de terceiros nem substitui as condições de uso do jogo. A distribuição deste pacote não inclui uma licença do jogo.
+
+## Solicitações de titulares de direitos
+
+Para solicitar correção ou remoção, use o [modelo de solicitação legal](https://github.com/allanlopesprado/cta-goh-ptbr/issues/new?template=legal_request.md). Identifique o conteúdo e a providência solicitada com informações que possam ser publicadas.
+
+Issues são públicas. Não anexe documentos de identidade, contratos, endereços, dados pessoais ou comprovações confidenciais. Se a solicitação depender desses materiais, peça apenas um canal privado e aguarde sua confirmação antes de enviá-los. O projeto não informa aqui um endereço privado de contato.

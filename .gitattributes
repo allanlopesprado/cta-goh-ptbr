@@ -9,5 +9,9 @@ localization/en/localization.info -text whitespace=blank-at-eol,blank-at-eof,spa
 # Scripts Python
 *.py text eol=lf
 
+# Ferramentas e workflows compartilhados com a CI Linux
+*.mjs text eol=lf
+*.yml text eol=lf
+
 # Documentação
 *.md text eol=lf
