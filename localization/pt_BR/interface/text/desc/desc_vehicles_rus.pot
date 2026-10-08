@@ -443,7 +443,7 @@ msgstr "DS-39 (Suporte)"
 
 msgctxt "info/special/ds39_stand"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/dshk_aa"
 msgid "DShK M1938"
@@ -451,7 +451,7 @@ msgstr "DShK M1938"
 
 msgctxt "info/special/dshk_aa"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/dshk_stan"
 msgid "DShK M1938 Stand"
@@ -459,7 +459,7 @@ msgstr "DShK M1938 (Suporte)"
 
 msgctxt "info/special/dshk_stan"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/fai_m"
 msgid "FAI-M"
@@ -539,7 +539,7 @@ msgstr "Maxim M1910/30"
 
 msgctxt "info/special/heavy_mg_maxim"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/how_a(rus)"
 msgid ""
@@ -639,7 +639,7 @@ msgstr "<c(c3baae)>Canhão de Assalto Pesado</c>"
 
 msgctxt "desc/entity/kht26"
 msgid "KhT-26 (Flame)"
-msgstr "KhT-26 (Chamas)"
+msgstr "KhT-26 (Lança-chamas)"
 
 msgctxt "info/special/kht26"
 msgid "<c(c3baae)>Light Flamethrower Tank</c>"
@@ -647,7 +647,7 @@ msgstr "<c(c3baae)>Tanque Lança-chamas Leve</c>"
 
 msgctxt "desc/entity/kht130"
 msgid "KhT-130 (Flame)"
-msgstr "KhT-130 (Chamas)"
+msgstr "KhT-130 (Lança-chamas)"
 
 msgctxt "info/special/kht130"
 msgid "<c(c3baae)>Light Tank</c>"
@@ -711,7 +711,7 @@ msgstr "<c(c3baae)>Tanque Pesado</c>"
 
 msgctxt "desc/entity/kv8"
 msgid "KV-8 (Flame)"
-msgstr "KV-8 (Chamas)"
+msgstr "KV-8 (Lança-chamas)"
 
 msgctxt "info/special/kv8"
 msgid "<c(c3baae)>Heavy Tank</c>"
@@ -795,7 +795,7 @@ msgstr "Maxim M1910/30"
 
 msgctxt "info/special/maxim"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/maxim_stand"
 msgid "Maxim M1910/30 Stand"
@@ -803,7 +803,7 @@ msgstr "Maxim M1910/30 (Suporte)"
 
 msgctxt "info/special/maxim_stand"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/maxim_x4"
 msgid "Quad M4 Maxim"
@@ -843,7 +843,7 @@ msgstr "SG-43 (Suporte)"
 
 msgctxt "info/special/sg43_stand"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/smk"
 msgid "SMK"
@@ -1135,7 +1135,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/t3476_43_flame"
 msgid "OT-34 M1943 (Flame)"
-msgstr "OT-34 M1943 (Chamas)"
+msgstr "OT-34 M1943 (Lança-chamas)"
 
 msgctxt "info/special/t3476_43_flame"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -1151,7 +1151,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/t3485_44_flame"
 msgid "OT-34-85 (Flame)"
-msgstr "OT-34-85 (Chamas)"
+msgstr "OT-34-85 (Lança-chamas)"
 
 msgctxt "info/special/t3485_44_flame"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -1167,7 +1167,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/t3485_44a_flame"
 msgid "OT-34-85 (Flame)"
-msgstr "OT-34-85 (Chamas)"
+msgstr "OT-34-85 (Lança-chamas)"
 
 msgctxt "info/special/t3485_44a_flame"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -1223,7 +1223,7 @@ msgstr "<c(c3baae)>Transporte de Suprimentos</c>"
 
 msgctxt "desc/entity/zis5eng"
 msgid "ZIS-5 (Engineer)"
-msgstr "ZIS-5 (Engenheiro)"
+msgstr "ZIS-5 (Engenharia)"
 
 msgctxt "info/special/zis5eng"
 msgid "<c(c3baae)>Engineering Transport</c>"

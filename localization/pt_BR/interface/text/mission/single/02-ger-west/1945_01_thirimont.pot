@@ -50,7 +50,7 @@ msgstr "Atenção, Fallschirmjäger! Não há tempo a perder! Os americanos reto
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/02"
 msgid "You are tasked with defending our main line, here in the valley of Thirimont. We will try to pin the Americans down, laying intense crossfire as they hopefully get stuck in the snow. You have several AT guns at your disposal."
-msgstr "Você tem a missão de defender nossa linha principal, aqui no vale de Thirimont. Tentaremos imobilizar os americanos com fogo cruzado intenso enquanto eles ficarem presos na neve. Você tem vários canhões AT à sua disposição."
+msgstr "Você tem a missão de defender nossa linha principal, aqui no vale de Thirimont. Tentaremos imobilizar os americanos com fogo cruzado intenso, na esperança de que fiquem presos na neve. Você tem vários canhões AT à sua disposição."
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/03"
 msgid "The Americans will be here any minute now. Deploy your squads around the emplacements. There is no time to lose!"
@@ -78,7 +78,7 @@ msgstr "Muito bem, Fallschirmjäger. Nossa escolha de posição e nossas tática
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/09"
 msgid "Fallschirmjäger! The Americans have slipped through the defences of our neighboring sector! They've swiftly snatched Thirimont from under our noses!"
-msgstr "Fallschirmjäger! Os americanos passaram pelas defesas do nosso setor vizinho! Tomaram Thirimont rapidamente de baixo do nosso nariz!"
+msgstr "Fallschirmjäger! Os americanos passaram pelas defesas do nosso setor vizinho! Tomaram Thirimont rapidamente debaixo do nosso nariz!"
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/10"
 msgid "I order you to take back the town and bust any of our troops out of captivity immediately! "
@@ -110,11 +110,11 @@ msgstr "O inimigo iniciou um intenso bombardeio de artilharia na parte sul da ci
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/17"
 msgid "The enemy is throwing heavier armor at us! Watch out for those sluggers. They can take out our heaviest of tanks at a distance!"
-msgstr "O inimigo está jogando blindados mais pesados contra nós! Fique atento a esses leviatas — eles podem destruir nossos tanques mais pesados à distância!"
+msgstr "O inimigo está lançando blindados mais pesados contra nós! Fique atento a esses Sluggers — eles podem destruir nossos tanques mais pesados à distância!"
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/18"
 msgid "Excellent job! Once again you have proven the might of the Fallschirmjäger forces. If only all of our foces would have fought as gallantly as you have, our winter offensive would have reached Antwerp!"
-msgstr "Excelente trabalho! Mais uma vez você provou a força das forças Fallschirmjäger. Se apenas todas as nossas forças tivessem lutado tão galantemente quanto você, nossa ofensiva de inverno teria alcançado Antuérpia!"
+msgstr "Excelente trabalho! Mais uma vez você provou o poderio das forças Fallschirmjäger. Se ao menos todas as nossas forças tivessem lutado tão galantemente quanto você, nossa ofensiva de inverno teria alcançado Antuérpia!"
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/19"
 msgid "Well, those were the main scouting forces. I wonder what the Americans will serve us up with next."
@@ -122,7 +122,7 @@ msgstr "Bem, essas eram as principais forças de reconhecimento. Imagino o que o
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/artywarning"
 msgid "The Americans like to shoot the hell out of everything, and anything that looks even slightly suspicious. Do not set up positions in the open, deploy your men around the camouflaged emplacements the engineers dugout during the night."
-msgstr "Os americanos gostam de atirar em tudo, e em qualquer coisa que pareça minimamente suspeita. Não estabeleça posições a céu aberto — implante seus homens ao redor das posições camufladas que os engenheiros escavaram durante a noite."
+msgstr "Os americanos gostam de atirar em tudo, e em qualquer coisa que pareça minimamente suspeita. Não estabeleça posições a céu aberto — posicione seus homens ao redor das posições camufladas que os engenheiros escavaram durante a noite."
 
 msgctxt "mission/single/02-ger-west/1945_01_thirimont/narrator/calliope"
 msgid "Achtung! The Americans have brought Calliope rocket launchers! Keep your heads down!"

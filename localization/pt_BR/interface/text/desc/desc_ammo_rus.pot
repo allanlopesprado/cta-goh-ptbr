@@ -26,7 +26,7 @@ msgstr "Foguetes M-31 de 300mm [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/atrifle_rus"
 msgid "14.5-mm AT Rounds"
-msgstr "14.5-mm AT Cartuchos"
+msgstr "Cartuchos AT de 14.5-mm"
 
 msgctxt "desc/ammo/bullet_107x442 rus apcbche"
 msgid "107-mm B-420 [<c(ff6a00)>APCBC-HE</c>]"
@@ -222,7 +222,7 @@ msgstr "122-mm OF-471 [<c(ff1200)>HE</c>] <c(65696d)>L/48</c>"
 
 msgctxt "desc/ammo/bulletrus_125 ic"
 msgid "[<c(c9a6ff)>IC</c>] 125-mm AZh-2 Glass Ampule"
-msgstr "[<c(c9a6ff)>IC</c>] 125-mm AZh-2 Ampola de Vidro"
+msgstr "[<c(c9a6ff)>IC</c>] Ampola de Vidro AZh-2 de 125-mm"
 
 msgctxt "desc/ammo/bulletrus_130 aphe"
 msgid "130-mm PB-46A [<c(ff6a00)>SAPHE</c>]"
@@ -294,63 +294,63 @@ msgstr "[<c(ff1200)>HE</c>] Granada de Fuzil Dyakonov"
 
 msgctxt "desc/ammo/far"
 msgid "7.62-mm Fedorov clip"
-msgstr "7.62-mm Fedorov Clipe"
+msgstr "Clipe Fedorov de 7.62-mm"
 
 msgctxt "desc/ammo/hmgun_rus ap"
 msgid "12.7-mm B-30 DShK Rounds [<c(ff6a00)>AP</c>]"
-msgstr "12.7-mm B-30 DShK Munição [<c(ff6a00)>AP</c>]"
+msgstr "Munição B-30 DShK de 12.7-mm [<c(ff6a00)>AP</c>]"
 
 msgctxt "desc/ammo/hmgun_rus api"
 msgid "12.7-mm B-32 DShK Rounds [<c(ff1200)>API</c>]"
-msgstr "12.7-mm B-32 DShK Munição [<c(ff1200)>API</c>]"
+msgstr "Munição B-32 DShK de 12.7-mm [<c(ff1200)>API</c>]"
 
 msgctxt "desc/ammo/mgun_rus belt"
 msgid "7.62-mm Rounds"
-msgstr "7.62-mm Cartuchos"
+msgstr "Cartuchos de 7.62-mm"
 
 msgctxt "desc/ammo/mgun_rus belt ap"
 msgid "7.62-mm B-30 Rounds [<c(ff6a00)>AP</c>]"
-msgstr "7.62-mm B-30 Munição [<c(ff6a00)>AP</c>]"
+msgstr "Munição B-30 de 7.62-mm [<c(ff6a00)>AP</c>]"
 
 msgctxt "desc/ammo/mgun_rus belt api"
 msgid "7.62-mm B-32 Rounds [<c(ff6a00)>API</c>]"
-msgstr "7.62-mm B-32 Munição [<c(ff6a00)>API</c>]"
+msgstr "Munição B-32 de 7.62-mm [<c(ff6a00)>API</c>]"
 
 msgctxt "desc/ammo/mgun_rus dp"
 msgid "7.62-mm DP Drum"
-msgstr "7.62-mm DP Tambor"
+msgstr "Tambor DP de 7.62-mm"
 
 msgctxt "desc/ammo/mgun_rus dt"
 msgid "7.62-mm DT Rounds"
-msgstr "7.62-mm DT Cartuchos"
+msgstr "Cartuchos 7.62-mm para DT"
 
 msgctxt "desc/ammo/mortarrus_50 he"
 msgid "[<c(ff1200)>HE</c>] 50-mm O-822A Mortar"
-msgstr "[<c(ff1200)>HE</c>] 50-mm O-822A Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição O-822A para Morteiro de 50-mm"
 
 msgctxt "desc/ammo/mortarrus_82 he"
 msgid "[<c(ff1200)>HE</c>] 82-mm O-832 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 82-mm O-832 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição O-832 para Morteiro de 82-mm"
 
 msgctxt "desc/ammo/mortarrus_82 sm"
 msgid "82-mm D-832 Mortar [<c(FFFFFF)>WP</c>]"
-msgstr "82-mm D-832 Morteiro [<c(FFFFFF)>WP</c>]"
+msgstr "Munição D-832 para Morteiro de 82-mm [<c(FFFFFF)>WP</c>]"
 
 msgctxt "desc/ammo/mortarrus_120 he"
 msgid "[<c(ff1200)>HE</c>] 120-mm OF-843 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 120-mm OF-843 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição OF-843 para Morteiro de 120-mm"
 
 msgctxt "desc/ammo/mortarrus_120 ic"
 msgid "[<c(c9a6ff)>IC</c>] 120-mm Mortar"
-msgstr "[<c(c9a6ff)>IC</c>] 120-mm Morteiro"
+msgstr "[<c(c9a6ff)>IC</c>] Munição para Morteiro de 120-mm"
 
 msgctxt "desc/ammo/mortarrus_120 sm"
 msgid "[SMOKE] 120-mm Mortar"
-msgstr "[SMOKE] 120-mm Morteiro"
+msgstr "[SMOKE] Munição para Morteiro de 120-mm"
 
 msgctxt "desc/ammo/ppd_drum"
 msgid "7.62-mm PPD Drum"
-msgstr "7.62-mm PPD Tambor"
+msgstr "Tambor PPD de 7.62-mm"
 
 msgctxt "desc/ammo/pps_stick"
 msgid "7.62-mm PPS 1943"
@@ -358,31 +358,31 @@ msgstr "7.62-mm PPS 1943"
 
 msgctxt "desc/ammo/ppsh_drum"
 msgid "7.62-mm PPSH Drum"
-msgstr "7.62-mm PPSH Tambor"
+msgstr "Tambor PPSH de 7.62-mm"
 
 msgctxt "desc/ammo/ppsh_stick"
 msgid "7.62-mm PPSH Stick"
-msgstr "7.62-mm PPSH Pente"
+msgstr "Carregador Tipo Caixa 7.62-mm para PPSH"
 
 msgctxt "desc/ammo/revolver_clip"
 msgid "7.62-mm Revolver Clip"
-msgstr "7.62-mm Revolver Clipe"
+msgstr "Clipe de Revólver de 7.62-mm"
 
 msgctxt "desc/ammo/rifle_rus clip"
 msgid "7.62-mm 54R Rounds"
-msgstr "7.62-mm 54R Cartuchos"
+msgstr "Cartuchos de 7.62-mm 54R"
 
 msgctxt "desc/ammo/rifle_rus svt"
 msgid "7.62-mm SVT Magazine"
-msgstr "7.62-mm SVT Carregador"
+msgstr "Carregador 7.62-mm para SVT"
 
 msgctxt "desc/ammo/rifle_rus"
 msgid "7.62-mm 54R Rounds"
-msgstr "7.62-mm 54R Cartuchos"
+msgstr "Cartuchos de 7.62-mm 54R"
 
 msgctxt "desc/ammo/tt33"
 msgid "7.62-mm TT-33 Magazine"
-msgstr "7.62-mm TT-33 Carregador"
+msgstr "Carregador 7.62-mm para TT-33"
 
 msgctxt "desc/ammo/vpgs41"
 msgid "[<c(c9a6ff)>HEAT</c>] VPGS M/41 Rifle Grenade"
@@ -394,11 +394,11 @@ msgstr "12.7mm MG Pesada"
 
 msgctxt "desc/stuff/mgun_rus belt"
 msgid "7.62-mm Rounds"
-msgstr "7.62-mm Cartuchos"
+msgstr "Cartuchos de 7.62-mm"
 
 msgctxt "desc/stuff/mgun_rus"
 msgid "7.62-mm MG Ammo"
-msgstr "7.62-mm MG Munição"
+msgstr "Munição MG de 7.62-mm"
 
 msgctxt "desc/ammo/82mm_bm8"
 msgid "82-mm BM-8 Rockets [<c(ff1200)>HE</c>]"

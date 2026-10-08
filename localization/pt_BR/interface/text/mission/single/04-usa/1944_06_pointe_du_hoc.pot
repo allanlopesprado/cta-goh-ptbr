@@ -104,7 +104,7 @@ msgstr "Devemos esperar o contra-ataque alemão a qualquer momento. Precisamos m
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/09"
 msgid "The first enemy attack has been successfully repelled. But we should be ready to defend this place into the night. Set up defences!"
-msgstr "O primeiro ataque inimigo foi repelido com sucesso. Mas devemos estar prontos para defender este lugar até a noite. Montem defesas!"
+msgstr "O primeiro ataque inimigo foi repelido com sucesso. Mas devemos estar prontos para defender este lugar noite adentro. Montem defesas!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/10"
 msgid "They're bringing in their own mortars and emplacements, watch out!"
@@ -140,7 +140,7 @@ msgstr "Solicitar apoio naval do USS Satterlee"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/outro_completed"
 msgid "You have done an amazing job!\n\nWith the relief force from 29th Infantry division and the 743rd tank battalion in place, you can now have someone tend to your wounds and finally take a rest. Your efforts have saved many American lives, surely this will be remembered as one of the pivotal moments of this giant operation. The Liberation of Europe has begun!"
-msgstr "Você fez um trabalho incrível!\n\nCom a força de reforço da 29ª Divisão de Infantaria e o 743º Batalhão de Tanques posicionados, você pode agora tratar seus ferimentos e finalmente descansar. Seus esforços salvaram muitas vidas americanas — certamente isso será lembrado como um dos momentos decisivos desta gigantesca operação. A Libertação da Europa começou!"
+msgstr "Você fez um trabalho incrível!\n\nCom a força de reforço da 29ª Divisão de Infantaria e o 743º Batalhão de Tanques posicionados, você pode agora pedir a alguém que cuide de seus ferimentos e finalmente descansar. Seus esforços salvaram muitas vidas americanas — certamente isso será lembrado como um dos momentos decisivos desta gigantesca operação. A Libertação da Europa começou!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/outro_failed"
 msgid "We have failed!\n\nThis is quite a blow to our hopes of preventing casualties on Omaha and Utah beach. Surely, the Germans will start pounding the beaches with 155 mm shells very soon. There is nothing for it but to try again, failure is not an option. we must take out that battery!"
@@ -160,7 +160,7 @@ msgstr "Mais um fora de serviço!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/gundestroyed_alt"
 msgid "Scratch another Kraut artillery!"
-msgstr "Mais uma artilharia Kraut eliminada!"
+msgstr "Mais uma peça de artilharia Kraut eliminada!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/player/nogunshere"
 msgid "We have cleared the battery but the guns were wooden dummies."
@@ -232,7 +232,7 @@ msgstr "Esperamos um contra-ataque alemão a qualquer momento. Entrincheirem-se 
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/09"
 msgid "Move your asses, get off the beach! Go!"
-msgstr "Movam-se, saiam da praia! Vai!"
+msgstr "Movam essas bundas, saiam da praia! Vamos!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/10"
 msgid "You're easy targets for those Kraut MGs! Get away from the cliff! Move, move!"
@@ -244,7 +244,7 @@ msgstr "Destruam esses morteiros antes que nos massacrem!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/12"
 msgid "We can't hold them here any longer. Everyone, fall back to the trench lines! Grab what you can and fall back!"
-msgstr "Não podemos mais detê-los aqui. Todos, recuem para as linhas de trincheira! Pegue o que puder e recue!"
+msgstr "Não podemos mais detê-los aqui. Todos, recuem para as linhas de trincheira! Peguem o que puderem e recuem!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/13"
 msgid "Damn, they got too many vehicles, we can't hold them on the open ground! Fall back to the rear trenches!"
@@ -292,7 +292,7 @@ msgstr "A Companhia Dog iniciará o assalto assim que você estiver pronto. É s
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/24"
 msgid "Lieutenant, over there! Looks like there are some paratroopers pinned down. They're a ways away from their drop-zones, we need to help those boys out!"
-msgstr "Tenente — ali! Parece que há alguns paraquedistas presos. Estão longe de suas zonas de lançamento — precisamos ajudar esses rapazes!"
+msgstr "Tenente — ali! Parece que há alguns paraquedistas imobilizados pelo fogo. Estão longe de suas zonas de lançamento — precisamos ajudar esses rapazes!"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/gameover_defense_failed"
 msgid "The enemy has captured your defensive positions."
@@ -312,7 +312,7 @@ msgstr "Recue para a linha de trincheira mais distante"
 
 msgctxt "mission/single/04-usa/1944_06_pointe_du_hoc/v2/mission_mguns"
 msgid "Eliminate the machine gunners on the cliff"
-msgstr "Elimine os artilheiros de metralhadora no penhasco"
+msgstr "Elimine os atiradores de metralhadora no penhasco"
 
 #, boost-format
 

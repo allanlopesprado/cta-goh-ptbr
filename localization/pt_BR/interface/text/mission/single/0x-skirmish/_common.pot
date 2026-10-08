@@ -15,7 +15,7 @@ msgstr ""
 
 msgctxt "mission/single/0x-skirmish/arty_bad_location"
 msgid "The location you marked for artillery is out of range for targeting. Please call-in artillery on a new location!"
-msgstr "A localização marcada para a artilharia está fora do alcance. Por favor, solicite a artilharia em uma nova localização!"
+msgstr "O local marcado como alvo para a artilharia está fora de alcance. Por favor, solicite fogo de artilharia contra outro local!"
 
 msgctxt "mission/single/0x-skirmish/arty_called"
 msgid "Keep your heads down! Our artillery guns are opening fire!"

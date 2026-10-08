@@ -87,7 +87,7 @@ msgstr "Pioneiro Construtor da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_pio_sec_com"
 msgid "51st Highland Div. Pioneer Section Commander [TA]"
-msgstr "Pioneiro Comandante de Seção da 51ª Divisão Highland [TA]"
+msgstr "Comandante de Seção de Pioneiros da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_plt_batman"
 msgid "51st Highland Div. Platoon Batman [TA]"
@@ -163,7 +163,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sargento-Maior Regimental do Batalhão [BA]"
+msgstr "Sergeant Major Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/early/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -231,7 +231,7 @@ msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia [BA]"
+msgstr "Sergeant Major de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/early/coy_signalman"
 msgid "Company Signalman [BA]"
@@ -347,7 +347,7 @@ msgstr "Pioneiro Construtor da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_pio_sec_com"
 msgid "Guards Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da Guarda [BA]"
+msgstr "Comandante de Seção de Pioneiros da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_plt_batman"
 msgid "Guards Platoon Batman [BA]"
@@ -399,103 +399,103 @@ msgstr "Franco-atirador da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_at_boys"
 msgid "Royal HL. Black Watch AT Inf. [BA]"
-msgstr "Infantaria Antitanque do Black Watch [BA]"
+msgstr "Infantaria Antitanque do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_at_boys_asst"
 msgid "Royal HL. Black Watch AT Asst. [BA]"
-msgstr "Auxiliar Antitanque do Black Watch [BA]"
+msgstr "Auxiliar Antitanque do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_batman"
 msgid "Royal HL. Black Watch Batman [BA]"
-msgstr "Ordenança do Black Watch [BA]"
+msgstr "Ordenança do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_coy_2ic"
 msgid "Royal HL. Black Watch Company 2IC [BA]"
-msgstr "Subcomandante da Companhia do Black Watch [BA]"
+msgstr "Subcomandante da Companhia do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_coy_com"
 msgid "Royal HL. Black Watch Company Commander [BA]"
-msgstr "Comandante de Companhia do Black Watch [BA]"
+msgstr "Comandante de Companhia do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_coy_signalman"
 msgid "Royal HL. Black Watch Company Signalman [BA]"
-msgstr "Radioperador de Companhia do Black Watch [BA]"
+msgstr "Radioperador de Companhia do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_crew"
 msgid "Royal HL. Black Watch Crew [BA]"
-msgstr "Tripulação do Black Watch [BA]"
+msgstr "Tripulação do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_detach_com_cpl"
 msgid "Royal HL. Black Watch Detachment Commander [BA]"
-msgstr "Comandante de Destacamento do Black Watch [BA]"
+msgstr "Comandante de Destacamento do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_detach_com_sgt"
 msgid "Royal HL. Black Watch Detachment Commander [BA]"
-msgstr "Comandante de Destacamento do Black Watch [BA]"
+msgstr "Comandante de Destacamento do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_driver"
 msgid "Royal HL. Black Watch Driver [BA]"
-msgstr "Motorista do Black Watch [BA]"
+msgstr "Motorista do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_medic"
 msgid "Royal HL. Black Watch Medic [BA]"
-msgstr "Médico do Black Watch [BA]"
+msgstr "Médico do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_mg"
 msgid "Royal HL. Black Watch MG Operator [BA]"
-msgstr "Operador de Metralhadora do Black Watch [BA]"
+msgstr "Operador de Metralhadora do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_mg_asst"
 msgid "Royal HL. Black Watch MG Asst. [BA]"
-msgstr "Auxiliar de Metralhadora do Black Watch [BA]"
+msgstr "Auxiliar de Metralhadora do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_pio"
 msgid "Royal HL. Black Watch Pioneer [BA]"
-msgstr "Pioneiro do Black Watch [BA]"
+msgstr "Pioneiro do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_pio_builder"
 msgid "Royal HL. Black Watch Pioneer Builder [BA]"
-msgstr "Pioneiro Construtor do Black Watch [BA]"
+msgstr "Pioneiro Construtor do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_pio_sec_com"
 msgid "Royal HL. Black Watch Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção do Black Watch [BA]"
+msgstr "Comandante de Seção de Pioneiros do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_plt_batman"
 msgid "Royal HL. Black Watch Platoon Batman [BA]"
-msgstr "Ordenança de Pelotão do Black Watch [BA]"
+msgstr "Ordenança de Pelotão do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_plt_com"
 msgid "Royal HL. Black Watch Platoon Commander [BA]"
-msgstr "Comandante de Pelotão do Black Watch [BA]"
+msgstr "Comandante de Pelotão do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_plt_sgt"
 msgid "Royal HL. Black Watch Platoon Sergeant [BA]"
-msgstr "Sargento de Pelotão do Black Watch [BA]"
+msgstr "Sargento de Pelotão do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_rifle"
 msgid "Royal HL. Black Watch Rifleman [BA]"
-msgstr "Atirador do Black Watch [BA]"
+msgstr "Atirador do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_rifle_band"
 msgid "Royal HL. Black Watch Rifleman [BA]"
-msgstr "Atirador do Black Watch [BA]"
+msgstr "Atirador do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_2ic"
 msgid "Royal HL. Black Watch Section 2IC [BA]"
-msgstr "Subcomandante da Seção do Black Watch [BA]"
+msgstr "Subcomandante da Seção do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_com"
 msgid "Royal HL. Black Watch Section Commander [BA]"
-msgstr "Comandante de Seção do Black Watch [BA]"
+msgstr "Comandante de Seção do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_com_sgt"
 msgid "Royal HL. Black Watch Section Commander [BA]"
-msgstr "Comandante de Seção do Black Watch [BA]"
+msgstr "Comandante de Seção do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sec_sniper"
 msgid "Royal HL. Black Watch Sniper [BA]"
-msgstr "Franco-atirador do Black Watch [BA]"
+msgstr "Franco-atirador do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/early/medic"
 msgid "Medic [BA]"
@@ -519,7 +519,7 @@ msgstr "Auxiliar de Tripulação de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_boys"
 msgid "Motor AT Inf. [BA]"
-msgstr "Infantaria Antitanque Motorizado [BA]"
+msgstr "Infantaria Antitanque Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_boys_asst"
 msgid "Motor AT Asst. [BA]"
@@ -543,35 +543,35 @@ msgstr "Atirador Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_scout_detach_com_cpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_scout_detach_com_lcpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_scout_driver"
 msgid "Motor Scout Driver [BA]"
-msgstr "Motorista do Batedor Motor. [BA]"
+msgstr "Motorista de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_scout_gunner"
 msgid "Motor Scout Gunner [BA]"
-msgstr "Atirador do Batedor Motor. [BA]"
+msgstr "Atirador de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_scout_sec_com"
 msgid "Motor Scout Section Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado Subcomandante da Seção [BA]"
+msgstr "Subcomandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_sec_com"
 msgid "Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/early/mp_detach_com"
 msgid "Military Police Detachment Commander [BA]"
-msgstr "Polícia Militar Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento da Polícia Militar [BA]"
 
 msgctxt "desc/human/mp/eng/early/mp_pistol"
 msgid "Military Police [BA]"
@@ -619,7 +619,7 @@ msgstr "Pioneiro Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_sec_com"
 msgid "Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/plt_batman"
 msgid "Platoon Batman [BA]"
@@ -663,7 +663,7 @@ msgstr "Sapador (Minas AP) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_mine_at"
 msgid "Royal Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque da Engenharia Real [BA]"
+msgstr "Sapador (Minas AT) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/early/r_eng_sapper"
 msgid "Royal Engineer Sapper [BA]"
@@ -683,23 +683,23 @@ msgstr "Atirador de Retaguarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_detach_com_cpl"
 msgid "Recce Carrier Detachment Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_detach_com_sgt"
 msgid "Recce Carrier Detachment Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_driver"
 msgid "Recce Carrier Driver [BA]"
-msgstr "Motorista em Transp. de Rec. [BA]"
+msgstr "Motorista de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_gunner"
 msgid "Recce Carrier Gunner [BA]"
-msgstr "Atirador em Transp. de Rec. [BA]"
+msgstr "Atirador de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_rifle"
 msgid "Recce Carrier Rifleman [BA]"
-msgstr "Atirador em Transp. de Rec. [BA]"
+msgstr "Atirador de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_rifle"
 msgid "Recce Rifleman [BA]"
@@ -707,15 +707,15 @@ msgstr "Atirador de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_sec_com"
 msgid "Recce Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_troop_com"
 msgid "Recce Troop Commander [BA]"
-msgstr "Reconhecimento Comandante de Tropa [BA]"
+msgstr "Comandante de Tropa de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_troop_com_wo3"
 msgid "Recce Troop Commander [BA]"
-msgstr "Reconhecimento Comandante de Tropa [BA]"
+msgstr "Comandante de Tropa de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rifle"
 msgid "Rifleman [BA]"
@@ -899,7 +899,7 @@ msgstr "Comandante de Companhia da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_sgt_maj"
 msgid "1st Airborne Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da 1ª Divisão Aerotransportada [BA]"
+msgstr "Sergeant Major de Companhia da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_crew"
 msgid "1st Airborne Crew [BA]"
@@ -907,11 +907,11 @@ msgstr "Tripulação da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng"
 msgid "1st Airborne Engineer [BA]"
-msgstr "Engenheiro Aerotransportado 1ª [BA]"
+msgstr "Engenheiro da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_at_mine"
 msgid "1st Airborne Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque de Engenheiros da 1ª Divisão Aerotransportada [BA]"
+msgstr "Sapador (Minas AT) de Engenheiros da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_boys"
 msgid "1st Airborne Engineer AT Inf. [BA]"
@@ -995,7 +995,7 @@ msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
-msgstr "Reconhecimento Aerotransportado 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_2ic"
 msgid "1st Airborne Recce Section 2IC [BA]"
@@ -1015,7 +1015,7 @@ msgstr "Reconhecimento Morteirista de Seção da 1ª Divisão Aerotransportada [
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_smg"
 msgid "1st Airborne Recce [BA]"
-msgstr "Reconhecimento Aerotransportado 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rifle"
 msgid "1st Airborne Rifleman [BA]"
@@ -1115,11 +1115,11 @@ msgstr "Pioneiro Construtor da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_pio_sec_com_cpl"
 msgid "51st Highland Div. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 51ª Divisão Highland [BA]"
+msgstr "Comandante de Seção de Pioneiros da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_pio_sec_com_sgt"
 msgid "51st Highland Div. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 51ª Divisão Highland [BA]"
+msgstr "Comandante de Seção de Pioneiros da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_plt_com"
 msgid "51st Highland Div. Platoon Commander [BA]"
@@ -1199,7 +1199,7 @@ msgstr "Comandante de Companhia da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_coy_sgt_maj"
 msgid "7th AD. Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da 7ª Divisão Blindada [BA]"
+msgstr "Sergeant Major de Companhia da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_crew"
 msgid "7th AD. Crew [BA]"
@@ -1335,7 +1335,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sargento-Maior Regimental do Batalhão [BA]"
+msgstr "Sergeant Major Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/mid/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -1427,7 +1427,7 @@ msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia [BA]"
+msgstr "Sergeant Major de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/coy_signalman"
 msgid "Company Signalman [BA]"
@@ -1527,7 +1527,7 @@ msgstr "Auxiliar de Tripulação de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_boys"
 msgid "Motor AT Inf. [BA]"
-msgstr "Infantaria Antitanque Motorizado [BA]"
+msgstr "Infantaria Antitanque Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_boys_asst"
 msgid "Motor AT Asst. [BA]"
@@ -1551,39 +1551,39 @@ msgstr "Atirador Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_scout_detach_com_cpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_scout_detach_com_lcpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_scout_driver"
 msgid "Motor Scout Driver [BA]"
-msgstr "Motorista do Batedor Motor. [BA]"
+msgstr "Motorista de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_scout_gunner"
 msgid "Motor Scout Gunner [BA]"
-msgstr "Atirador do Batedor Motor. [BA]"
+msgstr "Atirador de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_scout_sec_com"
 msgid "Motor Scout Section Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado Subcomandante da Seção [BA]"
+msgstr "Subcomandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_sec_com"
 msgid "Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_sec_com_sten"
 msgid "Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mp_detach_com"
 msgid "Military Police Detachment Commander [BA]"
-msgstr "Polícia Militar Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento da Polícia Militar [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mp_pistol"
 msgid "Military Police [BA]"
@@ -1607,11 +1607,11 @@ msgstr "Pioneiro Construtor [BA]"
 
 msgctxt "desc/human/mp/eng/mid/pio_sec_com_cpl"
 msgid "Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/pio_sec_com_sgt"
 msgid "Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/mid/plt_batman"
 msgid "Platoon Batman [BA]"
@@ -1651,7 +1651,7 @@ msgstr "Sapador (Minas AP) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_mine_at"
 msgid "Royal Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque da Engenharia Real [BA]"
+msgstr "Sapador (Minas AT) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/mid/r_eng_sapper"
 msgid "Royal Engineer Sapper [BA]"
@@ -1675,19 +1675,19 @@ msgstr "Atirador de Retaguarda [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_detach_com"
 msgid "Recce Carrier Detachment Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_driver"
 msgid "Recce Carrier Driver [BA]"
-msgstr "Motorista em Transp. de Rec. [BA]"
+msgstr "Motorista de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_gunner"
 msgid "Recce Carrier Gunner [BA]"
-msgstr "Atirador em Transp. de Rec. [BA]"
+msgstr "Atirador de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_sec_com"
 msgid "Recce Carrier Section Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_driver"
 msgid "Recce Driver [BA]"
@@ -1695,11 +1695,11 @@ msgstr "Motorista de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_mg"
 msgid "Recce MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_mg_asst"
 msgid "Recce MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_rifle_band"
 msgid "Recce Rifleman [BA]"
@@ -1707,11 +1707,11 @@ msgstr "Atirador de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_sec_2ic"
 msgid "Recce Section 2IC [BA]"
-msgstr "Reconhecimento Subcomandante da Seção [BA]"
+msgstr "Subcomandante de Seção de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_sec_com"
 msgid "Recce Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rifle"
 msgid "Rifleman [BA]"
@@ -1771,15 +1771,15 @@ msgstr "Royal Marine Commando Comandante de Sub-seção [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_subsec_detach_com"
 msgid "Royal Marine Commando Sub-Section Detachment Commander [RM]"
-msgstr "Royal Marine Commando Sub-Seção Comandante de Destacamento [RM]"
+msgstr "Comandante de Destacamento de Subseção Royal Marine Commando [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_subsec_detach_com_mg"
 msgid "Royal Marine Commando Sub-Section Detachment Commander [RM]"
-msgstr "Royal Marine Commando Sub-Seção Comandante de Destacamento [RM]"
+msgstr "Comandante de Destacamento de Subseção Royal Marine Commando [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_able"
 msgid "Royal Navy Commando Able Seaman [RN]"
-msgstr "Marinheiro Hábil Commando da Marinha Real [RN]"
+msgstr "Able Seaman Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_bm"
 msgid "Royal Navy Commando Beachmaster [RN]"
@@ -1791,7 +1791,7 @@ msgstr "Auxiliar Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_leading"
 msgid "Royal Navy Commando Leading Seaman [RN]"
-msgstr "Marinheiro Líder Commando da Marinha Real [RN]"
+msgstr "Leading Seaman Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/mid/rn_com_mg"
 msgid "Royal Navy Commando MG Operator [RN]"
@@ -1927,7 +1927,7 @@ msgstr "Tripulação de Veículo [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_boys"
 msgid "Veteran AT Inf. [BA]"
-msgstr "Veterano Infantaria Antitanque [BA]"
+msgstr "Infantaria Antitanque Veterana [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_boys_asst"
 msgid "Veteran AT Asst. [BA]"
@@ -1943,7 +1943,7 @@ msgstr "Veterano Auxiliar de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_piat"
 msgid "Veteran AT Inf. [BA]"
-msgstr "Veterano Infantaria Antitanque [BA]"
+msgstr "Infantaria Antitanque Veterana [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_piat_asst"
 msgid "Veteran AT Asst. [BA]"
@@ -1987,11 +1987,11 @@ msgstr "Veterano Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_smg"
 msgid "Veteran SMG Inf. [BA]"
-msgstr "Veterano Infantaria SMG [BA]"
+msgstr "Infantaria SMG Veterana [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_smg_mk2"
 msgid "Veteran SMG Inf. [BA]"
-msgstr "Veterano Infantaria SMG [BA]"
+msgstr "Infantaria SMG Veterana [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_crew"
 msgid "1st Airlanding Crew [BA]"
@@ -2099,7 +2099,7 @@ msgstr "Comandante de Companhia da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_coy_sgt_maj"
 msgid "1st Airborne Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da 1ª Divisão Aerotransportada [BA]"
+msgstr "Sergeant Major de Companhia da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_crew"
 msgid "1st Airborne Crew [BA]"
@@ -2107,11 +2107,11 @@ msgstr "Tripulação da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng"
 msgid "1st Airborne Engineer [BA]"
-msgstr "Engenheiro Aerotransportado 1ª [BA]"
+msgstr "Engenheiro da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_at_mine"
 msgid "1st Airborne Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque de Engenheiros da 1ª Divisão Aerotransportada [BA]"
+msgstr "Sapador (Minas AT) de Engenheiros da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_eng_flamer"
 msgid "1st Airborne Engineer Flamer Inf. [BA]"
@@ -2207,7 +2207,7 @@ msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
-msgstr "Reconhecimento Aerotransportado 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_2ic"
 msgid "1st Airborne Recce Section 2IC [BA]"
@@ -2227,7 +2227,7 @@ msgstr "Reconhecimento Morteirista de Seção da 1ª Divisão Aerotransportada [
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_smg_band"
 msgid "1st Airborne Recce [BA]"
-msgstr "Reconhecimento Aerotransportado 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rifle"
 msgid "1st Airborne Rifleman [BA]"
@@ -2375,7 +2375,7 @@ msgstr "Comandante de Companhia da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_coy_sgt_maj"
 msgid "6th Airborne Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da 6ª Divisão Aerotransportada [BA]"
+msgstr "Sergeant Major de Companhia da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_crew"
 msgid "6th Airborne Crew [BA]"
@@ -2383,11 +2383,11 @@ msgstr "Tripulação da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng"
 msgid "6th Airborne Engineer [BA]"
-msgstr "Engenheiro Aerotransportado 6ª [BA]"
+msgstr "Engenheiro da 6ª Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_at_mine"
 msgid "6th Airborne Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque de Engenheiros da 6ª Divisão Aerotransportada [BA]"
+msgstr "Sapador (Minas AT) de Engenheiros da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_eng_flamer"
 msgid "6th Airborne Engineer Flamer Inf. [BA]"
@@ -2515,7 +2515,7 @@ msgstr "Comandante de Companhia da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_coy_sgt_maj"
 msgid "7th AD. Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da 7ª Divisão Blindada [BA]"
+msgstr "Sergeant Major de Companhia da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_crew"
 msgid "7th AD. Crew [BA]"
@@ -2555,7 +2555,7 @@ msgstr "Sapador (Minas AP) de Engenheiros da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_mine_at"
 msgid "7th AD. Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque de Engenheiros da 7ª Divisão Blindada [BA]"
+msgstr "Sapador (Minas AT) de Engenheiros da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_eng_piat"
 msgid "7th AD. Engineer AT Inf. [BA]"
@@ -2599,7 +2599,7 @@ msgstr "Auxiliar Motorizado de Metralhadora da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat"
 msgid "7th AD. Motor AT Inf. [BA]"
-msgstr "Infantaria Antitanque Motorizado da 7ª Divisão Blindada [BA]"
+msgstr "Infantaria Antitanque Motorizada da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat_asst"
 msgid "7th AD. Motor AT Asst. [BA]"
@@ -2619,23 +2619,23 @@ msgstr "Franco-atirador Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_detach_com_cpl"
 msgid "7th AD. Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_detach_com_lcpl"
 msgid "7th AD. Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_driver"
 msgid "7th AD. Motor Scout Driver [BA]"
-msgstr "Motorista do Batedor Motor. da 7ª Divisão Blindada [BA]"
+msgstr "Motorista de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_mg"
 msgid "7th AD. Motor Scout MG Operator [BA]"
-msgstr "Batedor Motorizado Operador de Metralhadora da 7ª Divisão Blindada [BA]"
+msgstr "Operador de MG de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_piat"
 msgid "7th AD. Motor Scout AT Inf. [BA]"
-msgstr "Infantaria Antitanque do Batedor Motor. da 7ª Divisão Blindada [BA]"
+msgstr "Inf. AT de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_rifle"
 msgid "7th AD. Motor Scout [BA]"
@@ -2643,15 +2643,15 @@ msgstr "Batedor Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_sec_com"
 msgid "7th AD. Motor Scout Section Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Seção da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_2ic"
 msgid "7th AD. Motor Section 2IC [BA]"
-msgstr "Motorizado Subcomandante da Seção da 7ª Divisão Blindada [BA]"
+msgstr "Subcomandante de Seção Motorizada da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_com"
 msgid "7th AD. Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Seção Motorizada da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_piat"
 msgid "7th AD. AT Inf. [BA]"
@@ -2671,11 +2671,11 @@ msgstr "Pioneiro Construtor da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_pio_sec_com_cpl"
 msgid "7th AD. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_pio_sec_com_sgt"
 msgid "7th AD. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 7ª Divisão Blindada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_plt_com"
 msgid "7th AD. Platoon Commander [BA]"
@@ -2771,7 +2771,7 @@ msgstr "Comandante de Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_rsm"
 msgid "Battalion Regimental Sergeant Major [BA]"
-msgstr "Sargento-Maior Regimental do Batalhão [BA]"
+msgstr "Sergeant Major Regimental do Batalhão [BA]"
 
 msgctxt "desc/human/mp/eng/late/bat_signalman"
 msgid "Battalion Signalman [BA]"
@@ -2867,7 +2867,7 @@ msgstr "Sargento Intendente de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_sgt_maj"
 msgid "Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia [BA]"
+msgstr "Sergeant Major de Companhia [BA]"
 
 msgctxt "desc/human/mp/eng/late/coy_signalman"
 msgid "Company Signalman [BA]"
@@ -2955,7 +2955,7 @@ msgstr "Comandante de Companhia da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_coy_sgt_maj"
 msgid "Guards AD. Company Sergeant Major [BA]"
-msgstr "Sargento-Maior de Companhia da Divisão Blindada da Guarda [BA]"
+msgstr "Sergeant Major de Companhia da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_crew"
 msgid "Guards AD. Crew [BA]"
@@ -2991,7 +2991,7 @@ msgstr "Sapador (Minas AP) de Engenheiros da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_mine_at"
 msgid "Guards AD. Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque de Engenheiros da Divisão Blindada da Guarda [BA]"
+msgstr "Sapador (Minas AT) de Engenheiros da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_eng_piat"
 msgid "Guards AD. Engineer AT Inf. [BA]"
@@ -3035,7 +3035,7 @@ msgstr "Auxiliar Motorizado de Metralhadora da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat"
 msgid "Guards AD. Motor AT Inf. [BA]"
-msgstr "Infantaria Antitanque Motorizado da Divisão Blindada da Guarda [BA]"
+msgstr "Infantaria Antitanque Motorizada da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat_asst"
 msgid "Guards AD. Motor AT Asst. [BA]"
@@ -3055,23 +3055,23 @@ msgstr "Franco-atirador Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_detach_com_cpl"
 msgid "Guards AD. Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_detach_com_lcpl"
 msgid "Guards AD. Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_driver"
 msgid "Guards AD. Motor Scout Driver [BA]"
-msgstr "Motorista do Batedor Motor. da Divisão Blindada da Guarda [BA]"
+msgstr "Motorista de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_mg"
 msgid "Guards AD. Motor Scout MG Operator [BA]"
-msgstr "Batedor Motorizado Operador de Metralhadora da Divisão Blindada da Guarda [BA]"
+msgstr "Operador de MG de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_piat"
 msgid "Guards AD. Motor Scout AT Inf. [BA]"
-msgstr "Infantaria Antitanque do Batedor Motor. da Divisão Blindada da Guarda [BA]"
+msgstr "Inf. AT de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_rifle"
 msgid "Guards AD. Motor Scout [BA]"
@@ -3079,15 +3079,15 @@ msgstr "Batedor Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_sec_com"
 msgid "Guards AD. Motor Scout Section Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Seção da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_2ic"
 msgid "Guards AD. Motor Section 2IC [BA]"
-msgstr "Motorizado Subcomandante da Seção da Divisão Blindada da Guarda [BA]"
+msgstr "Subcomandante de Seção Motorizada da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_com"
 msgid "Guards AD. Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Seção Motorizada da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_piat"
 msgid "Guards AD. AT Inf. [BA]"
@@ -3107,11 +3107,11 @@ msgstr "Pioneiro Construtor da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_pio_sec_com_cpl"
 msgid "Guards AD. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Seção de Pioneiros da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_pio_sec_com_sgt"
 msgid "Guards AD. Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da Divisão Blindada da Guarda [BA]"
+msgstr "Comandante de Seção de Pioneiros da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_plt_com"
 msgid "Guards AD. Platoon Commander [BA]"
@@ -3219,7 +3219,7 @@ msgstr "Auxiliar Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_piat"
 msgid "Motor AT Inf. [BA]"
-msgstr "Infantaria Antitanque Motorizado [BA]"
+msgstr "Infantaria Antitanque Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_piat_asst"
 msgid "Motor AT Asst. [BA]"
@@ -3239,23 +3239,23 @@ msgstr "Franco-atirador Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_detach_com_cpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_detach_com_lcpl"
 msgid "Motor Scout Detachment Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_driver"
 msgid "Motor Scout Driver [BA]"
-msgstr "Motorista do Batedor Motor. [BA]"
+msgstr "Motorista de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_mg"
 msgid "Motor Scout MG Operator [BA]"
-msgstr "Batedor Motorizado Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_piat"
 msgid "Motor Scout AT Inf. [BA]"
-msgstr "Infantaria Antitanque do Batedor Motor. [BA]"
+msgstr "Inf. Antitanque de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_rifle"
 msgid "Motor Scout [BA]"
@@ -3263,19 +3263,19 @@ msgstr "Batedor Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_scout_sec_com"
 msgid "Motor Scout Section Commander [BA]"
-msgstr "Batedor Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_sec_2ic"
 msgid "Motor Section 2IC [BA]"
-msgstr "Motorizado Subcomandante da Seção [BA]"
+msgstr "Subcomandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_sec_com"
 msgid "Motor Section Commander [BA]"
-msgstr "Motorizado Comandante de Seção [BA]"
+msgstr "Comandante de Seção Motorizada [BA]"
 
 msgctxt "desc/human/mp/eng/late/mp_detach_com"
 msgid "Military Police Detachment Commander [BA]"
-msgstr "Polícia Militar Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento da Polícia Militar [BA]"
 
 msgctxt "desc/human/mp/eng/late/mp_pistol"
 msgid "Military Police [BA]"
@@ -3299,11 +3299,11 @@ msgstr "Pioneiro Construtor [BA]"
 
 msgctxt "desc/human/mp/eng/late/pio_sec_com_cpl"
 msgid "Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/pio_sec_com_sgt"
 msgid "Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/late/plt_batman"
 msgid "Platoon Batman [BA]"
@@ -3339,7 +3339,7 @@ msgstr "Sapador (Minas AP) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_mine_at"
 msgid "Royal Engineer AT Miner [BA]"
-msgstr "Sapador Antitanque da Engenharia Real [BA]"
+msgstr "Sapador (Minas AT) da Engenharia Real [BA]"
 
 msgctxt "desc/human/mp/eng/late/r_eng_piat"
 msgid "Royal Engineer AT Inf. [BA]"
@@ -3371,27 +3371,27 @@ msgstr "Infantaria SMG de Retaguarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_detach_com"
 msgid "Recce Carrier Detachment Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Destacamento [BA]"
+msgstr "Comandante de Destacamento de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_driver"
 msgid "Recce Carrier Driver [BA]"
-msgstr "Motorista em Transp. de Rec. [BA]"
+msgstr "Motorista de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_mg"
 msgid "Recce Carrier MG Operator [BA]"
-msgstr "Transporte de Reconhecimento Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_piat"
 msgid "Recce Carrier AT Inf. [BA]"
-msgstr "Infantaria Antitanque em Transp. de Rec. [BA]"
+msgstr "Inf. Antitanque de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_rifle"
 msgid "Recce Carrier Rifleman [BA]"
-msgstr "Atirador em Transp. de Rec. [BA]"
+msgstr "Atirador de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_carrier_sec_com"
 msgid "Recce Carrier Section Commander [BA]"
-msgstr "Transporte de Reconhecimento Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Carriers de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_driver"
 msgid "Recce Driver [BA]"
@@ -3399,11 +3399,11 @@ msgstr "Motorista de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_mg"
 msgid "Recce MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_mg_asst"
 msgid "Recce MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_rifle_band"
 msgid "Recce Rifleman [BA]"
@@ -3411,11 +3411,11 @@ msgstr "Atirador de Rec. [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_sec_2ic"
 msgid "Recce Section 2IC [BA]"
-msgstr "Reconhecimento Subcomandante da Seção [BA]"
+msgstr "Subcomandante de Seção de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rec_sec_com"
 msgid "Recce Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/late/rifle"
 msgid "Rifleman [BA]"
@@ -3487,19 +3487,19 @@ msgstr "Royal Marine Commando Comandante de Sub-seção [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com"
 msgid "Royal Marine Commando Sub-Section Detachment Commander [RM]"
-msgstr "Royal Marine Commando Sub-Seção Comandante de Destacamento [RM]"
+msgstr "Comandante de Destacamento de Subseção Royal Marine Commando [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com_mg"
 msgid "Royal Marine Commando Sub-Section Detachment Commander [RM]"
-msgstr "Royal Marine Commando Sub-Seção Comandante de Destacamento [RM]"
+msgstr "Comandante de Destacamento de Subseção Royal Marine Commando [RM]"
 
 msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com_mg_vgo"
 msgid "Royal Marine Commando Sub-Section Detachment Commander [RM]"
-msgstr "Royal Marine Commando Sub-Seção Comandante de Destacamento [RM]"
+msgstr "Comandante de Destacamento de Subseção Royal Marine Commando [RM]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_able"
 msgid "Royal Navy Commando Able Seaman [RN]"
-msgstr "Marinheiro Hábil Commando da Marinha Real [RN]"
+msgstr "Able Seaman Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_bm"
 msgid "Royal Navy Commando Beachmaster [RN]"
@@ -3511,7 +3511,7 @@ msgstr "Auxiliar Mestre de Praia Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_leading"
 msgid "Royal Navy Commando Leading Seaman [RN]"
-msgstr "Marinheiro Líder Commando da Marinha Real [RN]"
+msgstr "Leading Seaman Commando da Marinha Real [RN]"
 
 msgctxt "desc/human/mp/eng/late/rn_com_mg"
 msgid "Royal Navy Commando MG Operator [RN]"
@@ -3631,7 +3631,7 @@ msgstr "Comandante da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_delisle"
 msgid "SOE Operative"
-msgstr "Operativo da SOE"
+msgstr "Agente da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_radio_op"
 msgid "SOE Radioman"
@@ -3639,15 +3639,15 @@ msgstr "Radiooperador da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_sten2s"
 msgid "SOE Operative"
-msgstr "Operativo da SOE"
+msgstr "Agente da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_sten6"
 msgid "SOE Operative"
-msgstr "Operativo da SOE"
+msgstr "Agente da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_welrod"
 msgid "SOE Operative"
-msgstr "Operativo da SOE"
+msgstr "Agente da SOE"
 
 msgctxt "desc/human/mp/eng/late/soe_xo"
 msgid "SOE Executive Officer"
@@ -3683,7 +3683,7 @@ msgstr "Tripulação de Veículo [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_at_piat"
 msgid "Veteran AT Inf. [BA]"
-msgstr "Veterano Infantaria Antitanque [BA]"
+msgstr "Infantaria Antitanque Veterana [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_at_piat_asst"
 msgid "Veteran AT Asst. [BA]"
@@ -3731,4 +3731,4 @@ msgstr "Veterano Comandante de Sub-seção [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_smg"
 msgid "Veteran SMG Inf. [BA]"
-msgstr "Veterano Infantaria SMG [BA]"
+msgstr "Infantaria SMG Veterana [BA]"

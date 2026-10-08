@@ -166,7 +166,7 @@ msgstr "Droga, não temos canhões AT suficientes para parar todos esses tanques
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_04"
 msgid "The retreating forces have left us a lot of rifles with cup dischargers. Their AT grenades are powerful enough to stop a tank at close quarters. We can shoot from behind fences and from buildings to ambush their vehicles."
-msgstr "As forças em retirada nos deixaram muitos fuzis com lançadores de copo. Suas granadas AT são potentes o suficiente para parar um tanque em curta distância. Podemos atirar por trás de cercas e de dentro dos edifícios para emboscar seus veículos."
+msgstr "As forças em retirada nos deixaram muitos fuzis com lançadores de granadas do tipo copo. Suas granadas AT são potentes o suficiente para parar um tanque em curta distância. Podemos atirar por trás de cercas e de dentro dos edifícios para emboscar seus veículos."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_06"
 msgid "The boys have finished! Lieutenant Shaw, retreat to the second line, I’m going to put the remainder of one of my companies under your command."
@@ -318,7 +318,7 @@ msgstr "Sabotagem de veículos — afaste-se"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/hint_airstrike"
 msgid "Royal Air Forces are ready to provide close air support. There are only <c(B29557)>2 planes available</c>, use them as a last resort."
-msgstr "A Força Aérea Real está pronta para fornecer apoio aéreo próximo. Há apenas <c(B29557)>2 aviões disponíveis</c>; use-os como último recurso."
+msgstr "A Força Aérea Real está pronta para fornecer apoio aéreo aproximado. Há apenas <c(B29557)>2 aviões disponíveis</c>; use-os como último recurso."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_early_fallback"
 msgid "<c(B29557)>Bring your units back to the first defensive line</c>"

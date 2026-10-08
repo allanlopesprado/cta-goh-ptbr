@@ -78,7 +78,7 @@ msgstr "Liberte os paraquedistas capturados."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/mission_sniper"
 msgid "Kill the German sniper!"
-msgstr "Mate o atirador de elite alemão!"
+msgstr "Mate o franco-atirador alemão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/name"
 msgid "Dropped into the Fire"
@@ -122,7 +122,7 @@ msgstr "A cidade está agora totalmente sob controle, mas os alemães certamente
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy02"
 msgid "The enemy counterattack will soon be gathering from different directions, as indicated on your map. You must ambush it and eliminate all enemy troops before they can deploy!"
-msgstr "O contra-ataque inimigo logo se reunirá de diferentes direções, conforme indicado no mapa. Você deve emboscá-los e eliminar todas as tropas inimigas antes que consigam se posicionar!"
+msgstr "As forças do contra-ataque inimigo logo se reunirão, vindas de diferentes direções, conforme indicado no mapa. Você deve emboscá-las e eliminar todas as tropas inimigas antes que consigam se posicionar!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/secret"
 msgid "Oh, what have we here? It seems a supply drop along with a mortar, landed all the way over here! Well, that's something!"
@@ -130,7 +130,7 @@ msgstr "Oh, o que temos aqui? Parece que um lançamento de suprimentos junto com
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/outro_completed"
 msgid "Excellent work, we captured and defended Ste-Mere-Eglise against the counterattack! Because we have control over the causeways, the 4th Infantry Division can assault Utah Beach without the threat of an enemy counterattack. Well done!"
-msgstr "Excelente trabalho, capturamos e defendemos Ste-Mère-Église contra o contra-ataque! Como temos controle sobre as passagens, a 4ª Divisão de Infantaria pode assaltar a Praia Utah sem a ameaça de um contra-ataque inimigo. Bem feito!"
+msgstr "Excelente trabalho, capturamos e defendemos Ste-Mère-Église contra o contra-ataque! Como temos controle sobre as passagens, a 4ª Divisão de Infantaria pode assaltar a Praia Utah sem a ameaça de um contra-ataque inimigo. Bom trabalho!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/outro_failed"
 msgid "We failed to take Ste-Mere-Eglise! Now the Germans have a clear path to send reinforcements and counterattack our boys on the beaches. The outcome of the invasion is in serious jeopardy! You must try again!"
@@ -186,15 +186,15 @@ msgstr "Reforços, finalmente! Realmente precisávamos de ajuda!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper"
 msgid "Shit! Taking sniper fire!"
-msgstr "Merda! Recebendo fogo de atirador de elite!"
+msgstr "Merda! Recebendo fogo de franco-atirador!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper_alt"
 msgid "Under sniper fire!"
-msgstr "Sob fogo de atirador de elite!"
+msgstr "Sob fogo de franco-atirador!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/sniper_killed"
 msgid "German sniper eliminated!"
-msgstr "Atirador de elite alemão eliminado!"
+msgstr "Franco-atirador alemão eliminado!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/stayonobj"
 msgid "Uh oh! Looks like I'll run into way more Krauts if I keep going this way."
@@ -206,7 +206,7 @@ msgstr "Você recrutou %1%/10 paraquedistas!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/story"
 msgid "  6th of June, 1944. The 82nd is on its way to France. In the early hours of D-Day, they will jump over Normandy!\n\n  There’s a simple yet ambitious objective for the 505th battalion: take the village of St. Mère-Église and do it quickly. The drop zone is just northwest of the town, so the plan is to assemble and then move southeast toward it.\n\n  Shortly before 2 AM the 505th jumps into the night, oblivious to the fact the formation is flying much higher than it should.\n\nGood luck!"
-msgstr "  6 de junho de 1944. A 82ª está a caminho da França. Nas primeiras horas do Dia D, ela saltará sobre a Normandia!\n\n  O objetivo do batalhão do 505º é simples, porém ambicioso: tomar a vila de St. Mère-Église rapidamente. A zona de lançamento fica a noroeste da cidade, portanto o plano é se concentrar e mover-se para o sudeste em direção a ela.\n\n  Um pouco antes das 2h, o 505º salta na escuridão, sem saber que a formação está voando muito mais alto do que deveria.\n\nBoa sorte!"
+msgstr "  6 de junho de 1944. A 82ª está a caminho da França. Nas primeiras horas do Dia D, ela saltará sobre a Normandia!\n\n  O objetivo do 505º Batalhão é simples, porém ambicioso: tomar a vila de St. Mère-Église rapidamente. A zona de lançamento fica a noroeste da cidade, portanto o plano é se concentrar e mover-se para o sudeste em direção a ela.\n\n  Um pouco antes das 2h, o 505º salta na escuridão, sem saber que a formação está voando muito mais alto do que deveria.\n\nBoa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/task0"
 msgid "Find a weapon!"

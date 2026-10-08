@@ -50,11 +50,11 @@ msgstr "Canhão M1 de 57mm L/50"
 
 msgctxt "desc/weapon/60mm_m2"
 msgid "60mm M2 Mortar"
-msgstr "60mm M2 Morteiro"
+msgstr "Morteiro M2 de 60mm"
 
 msgctxt "desc/weapon/75mm_m1a1_how"
 msgid "75mm Howitzer M1A1 L/15.9"
-msgstr "75mm Obuseiro M1A1 L/15.9"
+msgstr "Obuseiro M1A1 de 75mm L/15.9"
 
 msgctxt "desc/weapon/75mm_m2"
 msgid "75mm Gun M2 L/31"
@@ -62,7 +62,7 @@ msgstr "Canhão M2 de 75mm L/31"
 
 msgctxt "desc/weapon/75mm_m2_how"
 msgid "75mm Howitzer M2 L/15.9"
-msgstr "75mm Obuseiro M2 L/15.9"
+msgstr "Obuseiro M2 de 75mm L/15.9"
 
 msgctxt "desc/weapon/75mm_m3"
 msgid "75mm Gun M3 L/40"
@@ -70,7 +70,7 @@ msgstr "Canhão M3 de 75mm L/40"
 
 msgctxt "desc/weapon/75mm_m3_how"
 msgid "75mm Howitzer M3 L/15.9"
-msgstr "75mm Obuseiro M3 L/15.9"
+msgstr "Obuseiro M3 de 75mm L/15.9"
 
 msgctxt "desc/weapon/75mm_m6"
 msgid "75mm Gun M6 L/39"
@@ -110,7 +110,7 @@ msgstr "Canhão M7 de 3 polegadas L/45"
 
 msgctxt "desc/weapon/81mm_m1"
 msgid "81mm M1 Mortar"
-msgstr "81mm M1 Morteiro"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "desc/weapon/90mm_m1a1"
 msgid "90mm Gun M1A1 L/55"
@@ -134,19 +134,19 @@ msgstr "Canhão T15E1 de 90mm L/73"
 
 msgctxt "desc/weapon/105mm_m2a1"
 msgid "105mm Howitzer M2A1 L/22"
-msgstr "105mm Obuseiro M2A1 L/22"
+msgstr "Obuseiro M2A1 de 105mm L/22"
 
 msgctxt "desc/weapon/105mm_m3"
 msgid "105mm Howitzer M3 L/17.9"
-msgstr "105mm Obuseiro M3 L/17.9"
+msgstr "Obuseiro M3 de 105mm L/17.9"
 
 msgctxt "desc/weapon/105mm_m4"
 msgid "105mm Howitzer M4 L/22.5"
-msgstr "105mm Obuseiro M4 L/22.5"
+msgstr "Obuseiro M4 de 105mm L/22.5"
 
 msgctxt "desc/weapon/107mm_m2"
 msgid "4.2-inch M2 Mortar"
-msgstr "4.2-inch M2 Morteiro"
+msgstr "Morteiro M2 de 4.2-inch"
 
 msgctxt "desc/weapon/114mm_m1"
 msgid "4.5-inch Gun M1 L/43"
@@ -170,7 +170,7 @@ msgstr "155mm GPF L/38.2"
 
 msgctxt "desc/weapon/155mm_m1"
 msgid "155mm Howitzer M1 L/23"
-msgstr "155mm Obuseiro M1 L/23"
+msgstr "Obuseiro M1 de 155mm L/23"
 
 msgctxt "desc/weapon/155mm_m1a1_longtom"
 msgid "155mm Gun M1A1 L/45"
@@ -186,11 +186,11 @@ msgstr "155mm Schneider L/15"
 
 msgctxt "desc/weapon/203mm_m1"
 msgid "8-inch Howitzer M1 L/25"
-msgstr "8-inch Obuseiro M1 L/25"
+msgstr "Obuseiro M1 de 8-inch L/25"
 
 msgctxt "desc/weapon/flaregun_anm8"
 msgid "AN-M8 Flare Pistol"
-msgstr "AN-M8 Pistola Sinalizadora"
+msgstr "Pistola Sinalizadora AN-M8"
 
 msgctxt "desc/weapon/bar"
 msgid "M1918A2 BAR"
@@ -202,19 +202,19 @@ msgstr "M1918A2 BAR"
 
 msgctxt "desc/weapon/bazooka_m1"
 msgid "M1 'Bazooka' Anti-tank Launcher"
-msgstr "M1 'Bazooka' Lançador Antitanque"
+msgstr "Lançador Antitanque M1 'Bazooka'"
 
 msgctxt "desc/weapon/bazooka_m1a1"
 msgid "M1A1 'Bazooka' Anti-tank Launcher"
-msgstr "M1A1 'Bazooka' Lançador Antitanque"
+msgstr "Lançador Antitanque M1A1 'Bazooka'"
 
 msgctxt "desc/weapon/bazooka_m9"
 msgid "M9 'Bazooka' Anti-tank Launcher"
-msgstr "M9 'Bazooka' Lançador Antitanque"
+msgstr "Lançador Antitanque M9 'Bazooka'"
 
 msgctxt "desc/weapon/bazooka_m9a1"
 msgid "M9A1 'Bazooka' Anti-tank Launcher"
-msgstr "M9A1 'Bazooka' Lançador Antitanque"
+msgstr "Lançador Antitanque M9A1 'Bazooka'"
 
 msgctxt "desc/weapon/bomb_dropper_p47"
 msgid "4x Fab-100"
@@ -354,7 +354,7 @@ msgstr "M1911A1"
 
 msgctxt "desc/weapon/recoilless_m18"
 msgid "M18 Recoilless Rifle"
-msgstr "Fuzil Sem-recuo M18"
+msgstr "Canhão Sem Recuo M18"
 
 msgctxt "desc/weapon/thompson_m1_20"
 msgid "M1 Thompson (Stick 20)"

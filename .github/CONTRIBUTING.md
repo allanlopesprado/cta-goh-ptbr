@@ -63,6 +63,7 @@ e de atualizar o manifesto, os catálogos PT-BR e os registros de revisão.
 ```powershell
 node --test tools/*.test.mjs
 node tools/translation-audit.mjs --check
+node tools/context-quality.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
 node tools/release-translation.mjs --check
@@ -71,6 +72,12 @@ node tools/release-translation.mjs --check
 A revisão de 7 de outubro de 2026 passou nos 52 testes então existentes. O número
 pode crescer com novas contribuições; registre o resultado da execução atual.
 O fechamento de publicação acrescenta testes do fluxo de release aos 52 originais.
+A revisão proativa de 8 de outubro passou nos 84 testes então existentes.
+O manifesto `translation/context-quality.json` protege decisões por arquivo,
+contexto e fonte exata, incluindo diferenças legítimas de sentido. Se mudar uma
+decisão protegida, registre a justificativa e revise a regra correspondente;
+não apague regras apenas para contornar uma falha. A cobertura e as decisões
+estão em `translation/proactive-review-2026-10-08.json`.
 O build gera `dist/default.pak`, não altera a instalação do jogo e não publica uma
 Release. Não inclua arquivos gerados ou não relacionados no pull request.
 

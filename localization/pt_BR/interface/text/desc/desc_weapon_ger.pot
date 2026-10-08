@@ -18,7 +18,7 @@ msgstr "13mm MG131"
 
 msgctxt "desc/weapon/14mm_flammenwerfer_pz3"
 msgid "14mm Flammenwerfer"
-msgstr "14mm Flammenwerfer"
+msgstr "Lança-chamas de 14mm"
 
 msgctxt "desc/weapon/20mm_flak30"
 msgid "2cm Flak 30 L/65"
@@ -422,7 +422,7 @@ msgstr "Karabiner 98k (Mira Telescópica)"
 
 msgctxt "desc/weapon/leuchtpistole34"
 msgid "Leuchtpistole 34 Flare Pistol"
-msgstr "Leuchtpistole 34 Pistola Sinalizadora"
+msgstr "Pistola Sinalizadora Leuchtpistole 34"
 
 msgctxt "desc/weapon/luger"
 msgid "Luger LP08"
@@ -590,11 +590,11 @@ msgstr "MG 26(t)"
 
 msgctxt "desc/weapon/14mm_flammenwerfer_251_16_L"
 msgid "14mm Flammenwerfer"
-msgstr "14mm Flammenwerfer"
+msgstr "Lança-chamas de 14mm"
 
 msgctxt "desc/weapon/14mm_flammenwerfer_251_16_R"
 msgid "14mm Flammenwerfer"
-msgstr "14mm Flammenwerfer"
+msgstr "Lança-chamas de 14mm"
 
 msgctxt "desc/weapon/mg34_belt_long"
 msgid "MG 34 (Belt)"

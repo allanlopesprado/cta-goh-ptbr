@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "date": "2026-10-08",
+  "stage": "local-precommit",
+  "baselineCommit": "acda3f7d1008d38cfdf9e0544462a4a8196fbd7b",
+  "nodeVersion": "24.15.0",
+  "tag": "v1.0.21",
+  "scope": {
+    "catalogs": 362,
+    "logicalEntries": 22030,
+    "adjustedEntries": 2414,
+    "changedCatalogs": 140,
+    "retainedEntries": 19616,
+    "gameTested": false
+  },
+  "tests": {
+    "command": "node --test tools/*.test.mjs",
+    "passed": 84,
+    "failed": 0,
+    "skipped": 0
+  },
+  "audit": {
+    "command": "node tools/translation-audit.mjs --check",
+    "exitCode": 0,
+    "files": {
+      "previousEnglish": 362,
+      "portuguese": 362,
+      "currentEnglish": 362
+    },
+    "counts": {
+      "unchanged": 22030,
+      "added": 0,
+      "changed": 0,
+      "removed": 0,
+      "translatedExact": 21893,
+      "needsTranslationReview": 0
+    },
+    "addedFiles": [],
+    "removedFiles": [],
+    "changedFiles": [],
+    "issuesByType": {
+      "same-as-source-review": 3790,
+      "catalog-syntax-error": 66
+    },
+    "duplicates": 92,
+    "sourceExceptionsUsed": 1,
+    "interpretation": "Os 3.790 textos iguais à fonte são candidatos/contextos de nomes, códigos etc.; os 66 diagnósticos herdados não representam 66 erros novos. Zero issues bloqueantes não é certificação semântica."
+  },
+  "contextualRegressions": {
+    "command": "node tools/context-quality.mjs --check",
+    "rules": 2436,
+    "files": 144,
+    "issues": [],
+    "changedEntryRules": 2414,
+    "retainedSentinels": 22
+  },
+  "exactPlan": {
+    "englishCatalogsByteUnchanged": 362,
+    "portugueseCatalogsEqualApprovedCompletePlan": 362,
+    "approvedParts": 9,
+    "allLogicalEntriesHaveContextualDecision": true,
+    "remainingNormalizedVariantGroupsReviewed": 28,
+    "sourceExceptionCountUnchanged": 1
+  },
+  "package": {
+    "command": "node tools/pack-translation.mjs --check",
+    "file": "dist/default.pak",
+    "files": 363,
+    "bytes": 3814331,
+    "archiveBytes": 3883805,
+    "crc32": "verified",
+    "content": "exact expected bytes",
+    "root": "default/",
+    "locale": "pt_BR",
+    "sha256": "d11583c149666e433bddc567163c18d6ce972c7a2068e200d49fcbdcf03d7753",
+    "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+    "sourceReferenceDate": "2026-10-07",
+    "originalUserPackageHashVerifiedUnchanged": true,
+    "independentQa": "Leitor ZIP em memória independente com CRC32 bit a bit e todos os 363 membros comparados individualmente; inventário/conteúdo via libarchive e reconstrução em memória byte-idêntica. Nenhuma instalação ou escrita no jogo."
+  },
+  "release": {
+    "command": "node tools/release-translation.mjs --check v1.0.21",
+    "exitCode": 0,
+    "metadata": "translation/release.json",
+    "checksum": "dist/default.pak.sha256",
+    "notes": "dist/release-notes.md",
+    "publishedThisStage": false,
+    "committedThisStage": false
+  },
+  "documentation": {
+    "powershellFencesParsed": 3,
+    "powershellSyntaxErrors": 0,
+    "checksumPositiveAndNegativeCasesPassed": true,
+    "installerExecuted": false,
+    "downloadLinksPointToPublishedRelease": true
+  },
+  "artifacts": [
+    {
+      "file": "translation/proactive-review-2026-10-08.json",
+      "sha256": "a671b38d5bcfc94df4d31ef34908b00bda5fbb01a3f6dfd6da3671d8d15613ae",
+      "generatedDataEqualFrozenReview": true
+    },
+    {
+      "file": "translation/context-quality.json",
+      "sha256": "fbebcf03bd15fd13780a58c6f7a308f12b4f40d2e76c4c96a07fdb24bf7c7dab",
+      "generatedDataEqualFrozenReview": true
+    }
+  ],
+  "gitDiffCheck": "passed",
+  "interpretation": "Escopo: leitura contextual, decisões editoriais/linguísticas, configuração quando disponível e integridade de arquivos/pacote. Não é certificação visual, de áudio, jogabilidade, historiografia ou ausência universal de erros."
+}

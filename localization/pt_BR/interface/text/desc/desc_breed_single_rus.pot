@@ -27,7 +27,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1941_summer/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1941_summer/assault-sap_1"
 msgid "Assault Sapper [KA]"
@@ -219,7 +219,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1941_win/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1941_win/artilleryman"
 msgid "Artilleryman [KA]"
@@ -407,7 +407,7 @@ msgstr "Operadores Especiais de Rec. [KA]"
 
 msgctxt "desc/human/single/rus/1941_win/spetsnaz_radioman"
 msgid "Recon Radioman [KA]"
-msgstr "Radiooperador de Rec. [KA]"
+msgstr "Radioperador de Rec. [KA]"
 
 msgctxt "desc/human/single/rus/1941_win/tankman"
 msgid "Tankman [KA]"
@@ -431,7 +431,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_autumn/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_autumn/assault-sap_1"
 msgid "Assault Sapper [KA]"
@@ -615,7 +615,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_summer/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_summer/assault-sap_1"
 msgid "Assault Sapper [KA]"
@@ -803,7 +803,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/assault-sapper_1"
 msgid "Assault Sapper [KA]"
@@ -907,19 +907,19 @@ msgstr "Condenado Recruta [NKVD]"
 
 msgctxt "desc/human/single/rus/1942_win/para_1"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/para_2"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/para_3"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/para_4"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/single/rus/1942_win/partisan_1"
 msgid "Partisan [KA]"
@@ -1003,7 +1003,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1943_summer/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1943_summer/commisar"
 msgid "Commissar [KA]"
@@ -1187,7 +1187,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1943_win/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1943_win/assault-sap_1"
 msgid "Assault Sapper [KA]"
@@ -1371,7 +1371,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1944_summer/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/single/rus/1944_summer/assault-sap_1"
 msgid "Assault Sapper [KA]"

@@ -84,7 +84,7 @@ msgstr "Bom trabalho! Agora nossa coluna pode avançar novamente."
 
 msgctxt "mission/single/04-usa/1944_08_mortain/narrator/06"
 msgid "Panther! Panther blocking the road! Combat spread!"
-msgstr "Panther! Panther bloqueando a estrada! Formação de combate!"
+msgstr "Panther! Panther bloqueando a estrada! Abram a formação de combate!"
 
 msgctxt "mission/single/04-usa/1944_08_mortain/narrator/07"
 msgid "Alright, I need that Panther to be taken out! Take the infantry carriers and flank the enemy through the west. We cannot risk losing more tanks, and we're no match for a Panther's frontal armour."
@@ -104,7 +104,7 @@ msgstr "Estão recuando!"
 
 msgctxt "mission/single/04-usa/1944_08_mortain/narrator/11"
 msgid "Never mind, they're not retreating, they're regrouping! This must be their main assault! More panthers!"
-msgstr "Não importa — não estão recuando, estão se reagrupando! Este deve ser o assalto principal deles! Mais Panthers!"
+msgstr "Esqueçam o que eu disse — não estão recuando, estão se reagrupando! Este deve ser o assalto principal deles! Mais Panthers!"
 
 msgctxt "mission/single/04-usa/1944_08_mortain/narrator/12"
 msgid "Reinforcements are at your disposal. Maintain control of that village, Lieutenant. "
@@ -116,7 +116,7 @@ msgstr "Sim, senhor."
 
 msgctxt "mission/single/04-usa/1944_08_mortain/narrator2/02"
 msgid "Alright, boys, we have places to go, keep moving! .... "
-msgstr "Certo, rapazes — temos lugares a ir, continuem avançando!..."
+msgstr "Certo, rapazes — temos lugares aonde ir, continuem avançando!..."
 
 msgctxt "mission/single/04-usa/1944_08_mortain/outro_completed"
 msgid "Well done! You just repelled a huge German counterattack. The threat of a breakthrough is off the table now, and your tactical skill has not gone unnoticed. Who knows, maybe General Watson will even reward you for this. Keep it up!"
@@ -136,7 +136,7 @@ msgstr "Retome o bloqueio!"
 
 msgctxt "mission/single/04-usa/1944_08_mortain/story"
 msgid " August 7th, 1944. You have been in France for two months now, and there’s no end in sight. Operation Cobra was a success, and the breakout from Normandy is a fact. Officially, Operation Cobra ended yesterday. Today, the enemy is counterattacking from the area of Mortain!\n\n We have orders to support the infantry that is taking the brunt of the counteroffensive. Move your armored column forward on the road to le Mesnil- Adelee, to establish contact with the 199th infantry Regiment at their roadblock, south of the town. When you get there, assess the situation and act accordingly. Your goal is to take the village. You must maintain a high level of situational awareness at all times, and keep communications to HQ open for further orders.\n\nGood luck!"
-msgstr " 7 de agosto de 1944. Você está na França há dois meses e não há fim à vista. A Operação Cobra foi um sucesso, e a saída da Normandia é um fato. Oficialmente, a Operação Cobra terminou ontem. Hoje, o inimigo está contra-atacando a partir da área de Mortain!\n\n Temos ordens de apoiar a infantaria que está suportando o peso da contra-ofensiva. Mova sua coluna blindada pela estrada até Le Mesnil-Adelee, para estabelecer contato com o 199º Regimento de Infantaria em seu bloqueio de estrada, ao sul da cidade. Quando chegar lá, avalie a situação e aja de acordo. Seu objetivo é tomar a vila. Você deve manter um alto nível de consciência situacional o tempo todo, e manter as comunicações com o QG abertas para ordens adicionais.\n\nBoa sorte!"
+msgstr " 7 de agosto de 1944. Você está na França há dois meses e não há fim à vista. A Operação Cobra foi um sucesso, e a saída da Normandia é um fato. Oficialmente, a Operação Cobra terminou ontem. Hoje, o inimigo está contra-atacando a partir da área de Mortain!\n\n Temos ordens de apoiar a infantaria que está suportando o peso da contraofensiva. Mova sua coluna blindada pela estrada até Le Mesnil-Adelee, para estabelecer contato com o 199º Regimento de Infantaria em seu bloqueio de estrada, ao sul da cidade. Quando chegar lá, avalie a situação e aja de acordo. Seu objetivo é tomar a vila. Você deve manter um alto nível de consciência situacional o tempo todo, e manter as comunicações com o QG abertas para ordens adicionais.\n\nBoa sorte!"
 
 msgctxt "mission/single/04-usa/1944_08_mortain/task4"
 msgid "Fend off the main enemy force."

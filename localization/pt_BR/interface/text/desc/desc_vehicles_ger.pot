@@ -486,7 +486,7 @@ msgstr "<c(c3baae)>Caminhão de Munição</c>"
 
 msgctxt "desc/entity/blitz3_6_engineering"
 msgid "Opel Blitz (Engineer)"
-msgstr "Opel Blitz (Engenheiro)"
+msgstr "Opel Blitz (Engenharia)"
 
 msgctxt "info/special/blitz3_6_engineering"
 msgid "<c(c3baae)>Engineering Truck</c>"
@@ -562,7 +562,7 @@ msgstr "Lafette MG 34"
 
 msgctxt "info/special/heavy_mg_mg34"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/hetzer"
 msgid "Jagdpanzer 38"
@@ -614,7 +614,7 @@ msgstr "<c(c3baae)>Transporte</c>"
 
 msgctxt "desc/entity/kettenkrad_eng"
 msgid "Sd.Kfz 2 (Engineer)"
-msgstr "Sd.Kfz 2 (Engenheiro)"
+msgstr "Sd.Kfz 2 (Engenharia)"
 
 msgctxt "info/special/kettenkrad_eng"
 msgid "<c(c3baae)>Transport</c>"
@@ -698,7 +698,7 @@ msgstr "Lafette MG 34"
 
 msgctxt "info/special/mg34_lafette"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/mg42_lafette"
 msgid "Lafette MG 42"
@@ -706,7 +706,7 @@ msgstr "Lafette MG 42"
 
 msgctxt "info/special/mg42_lafette"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/opel_maultier"
 msgid "Opel Maultier"
@@ -946,7 +946,7 @@ msgstr "Pz.Kpfw 731(r) 'T-37'"
 
 msgctxt "info/special/panzer731r"
 msgid "<c(c3baae)>Beutepanzer</c>"
-msgstr "<c(c3baae)>Beutepanzer</c>"
+msgstr "<c(c3baae)>Tanque Capturado</c>"
 
 msgctxt "desc/entity/panzer742r"
 msgid "Pz.Kpfw 742(r) 'BT'"
@@ -954,7 +954,7 @@ msgstr "Pz.Kpfw 742(r) 'BT'"
 
 msgctxt "info/special/panzer742r"
 msgid "<c(c3baae)>Beutepanzer</c>"
-msgstr "<c(c3baae)>Beutepanzer</c>"
+msgstr "<c(c3baae)>Tanque Capturado</c>"
 
 msgctxt "desc/entity/panzerb2"
 msgid "Pz.Kpfw B2 740(f)"

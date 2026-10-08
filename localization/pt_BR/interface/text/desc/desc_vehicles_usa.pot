@@ -30,7 +30,7 @@ msgstr "<c(c3baae)>Detonador de Minas</c>"
 
 msgctxt "desc/entity/ammo_trailer_usa"
 msgid "Cargo Trailer 1/4-Ton (Supply)"
-msgstr "Cargo Trailer 1/4-Ton (Suprimentos)"
+msgstr "Reboque de Carga 1/4-Ton (Suprimentos)"
 
 msgctxt "info/special/ammo_trailer_usa"
 msgid "<c(c3baae)>Ammo Trailer</c>"
@@ -102,7 +102,7 @@ msgstr "Browning M1917A1"
 
 msgctxt "info/special/m1917_30cal"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/heavy_mg_m1917_30cal"
 msgid "Browning M1917A1"
@@ -110,7 +110,7 @@ msgstr "Browning M1917A1"
 
 msgctxt "info/special/heavy_mg_m1917_30cal"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/m2_30cal_tripod"
 msgid "Browning M1919A4"
@@ -118,7 +118,7 @@ msgstr "Browning M1919A4"
 
 msgctxt "info/special/m2_30cal_tripod"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/m2_50cal_tripod"
 msgid "Browning M2HB"
@@ -126,11 +126,11 @@ msgstr "Browning M2HB"
 
 msgctxt "info/special/m2_50cal_tripod"
 msgid "<c(c3baae)>Heavy MG</c>"
-msgstr "<c(c3baae)>MG Pesado</c>"
+msgstr "<c(c3baae)>MG Pesada</c>"
 
 msgctxt "desc/entity/37mm_m3"
 msgid "37mm Gun M3"
-msgstr "37mm Canhão M3"
+msgstr "Canhão M3 de 37mm"
 
 msgctxt "info/special/37mm_m3"
 msgid "<c(c3baae)>Light AT Gun</c>"
@@ -138,7 +138,7 @@ msgstr "<c(c3baae)>Canhão AT Leve</c>"
 
 msgctxt "desc/entity/37mm_m3a1"
 msgid "37mm Gun M3A1"
-msgstr "37mm Canhão M3A1"
+msgstr "Canhão M3A1 de 37mm"
 
 msgctxt "info/special/37mm_m3a1"
 msgid "<c(c3baae)>Light AT Gun</c>"
@@ -146,7 +146,7 @@ msgstr "<c(c3baae)>Canhão AT Leve</c>"
 
 msgctxt "desc/entity/40mm_m1"
 msgid "40mm Automatic Gun M1"
-msgstr "40mm Automatic Canhão M1"
+msgstr "Canhão Automático M1 de 40mm"
 
 msgctxt "info/special/40mm_m1"
 msgid "<c(c3baae)>AA Gun</c>"
@@ -170,7 +170,7 @@ msgstr ""
 
 msgctxt "desc/entity/57mm_m1"
 msgid "57mm Gun M1"
-msgstr "57mm Canhão M1"
+msgstr "Canhão M1 de 57mm"
 
 msgctxt "info/special/57mm_m1"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -194,7 +194,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/60mm_m2"
 msgid "60mm Mortar M2"
-msgstr "60mm Morteiro M2"
+msgstr "Morteiro M2 de 60mm"
 
 msgctxt "info/special/60mm_m2"
 msgid "<c(c3baae)>Light Mortar</c>"
@@ -234,7 +234,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Leve</c>"
 
 msgctxt "desc/entity/76mm_m5_m1"
 msgid "3-inch Gun M5 (M1 Carriage)"
-msgstr "3-inch Canhão M5 (M1 Carriage)"
+msgstr "Canhão M5 de 3-inch (Reparo M1)"
 
 msgctxt "info/special/76mm_m5_m1"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -242,7 +242,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/76mm_m5_m6"
 msgid "3-inch Gun M5 (M6 Carriage)"
-msgstr "3-inch Canhão M5 (M6 Carriage)"
+msgstr "Canhão M5 de 3-inch (Reparo M6)"
 
 msgctxt "info/special/76mm_m5_m6"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -250,7 +250,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/81mm_m1"
 msgid "81mm Mortar M1"
-msgstr "81mm Morteiro M1"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "info/special/81mm_m1"
 msgid "<c(c3baae)>Medium Mortar</c>"
@@ -258,7 +258,7 @@ msgstr "<c(c3baae)>Morteiro Médio</c>"
 
 msgctxt "desc/entity/81mm_m1_sm"
 msgid "81mm Mortar M1"
-msgstr "81mm Morteiro M1"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "info/special/81mm_m1_sm"
 msgid "<c(c3baae)>Medium Mortar</c>"
@@ -270,11 +270,11 @@ msgstr "Barragem de Morteiro Médio"
 
 msgctxt "desc/squad/81mm_m1_mortar_barrage"
 msgid "81mm Mortar M1"
-msgstr "81mm Morteiro M1"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "desc/entity/90mm_m1a1"
 msgid "90mm Gun M1A1"
-msgstr "90mm Canhão M1A1"
+msgstr "Canhão M1A1 de 90mm"
 
 msgctxt "info/special/90mm_m1a1"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -282,7 +282,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/90mm_m2"
 msgid "90mm Gun M2"
-msgstr "90mm Canhão M2"
+msgstr "Canhão M2 de 90mm"
 
 msgctxt "info/special/90mm_m2"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -290,7 +290,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/105mm_m2a1"
 msgid "105mm Howitzer M2A1"
-msgstr "105mm Obuseiro M2A1"
+msgstr "Obuseiro M2A1 de 105mm"
 
 msgctxt "info/special/105mm_m2a1"
 msgid "<c(c3baae)>Medium Field Howitzer</c>"
@@ -298,7 +298,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Médio</c>"
 
 msgctxt "desc/entity/105mm_m2a1_sm"
 msgid "105mm Howitzer M2A1"
-msgstr "105mm Obuseiro M2A1"
+msgstr "Obuseiro M2A1 de 105mm"
 
 msgctxt "info/special/105mm_m2a1_sm"
 msgid "<c(c3baae)>Medium Field Howitzer</c>"
@@ -310,7 +310,7 @@ msgstr "Barragem de Fumaça Média"
 
 msgctxt "desc/squad/105mm_m2a1_smoke_barrage"
 msgid "105mm Howitzer M2A1"
-msgstr "105mm Obuseiro M2A1"
+msgstr "Obuseiro M2A1 de 105mm"
 
 msgctxt "desc/entity/105mm_m2a1_artillery_barrage"
 msgid "Medium Artillery Barrage"
@@ -318,11 +318,11 @@ msgstr "Barragem de Artilharia Média"
 
 msgctxt "desc/squad/105mm_m2a1_artillery_barrage"
 msgid "105mm Howitzer M2A1"
-msgstr "105mm Obuseiro M2A1"
+msgstr "Obuseiro M2A1 de 105mm"
 
 msgctxt "desc/entity/105mm_m3"
 msgid "105mm Howitzer M3"
-msgstr "105mm Obuseiro M3"
+msgstr "Obuseiro M3 de 105mm"
 
 msgctxt "info/special/105mm_m3"
 msgid "<c(c3baae)>Medium Field Howitzer</c>"
@@ -330,7 +330,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Médio</c>"
 
 msgctxt "desc/entity/107mm_m2"
 msgid "4.2-inch Mortar M2"
-msgstr "4.2-inch Morteiro M2"
+msgstr "Morteiro M2 de 4.2 polegadas"
 
 msgctxt "info/special/107mm_m2"
 msgid "<c(c3baae)>Heavy Mortar</c>"
@@ -338,7 +338,7 @@ msgstr "<c(c3baae)>Morteiro Pesado</c>"
 
 msgctxt "desc/entity/107mm_m2_sm"
 msgid "4.2-inch Mortar M2"
-msgstr "4.2-inch Morteiro M2"
+msgstr "Morteiro M2 de 4.2 polegadas"
 
 msgctxt "info/special/107mm_m2_sm"
 msgid "<c(c3baae)>Mortar</c>"
@@ -350,11 +350,11 @@ msgstr "Barragem de Morteiro Pesado"
 
 msgctxt "desc/squad/107mm_m2_mortar_barrage"
 msgid "4.2-inch Mortar M2"
-msgstr "4.2-inch Morteiro M2"
+msgstr "Morteiro M2 de 4.2 polegadas"
 
 msgctxt "desc/entity/114mm_m1"
 msgid "4.5-inch Gun M1"
-msgstr "4.5-inch Canhão M1"
+msgstr "Canhão M1 de 4.5-inch"
 
 msgctxt "info/special/114mm_m1"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -370,7 +370,7 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/155mm_m1"
 msgid "155mm Howitzer M1"
-msgstr "155mm Obuseiro M1"
+msgstr "Obuseiro M1 de 155mm"
 
 msgctxt "info/special/155mm_m1"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -382,11 +382,11 @@ msgstr "Barragem de Artilharia Pesada"
 
 msgctxt "desc/squad/155mm_m1_artillery_barrage"
 msgid "155mm Howitzer M1"
-msgstr "155mm Obuseiro M1"
+msgstr "Obuseiro M1 de 155mm"
 
 msgctxt "desc/entity/155mm_m1_sm"
 msgid "155mm Howitzer M1"
-msgstr "155mm Obuseiro M1"
+msgstr "Obuseiro M1 de 155mm"
 
 msgctxt "info/special/155mm_m1_sm"
 msgid "<c(c3baae)>Medium Howitzer</c>"
@@ -394,7 +394,7 @@ msgstr "<c(c3baae)>Obuseiro Médio</c>"
 
 msgctxt "desc/entity/155mm_schneider_us"
 msgid "155mm Howitzer M1917"
-msgstr "155mm Obuseiro M1917"
+msgstr "Obuseiro M1917 de 155mm"
 
 msgctxt "info/special/155mm_schneider_us"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -402,7 +402,7 @@ msgstr "<c(c3baae)>Obuseiro Pesado</c>"
 
 msgctxt "desc/entity/155mm_m1a1_longtom"
 msgid "155mm Gun M1A1 'Long Tom'"
-msgstr "155mm Canhão M1A1 'Long Tom'"
+msgstr "Canhão M1A1 'Long Tom' de 155mm"
 
 msgctxt "info/special/155mm_m1a1_longtom"
 msgid "<c(c3baae)>Heavy Field Gun</c>"
@@ -410,7 +410,7 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/155mm_m1a1_longtom_sm"
 msgid "155mm Gun M1A1 'Long Tom'"
-msgstr "155mm Canhão M1A1 'Long Tom'"
+msgstr "Canhão M1A1 'Long Tom' de 155mm"
 
 msgctxt "info/special/155mm_m1a1_longtom_sm"
 msgid "<c(c3baae)>Heavy Field Gun</c>"
@@ -418,7 +418,7 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/203mm_m1"
 msgid "8-inch Howitzer M1"
-msgstr "8-inch Obuseiro M1"
+msgstr "Obuseiro M1 de 8-inch"
 
 msgctxt "info/special/203mm_m1"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -450,7 +450,7 @@ msgstr "<c(c3baae)>Caminhão de Munição</c>"
 
 msgctxt "desc/entity/cckw_engineer"
 msgid "GMC CCKW-352 (Engineer)"
-msgstr "GMC CCKW-352 (Engenheiro)"
+msgstr "GMC CCKW-352 (Engenharia)"
 
 msgctxt "info/special/cckw_engineer"
 msgid "<c(c3baae)>Engineering Truck</c>"
@@ -458,7 +458,7 @@ msgstr "<c(c3baae)>Caminhão de Engenharia</c>"
 
 msgctxt "desc/entity/cckw_engineer_late"
 msgid "GMC CCKW-352 (HMG) (Engineer)"
-msgstr "GMC CCKW-352 (HMG) (Engenheiro)"
+msgstr "GMC CCKW-352 (HMG) (Engenharia)"
 
 msgctxt "info/special/cckw_engineer_late"
 msgid "<c(c3baae)>Engineering Truck</c>"
@@ -738,7 +738,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/m4_mortar_carrier"
 msgid "81mm Mortar Carrier M4"
-msgstr "Transportador de Morteiro 81mm M4"
+msgstr "Transportador M4 de Morteiro de 81mm"
 
 msgctxt "info/special/m4_mortar_carrier"
 msgid "<c(c3baae)>Mortar Carrier</c>"
@@ -802,7 +802,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/m4a1_mortar_carrier"
 msgid "81mm Mortar Carrier M4A1"
-msgstr "Transportador de Morteiro 81mm M4A1"
+msgstr "Transportador M4A1 de Morteiro de 81mm"
 
 msgctxt "info/special/m4a1_mortar_carrier"
 msgid "<c(c3baae)>Mortar Carrier</c>"
@@ -842,7 +842,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/m4a3_75w_e4_5"
 msgid "M4A3(75)W 'E4-5' (Flame)"
-msgstr "M4A3(75)W 'E4-5' (Chamas)"
+msgstr "M4A3(75)W 'E4-5' (Lança-chamas)"
 
 msgctxt "info/special/m4a3_75w_e4_5"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -1098,7 +1098,7 @@ msgstr "<c(c3baae)>Utilitário Blindado</c>"
 
 msgctxt "desc/entity/m21_mortar_carrier"
 msgid "81mm Mortar Carrier M21"
-msgstr "Transportador de Morteiro 81mm M21"
+msgstr "Transportador M21 de Morteiro de 81mm"
 
 msgctxt "info/special/m21_mortar_carrier"
 msgid "<c(c3baae)>Mortar Carrier</c>"

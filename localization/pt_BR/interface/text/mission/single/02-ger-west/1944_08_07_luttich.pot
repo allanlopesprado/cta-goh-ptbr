@@ -58,7 +58,7 @@ msgstr "A cidade está apenas levemente defendida. Coloco nosso Panzeraufklärer
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/03"
 msgid "You should be able to make quick work of the Americans, but you don't have a lot of manpower. Advance cautiously and don't take unnecessary risks."
-msgstr "Você deve conseguir neutralizar rapidamente os americanos, mas não tem muito efetivo. Avance com cautela e não tome riscos desnecessários."
+msgstr "Você deve conseguir neutralizar rapidamente os americanos, mas não tem muito efetivo. Avance com cautela e não corra riscos desnecessários."
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/04"
 msgid "Ah, look what the Americans left us! What a beautiful half-track!"
@@ -74,7 +74,7 @@ msgstr "Os Panzergrenadiere do Kampfgruppe Zander encontraram resistência nas a
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/07"
 msgid "I place some of our armor under your command. Keep the enemy pinned at maximum range, where you will be impervious to their 57mm AT guns. "
-msgstr "Coloco parte de nossos blindados sob seu comando. Mantenha o inimigo imobilizado no alcance máximo, onde estará a salvo dos canhões AT de 57mm deles."
+msgstr "Coloco parte de nossos blindados sob seu comando. Mantenha o inimigo imobilizado pelo fogo no alcance máximo, onde estará a salvo dos canhões AT de 57mm deles."
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/08"
 msgid "Enemy counterattack from the direction of Chérencé le Roussel! Deal with those Americans, Herr Leutnant!"
@@ -82,7 +82,7 @@ msgstr "Contra-ataque inimigo da direção de Chérencé le Roussel! Lide com es
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/081"
 msgid "Well done Herr Leutnant. Despite the effort, we have not reached Chérencé le Roussel; US defenses have not collapsed, and the constant counter attacks are grinding our offensive momentum to a halt. "
-msgstr "Muito bem, Herr Leutnant. Apesar do esforço, não alcançamos Chérencé le Roussel — as defesas americanas não entraram em colapso, e os constantes contra-ataques estão desgastando nosso impulso ofensivo."
+msgstr "Muito bem, Herr Leutnant. Apesar do esforço, não alcançamos Chérencé le Roussel — as defesas americanas não entraram em colapso, e os constantes contra-ataques estão freando nossa ofensiva até paralisá-la."
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/09"
 msgid "..... Attention! The Americans are threatening Le-Mesnil-Tôve from our rear! We cannot afford to lose this position! I order you to turn around immediately! Come back to the town and reinforce the garrison!"
@@ -106,7 +106,7 @@ msgstr "Recebemos nossos últimos reforços, Herr Leutnant. Alguns engenheiros e
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/narrator/sniper"
 msgid "Attention! Enemy sniper on top of that grain silo!"
-msgstr "Atenção! Atirador de elite inimigo no topo daquele silo de grãos!"
+msgstr "Atenção! Franco-atirador inimigo no topo daquele silo de grãos!"
 
 msgctxt "mission/single/02-ger-west/1944_08_07_luttich/outro_completed"
 msgid "Excellent work! The Oberkommando will be delighted with your leadership. We might win the battle for Normandy after all, after which we’ll probably go back to the eastern front to beat the Soviets. Good job!"

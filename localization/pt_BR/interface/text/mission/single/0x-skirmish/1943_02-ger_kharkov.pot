@@ -70,7 +70,7 @@ msgstr "Parabéns! Seu contra-ataque foi executado de forma brilhante. A linha d
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_failed"
 msgid "This was a failure, maybe not surprising - considering the enemy has enjoyed overwhelming numerical superiority. Whatever is left of your troops will now retreat in chaos with the red army in hot pursuit."
-msgstr "Este foi um fracasso, talvez não surpreendente — considerando que o inimigo desfrutou de uma superioridade numérica avassaladora. O que resta de suas tropas agora recuará em caos, com o Exército Vermelho em perseguição."
+msgstr "Este foi um fracasso, talvez não surpreendente — considerando que o inimigo desfrutou de uma superioridade numérica avassaladora. O que resta de suas tropas agora recuará em caos, com o Exército Vermelho em perseguição cerrada."
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/outro_failed_hq"
 msgid "Mission failed - the enemy captured your HQ!"
@@ -78,7 +78,7 @@ msgstr "Missão fracassada - o inimigo capturou o seu QG!"
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/mission_attack"
 msgid "Capture the outskirts of Kharkov!"
@@ -98,11 +98,11 @@ msgstr "Você precisa atacar em velocidade máxima! Use a mobilidade de seus bli
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start2"
 msgid "The soviets deployed many tanks. Make sure you spot them before rushing in!"
-msgstr "Os soviéticos implantaram muitos tanques. Certifique-se de detectá-los antes de avançar!"
+msgstr "Os soviéticos posicionaram muitos tanques. Certifique-se de detectá-los antes de avançar!"
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/narrator_start3"
 msgid "Begin securing the objectives, meanwhile more reinforcements are being prepared for deployment!"
-msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para implantação!"
+msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para envio ao campo de batalha!"
 
 msgctxt "mission/single/02-ger_skirmish/1943_02-ger_kharkov/allied_enemy_near_hq"
 msgid "Comrades! Soviets are close to our Field HQ!"

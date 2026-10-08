@@ -58,7 +58,7 @@ msgstr "Deus Todo-Poderoso, este lugar tinha uma aparência bem melhor na primei
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/02"
 msgid "Shut it. Our situation is no laughing matter. We're about to be surrounded by an overwhelming force with little to counter their relentless counterattack. The only thing playing in our favor is the stellar performance of our close air support."
-msgstr "Cale-se. Nossa situação não é motivo de riso. Estamos prestes a ser cercados por uma força avassaladora com pouco para contrariar seu implacável contra-ataque. A única coisa a nosso favor é o desempenho excepcional de nosso apoio aéreo aproximado."
+msgstr "Cale-se. Nossa situação não é motivo de riso. Estamos prestes a ser cercados por uma força avassaladora e temos poucos meios para conter seu implacável contra-ataque. A única coisa a nosso favor é o desempenho excepcional de nosso apoio aéreo aproximado."
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03"
 msgid "The Mayo"
@@ -166,7 +166,7 @@ msgstr "\"Wirsing\" a caminho para metralhar suas coordenadas."
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/flak1"
 msgid "Our planes are reporting enemy anti-aircraft artillery in the area. They are reluctant to continue close air support strikes until the AAA is taken out. Find them and destroy them!"
-msgstr "Nossas aeronaves reportam artilharia antiaérea inimiga na área. Elas relutam em continuar os ataques de apoio aéreo aproximado até que a AAA seja eliminada. Encontre-as e destrua-as!"
+msgstr "Nossas aeronaves reportam artilharia antiaérea inimiga na área. Elas relutam em continuar os ataques de apoio aéreo aproximado até que essa artilharia seja eliminada. Localize e destrua as peças antiaéreas inimigas!"
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/narrator/officer/n_1"
 msgid "Soviet avalanche from the north!"
@@ -226,7 +226,7 @@ msgstr "Droga! Soviéticos perto do nosso quartel-general! Nossa equipe deve ser
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/outro_completed"
 msgid "The solid stand of the 9th Army along with the heroic contribution of the Luftwaffe caused Konev's forces to fail in their encirclement of Army Group Centre. The counterattack of the Soviets stagnated in February. The new frontline layout led to the Rzhev meat grinder and other battles where, despite terrible losses, the Soviet sacrifice had secured the capital. Hitler then turned south towards the Caucasus and Stalingrad, meaning that Moscow would be securely in Soviet hands and no future attempts to capture it would take place. Operation Typhoon had failed."
-msgstr "A resistência sólida do 9º Exército, aliada à contribuição heróica da Luftwaffe, fez com que as forças de Konev fracassassem no cerco do Grupo de Exércitos Centro. O contra-ataque dos soviéticos estancou em fevereiro. O novo traçado da linha de frente levou ao moedor de carne de Rzhev e a outras batalhas onde, apesar das terríveis perdas, o sacrifício soviético havia assegurado a capital. Hitler então voltou-se para o sul, em direção ao Cáucaso e a Stalingrado, o que significou que Moscou permaneceria firmemente nas mãos soviéticas e nenhuma tentativa futura de capturá-la ocorreria. A Operação Tufão havia fracassado."
+msgstr "A resistência sólida do 9º Exército, aliada à contribuição heroica da Luftwaffe, fez com que as forças de Konev fracassassem no cerco do Grupo de Exércitos Centro. O contra-ataque dos soviéticos estancou em fevereiro. O novo traçado da linha de frente levou ao moedor de carne de Rzhev e a outras batalhas onde, apesar das terríveis perdas, o sacrifício soviético havia assegurado a capital. Hitler então voltou-se para o sul, em direção ao Cáucaso e a Stalingrado, o que significou que Moscou permaneceria firmemente nas mãos soviéticas e nenhuma tentativa futura de capturá-la ocorreria. A Operação Tufão havia fracassado."
 
 msgctxt "mission/single/02-ger/1942_01_vyazma/outro_failed"
 msgid "Losing this battle means the main body of Army Group Centre will quickly be surrounded and, their supplies dwindling, a catastrophic loss of men and vehicles seems at hand. Not only that; we have lost control over the Dnieper crossings once again. This is even worse than going back to square one."

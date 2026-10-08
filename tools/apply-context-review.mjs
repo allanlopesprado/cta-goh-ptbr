@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {parseCatalog, effectiveSource, sourceSignature, protectedTokens, printfArguments} from './translation-audit.mjs';
+import {parseCatalog, matchCatalogTranslation, actionableCatalogSyntax, sourceSignature, protectedTokens, printfArguments} from './translation-audit.mjs';
 
 export const sha256 = value => createHash('sha256').update(value).digest('hex');
 const equal = (a,b) => JSON.stringify(a) === JSON.stringify(b);
@@ -25,16 +25,15 @@ export function planCatalogChanges(englishText, portugueseText, changes, filenam
  const patches=[], seen=new Set();
  for(const change of changes) {
   if(!['context','source','before','after','reason'].every(k=>typeof change[k]==='string') || !change.reason.trim()) throw new Error(filename+': incomplete change');
-  const sources=en.filter(e=>e.msgctxt===change.context && effectiveSource(e)===change.source);
-  const signatures=[...new Set(sources.map(sourceSignature))];
-  if(signatures.length!==1) throw new Error(filename+': missing/ambiguous English source: '+change.context);
-  const signature=signatures[0];
-  const key=JSON.stringify([change.context,signature]);
-  if(seen.has(key)) throw new Error(filename+': duplicate proposed change: '+change.context);
-  seen.add(key);
-  const matches=pt.filter(e=>!e.header && e.msgctxt===change.context && sourceSignature(e)===signature);
+  const {signature,matches,ambiguousEmptySource}=matchCatalogTranslation(en,pt,change.context,change.source);
+  if(signature===undefined) throw new Error(filename+': missing/ambiguous English source: '+change.context);
+  if(ambiguousEmptySource&&matches.length===0) throw new Error(filename+': ambiguous legacy English sources require an explicit Portuguese source: '+change.context);
   if(matches.length!==1) throw new Error(filename+': missing/ambiguous Portuguese entry: '+change.context);
   const entry=matches[0];
+  const key=JSON.stringify([change.context,sourceSignature(entry)]);
+  if(seen.has(key)) throw new Error(filename+': duplicate proposed change: '+change.context);
+  seen.add(key);
+  if(entry.syntaxErrors.some(actionableCatalogSyntax)) throw new Error(filename+': invalid Portuguese catalog syntax: '+change.context);
   if(entry.msgid_plural!==undefined || Object.keys(entry.translations).some(k=>k!=='msgstr')) throw new Error(filename+': plural changes require an explicit plural review');
   if(entry.translations.msgstr!==change.before) throw new Error(filename+': translation changed since review: '+change.context);
   if(change.before===change.after) throw new Error(filename+': no-op change: '+change.context);
@@ -55,7 +54,7 @@ export function planCatalogChanges(englishText, portugueseText, changes, filenam
   if(before.msgctxt!==after.msgctxt || sourceSignature(before)!==sourceSignature(after) || before.header!==after.header) throw new Error(filename+': non-translation field changed');
   const patch=patches.find(p=>p.entry===before);
   if(patch) {
-   if(after.translations.msgstr!==patch.change.after || after.syntaxErrors.some(e=>e.field==='msgstr')) throw new Error(filename+': invalid replacement');
+   if(after.translations.msgstr!==patch.change.after || after.syntaxErrors.some(actionableCatalogSyntax)) throw new Error(filename+': invalid replacement');
   } else if(!equal(before.translations,after.translations)) throw new Error(filename+': unplanned translation change');
  }
  return {text,changes:patches.length,beforeSha256:sha256(portugueseText),afterSha256:sha256(text)};

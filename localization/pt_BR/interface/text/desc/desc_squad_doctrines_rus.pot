@@ -375,7 +375,7 @@ msgstr "<c(B29557)>( II )</c> Brigada Mecanizada"
 
 msgctxt "desc/squad/doctrine_mmg_carrier_bazooka_late"
 msgid "<c(B29557)>( I )</c> Carrier MMG + Bazooka"
-msgstr "<c(B29557)>( I )</c> Porta-Metralhadora + Bazooka"
+msgstr "<c(B29557)>( I )</c> Carrier com MMG + Bazooka"
 
 msgctxt "desc/squad/doctrine_ot34"
 msgid "<c(B29557)>( II )</c> OT-34"
@@ -487,7 +487,7 @@ msgstr "<c(B29557)>( II )</c> Batalhão Penal"
 
 msgctxt "desc/squad/doctrine_squad_rifle_motorised"
 msgid "<c(B29557)>( I )</c> Motorized rifle squad"
-msgstr "<c(B29557)>( I )</c> Esquadra de Fuzileiros Motorizado"
+msgstr "<c(B29557)>( I )</c> Esquadra de Fuzileiros Motorizada"
 
 msgctxt "desc/squad/doctrine_squad_rus_politicalofficer_early(rus)"
 msgid "<c(B29557)>( I )</c> Political officer"
@@ -747,7 +747,7 @@ msgstr "<c(B29557)>( I )</c> Valentine Mk.II"
 
 msgctxt "desc/squad/doctrine_mmg_carrier_mid"
 msgid "<c(B29557)>( I )</c> Carrier Medium MG"
-msgstr "<c(B29557)>( I )</c> Transporte Metralhadora Média"
+msgstr "<c(B29557)>( I )</c> Carrier com Metralhadora Média"
 
 msgctxt "desc/squad/doctrine_107mm_m1910_30_mid"
 msgid "<c(B29557)>( III )</c> 107mm M1910/30"

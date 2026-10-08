@@ -6,8 +6,9 @@
 - [Notas e arquivos da release mais recente](https://github.com/allanlopesprado/cta-goh-ptbr/releases/latest)
 - [Histórico de versões](CHANGELOG.md)
 
-A **v1.0.20** corresponde à revisão dos 362 catálogos PT-BR, usando o pacote
-inglês recebido em **7 de outubro de 2026**. O número da tradução não é o número
+A tradução usa como referência o pacote inglês recebido em **7 de outubro de
+2026**. As notas de cada release identificam a revisão distribuída dos 362
+catálogos PT-BR. O número da tradução não é o número
 da versão do jogo. A versão comercial desse pacote não foi identificada;
 a referência exata está em [`translation/source-manifest.json`](translation/source-manifest.json).
 Não presumimos compatibilidade com qualquer atualização anterior ou posterior.
@@ -15,7 +16,7 @@ Não presumimos compatibilidade com qualquer atualização anterior ou posterior
 Os arquivos e o empacotamento passaram pela validação técnica de catálogos,
 estrutura, integridade e conteúdo do pacote.
 O link de download aponta somente para uma release publicada, não para uma
-branch em desenvolvimento. Os metadados do próximo/atual lançamento estão em
+branch em desenvolvimento. Os metadados do pacote gerado neste repositório estão em
 [`translation/release.json`](translation/release.json).
 
 ## Instalação e atualização
@@ -34,18 +35,24 @@ branch em desenvolvimento. Os metadados do próximo/atual lançamento estão em
 5. Abra o jogo. Se os textos continuarem em inglês ou houver outro problema,
    siga o [guia de suporte](.github/SUPPORT.md).
 
-Exemplo em PowerShell para a **v1.0.20**; os caminhos são solicitados para
-funcionar também com bibliotecas Steam personalizadas. O backup usa uma pasta
+Exemplo em PowerShell: selecione o pacote e o checksum baixados da **mesma
+release**. Os caminhos são solicitados para funcionar também com bibliotecas
+Steam personalizadas. O backup usa uma pasta
 exclusiva e fica fora da instalação, sem sobrescrever backups anteriores:
 
 ```powershell
 $pastaLocalizations = Read-Host 'Caminho completo da pasta localizations do jogo'
 $pacoteBaixado = Read-Host 'Caminho completo do default.pak baixado'
+$checksumBaixado = Read-Host 'Caminho completo do default.pak.sha256 da mesma release'
 $arquivoInstalado = Join-Path $pastaLocalizations 'default.pak'
 if (!(Test-Path -LiteralPath $arquivoInstalado -PathType Leaf)) { throw 'Original instalado não encontrado; confira a pasta.' }
 if (!(Test-Path -LiteralPath $pacoteBaixado -PathType Leaf)) { throw 'Pacote baixado não encontrado.' }
-$hashEsperado = '1b49df2bb3d2480df9ef1aa5864e3c0788dd2b18ef0d99b8cb4d2bf648be1ff2'
-if ((Get-FileHash -LiteralPath $pacoteBaixado -Algorithm SHA256).Hash -ne $hashEsperado) { throw 'SHA-256 diferente da v1.0.20; não instale esse arquivo.' }
+if (!(Test-Path -LiteralPath $checksumBaixado -PathType Leaf)) { throw 'Checksum baixado não encontrado.' }
+$linhaChecksum = Get-Content -LiteralPath $checksumBaixado -Raw -ErrorAction Stop
+$checksumValidado = [regex]::Match($linhaChecksum.Trim(), '\A([0-9a-fA-F]{64})  default\.pak\z')
+if (!$checksumValidado.Success) { throw 'Formato inesperado do checksum; confira o arquivo da release.' }
+$hashEsperado = $checksumValidado.Groups[1].Value
+if ((Get-FileHash -LiteralPath $pacoteBaixado -Algorithm SHA256).Hash -ne $hashEsperado) { throw 'Pacote e checksum não correspondem; não instale esse arquivo.' }
 $documentosUsuario = [Environment]::GetFolderPath('MyDocuments')
 $pastaBackup = Join-Path $documentosUsuario ('cta-goh-ptbr-backups\' + [guid]::NewGuid().ToString())
 New-Item -ItemType Directory -Path $pastaBackup -ErrorAction Stop | Out-Null
@@ -54,8 +61,7 @@ Copy-Item -LiteralPath $pacoteBaixado -Destination $arquivoInstalado -Force -Err
 Write-Host "Backup do estado anterior: $pastaBackup"
 ```
 
-Não execute o exemplo para outra release sem atualizar o hash esperado a partir
-das notas daquela versão. O checksum detecta alteração ou download incorreto;
+Confira também o hash nas notas da release escolhida. O checksum detecta alteração ou download incorreto;
 não comprova compatibilidade com a sua versão do jogo.
 
 ### Desinstalação, restauração e atualização do jogo
@@ -104,6 +110,17 @@ as 736 anotações da primeira passagem têm decisão individual, com 1.431 ajus
 adicionais em 67 catálogos. O resultado técnico e o hash do pacote local estão em
 [`translation/validation-2026-10-07.json`](translation/validation-2026-10-07.json).
 
+A revisão proativa de 8 de outubro está em
+[`translation/proactive-review-2026-10-08.json`](translation/proactive-review-2026-10-08.json):
+22.030 entradas relidas, com 2.414 ajustes em 140 catálogos, incluindo correções
+de sentido e refinamentos editoriais. As decisões de manutenção distinguem
+sinônimos legítimos, abreviações, nomes e sentidos diferentes. O manifesto
+[`translation/context-quality.json`](translation/context-quality.json) protege
+decisões específicas por arquivo, contexto e original na CI. Ele detecta
+regressões conhecidas; não certifica automaticamente o sentido de todo texto novo.
+Os resultados técnicos e o SHA-256 do pacote local estão em
+[`translation/validation-2026-10-08.json`](translation/validation-2026-10-08.json).
+
 Relacionamos entradas por arquivo, `msgctxt` e original: um mesmo contexto pode
 aparecer com originais diferentes. Nunca basta casar só o contexto.
 Algumas mensagens do jogo usam `msgid` vazio e guardam o inglês em `msgstr`;
@@ -116,6 +133,7 @@ Para executar a validação técnica, use **Node.js 24 LTS** (execução local e
 ```powershell
 node --test tools/*.test.mjs
 node tools/translation-audit.mjs --check
+node tools/context-quality.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
 node tools/release-translation.mjs --check
@@ -160,7 +178,7 @@ são etapas separadas.
 ## Validação e publicação no GitHub
 
 O workflow **Validate** executa em pushes de branches e pull requests: testes,
-auditoria, construção e conferência do pacote. Um merge na `main`, inclusive de
+auditoria, decisões contextuais, construção e conferência do pacote. Um merge na `main`, inclusive de
 documentação, **não publica uma release**.
 
 O workflow **Release Pak** publica somente com uma tag de versão `vX.Y.Z` ou

@@ -86,15 +86,15 @@ msgstr "Capacete de Aço Mk. II - Capa"
 
 msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_1"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_2"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_scrim_3"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_beanie_mesh_torn"
 msgid "Steel Helmet Mk. II - Cover"
@@ -118,15 +118,15 @@ msgstr "Capacete de Aço Mk. II - Capa"
 
 msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_1"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_2"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mesh_scrim_3"
 msgid "Steel Helmet Mk. II - Scrim"
-msgstr "Capacete de Aço Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mesh_torn"
 msgid "Steel Helmet Mk. II - Cover"
@@ -162,15 +162,15 @@ msgstr "Capacete de Aço Mk. III - Capa"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_1"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_2"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_scrim_3"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_beanie_mesh_torn"
 msgid "Steel Helmet Mk. III - Cover"
@@ -190,15 +190,15 @@ msgstr "Capacete de Aço Mk. III - Capa"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_1"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_2"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_scrim_3"
 msgid "Steel Helmet Mk. III - Scrim"
-msgstr "Capacete de Aço Mk. III - Rede"
+msgstr "Capacete de Aço Mk. III - Tiras de Camuflagem"
 
 msgctxt "desc/stuff/uk_helm_brodie_mk3_mesh_torn"
 msgid "Steel Helmet Mk. III - Cover"
@@ -206,11 +206,11 @@ msgstr "Capacete de Aço Mk. III - Capa"
 
 msgctxt "desc/stuff/uk_helm_brodie_net"
 msgid "Steel Helmet Mk. II - Net"
-msgstr "Steel Helmet Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Rede"
 
 msgctxt "desc/stuff/uk_helm_brodie_net_scrim"
 msgid "Steel Helmet Mk. II - Net"
-msgstr "Steel Helmet Mk. II - Rede"
+msgstr "Capacete de Aço Mk. II - Rede"
 
 msgctxt "desc/stuff/uk_helm_para"
 msgid "Helmet HSAT Mk. I"
@@ -254,15 +254,15 @@ msgstr "Capacete de Aço Mk. II - Rede [Polonês]"
 
 msgctxt "desc/stuff/uk_helm_brodie_rn"
 msgid "Steel Helmet Mk. II [Navy]"
-msgstr "Capacete de Aço Mk. II [Navy]"
+msgstr "Capacete de Aço Mk. II [Marinha]"
 
 msgctxt "desc/stuff/uk_helm_brodie_net_rn"
 msgid "Steel Helmet Mk. II - Net [Navy]"
-msgstr "Capacete de Aço Mk. II - Rede [Navy]"
+msgstr "Capacete de Aço Mk. II - Rede [Marinha]"
 
 msgctxt "desc/stuff/uk_helm_brodie_net_scrim_rn"
 msgid "Steel Helmet Mk. II - Net [Navy]"
-msgstr "Capacete de Aço Mk. II - Rede [Navy]"
+msgstr "Capacete de Aço Mk. II - Rede [Marinha]"
 
 msgctxt "desc/stuff/uk_peaked_cap_inf"
 msgid "Officer Peaked Cap [Infantry]"
@@ -326,43 +326,43 @@ msgstr "Gaita Escocesa"
 
 msgctxt "desc/stuff/no8_smoke"
 msgid "No.8 Smoke Generator"
-msgstr "No.8 Gerador de Fumaça"
+msgstr "Gerador de Fumaça No.8"
 
 msgctxt "desc/stuff/no36m"
 msgid "No.36M Mk.I Grenade 'Mills bomb'"
-msgstr "No.36M Mk.I Granada 'Mills bomb'"
+msgstr "Granada No.36M Mk.I 'Mills bomb'"
 
 msgctxt "desc/stuff/no36m_early"
 msgid "No.36M Mk.I Grenade 'Mills bomb' (Early fuze)"
-msgstr "No.36M Mk.I Granada 'Mills bomb' (Espoleta Inicial)"
+msgstr "Granada No.36M Mk.I 'Mills bomb' (Espoleta Inicial)"
 
 msgctxt "desc/stuff/no69"
 msgid "No.69 Mk.I Grenade"
-msgstr "No.69 Mk.I Granada"
+msgstr "Granada No.69 Mk.I"
 
 msgctxt "desc/stuff/no73"
 msgid "No.73 Mk.I AT Grenade 'Thermos'"
-msgstr "No.73 Mk.I AT Granada 'Thermos'"
+msgstr "Granada AT No.73 Mk.I 'Thermos'"
 
 msgctxt "desc/stuff/no74"
 msgid "No.74 Mk.I AT Grenade 'Sticky Bomb'"
-msgstr "No.74 Mk.I AT Granada 'Sticky Bomb'"
+msgstr "Granada AT No.74 Mk.I 'Sticky Bomb'"
 
 msgctxt "desc/stuff/no75"
 msgid "No.75 Mk.I AT Grenade 'Hawkins grenade'"
-msgstr "No.75 Mk.I AT Granada 'Hawkins grenade'"
+msgstr "Granada AT No.75 Mk.I 'Hawkins grenade'"
 
 msgctxt "desc/stuff/no76_ic"
 msgid "No.76 Special Incendiary Grenade"
-msgstr "No.76 Granada Incendiária Especial"
+msgstr "Granada Incendiária Especial No.76"
 
 msgctxt "desc/stuff/no77_wp"
 msgid "No.77 Mk.I Grenade (Smoke WP)"
-msgstr "No.77 Mk.I Granada (Fumaça WP)"
+msgstr "Granada No.77 Mk.I (Fumaça WP)"
 
 msgctxt "desc/stuff/no82"
 msgid "No.82 Mk.I Grenade 'Gammon bomb'"
-msgstr "No.82 Mk.I Granada 'Gammon bomb'"
+msgstr "Granada No.82 Mk.I 'Gammon bomb'"
 
 msgctxt "desc/stuff/ap_shrapnel_mk1 mine"
 msgid "Antipersonnel Shrapnel Mine Mk.I"
@@ -382,7 +382,7 @@ msgstr "Ferramenta de Escavação Padrão 1937"
 
 msgctxt "desc/stuff/knife_eng"
 msgid "F-S Knife"
-msgstr "F-S Faca"
+msgstr "Faca F-S"
 
 msgctxt "desc/stuff/bandage_eng"
 msgid "British First-Aid Dressing"

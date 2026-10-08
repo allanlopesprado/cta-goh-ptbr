@@ -151,7 +151,7 @@ msgstr "Largar"
 
 msgctxt "actionbar/attack_ground/usage"
 msgid "Choose a spot to cover."
-msgstr "Escolha um ponto para cobrir."
+msgstr "Escolha um ponto para cobrir com fogo."
 
 msgctxt "crew_view/stunned"
 msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>stunned"
@@ -573,7 +573,7 @@ msgstr "Floresta"
 
 msgctxt "vehiclebar/terrain/slope"
 msgid "Slope"
-msgstr "Declive"
+msgstr "Inclinação"
 
 msgctxt "actionbar/map_control/docking_editor#/topright"
 msgid "Top Right"
@@ -621,7 +621,7 @@ msgstr "Após clicar no botão, clique no local onde deseja desembarcar a tripul
 
 msgctxt "actionbar/vehicle/smoke_decoy"
 msgid "Smoke decoy"
-msgstr "Cobertura de fumaça"
+msgstr "Cortina de fumaça"
 
 msgctxt "actionbar/vehicle/smoke_decoy/action"
 msgid "Create a wall of smoke in front of your vehicle."
@@ -2150,7 +2150,7 @@ msgstr "<c(c3baae)>posição</c>"
 
 msgctxt "entity_info/desc/marine"
 msgid "<c(c3baae)>boat</c>"
-msgstr "<c(c3baae)>bote</c>"
+msgstr "<c(c3baae)>barco</c>"
 
 msgctxt "entity_info/crew"
 msgid "Crew"
@@ -2266,7 +2266,7 @@ msgstr "Após clicar, clique no mapa para definir a posição do obstáculo anti
 
 msgctxt "actionbar/foxhole"
 msgid "Dig small foxhole"
-msgstr "Escavar abrigo"
+msgstr "Escavar abrigo individual pequeno"
 
 msgctxt "actionbar/foxhole/action"
 msgid "Dig small foxhole"
@@ -2350,7 +2350,7 @@ msgstr "Injeção de morfina"
 
 msgctxt "actionbar/injection/usage"
 msgid "Instantly revive a fallen soldier with a consumable morphine shot"
-msgstr "Reanime instantaneamente um soldado caído com uma injeção de morfina"
+msgstr "Reanime instantaneamente um soldado caído, consumindo uma dose de morfina"
 
 msgctxt "actionbar/call_ally"
 msgid "Recruit Soldiers"

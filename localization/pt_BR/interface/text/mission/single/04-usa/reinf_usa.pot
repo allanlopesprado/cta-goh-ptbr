@@ -18,7 +18,7 @@ msgstr "Bombardeio aéreo da área selecionada"
 
 msgctxt "mission/single/04-usa/menu_usa/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/04-usa/menu_usa/menu:1_1"
 msgid "Infantry"
@@ -66,7 +66,7 @@ msgstr "Médico"
 
 msgctxt "mission/single/04-usa/menu_usa/flamer"
 msgid "Flamer"
-msgstr "Lança-chamas"
+msgstr "Operador de Lança-chamas"
 
 msgctxt "mission/single/04-usa/menu_usa/signaller"
 msgid "Battery signaller"
@@ -82,7 +82,7 @@ msgstr "Esquadra de Fuzileiros"
 
 msgctxt "mission/single/04-usa/menu_usa/glider_sq"
 msgid "Glider squad"
-msgstr "Esquadra de planador"
+msgstr "Esquadra de Infantaria de Planadores"
 
 msgctxt "mission/single/04-usa/menu_usa/recon_sq"
 msgid "Recon squad"
@@ -90,7 +90,7 @@ msgstr "Esquadra de Reconhecimento"
 
 msgctxt "mission/single/04-usa/menu_usa/rifle_heavy_sq"
 msgid "Heavy rifle squad"
-msgstr "Esquadra de Fuzileiros Pesados"
+msgstr "Esquadra Pesada de Fuzileiros"
 
 msgctxt "mission/single/04-usa/menu_usa/engineer_sq"
 msgid "Engineer squad"

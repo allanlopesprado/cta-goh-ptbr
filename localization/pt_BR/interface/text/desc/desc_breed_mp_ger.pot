@@ -483,7 +483,7 @@ msgstr "Franco-atirador [Heer]"
 
 msgctxt "desc/human/mp/ger/early/sniper_elite"
 msgid "Elite Sniper [Heer]"
-msgstr "Elite Franco-atirador [Heer]"
+msgstr "Franco-atirador de Elite [Heer]"
 
 msgctxt "desc/human/mp/ger/early/sturmp_1"
 msgid "Sturmpionier [Heer]"
@@ -1939,7 +1939,7 @@ msgstr "Franco-atirador [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sniper_elite"
 msgid "Mountain Sniper [Heer]"
-msgstr "Montanha Franco-atirador [Heer]"
+msgstr "Franco-atirador de Montanha [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sturmp_1"
 msgid "Sturmpionier [Heer]"
@@ -2339,7 +2339,7 @@ msgstr "Elite Líder de Esquadra [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/convict_mg"
 msgid "Convict MG Operator [Feldgendarmerie]"
-msgstr "Convict Operador de MG [Feldgendarmerie]"
+msgstr "Operador de MG Presidiário [Feldgendarmerie]"
 
 msgctxt "desc/human/mp/ger/mid/ersatz_rifle"
 msgid "Ersatz-Rifleman [Heer]"
@@ -2803,11 +2803,11 @@ msgstr "Füsilier [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_at"
 msgid "GD.Pz.Pionier AT inf. [Heer]"
-msgstr "GD.Pz.Inf. AT Pioneiro [Heer]"
+msgstr "GD.Pz.Pionier Inf. AT [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_builder"
 msgid "GD.Pz.Pionier Engineer [Heer]"
-msgstr "GD.Pz.Engenheiro Pioneiro [Heer]"
+msgstr "GD.Pz.Pionier Engenheiro [Heer]"
 
 msgctxt "desc/human/mp/ger/late/gd_pz_pio_flame"
 msgid "GD.Pz.Pionier Flamer [Heer]"
@@ -2907,11 +2907,11 @@ msgstr "Landesschütze Auxiliar de Líder [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_at"
 msgid "Pz-Lehr Pz.Pionier AT inf. [Heer]"
-msgstr "Pz-Lehr Pz.Inf. AT Pioneiro [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Inf. AT [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_builder"
 msgid "Pz-Lehr Pz.Pionier Engineer [Heer]"
-msgstr "Pz-Lehr Pz.Engenheiro Pioneiro [Heer]"
+msgstr "Pz-Lehr Pz.Pionier Engenheiro [Heer]"
 
 msgctxt "desc/human/mp/ger/late/lehr_pz_pio_flame"
 msgid "Pz-Lehr Pz.Pionier Flamer [Heer]"

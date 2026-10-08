@@ -139,7 +139,7 @@ msgctxt "mp/lobby/blocked/minutes"
 msgid ""
 "You can't enter internet games for %1% minute(s), due to your ranked trust "
 "rating. Please make sure not to quit games in progress."
-msgstr "Você não pode entrar em jogos online por %1% minuto(s), devido à sua reputação no ranqueado. Certifique-se de não sair de partidas em andamento."
+msgstr "Você não pode entrar em jogos online por %1% minuto(s), devido à seu índice de confiança no ranqueado. Certifique-se de não sair de partidas em andamento."
 
 msgctxt "mp/statistics2/result/resources"
 msgid "%1%"
@@ -429,7 +429,7 @@ msgstr "Sessão fechada, clique para abrir"
 
 msgctxt "mp/gs/stats/hdr_games"
 msgid "#Game#Points#Games#Victories#Wins"
-msgstr "#Jogo#Pontos#Jogos#Vitórias#Vitórias"
+msgstr "#Jogo#Pontos#Partidas#Vitórias#Vitórias"
 
 msgctxt "mp/presets/browser/title_exclude"
 msgid "Excluded Units"
@@ -457,7 +457,7 @@ msgstr "Equipe C"
 
 msgctxt "mp/statistics/title"
 msgid "<f(impact)s(28)c(255 255 255)>Game Statistics"
-msgstr "<f(impact)s(28)c(255 255 255)>Estatísticas do Jogo"
+msgstr "<f(impact)s(28)c(255 255 255)>Estatísticas da Partida"
 
 msgctxt "mp/scene/chat/all"
 msgid "<b+c(FF8080)>%s"
@@ -705,7 +705,7 @@ msgctxt "mp/game/koth/objective"
 msgid ""
 "Seize the flag in the middle of the map! The team that holds the Hill "
 "receives additional Payback."
-msgstr "Tome a bandeira no centro do mapa! A equipe que controlar a Colina recebe Recompensa adicional."
+msgstr "Tome a bandeira no centro do mapa! A equipe que controlar a Colina recebe reembolso adicional de PM."
 
 msgctxt "mp/game/guerrilla"
 msgid "Guerrilla"
@@ -800,7 +800,7 @@ msgstr "Excelente"
 
 msgctxt "mp/lobby/ranked_game"
 msgid "Ranked game"
-msgstr "Jogo ranqueado"
+msgstr "Partida ranqueada"
 
 msgctxt "mp/game/battle_zones/objective"
 msgid ""
@@ -1109,7 +1109,7 @@ msgstr "Civil"
 
 msgctxt "mp/lobby/slot/menu/ai_heroic"
 msgid "AI: Heroic"
-msgstr "IA: Heróico"
+msgstr "IA: Heroico"
 
 msgctxt "mp/army/random"
 msgid "Random"
@@ -1404,7 +1404,7 @@ msgid ""
 "You will lose all XP collected during the match, gain a loss and weaken your "
 "ranked trust rating.\n"
 "Stay in-game for fair-play."
-msgstr "Deseja realmente se render?\n\nVocê perderá todo o XP coletado durante a partida, receberá uma derrota e enfraquecerá sua reputação no ranqueado.\nPermaneça no jogo por fair-play."
+msgstr "Deseja realmente se render?\n\nVocê perderá todo o XP coletado durante a partida, receberá uma derrota e enfraquecerá seu índice de confiança no ranqueado.\nPermaneça no jogo por fair-play."
 
 msgctxt "mp/lobby/title_zone"
 msgid "Select zone"
@@ -1478,7 +1478,7 @@ msgstr "<c(white)>Procurando jogos"
 
 msgctxt "mp/lobby/setup/preset.customunitset#hint"
 msgid "First include then exclude units to be available."
-msgstr "Primeiro inclua e depois exclua unidades disponíveis."
+msgstr "Primeiro inclua e depois exclua unidades para definir quais ficarão disponíveis."
 
 msgctxt "mp/lobby/hdr_sessioncount"
 msgid "%1% / %2%"
@@ -2036,7 +2036,7 @@ msgstr "Experiência do Usuário"
 
 msgctxt "mp/lobby/setup/settings.veterancymode#/all"
 msgid "Free for All"
-msgstr "Todos contra Todos"
+msgstr "Todos"
 
 msgctxt "mp/sync/txt_reschecking"
 msgid "Checking resource..."
@@ -2158,7 +2158,7 @@ msgctxt "mp/lobby/blocked/seconds"
 msgid ""
 "You can't enter internet games for %1% second(s), due to your ranked trust "
 "rating. Please make sure not to quit games in progress."
-msgstr "Você não pode entrar em jogos online por %1% segundo(s), devido à sua reputação no ranqueado. Certifique-se de não sair de partidas em andamento."
+msgstr "Você não pode entrar em jogos online por %1% segundo(s), devido à seu índice de confiança no ranqueado. Certifique-se de não sair de partidas em andamento."
 
 msgctxt "mp/lobby/button/rename"
 msgid "Rename"
@@ -2368,7 +2368,7 @@ msgstr "<f(impact)s(28)c(255 255 255)>Comunidade"
 
 msgctxt "mp/gs/stats/games"
 msgid "Games"
-msgstr "Jogos"
+msgstr "Partidas"
 
 msgctxt "mp/lobby/hint/performance2"
 msgid "PC performance (Low)"
@@ -2405,7 +2405,7 @@ msgstr "Controle Direto desativado"
 
 msgctxt "mp/lobby/hint/dc"
 msgid "Classic Top-down Direct Control enabled"
-msgstr "Controle Direto clássico ativado"
+msgstr "Controle Direto clássico com visão de cima ativado"
 
 msgctxt "mp/lobby/hint/tpc"
 msgid "Third Person disabled"
@@ -2417,11 +2417,11 @@ msgstr "Opções de busca de sessão"
 
 msgctxt "mp/lobby/hint/unranked"
 msgid "%1% games played"
-msgstr "%1% jogos disputados"
+msgstr "%1% partidas disputados"
 
 msgctxt "mp/lobby/hint/ranked"
 msgid "%1% ranked games played"
-msgstr "%1% jogos ranqueados disputados"
+msgstr "%1% partidas ranqueados disputados"
 
 msgctxt "mp/lobby/hint/veterancy_mode"
 msgid "Level of experience allowed to join"
@@ -2719,7 +2719,7 @@ msgstr "MAPAS"
 
 msgctxt "mp/gs/stats/hdr_armies_page"
 msgid "#Party#Games#Wins#Wins"
-msgstr "#Grupo#Jogos#Vitórias#Vitórias"
+msgstr "#Grupo#Partidas#Vitórias#Vitórias"
 
 msgctxt "mp/lobby2/session_comment"
 msgid "<x.y.c(dddddd)>%1%"
@@ -2788,7 +2788,7 @@ msgstr "Em jogo"
 
 msgctxt "mp/gs/ranked_game"
 msgid "Ranked game"
-msgstr "Jogo ranqueado"
+msgstr "Partida ranqueada"
 
 msgctxt "mp/persona_state/in_lobby"
 msgid "In-game (open session)"
@@ -2913,7 +2913,7 @@ msgstr "Tempo: %1% (%2%)"
 
 msgctxt "mp/statistics2/result/title"
 msgid "GAME RESULT"
-msgstr "RESULTADO DO JOGO"
+msgstr "RESULTADO DA PARTIDA"
 
 msgctxt "mp/scene/hint_score"
 msgid "Score: %1%"
@@ -2969,7 +2969,7 @@ msgstr "<f(arial_narrow)s(16)c(e5e1df)><e(shadow)>nível %1%"
 
 msgctxt "mp/gs/stats/ranked_games"
 msgid "Ranked games"
-msgstr "Jogos ranqueados"
+msgstr "Partidas ranqueados"
 
 msgctxt "mp/scene/txt_growspeed"
 msgid "<f(arial_narrow)s(16)>%1%%"
@@ -3003,7 +3003,7 @@ msgstr "# #Suas melhores unidades#<x.>Abates de Infantaria#<x.>Abates de Veícul
 
 msgctxt "mp/result/title"
 msgid "Game Result"
-msgstr "Resultado do Jogo"
+msgstr "Resultado da Partida"
 
 msgctxt "mp/gs/social/global_chat"
 msgid "Global chat"
@@ -3051,7 +3051,7 @@ msgstr "Salvar Replay"
 
 msgctxt "mp/statistics/result/title"
 msgid "<s(25)y(+9)>Game Result"
-msgstr "<s(25)y(+9)>Resultado do Jogo"
+msgstr "<s(25)y(+9)>Resultado da Partida"
 
 msgctxt "mp/statistics/resources/title"
 msgid "<s(25)y(+9)>Resources"
@@ -3229,7 +3229,7 @@ msgstr "O servidor principal não está respondendo. Possíveis causas: firewall
 
 msgctxt "mp/gs/change_sort_number"
 msgid "Sort by total games."
-msgstr "Ordenar por total de jogos."
+msgstr "Ordenar por total de partidas."
 
 msgctxt "mp/gs/change_sort_picture"
 msgid "Sort by global rank/ELO."
@@ -3265,11 +3265,11 @@ msgstr "<y(+9)>Geral"
 
 msgctxt "mp/gs/stats/hdr_common"
 msgid "#Games#Points#Rank games#Victories#Wins#Quits"
-msgstr "#Jogos#Pontos#Partidas ranqueadas#Vitórias#Vitórias#Desistências"
+msgstr "#Partidas#Pontos#Partidas ranqueadas#Vitórias#Vitórias#Desistências"
 
 msgctxt "mp/gs/stats/hdr_armies"
 msgid "#Side#Games#Victories#Wins"
-msgstr "#Lado#Jogos#Vitórias#Vitórias"
+msgstr "#Lado#Partidas#Vitórias#Vitórias"
 
 msgctxt "mp/gs/social/friend_add"
 msgid "Add to friends"
@@ -3277,7 +3277,7 @@ msgstr "Adicionar como amigo"
 
 msgctxt "mp/gs/stats/hdr_toplist"
 msgid "# #Name#Score#Games#Wins, %"
-msgstr "# #Nome#Pontuação#Jogos#Vitórias, %"
+msgstr "# #Nome#Pontuação#Partidas#Vitórias, %"
 
 msgctxt "mp/gs/stats/ri_top_frontline"
 msgid "Frontline"
@@ -3305,7 +3305,7 @@ msgstr "Inicializando sistema de classificação"
 
 msgctxt "mp/gs/stats/games_page"
 msgid "<y(+9)>Games"
-msgstr "<y(+9)>Jogos"
+msgstr "<y(+9)>Partidas"
 
 msgctxt "mp/statistics2/units/hint"
 msgid "Resources spent: %.0f / %.0f"
@@ -3313,7 +3313,7 @@ msgstr "Recursos gastos: %.0f / %.0f"
 
 msgctxt "mp/gs/stats/hdr_games_page"
 msgid "#Game#Score#Games#Wins#Wins"
-msgstr "#Jogo#Pontuação#Jogos#Vitórias#Vitórias"
+msgstr "#Jogo#Pontuação#Partidas#Vitórias#Vitórias"
 
 msgctxt "mp/gs/stats/last"
 msgid "Move to end"
@@ -3756,7 +3756,7 @@ msgstr "EUA"
 
 msgctxt "mp/army/usa2"
 msgid "USA (Airborne)"
-msgstr "EUA (Paraquedistas)"
+msgstr "EUA (Aerotransportados)"
 
 msgctxt "mp/alliance/usa"
 msgid "USA"

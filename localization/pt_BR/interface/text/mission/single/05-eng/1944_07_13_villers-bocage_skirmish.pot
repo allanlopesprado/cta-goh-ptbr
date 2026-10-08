@@ -79,7 +79,7 @@ msgstr "Isso beira o desastre. Falhamos em garantir uma vitória — você preci
 
 msgctxt "mission/single/05-eng/1944_07_13_villers-bocage_skirmish/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/05-eng/1944_07_13_villers-bocage_skirmish/mission_ace"
 msgid "You must knock Wittmann's Tiger tank out!"
@@ -147,7 +147,7 @@ msgstr "Objetivo Secreto nº 1"
 
 msgctxt "mission/single/05-eng/1944_07_13_villers-bocage_skirmish/tasks/secret01_completed"
 msgid "Secret objective #1: Cooked! - eliminated German tank by ammunition cook off."
-msgstr "Objetivo Secreto nº 1: Cozinhado! - eliminou o tanque alemão pela explosão da munição."
+msgstr "Objetivo Secreto nº 1: Cozinhado! - eliminou o tanque alemão pela ignição da munição provocada pelo calor."
 
 msgctxt "mission/single/05-eng/1944_07_13_villers-bocage_skirmish/tasks/secret02"
 msgid "Secret objective #2"

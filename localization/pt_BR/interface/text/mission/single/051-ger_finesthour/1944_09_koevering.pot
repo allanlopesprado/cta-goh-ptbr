@@ -18,7 +18,7 @@ msgstr "Esses ingleses arrogantes... Não fazem ideia do que os aguarda."
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/02"
 msgid "There's no time for that. Our reinforcements are on their way, we just need to cut the highway and delay them as long as we possibly can."
-msgstr "Não há tempo para isso. Nossos reforços estão a caminho, só precisamos cortar a rodovia e atrasá-los o máximo possível."
+msgstr "Não há tempo para isso. Nossos reforços estão a caminho, só precisamos cortar a rodovia e retardar o inimigo o máximo possível."
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/03"
 msgid "It seems like there's a gap between convoys. I don't see any more incoming vehicles. We should try to take over that manor across the highway, looks like a decent spot to hold. This is our chance."
@@ -50,11 +50,11 @@ msgstr "Há unidades britânicas e americanas por toda parte — tenho certeza d
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/10"
 msgid "Keep the radio vehicle concealed, if it gets damaged we will lose access to artillery support."
-msgstr "Mantenha o veículo de rádio camuflado; se ele for danificado, perderemos acesso ao apoio de artilharia."
+msgstr "Mantenha o veículo de rádio escondido; se ele for danificado, perderemos acesso ao apoio de artilharia."
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/11"
 msgid "We can’t hold them anymore. They've got too many tanks! We need to fall back and regroup.."
-msgstr "Não conseguimos mais resistir. Eles têm tanques demais! Precisamos recuar e reagrupar."
+msgstr "Não conseguimos mais resistir. Eles têm tanques demais! Precisamos recuar e nos reagrupar."
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_officer/12"
 msgid "Move all of your troops to the West we’re going out the way we came. There isn't much time left."
@@ -154,7 +154,7 @@ msgstr "Embora nosso ataque inicial tenha sido um sucesso, não conseguimos resi
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/outro_failed"
 msgid "That’s a disappointment. Our last chance to cut the Allied spearhead has come and gone, and now the allies are likely to reach Arnhem after all. We should organize another attempt to take the road as soon as possible, failure is not an option!"
-msgstr "Que decepção. Nossa última chance de cortar a ponta de lança aliada veio e foi, e agora os aliados provavelmente chegarão a Arnhem afinal. Devemos organizar outra tentativa de tomar a rodovia o mais rápido possível — o fracasso não é uma opção!"
+msgstr "Que decepção. Nossa última chance de cortar a ponta de lança aliada passou, e agora os aliados provavelmente chegarão a Arnhem afinal. Devemos organizar outra tentativa de tomar a rodovia o mais rápido possível — o fracasso não é uma opção!"
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/date"
 msgid "September 26th, 1944 · Koevering, North-Brabant, Netherlands"

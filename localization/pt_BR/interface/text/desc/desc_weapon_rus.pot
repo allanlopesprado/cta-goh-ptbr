@@ -314,7 +314,7 @@ msgstr "Fedorov Avtomat"
 
 msgctxt "desc/weapon/kpvt"
 msgid "14.5mm KPVT Machine Gun"
-msgstr "14.5mm KPVT Metralhadora"
+msgstr "Metralhadora KPVT de 14.5mm"
 
 msgctxt "desc/weapon/ks_24_flame_thrower"
 msgid "KS-24 Flamethrower"
@@ -370,15 +370,15 @@ msgstr "Mosin (Silenciador)"
 
 msgctxt "desc/weapon/nagant_revolver"
 msgid "Nagant M1895 Revolver"
-msgstr "Nagant M1895 Revólver"
+msgstr "Revólver Nagant M1895"
 
 msgctxt "desc/weapon/nagant_silencer"
 msgid "Nagant M1895 Revolver (Silenced)"
-msgstr "Nagant M1895 Revólver (Silenciado)"
+msgstr "Revólver Nagant M1895 (Silenciado)"
 
 msgctxt "desc/weapon/osp30"
 msgid "OSP-30 Flare Pistol"
-msgstr "OSP-30 Pistola Sinalizadora"
+msgstr "Pistola Sinalizadora OSP-30"
 
 msgctxt "desc/weapon/osp30_signal"
 msgid "OSP-30 Flare Pistol (observation flares)"
@@ -482,4 +482,4 @@ msgstr "45mm (21-K) L/46"
 
 msgctxt "desc/weapon/osp30_signal_sp"
 msgid "OSP-30 Flare Pistol"
-msgstr "OSP-30 Pistola Sinalizadora"
+msgstr "Pistola Sinalizadora OSP-30"

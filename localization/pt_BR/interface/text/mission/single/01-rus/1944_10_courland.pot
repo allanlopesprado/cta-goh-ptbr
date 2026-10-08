@@ -98,7 +98,7 @@ msgstr "O quartel-general inimigo é nosso. O fim da ocupação fascista está p
 
 msgctxt "mission/single/01-rus/1944_10_courland/outro_completed"
 msgid "The glorious 43rd Army completed the surrounding of Memel. During the offensive, the German 3rd Panzer Army HQ was overrun. Army Group North had been successfully trapped in North Courland."
-msgstr "O glorioso 43º Exército completou o cerco de Memel. Durante a ofensiva, o QG do 3º Exército Panzer alemão foi tomado. O Grupo de Exércitos Norte foi com sucesso aprisionado no norte da Curlândia."
+msgstr "O glorioso 43º Exército completou o cerco de Memel. Durante a ofensiva, o QG do 3º Exército Panzer alemão foi tomado. O Grupo de Exércitos Norte foi encurralado com sucesso no norte da Curlândia."
 
 msgctxt "mission/single/01-rus/1944_10_courland/outro_failed"
 msgid "This failure will prove very costly. The Germans now have the option to either reinforce or evacuate their 3rd Panzer Army! This means we will lose countless more comrades than we already have. You will be in the front echelon when we attack again!"
@@ -190,7 +190,7 @@ msgstr "GAZ-AAA (Suprimentos)"
 
 msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/01-rus/1944_10_courland/reinforcement/inf"
 msgid "Infantry squad"

@@ -22,7 +22,7 @@ msgstr "Até o Fim"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/outro_completed"
 msgid "Everything that could have gone wrong in this operation went horribly wrong. Just now, we’ve again suffered horrendous casualties, but you’ve managed to make it out of there and live to fight another day. Market Garden failed due to ignorant commanders, not through a lack of courage."
-msgstr "Tudo o que poderia dar errado nesta operação deu terrivelmente errado. Acabamos de sofrer, mais uma vez, baixas horrendas, mas você conseguiu sair de lá com vida para lutar outro dia. A Operação Market Garden fracassou por causa de comandantes incompetentes, não por falta de coragem."
+msgstr "Tudo o que poderia dar errado nesta operação deu terrivelmente errado. Acabamos de sofrer, mais uma vez, baixas horrendas, mas você conseguiu sair de lá com vida para lutar outro dia. A Operação Market Garden fracassou por causa de comandantes ignorantes, não por falta de coragem."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/outro_failed"
 msgid "This is awful, they gave us a right pasting. Operation Market Garden has failed, and now our retreat has failed as well. Now you have become a prisoner of war. Perhaps this was just one bridge too far?"
@@ -30,7 +30,7 @@ msgstr "Isto é terrível; nos deram uma surra de verdade. A Operação Market G
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/date"
 msgid "September 22nd, 1944 · Oosterbeek, Netherlands"
-msgstr "22 de setembro de 1944 · Oosterbeek, Holanda"
+msgstr "22 de setembro de 1944 · Oosterbeek, Países Baixos"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/place"
 msgid "1st Airborne Division"
@@ -66,7 +66,7 @@ msgstr "Cholerny Szwaby... Olha eles; sem vergonha alguma, hein? Já se atrevem 
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/intro_04"
 msgid "You alive, yes? Good. Though, you look like ghosts, and… Boże święty, you smell like you've been buried already."
-msgstr "Você está vivo, sim? Ótimo. Mas parece um fantasma, e... Boże święty, você cheira como se já estivesse enterrado."
+msgstr "Vocês estão vivos, sim? Ótimo. Mas parecem fantasmas, e... Boże święty, vocês cheiram como se já estivessem enterrados."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/intro_05"
 msgid "I have one good news… and one very shitty one. Good news is that you caught your last train out of this hell. Me and my squad, well, just the two of us left now, we look for poor boys like you to drag out."
@@ -174,7 +174,7 @@ msgstr "Dobrze, vamos procurar um caminhão szwabski."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_qf17_12"
 msgid "No way… You actually found it! Gov, give us a hand, will you?"
-msgstr "De jeito nenhum... Você realmente encontrou! Gov, dê uma mão aqui?"
+msgstr "Não acredito... Você realmente encontrou! Gov, dê uma mão aqui?"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_qf17_13"
 msgid "I say, bloody hell, she made it! The wheel's gone, but who cares? This is the gun’s last stop anyway. We’re not dragging her out during evac. You’ve done us a real favour, mate."
@@ -202,7 +202,7 @@ msgstr "Achei que meus pulmões tinham explodido. Um médico me deu uma injeçã
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_07"
 msgid "We are running short on morphine but I think I know where you might get some. Jerry has a supply stash not far from here. It’s in a broken down ammo trailer near the entrance."
-msgstr "Estamos com pouca morfina, mas acho que sei onde você pode conseguir mais. Os alemães têm um depósito de suprimentos não muito longe daqui. A morfina está em um reboque de munição avariado, perto da entrada."
+msgstr "Estamos com pouca morfina, mas acho que sei onde você pode conseguir mais. Os alemães têm um estoque de suprimentos não muito longe daqui. O estoque está em um reboque de munição avariado, perto da entrada."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_09"
 msgid "Can you lend me one of your Jeeps to tow it out?"
@@ -318,7 +318,7 @@ msgstr "Conseguimos, rapazes; estão recuando. Esperamos que tenha sido o últim
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/scout_01"
 msgid "…No way she treated you like that! The hell she’s thinking she is?"
-msgstr "...De jeito nenhum ela te tratou assim! Quem ela pensa que é?"
+msgstr "...Não acredito que ela tenha te tratado assim! Quem ela pensa que é?"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/scout_02"
 msgid "Well… Women… Can’t live with ‘em, can’t live without ‘em."
@@ -358,7 +358,7 @@ msgstr "A equipe de evacuação não aguentará muito mais. Esses veículos prec
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_08"
 msgid "The village is swarming with infantry as well. I’m sending a platoon your way, they’ll draw attention from the enemy. Focus on knocking out those damn vehicles."
-msgstr "A aldeia também está repleta de infantaria. Estou enviando um pelotão para seu lado; eles vão desviar a atenção do inimigo. Fique focado nos veículos."
+msgstr "A aldeia também está repleta de infantaria. Estou enviando um pelotão para seu lado; eles vão desviar a atenção do inimigo. Concentre-se em neutralizar aqueles malditos veículos."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_09"
 msgid "I wish I could give you more. But these are the last combat-ready men we’ve got. Remember what you're fighting for. Behind you are dozens of wounded, starving men who haven’t slept in days. You’re their last chance, Lieutenant. I trust you. Don’t let them down."
@@ -370,7 +370,7 @@ msgstr "Todos os veículos destruídos! Vamos embora daqui de uma vez!"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_captured_broken_vehicle"
 msgid "How is this thing still even driving without wheels and transmission? Szwaby should have rather made that many civilian cars instead of tanks."
-msgstr "Como esse troço ainda está andando sem rodas e transmissão? Os Szwaby deveriam ter feito mais veículos civis em vez de tanques..."
+msgstr "Como esse troço ainda está andando sem rodas e transmissão? Os Szwaby deveriam ter feito tantos carros civis em vez de tanques..."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_vehicle_destroyed_01"
 msgid "Good, one vehicle down."
@@ -470,7 +470,7 @@ msgstr "Equipe de evacuação partindo"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/reinf_report"
 msgid "Report"
-msgstr "Reportar"
+msgstr "Apresentar-se"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/reinf_stealth"
 msgid "Stealth"
@@ -498,7 +498,7 @@ msgstr "Ajude os britânicos a defender o perímetro"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/tasks/03_report"
 msgid "Report to the Division’s HQ at Hotel Hartenstein"
-msgstr "Reporte ao QG da Divisão no Hotel Hartenstein"
+msgstr "Apresente-se ao QG da Divisão no Hotel Hartenstein"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/tasks/04_mortar"
 msgid "Destroy the heavy mortar firing at the HQ"

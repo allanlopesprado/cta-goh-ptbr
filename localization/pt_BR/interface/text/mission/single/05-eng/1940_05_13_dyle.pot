@@ -30,7 +30,7 @@ msgstr "1ª Divisão de Infantaria, Regimento North Staffordshire"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/story"
 msgid "The phony war has erupted into Blitzkrieg! The Germans invade the Netherlands and Belgium on May 10th. What the Germans call “Fall Gelb” is underway.\n\nYou have been ordered north with your unit to reinforce the Dyle line.\n\nYour part of the line is at a bridge, not far from Louvain. The Germans will definitely want to use this bridge to get to Brussels, so this is a key position in the Dyle line."
-msgstr "A guerra falsa explodiu em Blitzkrieg! Os alemães invadem a Holanda e a Bélgica em 10 de maio. O que os alemães chamam de 'Fall Gelb' está em andamento.\n\nVocê recebeu ordens para avançar ao norte com sua unidade para reforçar a Linha do Dyle.\n\nSua parte da linha fica em uma ponte, não longe de Louvain. Os alemães definitivamente vão querer usar esta ponte para chegar a Bruxelas, por isso é uma posição chave na Linha do Dyle."
+msgstr "A guerra falsa explodiu em Blitzkrieg! Os alemães invadem os Países Baixos e a Bélgica em 10 de maio. O que os alemães chamam de 'Fall Gelb' está em andamento.\n\nVocê recebeu ordens para avançar ao norte com sua unidade para reforçar a Linha do Dyle.\n\nSua parte da linha fica em uma ponte, não longe de Louvain. Os alemães definitivamente vão querer usar esta ponte para chegar a Bruxelas, por isso é uma posição chave na Linha do Dyle."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/outro_completed"
 msgid "We have shown them what to expect from the British Expeditionary force. We might be retreating from the battle today, but we bought ourselves and our allies some more time."
@@ -194,11 +194,11 @@ msgstr "Hawkins! Cristo, perdemos um dos nossos médicos!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/medic_died_02"
 msgid "Williams! What the hell are you doing?! That medic is a goner!"
-msgstr "Williams! O que diabos você está fazendo?! Aquele médico está perdido!"
+msgstr "Williams! O que diabos você está fazendo?! Aquele médico já era!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/medic_died_03"
 msgid "Bloody hell, Crosby is down! We need to fall back, now!"
-msgstr "Maldição, Crosby está fora! Precisamos recuar, agora!"
+msgstr "Maldição, Crosby caiu! Precisamos recuar, agora!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_01"
 msgid "Shit… They’re just gone… One strike and that’s it…"
@@ -286,7 +286,7 @@ msgstr "Todos dentro, vamos dar o fora daqui!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_23"
 msgid "We’ll follow behind. Get ‘em to safety. See you on the other side."
-msgstr "Seguiremos atrás. Leve-os para segurança. Até o outro lado."
+msgstr "Seguiremos atrás. Leve-os para um local seguro. Nos vemos do outro lado."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_progress_02"
 msgid "Just need a bit more time. Keep us covered."
@@ -386,7 +386,7 @@ msgstr "Acho que sim... Então, qual é o próximo passo?"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/pl_swimming"
 msgid "Blimey, the water’s lovely and warm today. Now if only we could get a couple of girls from the village to join us, that’d be just perfect."
-msgstr "Maldição, a água está linda e quente hoje. Se ao menos pudéssemos conseguir algumas moças da aldeia para se juntar a nós, seria perfeito."
+msgstr "Caramba, a água está agradável e quente hoje. Se ao menos pudéssemos conseguir algumas moças da aldeia para se juntar a nós, seria perfeito."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_01"
 msgid "I wasn’t much for saying thank you back then. Just thought none of us would make it out alive anyway."

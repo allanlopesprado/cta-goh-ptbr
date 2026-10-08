@@ -96,7 +96,7 @@ msgstr "%1% de 3 caminhões foram entregues ao ponto de extração."
 
 msgctxt "mission/single/02-ger/1944_09_yugoslavia/outro_completed"
 msgid "That was close! You have shown your leadership, guiding your troops to safety. Maybe it’s not your style to retreat, but at least we live to fight another day. Now, we must get back to our own lines somehow."
-msgstr "Isso foi por pouco! Você demonstrou sua liderança, guiando suas tropas para a segurança. Talvez não seja seu estilo recuar, mas ao menos sobreviveremos para lutar outro dia. Agora precisamos chegar às nossas próprias linhas de alguma forma."
+msgstr "Isso foi por pouco! Você demonstrou sua liderança, guiando suas tropas até um lugar seguro. Talvez não seja seu estilo recuar, mas ao menos sobreviveremos para lutar outro dia. Agora precisamos chegar às nossas próprias linhas de alguma forma."
 
 msgctxt "mission/single/02-ger/1944_09_yugoslavia/outro_failed"
 msgid "This is a bitter defeat. We lost a lot of lives and valuable equipment. Also, the division’s re- grouping orders can’t be fulfilled anymore. The march on Belgrade is going to be too easy for the Soviets! "
@@ -108,7 +108,7 @@ msgstr "Remanescentes do Grupo de Exércitos F"
 
 msgctxt "mission/single/02-ger/1944_09_yugoslavia/story"
 msgid " The German army in Yugoslavia is in trouble. Bulgaria and Romania are no longer allies, and the Soviet offensive puts them under high pressure. Not only that, but all over Yugoslavia they are up against Tito’s Yugoslav partisans as well. The Soviet offensive starts with a fast move across the Danube, splitting the main German force in two. With resistance and attacks on all sides, fighting becomes increasingly difficult. All the action is around German units that are desperately trying to escape the squeeze everywhere, trying to get to the south and to friendly territory.\n\n In this mission, you will be in charge of clearing the bridges across the river Olt. Advance and take the area around the bridges. Hold the area until our trucks arrive from the north. Guide them to safety, which is on the road all the way to the south where it leaves the sector. Regardless of what happens, your objective is to get the majority of your troops out of here in one piece.  \n\nGood luck!"
-msgstr " O exército alemão na Iugoslávia está em apuros. A Bulgária e a Romênia não são mais aliadas, e a ofensiva soviética os pressiona fortemente. Além disso, por toda a Iugoslávia, enfrentam os partisanos iugoslavos de Tito. A ofensiva soviética começa com um movimento rápido através do Danúbio, dividindo a principal força alemã em duas. Com resistência e ataques por todos os lados, o combate torna-se cada vez mais difícil. Toda a ação gira em torno de unidades alemãs desesperadamente tentando escapar do cerco, tentando chegar ao sul e a território amigo.\n\nNesta missão, você estará encarregado de limpar as pontes sobre o rio Olt. Avance e tome a área ao redor das pontes. Segure a área até que nossos caminhões cheguem do norte. Guie-os para a segurança, que é a estrada que segue todo o caminho para o sul onde deixa o setor. Independentemente do que aconteça, seu objetivo é tirar a maioria das suas tropas daqui com vida.\n\nBoa sorte!"
+msgstr " O exército alemão na Iugoslávia está em apuros. A Bulgária e a Romênia não são mais aliadas, e a ofensiva soviética os pressiona fortemente. Além disso, por toda a Iugoslávia, enfrentam os partisanos iugoslavos de Tito. A ofensiva soviética começa com um movimento rápido através do Danúbio, dividindo a principal força alemã em duas. Com resistência e ataques por todos os lados, o combate torna-se cada vez mais difícil. Toda a ação gira em torno de unidades alemãs desesperadamente tentando escapar do cerco, tentando chegar ao sul e a território amigo.\n\nNesta missão, você estará encarregado de limpar as pontes sobre o rio Olt. Avance e tome a área ao redor das pontes. Segure a área até que nossos caminhões cheguem do norte. Guie-os até um lugar seguro na estrada, no extremo sul, onde ela deixa o setor. Independentemente do que aconteça, seu objetivo é tirar a maioria das suas tropas daqui com vida.\n\nBoa sorte!"
 
 msgctxt "mission/single/02-ger/1944_09_yugoslavia/task1"
 msgid "Rendez-vouz the Gebirgsjäger and Brandenburger units"
@@ -144,4 +144,4 @@ msgstr "Objetivo Secreto nº 2: Encontre os túneis de mineração subterrâneos
 
 msgctxt "mission/single/02-ger/1944_09_yugoslavia/timer"
 msgid "Hold the checkpoint until our transports get to safety:"
-msgstr "Segure o posto de controle até que nossos transportes cheguem à segurança:"
+msgstr "Segure o posto de controle até que nossos veículos de transporte cheguem a um lugar seguro:"

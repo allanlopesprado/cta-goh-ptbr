@@ -58,7 +58,7 @@ msgstr "27 de novembro de 1941"
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/mission_attack"
 msgid "Open the road to the soviet capital!"
@@ -82,11 +82,11 @@ msgstr "Missão fracassada!"
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/outro_failed_hq"
 msgid "The soviets managed to launch a successful counterattack that pushed the Wehrmacht further back than the starting positions of Operation Typhoon. In spite of all efforts, the Germans were unable to enter the Soviet capital. After learning the harsh lessons of the Soviet winter, German high command shifted focus to the next summer offensive."
-msgstr "Os soviéticos conseguiram lançar um contra-ataque bem-sucedido que empurrou a Wehrmacht além das posições iniciais da Operação Tufão. Apesar de todos os esforços, os alemães foram incapazes de entrar na capital soviética. Depois de aprender as duras lições do inverno soviético, o alto comando alemão deslocou o foco para a próxima ofensiva de verão."
+msgstr "Os soviéticos conseguiram lançar um contra-ataque bem-sucedido que forçou a Wehrmacht a recuar para trás das posições iniciais da Operação Tufão. Apesar de todos os esforços, os alemães foram incapazes de entrar na capital soviética. Depois de aprender as duras lições do inverno soviético, o alto comando alemão deslocou o foco para a próxima ofensiva de verão."
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/story"
 msgid "OPERATION TYPHOON - Krasnaya Polyana\n\nBriefing: The ultimate goal of Army Group Centre is at stake. The Soviet capital, right in our sights! We underestimated the enemy's strength. The only way to reach a decisive victory will be a full-blown frontal assault. Today we risk everything! To arms, Kameraden!\n\nGoals:\n - Advance into Moscow.\n - Demoralization of the Soviet people.\n - Destruction of the Red Army's capability for command and control."
-msgstr "OPERAÇÃO TUFÃO - Krasnaya Polyana\n\nOrdens: O objetivo final do Grupo de Exércitos Centro está em jogo. A capital soviética, bem à nossa frente! Subestimamos a força do inimigo. A única forma de alcançar uma vitória decisiva será um assalto frontal total. Hoje apostamos tudo! Às armas, Kameraden!\n\nObjetivos:\n - Avance sobre Moscou.\n - Desmoralização do povo soviético.\n - Destruição da capacidade de comando e controle do Exército Vermelho."
+msgstr "OPERAÇÃO TUFÃO - Krasnaya Polyana\n\nOrdens: O objetivo final do Grupo de Exércitos Centro está em jogo. A capital soviética, bem à nossa frente! Subestimamos a força do inimigo. A única forma de alcançar uma vitória decisiva será um assalto frontal total. Hoje apostamos tudo! Às armas, Kameraden!\n\nObjetivos:\n - Avance para dentro de Moscou.\n - Desmoralização do povo soviético.\n - Destruição da capacidade de comando e controle do Exército Vermelho."
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/narrator_start0"
 msgid "Welcome to the front line, Major! This is our field HQ, it must remain in our control!"
@@ -102,7 +102,7 @@ msgstr "O Exército Vermelho está trazendo reservas da Sibéria e vai lançar c
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/narrator_start3"
 msgid "Begin securing the objectives, meanwhile more reinforcements are being prepared for deployment!"
-msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para implantação!"
+msgstr "Comece a assegurar os objetivos, enquanto mais reforços estão sendo preparados para envio ao campo de batalha!"
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/allied_enemy_near_hq"
 msgid "Soldaten! Soviets are close to our Field HQ!"
@@ -118,4 +118,4 @@ msgstr "Major! Agora você pode solicitar ataques aéreos."
 
 msgctxt "mission/single/02-ger_skirmish/1941_11-ger_moscow/allied_enemypara"
 msgid "Watch the skies, Soviet paratroopers!"
-msgstr "Atenção aos céus, paraquedistas soviéticos!"
+msgstr "Atenção aos céus! Paraquedistas soviéticos!"
