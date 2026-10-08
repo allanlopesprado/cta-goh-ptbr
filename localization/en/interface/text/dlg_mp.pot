@@ -650,7 +650,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mp/unit_info/gun/range"
-msgid "range<x(175)>%1%<x(225)>%2%<x(275)>%3%<x(325)>%4%<x(375)>%5%"
+msgid "Range/Penetration<x(275)>%1%m<x(325)>%2%m<x(375)>(max)"
 msgstr ""
 
 msgctxt "mp/lobby/setup/settings.lobbyMode#/public"
@@ -2147,7 +2147,11 @@ msgid "Uploading (%.0f%)"
 msgstr ""
 
 msgctxt "mp/unit_info/gun/piercing"
-msgid "penetration (mm)<x(175)>%1%<x(225)>%2%<x(275)>%3%<x(325)>%4%<x(375)>%5%"
+msgid "%1%<x(275)>%2%mm<x(325)>%3%mm<x(375)>%5%mm<x(425)>(%4%m)"
+msgstr ""
+
+msgctxt "mp/unit_info/gun/explosive"
+msgid "%1%<x(275)>-<x(325)>-<x(375)>-<x(425)>(%2%m)"
 msgstr ""
 
 msgctxt "mp/lobby/button/result"
@@ -2294,7 +2298,7 @@ msgid "AI: Average"
 msgstr ""
 
 msgctxt "mp/unit_info/gun"
-msgid "Gun<x(175)>%1%"
+msgid "Gun<x(275)>%1%"
 msgstr ""
 
 msgctxt "mp/lobby/slot/menu/ai_hard"
@@ -3835,4 +3839,44 @@ msgstr ""
 
 msgctxt "mp/lobby/setup/settings.assignReinforcementsToPlayer#hint"
 msgid "If on, enables reinforcements to go to the player who buys the unit.\nIf off, reinforcements are distributed evenly to all players regardless of who buys the unit."
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/skip_preparation_ger"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/skip_preparation_rus"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/skip_preparation_fin"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/skip_preparation_usa"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/skip_preparation_eng"
+msgid "Skip preparation phase"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/move_spawn_ger"
+msgid "Move Deployment Point"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/move_spawn_rus"
+msgid "Move Deployment Point"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/move_spawn_fin"
+msgid "Move Deployment Point"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/move_spawn_usa"
+msgid "Move Deployment Point"
+msgstr ""
+
+msgctxt "mp/scene/unit_spawn/move_spawn_eng"
+msgid "Move Deployment Point"
 msgstr ""

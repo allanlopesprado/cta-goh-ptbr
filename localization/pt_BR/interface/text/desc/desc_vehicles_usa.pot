@@ -178,7 +178,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/57mm_m1_early"
 msgid "57mm Gun M1 (Early)"
-msgstr "57mm Gun M1 (Inicial)"
+msgstr "Canhão M1 de 57mm (Inicial)"
 
 msgctxt "info/special/57mm_m1_early"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -186,7 +186,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/57mm_m1_late"
 msgid "57mm Gun M1 (Late)"
-msgstr "57mm Gun M1 (Tardio)"
+msgstr "Canhão M1 de 57mm (Tardio)"
 
 msgctxt "info/special/57mm_m1_late"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -218,15 +218,15 @@ msgstr "<c(c3baae)>Canhão de Campo Leve</c>"
 
 msgctxt "desc/entity/75mm_m1a1"
 msgid "75mm M1A1 (M8 Carriage)"
-msgstr "75mm M1A1 (M8 Carriage)"
+msgstr "75mm M1A1 (Reparo M8)"
 
 msgctxt "info/special/75mm_m1a1"
 msgid "<c(c3baae)>Light Pack Howitzer</c>"
-msgstr "<c(c3baae)>Obuseiro de Pacote Leve</c>"
+msgstr "<c(c3baae)>Obuseiro Leve Desmontável</c>"
 
 msgctxt "desc/entity/75mm_m3a3"
 msgid "75mm M1A1 (M3A3 Carriage)"
-msgstr "75mm M1A1 (M3A3 Carriage)"
+msgstr "75mm M1A1 (Reparo M3A3)"
 
 msgctxt "info/special/75mm_m3a3"
 msgid "<c(c3baae)>Light Field Howitzer</c>"
@@ -562,51 +562,51 @@ msgstr "<c(c3baae)>Carro Blindado</c>"
 
 msgctxt "desc/entity/m2_halftrack"
 msgid "M2 Halftrack"
-msgstr "M2 Meia-lagarta"
+msgstr "M2 Semilagarta"
 
 msgctxt "info/special/m2_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m2_halftrack_at"
 msgid "M2 Halftrack"
-msgstr "M2 Meia-lagarta"
+msgstr "M2 Semilagarta"
 
 msgctxt "info/special/m2_halftrack_at"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m2a1_halftrack"
 msgid "M2A1 Halftrack"
-msgstr "M2A1 Meia-lagarta"
+msgstr "M2A1 Semilagarta"
 
 msgctxt "info/special/m2a1_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3_halftrack"
 msgid "M3 Halftrack"
-msgstr "M3 Meia-lagarta"
+msgstr "M3 Semilagarta"
 
 msgctxt "info/special/m3_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3_halftrack_inf"
 msgid "M3 Halftrack"
-msgstr "M3 Meia-lagarta"
+msgstr "M3 Semilagarta"
 
 msgctxt "info/special/m3_halftrack_inf"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3_halftrack_inf_late"
 msgid "M3 Halftrack"
-msgstr "M3 Meia-lagarta"
+msgstr "M3 Semilagarta"
 
 msgctxt "info/special/m3_halftrack_inf_late"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3_stuart_early"
 msgid "M3 Stuart (Early)"
@@ -674,27 +674,27 @@ msgstr "<c(c3baae)>Carro Blindado</c>"
 
 msgctxt "desc/entity/m3a1_halftrack"
 msgid "M3A1 Halftrack"
-msgstr "M3A1 Meia-lagarta"
+msgstr "M3A1 Semilagarta"
 
 msgctxt "info/special/m3a1_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3a1_halftrack_inf"
 msgid "M3A1 Halftrack"
-msgstr "M3A1 Meia-lagarta"
+msgstr "M3A1 Semilagarta"
 
 msgctxt "info/special/m3a1_halftrack_inf"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3a1_halftrack_inf_late"
 msgid "M3A1 Halftrack"
-msgstr "M3A1 Meia-lagarta"
+msgstr "M3A1 Semilagarta"
 
 msgctxt "info/special/m3a1_halftrack_inf_late"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m3a3_stuart"
 msgid "M3A3 Stuart"
@@ -746,7 +746,7 @@ msgstr "<c(c3baae)>Transportador de Morteiro</c>"
 
 msgctxt "desc/entity/m4a1_75_early"
 msgid "M4A1 (Early DV)"
-msgstr "M4A1 (Early DV)"
+msgstr "M4A1 (Inicial DV)"
 
 msgctxt "info/special/m4a1_75_early"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -954,7 +954,7 @@ msgstr "<c(c3baae)>Tanque Leve</c>"
 
 msgctxt "desc/entity/m5_hst"
 msgid "M5 High-Speed Tractor (HMG)"
-msgstr "M5 High-Speed Tractor (HMG)"
+msgstr "Trator de Alta Velocidade M5 (HMG)"
 
 msgctxt "info/special/m5_hst"
 msgid "<c(c3baae)>Transport</c>"

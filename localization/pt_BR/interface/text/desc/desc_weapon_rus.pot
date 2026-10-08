@@ -138,7 +138,7 @@ msgstr "82mm BM-37"
 
 msgctxt "desc/weapon/82mm_rs82"
 msgid "82mm RS-82 Rockets"
-msgstr "82mm RS-82 Rockets"
+msgstr "Foguetes RS-82 de 82mm"
 
 msgctxt "desc/weapon/85mm_52k"
 msgid "85mm L/55"
@@ -250,7 +250,7 @@ msgstr "305mm"
 
 msgctxt "desc/weapon/305mm_m1907"
 msgid "Obukhovskii 305mm/52 Pattern 1907"
-msgstr "Obukhovskii 305mm/52 Pattern 1907"
+msgstr "Obukhovskii 305mm/52 Modelo 1907"
 
 msgctxt "desc/weapon/ato_41_flame_thrower"
 msgid "ATO-41 Flamethrower"
@@ -302,11 +302,11 @@ msgstr "DT"
 
 msgctxt "desc/weapon/dt_bipod"
 msgid "DT (Bipod)"
-msgstr "DT (Bipod)"
+msgstr "DT (Bipé)"
 
 msgctxt "desc/weapon/dt_x2"
 msgid "Dual DT"
-msgstr "Dual DT"
+msgstr "DT (2x)"
 
 msgctxt "desc/weapon/far"
 msgid "Fedorov Avtomat"
@@ -334,11 +334,11 @@ msgstr "Maxim M1910/30"
 
 msgctxt "desc/weapon/maxim_1910_30_x2"
 msgid "Dual Maxim M1910/30"
-msgstr "Dual Maxim M1910/30"
+msgstr "Maxim M1910/30 (2x)"
 
 msgctxt "desc/weapon/maxim_1910_30_x4"
 msgid "Quad Maxim M1910/30"
-msgstr "Quad Maxim M1910/30"
+msgstr "Maxim M1910/30 (4x)"
 
 msgctxt "desc/weapon/mosin"
 msgid "Mosin Nagant"
@@ -354,7 +354,7 @@ msgstr "Mosin (Baioneta)"
 
 msgctxt "desc/weapon/mosin_carbine"
 msgid "Mosin Carbine"
-msgstr "Mosin Carbine"
+msgstr "Carabina Mosin"
 
 msgctxt "desc/weapon/mosin_grenade_launcher"
 msgid "Mosin Dyakonov (HE)"
@@ -362,11 +362,11 @@ msgstr "Mosin Dyakonov (HE)"
 
 msgctxt "desc/weapon/mosin_scope"
 msgid "Mosin (Scope)"
-msgstr "Mosin (Scope)"
+msgstr "Mosin (Mira Telescópica)"
 
 msgctxt "desc/weapon/mosin_silencer"
 msgid "Mosin (Silencer)"
-msgstr "Mosin (Silencer)"
+msgstr "Mosin (Silenciador)"
 
 msgctxt "desc/weapon/nagant_revolver"
 msgid "Nagant M1895 Revolver"
@@ -374,7 +374,7 @@ msgstr "Nagant M1895 Revólver"
 
 msgctxt "desc/weapon/nagant_silencer"
 msgid "Nagant M1895 Revolver (Silenced)"
-msgstr "Nagant M1895 Revólver (Silenciada)"
+msgstr "Nagant M1895 Revólver (Silenciado)"
 
 msgctxt "desc/weapon/osp30"
 msgid "OSP-30 Flare Pistol"
@@ -398,7 +398,7 @@ msgstr "PPSH-41 (Tambor)"
 
 msgctxt "desc/weapon/ppsh41_stick"
 msgid "PPSH-41 (Stick)"
-msgstr "PPSH-41 (Stick)"
+msgstr "PPSH-41 (Carregador Tipo Caixa)"
 
 msgctxt "desc/weapon/ptrd"
 msgid "PTRD-41"
@@ -426,7 +426,7 @@ msgstr "ShKAS"
 
 msgctxt "desc/weapon/shotgun"
 msgid "Double Barrel Shotgun"
-msgstr "Double Barrel Shotgun"
+msgstr "Espingarda de Dois Canos"
 
 msgctxt "desc/weapon/svt38"
 msgid "SVT-38"
@@ -438,7 +438,7 @@ msgstr "SVT-40"
 
 msgctxt "desc/weapon/svt40_carbine"
 msgid "SVT-40 Carbine"
-msgstr "SVT-40 Carbine"
+msgstr "Carabina SVT-40"
 
 msgctxt "desc/weapon/tt33"
 msgid "TT-33"
@@ -454,27 +454,27 @@ msgstr "76mm M1938 L/55"
 
 msgctxt "desc/weapon/82mm_bm8_24"
 msgid "BM-8-24 (24x82mm Rockets)"
-msgstr "BM-8-24 (24x82mm Rockets)"
+msgstr "BM-8-24 (Foguetes: 24x82mm)"
 
 msgctxt "desc/weapon/82mm_bm8_48"
 msgid "BM-8-48 (48x82mm Rockets)"
-msgstr "BM-8-48 (48x82mm Rockets)"
+msgstr "BM-8-48 (Foguetes: 48x82mm)"
 
 msgctxt "desc/weapon/132mm_bm13"
 msgid "BM-13-16 (16x132mm Rockets)"
-msgstr "BM-13-16 (16x132mm Rockets)"
+msgstr "BM-13-16 (Foguetes: 16x132mm)"
 
 msgctxt "desc/weapon/300mm_m30"
 msgid "M-31-4 (4x300mm Rockets)"
-msgstr "M-31-4 (4x300mm Rockets)"
+msgstr "M-31-4 (Foguetes: 4x300mm)"
 
 msgctxt "desc/weapon/300mm_m31"
 msgid "M-31-8 (8x300mm Rockets)"
-msgstr "M-31-8 (8x300mm Rockets)"
+msgstr "M-31-8 (Foguetes: 8x300mm)"
 
 msgctxt "desc/weapon/300mm_bm30"
 msgid "BM-31-12 (12x300mm Rockets)"
-msgstr "BM-31-12 (12x300mm Rockets)"
+msgstr "BM-31-12 (Foguetes: 12x300mm)"
 
 msgctxt "desc/weapon/45mm_21k"
 msgid "45mm (21-K) L/46"

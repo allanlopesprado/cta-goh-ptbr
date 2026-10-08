@@ -58,7 +58,7 @@ msgstr "Os kits de reparo estão dentro de cada veículo. Se ficar sem eles, voc
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/hints/repair2"
 msgid "There is ammunition dispersed among crates. To refuel, you need to bring in a fuel truck close to the vehicle or alternatively scavenge for fuel using a jerrycan which can be found inside the vehicle."
-msgstr "Há munição dispersa entre caixas. Para reabastecer combustível, você precisa trazer um caminhão de combustível perto do veículo ou procurar combustível com um jerrican encontrado dentro do veículo."
+msgstr "Há munição dispersa entre caixas. Para reabastecer combustível, você precisa trazer um caminhão de combustível perto do veículo ou procurar combustível com um jerricã encontrado dentro do veículo."
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/hints/plantmines"
 msgid "To mine an area, click the \"AT Mine\" or \"AP Mine\" icons in the \"Items\" menu. Point to the area by left-clicking anywhere on the map. Holding shift and point will queue planting mines in various locations. Holding the left-click and dragging the cursor allows placing a number of mines in a line. Your soldier will start mining from his location in the direction of the click. It takes a soldier a few moments to plant each mine, AT-mines take longer to plant for example."
@@ -78,7 +78,7 @@ msgstr "Estamos sob ataque! Todos ao chão! Alguma patrulha de fronteira soviét
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/die2"
 msgid "We will provide suppressive fire! MEDIC! Take care of that man!"
-msgstr "Daremos fogo de supressão! MÉDICO! Cuidem desse homem!"
+msgstr "Daremos fogo de supressão! MÉDICO! Cuide desse homem!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/dig"
 msgid "They know we're here, and more patrols must be on their way. We will fend off any counter-attack! Dig foxholes, move it! If you need more shovels, there's more in the truck."
@@ -106,11 +106,11 @@ msgstr "Merda! Minas! Saiam!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/start1_2"
 msgid "The truck is done. We will continue on foot and start by demining this road."
-msgstr "O caminhão acabou. Continuaremos a pé e começaremos desminando esta estrada."
+msgstr "O caminhão está inutilizado. Continuaremos a pé e começaremos desminando esta estrada."
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/start2"
 msgid "You! Grab a mine detector from the truck and sweep the road ahead!"
-msgstr "Você! Pegue um detector de minas do caminhão e limpe a estrada à frente!"
+msgstr "Você! Pegue um detector de minas do caminhão e varra a estrada à frente!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/tank"
 msgid "This thing has no ammo, no fuel! What a bloody disaster. You'll need to stock her up!"
@@ -182,7 +182,7 @@ msgstr "Plante pelo menos 10 minas AT nesta área!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/convoy"
 msgid "A Russian convoy will soon be traveling along the eastern road from the north. Mine the road across the bridge!"
-msgstr "Um comboio russo em breve percorrerá a estrada leste pelo norte. Mine a estrada na travessia da ponte!"
+msgstr "Um comboio russo em breve percorrerá a estrada leste pelo norte. Mine a estrada do outro lado da ponte!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/plantmines"
 msgid "Soldiers, grab both antipersonnel and anti-tank mines from the truck. Plant each at the marked locations!"
@@ -218,4 +218,4 @@ msgstr "Muito bem, soldado. Você sobreviveu à sua primeira batalha. Parece que
 
 msgctxt "mission/single/00-bootcamp/2-combat/outro_failed"
 msgid "Make sure you follow orders and make sure you do it quickly. You don't want to end up in a Strafbatalion!"
-msgstr "Certifique-se de seguir as ordens e fazê-lo rapidamente. Você não quer acabar em um Strafbatallion!"
+msgstr "Certifique-se de seguir as ordens e fazê-lo rapidamente. Você não quer acabar em um Strafbataillon!"

@@ -62,7 +62,7 @@ msgstr "Movam todas as tropas para Oeste — vamos sair pelo mesmo caminho que v
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/01"
 msgid "Verdammt... That column stretches farther than I can see... Trucks, tanks, everything..."
-msgstr "Verdammt... Essa coluna se estende até onde consigo ver... Caminhões, tanques, tudo..."
+msgstr "Verdammt... Essa coluna se estende além de onde consigo ver... Caminhões, tanques, tudo..."
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[narrators]/ger_soldier1/02"
 msgid "Should we go back and report? Command should know they've got a lot of tanks."
@@ -126,7 +126,7 @@ msgstr "Preparar posições defensivas em todos os flancos"
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_03"
 msgid "Do not let any British trucks reach the Northern end of the highway (at least 3 your soldiers must survive)"
-msgstr "Não deixe nenhum caminhão britânico chegar ao trecho norte da rodovia (pelo menos 3 soldados devem sobreviver)"
+msgstr "Não deixe nenhum caminhão britânico chegar à extremidade norte da rodovia (pelo menos 3 dos seus soldados devem sobreviver)"
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/[tasks]/task_04"
 msgid "Fall back with all your forces to the West (at least 3 soldiers must survive)"
@@ -166,4 +166,4 @@ msgstr "Kampfgruppe Jungwirth"
 
 msgctxt "mission/single/051-ger_finesthour/1944_09_koevering/story"
 msgid "A few days ago, the British paratroopers in Arnhem retreated South across the Rhine River, effectively putting an end to Operation Market Garden. \n\n All that remains of the original plan is the salient around Highway 69 (Hell’s Highway), and the Allies are hanging on to it with everything they have. \n\n Your unit is part of “Kampfgruppe Jungwirth”, which is in position near Koevering, ready to attack Highway 69. \n\n If you succeed, the allies to the North will be trapped! Take the highway, and hold it!"
-msgstr "Há alguns dias, os paraquedistas britânicos em Arnhem recuaram para o sul cruzando o Rio Reno, encerrando efetivamente a Operação Market Garden.\n\n Tudo o que resta do plano original é o corredor ao redor da Rodovia 69 (A Estrada do Inferno), que os Aliados defendem com tudo o que têm.\n\n Sua unidade faz parte da 'Kampfgruppe Jungwirth', posicionada perto de Koevering, pronta para atacar a Rodovia 69.\n\n Se você tiver sucesso, os aliados ao norte ficarão presos! Tome a rodovia e a mantenha!"
+msgstr "Há alguns dias, os paraquedistas britânicos em Arnhem recuaram para o sul cruzando o Rio Reno, encerrando efetivamente a Operação Market Garden.\n\n Tudo o que resta do plano original é o corredor ao redor da Rodovia 69 (Rodovia do Inferno), que os Aliados defendem com tudo o que têm.\n\n Sua unidade faz parte da 'Kampfgruppe Jungwirth', posicionada perto de Koevering, pronta para atacar a Rodovia 69.\n\n Se você tiver sucesso, os aliados ao norte ficarão presos! Tome a rodovia e a mantenha!"

@@ -50,7 +50,7 @@ msgstr "Fallschirmjäger! Precisamos cruzar o rio se quisermos escapar do cerco 
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/02"
 msgid "We have spread out into small squads to try to get through the Allied lines. This sector has Americans at every corner, so watch out!"
-msgstr "Espalhamo-nos em pequenos esquadrões para tentar atravessar as linhas aliadas. Este setor tem americanos em cada esquina — cuidado!"
+msgstr "Espalhamo-nos em pequenas esquadras para tentar atravessar as linhas aliadas. Este setor tem americanos em cada esquina — cuidado!"
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/03"
 msgid "Your first objective is to approach the bridge at Magny. We will see if it's possible to cross the river at this point."
@@ -66,11 +66,11 @@ msgstr "A vegetação, a chuva e a escuridão dificultam muito avistar o inimigo
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/06"
 msgid "This bridge is no good. It's barricaded and swarming with Americans. We also risk them blowing it up if we get into a firefight. We need to find another way!"
-msgstr "Esta ponte não serve. Está barricada e infestada de americanos. Também corremos o risco de eles a destruírem se entrarmos em combate. Precisamos encontrar outro caminho!"
+msgstr "Esta ponte não serve. Está bloqueada por barricadas e infestada de americanos. Também corremos o risco de eles a destruírem se entrarmos em combate. Precisamos encontrar outro caminho!"
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/07"
 msgid "I hear gunshots! Kameraden, there is another squad being pinned down. Go and assist them!"
-msgstr "Ouço tiros! Kameraden, há outra esquadra sendo imobilizado. Vá ajudá-los!"
+msgstr "Ouço tiros! Kameraden, há outra esquadra imobilizada pelo fogo inimigo. Vá ajudá-los!"
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator/08"
 msgid "Fallschirmjäger! It's good to see you. We bring bad news from Magny. The bridge is a no-go. Have you found another way out?"
@@ -114,7 +114,7 @@ msgstr "Jawohl, Herr Hauptmann! Localizamos um vau no rio, mas os americanos nos
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/02"
 msgid "The Canadians and Americans want to prove whose artillery is more accurate. They've been firing at multiple coordinates all evening."
-msgstr "Os canadenses e americanos querem provar cuja artilharia é mais precisa. Estiveram atirando em múltiplas coordenadas a noite toda."
+msgstr "Os canadenses e americanos querem provar qual das duas artilharias é mais precisa. Estiveram atirando em múltiplas coordenadas a noite toda."
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/narrator2/03"
 msgid "We could definitely try, Herr Hauptmann! I believe the enemy is directing the artillery from a radio station inside the nearby manor. "
@@ -146,7 +146,7 @@ msgstr "Aproxime-se da ponte de Magny para realizar reconhecimento."
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task2"
 msgid "Rescue the friendly squad."
-msgstr "Resgate a esquadra amigo."
+msgstr "Resgate a esquadra amiga."
 
 msgctxt "mission/single/02-ger-west/1944_08_19_falaise_escape/task3"
 msgid "Acquire an American portable radio to give false artillery coordinates in order to eliminate the US forces at the ford."

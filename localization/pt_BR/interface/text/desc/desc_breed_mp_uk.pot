@@ -51,7 +51,7 @@ msgstr "Radioperador de Companhia da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_crew"
 msgid "51st Highland Div. Crew [TA]"
-msgstr "Divisão Tripulação da 51ª Divisão Highland [TA]"
+msgstr "Tripulação da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_detach_com_cpl"
 msgid "51st Highland Div. Detachment Commander [TA]"
@@ -115,7 +115,7 @@ msgstr "Atirador da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_rifle_gren"
 msgid "51st Highland Div. Rifle Grenadier [TA]"
-msgstr "Granadeiro Atirador da 51ª Divisão Highland [TA]"
+msgstr "Granadeiro de Fuzil da 51ª Divisão Highland [TA]"
 
 msgctxt "desc/human/mp/eng/early/51hl_sec_2ic"
 msgid "51st Highland Div. Section 2IC [TA]"
@@ -147,7 +147,7 @@ msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/early/antitank_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/early/artilleryman"
 msgid "Royal Artilleryman [BA]"
@@ -195,7 +195,7 @@ msgstr "Atirador Commando [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_rifle_gren"
 msgid "Commando Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador Commando [BA]"
+msgstr "Granadeiro de Fuzil Commando [BA]"
 
 msgctxt "desc/human/mp/eng/early/com_sec_com"
 msgid "Commando Section Commander [BA]"
@@ -375,7 +375,7 @@ msgstr "Atirador da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_rifle_gren"
 msgid "Guards Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da Guarda [BA]"
+msgstr "Granadeiro de Fuzil da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_sec_2ic"
 msgid "Guards Section 2IC [BA]"
@@ -531,7 +531,7 @@ msgstr "Operador Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Auxiliar Motorizado. de Metralhadora [BA]"
+msgstr "Auxiliar Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/early/mot_rifle"
 msgid "Motor Rifleman [BA]"
@@ -607,7 +607,7 @@ msgstr "Pioneiro Construtor [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_gren"
 msgid "Pioneer Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador de Pioneiros [BA]"
+msgstr "Granadeiro de Fuzil de Pioneiros [BA]"
 
 msgctxt "desc/human/mp/eng/early/pio_mg"
 msgid "Pioneer MG Operator [BA]"
@@ -727,7 +727,7 @@ msgstr "Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/early/rifle_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/early/sec_2ic"
 msgid "Section 2IC [BA]"
@@ -779,103 +779,103 @@ msgstr "Tripulação de Veículo [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_boys"
 msgid "1st Airlanding AT Inf. [BA]"
-msgstr "Infantaria Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_boys_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "Auxiliar Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_crew"
 msgid "1st Airlanding Crew [BA]"
-msgstr "Tripulação da 1ª Divisão Aerotransportada [BA]"
+msgstr "Tripulação da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_mg"
 msgid "1st Airlanding MG Operator [BA]"
-msgstr "Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_mg_asst"
 msgid "1st Airlanding MG Asst. [BA]"
-msgstr "Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_piat"
 msgid "1st Airlanding AT Inf. [BA]"
-msgstr "Infantaria Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_piat_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "Auxiliar Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_pio"
 msgid "1st Airlanding Pioneer [BA]"
-msgstr "Pioneiro Aerotransportada 1ª [BA]"
+msgstr "Pioneiro da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_pio_sec_com"
 msgid "1st Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_pio_sec_com_cpl"
 msgid "1st Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_mg"
 msgid "1st Airlanding Recon MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_mg_asst"
 msgid "1st Airlanding Recon MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_rifle"
 msgid "1st Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_2ic"
 msgid "1st Airlanding Recon Section 2IC [BA]"
-msgstr "Reconhecimento Subcomandante da Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_com"
 msgid "1st Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_com_bino"
 msgid "1st Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_smg"
 msgid "1st Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sniper"
 msgid "1st Airlanding Recon Sniper [BA]"
-msgstr "Reconhecimento Franco-atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Franco-atirador de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rifle"
 msgid "1st Airlanding Rifleman [BA]"
-msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_rifle_band"
 msgid "1st Airlanding Rifleman [BA]"
-msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_2ic"
 msgid "1st Airlanding Section 2IC [BA]"
-msgstr "Subcomandante da Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_com"
 msgid "1st Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_com_cpl"
 msgid "1st Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_smg"
 msgid "1st Airlanding SMG Inf. [BA]"
-msgstr "Infantaria SMG da 1ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria com Submetralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_land_sniper"
 msgid "1st Airlanding Sniper [BA]"
-msgstr "Franco-atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Franco-atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_batman"
 msgid "1st Airborne Batman [BA]"
@@ -1027,7 +1027,7 @@ msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rifle_gren"
 msgid "1st Airborne Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Granadeiro de Fuzil da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_2ic"
 msgid "1st Airborne Section 2IC [BA]"
@@ -1083,7 +1083,7 @@ msgstr "Comandante de Companhia da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_crew"
 msgid "51st Highland Div. Crew [BA]"
-msgstr "Divisão Tripulação da 51ª Divisão Highland [BA]"
+msgstr "Tripulação da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_detach_com"
 msgid "51st Highland Div. Detachment Commander [BA]"
@@ -1139,7 +1139,7 @@ msgstr "Atirador da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_rifle_gren"
 msgid "51st Highland Div. Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 51ª Divisão Highland [BA]"
+msgstr "Granadeiro de Fuzil da 51ª Divisão Highland [BA]"
 
 msgctxt "desc/human/mp/eng/mid/51hl_rifle_sniper"
 msgid "51st Highland Div. Sniper [BA]"
@@ -1247,7 +1247,7 @@ msgstr "Atirador da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_rifle_gren"
 msgid "7th AD. Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 7ª Divisão Blindada [BA]"
+msgstr "Granadeiro de Fuzil da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_rifle_sniper"
 msgid "7th AD. Sniper [BA]"
@@ -1311,7 +1311,7 @@ msgstr "Auxiliar Antitanque [BA]"
 
 msgctxt "desc/human/mp/eng/mid/antitank_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/mid/antitank_piat"
 msgid "AT Inf. [BA]"
@@ -1391,7 +1391,7 @@ msgstr "Atirador Commando [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_rifle_gren"
 msgid "Commando Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador Commando [BA]"
+msgstr "Granadeiro de Fuzil Commando [BA]"
 
 msgctxt "desc/human/mp/eng/mid/com_sec_com"
 msgid "Commando Section Commander [BA]"
@@ -1539,7 +1539,7 @@ msgstr "Operador Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Auxiliar Motorizado. de Metralhadora [BA]"
+msgstr "Auxiliar Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/mid/mot_rifle"
 msgid "Motor Rifleman [BA]"
@@ -1723,7 +1723,7 @@ msgstr "Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rifle_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rifle_sniper"
 msgid "Sniper [BA]"
@@ -1759,7 +1759,7 @@ msgstr "Royal Marine Commando Atirador [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_rifle_gren"
 msgid "Royal Marine Commando Rifle Grenadier [RM]"
-msgstr "Royal Marine Commando Granadeiro Atirador [RM]"
+msgstr "Royal Marine Commando Granadeiro de Fuzil [RM]"
 
 msgctxt "desc/human/mp/eng/mid/rm_com_sniper"
 msgid "Royal Marine Commando Sniper [RM]"
@@ -1839,7 +1839,7 @@ msgstr "Atirador do SAS [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_rifle_gren"
 msgid "SAS Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador do SAS [BA]"
+msgstr "Granadeiro de Fuzil do SAS [BA]"
 
 msgctxt "desc/human/mp/eng/mid/sas_sec_com"
 msgid "SAS Section Commander [BA]"
@@ -1959,7 +1959,7 @@ msgstr "Veterano Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_rifle_gren"
 msgid "Veteran Rifle Grenadier [BA]"
-msgstr "Veterano Granadeiro Atirador [BA]"
+msgstr "Veterano Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/mid/vet_rifle_sniper"
 msgid "Veteran Sniper [BA]"
@@ -1995,95 +1995,95 @@ msgstr "Veterano Infantaria SMG [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_crew"
 msgid "1st Airlanding Crew [BA]"
-msgstr "Tripulação da 1ª Divisão Aerotransportada [BA]"
+msgstr "Tripulação da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_mg"
 msgid "1st Airlanding MG Operator [BA]"
-msgstr "Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_mg_asst"
 msgid "1st Airlanding MG Asst. [BA]"
-msgstr "Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_piat"
 msgid "1st Airlanding AT Inf. [BA]"
-msgstr "Infantaria Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_piat_asst"
 msgid "1st Airlanding AT Asst. [BA]"
-msgstr "Auxiliar Antitanque da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar Antitanque da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_pio"
 msgid "1st Airlanding Pioneer [BA]"
-msgstr "Pioneiro Aerotransportada 1ª [BA]"
+msgstr "Pioneiro da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_pio_sec_com"
 msgid "1st Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_pio_sec_com_cpl"
 msgid "1st Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_mg"
 msgid "1st Airlanding Recon MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_mg_asst"
 msgid "1st Airlanding Recon MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_rifle"
 msgid "1st Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_2ic"
 msgid "1st Airlanding Recon Section 2IC [BA]"
-msgstr "Reconhecimento Subcomandante da Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_com"
 msgid "1st Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_com_bino"
 msgid "1st Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_smg"
 msgid "1st Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 1ª [BA]"
+msgstr "Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sniper"
 msgid "1st Airlanding Recon Sniper [BA]"
-msgstr "Reconhecimento Franco-atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Franco-atirador de Reconhecimento da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rifle"
 msgid "1st Airlanding Rifleman [BA]"
-msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_rifle_band"
 msgid "1st Airlanding Rifleman [BA]"
-msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sec_2ic"
 msgid "1st Airlanding Section 2IC [BA]"
-msgstr "Subcomandante da Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sec_com"
 msgid "1st Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sec_com_cpl"
 msgid "1st Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 1ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_smg"
 msgid "1st Airlanding SMG Inf. [BA]"
-msgstr "Infantaria SMG da 1ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria com Submetralhadora da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_land_sniper"
 msgid "1st Airlanding Sniper [BA]"
-msgstr "Franco-atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Franco-atirador da 1ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_batman"
 msgid "1st Airborne Batman [BA]"
@@ -2239,7 +2239,7 @@ msgstr "Atirador da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rifle_gren"
 msgid "1st Airborne Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 1ª Divisão Aerotransportada [BA]"
+msgstr "Granadeiro de Fuzil da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_sec_2ic"
 msgid "1st Airborne Section 2IC [BA]"
@@ -2275,91 +2275,91 @@ msgstr "Franco-atirador da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_crew"
 msgid "6th Airlanding Crew [BA]"
-msgstr "Tripulação da 6ª Divisão Aerotransportada [BA]"
+msgstr "Tripulação da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_mg"
 msgid "6th Airlanding MG Operator [BA]"
-msgstr "Operador de Metralhadora da 6ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_mg_asst"
 msgid "6th Airlanding MG Asst. [BA]"
-msgstr "Auxiliar de Metralhadora da 6ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_piat"
 msgid "6th Airlanding AT Inf. [BA]"
-msgstr "Infantaria Antitanque da 6ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria Antitanque da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_piat_asst"
 msgid "6th Airlanding AT Asst. [BA]"
-msgstr "Auxiliar Antitanque da 6ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar Antitanque da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_pio"
 msgid "6th Airlanding Pioneer [BA]"
-msgstr "Pioneiro Aerotransportada 6ª [BA]"
+msgstr "Pioneiro da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_pio_sec_com"
 msgid "6th Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_pio_sec_com_cpl"
 msgid "6th Airlanding Pioneer Section Commander [BA]"
-msgstr "Pioneiro Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Pioneiros da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_mg"
 msgid "6th Airlanding Recon MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 6ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_mg_asst"
 msgid "6th Airlanding Recon MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 6ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_rifle"
 msgid "6th Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 6ª [BA]"
+msgstr "Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_2ic"
 msgid "6th Airlanding Recon Section 2IC [BA]"
-msgstr "Reconhecimento Subcomandante da Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_com"
 msgid "6th Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_com_bino"
 msgid "6th Airlanding Recon Section Commander [BA]"
-msgstr "Reconhecimento Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_smg"
 msgid "6th Airlanding Recon [BA]"
-msgstr "Reconhecimento Aerotransportada 6ª [BA]"
+msgstr "Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rifle"
 msgid "6th Airlanding Rifleman [BA]"
-msgstr "Atirador da 6ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rifle_band"
 msgid "6th Airlanding Rifleman [BA]"
-msgstr "Atirador da 6ª Divisão Aerotransportada [BA]"
+msgstr "Atirador da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sec_2ic"
 msgid "6th Airlanding Section 2IC [BA]"
-msgstr "Subcomandante da Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Subcomandante de Seção da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sec_com"
 msgid "6th Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sec_com_cpl"
 msgid "6th Airlanding Section Commander [BA]"
-msgstr "Comandante de Seção da 6ª Divisão Aerotransportada [BA]"
+msgstr "Comandante de Seção da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_smg"
 msgid "6th Airlanding SMG Inf. [BA]"
-msgstr "Infantaria SMG da 6ª Divisão Aerotransportada [BA]"
+msgstr "Infantaria com Submetralhadora da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_sniper"
 msgid "6th Airlanding Sniper [BA]"
-msgstr "Franco-atirador da 6ª Divisão Aerotransportada [BA]"
+msgstr "Franco-atirador da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_batman"
 msgid "6th Airborne Batman [BA]"
@@ -2475,7 +2475,7 @@ msgstr "Atirador da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_rifle_gren"
 msgid "6th Airborne Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 6ª Divisão Aerotransportada [BA]"
+msgstr "Granadeiro de Fuzil da 6ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_para_sec_2ic"
 msgid "6th Airborne Section 2IC [BA]"
@@ -2595,7 +2595,7 @@ msgstr "Operador Motorizado de Metralhadora da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_mg_asst"
 msgid "7th AD. Motor MG Asst. [BA]"
-msgstr "Auxiliar Motorizado. de Metralhadora da 7ª Divisão Blindada [BA]"
+msgstr "Auxiliar Motorizado de Metralhadora da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat"
 msgid "7th AD. Motor AT Inf. [BA]"
@@ -2695,7 +2695,7 @@ msgstr "Atirador da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_rifle_gren"
 msgid "7th AD. Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da 7ª Divisão Blindada [BA]"
+msgstr "Granadeiro de Fuzil da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/7th_ad_rifle_sniper"
 msgid "7th AD. Sniper [BA]"
@@ -2747,7 +2747,7 @@ msgstr "Tripulação de Veículo da 7ª Divisão Blindada [BA]"
 
 msgctxt "desc/human/mp/eng/late/antitank_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/late/antitank_piat"
 msgid "AT Inf. [BA]"
@@ -2815,7 +2815,7 @@ msgstr "Atirador Commando [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_rifle_gren"
 msgid "Commando Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador Commando [BA]"
+msgstr "Granadeiro de Fuzil Commando [BA]"
 
 msgctxt "desc/human/mp/eng/late/com_rifle_piat"
 msgid "Commando AT Inf. [BA]"
@@ -3031,7 +3031,7 @@ msgstr "Operador Motorizado de Metralhadora da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_mg_asst"
 msgid "Guards AD. Motor MG Asst. [BA]"
-msgstr "Auxiliar Motorizado. de Metralhadora da Divisão Blindada da Guarda [BA]"
+msgstr "Auxiliar Motorizado de Metralhadora da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat"
 msgid "Guards AD. Motor AT Inf. [BA]"
@@ -3131,7 +3131,7 @@ msgstr "Atirador da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_rifle_gren"
 msgid "Guards AD. Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador da Divisão Blindada da Guarda [BA]"
+msgstr "Granadeiro de Fuzil da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_rifle_sniper"
 msgid "Guards AD. Sniper [BA]"
@@ -3215,7 +3215,7 @@ msgstr "Operador Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_mg_asst"
 msgid "Motor MG Asst. [BA]"
-msgstr "Auxiliar Motorizado. de Metralhadora [BA]"
+msgstr "Auxiliar Motorizado de Metralhadora [BA]"
 
 msgctxt "desc/human/mp/eng/late/mot_piat"
 msgid "Motor AT Inf. [BA]"
@@ -3427,7 +3427,7 @@ msgstr "Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/rifle_gren"
 msgid "Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador [BA]"
+msgstr "Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/late/rifle_piat"
 msgid "AT Inf. [BA]"
@@ -3563,7 +3563,7 @@ msgstr "Atirador do SAS [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_rifle_gren"
 msgid "SAS Rifle Grenadier [BA]"
-msgstr "Granadeiro Atirador do SAS [BA]"
+msgstr "Granadeiro de Fuzil do SAS [BA]"
 
 msgctxt "desc/human/mp/eng/late/sas_sec_com"
 msgid "SAS Section Commander [BA]"
@@ -3707,7 +3707,7 @@ msgstr "Veterano Atirador [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_rifle_gren"
 msgid "Veteran Rifle Grenadier [BA]"
-msgstr "Veterano Granadeiro Atirador [BA]"
+msgstr "Veterano Granadeiro de Fuzil [BA]"
 
 msgctxt "desc/human/mp/eng/late/vet_rifle_sniper"
 msgid "Veteran Sniper [BA]"

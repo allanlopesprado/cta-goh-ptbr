@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "tag": "v1.0.20",
+  "title": "v1.0.20 — Revisão contextual PT-BR e documentação atualizada",
+  "sourceReferenceDate": "2026-10-07",
+  "sourceManifest": "translation/source-manifest.json",
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "gameVersion": null,
+  "gameTested": false,
+  "pakSha256": "1b49df2bb3d2480df9ef1aa5864e3c0788dd2b18ef0d99b8cb4d2bf648be1ff2",
+  "pakBytes": 3876403,
+  "pakFiles": 363,
+  "changelog": "CHANGELOG.md"
+}

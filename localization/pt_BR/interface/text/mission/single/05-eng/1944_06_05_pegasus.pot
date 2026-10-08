@@ -22,7 +22,7 @@ msgstr "Ponte Pegasus"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/outro_completed"
 msgid "Victory is ours, you have done an outstanding job. This will show Jerry what we’re capable of. The invasion beaches will not be threatened by flanking attacks!"
-msgstr "A vitória é nossa; você realizou um trabalho excepcional. Isso vai mostrar ao Jerry o que somos capazes. As praias de invasão não serão ameaçadas por ataques de flanco!"
+msgstr "A vitória é nossa; você realizou um trabalho excepcional. Isso vai mostrar aos alemães do que somos capazes. As praias de desembarque não serão ameaçadas por ataques de flanco!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/outro_failed"
 msgid "Alas there is no success to be reported. The invasion beaches will be vulnerable to counterattacks as a result, and there is little we can do to prevent that. We must try again immediately!"
@@ -50,7 +50,7 @@ msgstr "Você perdeu todas as suas unidades."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_01"
 msgid "The pilots almost got us killed faster than Jerry could! Is everyone alright? Get your stuff and get out."
-msgstr "Os pilotos quase nos mataram mais rápido do que Jerry poderia! Alguém está bem? Pegue seu equipamento e saia."
+msgstr "Os pilotos quase nos mataram antes que os alemães pudessem! Está todo mundo bem? Peguem suas coisas e saiam."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_02"
 msgid "This bridge is what it’s all about. We have to capture and hold it until our reinforcements arrive."
@@ -58,7 +58,7 @@ msgstr "Esta ponte é o que importa. Temos de capturá-la e mantê-la até que o
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_03"
 msgid "Thank God Jerry didn't hear us landing. Let's keep it that way."
-msgstr "Graças a Deus Jerry não nos ouviu pousar. Vamos manter assim."
+msgstr "Graças a Deus os alemães não nos ouviram pousar. Vamos manter assim."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_04"
 msgid "Sir, there's a pillbox up ahead. Could be a right pain. Best knock it out first."
@@ -102,7 +102,7 @@ msgstr "A ponte é nossa. Fique concentrado — tenho certeza de que virão mais
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_01"
 msgid "It seems like Jerry hasn’t rigged the bridge with explosives, I’d wager they have them stashed somewhere nearby. Let’s have a look around."
-msgstr "Parece que Jerry não armou a ponte com explosivos — apostaria que os têm guardados em algum lugar próximo. Vamos dar uma olhada ao redor."
+msgstr "Parece que os alemães não prepararam a ponte com explosivos. Aposto que os guardaram em algum lugar aqui perto. Vamos dar uma olhada ao redor."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_02"
 msgid "Look, some lads from the other landing zone have arrived."
@@ -122,11 +122,11 @@ msgstr "Acho que é melhor que nada. De qualquer forma, este homem deve tratar a
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_06"
 msgid "Looks like that's the last of them. The bridge is clear, area secure, and Jerry is running away. Well done! Now back to the bridge. Squad leader’s meeting in 10."
-msgstr "Parece que foi o último deles. A ponte está limpa, área assegurada, e Jerry está fugindo. Bom trabalho! Agora de volta à ponte. Reunião dos líderes de seção em 10 minutos."
+msgstr "Parece que eram os últimos. A ponte está livre de inimigos, a área está segura e os alemães estão fugindo. Muito bem! Agora voltem à ponte. Reunião dos líderes de grupo em 10 minutos."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/hint_civilians_01"
 msgid "Let’s see if there are some locals around, they might know where Jerry keeps his ammo."
-msgstr "Vamos ver se há moradores por aqui; talvez saibam onde Jerry esconde a munição."
+msgstr "Vamos ver se há moradores por aqui; talvez saibam onde os alemães guardam a munição."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/pl_see_hotel_mgun"
 msgid "MG! Hotel building, first floor, get to cover!"
@@ -162,7 +162,7 @@ msgstr "Maldição, estavam planejando explodir metade da Normandia ou quê?!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_01"
 msgid "Excusez-moi, monsieur... Seen any Allemania explosives? Satchels, grenades, that sort?"
-msgstr "Excusez-moi, monsieur... Viu algum explosivo dos Allemania? Sacolas, granadas, esse tipo?"
+msgstr "Excusez-moi, monsieur... Viu algum explosivo dos Allemania? Cargas explosivas, granadas, esse tipo?"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_02"
 msgid "(French) No, no, monsieur, there must be some mistake. I am not sheltering enemies of the Reich."
@@ -206,7 +206,7 @@ msgstr "Mas écoutez, se ze soldats allemands estiverem lá... Vocês atiram, d'
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_11"
 msgid "Clear out Germans by that barn, and he'll show us where they stashed the charges."
-msgstr "Limpe os alemães perto daquele celeiro, e ele nos mostrará onde esconderam as cargas."
+msgstr "Elimine os alemães perto daquele celeiro, e ele nos mostrará onde esconderam as cargas."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_12"
 msgid "Ça semble sûr maintenant. Come on, go with me!"
@@ -230,15 +230,15 @@ msgstr "Conseguimos, estão recuando!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_spawned"
 msgid "Heads up, a half-track incoming!"
-msgstr "Atenção, uma meia-lagarta chegando!"
+msgstr "Atenção, um semilagarta chegando!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_destroyed"
 msgid "Good, the half-track is sorted."
-msgstr "Bem, a meia-lagarta foi resolvida."
+msgstr "Ótimo, o semilagarta foi neutralizado."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_armor_t1_spawned"
 msgid "Another one rollin' in! Get the PIAT! And if you’re out, find grenades or something, quick!"
-msgstr "Outro chegando! Pegue o PIAT! E se acabou, encontre granadas ou algo rápido!"
+msgstr "Outro chegando! Pegue o PIAT! E, se estiver sem munição, encontre granadas ou qualquer outra coisa, rápido!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_armor_t1_destroyed"
 msgid "Well done, that'll make 'em think twice before pushing again."
@@ -262,7 +262,7 @@ msgstr "Pegue toda a munição que puder. Procure nos caixotes, nos edifícios..
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortars_offmap_started"
 msgid "Incoming mortar! Get to cover!"
-msgstr "Morteiro chegando! Procure cobertura!"
+msgstr "Fogo de morteiro a caminho! Abriguem-se!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortars_offmap_done"
 msgid "They’ve stopped shooting. Means they’re on the move. Get ready, lads!"
@@ -286,7 +286,7 @@ msgstr "Olhos a oeste, rapazes! Trouxeram um canhão AT."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_commandos_arrived"
 msgid "Just look who finally decided to show up! Commandos! These guys are as tough as they come. Now it's Jerry who's got the problem. Let's destroy the remaining attacking forces together."
-msgstr "Olha quem finalmente resolveu aparecer! Commandos! Esses caras são durões. Agora é o Jerry que tem o problema. Vamos destruir as forças de ataque restantes juntos."
+msgstr "Olhem quem finalmente resolveu aparecer! Commandos! Esses caras são dos mais durões que existem. Agora são os alemães que têm um problema. Vamos destruir juntos as forças de ataque restantes."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/bridge_captured"
 msgid "We lost the Bridge! Get over there and take it back, now!"
@@ -306,15 +306,15 @@ msgstr "Café Goon... Goon-dry? Cristo, parece algo que você pega, não bebe. A
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/ushanka"
 msgid "Have the Soviets really got such hats? No way they are seriously wearing furry rotten teabags on their heads."
-msgstr "Os soviéticos realmente usam chapéus assim? De jeito nenhum estão usando saquinhos de chá peludos na cabeça a sério."
+msgstr "Os soviéticos realmente usam chapéus assim? De jeito nenhum estão usando saquinhos de chá peludos e podres na cabeça a sério."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_01"
 msgid "You’re telling me they are so late because were dragging the damn orchestra?.."
-msgstr "Está me dizendo que eles estão tão atrasados por causa dessa maldita orquestra que estamos arrastando?""
+msgstr "Está me dizendo que eles se atrasaram tanto porque estavam arrastando a maldita orquestra?..."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_02"
 msgid "Gentlemen, frightfully sorry for the terrible delay. Traffic on the beaches was nothing short of murderous."
-msgstr "Senhores, peço desculpas pelo terrível atraso. O trânsito nas praias estava simplesmente assassino."
+msgstr "Senhores, peço desculpas pelo terrível atraso. O trânsito nas praias estava um verdadeiro inferno."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_03"
 msgid "Great to see you here, your lordship. We managed so far, but now we’re at the end of our tether to be honest."
@@ -326,11 +326,11 @@ msgstr "Vocês mantiveram este setor com notável determinação. Uma conquista 
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_05"
 msgid "We’ll agree to anything spirit-based, your lordship. Even if it tastes like petrol."
-msgstr "Concordamos com qualquer coisa alcoólica, milorde. Mesmo que saiba a gasolina."
+msgstr "Concordamos com qualquer coisa alcoólica, milorde. Mesmo que tenha gosto de gasolina."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_06"
 msgid "But you sound dreadfully weary, gentlemen. To your good fortune, we brought some sleeping bags. Have a rest chaps, before sheer exhaustion claims you."
-msgstr "Mas vocês parecem terrivelmente exaustos, senhores. Para a sorte de vocês, trouxemos alguns sacos de dormir. Descansem, rapazes, antes que o puro esgotamento os reclame."
+msgstr "Mas vocês parecem terrivelmente exaustos, senhores. Para a sorte de vocês, trouxemos alguns sacos de dormir. Descansem, rapazes, antes que o esgotamento os derrube."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_07"
 msgid "I reckon that’s even better than a wine. And my back… It’s so numb. Thank you, Milord."
@@ -382,7 +382,7 @@ msgstr "Objetivo Secreto nº 3"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/secret03_kwk_completed"
 msgid "Secret objective: Hands off! - Eliminate the KwK 39 crew before they board the gun"
-msgstr "Objetivo Secreto: Mãos para o Alto! - Elimine a tripulação do KwK 39 antes de entrarem no canhão"
+msgstr "Objetivo Secreto: Não Toquem! - Elimine a guarnição do KwK 39 antes que ela assuma o canhão"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/ui/skip_preparation"
 msgid "Skip preparation"

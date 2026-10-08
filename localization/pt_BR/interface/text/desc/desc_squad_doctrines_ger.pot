@@ -207,11 +207,11 @@ msgstr "<c(B29557)>( III )</c> Bf-110 Bomba 250kg"
 
 msgctxt "desc/squad/doctrine_bf110_late"
 msgid "<c(B29557)>( III )</c> Bf-110 Airstrike"
-msgstr "<c(B29557)>( III )</c> Bf-110 Airstrike"
+msgstr "<c(B29557)>( III )</c> Ataque Aéreo com Bf-110"
 
 msgctxt "desc/squad/doctrine_bf110_mid"
 msgid "<c(B29557)>( III )</c> Bf-110 Airstrike"
-msgstr "<c(B29557)>( III )</c> Bf-110 Airstrike"
+msgstr "<c(B29557)>( III )</c> Ataque Aéreo com Bf-110"
 
 msgctxt "desc/squad/doctrine_bison"
 msgid "<c(B29557)>( I )</c> Sturmpanzer I"
@@ -623,7 +623,7 @@ msgstr "<c(B29557)>( I )</c> Sd.Kfz 251 + Inf."
 
 msgctxt "desc/squad/doctrine_squad_sniper_late(ger)"
 msgid "<c(B29557)>( I )</c> Urban Snipers"
-msgstr "<c(B29557)>( I )</c> Atiradores Urbanos"
+msgstr "<c(B29557)>( I )</c> Franco-atiradores Urbanos"
 
 msgctxt "desc/squad/doctrine_squad_stosstrupp"
 msgid "<c(B29557)>( II )</c> Panzerpionier squad (armored)"
@@ -671,7 +671,7 @@ msgstr "<c(B29557)>( II )</c> StuG III Ausf. F"
 
 msgctxt "desc/squad/doctrine_stug3g_late"
 msgid "<c(B29557)>( II )</c> StuG III G Late"
-msgstr "<c(B29557)>( II )</c> StuG III G Late"
+msgstr "<c(B29557)>( II )</c> StuG III G Tardio"
 
 msgctxt "desc/squad/doctrine_sdkfz251d_1_stuka"
 msgid "<c(B29557)>( III )</c> Stuka Zu Fuss"

@@ -14,15 +14,39 @@ msgstr ""
 
 msgctxt "mission/multi/dcg_error01"
 msgid ""
-msgstr "Warning - dcg error 01: enemyid is above 4.(setting to 5)"
+msgstr "(Warning) - dcg error 01: enemyid is above 4.(setting to 5)"
 
 msgctxt "mission/multi/dcg_error02"
 msgid ""
-msgstr "Warning - dcg error 02: user nation unknown.(defaulting to rus)"
+msgstr "(Warning) - dcg error 02: user nation unknown.(defaulting to rus)"
 
 msgctxt "mission/multi/dcg_error03"
 msgid ""
-msgstr "Warning - dcg error 03: bots_spawnside unknown.(defaulting user_side to map-a)"
+msgstr "(Warning) - arrows/bots_spawnside values unknown.(defaulting user_side to A)"
+
+msgctxt "mission/multi/dcg2_error01"
+msgid ""
+msgstr "(Warning) - Not all Bot defender spawns have moved!(side:A)"
+
+msgctxt "mission/multi/dcg2_error02"
+msgid ""
+msgstr "(Warning) - Not all Bot defender spawns have moved!(side:B)"
+
+msgctxt "mission/multi/dcg2_garrison_failsafe"
+msgid ""
+msgstr "(Warning) - dcg garrison error: Waiting too long... Forcing Garrison Ready!"
+
+msgctxt "mission/multi/dcg2_info02"
+msgid ""
+msgstr "(Debug) - garrison_ready set to 1"
+
+msgctxt "mission/multi/dcg2_error03"
+msgid ""
+msgstr "(Warning) - At least one enemy bot garrison spawn is outside of all forward# zones!"
+
+msgctxt "mission/multi/dcg2_error04"
+msgid ""
+msgstr "(Warning) - player spawn id unknown!"
 
 msgctxt "mission/multi/ev_error01"
 msgid ""

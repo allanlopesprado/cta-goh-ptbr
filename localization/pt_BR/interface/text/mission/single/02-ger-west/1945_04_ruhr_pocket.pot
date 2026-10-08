@@ -34,7 +34,7 @@ msgstr "Doutrina: Ofensiva"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/fight"
 msgid "Fight to the death"
-msgstr "Lutar até o fim"
+msgstr "Lutar até a morte"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/mission_option_select1"
 msgid "Select your Doctrine for the mission:"
@@ -210,7 +210,7 @@ msgstr "Pular fase de preparação"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/story"
 msgid " It is now April 1945. A few weeks ago, the Ludendorff bridge at Remagen was captured intact. The Allies also crossed the Rhine at Wesel and Nierstein. As a result, army group B has become encircled completely; the stage for the battle of the Ruhr pocket has been set.\n\n You and the 116th Panzer division have been directed to the area south of Iserlohn. Your first problem is the wide area over which your troops have been dispersed in the past few days; they’re literally everywhere, which makes it impossible for them to act as a unit.\n\n You should group all available troops and see whether you can find any supplies and equipment that was abandoned during yesterday’s fighting, before you can even think about any coordinated actions. Use your experience to make the most of this difficult situation. Do not despair, wonder weapons will soon tip the balance of the war in our favor.\n\nGood luck!"
-msgstr " É abril de 1945. Algumas semanas atrás, a ponte Ludendorff em Remagen foi capturada intacta. Os Aliados também cruzaram o Reno em Wesel e Nierstein. Como resultado, o Grupo de Exércitos B está completamente cercado; o palco para a batalha do Bolso do Ruhr foi montado.\n\n Você e a 116ª Divisão Panzer foram enviados para a área ao sul de Iserlohn. Seu primeiro problema é a vasta área sobre a qual suas tropas foram dispersas nos últimos dias; elas estão literalmente em todo lugar, o que impossibilita agir como unidade.\n\n Reúna todas as tropas disponíveis e veja se consegue encontrar suprimentos e equipamentos abandonados durante o combate de ontem, antes de pensar em qualquer ação coordenada. Use sua experiência para tirar o máximo desta situação difícil. Não desespere, armas milagrosas logo inclinarão o equilíbrio da guerra a nosso favor.\n\nBoa sorte!"
+msgstr " É abril de 1945. Algumas semanas atrás, a ponte Ludendorff em Remagen foi capturada intacta. Os Aliados também cruzaram o Reno em Wesel e Nierstein. Como resultado, o Grupo de Exércitos B está completamente cercado; o palco para a batalha do Bolsão do Ruhr foi montado.\n\n Você e a 116ª Divisão Panzer foram enviados para a área ao sul de Iserlohn. Seu primeiro problema é a vasta área sobre a qual suas tropas foram dispersas nos últimos dias; elas estão literalmente em todo lugar, o que impossibilita agir como unidade.\n\n Reúna todas as tropas disponíveis e veja se consegue encontrar suprimentos e equipamentos abandonados durante o combate de ontem, antes de pensar em qualquer ação coordenada. Use sua experiência para tirar o máximo desta situação difícil. Não desespere, armas milagrosas logo inclinarão o equilíbrio da guerra a nosso favor.\n\nBoa sorte!"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/surrender"
 msgid "Surrender"
@@ -266,4 +266,4 @@ msgstr "Você escolheu lutar — seus soldados fizeram o sacrifício supremo pel
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/win2"
 msgid "You chose to surrender to the US forces, and spare the lives of your men in a desperate situation against overwhelming odds. The enemy will take good care of your troops out of respect for the tenacious fighting spirit. Soon, Germany will capitulate and the troops will be able to go back to their families."
-msgstr "Você escolheu se render às forças americanas e poupar a vida de seus homens numa situação desesperada contra probabilidades esmagadoras. O inimigo cuidará bem de suas tropas, por respeito ao tenaz espírito de luta. Em breve a Alemanha capitulará e as tropas poderão voltar para suas famílias."
+msgstr "Você escolheu se render às forças americanas e poupar a vida de seus homens numa situação desesperada diante de uma desvantagem esmagadora. O inimigo cuidará bem de suas tropas, por respeito ao tenaz espírito de luta. Em breve a Alemanha capitulará e as tropas poderão voltar para suas famílias."

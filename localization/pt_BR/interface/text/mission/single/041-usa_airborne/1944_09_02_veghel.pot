@@ -18,11 +18,11 @@ msgstr "24 de setembro de 1944 · Veghel, Países Baixos."
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name"
 msgid "Contesting Hell's Highway"
-msgstr "Disputando a Autoestrada do Inferno"
+msgstr "Disputando a Rodovia do Inferno"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/name_big"
 msgid "Contesting Hell's Highway"
-msgstr "Disputando a Autoestrada do Inferno"
+msgstr "Disputando a Rodovia do Inferno"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator01"
 msgid "Incoming! Take cover!"
@@ -42,7 +42,7 @@ msgstr "Atenção! Mais Krauts chegando ao longo da autoestrada!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator13"
 msgid "A Panther! Gun crew, aim for a weak spot, or it will kill us!"
-msgstr "Um Panther! Artilheiros, mire num ponto fraco, ou ele nos matará!"
+msgstr "Um Panther! Artilheiros, mirem num ponto fraco, ou ele nos matará!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator15"
 msgid "Our 57 mil is down! Someone deal with that Panther!"
@@ -106,7 +106,7 @@ msgstr "Barragem de fumaça"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/story"
 msgid "  Having secured Veghel five days ago, the 101st is thrown into battle once more. The allied ground forces approach from the south along Highway 69, which is the only road available for their advance.\n\n  If the British XXX Corps is to succeed, you need to fend off any enemy attacks and prevent the narrow stretch of highway from falling into German hands.\n\n  With the success of Operation Market Garden hanging in the balance, the importance of your task cannot be overstated.\n\n Good luck!"
-msgstr "  Tendo assegurado Veghel cinco dias atrás, o 101º é lançado na batalha mais uma vez. As forças terrestres aliadas se aproximam pelo sul ao longo da Rodovia 69, a única estrada disponível para seu avanço.\n\n  Para que o XXX Corpo Britânico tenha êxito, você precisa repelir quaisquer ataques inimigos e impedir que o trecho estreito de rodovia caia em mãos alemãs.\n\n  Com o sucesso da Operação Market Garden na balança, a importância de sua missão não pode ser subestimada.\n\n Boa sorte!"
+msgstr "  Tendo assegurado Veghel cinco dias atrás, a 101ª é lançada na batalha mais uma vez. As forças terrestres aliadas se aproximam pelo sul ao longo da Rodovia 69, a única estrada disponível para seu avanço.\n\n  Para que o XXX Corpo Britânico tenha êxito, você precisa repelir quaisquer ataques inimigos e impedir que o trecho estreito de rodovia caia em mãos alemãs.\n\n  Com o sucesso da Operação Market Garden na balança, a importância de sua missão não pode ser subestimada.\n\n Boa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task01"
 msgid "Protect the supply trucks (at least 3 must survive)"

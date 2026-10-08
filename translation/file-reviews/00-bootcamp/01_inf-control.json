@@ -1,0 +1,1006 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-07",
+  "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+  "locale": "pt_BR",
+  "mode": "Leitura contextual e fechamento documental; decisões editoriais e correções aplicadas; teste no jogo adiado pelo usuário",
+  "snapshot": {
+    "englishSha256": "cbca355709dc727c81c78d9793b4f1b5ad2cc97a7ec6e41bc9e28b8b85c3796b",
+    "portugueseSha256": "f2f53c54a2bedacdf43079f86193c1a51db02ec0b03837cb77b5cf69e6c00750",
+    "initialPortugueseSha256": "af7402be4ae98d01cb42a891633a94afa2f7152b65968c95f572a4ae888e06dd"
+  },
+  "context": {
+    "observedInCatalog": {
+      "tutorial": "controle básico de infantaria",
+      "date": "22 de junho de 1941",
+      "location": "fronteira com a URSS",
+      "formation": "Army Group Centre",
+      "speaker": "oficial alemão; narrador didático separado",
+      "opponents": "soviéticos"
+    },
+    "interpretation": "As palavras alemãs são marcas da fala do oficial. As instruções do narrador descrevem ações do jogador. Não confundir nacionalidade do oficial com idioma-base inglês."
+  },
+  "coverage": {
+    "englishEntries": 42,
+    "portugueseEntries": 42,
+    "completeFilesRead": true,
+    "entriesCompared": 42,
+    "technicalIssues": 0,
+    "correctionProposals": 16,
+    "translationsApplied": 16,
+    "firstPassTranslationsApplied": 5,
+    "finalPassTranslationsApplied": 11
+  },
+  "status": {
+    "contextualReadingComplete": true,
+    "allEntriesApproved": false,
+    "correctionsApplied": true,
+    "globalEditorialPolicyFinal": true,
+    "audioChecked": false,
+    "inGameTestComplete": false,
+    "documentaryReviewComplete": true,
+    "inGameTestDeferredByUser": true
+  },
+  "crossChecks": [
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/examine",
+      "en": "Examine",
+      "pt": "Examinar"
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "humanbar/veterancy/stamina",
+      "en": "+%.0f% Stamina",
+      "pt": "+%.0f% Resistência"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/library/soldiers/stamina",
+      "en": "Stamina#%.f<x(%i)>%.1f",
+      "pt": "Resistência#%.f<x(%i)>%.1f"
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "tips/button/next",
+      "en": "Next",
+      "pt": "Próximo"
+    }
+  ],
+  "lexicalEvidence": [
+    {
+      "term": "Soldaten",
+      "meaning": "soldados, plural alemão",
+      "url": "https://www.duden.de/rechtschreibung/Soldat"
+    },
+    {
+      "term": "Ostfront",
+      "meaning": "frente oriental",
+      "url": "https://www.duden.de/rechtschreibung/Ostfront"
+    },
+    {
+      "term": "Los gehts!",
+      "meaning": "chamada coloquial para começar/agir",
+      "url": "https://www.duden.de/rechtschreibung/losgehen"
+    },
+    {
+      "term": "Ivan",
+      "meaning": "personificação de soldado soviético; o catálogo sustenta referência coletiva aqui",
+      "url": "https://www.army.mod.uk/media/6556/bar-report-russia-ussr-volume-1.pdf",
+      "caveat": "Texto de 1954 reproduzido em fonte militar; não prova isoladamente uso alemão de 1941."
+    },
+    {
+      "term": "Swiss cheese",
+      "meaning": "queijo com furos; perfuração por tiros é interpretação contextual da metáfora",
+      "url": "https://dictionary.cambridge.org/dictionary/english/swiss-cheese"
+    },
+    {
+      "term": "rifleman",
+      "meaning": "função militar e contexto do fuzil antitanque; não inferir atirador de elite",
+      "url": "https://www.merriam-webster.com/dictionary/rifleman"
+    }
+  ],
+  "limitations": [
+    "A leitura não comprova todos os fatos históricos do cenário de treinamento.",
+    "Falas e mecânicas não foram vistas/ouvidas no jogo.",
+    "Dicionários fundamentam significado, não impõem preservar ou traduzir marcas de voz.",
+    "Não reaplicar propostas globalmente; a aprovação deve referenciar estes textos e este contexto."
+  ],
+  "entries": [
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/complete",
+      "sourceLine": 15,
+      "translationLine": 15,
+      "en": "Congratulations, you have finished the first tutorial (basic infantry control).",
+      "pt": "Parabéns, você concluiu o primeiro tutorial (controle básico de infantaria).",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/date",
+      "sourceLine": 19,
+      "translationLine": 19,
+      "en": "June 22nd, 1941 · Border with the USSR",
+      "pt": "22 de junho de 1941 · Fronteira com a URSS",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/help",
+      "sourceLine": 23,
+      "translationLine": 23,
+      "en": "Re-watch steps",
+      "pt": "Rever etapas",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/hint",
+      "sourceLine": 27,
+      "translationLine": 27,
+      "en": "Press this button to re-watch the video for this tutorial phase.",
+      "pt": "Pressione este botão para rever o vídeo desta fase do tutorial.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/name",
+      "sourceLine": 31,
+      "translationLine": 31,
+      "en": "Tutorial 1: Infantry Control",
+      "pt": "Tutorial 1: Controle de Infantaria",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/name_big",
+      "sourceLine": 35,
+      "translationLine": 35,
+      "en": "Infantry Control",
+      "pt": "Controle de Infantaria",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/00",
+      "sourceLine": 39,
+      "translationLine": 39,
+      "en": "About time! Park the truck and unload!",
+      "pt": "Já passou da hora! Estacione o caminhão e faça os homens desembarcarem!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "O script mostra emissão dos soldados do caminhão, não descarga de mercadoria; explicitar o desembarque sem mudar quem estaciona o veículo.",
+        "appliedTranslation": "Já passou da hora! Estacione o caminhão e faça os homens desembarcarem!",
+        "evidence": [
+          {
+            "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/map/single.pak",
+            "entry": "single/00-bootcamp/01_inf-control/0.mi",
+            "supports": "Fala ger_officer/00 na timeline inicial; oito humanos opel1_dismount; waypoint7 usa emit crew opel1_dismount; timeline02_brief revela soldados em stand_at_attention."
+          }
+        ],
+        "finalAnnotationIndices": [
+          655,
+          659
+        ]
+      },
+      "previousReview": {
+        "status": "scene-clarification-pending",
+        "note": "Unloading pode referir-se à carga ou ao desembarque dos homens. O catálogo sozinho não decide; não trocar descarregue por desembarquem automaticamente."
+      },
+      "previousFinalPassTranslation": "Já passou da hora! Estacione o caminhão e descarregue!"
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/01",
+      "sourceLine": 43,
+      "translationLine": 43,
+      "en": "Soldaten! Welcome to the \"Ostfront\"! You are now in the front line. If you want to remain in one piece, you will follow all my orders to the letter!",
+      "pt": "Soldaten! Bem-vindos à \"Ostfront\"! Vocês estão agora na linha de frente. Se quiserem sair daqui inteiros, seguirão todas as minhas ordens à risca!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "retained-validated",
+        "note": "Soldaten e Ostfront constam no inglês do oficial alemão; preservados como voz estrangeira deliberada. Aqui Ostfront é frente oriental, não título comercial obrigatoriamente protegido. Não acrescentar alemão ausente em outras falas. Duplicata da pendência656: Soldaten/Ostfront permanecem porque a voz estrangeira já está no original; o vocativo não é nome de unidade nem pessoa.",
+        "finalAnnotationIndices": [
+          656,
+          660
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Soldaten significa soldados; Ostfront é a frente oriental. O oficial alemão usa esses termos intencionalmente dentro de uma fala inglesa. Preservar é defensável como voz; não são nomes próprios obrigatórios nem erros automáticos.",
+        "evidence": [
+          "https://www.duden.de/rechtschreibung/Soldat",
+          "https://www.duden.de/rechtschreibung/Ostfront"
+        ]
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/02",
+      "sourceLine": 47,
+      "translationLine": 47,
+      "en": "The first thing you need to know as infantrymen, is to ALWAYS seek cover. In the open, you are vulnerable. Cover improves your survivability and your aim. Now, take cover behind the sandbags.",
+      "pt": "A primeira coisa que vocês precisam saber como soldados de infantaria é SEMPRE buscar cobertura. Em campo aberto, vocês são vulneráveis. A cobertura melhora a sobrevivência e a pontaria de vocês. Agora, abriguem-se atrás dos sacos de areia.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/03",
+      "sourceLine": 51,
+      "translationLine": 51,
+      "en": "We seem to be clear... MG team 1, stay here. Everyone else, forward, take positions on the stone wall. Los gehts!",
+      "pt": "Parece que a área está livre... Equipe de metralhadora 1, fiquem aqui. Todos os outros, avancem e tomem posição no muro de pedra. Los gehts!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Tornar explícita a situação e as ordens imperativas, expandindo MG como metralhadora sem criar modelo de arma; preservar Los gehts original.",
+        "appliedTranslation": "Parece que a área está livre... Equipe de metralhadora 1, fiquem aqui. Todos os outros, avancem e tomem posição no muro de pedra. Los gehts!",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          661
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-wording-and-editorial-policy-pending",
+        "note": "Los gehts é chamada para agir e pode permanecer na voz alemã. A grafia sem apóstrofo aparece no Duden. As ordens Todos os outros, avançar, assumir posições podem ganhar naturalidade com avancem e tomem posição, sem alteração de sentido. MG refere-se à metralhadora nesta equipe, não a marca/modelo identificado.",
+        "evidence": [
+          "https://www.duden.de/rechtschreibung/losgehen"
+        ]
+      },
+      "previousFinalPassTranslation": "Parece estar limpo... Equipe de MG 1, fiquem aqui. Todos os outros, avançar, assumir posições no muro de pedra. Los gehts!"
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/04",
+      "sourceLine": 55,
+      "translationLine": 55,
+      "en": "The Bolsheviks will be coming down that road any minute now. We will ambush them. Soldaten, get ready!",
+      "pt": "Os bolcheviques vêm por essa estrada a qualquer momento. Vamos emboscá-los. Soldaten, preparem-se!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "retained-validated",
+        "note": "Soldaten é vocativo aos soldados do próprio oficial e consta na fonte. Mantido segundo a política de preservar marcas estrangeiras deliberadas, sem substituição global.",
+        "finalAnnotationIndices": [
+          662
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Soldaten é vocativo aos próprios soldados. Pode ser preservado ou traduzido segundo uma decisão de voz, não por substituição global.",
+        "evidence": [
+          "https://www.duden.de/rechtschreibung/Soldat"
+        ]
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/05",
+      "sourceLine": 59,
+      "translationLine": 59,
+      "en": "Alright, I can see the Ivans! Hold your fire until they're in front of us.",
+      "pt": "Certo, posso ver os Ivans! Não atirem até que estejam à nossa frente.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Explicitar ordem de esperar o inimigo entrar na emboscada, sem confundir com disparo de supressão.",
+        "appliedTranslation": "Certo, posso ver os Ivans! Não atirem até que estejam à nossa frente.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          663
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Ivans personifica coletivamente os soviéticos nesta cena; não é nome de um personagem. Hold your fire manda esperar para atirar: Não atirem até que estejam à nossa frente é alternativa mais explícita. Não neutralizar Ivans automaticamente.",
+        "evidence": [
+          "https://www.army.mod.uk/media/6556/bar-report-russia-ussr-volume-1.pdf"
+        ]
+      },
+      "previousFinalPassTranslation": "Certo, posso ver os Ivans! Segurem o fogo até que estejam à nossa frente."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/06",
+      "sourceLine": 63,
+      "translationLine": 63,
+      "en": "Now, give them hell!",
+      "pt": "Agora, destruam-nos!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "retained-validated",
+        "note": "Agora, destruam-nos! comunica a incitação agressiva de give them hell. Não é termo técnico nem nome próprio, e a metáfora não precisa ser igual em todas as vozes.",
+        "finalAnnotationIndices": [
+          664
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Give them hell é incentivo ao combate, não expressão técnica protegida. Destruam-nos transmite a agressividade; Acabem com eles é alternativa. Não há obrigação de uniformizar essa metáfora com outras vozes."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/07",
+      "sourceLine": 67,
+      "translationLine": 67,
+      "en": "Very good. You have achieved your first kills. The more kills you achieve, the higher your veterancy. You will improve your shooting and survival skills.",
+      "pt": "Muito bem. Vocês abateram seus primeiros inimigos. Quanto mais inimigos abaterem, maior será sua veterania. Suas habilidades de tiro e sobrevivência melhorarão.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "issue": "A construção vocês obtiveram suas primeiras baixas é ambígua e pode sugerir perdas próprias; o inglês descreve os primeiros inimigos abatidos.",
+        "proposedTranslation": "Muito bem. Vocês abateram seus primeiros inimigos. Quanto mais inimigos abaterem, maior será sua veterania. Suas habilidades de tiro e sobrevivência melhorarão.",
+        "confidence": "alta para referente e necessidade de desambiguação",
+        "category": "accuracy-ambiguity",
+        "appliedTranslation": "Muito bem. Vocês abateram seus primeiros inimigos. Quanto mais inimigos abaterem, maior será sua veterania. Suas habilidades de tiro e sobrevivência melhorarão."
+      },
+      "previousTranslation": "Muito bem. Vocês obtiveram suas primeiras baixas. Quanto mais inimigos abaterem, maior será a veterania. Isso melhora as habilidades de tiro e sobrevivência.",
+      "previousReview": {
+        "status": "confirmed-correction-applied",
+        "issue": "A construção vocês obtiveram suas primeiras baixas é ambígua e pode sugerir perdas próprias; o inglês descreve os primeiros inimigos abatidos.",
+        "proposedTranslation": "Muito bem. Vocês abateram seus primeiros inimigos. Quanto mais inimigos abaterem, maior será sua veterania. Suas habilidades de tiro e sobrevivência melhorarão.",
+        "confidence": "alta para referente e necessidade de desambiguação",
+        "category": "accuracy-ambiguity",
+        "appliedTranslation": "Muito bem. Vocês abateram seus primeiros inimigos. Quanto mais inimigos abaterem, maior será sua veterania. Suas habilidades de tiro e sobrevivência melhorarão."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/08",
+      "sourceLine": 71,
+      "translationLine": 71,
+      "en": "Our neighboring squad has found a pocket of resistance up ahead. There is an MG pinning our boys down. We are behind them! I need you to get close and throw a grenade on that MG nest.",
+      "pt": "A esquadra vizinha encontrou um foco de resistência à frente. Há uma metralhadora impedindo nossos homens de avançar. Estamos atrás deles! Preciso que se aproximem e joguem uma granada naquele ninho de metralhadora.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Explicitar supressão por fogo, não incapacidade física/pane; esquadra preserva o pequeno grupo de infantaria desta cena.",
+        "appliedTranslation": "A esquadra vizinha encontrou um foco de resistência à frente. Há uma metralhadora impedindo nossos homens de avançar. Estamos atrás deles! Preciso que se aproximem e joguem uma granada naquele ninho de metralhadora.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          665
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-terminology-policy-pending",
+        "note": "MG pinning our boys down descreve supressão por metralhadora, não pane física. Imobilizando é compreensível nesse contexto; impedir o movimento pelo fogo é explicitação possível. Squad/esquadra depende da política militar; não mudar automaticamente."
+      },
+      "previousFinalPassTranslation": "A esquadra vizinha encontrou um foco de resistência à frente. Há uma MG imobilizando nossos homens. Estamos atrás deles! Preciso que se aproximem e joguem uma granada naquele ninho de metralhadora."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/09",
+      "sourceLine": 75,
+      "translationLine": 75,
+      "en": "Well done, men! Finish these Ivans off!",
+      "pt": "Muito bem, homens! Acabem com esses Ivans!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "retained-validated",
+        "note": "Ivans designa os soldados soviéticos já vistos e emboscados; preservado como apelido original do oficial, não como nome de uma pessoa.",
+        "finalAnnotationIndices": [
+          666
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Ivans refere-se aos soldados soviéticos; apelido preservado corretamente como possibilidade editorial. Não há nome de pessoa identificado."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/10",
+      "sourceLine": 79,
+      "translationLine": 79,
+      "en": "Look at that, the Ivans have unwillingly brought us a truck! Go and look if it has any weaponry we can loot!",
+      "pt": "Vejam só, os Ivans nos trouxeram um caminhão involuntariamente! Vão ver se há armamento que possamos saquear!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "retained-validated",
+        "note": "Ivans conserva o mesmo referente coletivo soviético da sequência; o caminhão traz armamento saqueável. Texto não cria personagem nem renomeia equipamento.",
+        "finalAnnotationIndices": [
+          667
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Ivans é o mesmo apelido coletivo; o caminhão é soviético e o armamento será saqueado. Não converter o apelido em um personagem."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/11",
+      "sourceLine": 83,
+      "translationLine": 83,
+      "en": "Damn it! There's a soviet tank ambushing us from the other side of the farm! Get behind it and destroy it with the AT grenades that you have acquired.",
+      "pt": "Droga! Há um tanque soviético nos emboscando do outro lado da fazenda! Contornem-no e destruam-no com as granadas antitanque que vocês adquiriram.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Expandir abreviação comum no texto de instrução; scene/05 confirma o mesmo item antitanque.",
+        "appliedTranslation": "Droga! Há um tanque soviético nos emboscando do outro lado da fazenda! Contornem-no e destruam-no com as granadas antitanque que vocês adquiriram.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          668
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-readability-policy-pending",
+        "note": "AT grenades são granadas antitanque. AT não é nome próprio e pode ser expandido em instruções, mantendo siglas nos rótulos compactos; scene/05 já usa antitanque."
+      },
+      "previousFinalPassTranslation": "Droga! Há um tanque soviético nos emboscando do outro lado da fazenda! Contornem-no e destruam-no com as granadas AT que vocês adquiriram."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/12",
+      "sourceLine": 87,
+      "translationLine": 87,
+      "en": "Good job! Blown to smithereens! Now finish off the remaining infantry!",
+      "pt": "Bom trabalho! Destruído completamente! Agora eliminem a infantaria restante!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/13",
+      "sourceLine": 91,
+      "translationLine": 91,
+      "en": "Enemy armored car coming down the road!",
+      "pt": "Carro blindado inimigo vindo pela estrada!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/14",
+      "sourceLine": 95,
+      "translationLine": 95,
+      "en": "Fortunately, we are prepared for this. Take command of the AT rifleman, and turn that armored car into Swiss cheese!",
+      "pt": "Felizmente, estamos preparados para isso. Assuma o comando do soldado com o fuzil antitanque e transforme aquele blindado em queijo suíço!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Desambiguar AT rifleman como portador do fuzil antitanque de task7, não atirador de elite.",
+        "appliedTranslation": "Felizmente, estamos preparados para isso. Assuma o comando do soldado com o fuzil antitanque e transforme aquele blindado em queijo suíço!",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          669
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-wording-and-editorial-policy-pending",
+        "note": "AT rifleman é o soldado com o fuzil antitanque de task7, não um atirador de elite. A nomenclatura final precisa acompanhar a unidade. Swiss cheese sugere furos de tiros; queijo suíço preserva a metáfora e o humor, não é erro literal automático.",
+        "evidence": [
+          "https://www.merriam-webster.com/dictionary/rifleman",
+          "https://dictionary.cambridge.org/dictionary/english/swiss-cheese"
+        ]
+      },
+      "previousFinalPassTranslation": "Felizmente, estamos preparados para isso. Assuma o comando do atirador AT e transforme aquele blindado em queijo suíço!"
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/15",
+      "sourceLine": 99,
+      "translationLine": 99,
+      "en": "Well done, men! You have completed my instructions to the letter. ",
+      "pt": "Muito bem, soldados! Vocês cumpriram minhas ordens à risca.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/01",
+      "sourceLine": 103,
+      "translationLine": 103,
+      "en": "Welcome to boot camp, Soldier. In this tutorial, you will learn how to control infantry, the most common and important type of unit on the battlefield.",
+      "pt": "Bem-vindo ao campo de treinamento, Soldado. Neste tutorial, você aprenderá a controlar a infantaria, o tipo de unidade mais comum e importante no campo de batalha.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/01b",
+      "sourceLine": 107,
+      "translationLine": 107,
+      "en": "During a cutscene, you cannot control your units. Some cutscenes, like this one, can be skipped. To do so, press the \"continue\" button on the top-right corner.",
+      "pt": "Durante uma cena cinematográfica, você não pode controlar suas unidades. Algumas dessas cenas, como esta, podem ser puladas. Para isso, pressione o botão \"Continuar\" no canto superior direito.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Localizar cutscene e alinhar texto citado ao rótulo Continuar, preservando posição e possibilidade de pular da fonte.",
+        "appliedTranslation": "Durante uma cena cinematográfica, você não pode controlar suas unidades. Algumas dessas cenas, como esta, podem ser puladas. Para isso, pressione o botão \"Continuar\" no canto superior direito.",
+        "evidence": [
+          {
+            "file": "interface/text/dlg_frontend.pot",
+            "contexts": [
+              "button/continue",
+              "missions/continue"
+            ],
+            "supports": "Continue está localizado como Continuar."
+          },
+          {
+            "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/map/single.pak",
+            "entry": "single/00-bootcamp/01_inf-control/0.mi",
+            "supports": "Fala ger_officer/00 na timeline inicial; oito humanos opel1_dismount; waypoint7 usa emit crew opel1_dismount; timeline02_brief revela soldados em stand_at_attention."
+          }
+        ],
+        "finalAnnotationIndices": [
+          670
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-editorial-policy-pending",
+        "note": "Cutscene é termo corrente de jogos. Cinemática ou cena são alternativas editoriais; não tratar a palavra inglesa como falha automática. Nome do botão precisa ser conferido na execução."
+      },
+      "previousFinalPassTranslation": "Durante uma cutscene, você não pode controlar suas unidades. Algumas cutscenes, como esta, podem ser puladas. Para isso, pressione o botão \"continuar\" no canto superior direito."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/02",
+      "sourceLine": 111,
+      "translationLine": 111,
+      "en": "To move your soldier, select him and right-click on the destination. A double click will make him sprint until his stamina runs out. If you move your cursor close to objects, it will prompt the soldier to take cover, previewing a silhouette. Now, make your soldier take cover with the rest of the men.",
+      "pt": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua resistência. Ao aproximar o cursor de objetos, será exibida uma silhueta indicando onde o soldado pode se abrigar. Agora, faça seu soldado se abrigar junto aos demais.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "issue": "O português omite a prévia da silhueta e a ordem final de colocar o soldado em cobertura junto aos demais. Estamina também diverge de Resistência usado na interface consultada.",
+        "proposedTranslation": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua resistência. Ao aproximar o cursor de objetos, será exibida uma silhueta indicando onde o soldado pode se abrigar. Agora, faça seu soldado se abrigar junto aos demais.",
+        "confidence": "alta para omissões; nomenclatura resistência apoiada nos rótulos locais",
+        "category": "accuracy-omission",
+        "appliedTranslation": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua resistência. Ao aproximar o cursor de objetos, será exibida uma silhueta indicando onde o soldado pode se abrigar. Agora, faça seu soldado se abrigar junto aos demais."
+      },
+      "previousTranslation": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua estamina. Se mover o cursor perto de objetos, ele solicitará que o soldado se posicione em cobertura.",
+      "previousReview": {
+        "status": "confirmed-correction-applied",
+        "issue": "O português omite a prévia da silhueta e a ordem final de colocar o soldado em cobertura junto aos demais. Estamina também diverge de Resistência usado na interface consultada.",
+        "proposedTranslation": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua resistência. Ao aproximar o cursor de objetos, será exibida uma silhueta indicando onde o soldado pode se abrigar. Agora, faça seu soldado se abrigar junto aos demais.",
+        "confidence": "alta para omissões; nomenclatura resistência apoiada nos rótulos locais",
+        "category": "accuracy-omission",
+        "appliedTranslation": "Para mover seu soldado, selecione-o e clique com o botão direito no destino. Um clique duplo o fará correr até esgotar sua resistência. Ao aproximar o cursor de objetos, será exibida uma silhueta indicando onde o soldado pode se abrigar. Agora, faça seu soldado se abrigar junto aos demais."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/03",
+      "sourceLine": 117,
+      "translationLine": 117,
+      "en": "Well done. You should always move your troops from one cover to the next. ",
+      "pt": "Muito bem. Sempre mova suas tropas de uma cobertura para a próxima.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/04",
+      "sourceLine": 121,
+      "translationLine": 121,
+      "en": "Approach the MG nest carefully from behind. Move from one bush or cover to the next. A prone soldier will be harder to spot. When the MG nest is taken out, the rest of the squad will assist you in taking out the remaining Soviets.",
+      "pt": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho de metralhadora for eliminado, o restante da esquadra ajudará você a eliminar os soviéticos restantes.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "issue": "A ajuda para eliminar os soviéticos restantes virou ajuda para avançar, alterando a ação e omitindo seu alvo.",
+        "proposedTranslation": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho de metralhadora for eliminado, o restante da esquadra ajudará você a eliminar os soviéticos restantes.",
+        "confidence": "alta",
+        "category": "accuracy-mistranslation-and-omission",
+        "caveat": "Esquadra mantida na proposta para não resolver silenciosamente a decisão global squad/grupo de combate.",
+        "appliedTranslation": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho de metralhadora for eliminado, o restante da esquadra ajudará você a eliminar os soviéticos restantes."
+      },
+      "previousTranslation": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho for eliminado, o restante da esquadra o ajudará a avançar.",
+      "previousReview": {
+        "status": "confirmed-correction-applied",
+        "issue": "A ajuda para eliminar os soviéticos restantes virou ajuda para avançar, alterando a ação e omitindo seu alvo.",
+        "proposedTranslation": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho de metralhadora for eliminado, o restante da esquadra ajudará você a eliminar os soviéticos restantes.",
+        "confidence": "alta",
+        "category": "accuracy-mistranslation-and-omission",
+        "caveat": "Esquadra mantida na proposta para não resolver silenciosamente a decisão global squad/grupo de combate.",
+        "appliedTranslation": "Aproxime-se do ninho de metralhadora cuidadosamente por trás. Mova-se de um arbusto ou cobertura para o próximo. Um soldado deitado será mais difícil de ser detectado. Quando o ninho de metralhadora for eliminado, o restante da esquadra ajudará você a eliminar os soviéticos restantes."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/05",
+      "sourceLine": 127,
+      "translationLine": 127,
+      "en": "Select your soldier, and press 'X' or click on the 'examine' icon. When you hover over the vehicle, the cursor will change to an eye. Transfer any AT grenades from the inventory of the truck to your soldier's inventory.",
+      "pt": "Selecione seu soldado e pressione 'X' ou clique no ícone 'examinar'. Quando passar o cursor sobre o veículo, ele mudará para um olho. Transfira quaisquer granadas antitanque do inventário do caminhão para o inventário do seu soldado.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/06",
+      "sourceLine": 133,
+      "translationLine": 133,
+      "en": "Infantry can move in any terrain, but vehicles, especially wheeled vehicles, must use roads to travel at maximum speed, which makes them easy to ambush.",
+      "pt": "A infantaria pode se mover em qualquer terreno, mas veículos, especialmente com rodas, devem usar estradas para se deslocar em velocidade máxima, o que os torna fáceis de emboscar.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/07",
+      "sourceLine": 137,
+      "translationLine": 137,
+      "en": "Buildings and other objects block the line of sight of units. You can see the enemy tank because other friendly units are actively fighting it. But no enemy unit is currently able to see your soldier. Because of this, you can easily flank the enemy tank without being detected.",
+      "pt": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "issue": "A última instrução foi omitida: o jogador pode flanquear o tanque sem ser detectado por causa das condições de visibilidade descritas.",
+        "proposedTranslation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado.",
+        "confidence": "alta",
+        "category": "accuracy-omission",
+        "appliedTranslation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado."
+      },
+      "previousTranslation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento.",
+      "previousReview": {
+        "status": "confirmed-correction-applied",
+        "issue": "A última instrução foi omitida: o jogador pode flanquear o tanque sem ser detectado por causa das condições de visibilidade descritas.",
+        "proposedTranslation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado.",
+        "confidence": "alta",
+        "category": "accuracy-omission",
+        "appliedTranslation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/08",
+      "sourceLine": 143,
+      "translationLine": 143,
+      "en": "You must be aware of your mission objectives. You can always open your mission tasks with the hotkey \"O\".",
+      "pt": "Você deve estar ciente dos seus objetivos de missão. Pode sempre abrir as tarefas com a tecla de atalho \"O\".",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/09",
+      "sourceLine": 147,
+      "translationLine": 147,
+      "en": "Quite often, you will need to get rid of remaining enemies to proceed with the next stages of a mission. Keep an eye out for enemies who may be concealed in the \"fog of war\", for example, hiding in trenches.",
+      "pt": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em trincheiras.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "issue": "O exemplo trenches foi trocado por edifícios ou arbustos, conteúdo não identificado nessa frase inglesa.",
+        "proposedTranslation": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em trincheiras.",
+        "confidence": "alta",
+        "category": "accuracy-altered-example",
+        "appliedTranslation": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em trincheiras."
+      },
+      "previousTranslation": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em edifícios ou arbustos.",
+      "previousReview": {
+        "status": "confirmed-correction-applied",
+        "issue": "O exemplo trenches foi trocado por edifícios ou arbustos, conteúdo não identificado nessa frase inglesa.",
+        "proposedTranslation": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em trincheiras.",
+        "confidence": "alta",
+        "category": "accuracy-altered-example",
+        "appliedTranslation": "Com frequência, você precisará eliminar inimigos restantes para prosseguir com as próximas etapas de uma missão. Fique atento a inimigos que possam estar ocultos na \"névoa de guerra\", por exemplo, escondidos em trincheiras."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/outro_completed",
+      "sourceLine": 153,
+      "translationLine": 153,
+      "en": "Mission Accomplished!\n\nClick on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission.",
+      "pt": "Missão Cumprida!\n\nClique em 'Continuar' para continuar jogando esta missão ou clique em 'Próximo' para ir diretamente à próxima missão.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Reproduzir nomes dos botões de UI: Continuar e Próximo, em vez de mudar o gênero do rótulo Next.",
+        "appliedTranslation": "Missão Cumprida!\n\nClique em 'Continuar' para continuar jogando esta missão ou clique em 'Próximo' para ir diretamente à próxima missão.",
+        "evidence": [
+          {
+            "file": "interface/text/dlg_frontend.pot",
+            "context": "button/next",
+            "supports": "Next=Próximo; dlg_ingame tips/menu/next e tips/button/next concordam."
+          }
+        ],
+        "finalAnnotationIndices": [
+          671
+        ]
+      },
+      "previousReview": {
+        "status": "ui-label-clarification-pending",
+        "note": "A interface consultada usa Próximo nos rótulos Next (tips/menu/next e tips/button/next), enquanto este texto diz próxima. Conferir botão efetivamente usado por esta tela antes de padronizar."
+      },
+      "previousFinalPassTranslation": "Missão Cumprida!\n\nClique em 'continuar' para continuar jogando esta missão ou clique em 'próxima' para ir diretamente à próxima missão."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/place",
+      "sourceLine": 159,
+      "translationLine": 159,
+      "en": "Army Group Centre",
+      "pt": "Grupo de Exércitos Centro",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/story",
+      "sourceLine": 163,
+      "translationLine": 163,
+      "en": "Welcome to boot camp, Soldier.\n\nIn this tutorial, you will learn how to control infantry, the most common and important type of unit in the battlefield.\n\n                                        Good luck!",
+      "pt": "Bem-vindo ao campo de treinamento, Soldado.\n\nNeste tutorial, você aprenderá a controlar a infantaria, o tipo de unidade mais comum e importante no campo de batalha.\n\n                                        Boa sorte!",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task1",
+      "sourceLine": 170,
+      "translationLine": 170,
+      "en": "Take cover behind the sandbags.",
+      "pt": "Abriguem-se atrás dos sacos de areia.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task2",
+      "sourceLine": 174,
+      "translationLine": 174,
+      "en": "Take cover behind the stone wall.",
+      "pt": "Abriguem-se atrás do muro de pedra.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task3",
+      "sourceLine": 178,
+      "translationLine": 178,
+      "en": "Eliminate the Soviet border patrol.",
+      "pt": "Eliminem a patrulha de fronteira soviética.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task4",
+      "sourceLine": 182,
+      "translationLine": 182,
+      "en": "Take out the MG nest with a grenade.",
+      "pt": "Destruam o ninho de metralhadora com uma granada.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      },
+      "previousReview": {
+        "status": "no-problem-identified-in-this-reading",
+        "note": "Sentido cotejado com o inglês dentro do arquivo completo. Não constitui certificação de áudio, aparência ou mecânica no jogo."
+      }
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task5",
+      "sourceLine": 186,
+      "translationLine": 186,
+      "en": "Retrieve AT grenades from the Soviet truck.",
+      "pt": "Recuperem as granadas antitanque do caminhão soviético.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Expandir sigla na tarefa explicativa, coerente com cena e fala do mesmo tutorial.",
+        "appliedTranslation": "Recuperem as granadas antitanque do caminhão soviético.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          672
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-readability-policy-pending",
+        "note": "AT significa antitanque nesta instrução. Expandir melhora clareza e é coerente com scene/05; preservar a sigla compacta não constitui erro de referente."
+      },
+      "previousFinalPassTranslation": "Recuperem as granadas AT do caminhão soviético."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task6",
+      "sourceLine": 190,
+      "translationLine": 190,
+      "en": "Destroy the Soviet tank with the AT grenades.",
+      "pt": "Destruam o tanque soviético com as granadas antitanque.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Mesma granada antitanque adquirida na tarefa5, agora usada contra o tanque.",
+        "appliedTranslation": "Destruam o tanque soviético com as granadas antitanque.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          673
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-readability-policy-pending",
+        "note": "AT grenades significa granadas antitanque; verificar a política de abreviações da narrativa/objetivos, sem alterar nomes de itens por suposição."
+      },
+      "previousFinalPassTranslation": "Destruam o tanque soviético com as granadas AT."
+    },
+    {
+      "context": "mission/single/00-bootcamp/01_inf-control/task7",
+      "sourceLine": 194,
+      "translationLine": 194,
+      "en": "Eliminate the armored car with the AT rifle.",
+      "pt": "Eliminem o carro blindado com o fuzil antitanque.",
+      "technicalCheck": "pass",
+      "technicalIssues": [],
+      "review": {
+        "status": "confirmed-correction-applied",
+        "note": "Expandir AT sem confundir função com sniper nem nomear modelo específico.",
+        "appliedTranslation": "Eliminem o carro blindado com o fuzil antitanque.",
+        "evidence": [],
+        "finalAnnotationIndices": [
+          674
+        ]
+      },
+      "previousReview": {
+        "status": "meaning-reviewed-readability-policy-pending",
+        "note": "AT rifle significa fuzil antitanque. O armamento desta tarefa desambigua a função do AT rifleman da fala /14; modelo específico não identificado no catálogo e não deve ser inventado."
+      },
+      "previousFinalPassTranslation": "Eliminem o carro blindado com o fuzil AT."
+    }
+  ],
+  "applicationRecord": "translation/full-review-2026-10-07.json",
+  "historicalSnapshot": {
+    "englishSha256": "cbca355709dc727c81c78d9793b4f1b5ad2cc97a7ec6e41bc9e28b8b85c3796b",
+    "portugueseSha256": "7eeb0e64d82f2f0062c3cc1d5e2b4607557ec25bee9de1466e4fb33a60a3bdda",
+    "initialPortugueseSha256": "af7402be4ae98d01cb42a891633a94afa2f7152b65968c95f572a4ae888e06dd"
+  },
+  "finalReviewRecord": "translation/final-review-2026-10-07.json",
+  "technicalValidationRecord": "translation/validation-2026-10-07.json"
+}

@@ -46,8 +46,7 @@ msgstr "Seu próximo objetivo é tomar o edifício residencial estratégico que 
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/05"
 msgid "Due to our grueling losses, I have put into action Order 166: Offensives are to be organized into small groups with sub-machine guns, hand grenades, and anti-tank rifles. Taking this building is your assignment, Comrades. I will try to get reinforcements for you after the building is in your hands."
-msgstr "Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzis 
-e. Tomar este edifício é a sua missão, camaradas. Tentarei conseguir reforços depois que o edifício estiver em suas mãos."
+msgstr "Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzis antitanque. Tomar este edifício é a sua missão, camaradas. Tentarei conseguir reforços depois que o edifício estiver em suas mãos."
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/06"
 msgid "Good work Comrades. Take positions around this building. The Germans will surely want to take back such a strategic spot."
@@ -63,7 +62,7 @@ msgstr "Estou enviando um atirador de elite notório para reforçar seus homens,
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/09"
 msgid "Comrades, engineering supplies have been found left behind by the Germans. I am ordering you to reinforce the approaches of the building to improve its defensive capabilities. "
-msgstr "Camaradas, foram encontrados suprimentos de engenharia deixados pelos alemães. Estou ordenando que reforcem as aproximações do edifício para melhorar suas capacidades defensivas."
+msgstr "Camaradas, foram encontrados suprimentos de engenharia deixados pelos alemães. Estou ordenando que reforcem os acessos ao edifício para melhorar suas capacidades defensivas."
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/10"
 msgid "Make our defense unbreakable! All the furious attacks of the Fascist troops will shatter upon these obstacles just like sea waves are broken by granite rock!"
@@ -119,7 +118,7 @@ msgstr "O Sargento Yakov Pavlov deve sobreviver!"
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task5"
 msgid "Keep Sniper Anatoly Checkov alive."
-msgstr "Mantenha o Atirador Anatoly Checkov vivo."
+msgstr "Mantenha o atirador de elite Anatoly Checkov vivo."
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task_supply"
 msgid "Secure supplies"

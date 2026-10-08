@@ -248,7 +248,7 @@ msgstr "<c(A5A095)>(2)</c> Seção de Reconhecimento"
 
 msgctxt "desc/squad/squad_sissi_mid_con(fin)"
 msgid "<c(A5A095)>(4)</c> Sissi Commandos"
-msgstr "<c(A5A095)>(4)</c> Sissi Comandos"
+msgstr "<c(A5A095)>(4)</c> Comandos Sissi"
 
 msgctxt "desc/squad/team_officer_con(fin)"
 msgid "Command Team"
@@ -256,7 +256,7 @@ msgstr "Equipe de Comando"
 
 msgctxt "desc/squad/white_death_con(fin)"
 msgid "<c(A5A095)>(4)</c> Elite Sniper"
-msgstr "<c(A5A095)>(4)</c> Franco-atirador"
+msgstr "<c(A5A095)>(4)</c> Franco-atirador de Elite"
 
 msgctxt "desc/squad/single_rifle(fin)"
 msgid "Rifleman"
@@ -568,15 +568,15 @@ msgstr "Maxim M/09-09"
 
 msgctxt "desc/squad/ds39_stand_fin_early"
 msgid "DS-39/VKT Stand"
-msgstr "DS-39/VKT Stand"
+msgstr "DS-39/VKT (Suporte)"
 
 msgctxt "desc/squad/ds39_stand_fin_mid"
 msgid "DS-39/VKT Stand"
-msgstr "DS-39/VKT Stand"
+msgstr "DS-39/VKT (Suporte)"
 
 msgctxt "desc/squad/ds39_stand_fin_late"
 msgid "DS-39/VKT Stand"
-msgstr "DS-39/VKT Stand"
+msgstr "DS-39/VKT (Suporte)"
 
 msgctxt "desc/squad/mg08_fin_mid"
 msgid "Maxim MG 08"
@@ -704,7 +704,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Patrulha QG de Longo Alcance"
 
 msgctxt "desc/squad/squad_hq_lr_jag_mid_def(fin)"
 msgid "<c(A5A095)>(4+)</c> HQ Long-Range Jäger Squad"
-msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger QG de Longo Alcance"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger de Longo Alcance do QG"
 
 msgctxt "desc/squad/squad_penal_mid_irr(fin)"
 msgid "<c(A5A095)>(2)</c> Penal 'Black Arrow' Squad"
@@ -792,7 +792,7 @@ msgstr "<c(A5A095)>(4)</c> Esquadra de Patrulha QG de Longo Alcance"
 
 msgctxt "desc/squad/squad_hq_lr_jag_late_def(fin)"
 msgid "<c(A5A095)>(4+)</c> HQ Long-Range Jäger Squad"
-msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger QG de Longo Alcance"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger de Longo Alcance do QG"
 
 msgctxt "desc/squad/squad_penal_late_irr(fin)"
 msgid "<c(A5A095)>(2)</c> Penal 'Black Arrow' Squad"
@@ -872,7 +872,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis Sueca [Tardio]"
 
 msgctxt "desc/squad/squad_arm_jag_late_mot_con(fin)"
 msgid "<c(A5A095)>(4)</c> Motorized Armor Div. Jäger Squad [Late]"
-msgstr "<c(A5A095)>(4)</c> Motorizada Div. Blindada Esquadra Jäger [Tardio]"
+msgstr "<c(A5A095)>(4)</c> Esquadra Motorizada Jäger da Div. Blindada [Tardio]"
 
 msgctxt "desc/squad/squad_hrr_cav_mid_con(fin)"
 msgid "<c(A5A095)>(4)</c> Häme Cavalry Rifle Squad"
@@ -916,8 +916,8 @@ msgstr "<c(A5A095)>(4+)</c> Esquadra de Cavalaria Uusimaa [Tardio]"
 
 msgctxt "desc/squad/squad_hq_lr_jag_mid_con(fin)"
 msgid "<c(A5A095)>(4+)</c> HQ Long-Range Jäger Squad"
-msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger QG de Longo Alcance"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger de Longo Alcance do QG"
 
 msgctxt "desc/squad/squad_hq_lr_jag_late_con(fin)"
 msgid "<c(A5A095)>(4+)</c> HQ Long-Range Jäger Squad [Late]"
-msgstr "<c(A5A095)>(4+)</c> QG Esquadra Jäger de Longo Alcance [Tardio]"
+msgstr "<c(A5A095)>(4+)</c> Esquadra Jäger de Longo Alcance do QG [Tardio]"

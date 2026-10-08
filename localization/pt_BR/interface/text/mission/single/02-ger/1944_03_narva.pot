@@ -66,7 +66,7 @@ msgstr "O inimigo está em movimento! Assuma o comando de nossa primeira linha d
 
 msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/10"
 msgid "Attention Soldiers! Our forces from the Grossdeutschland division have deployed the second line of defense further back, with more powerful Anti-tank weaponry. We have received orders to fall back and consolidate our line. Move out!!"
-msgstr "Atenção, Soldaten! Nossas forças da divisão Grossdeutschland implantaram a segunda linha de defesa mais atrás, com armamentos antitanque mais poderosos. Recebemos ordens de recuar e consolidar nossa linha. Movam-se!!"
+msgstr "Atenção, soldados! Nossas forças da divisão Grossdeutschland implantaram a segunda linha de defesa mais atrás, com armamentos antitanque mais poderosos. Recebemos ordens de recuar e consolidar nossa linha. Movam-se!!"
 
 msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/11"
 msgid "Herr Leutnant, take command of the Grossdeutschland units and continue holding the line! You are about to meet the tough grunt of the enemy assault!"
@@ -82,11 +82,11 @@ msgstr "Muito bem, Soldaten! O inimigo foi parado definitivamente!"
 
 msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/14"
 msgid "In spite of the Soviet attack, we must not lose track of our original orders from the Strachwitz Battle Group. We are to take the initiative and attack at once. The enemy is standing down, it's our turn to deal a devastating blow!"
-msgstr "Apesar do ataque soviético, não devemos perder de vista nossas ordens originais do Grupo de Batalha Strachwitz. Devemos tomar a iniciativa e atacar imediatamente. O inimigo está recuando — é nossa vez de desferir um golpe devastador!"
+msgstr "Apesar do ataque soviético, não devemos perder de vista nossas ordens originais do Grupo de Batalha Strachwitz. Devemos tomar a iniciativa e atacar imediatamente. O inimigo suspendeu o ataque — é nossa vez de desferir um golpe devastador!"
 
 msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/15"
 msgid "Reinforcements from the Strachwitz Battle Group are at your disposal, Herr Leutnant. Drive the enemy back straight to hell!"
-msgstr "Reforços do Grupo de Batalha Strachwitz estão à sua disposição, Herr Leutnant. Rechaça o inimigo direto para o inferno!"
+msgstr "Reforços do Grupo de Batalha Strachwitz estão à sua disposição, Herr Leutnant. Rechace o inimigo direto para o inferno!"
 
 msgctxt "mission/single/02-ger/1944_03_narva/narrator/officer/16"
 msgid "Attention, the enemy is initiating a flanking attack from the south!"
@@ -174,7 +174,7 @@ msgstr "Recue para a segunda linha!"
 
 msgctxt "mission/single/02-ger/1944_03_narva/task5"
 msgid "Push back the enemy and secure the region."
-msgstr "Rechaça o inimigo e assegure a região."
+msgstr "Rechace o inimigo e assegure a região."
 
 msgctxt "mission/single/02-ger/1944_03_narva/timer1"
 msgid "Hold the first line of defense!"

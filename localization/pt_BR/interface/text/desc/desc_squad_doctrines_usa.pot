@@ -34,7 +34,7 @@ msgstr "<c(B29557)>( I )</c> Seção de Reconhecimento de Cavalaria"
 
 msgctxt "desc/squad/doctrine_m4_75_early_armor_mid"
 msgid "<c(B29557)>( II )</c> M4 (Early) Up-armored"
-msgstr "<c(B29557)>( II )</c> M4 (Early) Blindagem Reforçada"
+msgstr "<c(B29557)>( II )</c> M4 (Inicial) Blindagem Reforçada"
 
 msgctxt "desc/squad/doctrine_squad_usa_signaller_155_mid(usa)"
 msgid "<c(B29557)>( II )</c> 155mm Artillery Signaller"
@@ -50,7 +50,7 @@ msgstr "<c(B29557)>( III )</c> 8-inch Sinaleiro de Artilharia"
 
 msgctxt "desc/squad/doctrine_3x_m4_75_early_armor_mid"
 msgid "<c(B29557)>( III )</c> 3x M4 (Early) Up-armored"
-msgstr "<c(B29557)>( III )</c> 3x M4 (Early) Blindagem Reforçada"
+msgstr "<c(B29557)>( III )</c> 3x M4 (Inicial) Blindagem Reforçada"
 
 msgctxt "desc/squad/doctrine_155mm_gpf_us_mid"
 msgid "<c(B29557)>( III )</c> 155mm GPF"
@@ -78,7 +78,7 @@ msgstr "<c(B29557)>( II )</c> 4.2-inch Morteiro M2"
 
 msgctxt "desc/squad/doctrine_76mm_m5_m1_mid"
 msgid "<c(B29557)>( II )</c> 76mm M5 AT Gun"
-msgstr "<c(B29557)>( II )</c> 76mm M5 AT Gun"
+msgstr "<c(B29557)>( II )</c> Canhão AT M5 de 76mm"
 
 msgctxt "desc/squad/doctrine_t19_hmc_mid"
 msgid "<c(B29557)>( II )</c> 105mm HMC T19"
@@ -98,7 +98,7 @@ msgstr "<c(B29557)>( III )</c> 155mm M1A1 Long Tom"
 
 msgctxt "desc/squad/doctrine_squad_1st_special_mid(usa)"
 msgid "<c(B29557)>( II )</c> 1st Special Combat Section"
-msgstr "<c(B29557)>( II )</c> 1ª Seção de Combate Especial"
+msgstr "<c(B29557)>( II )</c> Seção de Combate da 1ª Força de Serviço Especial"
 
 msgctxt "desc/squad/doctrine_m6_gmc_mid"
 msgid "<c(B29557)>( I )</c> 37mm GMC M6"
@@ -106,7 +106,7 @@ msgstr "<c(B29557)>( I )</c> 37mm GMC M6"
 
 msgctxt "desc/squad/doctrine_75mm_m1a1_mid"
 msgid "<c(B29557)>( I )</c> 75mm M8 Pack Howitzer"
-msgstr "<c(B29557)>( I )</c> 75mm M8 Pack Obuseiroeiroeiro"
+msgstr "<c(B29557)>( I )</c> 75mm M8 Obuseiro Desmontável"
 
 msgctxt "desc/squad/doctrine_p47_250_mid"
 msgid "<c(B29557)>( I )</c> P47 250lb Bomb"
@@ -126,7 +126,7 @@ msgstr "<c(B29557)>( III )</c> P47 500lb Bomba"
 
 msgctxt "desc/squad/doctrine_114mm_m1_mid"
 msgid "<c(B29557)>( III )</c> 4.5-inch Gun M1"
-msgstr "<c(B29557)>( III )</c> 4.5-inch Gun M1"
+msgstr "<c(B29557)>( III )</c> Canhão M1 de 4.5 polegadas"
 
 msgctxt "desc/squad/doctrine_155mm_schneider_us_mid"
 msgid "<c(B29557)>( III )</c> 155mm Schneider"
@@ -150,7 +150,7 @@ msgstr "<c(B29557)>( II )</c> 75mm GMC M3"
 
 msgctxt "desc/squad/doctrine_m4a1_75_mid_armor_mid"
 msgid "<c(B29557)>( II )</c> M4A1 (Mid) Up-armored"
-msgstr "<c(B29557)>( II )</c> M4A1 (Mid) Blindagem Reforçada"
+msgstr "<c(B29557)>( II )</c> M4A1 (Intermediário) Blindagem Reforçada"
 
 msgctxt "desc/squad/doctrine_squad_usa_signaller_105_mid(usa)"
 msgid "<c(B29557)>( II )</c> 105mm Artillery Signaller"
@@ -162,7 +162,7 @@ msgstr "<c(B29557)>( III )</c> 8-inch Sinaleiro de Artilharia"
 
 msgctxt "desc/squad/doctrine_3x_m4a1_75_mid_armor_mid"
 msgid "<c(B29557)>( III )</c> 3x M4A1 (Mid) Up-armored"
-msgstr "<c(B29557)>( III )</c> 3x M4A1 (Mid) Blindagem Reforçada"
+msgstr "<c(B29557)>( III )</c> 3x M4A1 (Intermediário) Blindagem Reforçada"
 
 msgctxt "desc/squad/doctrine_155mm_m1_mid"
 msgid "<c(B29557)>( III )</c> 155mm Howitzer M1"
@@ -250,11 +250,11 @@ msgstr "<c(B29557)>( III )</c> 155mm M1A1 Long Tom"
 
 msgctxt "desc/squad/doctrine_squad_1st_special_late(usa)"
 msgid "<c(B29557)>( II )</c> 1st Special Combat Section"
-msgstr "<c(B29557)>( II )</c> 1ª Seção de Combate Especial"
+msgstr "<c(B29557)>( II )</c> Seção de Combate da 1ª Força de Serviço Especial"
 
 msgctxt "desc/squad/doctrine_75mm_m1a1_late"
 msgid "<c(B29557)>( I )</c> 75mm M8 Pack Howitzer"
-msgstr "<c(B29557)>( I )</c> 75mm M8 Pack Obuseiroeiroeiro"
+msgstr "<c(B29557)>( I )</c> 75mm M8 Obuseiro Desmontável"
 
 msgctxt "desc/squad/doctrine_squad_m18(usa)"
 msgid "<c(B29557)>( I )</c> M18 Recoilless Rifle Squad"
@@ -286,7 +286,7 @@ msgstr "<c(B29557)>( III )</c> P47 500lb Bomba"
 
 msgctxt "desc/squad/doctrine_114mm_m1_late"
 msgid "<c(B29557)>( III )</c> 4.5-inch Gun M1"
-msgstr "<c(B29557)>( III )</c> 4.5-inch Gun M1"
+msgstr "<c(B29557)>( III )</c> Canhão M1 de 4.5 polegadas"
 
 msgctxt "desc/squad/doctrine_m4a3_calliope_late"
 msgid "<c(B29557)>( III )</c> M4A3(75)W 'Calliope'"

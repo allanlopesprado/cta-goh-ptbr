@@ -80,7 +80,7 @@ msgstr "Escutem!! Quero aquele morro tomado antes do anoitecer — vamos! Refor�
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/05"
 msgid "The Krauts have some flak guns by the farm complex, threatening our aircraft. If you can take them out, our boys will be able to rain hellfire from the sky."
-msgstr "Os Krauts têm alguns canhões antiaéreos perto do complexo da fazenda, ameaçando nossas aeronaves. Se puder eliminá-los, nossos rapazes poderão chuver fogo do céu."
+msgstr "Os Krauts têm alguns canhões antiaéreos perto do complexo da fazenda, ameaçando nossas aeronaves. Se puder eliminá-los, nossos rapazes poderão fazer chover fogo do céu."
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/06"
 msgid "Well done boys! The Hill is ours. Judging by the way they fought for it, I don't think they'll let it go that easily. Set up a defensive perimeter and prepare for possible counterattack."
@@ -96,7 +96,7 @@ msgstr "Atenção! Contra-ataque inimigo! Segurem a linha!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/09"
 msgid "Alright, I don't think Jerry is done just yet, scan your sectors!"
-msgstr "Certo — acho que os Jerry ainda não terminaram. Escanear seus setores!"
+msgstr "Certo, acho que os alemães ainda não terminaram. Observem seus setores!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/10"
 msgid "They're on the run! Pour it on em!!"
@@ -116,7 +116,7 @@ msgstr "Não temos muito tempo, coloquem minas nos locais mais óbvios e não se
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/14"
 msgid "Incoming Artillery!!!"
-msgstr "Artilharia chegando!!!"
+msgstr "Fogo de artilharia a caminho!!!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/15"
 msgid "Kraut mortars, watch out!"
@@ -148,7 +148,7 @@ msgstr "Ataque aéreo em andamento — anjos nos protegem!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak1"
 msgid "Flak gun down! Flak gun down! "
-msgstr "Canhão antiaéreo abatido!"
+msgstr "Canhão antiaéreo neutralizado! Canhão antiaéreo neutralizado!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak2"
 msgid "Flak gun disabled, good job boys!"
@@ -156,7 +156,7 @@ msgstr "Canhão antiaéreo desativado — bom trabalho, rapazes!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/flak3"
 msgid "Enemy triple-A down!"
-msgstr "Antiaéreo inimigo abatido!"
+msgstr "Arma antiaérea inimiga neutralizada!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/01"
 msgid "You hate to see it... What happens now, Sir?"
@@ -176,7 +176,7 @@ msgstr "Alvo fora do nosso alcance — você vai ter que nos dar novas coordenad
 
 msgctxt "mission/single/04-usa/1944_12_hill400/outro_completed"
 msgid "Excellent work soldiers! This victory shows the tenacity of the US Rangers, keeping calm in the face of overwhelming odds. This hill seemed impregnable at first sight, but you took it anyway. People will remember this battle for a long time. You certainly made your mark as a commander today!"
-msgstr "Excelente trabalho, soldados! Esta vitória mostra a tenacidade dos Rangers americanos, mantendo a calma diante de probabilidades esmagadoras. Este morro parecia inexpugnável à primeira vista, mas você o tomou assim mesmo. As pessoas vão lembrar desta batalha por muito tempo. Você certamente deixou sua marca como comandante hoje!"
+msgstr "Excelente trabalho, soldados! Esta vitória mostra a tenacidade dos Rangers americanos, mantendo a calma diante de uma situação extremamente desfavorável. Este morro parecia inexpugnável à primeira vista, mas você o tomou assim mesmo. As pessoas vão lembrar desta batalha por muito tempo. Você certamente deixou sua marca como comandante hoje!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/outro_failed"
 msgid "This turned into a bad day somehow. If we fail to take this hill, our sole advantage for the next battle is lost. This can’t be happening to the 2nd Rangers, you must try again!"
@@ -232,7 +232,7 @@ msgstr "M15A1"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/reinf_mortar"
 msgid "81mm M1 Mortar"
-msgstr "81mm M1 Morteiro"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/reinf_officer"
 msgid "Officer"

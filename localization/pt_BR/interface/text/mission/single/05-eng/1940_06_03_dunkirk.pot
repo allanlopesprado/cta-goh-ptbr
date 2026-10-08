@@ -22,7 +22,7 @@ msgstr "Dynamo"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/story"
 msgid "Ever since the Germans broke through at Sedan three weeks ago, the Allies have been on the back foot.\n\nCalais fell on the 27th, and Belgium capitulated on the 28th. The perimeter around Dunkirk is shrinking, and an attack on the remaining allied forces seems to be a matter of time only.\n\nThe Germans are pushing in on the shrinking perimeter from all sides, including from the air.\n\nToday, it’s up to you and your comrades to buy the evacuation operation more time and to keep the Germans away from the beach as far as possible."
-msgstr "Desde que os alemães romperam em Sedan há três semanas, os Aliados estão em desvantagem.\n\nCalais caiu no dia 27, e a Bélgica capitulou no dia 28. O perímetro ao redor de Dunkirk está encolhendo, e um ataque às forças aliadas restantes parece ser apenas uma questão de tempo.\n\nOs alemães estão pressionando o perímetro em retração por todos os lados, inclusive pelo ar.\n\nHoje, cabe a você e a seus camaradas comprar mais tempo para a operação de evacuação e manter os alemães o mais longe possível da praia."
+msgstr "Desde que os alemães romperam em Sedan há três semanas, os Aliados estão em desvantagem.\n\nCalais caiu no dia 27, e a Bélgica capitulou no dia 28. O perímetro ao redor de Dunkirk está encolhendo, e um ataque às forças aliadas restantes parece ser apenas uma questão de tempo.\n\nOs alemães estão pressionando o perímetro em retração por todos os lados, inclusive pelo ar.\n\nHoje, cabe a você e a seus camaradas ganhar mais tempo para a operação de evacuação e manter os alemães o mais longe possível da praia."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/date"
 msgid "June 3rd, 1940 · Dunkirk, France"
@@ -58,7 +58,7 @@ msgstr "Temos mais desses panfletos do que papel higiênico... Eles realmente qu
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_05"
 msgid "God help us if Jerry gets his hands on us…"
-msgstr "Deus nos ajude se Jerry colocar as mãos em nós..."
+msgstr "Deus nos ajude se os alemães nos pegarem..."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_06"
 msgid "Let’s just… Let’s just keep moving…"
@@ -118,7 +118,7 @@ msgstr "Senhor, onde estão os demais artilheiros?"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_05"
 msgid "I beg your pardon, Lieutenant?"
-msgstr "Peço sua indulgência, Tenente?"
+msgstr "Como disse, Tenente?"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_06"
 msgid "We have a couple of AT guns but… Not enough trained personnel to operate them."
@@ -126,11 +126,11 @@ msgstr "Temos alguns canhões AT mas... Não há pessoal treinado suficiente par
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_07"
 msgid "They’re most likely either on the beach or on their way home. I’m afraid some of your riflemen have to learn on the fly. This evacuation has been a total mess from the beginning."
-msgstr "Provavelmente estão na praia ou a caminho para casa. Receio que alguns de seus atiradores terão de aprender na prática. Esta evacuação foi uma bagunça total desde o início."
+msgstr "Provavelmente estão na praia ou a caminho para casa. Receio que alguns de seus fuzileiros terão de aprender na prática. Esta evacuação foi uma bagunça total desde o início."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_11"
 msgid "What the?.. Jerry is already here!"
-msgstr "O quê?.. Jerry já está aqui!"
+msgstr "O quê?.. Os alemães já estão aqui!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_12"
 msgid "Damn, I’ve seen this before. It looks like they’re probing our line, that means the fun is about to begin…"
@@ -266,7 +266,7 @@ msgstr "Este é o último! Devemos aguentar um pouco mais enquanto os feridos s�
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/enemy_near_beach"
 msgid "The Germans have reached the beach! Wipe them out before they slaughter our men at the mole!"
-msgstr "Os alemães chegaram à praia! Limpe-os antes que massacrem nossos homens no cais!"
+msgstr "Os alemães chegaram à praia! Elimine-os antes que massacrem nossos homens no cais!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/outro_01"
 msgid "To the mole, quick!"
@@ -318,7 +318,7 @@ msgstr "Sabotagem de veículos — afaste-se"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/hint_airstrike"
 msgid "Royal Air Forces are ready to provide close air support. There are only <c(B29557)>2 planes available</c>, use them as a last resort."
-msgstr "As Forças Aéreas Reais estão prontas para fornecer apoio aéreo próximo. Há apenas <c(B29557)>2 aviões disponíveis</c>; use-os como último recurso."
+msgstr "A Força Aérea Real está pronta para fornecer apoio aéreo próximo. Há apenas <c(B29557)>2 aviões disponíveis</c>; use-os como último recurso."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_early_fallback"
 msgid "<c(B29557)>Bring your units back to the first defensive line</c>"

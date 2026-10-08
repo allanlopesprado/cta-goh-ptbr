@@ -1,0 +1,2365 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "reviews": [
+    {
+      "file": "interface/text/desc/desc_breed_airborne_ger.pot",
+      "context": "desc/human/mp/ger/late/waffen_mg_crew_asst",
+      "line": 90,
+      "before": "msgstr \"Auxiliar de Tripulação de Metralhadora [Waffen-SS]\"\"\"",
+      "after": "msgstr \"Auxiliar de Tripulação de Metralhadora [Waffen-SS]\"",
+      "reason": "Remover duas aspas extras do msgstr; manter o texto existente. Requer substituição raw por causa da sintaxe inválida.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/bt7a",
+      "line": 677,
+      "before": "msgstr \"Tanque soviético médio-leve de apoio à infantaria, rápido e ágil, capaz de levar uma esquadra para a batalha enquanto também é capaz de duelar com tanques e veículos leves. \\n O BT (Bystrokhodny tank, significando \"tanque rápido\") era baseado no tanque conversível M1931 Christie e produzido na URSS desde 1935. Pesando 13,5 toneladas, esta versão de \"canhão autopropulsado\" era capaz de atingir altas velocidades, mantendo blindagem relativamente espessa e alto poder de fogo graças ao seu canhão de 76mm. O BT foi projetado para investidas rápidas em território inimigo e operações ofensivas rápidas sem apoio de infantaria.\"",
+      "after": "msgstr \"Tanque soviético médio-leve de apoio à infantaria, rápido e ágil, capaz de levar uma esquadra para a batalha enquanto também é capaz de duelar com tanques e veículos leves. \\n O BT (Bystrokhodny tank, significando \\\"tanque rápido\\\") era baseado no tanque conversível M1931 Christie e produzido na URSS desde 1935. Pesando 13,5 toneladas, esta versão de \\\"canhão autopropulsado\\\" era capaz de atingir altas velocidades, mantendo blindagem relativamente espessa e alto poder de fogo graças ao seu canhão de 76mm. O BT foi projetado para investidas rápidas em território inimigo e operações ofensivas rápidas sem apoio de infantaria.\"",
+      "reason": "Escapar corretamente as aspas internas; preservar texto e dados da fonte. Requer substituição raw por causa da sintaxe inválida.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/kv2",
+      "line": 801,
+      "before": "msgstr \"Tanque pesado soviético \"colosso\" de produção em massa, equipado com blindagem capaz de suportar impactos diretos de artilharia e portando um massivo canhão principal de 122mm. Este veículo pode destruir veículos leves e posições fortificadas com facilidade. \\n Entrando em serviço no Exército Vermelho no início dos anos 1940, o KV-2 era virtualmente impermeável às armas antitanque inimigas, embora, devido à sua baixa manobrabilidade e cadência de tiro, fosse usado principalmente como arma de cerco.\"",
+      "after": "msgstr \"Tanque pesado soviético \\\"colosso\\\" de produção em massa, equipado com blindagem capaz de suportar impactos diretos de artilharia e portando um massivo canhão principal de 122mm. Este veículo pode destruir veículos leves e posições fortificadas com facilidade. \\n Entrando em serviço no Exército Vermelho no início dos anos 1940, o KV-2 era virtualmente impermeável às armas antitanque inimigas, embora, devido à sua baixa manobrabilidade e cadência de tiro, fosse usado principalmente como arma de cerco.\"",
+      "reason": "Escapar corretamente as aspas internas; preservar o calibre de 122 mm presente no inglês, registrando a dúvida histórica separadamente. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_09_pavlovs_house.pot",
+      "context": "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/05",
+      "line": 49,
+      "before": "msgstr \"Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzis \ne. Tomar este edifício é a sua missão, camaradas. Tentarei conseguir reforços depois que o edifício estiver em suas mãos.\"",
+      "after": "msgstr \"Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzis antitanque. Tomar este edifício é a sua missão, camaradas. Tentarei conseguir reforços depois que o edifício estiver em suas mãos.\"",
+      "reason": "Restaurar antitanque (anti-tank rifles) e a linha corrompida que interrompe o msgstr. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "context": "mission/single/01-rus/1943_11_kiev/narrator/officer/06",
+      "line": 49,
+      "before": "msgstr \"Cuidado! Há um canhão \ne no final desta rua!\"",
+      "after": "msgstr \"Cuidado! Há um canhão antitanque no final desta rua!\"",
+      "reason": "Restaurar antitanque (anti-tank gun) e remover a quebra de linha corrompida. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+      "context": "mission/single/03-fin/1944_10_tornio/narrator/officer/07",
+      "line": 57,
+      "before": "msgstr \"Ouçam, astoveri! A inteligência informou que o grupo de batalha alemão na área inclui o Batalhão Panzer 211. Espere um ataque com seus blindados — mesmo que sejam apenas velhos tanques franceses capturados. Colete o máximo possível de armas \ne e prepare-se para o ataque inimigo.\"",
+      "after": "msgstr \"Ouçam, astoveri! A inteligência informou que o grupo de batalha alemão na área inclui o Batalhão Panzer 211. Esperem um ataque com seus blindados, mesmo que sejam apenas velhos tanques franceses capturados. Coletem o máximo possível de armas antitanque e preparem-se para o ataque inimigo.\"",
+      "reason": "Restaurar antitanque (Anti-tank weapons), reparar o msgstr quebrado e manter as ordens no plural, como Ouçam. astoveri permanece conforme a fonte, sujeito à revisão contextual posterior. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_01",
+      "line": 313,
+      "before": "msgstr \"Está me dizendo que eles estão tão atrasados por causa dessa maldita orquestra que estamos arrastando?\"\"",
+      "after": "msgstr \"Está me dizendo que eles se atrasaram tanto porque estavam arrastando a maldita orquestra?...\"",
+      "reason": "Remover a aspa extra e fazer estavam retomar eles; a fala se refere ao atraso dos reforços que chegam, não à orquestra dos defensores. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_side_quest",
+      "line": 449,
+      "before": "msgstr \"msgstr \"As atividades opcionais não estarão disponíveis após reportar ao QG.\\n\\nPara reportar ao QG, clique no botão específico na <c(B29557)>aba de reforços</c>. Esse botão aparece quando você estiver próximo ao hotel.\"",
+      "after": "msgstr \"As atividades opcionais não estarão disponíveis após você se apresentar ao QG. \\n\\nPara se apresentar ao QG, clique no botão correspondente na aba de reforços. Esse botão aparece quando você está perto do hotel.\"",
+      "reason": "Remover prefixo msgstr duplicado e tags de cor que não existem na fonte, mantendo a instrução e condição de disponibilidade. Requer substituição raw.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/announcements/announcement.pot",
+      "context": "announce_jubilee_supporter",
+      "line": 24,
+      "before": "msgid \"Hello everyone, we're back with more information about the upcoming DLCs, and we have an anniversary to celebrate with you! 10 years of Barbedwire Studios!\\n\\nWe think we have one of the most loyal, knowledgeable and helpful communities in the world of gaming. And so, it's time for us to give something in return!\\n\\nAs a celebration of our history we will be releasing the Jubilee DLC, a free small addition to the game that will contain bonus missions, nostalgic locations and assets, and  a bunch of easter eggs. \\n\\nIn June 2021 we put the final release date on our project and decided to keep our free playtest running until the very end, fully confident that we would launch with the appraisal of the community. Today, 4 years later, we reaffirm our commitment and our passion for our project.\"",
+      "after": "msgid \"Hello everyone, we’re back with more information about the upcoming DLCs, and we have an anniversary to celebrate with you! 10 years of Barbedwire Studios!\\n\\nWe think we have one of the most loyal, knowledgeable and helpful communities in the world of gaming. And so, it’s time for us to give something in return!\\n\\nAs a celebration of our history we will be releasing the Jubilee DLC, a free small addition to the game that will contain bonus missions, nostalgic locations and assets, and  a bunch of easter eggs. \\n\\nIn June 2021 we put the final release date on our project and decided to keep our free playtest running until the very end, fully confident that we would launch with the appraisal of the community. Today, 4 years later, we reaffirm our commitment and our passion for our project.\"",
+      "translation": "Olá a todos, estamos de volta com mais informações sobre os DLCs que estão por vir, e temos um aniversário para celebrar com vocês! 10 anos da Barbedwire Studios!\n\nAcreditamos ter uma das comunidades mais fiéis, experientes e prestativas do mundo dos games. Por isso, chegou a hora de retribuir!\n\nComo celebração da nossa história, lançaremos o DLC Jubileu — uma pequena adição gratuita ao jogo contendo missões bônus, locais e recursos nostálgicos, e vários easter eggs.\n\nEm junho de 2021 definimos a data final de lançamento do nosso projeto e decidimos manter o playtest gratuito em funcionamento até o fim, com total confiança de que lançaríamos com a aprovação da comunidade. Hoje, 4 anos depois, reafirmamos nosso compromisso e nossa paixão pelo projeto.",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special_airborne.pot",
+      "context": "desc/human/narrator/usa-desobry",
+      "line": 44,
+      "before": "msgid \"Major William R. Desobry\"",
+      "after": "msgid \"Maj. William R. Desobry\"",
+      "translation": "Major William R. Desobry",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_eng.pot",
+      "context": "desc/stuff/no77_wp",
+      "line": 360,
+      "before": "msgid \"No.77 Mk.I Grenade (Fumaça WP)\"",
+      "after": "msgid \"No.77 Mk.I Grenade (Smoke WP)\"",
+      "translation": "No.77 Mk.I Granada (Fumaça WP)",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/tips.pot",
+      "context": "tip03",
+      "line": 32,
+      "before": "msgid \"\\\"We, and all others who believe in freedom as deeply as we do, would rather die on our feet than live on our knees.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>F.D. Roosevelt\"",
+      "after": "msgid \"\\\"We, and all others who believe in freedom as deeply as we do, would rather die on our feet than live on our knees.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)> F.D. Roosevelt\"",
+      "translation": "\"Nós, e todos os outros que acreditam na liberdade tão profundamente quanto nós, preferimos morrer de pé a viver de joelhos.\"\n\n<s(18)e(shadow)b+c(dacba2)>F.D. Roosevelt",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/tips.pot",
+      "context": "tip28",
+      "line": 36,
+      "before": "msgid \"\\\"A bold general may be lucky, but no general can be lucky unless he is bold.  The general who allows himself to be bound and hampered by regulations is unlikely to win a battle.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell\"",
+      "after": "msgid \"\\\"A bold general may be lucky, but no general can be lucky unless he is bold.  The general who allows himself to be bound and hampered by regulations is unlikely to win a battle.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell \"",
+      "translation": "\"Um general ousado pode ter sorte, mas nenhum general terá sorte a menos que seja ousado. O general que se permite ser preso e limitado por regulamentos dificilmente vencerá uma batalha.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/tips.pot",
+      "context": "tip07",
+      "line": 40,
+      "before": "msgid \"\\\"A general may succeed for some time in persuading his superiors that he is a good commander: he will never persuade his army that he is a good commander unless he has the real qualities of one.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell\"",
+      "after": "msgid \"\\\"A general may succeed for some time in persuading his superiors that he is a good commander: he will never persuade his army that he is a good commander unless he has the real qualities of one.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell \"",
+      "translation": "\"Um general pode ter sucesso por algum tempo em persuadir seus superiores de que é um bom comandante: ele nunca persuadirá seu exército de que é um bom comandante a menos que tenha as verdadeiras qualidades de um.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/tips.pot",
+      "context": "tip55",
+      "line": 140,
+      "before": "msgid \"\\\"Some goddamn fool once said that flanks have got to be secure. Since then sonsofbitches all over the globe have been guarding their flanks. I don't agree with that. My flanks are something for the enemy to worry about, not me. Before he finds out where my flanks are, I'll be cutting the bastard's throat.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>George Patton\"",
+      "after": "msgid \"\\\"Some goddamn fool once said that flanks have got to be secure. Since then sonsofbitches all over the globe have been guarding their flanks. I don't agree with that. My flanks are something for the enemy to worry about, not me. Before he finds out where my flanks are, I'll be cutting the bastard's throat.\\\"\\n\\n<s(18)e(shadow)b+c(dacba2)>Patton\"",
+      "translation": "\"Algum idiota maldito disse uma vez que os flancos precisam estar seguros. Desde então, esses filhos da mãe pelo mundo inteiro ficam protegendo seus flancos. Eu não concordo com isso. Meus flancos são problema para o inimigo se preocupar, não meu. Antes que ele descubra onde estão meus flancos, eu já terei cortado a garganta do desgraçado.\"\n\n<s(18)e(shadow)b+c(dacba2)>George Patton",
+      "reason": "Restaurar o msgid inglês exatamente como no pacote atual; a tradução já existe e seu significado continua compatível. Divergência no msgid não equivale a texto não traduzido.",
+      "type": "technical-repair"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "desc/squad/81mm_ml3_mortar_barrage",
+      "source": "ML 3-inch Mortar",
+      "translation": "Morteiro ML 3-inch",
+      "reason": "Traduz Mortar e mantém ML 3-inch como designação; usa ordem natural em português. O novo identificador desc/squad substitui o antigo info/squad.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_ger.pot",
+      "context": "desc/weapon/mg31f",
+      "source": "MG 311(f)",
+      "translation": "MG 311(f)",
+      "reason": "Atualiza a designação conforme o inglês novo (MG 31(f) passou a MG 311(f)); mantém o nome do modelo sem tradução.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/library/vehicles/gun/range",
+      "source": "Range/Penetration#%1%m<x(75)>%2%m<x(225)>(max)",
+      "translation": "Alcance/Penetração#%1%m<x(75)>%2%m<x(225)>(máx.)",
+      "reason": "O rótulo agora combina alcance e penetração; conserva os novos parâmetros, unidades, separador e posições.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/library/vehicles/gun/penetration",
+      "source": "%s#%1%mm<x(75)>%2%mm<x(150)>%3%mm<x(225)>(%4%m)",
+      "translation": "%s#%1%mm<x(75)>%2%mm<x(150)>%3%mm<x(225)>(%4%m)",
+      "reason": "A nova linha recebe o nome da munição via %s e valores via parâmetros. Não reintroduz o antigo rótulo fixo Penetração nem os antigos placeholders.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/library/vehicles/gun/penetration_explosive",
+      "source": "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)",
+      "translation": "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)",
+      "reason": "Linha técnica sem texto fixo traduzível; preserva parâmetros, traços, unidades e posições.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/create2/status/completed",
+      "source": "<c(8ca65a)>COMPLETED",
+      "translation": "<c(8ca65a)>CONCLUÍDA",
+      "reason": "Estado da operação de campanha, conforme select_duration/hint_duration vizinhos; usa feminino e preserva cor/caixa alta.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/create2/status/partially_completed",
+      "source": "<c(c9a24a)>PARTIALLY COMPLETED",
+      "translation": "<c(c9a24a)>PARCIALMENTE CONCLUÍDA",
+      "reason": "Estado da operação de campanha; mantém a distinção de conclusão parcial, feminino e cor.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/create2/status/failed",
+      "source": "<c(b76b5b)>FAILED",
+      "translation": "<c(b76b5b)>FRACASSADA",
+      "reason": "Indica o resultado negativo da operação, sem confundir com erro técnico do aplicativo; preserva cor/caixa alta.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/hint_resources",
+      "source": "Economy adjusts the following: \n• Starting resources \n• Resources gained after each battle \n• Cost to repair and resupply units \n• Resources gained from selling units",
+      "translation": "A economia ajusta o seguinte: \n• Recursos iniciais \n• Recursos ganhos após cada batalha \n• Custo de reparo e reabastecimento de unidades \n• Recursos ganhos ao vender unidades",
+      "reason": "Mantém os quatro itens existentes da tradução e remove a explicação sobre recursos inimigos, que foi retirada do inglês novo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/unit_info/gun/range",
+      "source": "Range/Penetration<x(275)>%1%m<x(325)>%2%m<x(375)>(max)",
+      "translation": "Alcance/Penetração<x(275)>%1%m<x(325)>%2%m<x(375)>(máx.)",
+      "reason": "Atualiza o rótulo combinado e a nova quantidade/ordem de parâmetros; preserva os offsets do inglês novo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/unit_info/gun/piercing",
+      "source": "%1%<x(275)>%2%mm<x(325)>%3%mm<x(375)>%5%mm<x(425)>(%4%m)",
+      "translation": "%1%<x(275)>%2%mm<x(325)>%3%mm<x(375)>%5%mm<x(425)>(%4%m)",
+      "reason": "Linha técnica parametrizada; mantém a ordem nova, inclusive %5% antes de %4%, sem recuperar o rótulo fixo anterior.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/unit_info/gun/explosive",
+      "source": "%1%<x(275)>-<x(325)>-<x(375)>-<x(425)>(%2%m)",
+      "translation": "%1%<x(275)>-<x(325)>-<x(375)>-<x(425)>(%2%m)",
+      "reason": "Linha técnica sem texto fixo traduzível; conserva todos os marcadores, unidades e traços.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/unit_info/gun",
+      "source": "Gun<x(275)>%1%",
+      "translation": "Canhão<x(275)>%1%",
+      "reason": "Mantém a tradução de Gun usada neste contexto e aplica o novo offset 275; não reaproveita o offset localizado 195 antigo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/skip_preparation_ger",
+      "source": "Skip preparation phase",
+      "translation": "Pular fase de preparação",
+      "reason": "Ação para encerrar a fase de preparação; mantém preparação como nos rótulos vizinhos e o mesmo texto nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/skip_preparation_rus",
+      "source": "Skip preparation phase",
+      "translation": "Pular fase de preparação",
+      "reason": "Ação para encerrar a fase de preparação; mantém preparação como nos rótulos vizinhos e o mesmo texto nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/skip_preparation_fin",
+      "source": "Skip preparation phase",
+      "translation": "Pular fase de preparação",
+      "reason": "Ação para encerrar a fase de preparação; mantém preparação como nos rótulos vizinhos e o mesmo texto nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/skip_preparation_usa",
+      "source": "Skip preparation phase",
+      "translation": "Pular fase de preparação",
+      "reason": "Ação para encerrar a fase de preparação; mantém preparação como nos rótulos vizinhos e o mesmo texto nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/skip_preparation_eng",
+      "source": "Skip preparation phase",
+      "translation": "Pular fase de preparação",
+      "reason": "Ação para encerrar a fase de preparação; mantém preparação como nos rótulos vizinhos e o mesmo texto nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/move_spawn_ger",
+      "source": "Move Deployment Point",
+      "translation": "Mover ponto de posicionamento",
+      "reason": "Ação para deslocar o local onde as unidades são posicionadas; não acrescenta recrutamento ou reforços ao significado. Texto idêntico nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/move_spawn_rus",
+      "source": "Move Deployment Point",
+      "translation": "Mover ponto de posicionamento",
+      "reason": "Ação para deslocar o local onde as unidades são posicionadas; não acrescenta recrutamento ou reforços ao significado. Texto idêntico nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/move_spawn_fin",
+      "source": "Move Deployment Point",
+      "translation": "Mover ponto de posicionamento",
+      "reason": "Ação para deslocar o local onde as unidades são posicionadas; não acrescenta recrutamento ou reforços ao significado. Texto idêntico nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/move_spawn_usa",
+      "source": "Move Deployment Point",
+      "translation": "Mover ponto de posicionamento",
+      "reason": "Ação para deslocar o local onde as unidades são posicionadas; não acrescenta recrutamento ou reforços ao significado. Texto idêntico nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/scene/unit_spawn/move_spawn_eng",
+      "source": "Move Deployment Point",
+      "translation": "Mover ponto de posicionamento",
+      "reason": "Ação para deslocar o local onde as unidades são posicionadas; não acrescenta recrutamento ou reforços ao significado. Texto idêntico nas cinco nações.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.056",
+      "source": "V1.056",
+      "translation": "V1.056",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.060",
+      "source": "V1.060",
+      "translation": "V1.060",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.061",
+      "source": "V1.061",
+      "translation": "V1.061",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.062",
+      "source": "V1.062",
+      "translation": "V1.062",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.063",
+      "source": "V1.063",
+      "translation": "V1.063",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.065",
+      "source": "V1.065",
+      "translation": "V1.065",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.066",
+      "source": "V1.066",
+      "translation": "V1.066",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.067",
+      "source": "V1.067",
+      "translation": "V1.067",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.068",
+      "source": "V1.068",
+      "translation": "V1.068",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.069",
+      "source": "V1.069",
+      "translation": "V1.069",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.070",
+      "source": "V1.070",
+      "translation": "V1.070",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.071",
+      "source": "V1.071",
+      "translation": "V1.071",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.072",
+      "source": "V1.072",
+      "translation": "V1.072",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.073",
+      "source": "V1.073",
+      "translation": "V1.073",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.074",
+      "source": "V1.074",
+      "translation": "V1.074",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.075",
+      "source": "V1.075",
+      "translation": "V1.075",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.076",
+      "source": "V1.076",
+      "translation": "V1.076",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.077",
+      "source": "V1.077",
+      "translation": "V1.077",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.078",
+      "source": "V1.078",
+      "translation": "V1.078",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.079",
+      "source": "V1.079",
+      "translation": "V1.079",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.080",
+      "source": "V1.080",
+      "translation": "V1.080",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.081",
+      "source": "V1.081",
+      "translation": "V1.081",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.082",
+      "source": "V1.082",
+      "translation": "V1.082",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.083",
+      "source": "V1.083",
+      "translation": "V1.083",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.084",
+      "source": "V1.084",
+      "translation": "V1.084",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.085",
+      "source": "V1.085",
+      "translation": "V1.085",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.086",
+      "source": "V1.086",
+      "translation": "V1.086",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.087",
+      "source": "V1.087",
+      "translation": "V1.087",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.088",
+      "source": "V1.088",
+      "translation": "V1.088",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.089",
+      "source": "V1.089",
+      "translation": "V1.089",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.090",
+      "source": "V1.090",
+      "translation": "V1.090",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.091",
+      "source": "V1.091",
+      "translation": "V1.091",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.092",
+      "source": "V1.092",
+      "translation": "V1.092",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.093",
+      "source": "V1.093",
+      "translation": "V1.093",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.094",
+      "source": "V1.094",
+      "translation": "V1.094",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.095",
+      "source": "V1.095",
+      "translation": "V1.095",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.096",
+      "source": "V1.096",
+      "translation": "V1.096",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.097",
+      "source": "V1.097",
+      "translation": "V1.097",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.098",
+      "source": "V1.098",
+      "translation": "V1.098",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "context": "options/workshop/tag/1.099",
+      "source": "V1.099",
+      "translation": "V1.099",
+      "reason": "Código de versão do jogo usado como etiqueta da Oficina; preservado literalmente.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/common.pot",
+      "context": "mission/multi/enemy_retreat",
+      "source": "They are retreating! We’ve held the line! Good work!",
+      "translation": "Eles estão recuando! Mantivemos a linha! Bom trabalho!",
+      "reason": "Fala militar anunciando recuo inimigo e sucesso da defesa; held the line refere-se à manutenção da linha defensiva.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/common.pot",
+      "context": "mission/multi/enemy_retreat2",
+      "source": "We have won! They're running away!",
+      "translation": "Vencemos! Eles estão fugindo!",
+      "reason": "Preserva o anúncio de vitória e fuga dos inimigos, com tom breve de diálogo.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_error01",
+      "source": "",
+      "sourceText": "(Warning) - Not all Bot defender spawns have moved!(side:A)",
+      "translation": "(Aviso) - Nem todos os pontos de surgimento dos bots defensores foram movidos! (side:A)",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_error02",
+      "source": "",
+      "sourceText": "(Warning) - Not all Bot defender spawns have moved!(side:B)",
+      "translation": "(Aviso) - Nem todos os pontos de surgimento dos bots defensores foram movidos! (side:B)",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_garrison_failsafe",
+      "source": "",
+      "sourceText": "(Warning) - dcg garrison error: Waiting too long... Forcing Garrison Ready!",
+      "translation": "(Aviso) - erro de guarnição dcg: Espera excessiva... Forçando a guarnição a ficar pronta!",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_info02",
+      "source": "",
+      "sourceText": "(Debug) - garrison_ready set to 1",
+      "translation": "(Depuração) - garrison_ready definido como 1",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_error03",
+      "source": "",
+      "sourceText": "(Warning) - At least one enemy bot garrison spawn is outside of all forward# zones!",
+      "translation": "(Aviso) - Pelo menos um ponto de surgimento da guarnição dos bots inimigos está fora de todas as zonas forward#!",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg2_error04",
+      "source": "",
+      "sourceText": "(Warning) - player spawn id unknown!",
+      "translation": "(Aviso) - ID do ponto de surgimento do jogador desconhecido!",
+      "reason": "O texto inglês efetivo está em msgstr, com msgid vazio. Traduz a mensagem de diagnóstico e preserva identificadores técnicos/valores como dcg, garrison_ready, side:A/side:B e forward#, quando presentes.",
+      "type": "added-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg_error01",
+      "source": "",
+      "sourceText": "(Warning) - dcg error 01: enemyid is above 4.(setting to 5)",
+      "translation": "(Aviso) - erro dcg 01: enemyid acima de 4. (ajustando para 5)",
+      "reason": "Fonte efetiva em msgstr com msgid vazio; mantém a tradução existente do aviso e os identificadores dcg/enemyid, atualizando a apresentação de Warning conforme o inglês novo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg_error02",
+      "source": "",
+      "sourceText": "(Warning) - dcg error 02: user nation unknown.(defaulting to rus)",
+      "translation": "(Aviso) - erro dcg 02: nação do usuário desconhecida. (definindo como rus)",
+      "reason": "Fonte efetiva em msgstr com msgid vazio; preserva rus como identificador da nação e o conteúdo da tradução anterior, atualizando a apresentação do aviso.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/dcg_error03",
+      "source": "",
+      "sourceText": "(Warning) - arrows/bots_spawnside values unknown.(defaulting user_side to A)",
+      "translation": "(Aviso) - valores de arrows/bots_spawnside desconhecidos. (definindo user_side como A)",
+      "reason": "Fonte efetiva em msgstr com msgid vazio. A tradução portuguesa antiga citava apenas bots_spawnside e map-a; a fonte atual inclui arrows/bots_spawnside e define user_side como A. Preserva identificadores e corrige o valor.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "context": "mission/multi/ev_error01",
+      "source": "",
+      "sourceText": "Warning - last_stand error 01: invalid Players:Composition.(bots scripting disabled)",
+      "translation": "Aviso - erro last_stand 01: Players:Composition inválido. (script de bots desativado)",
+      "reason": "Fonte efetiva em msgstr com msgid vazio. Preserva a tradução portuguesa existente, adequada ao aviso e com last_stand/Players:Composition intactos.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/announcements/update70.pot",
+      "context": "announce_update70",
+      "source": "Yet another highly anticipated update for our dynamic campaign generator, Conquest, is here!\n\n Smarter AI, dug-in defensive positions, community-requested changes, retreating mechanics and devastating counterattacks.\n\nUpdate 70 also brings you sound optimizations, and much more! \n\n<c(f5d167)>We're running a special sale to celebrate this important milestone!</c>",
+      "translation": "Chegou mais uma atualização muito aguardada para o modo Conquista, nosso gerador de campanhas dinâmicas!\n\n IA mais inteligente, posições defensivas entrincheiradas, mudanças solicitadas pela comunidade, mecânicas de retirada e contra-ataques devastadores.\n\nA atualização 70 também traz otimizações de áudio e muito mais! \n\n<c(f5d167)>Estamos realizando uma promoção especial para comemorar este importante marco!</c>",
+      "reason": "Tradução integral do anúncio novo; Conquest segue a tradução Conquista já usada na interface. Dug-in indica posições entrincheiradas. Número da atualização, parágrafos e marcação de cor preservados.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/announcements/update70.pot",
+      "context": "button/discounts2",
+      "source": "<c(f5d167)>CHECK YOUR DISCOUNT!</c>",
+      "translation": "<c(f5d167)>CONFIRA SEU DESCONTO!</c>",
+      "reason": "Imperativo natural de botão promocional; mantém singular, caixa alta e marcação de cor exata.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/announcements/ww2.pot",
+      "context": "announce_ww2sale",
+      "source": "81 years have passed since the end of the Second World War in Europe.\n\n Call to Arms - Gates of Hell remembers and honours the combatants that took part in the most devastating conflict in history.\n\n <c(f5d167)>Enjoy one week of discount, complete your collection!</c>",
+      "translation": "Já se passaram 81 anos desde o fim da Segunda Guerra Mundial na Europa.\n\n Call to Arms - Gates of Hell recorda e homenageia os combatentes que participaram do conflito mais devastador da história.\n\n <c(f5d167)>Aproveite uma semana de descontos e complete sua coleção!</c>",
+      "reason": "Tradução integral do anúncio novo; preserva 81 anos, a referência específica à Europa, o título do jogo, duração da promoção, parágrafos e marcação de cor.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/announcements/ww2.pot",
+      "context": "button/discounts",
+      "source": "<c(f5d167)>CHECK THE DISCOUNTS!</c>",
+      "translation": "<c(f5d167)>CONFIRA OS DESCONTOS!</c>",
+      "reason": "Mantém o plural, a caixa alta e a marcação de cor do botão; consistente com o outro anúncio.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_06_tilly_sur_seulles.pot",
+      "context": "mission/single/051-ger_finesthour/1944_06_tilly_sur_seulles/narrator_start1",
+      "source": "You need to attack! Use the superiority of your armor to achieve victory. Punch a hole through the British lines.",
+      "translation": "Você precisa atacar! Use a superioridade dos seus blindados para alcançar a vitória. Abra uma brecha nas linhas britânicas.",
+      "reason": "A atualização do inglês corrige vicotry para victory. A revisão contextual também corrige armor: a missão descreve o contra-ataque da Divisão Panzer-Lehr e usa British armor no desfecho para designar forças blindadas, não apenas a blindagem de um veículo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1940_02-fin_honkaniemi.pot",
+      "context": "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/date",
+      "source": "26 February, 1940",
+      "translation": "26 de fevereiro de 1940",
+      "reason": "O inglês só capitalizou February; a tradução existente já está correta, com nome do mês em minúscula no português. Contexto original 03-fin_skirmish preservado mesmo com arquivo em 0x-skirmish.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/name",
+      "source": "The Pathfinders",
+      "expected": "Os Batedores",
+      "translation": "Os Precursores",
+      "reason": "Pathfinder aqui é especialista que prepara e baliza zonas de lançamento, não batedor genérico. O EB relaciona a especialidade de precursor paraquedista ao curso de Pathfinder: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/name_big",
+      "source": "The Pathfinders",
+      "expected": "Os Batedores",
+      "translation": "Os Precursores",
+      "reason": "Repete a decisão terminológica do título normal para manter consistência. Fonte primária: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/place",
+      "source": "Pathfinders, 501st PIR, 101st \"Screaming Eagles\"",
+      "expected": "Pathfinders, 501º PIR, 101ª \"Screaming Eagles\"",
+      "translation": "Precursores, 501º PIR, 101ª \"Screaming Eagles\"",
+      "reason": "Alinha a especialidade ao título e à narrativa. Preserva número do regimento, sigla PIR e apelido Screaming Eagles.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_civilian/04",
+      "source": "Let us help you! We can't offer anything right now, but know the Germans have left a supply trailer hidden somewhere in the orchards behind us. You may want to check it out. Good luck!",
+      "expected": "Deixe-nos ajudá-lo! Não podemos oferecer nada agora, mas saiba que os alemães deixaram um trailer de suprimentos escondido em algum lugar nos pomares atrás de nós. Talvez queira conferir. Boa sorte!",
+      "translation": "Deixem-nos ajudar vocês! Não podemos oferecer nada agora, mas saibam que os alemães deixaram um reboque de suprimentos escondido em algum lugar nos pomares atrás de nós. Talvez valha a pena procurar. Boa sorte!",
+      "reason": "O civil dirige-se ao grupo de americanos da fala anterior. Trailer designa reboque de suprimentos; não uma habitação. Mantém know como saibam, sem inventar sujeito no original.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/fra_farmer/02",
+      "source": "I might as well be dead now! You, you godforsaken Americans, had to start a fight here of all places. Now, my only breadwinner is dead! Get lost! You'll pay for this!",
+      "expected": "Bem, podia estar morto agora! Vocês, malditos americanos, tiveram que começar uma briga aqui de todos os lugares. Agora meu único sustento está morto! Sumam! Vão pagar por isso!",
+      "translation": "Agora é como se eu já estivesse morto! Vocês, malditos americanos, tinham que começar uma briga logo aqui! Agora morreu meu único meio de sustento! Sumam! Vão pagar por isso!",
+      "reason": "Corrige as expressões I might as well e here of all places. A fala anterior identifica o cavalo morto como meio de sustento.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/02",
+      "source": "Get your ass over here before Jerry sees you!",
+      "expected": "Venha pra cá antes que o Jerry te veja!",
+      "translation": "Venha logo pra cá antes que os alemães vejam você!",
+      "reason": "Jerry refere-se ao inimigo alemão, não a personagem. Mantém urgência e informalidade. Uso histórico documentado: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/15",
+      "source": "Listen up! We have to set up those beacons ASAP. It could sink the whole operation if they're not ready in time!",
+      "expected": "Atenção! Precisamos instalar os sinalizadores o mais rápido possível. Toda a operação pode afundar se não estiverem prontas a tempo!",
+      "translation": "Atenção! Precisamos instalar os sinalizadores o mais rápido possível. Toda a operação pode fracassar se não estiverem prontos a tempo!",
+      "reason": "Corrige gênero de prontos e substitui a tradução literal de sink the operation pelo sentido de fracasso da operação.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/17",
+      "source": "Well, you're alright now. Grab your gear and form up on me!",
+      "expected": "Bom, você está bem agora. Pegue seu equipamento e forme comigo!",
+      "translation": "Bom, você está bem agora. Pegue seu equipamento e entre em formação junto a mim!",
+      "reason": "Form up é entrar em formação; forme comigo perde a ordem militar.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier/03",
+      "source": "Whoa! Jerry didn't know what hit him!",
+      "expected": "Uau! O Jerry não sabia o que o acertou!",
+      "translation": "Uau! Os alemães nem souberam o que os atingiu!",
+      "reason": "Corrige Jerry como referência coletiva e naturaliza a expressão de surpresa com o ataque.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/soldier2/03",
+      "source": "Beacon deployed, Sir!",
+      "expected": "Sinalizador instalada, Senhor!",
+      "translation": "Sinalizador instalado, senhor!",
+      "reason": "Corrige concordância de gênero; pronome de tratamento com inicial minúscula.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/task_sec1_comp",
+      "source": "(Secret Objective) Kill the collaborator before he raises the alarm and brings German reinforcements.",
+      "expected": "(Objetivo Secreto) Mate o colaborador antes que ele dispare o alarme e traga reforços alemães.",
+      "translation": "(Objetivo Secreto) Mate o colaboracionista antes que ele dê o alarme e traga reforços alemães.",
+      "reason": "A narrativa identifica alguém que entrega os americanos à força de ocupação. Colaboracionista expressa esse contexto; colaborador é ambíguo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/story",
+      "source": "  On the evening of June 5th, 1944, a massive formation of C-47 aircraft lifts off from RAF North Witham for Normandy. They will drop large numbers of paratroopers behind the D-Day invasion beaches.\n\n  Thirty minutes ahead of them, the pathfinders of the 101st US airborne division are already on their way! They are the first American troops to land in German-occupied France. Several waves of para-drops and troop-carrying gliders will bring in the airborne assault troops.\n\n  Less than one hour into D-Day, the Screaming Eagles’ 501st Parachute Infantry Regiment jumps into action, with orders to place three small radio beacons to guide the other aircraft in.\n\nGood luck!",
+      "expected": "  Na noite de 5 de junho de 1944, uma enorme formação de aeronaves C-47 decola da RAF North Witham em direção à Normandia. Elas lançarão grande número de paraquedistas atrás das praias do Dia D.\n\n  Trinta minutos à frente delas, os batedores do 101º Aerotransportado dos EUA já estão a caminho! São os primeiros soldados americanos a pousar na França ocupada pelos alemães. Várias ondas de lançamentos de paraquedistas e planadores transportando tropas trarão as forças aerotransportadas.\n\n  Menos de uma hora no Dia D, o 501º Regimento de Infantaria de Paraquedistas dos Screaming Eagles entra em ação com ordens de posicionar três pequenos sinalizadores de rádio para guiar as demais aeronaves.\n\nBoa sorte!",
+      "translation": "  Na noite de 5 de junho de 1944, uma enorme formação de aeronaves C-47 decola da base RAF North Witham em direção à Normandia. Elas lançarão um grande número de paraquedistas atrás das praias de desembarque do Dia D.\n\n  Trinta minutos à frente delas, os precursores paraquedistas da 101ª Divisão Aerotransportada dos EUA já estão a caminho! São os primeiros soldados americanos a pousar na França ocupada pelos alemães. Várias ondas de lançamentos de paraquedistas e de planadores de transporte trarão as tropas de assalto aerotransportadas.\n\n  Antes de se completar a primeira hora do Dia D, o 501º Regimento de Infantaria Paraquedista dos Screaming Eagles entra em ação, com ordens de instalar três pequenos sinalizadores de rádio para orientar a chegada das demais aeronaves.\n\nBoa sorte!",
+      "reason": "Restaura a identificação da 101ª Divisão e seu gênero. Corrige a especialidade de precursor, desembarque e expressão temporal. Preserva nomes, datas, unidades, aeronaves, quantidade de sinalizadores e parágrafos. Fontes primárias: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/ e https://www.armyupress.army.mil/Portals/7/educational-services/staff-rides/VSR/Normandy/Airborne-Assault/Normandy_Airborne_Walk_Book.pdf",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/08",
+      "source": "Ah! We've found Jerry's vehicle depot. I bet we can blow it to smithereens!",
+      "expected": "Ah! Encontramos o depósito de veículos do Jerry. Aposto que podemos explodir tudo!",
+      "translation": "Ah! Encontramos o depósito de veículos dos alemães. Aposto que podemos explodir tudo!",
+      "reason": "Jerry é referência ao inimigo coletivo, não proprietário chamado Jerry.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy01",
+      "source": "The town is now fully under control, but Jerry is sure to counterattack.",
+      "expected": "A cidade está agora totalmente sob controle, mas o Jerry certamente vai contra-atacar.",
+      "translation": "A cidade está agora totalmente sob controle, mas os alemães certamente vão contra-atacar.",
+      "reason": "Corrige Jerry como referência ao inimigo coletivo e ajusta concordância.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/convoy",
+      "source": "Jerry is here! Let's give them a warm welcome. All The Way!",
+      "expected": "O Jerry está aqui! Vamos dar-lhes uma calorosa recepção. All The Way!",
+      "translation": "Os alemães chegaram! Vamos dar-lhes uma calorosa recepção. All The Way!",
+      "reason": "Corrige referência coletiva e concordância. Preserva lema All The Way.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies02",
+      "source": "Sniper team, ready for action!",
+      "expected": "Equipe de atiradores, pronta para ação!",
+      "translation": "Equipe de atiradores de elite, pronta para a ação!",
+      "reason": "Preserva a especialidade sniper: atirador genérico não implica a função de atirador de elite.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator01",
+      "source": "The Germans have flooded the fields around the Merderet river because they anticipated the invasion...",
+      "expected": "Os alemães inundaram os campos ao redor do rio Merderet porque anteciparam a invasão...",
+      "translation": "Os alemães inundaram os campos ao redor do rio Merderet porque previram a invasão...",
+      "reason": "Anticipated significa prever neste contexto, não adiantar a data da invasão.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator05",
+      "source": "We cleared out the Krauts! Search for additional equipment and prepare for the inevitable counterattack. This bridge is as important to them as it is to us.",
+      "expected": "Limpamos os Krauts! Procurem equipamentos adicionais e preparem-se para o inevitável contra-ataque. Esta ponte é tão importante para eles quanto para nós.",
+      "translation": "Expulsamos os alemães! Procurem equipamentos adicionais e preparem-se para o inevitável contra-ataque. Esta ponte é tão importante para eles quanto para nós.",
+      "reason": "Cleared out indica remover o inimigo da posição; limpamos os Krauts é literal e obscuro. Krauts refere-se aos alemães no contexto.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator06",
+      "source": "Jerry left some explosives in this crate. Let's mine the approach to the bridge with anti-tank mines.",
+      "expected": "O Jerry deixou alguns explosivos nesta caixa. Vamos minar a aproximação da ponte com minas antitanque.",
+      "translation": "Os alemães deixaram alguns explosivos nesta caixa. Vamos colocar minas antitanque no acesso à ponte.",
+      "reason": "Corrige Jerry. Approach designa a via de acesso à ponte, não uma aproximação abstrata.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator07",
+      "source": "Jerry has the frontal approaches covered. Let's push farther south along the path and hit them from the flank!",
+      "expected": "O Jerry tem as abordagens frontais cobertas. Vamos avançar mais ao sul pelo caminho e atacá-los pelo flanco!",
+      "translation": "Os alemães mantêm os acessos frontais sob a mira de suas armas. Vamos avançar mais ao sul pelo caminho e atacá-los pelo flanco!",
+      "reason": "O diálogo explica o contorno tático: acessos pela frente estão cobertos por fogo inimigo. Corrige abordagens e a referência a Jerry.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator12",
+      "source": "Enemy artillery incoming! Take cover!",
+      "expected": "Artilharia inimiga chegando! Cubra-se!",
+      "translation": "Bombardeio de artilharia inimiga! Abriguem-se!",
+      "reason": "Incoming avisa disparos de artilharia, não chegada física da unidade. Ordem ao grupo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator13",
+      "source": "They've got us zeroed! Spread it out!",
+      "expected": "Eles nos têm como alvo! Espalhem!",
+      "translation": "Eles ajustaram a mira em nós! Espalhem-se!",
+      "reason": "Zeroed indica ajuste preciso da pontaria; mais específico que apenas ter como alvo. Corrige imperativo pronominal.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2",
+      "source": "Look what we found, Jerry’s radio! Time to call for some backup!",
+      "expected": "Olhem o que encontramos, o rádio do Jerry! Hora de pedir alguns reforços!",
+      "translation": "Olhem o que encontramos: um rádio dos alemães! Hora de pedir reforços!",
+      "reason": "Corrige referência a suposto proprietário chamado Jerry, preservando função do rádio e pedido de reforços.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier03",
+      "source": "Jerry is retreating again!",
+      "expected": "O Jerry está recuando de novo!",
+      "translation": "Os alemães estão recuando de novo!",
+      "reason": "Jerry refere-se ao inimigo coletivo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier05",
+      "source": "Hey, check this out! Jerry was too busy runnin’ to take this with ‘em!",
+      "expected": "Ei, olha isso! O Jerry estava ocupado demais correndo para levar isso!",
+      "translation": "Ei, olha isso! Os alemães estavam tão ocupados fugindo que deixaram isto para trás!",
+      "reason": "Corrige referência coletiva e contextualiza a corrida como retirada. Preserva o sentido de equipamento abandonado.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier03",
+      "source": "A box full of mines! Jerry won't know what hit 'em!",
+      "expected": "Uma caixa cheia de minas! O Jerry não saberá o que o acertou!",
+      "translation": "Uma caixa cheia de minas! Os alemães nem vão saber o que os atingiu!",
+      "reason": "Corrige referência coletiva a Jerry e naturaliza a ameaça de surpresa.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier10",
+      "source": "Jerry's Christmas present is all wrapped up and ready to go!",
+      "expected": "O presente de Natal do Jerry está todo embalado e pronto para ir!",
+      "translation": "O presente de Natal para os alemães está embrulhado e pronto!",
+      "reason": "O presente é destinado ao inimigo, não propriedade de um personagem chamado Jerry. Preserva a ironia.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/narrator/06",
+      "source": "What the hell is this? Looks like Jerry's placed some dummy guns in these bunkers. They must've taken the real guns somewhere else!",
+      "expected": "O que diabos é isso? Parece que os Jerry's colocaram canhões falsos nesses bunkers. Devem ter levado os canhões reais para outro lugar!",
+      "translation": "O que diabos é isso? Parece que os alemães colocaram canhões falsos nesses bunkers. Devem ter levado os canhões de verdade para outro lugar!",
+      "reason": "Jerry's neste inglês é Jerry has, não plural ou sobrenome. Corrige os Jerry's e preserva a distinção entre canhões falsos e reais.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/v2/08",
+      "source": "We're expecting a Jerry counter-attack any moment now. Dig in and use whatever you can to hold the line.",
+      "expected": "Esperamos um contra-ataque Jerry a qualquer momento. Entrincheirem-se e usem o que puderem para manter a linha.",
+      "translation": "Esperamos um contra-ataque alemão a qualquer momento. Entrincheirem-se e usem o que puderem para manter a linha.",
+      "reason": "Jerry qualifica o contra-ataque alemão.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
+      "context": "mission/single/04-usa/1944_12_hill400/narrator/09",
+      "source": "Alright, I don't think Jerry is done just yet, scan your sectors!",
+      "expected": "Certo — acho que os Jerry ainda não terminaram. Escanear seus setores!",
+      "translation": "Certo, acho que os alemães ainda não terminaram. Observem seus setores!",
+      "reason": "Corrige Jerry e a ordem militar de observar o setor; escanear no infinitivo perde a função de comando.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/mid/82nd_pathfinder_carbine",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/mid/82nd_pathfinder_rifle",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/mid/82nd_pathfinder_smg",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_late_pathfinder_carbine",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_late_pathfinder_rifle",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_late_pathfinder_smg",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_pathfinder_carbine",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_pathfinder_rifle",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/82nd_pathfinder_smg",
+      "source": "82nd Airborne Pathfinder [USAGF]",
+      "expected": "82nd Airborne Explorador [USAGF]",
+      "translation": "Precursor da 82ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_late_pathfinder_carbine",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_late_pathfinder_rifle",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_late_pathfinder_smg",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_pathfinder_carbine",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_pathfinder_rifle",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/101st_pathfinder_smg",
+      "source": "101st Airborne Pathfinder [USAGF]",
+      "expected": "101st Airborne Explorador [USAGF]",
+      "translation": "Precursor da 101ª Aerotransportada [USAGF]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/v2/14",
+      "source": "Jerry is pushing our line! Hold your ground!",
+      "expected": "Os Jerry estão empurrando nossa linha! Segurem suas posições!",
+      "translation": "Os alemães estão pressionando nossa linha! Mantenham suas posições!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/v2/19",
+      "source": "Looks like Jerry has brought up mobile Flak guns! Everyone, get to cover!",
+      "expected": "Parece que os Jerry trouxeram canhões antiaéreos móveis! Todos, cubram-se!",
+      "translation": "Parece que os alemães trouxeram canhões antiaéreos móveis! Todos, abriguem-se!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_mp_usa.pot",
+      "context": "desc/squad/squad_101st_pathfinder_late_all(usa)",
+      "source": "<c(A5A095)>(4)</c> 101st AB Pathfinder Team",
+      "expected": "<c(A5A095)>(4)</c> Equipe de Batedores 101ª AB",
+      "translation": "<c(A5A095)>(4)</c> Equipe de Precursores da 101ª AB",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_mp_usa.pot",
+      "context": "desc/squad/squad_101st_pathfinder_late_def(usa)",
+      "source": "<c(A5A095)>(4)</c> 101st AB Pathfinder Team",
+      "expected": "<c(A5A095)>(4)</c> Equipe de Batedores 101ª AB",
+      "translation": "<c(A5A095)>(4)</c> Equipe de Precursores da 101ª AB",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_mp_usa.pot",
+      "context": "desc/squad/squad_82nd_pathfinder_late_irr(usa)",
+      "source": "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team",
+      "expected": "<c(A5A095)>(4+)</c> Equipe de Batedores 82ª AB",
+      "translation": "<c(A5A095)>(4+)</c> Equipe de Precursores da 82ª AB",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_mp_usa.pot",
+      "context": "desc/squad/squad_82nd_pathfinder_late_off(usa)",
+      "source": "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team",
+      "expected": "<c(A5A095)>(4+)</c> Equipe de Batedores 82ª AB",
+      "translation": "<c(A5A095)>(4+)</c> Equipe de Precursores da 82ª AB",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_usa_dcg_late.pot",
+      "context": "desc/squad/squad_101st_pathfinder_con(usa)",
+      "source": "<c(A5A095)>(4)</c> 101st Airborne Pathfinders [1944]",
+      "expected": "<c(A5A095)>(4)</c> Batedores de Trilha 101ª Aerotransportada [1944]",
+      "translation": "<c(A5A095)>(4)</c> Precursores da 101ª Aerotransportada [1944]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_usa_dcg_late.pot",
+      "context": "desc/squad/squad_82nd_pathfinder_con(usa)",
+      "source": "<c(A5A095)>(4+)</c> 82nd Airborne Pathfinders [1944]",
+      "expected": "<c(A5A095)>(4+)</c> Batedores de Trilha 82ª Aerotransportada [1944]",
+      "translation": "<c(A5A095)>(4+)</c> Precursores da 82ª Aerotransportada [1944]",
+      "reason": "Nome explícito de precursor/equipe Pathfinder da 82ª ou 101ª Divisão Aerotransportada. Corrige explorador/batedor de trilha para precursor, consistente com a missão The Pathfinders. Preserva marcadores de tamanho, ano, USAGF e abreviação AB onde o original a usa. Fonte primária do EB: https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_01_noville.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_01_noville/narrator04",
+      "source": "You heard what the Major said. Let's get to work! We need to rebuild our defense line before Jerry attacks again!",
+      "expected": "Você ouviu o que o Major disse. Vamos trabalhar! Precisamos reconstruir nossa linha de defesa antes que o Jerry ataque novamente!",
+      "translation": "Vocês ouviram o que o major disse. Vamos ao trabalho! Precisamos reconstruir nossa linha de defesa antes que os alemães ataquem novamente!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/outro_failed",
+      "source": "That is rather unfortunate, we should have held the line here. Because we haven’t stopped this brutal attack, Jerry can now continue his drive into Belgium and toward France, unfortunately.",
+      "expected": "Isso é bastante infeliz; deveríamos ter mantido a linha aqui. Porque não paramos este ataque brutal, Jerry pode agora continuar seu avanço para a Bélgica e em direção à França, infelizmente.",
+      "translation": "Isso é lamentável; deveríamos ter mantido a linha aqui. Como não detivemos este ataque brutal, os alemães agora podem continuar seu avanço pela Bélgica e em direção à França, infelizmente.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Naturaliza o desfecho de derrota e o motivo de os alemães continuarem o avanço.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_02",
+      "source": "Jerry has spotted our gun! They will open fire in no time, change the position of the bloody howitzer, quickly!",
+      "expected": "Jerry localizou nosso canhão! Eles vão abrir fogo em breve; mude a posição do nosso obuseiro!",
+      "translation": "Os alemães localizaram nosso canhão! Vão abrir fogo a qualquer momento. Mude logo a posição desse maldito obuseiro!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura a urgência rapidamente e o qualificativo bloody omitidos na tradução antiga.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_01",
+      "source": "The artillery observer has arrived. Don’t let Jerry spot him. We got only one chance, make this a good one!",
+      "expected": "O observador de artilharia chegou. Não deixe Jerry localizá-lo. Temos uma única chance!",
+      "translation": "O observador de artilharia chegou. Não deixe os alemães localizá-lo. Só temos uma chance; faça valer a pena!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura a ordem make this a good one omitida na tradução antiga.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_03",
+      "source": "Lieutenant Williams, your objective is to secure the area in case Jerry decides to scavenge the wrecks. No way those planes knew the convoy’s location without someone guiding ‘em from the ground. There should be some scout rats, for sure.",
+      "expected": "Tenente Williams, seu objetivo é assegurar a área caso Jerry decida vasculhar os destroços. Não tem como aqueles aviões conhecerem a localização do comboio sem alguém guiando pelo solo. Deve haver batedores por aí.",
+      "translation": "Tenente Williams, seu objetivo é assegurar a área caso os alemães decidam vasculhar os destroços. Não tem como aqueles aviões saberem a localização do comboio sem alguém guiando-os do solo. Com certeza há alguns malditos batedores por aí.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura o tom pejorativo de scout rats e identifica batedores inimigos guiando aviões, sem inventar nome de personagem.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_06",
+      "source": "It’ll be fine, alright? Pull yourself together. Keep an eye out for cover in case Jerry returns.",
+      "expected": "Vai ficar bem, tudo certo? Se controle. Fique atento para cobertura caso Jerry volte.",
+      "translation": "Vai ficar tudo bem, certo? Controle-se. Fique de olho em lugares para se abrigar caso os alemães voltem.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Cover significa lugar para se abrigar neste aviso, não cobertura abstrata.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_10",
+      "source": "Jerry coming from the southeast!",
+      "expected": "Jerry vindo do sudeste!",
+      "translation": "Alemães vindo do sudeste!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part03_01",
+      "source": "Jerry has taken control of our northern flank! I am sending our last reserves to re-capture these positions before our whole entire defense falls. Lieutenant Williams, I need you to provide support for their counter-attack.",
+      "expected": "Jerry tomou o controle do nosso flanco norte! Estou enviando nossas últimas reservas para retomar essas posições antes que toda a defesa caia. Tenente Williams, preciso que você apoie o contra-ataque.",
+      "translation": "Os alemães tomaram o controle do nosso flanco norte! Estou enviando nossas últimas reservas para retomar essas posições antes que toda a nossa defesa caia. Tenente Williams, preciso que você dê apoio ao contra-ataque deles.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Preserva a referência their counter-attack ao contra-ataque das reservas que serão enviadas.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_defensive",
+      "source": "There is a Jerry plane hanging about! It makes no sense to attack while Jerry has close air support. My forces have no anti-air equipment, so you guys have to deal with it on your own.",
+      "expected": "Há um avião de Jerry rondando! Não faz sentido atacar enquanto Jerry tem apoio aéreo próximo. Minhas forças não têm equipamento antiaéreo; vocês têm de lidar com isso por conta própria.",
+      "translation": "Há um avião alemão rondando! Não faz sentido atacar enquanto os alemães têm apoio aéreo aproximado. Minhas forças não têm equipamento antiaéreo, então vocês terão de lidar com isso por conta própria.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Close air support usa o termo militar apoio aéreo aproximado; mantém ausência de equipamento antiaéreo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_irregular",
+      "source": "We still have a royal ace up our sleeve, though. I am granting you access to an artillery observer to provide exact coordinates to our artillery. Make the ground tremble under their feet. We only have one specialist, so make sure Jerry does not spot him.",
+      "expected": "Ainda temos um ás na manga. Estou lhe concedendo acesso a um observador de artilharia para fornecer coordenadas exatas à nossa artilharia. Faça o chão tremer sob seus pés. Só temos um especialista; certifique-se de que Jerry não o localize.",
+      "translation": "Mas ainda temos um ás na manga. Vou colocar um observador de artilharia à sua disposição para fornecer coordenadas exatas à nossa artilharia. Faça o chão tremer sob os pés deles. Só temos um especialista, então certifique-se de que os alemães não o localizem.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Their feet refere-se aos pés dos alemães, não do jogador. Observador é recurso colocado à disposição.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_01",
+      "source": "Christ… Didn’t expect Jerry to have that many tanks. No one told us about it. And even after this whole mess… We’re just leaving. I don’t know, it feels like it was for nothing.",
+      "expected": "Cristo... Não esperava que Jerry tivesse tantos tanques. Ninguém nos disse sobre isso. E mesmo depois de toda essa bagunça... Estamos apenas indo embora. Não sei — parece que foi tudo para nada.",
+      "translation": "Meu Deus... Não esperava que os alemães tivessem tantos tanques. Ninguém nos avisou. E mesmo depois de toda essa confusão... Estamos simplesmente indo embora. Não sei, parece que foi tudo em vão.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_03",
+      "source": "We’ve been through bloody hell, mate. And that’s just today. Why the hell did Jerry even invade Belgium? They could’ve kept sitting on their asses and… not start this whole thing…",
+      "expected": "Passamos pelo inferno, companheiro. E isso é só hoje. Por que diabos Jerry invadiu a Bélgica? Poderiam ter ficado sentados e... não começado toda essa coisa...",
+      "translation": "Passamos por um inferno dos diabos, companheiro. E isso foi só hoje. Por que diabos os alemães foram invadir a Bélgica? Podiam ter ficado sentados sem fazer nada e... não ter começado tudo isso...",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_04",
+      "source": "Well, I’ve heard the Russians are helping Jerry with fuel and industrial crap. Maybe that’ll push Winnie to strike a deal with Jerry and we’ll be home sooner than we think.",
+      "expected": "Bem, ouvi dizer que os russos estão ajudando Jerry com combustível e material industrial. Talvez isso empurre Winnie a fechar um acordo com Jerry e voltemos para casa mais cedo do que pensamos.",
+      "translation": "Bem, ouvi dizer que os russos estão ajudando os alemães com combustível e essa porcaria de material industrial. Talvez isso leve Winnie a fechar um acordo com os alemães e a gente volte para casa mais cedo do que imagina.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Preserva Winnie como apelido do original e a conjectura do personagem; não transforma a fala em afirmação histórica do narrador.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_06_03_dunkirk.pot",
+      "context": "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_05",
+      "source": "God help us if Jerry gets his hands on us…",
+      "expected": "Deus nos ajude se Jerry colocar as mãos em nós...",
+      "translation": "Deus nos ajude se os alemães nos pegarem...",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_06_03_dunkirk.pot",
+      "context": "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_11",
+      "source": "What the?.. Jerry is already here!",
+      "expected": "O quê?.. Jerry já está aqui!",
+      "translation": "O quê?.. Os alemães já estão aqui!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/outro_completed",
+      "source": "Victory is ours, you have done an outstanding job. This will show Jerry what we’re capable of. The invasion beaches will not be threatened by flanking attacks!",
+      "expected": "A vitória é nossa; você realizou um trabalho excepcional. Isso vai mostrar ao Jerry o que somos capazes. As praias de invasão não serão ameaçadas por ataques de flanco!",
+      "translation": "A vitória é nossa; você realizou um trabalho excepcional. Isso vai mostrar aos alemães do que somos capazes. As praias de desembarque não serão ameaçadas por ataques de flanco!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_01",
+      "source": "The pilots almost got us killed faster than Jerry could! Is everyone alright? Get your stuff and get out.",
+      "expected": "Os pilotos quase nos mataram mais rápido do que Jerry poderia! Alguém está bem? Pegue seu equipamento e saia.",
+      "translation": "Os pilotos quase nos mataram antes que os alemães pudessem! Está todo mundo bem? Peguem suas coisas e saiam.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Is everyone alright pergunta se todos estão bem; alguém está bem altera o sentido. Ordens dirigidas ao grupo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/landing_03",
+      "source": "Thank God Jerry didn't hear us landing. Let's keep it that way.",
+      "expected": "Graças a Deus Jerry não nos ouviu pousar. Vamos manter assim.",
+      "translation": "Graças a Deus os alemães não nos ouviram pousar. Vamos manter assim.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_01",
+      "source": "It seems like Jerry hasn’t rigged the bridge with explosives, I’d wager they have them stashed somewhere nearby. Let’s have a look around.",
+      "expected": "Parece que Jerry não armou a ponte com explosivos — apostaria que os têm guardados em algum lugar próximo. Vamos dar uma olhada ao redor.",
+      "translation": "Parece que os alemães não prepararam a ponte com explosivos. Aposto que os guardaram em algum lugar aqui perto. Vamos dar uma olhada ao redor.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_06",
+      "source": "Looks like that's the last of them. The bridge is clear, area secure, and Jerry is running away. Well done! Now back to the bridge. Squad leader’s meeting in 10.",
+      "expected": "Parece que foi o último deles. A ponte está limpa, área assegurada, e Jerry está fugindo. Bom trabalho! Agora de volta à ponte. Reunião dos líderes de seção em 10 minutos.",
+      "translation": "Parece que eram os últimos. A ponte está livre de inimigos, a área está segura e os alemães estão fugindo. Muito bem! Agora voltem à ponte. Reunião dos líderes de grupo em 10 minutos.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Squad leader é líder de grupo, não líder de seção. Ponte clear significa livre de inimigos.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/hint_civilians_01",
+      "source": "Let’s see if there are some locals around, they might know where Jerry keeps his ammo.",
+      "expected": "Vamos ver se há moradores por aqui; talvez saibam onde Jerry esconde a munição.",
+      "translation": "Vamos ver se há moradores por aqui; talvez saibam onde os alemães guardam a munição.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_commandos_arrived",
+      "source": "Just look who finally decided to show up! Commandos! These guys are as tough as they come. Now it's Jerry who's got the problem. Let's destroy the remaining attacking forces together.",
+      "expected": "Olha quem finalmente resolveu aparecer! Commandos! Esses caras são durões. Agora é o Jerry que tem o problema. Vamos destruir as forças de ataque restantes juntos.",
+      "translation": "Olhem quem finalmente resolveu aparecer! Commandos! Esses caras são dos mais durões que existem. Agora são os alemães que têm um problema. Vamos destruir juntos as forças de ataque restantes.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Commandos preservado como designação existente da unidade, não confundido com comandos de interface.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/cutscene/intro_02",
+      "source": "Don’t worry about Jerry, the RAF has served them bombs for breakfast.",
+      "expected": "Não se preocupe com Jerry; a RAF serviu bombas no café da manhã deles.",
+      "translation": "Não se preocupe com os alemães; a RAF serviu bombas no café da manhã deles.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_01",
+      "source": "Jerry is retreating to the north and digging in, which will slow down our offensive. Get rid of them as soon as possible.",
+      "expected": "Jerry está recuando para o norte e se entrincheirando, o que vai retardar nossa ofensiva. Livre-se deles o mais rápido possível.",
+      "translation": "Os alemães estão recuando para o norte e se entrincheirando, o que vai retardar nossa ofensiva. Livre-se deles o mais rápido possível.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_allround",
+      "source": "The AVRE has arrived. Now show Jerry there is nowhere to hide!",
+      "expected": "O AVRE chegou. Agora mostre ao Jerry que não há onde se esconder!",
+      "translation": "O AVRE chegou. Agora mostre aos alemães que não há onde se esconder!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_offensive",
+      "source": "The Crocodile has arrived. Now make Jerry regret he survived the carpet bombing!",
+      "expected": "O Crocodile chegou. Agora faça Jerry se arrepender de ter sobrevivido ao bombardeio de tapete!",
+      "translation": "O Crocodile chegou. Agora faça os alemães se arrependerem de ter sobrevivido ao bombardeio em área!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Carpet bombing indica bombardeio em área, não tapete literal. Modelo Crocodile preservado.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/cutscene/outro_02",
+      "source": "I’m wondering how many of these Jerry has left. Let’s hope we don’t meet any more of them on our way.",
+      "expected": "Estou me perguntando quantos desses Jerry ainda tem. Vamos torcer para não encontrarmos mais deles no caminho.",
+      "translation": "Fico me perguntando quantos desses os alemães ainda têm. Vamos torcer para não encontrarmos mais nenhum pelo caminho.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_east",
+      "source": "Jerry is attacking our positions at the Eastern side of the bridge!",
+      "expected": "Jerry está atacando nossas posições no lado leste da ponte!",
+      "translation": "Os alemães estão atacando nossas posições no lado leste da ponte!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_01",
+      "source": "Listen up, lads! We are to hold this bridge until the ground forces arrive. Could be hours, could be days. No one knows. The only thing I know is that Jerry has to take this bridge brick by brick if they want it.",
+      "expected": "Atenção, rapazes! Devemos manter esta ponte até que as forças terrestres cheguem. Podem ser horas; podem ser dias. Ninguém sabe. A única coisa que sei é que Jerry vai ter de tomar esta ponte tijolo por tijolo se quiserem.",
+      "translation": "Atenção, rapazes! Devemos manter esta ponte até que as forças terrestres cheguem. Podem ser horas, podem ser dias. Ninguém sabe. A única coisa que sei é que os alemães terão de tomar esta ponte tijolo por tijolo se a quiserem.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_07",
+      "source": "We are running short on morphine but I think I know where you might get some. Jerry has a supply stash not far from here. It’s in a broken down ammo trailer near the entrance.",
+      "expected": "Estamos com pouca morfina, mas acho que sei onde você pode conseguir. Jerry tem um depósito de suprimentos não muito longe daqui.",
+      "translation": "Estamos com pouca morfina, mas acho que sei onde você pode conseguir mais. Os alemães têm um depósito de suprimentos não muito longe daqui. A morfina está em um reboque de munição avariado, perto da entrada.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura a localização omitida da morfina em reboque de munição avariado perto da entrada; informação necessária ao jogador.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/outro_completed",
+      "source": "We have restored our reputation, and the operation to cross the Rhine is a huge success. Let’s see Jerry deal with this blow! \n\nThank you for playing the \"Finest Hour\" campaign!",
+      "expected": "Restauramos nossa reputação, e a operação de travessia do Reno é um enorme sucesso. Vamos ver Jerry lidar com este golpe! \n\nObrigado por jogar a campanha \"Finest Hour\"!",
+      "translation": "Restauramos nossa reputação, e a operação de travessia do Reno é um enorme sucesso. Vamos ver os alemães lidarem com este golpe! \n\nObrigado por jogar a campanha \"Finest Hour\"!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part01_05",
+      "source": "A Jerry’s tank incoming! Bloody hell… We don’t have PIATs, do we?",
+      "expected": "Um tanque Jerry se aproximando! Maldição... Não temos PIATs, temos?",
+      "translation": "Um tanque alemão se aproximando! Maldição... Não temos PIATs, temos?",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part01_07",
+      "source": "Nice hit! Come on, Jerry, we have plenty of shells for all of you!",
+      "expected": "Ótimo tiro! Pode vir mais, Jerry; temos projéteis de sobra para todos vocês!",
+      "translation": "Ótimo tiro! Venham, alemães, temos projéteis de sobra para todos vocês!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part01_pl_armor_destroyed",
+      "source": "They’ve destroyed our Locust! I reckon it’s just us now against Jerry.",
+      "expected": "Eles destruíram nosso Locust! Acho que agora somos só nós contra Jerry.",
+      "translation": "Eles destruíram nosso Locust! Acho que agora somos só nós contra os alemães.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part02_01",
+      "source": "Believe it or not, this is the first time our pilots skipped on the ale and they dropped us exactly on target. We have to destroy Jerry's anti-air and secure the nearby rail station.",
+      "expected": "Acredite se quiser, é a primeira vez que nossos pilotos deixaram a cerveja de lado e nos lançaram exatamente no alvo. Temos de neutralizar a antiaérea Jerry e tomar a estação ferroviária próxima.",
+      "translation": "Acredite se quiser, é a primeira vez que nossos pilotos deixaram a cerveja de lado e nos lançaram exatamente no alvo. Temos de destruir as defesas antiaéreas alemãs e assegurar a estação ferroviária próxima.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_09",
+      "source": "Captain, we just got a message from the US 17th! They’ve managed to secure the bridge but Jerry is pushing ‘em very hard. They’re requesting assistance from us.",
+      "expected": "Capitão, acabamos de receber uma mensagem do 17º americano! Conseguiram assegurar a ponte, mas Jerry está pressionando muito forte...",
+      "translation": "Capitão, acabamos de receber uma mensagem da 17ª Divisão Aerotransportada dos EUA! Conseguiram assegurar a ponte, mas os alemães estão pressionando muito. Estão pedindo nossa ajuda.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz A tarefa 04_bridge no mesmo arquivo identifica US 17th como 17th US airborne division. Corrige gênero da divisão e restaura pedido de ajuda omitido.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_10",
+      "source": "Alright lads, the celebration is postponed. Sergeant Shelton, you stay here and make sure not a single Jerry holding a weapon comes close to the railway station. Try to find something to drink while we’re away. I’ll take the second platoon and move towards the Yankee positions.",
+      "expected": "Certo, rapazes, a comemoração está adiada. Sargento Shelton, você fica aqui e certifique-se de que nenhum Jerry com uma arma saberá o caminho de volta. Entendido?",
+      "translation": "Certo, rapazes, a comemoração está adiada. Sargento Shelton, você fica aqui e garante que nenhum alemão armado se aproxime da estação ferroviária. Tente encontrar algo para beber enquanto estivermos fora. Vou levar o segundo pelotão até as posições americanas.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura ordem de impedir aproximação de alemães armados à estação, busca de bebida e deslocamento do segundo pelotão. Texto antigo alterava a ordem e omitia as duas últimas frases. Shelton preservado.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part03_01",
+      "source": "The Yanks have managed to capture the bridge on the Issel river but Jerry is counterattacking. We need to support the GIs quickly.",
+      "expected": "Os americanos conseguiram capturar a ponte no Rio Issel, mas Jerry está contra-atacando. Precisamos apoiar os GIs.",
+      "translation": "Os americanos conseguiram capturar a ponte sobre o rio Issel, mas os alemães estão contra-atacando. Precisamos apoiar os soldados americanos depressa.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Restaura urgência quickly; GIs e Yanks referem-se aos soldados americanos neste objetivo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_10",
+      "source": "Sir, I’ve told you I would share my findings. Let me introduce some of Jerry’s homemade booze to you, lads. Tastes like a cough syrup but still warms you right up.",
+      "expected": "Senhor, eu disse que compartilharia minhas descobertas. Deixem-me apresentar a bebida caseira dos Jerry, rapazes. Tem gosto de xarope para tosse, mas esquenta pra valer.",
+      "translation": "Senhor, eu disse que compartilharia minhas descobertas. Deixem-me apresentar a bebida caseira dos alemães, rapazes. Tem gosto de xarope para tosse, mas esquenta pra valer.",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_14",
+      "source": "Alright, let’s find out what that Jerry booze tastes like. Cheers!",
+      "expected": "Muito bem, vamos descobrir como é essa cachaça Jerry. Saúde!",
+      "translation": "Muito bem, vamos descobrir que gosto tem essa bebida alemã. Saúde!",
+      "reason": "Jerry nesta fala refere-se ao inimigo alemão; corrige a referência e a concordância após conferir o inglês novo. Nome próprio Jerry e Jerry Can não são afetados. Uso histórico: https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz Booze não especifica cachaça brasileira: remove bebida e contexto nacional inventados.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/hull",
+      "source": "<f(anka)s(12)x.>Hull MG",
+      "expected": "<f(anka)s(12)x.>MG de Casco",
+      "translation": "<f(anka)s(12)x.>MG do Casco",
+      "reason": "Explicita a relação da metralhadora com o casco do veículo; mantém MG neste lote compacto.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/secondary_flamer",
+      "source": "<f(anka)s(12)x.>Hull Flamethrower",
+      "expected": "<f(anka)s(12)x.>Lança-chamas de Casco",
+      "translation": "<f(anka)s(12)x.>Lança-chamas do Casco",
+      "reason": "Explicita a posição no casco, em consistência com Hull MG.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/mgun_turret_left",
+      "source": "<f(anka)s(12)x.>Left Turret MG",
+      "expected": "<f(anka)s(12)x.>MG Torreta Esquerda",
+      "translation": "<f(anka)s(12)x.>MG da Torreta Esquerda",
+      "reason": "Acrescenta a preposição que liga a arma à torreta esquerda.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/mgun_turret_right",
+      "source": "<f(anka)s(12)x.>Right Turret MG",
+      "expected": "<f(anka)s(12)x.>MG Torreta Direita",
+      "translation": "<f(anka)s(12)x.>MG da Torreta Direita",
+      "reason": "Acrescenta a preposição que liga a arma à torreta direita.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/mgun_turret_rear_left",
+      "source": "<f(anka)s(12)x.>Left Rear Turret MG",
+      "expected": "<f(anka)s(12)x.>MG Torreta Traseira Esquerda",
+      "translation": "<f(anka)s(12)x.>MG da Torreta Traseira Esquerda",
+      "reason": "Acrescenta a preposição, preservando os dois qualificadores de posição.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/mgun_turret_rear_right",
+      "source": "<f(anka)s(12)x.>Right Rear Turret MG",
+      "expected": "<f(anka)s(12)x.>MG Torreta Traseira Direita",
+      "translation": "<f(anka)s(12)x.>MG da Torreta Traseira Direita",
+      "reason": "Acrescenta a preposição, preservando os dois qualificadores de posição.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "context": "desc/weapon/type/cupola",
+      "source": "<f(anka)s(12)x.>Cupola MG",
+      "expected": "<f(anka)s(12)x.>MG de Cúpula",
+      "translation": "<f(anka)s(12)x.>MG da Cúpula",
+      "reason": "Explicita a relação entre a arma e a cúpula, sem confundir cúpula com torreta.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger_fh.pot",
+      "context": "info/special/unic304f",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Substitui o termo espanhol por termo documentado na localização PT-BR oficial da EA para veículos M3 e Sd. Kfz 251: https://www.ea.com/pt-br/games/battlefield/news/weapons-vehicles-gadgets-reinforcements-list-battlefield-5 ; preserva tags e nome do modelo.",
+      "type": "updated-entry"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "desc/entity/m5_halftrack",
+      "source": "M5 Halftrack",
+      "expected": "M5 Meia-lagarta",
+      "translation": "M5 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "info/special/m5_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "desc/entity/m5_halftrack_at",
+      "source": "M5 Halftrack",
+      "expected": "M5 Meia-lagarta",
+      "translation": "M5 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "info/special/m5_halftrack_at",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "desc/entity/m5a1_halftrack",
+      "source": "M5A1 Halftrack",
+      "expected": "M5A1 Meia-lagarta",
+      "translation": "M5A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "info/special/m5a1_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "desc/entity/m5a1_halftrack_at",
+      "source": "M5A1 Halftrack",
+      "expected": "M5A1 Meia-lagarta",
+      "translation": "M5A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "context": "info/special/m5a1_halftrack_at",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz7_1",
+      "source": "<c(c3baae)>AA Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga AA</c>",
+      "translation": "<c(c3baae)>Semilagarta AA</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz6_2",
+      "source": "<c(c3baae)>AA Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga AA</c>",
+      "translation": "<c(c3baae)>Semilagarta AA</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz6_cargo",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz7",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz7_2",
+      "source": "<c(c3baae)>AA Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga AA</c>",
+      "translation": "<c(c3baae)>Semilagarta AA</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz10_4",
+      "source": "<c(c3baae)>AA Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga AA</c>",
+      "translation": "<c(c3baae)>Semilagarta AA</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_1",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_3",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_7",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_9",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_10",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz250a_11",
+      "source": "<c(c3baae)>Light Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Leve</c>",
+      "translation": "<c(c3baae)>Semilagarta Leve</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251b",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251c",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251c_2",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251c_tarp",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_1",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_1_stuka",
+      "source": "<c(c3baae)>Rocket Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga de Foguetes</c>",
+      "translation": "<c(c3baae)>Semilagarta de Foguetes</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_16",
+      "source": "<c(c3baae)>Flame Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Lança-chamas</c>",
+      "translation": "<c(c3baae)>Semilagarta Lança-chamas</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_17",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_21",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz251d_22",
+      "source": "<c(c3baae)>Medium Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga Médio</c>",
+      "translation": "<c(c3baae)>Semilagarta Médio</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "context": "info/special/sdkfz6_ammo",
+      "source": "<c(c3baae)>Ammo Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga de Munição</c>",
+      "translation": "<c(c3baae)>Semilagarta de Munição</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m2_halftrack",
+      "source": "M2 Halftrack",
+      "expected": "M2 Meia-lagarta",
+      "translation": "M2 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m2_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m2_halftrack_at",
+      "source": "M2 Halftrack",
+      "expected": "M2 Meia-lagarta",
+      "translation": "M2 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m2_halftrack_at",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m2a1_halftrack",
+      "source": "M2A1 Halftrack",
+      "expected": "M2A1 Meia-lagarta",
+      "translation": "M2A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m2a1_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3_halftrack",
+      "source": "M3 Halftrack",
+      "expected": "M3 Meia-lagarta",
+      "translation": "M3 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3_halftrack_inf",
+      "source": "M3 Halftrack",
+      "expected": "M3 Meia-lagarta",
+      "translation": "M3 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3_halftrack_inf",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3_halftrack_inf_late",
+      "source": "M3 Halftrack",
+      "expected": "M3 Meia-lagarta",
+      "translation": "M3 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3_halftrack_inf_late",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3a1_halftrack",
+      "source": "M3A1 Halftrack",
+      "expected": "M3A1 Meia-lagarta",
+      "translation": "M3A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3a1_halftrack",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3a1_halftrack_inf",
+      "source": "M3A1 Halftrack",
+      "expected": "M3A1 Meia-lagarta",
+      "translation": "M3A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3a1_halftrack_inf",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "desc/entity/m3a1_halftrack_inf_late",
+      "source": "M3A1 Halftrack",
+      "expected": "M3A1 Meia-lagarta",
+      "translation": "M3A1 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "context": "info/special/m3a1_halftrack_inf_late",
+      "source": "<c(c3baae)>Halftrack</c>",
+      "expected": "<c(c3baae)>Semioruga</c>",
+      "translation": "<c(c3baae)>Semilagarta</c>",
+      "reason": "Padroniza o descritor de veículo Halftrack como Semilagarta, substituindo Semioruga; preserva tags, AA e qualificadores. Adota masculino para o veículo (Semilagarta Médio), com uso explícito de “o semilagarta” em fonte primária PT-BR: https://www.ea.com/pt-br/news/how-to-use-reinforcements",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/m3_ally",
+      "source": "This armored half-track was manufactured in the USA to transport infantry and artillery. Its spacious body had an open design and as well as a compartment for 8 infantrymen it had a special mount with a heavy machine gun mounted on it. The M3 proved to be a fast and reliable vehicle very suitable for use in the harsh conditions of the war.",
+      "expected": "Este meio-lagarta blindado foi fabricado nos EUA para transportar infantaria e artilharia. Seu espaçoso corpo tinha design aberto e além do compartimento para 8 soldados possuía um suporte especial com uma metralhadora pesada montada. O M3 provou ser um veículo rápido e confiável, muito adequado para uso nas duras condições da guerra.",
+      "translation": "Este semilagarta blindado foi fabricado nos EUA para transportar infantaria e artilharia. Seu espaçoso corpo tinha design aberto e além do compartimento para 8 soldados possuía um suporte especial com uma metralhadora pesada montada. O M3 provou ser um veículo rápido e confiável, muito adequado para uso nas duras condições da guerra.",
+      "reason": "Padroniza a expressão portuguesa meio-lagarta como semilagarta; preserva os nomes, números e o restante da descrição. Mantém gênero masculino, como em “o semilagarta” documentado pela EA.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/m2_ally",
+      "source": "This half-track armored vehicle was designed as a means of transport for artillery divisions and was produced by the US since 1941. Some vehicles were delivered to the USSR as part of the lend-lease program. Its roomy, open hull was protected by steel armor plates, and the powerful engine provided the vehicle with cross-country capability and good speed. The infantry compartment had 8 seats for fully equipped soldiers, and a special base housed a large-calibre Browning machine gun. The sides and rear of the vehicle had mounts for additional weapons.",
+      "expected": "Este veículo blindado meio-lagarta foi projetado como meio de transporte para divisões de artilharia e foi produzido pelos EUA desde 1941. Alguns veículos foram entregues à URSS como parte do programa Lend-Lease. Seu casco espaçoso e aberto era protegido por placas de blindagem de aço, e o motor potente fornecia ao veículo boa capacidade todo-terreno e velocidade. O compartimento de infantaria possuía 8 assentos para soldados totalmente equipados, e uma base especial abrigava uma metralhadora Browning de grande calibre. As laterais e a traseira do veículo tinham suportes para armas adicionais.",
+      "translation": "Este veículo blindado semilagarta foi projetado como meio de transporte para divisões de artilharia e foi produzido pelos EUA desde 1941. Alguns veículos foram entregues à URSS como parte do programa Lend-Lease. Seu casco espaçoso e aberto era protegido por placas de blindagem de aço, e o motor potente fornecia ao veículo boa capacidade todo-terreno e velocidade. O compartimento de infantaria possuía 8 assentos para soldados totalmente equipados, e uma base especial abrigava uma metralhadora Browning de grande calibre. As laterais e a traseira do veículo tinham suportes para armas adicionais.",
+      "reason": "Padroniza a expressão portuguesa meio-lagarta como semilagarta; preserva os nomes, números e o restante da descrição. Mantém gênero masculino, como em “o semilagarta” documentado pela EA.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/m3",
+      "source": "American built multi-purpose armored troops transport, able to carry up to 12 fully laiden men aswell as tow cannons of the field-class type. \n This armored half-truck was produced by the US since 1941 and used as a transport vehicle for tank corps and artillery divisions. Some vehicles were delivered to USSR as part of a lend-lease program. The spacious hull was made open-top. Along with a compartment for eight soldiers it housed a large-calibre machinegun and mounts for additional machineguns in the rear and on the sides. M3 proved to be a fast and reliable vehicle, well suited for use in harsh conditions of war.",
+      "expected": "Transporte blindado multiuso americano, capaz de carregar até 12 homens totalmente equipados e rebocar canhões de campanha. \n Este meio-lagarta blindado foi produzido pelos EUA desde 1941 e usado como veículo de transporte para corpos de tanques e divisões de artilharia. Alguns veículos foram entregues à URSS como parte do programa Lend-Lease. O casco espaçoso era aberto no topo. Além do compartimento para oito soldados, abrigava uma metralhadora de grande calibre e suportes para metralhadoras adicionais na traseira e nas laterais. O M3 provou ser um veículo rápido e confiável, adequado para uso nas duras condições da guerra.",
+      "translation": "Transporte blindado multiuso americano, capaz de carregar até 12 homens totalmente equipados e rebocar canhões de campanha. \n Este semilagarta blindado foi produzido pelos EUA desde 1941 e usado como veículo de transporte para corpos de tanques e divisões de artilharia. Alguns veículos foram entregues à URSS como parte do programa Lend-Lease. O casco espaçoso era aberto no topo. Além do compartimento para oito soldados, abrigava uma metralhadora de grande calibre e suportes para metralhadoras adicionais na traseira e nas laterais. O M3 provou ser um veículo rápido e confiável, adequado para uso nas duras condições da guerra.",
+      "reason": "Padroniza a expressão portuguesa meio-lagarta como semilagarta; preserva os nomes, números e o restante da descrição. Mantém gênero masculino, como em “o semilagarta” documentado pela EA. O inglês desta entrada usa half-truck; a mudança restringe-se ao termo português de veículo que já estava traduzido, sem alterar a fonte inglesa ou o nome M3.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/sdkfz251_1",
+      "source": "The SdKfz 251 half-track armored vehicle entered service with the Wehrmacht in the summer of 1939. It was widely used as a means of troop transport along the Soviet-German front, but because of its open top, the crew wasn't sufficiently protected. Apart from seats, the infantry compartment contained mounts for several machine guns. The Hanomag engine allowed this 9-tonne vehicle to achieve high speeds, while sloping armor plates provided some protection to the transported infantry.",
+      "expected": "O veículo blindado meio-lagarta SdKfz 251 entrou em serviço na Wehrmacht no verão de 1939. Era amplamente usado como meio de transporte de tropas na frente soviético-alemã, mas devido ao topo aberto, a tripulação não tinha proteção suficiente. Além dos assentos, o compartimento de infantaria continha suportes para várias metralhadoras. O motor Hanomag permitia a este veículo de 9 toneladas atingir altas velocidades, enquanto placas de blindagem inclinadas forneciam alguma proteção à infantaria transportada.",
+      "translation": "O veículo blindado semilagarta SdKfz 251 entrou em serviço na Wehrmacht no verão de 1939. Era amplamente usado como meio de transporte de tropas na frente soviético-alemã, mas devido ao topo aberto, a tripulação não tinha proteção suficiente. Além dos assentos, o compartimento de infantaria continha suportes para várias metralhadoras. O motor Hanomag permitia a este veículo de 9 toneladas atingir altas velocidades, enquanto placas de blindagem inclinadas forneciam alguma proteção à infantaria transportada.",
+      "reason": "Padroniza a expressão portuguesa meio-lagarta como semilagarta; preserva os nomes, números e o restante da descrição. Mantém gênero masculino, como em “o semilagarta” documentado pela EA.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/sdkfz7_1",
+      "source": "Serial production of these rather basic but effective mobile anti-aircraft systems began in 1940.  The machine presented a standard German half-track armored vehicle with a combined 4-barrelled Flakvierling 38 anti-aircraft gun mounted on the body. This 20mm automatic gun could fire up to 1,800 shots per minute, successfully hitting low-flying enemy aircraft, infantry or light armored equipment. At the same time poor cockpit protection and the resulting vulnerability of the gun crew lead to heavy losses in open combat.",
+      "expected": "A produção em série desses sistemas antiaéreos móveis básicos mas eficazes começou em 1940. A máquina apresentava um veículo blindado meio-lagarta alemão padrão com um canhão antiaéreo Flakvierling 38 de 4 canos montado no corpo. Este canhão automático de 20mm podia disparar até 1.800 tiros por minuto, atingindo com sucesso aeronaves inimigas voando baixo, infantaria ou equipamentos levemente blindados. Ao mesmo tempo, a fraca proteção da cabine e a consequente vulnerabilidade da tripulação do canhão levavam a pesadas perdas em combate aberto.",
+      "translation": "A produção em série desses sistemas antiaéreos móveis básicos mas eficazes começou em 1940. A máquina apresentava um veículo blindado semilagarta alemão padrão com um canhão antiaéreo Flakvierling 38 de 4 canos montado no corpo. Este canhão automático de 20mm podia disparar até 1.800 tiros por minuto, atingindo com sucesso aeronaves inimigas voando baixo, infantaria ou equipamentos levemente blindados. Ao mesmo tempo, a fraca proteção da cabine e a consequente vulnerabilidade da tripulação do canhão levavam a pesadas perdas em combate aberto.",
+      "reason": "Padroniza a expressão portuguesa meio-lagarta como semilagarta; preserva os nomes, números e o restante da descrição. Mantém gênero masculino, como em “o semilagarta” documentado pela EA.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_08_07_luttich.pot",
+      "context": "mission/single/02-ger-west/1944_08_07_luttich/narrator/04",
+      "source": "Ah, look what the Americans left us! What a beautiful half-track!",
+      "expected": "Ah, veja o que os americanos nos deixaram! Que half-track bonito!",
+      "translation": "Ah, veja o que os americanos nos deixaram! Que semilagarta bonito!",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hotton.pot",
+      "context": "mission/single/04-usa/1944_12_hotton/narrator/scout/01",
+      "source": "Germans! Germans! The damn Krauts are coming in half-tracks and armor!",
+      "expected": "Alemães! Alemães! Os malditos Krauts estão chegando em half-tracks e blindados!",
+      "translation": "Alemães! Alemães! Os malditos Krauts estão chegando em semilagartas e blindados!",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "context": "mission/single/04-usa/menu_usa/m2_halftrack",
+      "source": "M2 Halftrack",
+      "expected": "M2 Meia-lagarta",
+      "translation": "M2 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_05_carentan/narrator14",
+      "source": "Kraut Halftrack!",
+      "expected": "Meia-lagarta Kraut!",
+      "translation": "Semilagarta Kraut!",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_06_bloody_gulch.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator09",
+      "source": "Enemy halftracks! Take them out!",
+      "expected": "Halftracks inimigos! Destruam-nos!",
+      "translation": "Semilagartas inimigos! Destruam-nos!",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "context": "mission/single/041-usa_airborne/menu_usa/m2_halftrack",
+      "source": "M2 Halftrack",
+      "expected": "M2 Meia-lagarta",
+      "translation": "M2 Semilagarta",
+      "reason": "Halftrack é descritor de tipo explícito no inglês; padroniza Meia-lagarta para Semilagarta, preservando integralmente a designação do modelo (M2/M2A1/M3/M3A1/M5/M5A1). Não acrescenta descritores a nomes que não os tenham.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_spawned",
+      "source": "Heads up, a half-track incoming!",
+      "expected": "Atenção, uma meia-lagarta chegando!",
+      "translation": "Atenção, um semilagarta chegando!",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes. Ajusta uma para um, adotando o masculino documentado para o veículo.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_btr_destroyed",
+      "source": "Good, the half-track is sorted.",
+      "expected": "Bem, a meia-lagarta foi resolvida.",
+      "translation": "Ótimo, o semilagarta foi neutralizado.",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes. Ajusta gênero para masculino e traduz sorted como neutralizado, conforme o contexto explícito part03_btr_destroyed, evitando o decalque “foi resolvida”.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/truck_and_armoredinf",
+      "source": "Armored Infantry(halftrack)",
+      "expected": "Infantaria Blindada (half-track)",
+      "translation": "Infantaria Blindada (semilagarta)",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/gdsmot_sq",
+      "source": "Guards AD. Motorized(halftrack)",
+      "expected": "Motorizada da Guarda (half-track)",
+      "translation": "Motorizada da Guarda (semilagarta)",
+      "reason": "Padroniza o tipo de veículo como semilagarta/semilagartas em diálogo ou rótulo de reforço, preservando o restante da tradução e os nomes.",
+      "type": "terminology-consistency"
+    },
+    {
+      "file": "interface/text/mission/single/errors_helper.pot",
+      "context": "mission/single/nodifficulty_error",
+      "source": "Warning - Difficulty not detected!",
+      "translation": "Aviso - Dificuldade não detectada!",
+      "reason": "Corrigir a acentuação e preservar a fonte inglesa efetiva, que fica em msgstr no original.",
+      "type": "spelling-repair"
+    }
+  ],
+  "technicalTranslations": [
+    {
+      "file": "interface/text/desc/desc_breed_airborne_ger.pot",
+      "context": "desc/human/mp/ger/late/waffen_mg_crew_asst",
+      "source": "MG crew Asst. [Waffen --]",
+      "expected": "Auxiliar de Tripulação de Metralhadora [Waffen-SS]\"\"",
+      "translation": "Auxiliar de Tripulação de Metralhadora [Waffen-SS]",
+      "reason": "Remover duas aspas extras do msgstr; manter o texto existente. Requer substituição raw por causa da sintaxe inválida."
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/bt7a",
+      "source": "Soviet medium-light Infantry support tank, quick and agile, able to carry a squad of men into battle whilst also capable of dueling light tanks and vehicles. \n BT (Bystrokhodny tank, meaning 'fast tank') was based on the 'convertible' M1931 Christie tank and produced in the USSR since 1935. Weighing 13.5 tonnes, this 'self-propelled gun' version was able to achieve high speeds, while retaining relatively thick armor, and high firepower thanks to its 76mm. The BT was designed for fast raids into enemy territory and quick offensive operations without infantry support.",
+      "expected": "Tanque soviético médio-leve de apoio à infantaria, rápido e ágil, capaz de levar uma esquadra para a batalha enquanto também é capaz de duelar com tanques e veículos leves. \\n O BT (Bystrokhodny tank, significando \"tanque rápido\") era baseado no tanque conversível M1931 Christie e produzido na URSS desde 1935. Pesando 13,5 toneladas, esta versão de \"canhão autopropulsado\" era capaz de atingir altas velocidades, mantendo blindagem relativamente espessa e alto poder de fogo graças ao seu canhão de 76mm. O BT foi projetado para investidas rápidas em território inimigo e operações ofensivas rápidas sem apoio de infantaria.",
+      "translation": "Tanque soviético médio-leve de apoio à infantaria, rápido e ágil, capaz de levar uma esquadra para a batalha enquanto também é capaz de duelar com tanques e veículos leves. \n O BT (Bystrokhodny tank, significando \"tanque rápido\") era baseado no tanque conversível M1931 Christie e produzido na URSS desde 1935. Pesando 13,5 toneladas, esta versão de \"canhão autopropulsado\" era capaz de atingir altas velocidades, mantendo blindagem relativamente espessa e alto poder de fogo graças ao seu canhão de 76mm. O BT foi projetado para investidas rápidas em território inimigo e operações ofensivas rápidas sem apoio de infantaria.",
+      "reason": "Escapar corretamente as aspas internas; preservar texto e dados da fonte. Requer substituição raw por causa da sintaxe inválida."
+    },
+    {
+      "file": "interface/text/info.pot",
+      "context": "info/entity/kv2",
+      "source": "Soviet mass-produced Heavy 'behemoth tank, equipped with armor capable of withstanding direct artillery hits and sporting a massive 122mm main gun, this vehicle can blow away light vehicles and fortified positions with ease. \n Entering service with the Red Army in the early 1940's, the KV-2 was virtually impervious to enemy anti-tank weapons, although, because of its low manoeuvrability and rate of fire, was mainly used as a siege weapon.",
+      "expected": "Tanque pesado soviético \"colosso\" de produção em massa, equipado com blindagem capaz de suportar impactos diretos de artilharia e portando um massivo canhão principal de 122mm. Este veículo pode destruir veículos leves e posições fortificadas com facilidade. \\n Entrando em serviço no Exército Vermelho no início dos anos 1940, o KV-2 era virtualmente impermeável às armas antitanque inimigas, embora, devido à sua baixa manobrabilidade e cadência de tiro, fosse usado principalmente como arma de cerco.",
+      "translation": "Tanque pesado soviético \"colosso\" de produção em massa, equipado com blindagem capaz de suportar impactos diretos de artilharia e portando um massivo canhão principal de 122mm. Este veículo pode destruir veículos leves e posições fortificadas com facilidade. \n Entrando em serviço no Exército Vermelho no início dos anos 1940, o KV-2 era virtualmente impermeável às armas antitanque inimigas, embora, devido à sua baixa manobrabilidade e cadência de tiro, fosse usado principalmente como arma de cerco.",
+      "reason": "Escapar corretamente as aspas internas; preservar o calibre de 122 mm presente no inglês, registrando a dúvida histórica separadamente. Requer substituição raw."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_09_pavlovs_house.pot",
+      "context": "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/05",
+      "source": "Due to our grueling losses, I have put into action Order 166: Offensives are to be organized into small groups with sub-machine guns, hand grenades, and anti-tank rifles. Taking this building is your assignment, Comrades. I will try to get reinforcements for you after the building is in your hands.",
+      "expected": "Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzi",
+      "translation": "Devido às nossas perdas devastadoras, coloquei em ação a Ordem 166: as ofensivas devem ser organizadas em pequenos grupos com submetralhadoras, granadas de mão e fuzis antitanque. Tomar este edifício é a sua missão, camaradas. Tentarei conseguir reforços depois que o edifício estiver em suas mãos.",
+      "reason": "Restaurar antitanque (anti-tank rifles) e a linha corrompida que interrompe o msgstr. Requer substituição raw."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "context": "mission/single/01-rus/1943_11_kiev/narrator/officer/06",
+      "source": "Watch out! There's an anti-tank gun at the end of this street!",
+      "expected": "Cuidado! Há um canhã",
+      "translation": "Cuidado! Há um canhão antitanque no final desta rua!",
+      "reason": "Restaurar antitanque (anti-tank gun) e remover a quebra de linha corrompida. Requer substituição raw."
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+      "context": "mission/single/03-fin/1944_10_tornio/narrator/officer/07",
+      "source": "Listen up, astoveri! Intelligence has reported that the German battle group in the area includes Panzer Battalion 211. Expect an attack with their armor, even if they're just some old captured French tanks. Scavenge as many Anti-tank weapons as possible, and prepare for the enemy attack.",
+      "expected": "Ouçam, astoveri! A inteligência informou que o grupo de batalha alemão na área inclui o Batalhão Panzer 211. Espere um ataque com seus blindados — mesmo que sejam apenas velhos tanques franceses capturados. Colete o máximo possível de arma",
+      "translation": "Ouçam, astoveri! A inteligência informou que o grupo de batalha alemão na área inclui o Batalhão Panzer 211. Esperem um ataque com seus blindados, mesmo que sejam apenas velhos tanques franceses capturados. Coletem o máximo possível de armas antitanque e preparem-se para o ataque inimigo.",
+      "reason": "Restaurar antitanque (Anti-tank weapons), reparar o msgstr quebrado e manter as ordens no plural, como Ouçam. astoveri permanece conforme a fonte, sujeito à revisão contextual posterior. Requer substituição raw."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_01",
+      "source": "You’re telling me they are so late because were dragging the damn orchestra?..",
+      "expected": "Está me dizendo que eles estão tão atrasados por causa dessa maldita orquestra que estamos arrastando?\"",
+      "translation": "Está me dizendo que eles se atrasaram tanto porque estavam arrastando a maldita orquestra?...",
+      "reason": "Remover a aspa extra e fazer estavam retomar eles; a fala se refere ao atraso dos reforços que chegam, não à orquestra dos defensores. Requer substituição raw."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_side_quest",
+      "source": "Optional activities will not be available after reporting to HQ. \n\nTo report to HQ, click on the specific button in the reinforcements tab. This button is shown when you're near to the hotel building.",
+      "expected": "msgstr \"As atividades opcionais não estarão disponíveis após reportar ao QG.\\n\\nPara reportar ao QG, clique no botão específico na <c(B29557)>aba de reforços</c>. Esse botão aparece quando você estiver próximo ao hotel.",
+      "translation": "As atividades opcionais não estarão disponíveis após você se apresentar ao QG. \n\nPara se apresentar ao QG, clique no botão correspondente na aba de reforços. Esse botão aparece quando você está perto do hotel.",
+      "reason": "Remover prefixo msgstr duplicado e tags de cor que não existem na fonte, mantendo a instrução e condição de disponibilidade. Requer substituição raw."
+    }
+  ]
+}

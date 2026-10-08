@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "locale": "pt_BR",
+  "policy": {
+    "source": "O pacote inglês identificado em source-manifest.json é a referência de conteúdo.",
+    "matching": "Relacionar arquivo, msgctxt e original/sourceSignature; um contexto pode ter fontes diferentes. Considerar inglês armazenado em msgstr. Nunca relacionar somente por contexto ou número da linha.",
+    "consistency": "Reutilizar uma decisão somente no mesmo sentido. Não substituir palavras indiscriminadamente.",
+    "names": "Preservar pessoas, modelos, designações, palavras-código e lemas; distinguir descritores de equipamento e apelidos usados como referência coletiva.",
+    "uncertainty": "Registrar dúvidas em vez de completar conteúdo por suposição ou corrigir fatos históricos do original silenciosamente.",
+    "dialogue": "Usar português natural, preservar urgência, destinatários e instruções; não inventar referências culturais brasileiras.",
+    "technical": "Preservar variáveis e estilos. Ajustes numéricos de posicionamento já existentes são permitidos, mas alterações na quantidade de marcadores exigem revisão.",
+    "status": "Revisão documental dos 362 pares concluída e anotações da primeira passagem reavaliadas em final-review-2026-10-07.json. Este glossário registra escolhas editoriais por sentido; não equivale a certificação de fatos históricos. Os casos dependentes de uso/tela/áudio permanecem separados, e o usuário adiou o teste dentro do jogo."
+  },
+  "terms": [
+    {
+      "source": "Pathfinder",
+      "translation": "precursor paraquedista",
+      "shortForm": "precursor",
+      "scope": "Equipes aerotransportadas que preparam e sinalizam zonas de lançamento; títulos e unidades correspondentes.",
+      "exceptions": "Não aplicar a batedores genéricos ou a nomes próprios.",
+      "evidence": [
+        "https://ebrevistas.eb.mil.br/REB/article/download/2558/2029/",
+        "https://www.armyupress.army.mil/Portals/7/educational-services/staff-rides/VSR/Normandy/Airborne-Assault/Normandy_Airborne_Walk_Book.pdf"
+      ]
+    },
+    {
+      "source": "Jerry",
+      "translation": "alemão / alemães",
+      "scope": "Diálogos em que é apelido coletivo do inimigo alemão; ajustar número e função gramatical.",
+      "exceptions": "Preservar Jerry nos nomes de pessoas. Jerry Can corresponde a jerricã.",
+      "status": "Política fechada para as ocorrências coletivas deste corpus: explicitar o referente com número e função gramatical corretos. Nomes de pessoas e recipientes foram conferidos separadamente. Não executar substituição global da palavra Jerry.",
+      "evidence": ["https://www.awm.gov.au/visit/exhibitions/1918/soldier/fritz"]
+    },
+    {
+      "source": "Halftrack",
+      "translation": "semilagarta",
+      "scope": "Tipo de veículo e descritores, mantendo os códigos e modelos.",
+      "rejected": ["semioruga", "semirreboque"],
+      "evidence": ["https://www.ea.com/pt-br/games/battlefield/news/weapons-vehicles-gadgets-reinforcements-list-battlefield-5"]
+    },
+    {
+      "source": "MG",
+      "translation": "metralhadora",
+      "shortForm": "MG",
+      "scope": "MG mantido nos rótulos compactos existentes.",
+      "exceptions": "Preservar integralmente designações como MG 34, MG 42 e MG 311(f). Validar espaço antes de expandir os rótulos."
+    },
+    {"source": "Hull", "translation": "casco", "scope": "Posição de arma: do casco."},
+    {"source": "Turret", "translation": "torreta", "scope": "Posição de arma: da torreta. Terminologia atual preservada neste lote."},
+    {"source": "Cupola", "translation": "cúpula", "scope": "Posição de arma: da cúpula; não confundir com a torreta inteira."},
+    {"source": "Radio beacon", "translation": "sinalizador de rádio", "shortForm": "sinalizador"},
+    {"source": "Sniper", "translation": "franco-atirador", "scope": "Rótulos de unidades, reforços e filtro de unidades; Elite Sniper é franco-atirador de elite, conservando a variante de qualidade.", "exceptions": "Atirador de elite é sinônimo narrativo válido. Não reduzir a atirador genérico nem aplicar a rifleman antitanque."},
+    {"source": "All-Round", "translation": "Versátil", "scope": "Mesmo seletor de doutrina e seus reforços; não aplicar a palavras general/general-purpose em outros sentidos."},
+    {"source": "Return fire", "translation": "Responder ao fogo", "scope": "Modo de tiro reativo; não equivale à ordem de contra-atacar."},
+    {"source": "Armor / armour", "translation": "blindagem / blindados", "scope": "Blindagem para material/espessura/proteção; blindados para os veículos/força militar. Tanques quando confirmados pelo contexto."},
+    {"source": "Howitzer / shell", "translation": "obuseiro / projétil (obús conforme o tipo)", "scope": "Distinguir peça de artilharia e munição; preservar códigos e modelos."},
+    {"source": "MP / SP", "translation": "multijogador / jogador único", "scope": "Filtros/tipos de mapa e compatibilidade de mods; MP não é o recurso de pontos de mão de obra nesses contextos."},
+    {"source": "2IC", "translation": "subcomandante", "scope": "Função de segundo no comando da companhia/seção indicada; não inventar patente nem interpretar como 2º comandante de lista."},
+    {"source": "Stick magazine", "translation": "carregador tipo caixa", "scope": "Oposto a drum/tambor; não inferir forma reta. PPSh-41 tem contexto próprio, diferente da Thompson."},
+    {"source": "Partisan", "translation": "guerrilheiro / partisano", "scope": "Combatente irregular/resistência; não partidário político. Registro narrativo e identidade iugoslava podem justificar partisano."},
+    {"source": "Ostfront / Talvisota / Liberation / Airborne / Finest Hour / Jubilee / Supporter Pack / Scorched Earth", "translation": "Preservar títulos comerciais", "scope": "Identificação de DLC/pacote; palavras comuns em fala ou descrição geográfica não seguem automaticamente essa regra."},
+    {"source": "Anti-tank", "translation": "antitanque", "shortForm": "AT", "scope": "Abreviação mantida apenas nos rótulos compactos existentes; preservar modelos."},
+    {"source": "Approach", "translation": "acesso / via de acesso", "scope": "Via pela qual se chega a uma posição militar."},
+    {"source": "Form up", "translation": "entrar em formação / reunir-se em formação", "scope": "Ordens militares; ajustar destinatários."},
+    {"source": "Collaborator", "translation": "colaboracionista", "scope": "Pessoa que ajuda a força de ocupação."},
+    {"source": "101st Airborne Division", "translation": "101ª Divisão Aerotransportada"},
+    {"source": "Conquest", "translation": "Conquista", "scope": "Modo de jogo."},
+    {"source": "Flash / Thunder", "translation": "Relâmpago / Trovão", "scope": "Par de palavras-código existente preservado conjuntamente."},
+    {"source": "Booze", "translation": "bebida / bebida alcoólica", "exceptions": "Não inventar cachaça ou outra bebida regional que o original não identifica."},
+    {"source": "Squad", "translation": "esquadra", "scope": "Interface e pequenos grupos de infantaria do jogo. Quando o original identifica Section, Platoon, Company, Battalion ou Brigade, preservar a distinção: seção, pelotão, companhia, batalhão ou brigada. A tradução de um grupo do jogo não certifica equivalência formal com organização militar brasileira."},
+    {"source": "Kraut / Krauts", "translation": "Kraut / Krauts", "scope": "Epíteto pejorativo nas falas em que já marca a voz do original; alemão/alemães também pode explicitar o referente em instrução funcional. Não traduzir como alimento, não inventar insulto regional e não alterar sobrenomes como Kraeutler.", "evidence": ["https://www.merriam-webster.com/dictionary/kraut"]},
+    {"source": "NCO", "translation": "graduado (NCO)", "scope": "Categoria ampla, não patente brasileira específica. Não converter automaticamente para sargento ou suboficial. Patentes e funções estrangeiras específicas, como First Sergeant, Staff Sergeant, Hauptfeldwebel e Sergeant Major, são preservadas quando a equivalência não é demonstrada.", "evidence": ["https://www.army.mil/ranks/"]},
+    {"source": "Ammo Bearer", "translation": "portador de munição", "scope": "Papel de apoio; indicar fuzil automático ou metralhadora quando a fonte distingue. Não confundir com o carregador da arma."},
+    {"source": "Airlanding / Glider", "translation": "aerotransportada (planadores) / infantaria de planadores", "scope": "Tropas desembarcadas por planador. Não confundir com paraquedistas nem inventar batalhão, brigada ou divisão a partir de prefixo abreviado. Identidades expandidas somente com associação comprovada ao jogo."},
+    {"source": "1st Parachute [CA] / [PSZ]", "translation": "1º Batalhão Paraquedista Canadense / 1ª Brigada Paraquedista Polonesa", "scope": "Associação confirmada nos arquivos set/multiplayer/units/late/units_eng.set e breeds do jogo da versão de referência; não é número ordinal de cada companhia/seção."},
+    {"source": "Jääkäri / Jäger / Jaeger / Jägar / Sissi", "translation": "Preservar grafia e identidade da fonte", "scope": "Formações finlandesas; traduzir descritores genéricos como Border, HQ e w/, sem impor grafia alemã a todas as variantes."},
+    {"source": "Carrier Section", "translation": "seção de Carriers", "scope": "Tipo de seção equipada com veículos Carrier. Não traduzir como seção ocasionalmente embarcada. Modelo Bren/Universal só é especificado quando comprovado."},
+    {"source": "Shot / Gun / Carriage / Stand / Mount", "translation": "projétil / canhão / reparo / suporte / suporte ou reparo", "scope": "Escolha pelo objeto: Lewis Gun é metralhadora Lewis; Grease Gun é apelido preservado. Manter modelos, códigos de munição, Mk., calibres e designações compostas como 77mm HV."},
+    {"source": "Shielded T-34", "translation": "T-34 com blindagem adicional", "scope": "Entidade t3476_41e e rótulos relacionados; volumes de blindagem externa comprovados na configuração, sem inventar novo calibre ou modelo."},
+    {"source": "MP (Manpower)", "translation": "PM nos rótulos atuais de pontos de efetivo", "scope": "Recurso do jogo; sigla alinhada à interface. Não confundir com MP de multijogador em filtros ou mapas."},
+    {"source": "Hell's Highway", "translation": "Rodovia do Inferno", "scope": "Apelido da Rodovia 69 nas missões Market Garden e mapa correspondente; não nome de rota diferente."}
+  ],
+  "pendingDecisions": [],
+  "sourceIssues": [
+    {"context": "info/entity/kv2", "reason": "O original descreve o canhão do KV-2 como 122 mm. A tradução preserva o dado; não é aprovação da alegação histórica."},
+    {"records": "translation/final-review-2026-10-07.json#sourceIssues", "reason": "Demais alegações, atribuições e identificações problemáticas pertencentes ao inglês são registradas separadamente; não foram corrigidas silenciosamente."}
+  ],
+  "usageChecks": {"records": "translation/final-review-2026-10-07.json#gameEvidenceChecklist", "status": "Teste de controles do editor, rótulos legados, fragmentos e falas ainda sem confirmação de uso/tela/áudio. Teste dentro do jogo adiado pelo usuário."}
+}

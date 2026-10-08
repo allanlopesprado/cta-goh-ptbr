@@ -34,7 +34,7 @@ msgstr "  A Operação Market Garden, um audacioso ataque combinado do 1º Exér
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/outro_completed"
 msgid "Great job! This mission was difficult, but you have overcome incredible odds. The crossing was murderous, but the Nijmegen Bridge is secure, and it’s the 82nd that did it! "
-msgstr "Ótimo trabalho! Esta missão foi difícil, mas você superou probabilidades incríveis. A travessia foi mortal, mas a Ponte de Nijmegen está assegurada, e foi a 82ª que o fez!"
+msgstr "Ótimo trabalho! Esta missão foi difícil, mas você superou enormes adversidades. A travessia foi mortal, mas a Ponte de Nijmegen está assegurada, e foi a 82ª que o fez!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/outro_failed"
 msgid "We can’t afford failure here! That bridge is the one thing we need to secure - there is no way around it. We must go in again; this time, we must take it at any cost or risk the whole operation failing."
@@ -46,7 +46,7 @@ msgstr "Certo, soldados! Nosso objetivo está à nossa frente, a ponte do Waal!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator03"
 msgid "We need to eliminate German strong points in the area. Secure St. Steven's church, the main intersection, and the docks."
-msgstr "Precisamos eliminar os pontos fortes alemães na área. Assegure a Igreja de St. Steven, o cruzamento principal e os cais."
+msgstr "Precisamos eliminar as posições fortificadas alemãs na área. Assegure a Igreja de St. Steven, o cruzamento principal e os cais."
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator04"
 msgid "Even after the bombardment, German resistance is stronger than expected. We need to find another direction to approach the bridge."
@@ -62,7 +62,7 @@ msgstr "Conseguimos atravessar! Vamos limpar a área e assegurar a margem do rio
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator07"
 msgid "Good work! Now we can cut the Germans off by capturing the northern side of the bridge!"
-msgstr "Bom trabalho! Agora podemos cortar os alemães capturando o lado norte da ponte!"
+msgstr "Bom trabalho! Agora podemos isolar os alemães capturando o lado norte da ponte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/narrator08"
 msgid "Those 88s are between us and the bridge! Let's knock 'em out!"
@@ -94,7 +94,7 @@ msgstr "Eles receberam o rumo. Ataque aéreo a caminho!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task01"
 msgid "Eliminate German strong-points!"
-msgstr "Elimine os pontos fortes alemães!"
+msgstr "Elimine as posições fortificadas alemãs!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_01_nijmegen/task01a"
 msgid "Hold the church!"

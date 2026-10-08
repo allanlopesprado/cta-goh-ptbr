@@ -78,7 +78,7 @@ msgstr "7.92mm AT Cartuchos"
 
 msgctxt "desc/ammo/bullet_20_auto aphe"
 msgid "20mm Aircraft [<c(ff6a00)>APHE</c>]"
-msgstr "20mm Aircraft [<c(ff6a00)>APHE</c>]"
+msgstr "20mm de aeronave [<c(ff6a00)>APHE</c>]"
 
 msgctxt "desc/ammo/bullet_37x149 ger apc"
 msgid "3.7cm PzGr.146(f) [<c(ff6a00)>APC</c>] <c(65696d)>L/33</c>"
@@ -282,7 +282,7 @@ msgstr "7.5cm SprGr.42 [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulletger_88_l56 aa"
 msgid "8.8cm Fused [AA] <c(65696d)>L/56</c>"
-msgstr "8.8cm Fused [AA] <c(65696d)>L/56</c>"
+msgstr "8.8cm com espoleta [AA] <c(65696d)>L/56</c>"
 
 msgctxt "desc/ammo/bulletger_88_l56 apcbche2"
 msgid "8.8cm PzGr. [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/56</c>"
@@ -578,7 +578,7 @@ msgstr "7.92mm Mauser Cartuchos"
 
 msgctxt "desc/ammo/shotgun"
 msgid "Shotgun Shells"
-msgstr "Projéteis de Shotgun"
+msgstr "Cartuchos de Espingarda"
 
 msgctxt "desc/ammo/stg44"
 msgid "7.92mm-K. MP-44 Magazine"

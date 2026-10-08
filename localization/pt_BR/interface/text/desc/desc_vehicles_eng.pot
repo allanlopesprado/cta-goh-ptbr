@@ -230,7 +230,7 @@ msgstr "<c(c3baae)>Carro Blindado</c>"
 
 msgctxt "desc/entity/daimler_mk2_mid"
 msgid "Daimler Mk.II (Mid)"
-msgstr "Daimler Mk.II (Mid)"
+msgstr "Daimler Mk.II (Intermediário)"
 
 msgctxt "info/special/daimler_mk2_mid"
 msgid "<c(c3baae)>Armoured Car</c>"
@@ -278,35 +278,35 @@ msgstr "<c(c3baae)>Carro Explorador</c>"
 
 msgctxt "desc/entity/m5_halftrack"
 msgid "M5 Halftrack"
-msgstr "M5 Meia-lagarta"
+msgstr "M5 Semilagarta"
 
 msgctxt "info/special/m5_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m5_halftrack_at"
 msgid "M5 Halftrack"
-msgstr "M5 Meia-lagarta"
+msgstr "M5 Semilagarta"
 
 msgctxt "info/special/m5_halftrack_at"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m5a1_halftrack"
 msgid "M5A1 Halftrack"
-msgstr "M5A1 Meia-lagarta"
+msgstr "M5A1 Semilagarta"
 
 msgctxt "info/special/m5a1_halftrack"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/m5a1_halftrack_at"
 msgid "M5A1 Halftrack"
-msgstr "M5A1 Meia-lagarta"
+msgstr "M5A1 Semilagarta"
 
 msgctxt "info/special/m5a1_halftrack_at"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/mmg_carrier_mk1"
 msgid "Machine Gun Carrier Mk.I"
@@ -474,7 +474,7 @@ msgstr "Cromwell Mk.IV"
 
 msgctxt "info/special/cromwell4"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/cromwell4_tulip"
 msgid "Cromwell Mk.IV 'Tulip'"
@@ -482,7 +482,7 @@ msgstr "Cromwell Mk.IV 'Tulip'"
 
 msgctxt "info/special/cromwell4_tulip"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/cromwell5"
 msgid "Cromwell Mk.V"
@@ -490,7 +490,7 @@ msgstr "Cromwell Mk.V"
 
 msgctxt "info/special/cromwell5"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/cromwell6"
 msgid "Cromwell Mk.VI CS"
@@ -498,7 +498,7 @@ msgstr "Cromwell Mk.VI CS"
 
 msgctxt "info/special/cromwell6"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/cromwell7"
 msgid "Cromwell Mk.VII"
@@ -506,7 +506,7 @@ msgstr "Cromwell Mk.VII"
 
 msgctxt "info/special/cromwell7"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/cromwell8"
 msgid "Cromwell Mk.VIII CS"
@@ -514,7 +514,7 @@ msgstr "Cromwell Mk.VIII CS"
 
 msgctxt "info/special/cromwell8"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/comet1_a34"
 msgid "Comet I"
@@ -522,7 +522,7 @@ msgstr "Comet I"
 
 msgctxt "info/special/comet1_a34"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/challenger_a30"
 msgid "Challenger"
@@ -530,7 +530,7 @@ msgstr "Challenger"
 
 msgctxt "info/special/challenger_a30"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/sherman1"
 msgid "Sherman I (Late)"
@@ -598,7 +598,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman2_dv"
 msgid "Sherman II (Early DV)"
-msgstr "Sherman II (Early DV)"
+msgstr "Sherman II (Inicial DV)"
 
 msgctxt "info/special/sherman2_dv"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -622,7 +622,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman3_dv"
 msgid "Sherman III (Early DV)"
-msgstr "Sherman III (Early DV)"
+msgstr "Sherman III (Inicial DV)"
 
 msgctxt "info/special/sherman3_dv"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -630,7 +630,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman3_dv_armor"
 msgid "Sherman III (Early DV) (Armor)"
-msgstr "Sherman III (Early DV) (Armor)"
+msgstr "Sherman III (Inicial DV) (Blindagem)"
 
 msgctxt "info/special/sherman3_dv_armor"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -646,7 +646,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman3_early_armor"
 msgid "Sherman III (Early) (Armor)"
-msgstr "Sherman III (Early) (Armor)"
+msgstr "Sherman III (Inicial) (Blindagem)"
 
 msgctxt "info/special/sherman3_early_armor"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -662,7 +662,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman3_mid"
 msgid "Sherman III (Mid)"
-msgstr "Sherman III (Mid)"
+msgstr "Sherman III (Intermediário)"
 
 msgctxt "info/special/sherman3_mid"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -670,7 +670,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/sherman3_mid_armor"
 msgid "Sherman III (Mid) (Armor)"
-msgstr "Sherman III (Mid) (Armor)"
+msgstr "Sherman III (Intermediário) (Blindagem)"
 
 msgctxt "info/special/sherman3_mid_armor"
 msgid "<c(c3baae)>Medium Tank</c>"
@@ -976,9 +976,9 @@ msgctxt "desc/entity/81mm_ml3_mortar_barrage"
 msgid "Medium Mortar Barrage"
 msgstr "Barragem de Morteiro Médio"
 
-msgctxt "info/squad/81mm_ml3_mortar_barrage"
+msgctxt "desc/squad/81mm_ml3_mortar_barrage"
 msgid "ML 3-inch Mortar"
-msgstr "ML 3-inch Morteiro"
+msgstr "Morteiro ML 3-inch"
 
 msgctxt "desc/entity/107mm_ml4_2"
 msgid "ML 4.2-inch Mortar"
@@ -1046,7 +1046,7 @@ msgstr "<c(c3baae)>Canhão AT Leve</c>"
 
 msgctxt "desc/entity/40mm_qf2_mid"
 msgid "QF 2-pdr (Mid)"
-msgstr "QF 2-pdr (Mid)"
+msgstr "QF 2-pdr (Intermediário)"
 
 msgctxt "info/special/40mm_qf2_mid"
 msgid "<c(c3baae)>Light AT Gun</c>"
@@ -1062,7 +1062,7 @@ msgstr "<c(c3baae)>Canhão AT Leve</c>"
 
 msgctxt "desc/entity/40mm_qf2_littlejohn_mid"
 msgid "QF 2-pdr 'Littlejohn' (Mid)"
-msgstr "QF 2-pdr 'Littlejohn' (Mid)"
+msgstr "QF 2-pdr 'Littlejohn' (Intermediário)"
 
 msgctxt "info/special/40mm_qf2_littlejohn_mid"
 msgid "<c(c3baae)>Light AT Gun</c>"
@@ -1126,11 +1126,11 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/75mm_m1a1_eng"
 msgid "75mm M1A1 (M8 Carriage)"
-msgstr "75mm M1A1 (M8 Carriage)"
+msgstr "75mm M1A1 (Reparo M8)"
 
 msgctxt "info/special/75mm_m1a1_eng"
 msgid "<c(c3baae)>Light Pack Howitzer</c>"
-msgstr "<c(c3baae)>Obuseiro de Pacote Leve</c>"
+msgstr "<c(c3baae)>Obuseiro Leve Desmontável</c>"
 
 msgctxt "desc/entity/76mm_qf17_early"
 msgid "QF 17-pdr"
@@ -1254,7 +1254,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/94mm_qf_3_7_aa_mid"
 msgid "QF 3.7-inch AA (Mid)"
-msgstr "QF 3.7-inch AA (Mid)"
+msgstr "QF 3.7-inch AA (Intermediário)"
 
 msgctxt "info/special/94mm_qf_3_7_aa_mid"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -1326,7 +1326,7 @@ msgstr "<c(c3baae)>Canhão de Campo Médio</c>"
 
 msgctxt "desc/entity/140mm_bl_5_5_late"
 msgid "BL 5.5-inch Mk.III Gun (Late)"
-msgstr "BL 5.5-inch Mk.III Gun (Tardio)"
+msgstr "Canhão BL 5.5-inch Mk.III (Tardio)"
 
 msgctxt "info/special/140mm_bl_5_5_late"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -1390,7 +1390,7 @@ msgstr "<c(c3baae)>Obuseiro Pesado</c>"
 
 msgctxt "desc/entity/mimosa"
 msgid "Motor Yacht"
-msgstr "Iate a Motorizado"
+msgstr "Iate Motorizado"
 
 msgctxt "info/special/mimosa"
 msgid "<c(c3baae)>Boat</c>"
@@ -1398,7 +1398,7 @@ msgstr "<c(c3baae)>Bote</c>"
 
 msgctxt "desc/entity/drifter_eng"
 msgid "Naval Drifter"
-msgstr "Naval Drifter"
+msgstr "Embarcação Naval do tipo Drifter"
 
 msgctxt "info/special/drifter_eng"
 msgid "<c(c3baae)>Boat</c>"
@@ -1482,7 +1482,7 @@ msgstr "Cruiser Mk.IVA"
 
 msgctxt "info/special/cruiser_mk4a"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_mk1"
 msgid "Crusader Mk.I"
@@ -1490,7 +1490,7 @@ msgstr "Crusader Mk.I"
 
 msgctxt "info/special/crusader_mk1"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_mk1_cs"
 msgid "Crusader Mk.I CS"
@@ -1498,7 +1498,7 @@ msgstr "Crusader Mk.I CS"
 
 msgctxt "info/special/crusader_mk1_cs"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_mk2"
 msgid "Crusader Mk.II"
@@ -1506,7 +1506,7 @@ msgstr "Crusader Mk.II"
 
 msgctxt "info/special/crusader_mk2"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_mk2_cs"
 msgid "Crusader Mk.II CS"
@@ -1514,7 +1514,7 @@ msgstr "Crusader Mk.II CS"
 
 msgctxt "info/special/crusader_mk2_cs"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_mk3"
 msgid "Crusader Mk.III"
@@ -1522,7 +1522,7 @@ msgstr "Crusader Mk.III"
 
 msgctxt "info/special/crusader_mk3"
 msgid "<c(c3baae)>Cruiser Tank</c>"
-msgstr "<c(c3baae)>Tanque de Cruzador</c>"
+msgstr "<c(c3baae)>Tanque Cruzador</c>"
 
 msgctxt "desc/entity/crusader_aa_mk1"
 msgid "Crusader Mk.III AA Mk.I"

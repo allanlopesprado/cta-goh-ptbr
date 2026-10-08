@@ -46,8 +46,7 @@ msgstr "Tanque Tiger, vindo do leste!"
 
 msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/06"
 msgid "Watch out! There's an anti-tank gun at the end of this street!"
-msgstr "Cuidado! Há um canhão 
-e no final desta rua!"
+msgstr "Cuidado! Há um canhão antitanque no final desta rua!"
 
 msgctxt "mission/single/01-rus/1943_11_kiev/narrator/officer/07"
 msgid "Great work, Soldiers!"
@@ -103,7 +102,7 @@ msgstr "Gaz-AAA Suprimentos"
 
 msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t34"
 msgid "Shielded T-34"
-msgstr "Shielded T-34"
+msgstr "T-34 com blindagem adicional"
 
 msgctxt "mission/single/01-rus/1943_11_kiev/reinf_t50"
 msgid "T-60"

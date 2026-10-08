@@ -50,7 +50,7 @@ msgstr "Sd.Kfz 7/1 (2cm)"
 
 msgctxt "info/special/sdkfz7_1"
 msgid "<c(c3baae)>AA Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga AA</c>"
+msgstr "<c(c3baae)>Semilagarta AA</c>"
 
 msgctxt "desc/entity/50mm_kwk39_platform"
 msgid "5cm KwK 39 L/60"
@@ -734,7 +734,7 @@ msgstr "<c(c3baae)>Carro Blindado</c>"
 
 msgctxt "desc/entity/p204_f_rail"
 msgid "Pz.SpW. P204(f) Rail"
-msgstr "Pz.SpW. P204(f) Rail"
+msgstr "Pz.SpW. P204(f) (Ferroviário)"
 
 msgctxt "info/special/p204_f_rail"
 msgid "<c(c3baae)>Armored Railcar</c>"
@@ -1058,7 +1058,7 @@ msgstr "Sd.Kfz 6/2 (3.7cm FlaK)"
 
 msgctxt "info/special/sdkfz6_2"
 msgid "<c(c3baae)>AA Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga AA</c>"
+msgstr "<c(c3baae)>Semilagarta AA</c>"
 
 msgctxt "desc/entity/sdkfz6_cargo"
 msgid "Sd.Kfz 6"
@@ -1066,7 +1066,7 @@ msgstr "Sd.Kfz 6"
 
 msgctxt "info/special/sdkfz6_cargo"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/sdkfz7"
 msgid "Sd.Kfz 7 (Transport)"
@@ -1074,7 +1074,7 @@ msgstr "Sd.Kfz 7 (Transporte)"
 
 msgctxt "info/special/sdkfz7"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/sdkfz7_2"
 msgid "Sd.Kfz 7/2 (3.7cm FlaK)"
@@ -1082,7 +1082,7 @@ msgstr "Sd.Kfz 7/2 (3.7cm FlaK)"
 
 msgctxt "info/special/sdkfz7_2"
 msgid "<c(c3baae)>AA Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga AA</c>"
+msgstr "<c(c3baae)>Semilagarta AA</c>"
 
 msgctxt "desc/entity/sdkfz8_flak18"
 msgid "Sd.Kfz 8 (8.8cm)"
@@ -1106,7 +1106,7 @@ msgstr "Sd.Kfz 10/4 (2cm)"
 
 msgctxt "info/special/sdkfz10_4"
 msgid "<c(c3baae)>AA Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga AA</c>"
+msgstr "<c(c3baae)>Semilagarta AA</c>"
 
 msgctxt "desc/entity/sdkfz10_pak38"
 msgid "Sd.Kfz 10 (5cm PaK)"
@@ -1194,7 +1194,7 @@ msgstr "Sd.Kfz 250/1"
 
 msgctxt "info/special/sdkfz250a_1"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz250a_3"
 msgid "Sd.Kfz 250/3"
@@ -1202,7 +1202,7 @@ msgstr "Sd.Kfz 250/3"
 
 msgctxt "info/special/sdkfz250a_3"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz250a_7"
 msgid "Sd.Kfz 250/7 (8cm GrW)"
@@ -1210,7 +1210,7 @@ msgstr "Sd.Kfz 250/7 (8cm GrW)"
 
 msgctxt "info/special/sdkfz250a_7"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz250a_9"
 msgid "Sd.Kfz 250/9 (2cm)"
@@ -1218,7 +1218,7 @@ msgstr "Sd.Kfz 250/9 (2cm)"
 
 msgctxt "info/special/sdkfz250a_9"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz250a_10"
 msgid "Sd.Kfz 250/10 (3.7cm PaK)"
@@ -1226,7 +1226,7 @@ msgstr "Sd.Kfz 250/10 (3.7cm PaK)"
 
 msgctxt "info/special/sdkfz250a_10"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz250a_11"
 msgid "Sd.Kfz 250/11 (sPzB 41)"
@@ -1234,7 +1234,7 @@ msgstr "Sd.Kfz 250/11 (sPzB 41)"
 
 msgctxt "info/special/sdkfz250a_11"
 msgid "<c(c3baae)>Light Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Leve</c>"
+msgstr "<c(c3baae)>Semilagarta Leve</c>"
 
 msgctxt "desc/entity/sdkfz251b"
 msgid "Sd.Kfz 251/1 Ausf. B"
@@ -1242,7 +1242,7 @@ msgstr "Sd.Kfz 251/1 Ausf. B"
 
 msgctxt "info/special/sdkfz251b"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/sdkfz251c"
 msgid "Sd.Kfz 251/1 Ausf. C"
@@ -1250,7 +1250,7 @@ msgstr "Sd.Kfz 251/1 Ausf. C"
 
 msgctxt "info/special/sdkfz251c"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz251c_2"
 msgid "Sd.Kfz 251/2 (8cm GrW)"
@@ -1258,7 +1258,7 @@ msgstr "Sd.Kfz 251/2 (8cm GrW)"
 
 msgctxt "info/special/sdkfz251c_2"
 msgid "<c(c3baae)>Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga</c>"
+msgstr "<c(c3baae)>Semilagarta</c>"
 
 msgctxt "desc/entity/sdkfz251c_tarp"
 msgid "Sd.Kfz 251/1 Ausf. C"
@@ -1266,7 +1266,7 @@ msgstr "Sd.Kfz 251/1 Ausf. C"
 
 msgctxt "info/special/sdkfz251c_tarp"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz251d_1"
 msgid "Sd.Kfz 251/1 Ausf. D"
@@ -1274,7 +1274,7 @@ msgstr "Sd.Kfz 251/1 Ausf. D"
 
 msgctxt "info/special/sdkfz251d_1"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz302"
 msgid "Sd.Kfz 302"
@@ -1422,15 +1422,15 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/h39_turret"
 msgid "H39 Turret"
-msgstr "H39 Turret"
+msgstr "Torreta H39"
 
 msgctxt "info/special/h39_turret"
 msgid "<c(c3baae)>Turret Emplacement</c>"
-msgstr "<c(c3baae)>Posição de Torrreta</c>"
+msgstr "<c(c3baae)>Posição de Torreta</c>"
 
 msgctxt "desc/entity/mgun_ring"
 msgid "MG42 Mount"
-msgstr "MG42 Mount"
+msgstr "Suporte para MG42"
 
 msgctxt "info/special/mgun_ring"
 msgid "<c(c3baae)>Ringstadt</c>"
@@ -1514,7 +1514,7 @@ msgstr "Sd.Kfz 251/1 Ausf. D (Wurfrahmen 40)"
 
 msgctxt "info/special/sdkfz251d_1_stuka"
 msgid "<c(c3baae)>Rocket Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga de Foguetes</c>"
+msgstr "<c(c3baae)>Semilagarta de Foguetes</c>"
 
 msgctxt "desc/entity/sdkfz251d_16"
 msgid "Sd.Kfz 251/16 Ausf. D (14mm Flamm)"
@@ -1522,7 +1522,7 @@ msgstr "Sd.Kfz 251/16 Ausf. D (14mm Flamm)"
 
 msgctxt "info/special/sdkfz251d_16"
 msgid "<c(c3baae)>Flame Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Lança-chamas</c>"
+msgstr "<c(c3baae)>Semilagarta Lança-chamas</c>"
 
 msgctxt "desc/entity/sdkfz251d_17"
 msgid "Sd.Kfz 251/17 Ausf. D (2cm)"
@@ -1530,7 +1530,7 @@ msgstr "Sd.Kfz 251/17 Ausf. D (2cm)"
 
 msgctxt "info/special/sdkfz251d_17"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz251d_21"
 msgid "Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
@@ -1538,7 +1538,7 @@ msgstr "Sd.Kfz 251/21 Ausf. D (15mm Drilling)"
 
 msgctxt "info/special/sdkfz251d_21"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz251d_22"
 msgid "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
@@ -1546,7 +1546,7 @@ msgstr "Sd.Kfz 251/22 Ausf. D (7.5cm PaK 40)"
 
 msgctxt "info/special/sdkfz251d_22"
 msgid "<c(c3baae)>Medium Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga Médio</c>"
+msgstr "<c(c3baae)>Semilagarta Médio</c>"
 
 msgctxt "desc/entity/sdkfz6_ammo"
 msgid "Sd.Kfz 6 (Supply)"
@@ -1554,7 +1554,7 @@ msgstr "Sd.Kfz 6 (Suprimentos)"
 
 msgctxt "info/special/sdkfz6_ammo"
 msgid "<c(c3baae)>Ammo Halftrack</c>"
-msgstr "<c(c3baae)>Semioruga de Munição</c>"
+msgstr "<c(c3baae)>Semilagarta de Munição</c>"
 
 msgctxt "desc/entity/kfz70"
 msgid "Kfz.70 (Transport)"

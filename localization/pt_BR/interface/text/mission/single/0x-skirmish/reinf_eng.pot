@@ -106,7 +106,7 @@ msgstr "Esquadra de Fuzileiros Pesados"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/pioneer_sq"
 msgid "Pioneer squad"
-msgstr "Esquadra Pioneiro"
+msgstr "Esquadra de Pioneiros"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/commando_sq"
 msgid "Commando squad"
@@ -142,11 +142,11 @@ msgstr "Caminhão de Engenharia"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/truck_and_armoredinf"
 msgid "Armored Infantry(halftrack)"
-msgstr "Infantaria Blindada (half-track)"
+msgstr "Infantaria Blindada (semilagarta)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/gdsmot_sq"
 msgid "Guards AD. Motorized(halftrack)"
-msgstr "Motorizada da Guarda (half-track)"
+msgstr "Unidade motorizada da Divisão Blindada da Guarda (semilagarta)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/vickers_mg"
 msgid "Vickers Mk.I"
@@ -206,7 +206,7 @@ msgstr "Cruiser A13 Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3_early"
 msgid "ML 3-inch Mortar (Early)"
-msgstr "ML 3-inch Morteiro (Inicial)"
+msgstr "Morteiro ML 3-inch (inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikon"
 msgid "Oerlikon No.2 UM"
@@ -238,11 +238,11 @@ msgstr "QF 3.7-inch AA (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden"
 msgid "QF 4.5inch Howitzer"
-msgstr "QF 4.5inch Obuseiro"
+msgstr "Obuseiro QF 4.5inch"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden_tow"
 msgid "QF 4.5inch Howitzer(towed)"
-msgstr "QF 4.5inch Obuseiro (rebocado)"
+msgstr "Obuseiro QF 4.5inch (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf40_early"
 msgid "QF 40mm Mk.III (Early)"
@@ -262,15 +262,15 @@ msgstr "QF 18-pdr Mk.V"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_how_early"
 msgid "QF 3.7-inch Howitzer (Early)"
-msgstr "QF 3.7-inch Obuseiro (Inicial)"
+msgstr "Obuseiro QF 3.7-inch (inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6"
 msgid "BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "BL 6-inch 26-cwt Obuseiro Mk.I"
+msgstr "Obuseiro BL 6-inch 26-cwt Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6_mk19"
 msgid "BL 6-Inch Mk. XIX Gun"
-msgstr "BL 6-Inch Mk. XIX Gun"
+msgstr "Canhão BL 6-Inch Mk. XIX"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk1_4p"
 msgid "QF 25-pdr Mk.I"
@@ -278,7 +278,7 @@ msgstr "QF 25-pdr Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/203mm_bl_8"
 msgid "BL 8-inch Howitzer Mk.VIII"
-msgstr "BL 8-inch Obuseiro Mk.VIII"
+msgstr "Obuseiro BL 8-inch Mk.VIII"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/m18_hellcat"
 msgid "M18 'Hellcat'"
@@ -342,11 +342,11 @@ msgstr "Sherman Ic"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sherman1c_hybrid"
 msgid "Sherman Ic Hybrid"
-msgstr "Sherman Ic Hybrid"
+msgstr "Sherman Ic Híbrido"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sherman2_late"
 msgid "Sherman II (Late)"
-msgstr "Sherman II (Late)"
+msgstr "Sherman II (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sherman5_mid"
 msgid "Sherman V"
@@ -398,7 +398,7 @@ msgstr "Achilles Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4_late"
 msgid "QF 6-pdr Mk.IV(late)"
-msgstr "QF 6-pdr Mk.IV(late)"
+msgstr "QF 6-pdr Mk.IV (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4"
 msgid "QF 6-pdr Mk.IV"
@@ -410,15 +410,15 @@ msgstr "QF 17-pdr"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/76mm_qf17_late"
 msgid "QF 17-pdr(late)"
-msgstr "QF 17-pdr(late)"
+msgstr "QF 17-pdr (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3"
 msgid "ML 3-inch Mortar"
-msgstr "ML 3-inch Morteiro"
+msgstr "Morteiro ML 3-inch"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/107mm_ml4_2"
 msgid "ML 4.2-inch Mortar"
-msgstr "ML 4.2-inch Morteiro"
+msgstr "Morteiro ML 4.2-inch"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/76mm_land_mattress"
 msgid "Land Mattress"
@@ -426,31 +426,31 @@ msgstr "Land Mattress"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/75mm_m1a1_eng"
 msgid "75mm M1A1 (M8 Carriage)"
-msgstr "75mm M1A1 (M8 Carriage)"
+msgstr "75mm M1A1 (reparo M8)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk2_late"
 msgid "QF 25-pdr Mk.II (Late)"
-msgstr "QF 25-pdr Mk.II (Late)"
+msgstr "QF 25-pdr Mk.II (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5"
 msgid "BL 4.5-inch Mk.II Gun"
-msgstr "BL 4.5-inch Mk.II Gun"
+msgstr "Canhão BL 4.5-inch Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5_mk1"
 msgid "BL 4.5-inch Mk.I Gun"
-msgstr "BL 4.5-inch Mk.I Gun"
+msgstr "Canhão BL 4.5-inch Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/155mm_m1a1_longtom_eng"
 msgid "155mm Gun M1A1 'Long Tom'"
-msgstr "155mm Gun M1A1 'Long Tom'"
+msgstr "Canhão M1A1 de 155mm 'Long Tom'"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/183mm_bl_7_2_mk6"
 msgid "BL 7.2-inch Howitzer Mk.VI"
-msgstr "BL 7.2-inch Obuseiro Mk.VI"
+msgstr "Obuseiro BL 7.2-inch Mk.VI"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_late"
 msgid "BL 5.5-inch Mk.III Gun"
-msgstr "BL 5.5-inch Mk.III Gun"
+msgstr "Canhão BL 5.5-inch Mk.III"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_latetow"
 msgid "BL 5.5-inch Mk.III(towed)"
@@ -462,7 +462,7 @@ msgstr "Seção da 7ª Div. Blindada"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/engineer_sq"
 msgid "Royal Engineer Sappers"
-msgstr "Sapadores Engenheiros Reais"
+msgstr "Sapadores dos Engenheiros Reais"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/roy_marine_sq"
 msgid "Royal Marines squad"
@@ -470,15 +470,15 @@ msgstr "Esquadra de Fuzileiros Navais Reais"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/6thairborne_sq"
 msgid "6th Airlanding squad"
-msgstr "Esquadra Aerotransportada da 6ª"
+msgstr "Esquadra da 6ª Aerotransportada (Planadores)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/polpara_sq"
 msgid "1st Parachute squad"
-msgstr "1º Esquadra Paraquedista"
+msgstr "Esquadra da 1ª Brigada Paraquedista Polonesa"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/gdseng_sq"
 msgid "Guards AD. Engineer squad"
-msgstr "Engenharia Blindada da Guarda"
+msgstr "Esquadra de Engenheiros da Divisão Blindada da Guarda"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sas_sq"
 msgid "SAS squad"

@@ -34,11 +34,11 @@ msgstr "Reforços"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00"
 msgid "Soldaten! Welcome back to the front line! Today you will learn advanced strategies like requesting reinforcements from HQ and using support weaponry like the artillery signaller."
-msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão estratégias avançadas como solicitar reforços do QG e usar armamento de suporte como o sinalizador de artilharia."
+msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão estratégias avançadas como solicitar reforços do QG e usar meios de apoio como o sinaleiro de artilharia."
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00a"
 msgid "First, call in a 'Rifle Squad'. Once they arrive, order them into the trenches."
-msgstr "Primeiro, chame um 'Esquadra de Fuzileiros'. Quando chegarem, ordene-os para as trincheiras."
+msgstr "Primeiro, chame uma 'Esquadra de Fuzileiros'. Quando chegarem, ordene que seus soldados ocupem as trincheiras."
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/00c"
 msgid "Excellent! New units are available to reinforce your defenses!"
@@ -50,7 +50,7 @@ msgstr "Ao passar o cursor sobre cada botão de reforço, você verá informaç�
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/reinf_info5"
 msgid "Currently, the Manpower points (MP) available to you are limited, but there is enough for you to call in the required units. Depending on the situation, additional points may be awarded for completing objectives."
-msgstr "Atualmente, os pontos de Efetivo (EF) disponíveis são limitados, mas suficientes para chamar as unidades necessárias. Dependendo da situação, pontos adicionais podem ser concedidos ao completar objetivos."
+msgstr "Atualmente, os pontos de Efetivo (PM) disponíveis são limitados, mas suficientes para chamar as unidades necessárias. Dependendo da situação, pontos adicionais podem ser concedidos ao completar objetivos."
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/01"
 msgid "Now, call in a MG 34, a 8cm mortar, and a 2cm Flak. Place them on the frontline to defend our HQ."
@@ -70,7 +70,7 @@ msgstr "Você deve chamar artilharia no campo de batalha ativo do mapa para comp
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/airstrikezone"
 msgid "You must call the target area within the map borders for the air strike to complete it's task."
-msgstr "Você deve chamar a área-alvo dentro dos limites do mapa para o ataque aéreo completar sua tarefa."
+msgstr "Você deve selecionar uma área-alvo dentro dos limites do mapa para que o ataque aéreo cumpra seu objetivo."
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/narrator/ger_officer/03"
 msgid "Good job, they are running away! Your next objective is to call in an Artillery Signaller."
@@ -165,11 +165,11 @@ msgstr "Capture o QG inimigo"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task6"
 msgid "Call off-map Airstrike on enemy targets!"
-msgstr "Solicite Ataque Aéreo fora do mapa contra alvos inimigos!"
+msgstr "Solicite um ataque aéreo de apoio externo contra alvos inimigos!"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task7"
 msgid "Call off-map Artillery on enemy targets!"
-msgstr "Solicite Artilharia fora do mapa contra alvos inimigos!"
+msgstr "Solicite fogo de artilharia de apoio externo contra alvos inimigos!"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/outro_failed"
 msgid "You have been defeated!"

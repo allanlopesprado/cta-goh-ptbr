@@ -26,3 +26,6 @@ desktop.ini
 
 # Outros
 .env
+
+# Referências locais e relatórios de trabalho (não entram no pacote)
+.translation-work/

@@ -1,0 +1,9 @@
+[
+  {
+    "file": "interface/text/tips.pot",
+    "context": "tip54",
+    "englishSource": "\"\\All the greatest things are simple, and many can be expressed in a single word: freedom; justice; honour; duty; mercy; hope.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill",
+    "acceptedPortugueseSource": "\"All the greatest things are simple, and many can be expressed in a single word: freedom; justice; honour; duty; mercy; hope.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill",
+    "reason": "O inglês do pacote contém o escape inválido \\A. O catálogo português já usa a mesma frase sem essa barra indevida. Preservar a normalização existente; a exceção só vale para este identificador e estes dois textos completos."
+  }
+]

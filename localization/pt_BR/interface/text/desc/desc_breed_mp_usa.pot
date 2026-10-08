@@ -99,15 +99,15 @@ msgstr "1st Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_bar"
 msgid "1st Div. Automatic Rifleman [USAGF]"
-msgstr "1st Div. Atirador Automático [USAGF]"
+msgstr "1st Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_bar_ammo"
 msgid "1st Div. AR Ammo Bearer [USAGF]"
-msgstr "1st Div. Carregador de Atirador Automático [USAGF]"
+msgstr "1st Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_bar_asst"
 msgid "1st Div. AR Asst. [USAGF]"
-msgstr "1st Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "1st Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_carbine"
 msgid "1st Div. Rifleman [USAGF]"
@@ -119,7 +119,7 @@ msgstr "1st Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_gren"
 msgid "1st Div. Rifle Grenadier [USAGF]"
-msgstr "1st Div. Granadeiro Atirador [USAGF]"
+msgstr "1st Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/1st_rifle_m1903"
 msgid "1st Div. Rifleman [USAGF]"
@@ -235,19 +235,19 @@ msgstr "3rd Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar"
 msgid "3rd Div. Automatic Rifleman [USAGF]"
-msgstr "3rd Div. Atirador Automático [USAGF]"
+msgstr "3rd Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar_ammo"
 msgid "3rd Div. AR Ammo Bearer [USAGF]"
-msgstr "3rd Div. Carregador de Atirador Automático [USAGF]"
+msgstr "3rd Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar_asst"
 msgid "3rd Div. AR Asst. [USAGF]"
-msgstr "3rd Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "3rd Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/3rd_rifle_gren"
 msgid "3rd Div. Rifle Grenadier [USAGF]"
-msgstr "3rd Div. Granadeiro Atirador [USAGF]"
+msgstr "3rd Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/3rd_rifle_sniper"
 msgid "3rd Div. Sniper [USAGF]"
@@ -287,19 +287,19 @@ msgstr "45th Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/45th_rifle_bar"
 msgid "45th Div. Automatic Rifleman [USAGF]"
-msgstr "45th Div. Atirador Automático [USAGF]"
+msgstr "45th Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/45th_rifle_bar_ammo"
 msgid "45th Div. AR Ammo Bearer [USAGF]"
-msgstr "45th Div. Carregador de Atirador Automático [USAGF]"
+msgstr "45th Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/45th_rifle_bar_asst"
 msgid "45th Div. AR Asst. [USAGF]"
-msgstr "45th Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "45th Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/45th_rifle_gren"
 msgid "45th Div. Rifle Grenadier [USAGF]"
-msgstr "45th Div. Granadeiro Atirador [USAGF]"
+msgstr "45th Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/45th_rifle_sniper"
 msgid "45th Div. Sniper [USAGF]"
@@ -323,247 +323,247 @@ msgstr "45th Div. Líder de Esquadra [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_at_asst"
 msgid "82nd Airborne AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_at_m1a1"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_carbine"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_company_1st_sgt"
 msgid "82nd Airborne Company First Sergeant [USAGF]"
-msgstr "82nd Airborne Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_company_com"
 msgid "82nd Airborne Company Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_company_radio"
 msgid "82nd Airborne Company Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Companhia [USAGF]"
+msgstr "Operador de Rádio de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_company_sgt"
 msgid "82nd Airborne Company Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_company_xo"
 msgid "82nd Airborne Company Executive Officer [USAGF]"
-msgstr "82nd Airborne Oficial Executivo de Companhia [USAGF]"
+msgstr "Oficial Executivo de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_crew"
 msgid "82nd Airborne Crew [USAGF]"
-msgstr "82nd Airborne Tripulação [USAGF]"
+msgstr "Tripulação da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_demo"
 msgid "82nd Airborne Demolition Inf. [USAGF]"
-msgstr "82nd Airborne Inf. de Demolição [USAGF]"
+msgstr "Infantaria de Demolições da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_at_asst"
 msgid "82nd Airborne Engineer AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_at_m1a1"
 msgid "82nd Airborne Engineer AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_carbine"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_flamer"
 msgid "82nd Airborne Engineer Flamer Inf. [USAGF]"
-msgstr "82nd Airborne Inf. Lança-chamas de Engenheiros [USAGF]"
+msgstr "Engenheiro Lança-chamas da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_rifle"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_sl"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_sl_asst_gren"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_sl_smg"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_eng_smg"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_at_asst"
 msgid "82nd Glider AT Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_at_m1a1"
 msgid "82nd Glider AT Inf. [USAGF]"
-msgstr "82nd Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_bar"
 msgid "82nd Glider Automatic Rifleman [USAGF]"
-msgstr "82nd Planador Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_bar_ammo"
 msgid "82nd Glider AR Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_bar_asst"
 msgid "82nd Glider AR Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_ammo"
 msgid "82nd Glider MG Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_asst"
 msgid "82nd Glider MG Crew Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Tripulação MG [USAGF]"
+msgstr "Auxiliar de Tripulação de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_crew"
 msgid "82nd Glider MG Crew [USAGF]"
-msgstr "82nd Planador Tripulação MG [USAGF]"
+msgstr "Tripulação de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_flamer"
 msgid "82nd Glider Pioneer Flamer Inf. [USAGF]"
-msgstr "82nd Planador Pioneiro Inf. Lança-chamas [USAGF]"
+msgstr "Pioneiro Lança-chamas da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_rifle"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_rifle_at"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_sl"
 msgid "82nd Glider Pioneer Squadleader [USAGF]"
-msgstr "82nd Planador Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_sl_asst"
 msgid "82nd Glider Pioneer Asst. SL [USAGF]"
-msgstr "82nd Planador Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle_band2"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle_gren"
 msgid "82nd Glider Rifle Grenadier [USAGF]"
-msgstr "82nd Planador Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_asst"
 msgid "82nd Glider Asst. SL [USAGF]"
-msgstr "82nd Planador Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_rifle"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_smg"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_sniper"
 msgid "82nd Glider Sniper [USAGF]"
-msgstr "82nd Planador Franco-atirador [USAGF]"
+msgstr "Franco-atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_mg_ammo"
 msgid "82nd Airborne MG Ammo Bearer [USAGF]"
-msgstr "82nd Airborne Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_mg_asst"
 msgid "82nd Airborne MG Crew Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar de Tripulação MG [USAGF]"
+msgstr "Auxiliar de Tripulação de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_mg_crew"
 msgid "82nd Airborne MG Crew [USAGF]"
-msgstr "82nd Airborne Tripulação MG [USAGF]"
+msgstr "Tripulação de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_rifle"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_smg"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_platoon_com"
 msgid "82nd Airborne Platoon Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_platoon_com_asst"
 msgid "82nd Airborne Platoon Commander Asst. [USAGF]"
-msgstr "82nd Airborne Comandante de Pelotão Auxiliar [USAGF]"
+msgstr "Auxiliar do Comandante de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_platoon_radio"
 msgid "82nd Airborne Platoon Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Pelotão [USAGF]"
+msgstr "Operador de Rádio de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_platoon_ssgt"
 msgid "82nd Airborne Platoon Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_recon_rifle"
 msgid "82nd Airborne Recon [USAGF]"
-msgstr "Reconhecimento Aerotransportado 82ª [USAGF]"
+msgstr "Reconhecimento da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_recon_tl"
 msgid "82nd Airborne Teamleader [USAGF]"
-msgstr "Líder de Equipe Aerotransportado 82ª [USAGF]"
+msgstr "Líder de Equipe da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_rifle"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_rifle_gren"
 msgid "82nd Airborne Rifle Grenadier [USAGF]"
-msgstr "82nd Airborne Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sl"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sl_asst"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sl_asst_gren"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sl_asst_smg"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sl_smg"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_smg"
 msgid "82nd Airborne SMG Inf. [USAGF]"
-msgstr "82nd Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_sniper"
 msgid "82nd Airborne Sniper [USAGF]"
-msgstr "82nd Airborne Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/antitank_asst_m1"
 msgid "AT Asst. [USAGF]"
@@ -575,7 +575,7 @@ msgstr "Auxiliar Antitanque [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/antitank_gren"
 msgid "AT Rifle Grenadier [USAGF]"
-msgstr "AT Granadeiro Atirador [USAGF]"
+msgstr "AT Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/antitank_m1"
 msgid "AT Inf. [USAGF]"
@@ -587,263 +587,263 @@ msgstr "Inf. AT [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_company_1st_sgt"
 msgid "1st Armored Company First Sergeant [USAGF]"
-msgstr "1st Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_company_com"
 msgid "1st Armored Company Commander [USAGF]"
-msgstr "1st Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_company_sgt"
 msgid "1st Armored Company Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_company_ssgt"
 msgid "1st Armored Company Staff Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_driver"
 msgid "1st Armored Driver [USAGF]"
-msgstr "1st Blindada Motorista [USAGF]"
+msgstr "Motorista da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_medic"
 msgid "1st Armored Medic [USAGF]"
-msgstr "1st Blindada Médico [USAGF]"
+msgstr "Médico da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_platoon_com"
 msgid "1st Armored Platoon Commander [USAGF]"
-msgstr "1st Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_platoon_com_mp"
 msgid "1st Armored Platoon Commander [USAGF]"
-msgstr "1st Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_platoon_ssgt"
 msgid "1st Armored Platoon Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_recon_carbine"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_recon_rifle"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_recon_smg"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_recon_tl"
 msgid "1st Armored Recon Teamleader [USAGF]"
-msgstr "1st Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_at"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_asst_m1"
 msgid "1st Armored AT Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_asst_m1a1"
 msgid "1st Armored AT Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_m1"
 msgid "1st Armored AT Inf. [USAGF]"
-msgstr "1st Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_m1a1"
 msgid "1st Armored AT Inf. [USAGF]"
-msgstr "1st Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_band"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_band2"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar"
 msgid "1st Armored Automatic Rifleman [USAGF]"
-msgstr "1st Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar_ammo"
 msgid "1st Armored AR Ammo Bearer [USAGF]"
-msgstr "1st Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar_asst"
 msgid "1st Armored AR Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_gren"
 msgid "1st Armored Rifle Grenadier [USAGF]"
-msgstr "1st Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_rifle_sniper"
 msgid "1st Armored Sniper [USAGF]"
-msgstr "1st Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_sl_asst"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_sl_asst_carbine"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_sl_carbine"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_sl_rifle"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_vehicle_com"
 msgid "1st Armored Vehicle Commander [USAGF]"
-msgstr "1st Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar1_vehicle_crew"
 msgid "1st Armored Vehicle Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_company_1st_sgt"
 msgid "2nd Armored Company First Sergeant [USAGF]"
-msgstr "2nd Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_company_com"
 msgid "2nd Armored Company Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_company_sgt"
 msgid "2nd Armored Company Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_company_ssgt"
 msgid "2nd Armored Company Staff Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_driver"
 msgid "2nd Armored Driver [USAGF]"
-msgstr "2nd Blindada Motorista [USAGF]"
+msgstr "Motorista da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_medic"
 msgid "2nd Armored Medic [USAGF]"
-msgstr "2nd Blindada Médico [USAGF]"
+msgstr "Médico da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_platoon_com"
 msgid "2nd Armored Platoon Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_platoon_com_mp"
 msgid "2nd Armored Platoon Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_platoon_ssgt"
 msgid "2nd Armored Platoon Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_recon_carbine"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_recon_rifle"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_recon_smg"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_recon_tl"
 msgid "2nd Armored Recon Teamleader [USAGF]"
-msgstr "2nd Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_at"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_at_asst"
 msgid "2nd Armored AT Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_at_m1a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_band"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_band2"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar"
 msgid "2nd Armored Automatic Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar_ammo"
 msgid "2nd Armored AR Ammo Bearer [USAGF]"
-msgstr "2nd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar_asst"
 msgid "2nd Armored AR Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_rifle_sniper"
 msgid "2nd Armored Sniper [USAGF]"
-msgstr "2nd Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_sl_asst"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_sl_asst_carbine"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_sl_carbine"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_sl_rifle"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_tank_com"
 msgid "2nd Armored Tank Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_tankman"
 msgid "2nd Armored Tank Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_tankman_m1"
 msgid "2nd Armored Tank Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_vehicle_com"
 msgid "2nd Armored Vehicle Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ar2_vehicle_crew"
 msgid "2nd Armored Vehicle Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/artilleryman"
 msgid "Artilleryman [USAGF]"
@@ -923,7 +923,7 @@ msgstr "Inf. Lança-chamas de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_gren"
 msgid "Engineer Rifle Grenadier [USAGF]"
-msgstr "Engenheiro Granadeiro Atirador [USAGF]"
+msgstr "Engenheiro Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_mine_ap"
 msgid "Engineer AP Miner [USAGF]"
@@ -1107,15 +1107,15 @@ msgstr "Ranger Inf. AT [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_bar"
 msgid "Ranger Automatic Rifleman [USAGF]"
-msgstr "Ranger Atirador Automático [USAGF]"
+msgstr "Ranger Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_bar_ammo"
 msgid "Ranger AR Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de Atirador Automático [USAGF]"
+msgstr "Ranger Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_bar_asst"
 msgid "Ranger AR Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Atirador Automático [USAGF]"
+msgstr "Ranger Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_company_1st_sgt"
 msgid "Ranger Company First Sergeant [USAGF]"
@@ -1131,11 +1131,11 @@ msgstr "Ranger Tripulação [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_gren"
 msgid "Ranger Rifle Grenadier [USAGF]"
-msgstr "Ranger Granadeiro Atirador [USAGF]"
+msgstr "Ranger Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_mg_ammo"
 msgid "Ranger MG Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de MG [USAGF]"
+msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
@@ -1231,15 +1231,15 @@ msgstr "Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_bar"
 msgid "Automatic Rifleman [USAGF]"
-msgstr "Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_bar_ammo"
 msgid "Automatic Rifleman Ammo Bearer [USAGF]"
-msgstr "Portador de Munição do Atirador Automático [USAGF]"
+msgstr "Portador de Munição do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_bar_asst"
 msgid "Automatic Rifleman Asst. [USAGF]"
-msgstr "Atirador Automático Auxiliar [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_carbine"
 msgid "Rifleman [USAGF]"
@@ -1251,7 +1251,7 @@ msgstr "Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_gren"
 msgid "Rifle Grenadier [USAGF]"
-msgstr "Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/rifle_m1903"
 msgid "Rifleman [USAGF]"
@@ -1315,59 +1315,59 @@ msgstr "Inf. SMG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_commander"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com_1lt"
 msgid "1st Armored Tank Platoon Commander [USAGF]"
-msgstr "Comandante de Pelotão de Tanque 1ª Blindada [USAGF]"
+msgstr "Comandante de Pelotão de Tanques da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com_cpt"
 msgid "1st Armored Tank Company Commander [USAGF]"
-msgstr "Comandante de Companhia de Tanque 1ª Blindada [USAGF]"
+msgstr "Comandante de Companhia de Tanques da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com_m1"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com_smg"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tank_com_ssgt"
 msgid "1st Armored Tank Platoon Sergeant [USAGF]"
-msgstr "Sargento de Pelotão de Tanque 1ª Blindada [USAGF]"
+msgstr "Sargento de Pelotão de Tanques da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_cpl"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_m1"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_pfc"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_smg"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_t4"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/tankman_t5"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vehicle_com"
 msgid "Vehicle Commander [USAGF]"
@@ -1411,19 +1411,19 @@ msgstr "Veterano Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vet_rifle_bar"
 msgid "Veteran Automatic Rifleman [USAGF]"
-msgstr "Veterano Atirador Automático [USAGF]"
+msgstr "Veterano Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vet_rifle_bar_ammo"
 msgid "Veteran AR Ammo Bearer [USAGF]"
-msgstr "Veterano Carregador de Atirador Automático [USAGF]"
+msgstr "Veterano Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vet_rifle_bar_asst"
 msgid "Veteran AR Asst. [USAGF]"
-msgstr "Veterano Auxiliar de Atirador Automático [USAGF]"
+msgstr "Veterano Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vet_rifle_gren"
 msgid "Veteran Rifle Grenadier [USAGF]"
-msgstr "Veterano Granadeiro Atirador [USAGF]"
+msgstr "Veterano Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/vet_rifle_sniper"
 msgid "Veteran Sniper [USAGF]"
@@ -1527,19 +1527,19 @@ msgstr "1st Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar"
 msgid "1st Div. Automatic Rifleman [USAGF]"
-msgstr "1st Div. Atirador Automático [USAGF]"
+msgstr "1st Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar_ammo"
 msgid "1st Div. AR Ammo Bearer [USAGF]"
-msgstr "1st Div. Carregador de Atirador Automático [USAGF]"
+msgstr "1st Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar_asst"
 msgid "1st Div. AR Asst. [USAGF]"
-msgstr "1st Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "1st Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_late_rifle_gren"
 msgid "1st Div. Rifle Grenadier [USAGF]"
-msgstr "1st Div. Granadeiro Atirador [USAGF]"
+msgstr "1st Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_late_rifle_sniper"
 msgid "1st Div. Sniper [USAGF]"
@@ -1607,19 +1607,19 @@ msgstr "1st Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_rifle_bar"
 msgid "1st Div. Automatic Rifleman [USAGF]"
-msgstr "1st Div. Atirador Automático [USAGF]"
+msgstr "1st Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_rifle_bar_ammo"
 msgid "1st Div. AR Ammo Bearer [USAGF]"
-msgstr "1st Div. Carregador de Atirador Automático [USAGF]"
+msgstr "1st Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_rifle_bar_asst"
 msgid "1st Div. AR Asst. [USAGF]"
-msgstr "1st Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "1st Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_rifle_gren"
 msgid "1st Div. Rifle Grenadier [USAGF]"
-msgstr "1st Div. Granadeiro Atirador [USAGF]"
+msgstr "1st Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/1st_rifle_sniper"
 msgid "1st Div. Sniper [USAGF]"
@@ -1703,19 +1703,19 @@ msgstr "29th Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar"
 msgid "29th Div. Automatic Rifleman [USAGF]"
-msgstr "29th Div. Atirador Automático [USAGF]"
+msgstr "29th Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar_ammo"
 msgid "29th Div. AR Ammo Bearer [USAGF]"
-msgstr "29th Div. Carregador de Atirador Automático [USAGF]"
+msgstr "29th Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar_asst"
 msgid "29th Div. AR Asst. [USAGF]"
-msgstr "29th Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "29th Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_late_rifle_gren"
 msgid "29th Div. Rifle Grenadier [USAGF]"
-msgstr "29th Div. Granadeiro Atirador [USAGF]"
+msgstr "29th Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_late_rifle_sniper"
 msgid "29th Div. Sniper [USAGF]"
@@ -1755,19 +1755,19 @@ msgstr "29th Div. Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_rifle_bar"
 msgid "29th Div. Automatic Rifleman [USAGF]"
-msgstr "29th Div. Atirador Automático [USAGF]"
+msgstr "29th Div. Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_rifle_bar_ammo"
 msgid "29th Div. AR Ammo Bearer [USAGF]"
-msgstr "29th Div. Carregador de Atirador Automático [USAGF]"
+msgstr "29th Div. Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_rifle_bar_asst"
 msgid "29th Div. AR Asst. [USAGF]"
-msgstr "29th Div. Auxiliar de Atirador Automático [USAGF]"
+msgstr "29th Div. Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_rifle_gren"
 msgid "29th Div. Rifle Grenadier [USAGF]"
-msgstr "29th Div. Granadeiro Atirador [USAGF]"
+msgstr "29th Div. Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/29th_rifle_sniper"
 msgid "29th Div. Sniper [USAGF]"
@@ -1791,1155 +1791,1155 @@ msgstr "29th Div. Líder de Esquadra [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_at_asst"
 msgid "82nd Airborne AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_at_m1a1"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_at_m9"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_at_m9a1"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_bar"
 msgid "82nd Airborne Automatic Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_bar_asst"
 msgid "82nd Airborne AR Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_carbine"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_company_1st_sgt"
 msgid "82nd Airborne Company First Sergeant [USAGF]"
-msgstr "82nd Airborne Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_company_com"
 msgid "82nd Airborne Company Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_company_radio"
 msgid "82nd Airborne Company Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Companhia [USAGF]"
+msgstr "Operador de Rádio de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_company_sgt"
 msgid "82nd Airborne Company Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_company_xo"
 msgid "82nd Airborne Company Executive Officer [USAGF]"
-msgstr "82nd Airborne Oficial Executivo de Companhia [USAGF]"
+msgstr "Oficial Executivo de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_crew"
 msgid "82nd Airborne Weapon Crew [USAGF]"
-msgstr "82nd Airborne Tripulação de Arma [USAGF]"
+msgstr "Tripulação de Arma da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_demo"
 msgid "82nd Airborne Demolition Inf. [USAGF]"
-msgstr "82nd Airborne Inf. de Demolição [USAGF]"
+msgstr "Infantaria de Demolições da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_demo_off"
 msgid "82nd Airborne Demolition Officer [USAGF]"
-msgstr "82nd Airborne Oficial de Demolição [USAGF]"
+msgstr "Oficial de Demolições da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_at_asst"
 msgid "82nd Airborne Engineer AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_at_m1a1"
 msgid "82nd Airborne Engineer AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_at_m9a1"
 msgid "82nd Airborne Engineer AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_carbine"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_flamer"
 msgid "82nd Airborne Engineer Flamer Inf. [USAGF]"
-msgstr "82nd Airborne Inf. Lança-chamas de Engenheiros [USAGF]"
+msgstr "Engenheiro Lança-chamas da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_rifle"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst_cpl_gren"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst_gren"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_sgt"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_sgt_smg"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_sl_smg"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_eng_smg"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_at_asst"
 msgid "82nd Glider AT Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_at_m1a1"
 msgid "82nd Glider AT Inf. [USAGF]"
-msgstr "82nd Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_at_m9a1"
 msgid "82nd Glider AT Inf. [USAGF]"
-msgstr "82nd Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_bar"
 msgid "82nd Glider Automatic Rifleman [USAGF]"
-msgstr "82nd Planador Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_bar_ammo"
 msgid "82nd Glider AR Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_bar_asst"
 msgid "82nd Glider AR Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg"
 msgid "82nd Glider MG Operator [USAGF]"
-msgstr "82nd Planador Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg_ammo"
 msgid "82nd Glider MG Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg_asst"
 msgid "82nd Glider MG Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_flamer"
 msgid "82nd Glider Pioneer Flamer Inf. [USAGF]"
-msgstr "82nd Planador Pioneiro Inf. Lança-chamas [USAGF]"
+msgstr "Pioneiro Lança-chamas da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_rifle"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_rifle_at"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_sl"
 msgid "82nd Glider Pioneer Squadleader [USAGF]"
-msgstr "82nd Planador Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_sl_asst"
 msgid "82nd Glider Pioneer Asst. SL [USAGF]"
-msgstr "82nd Planador Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_rifle"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_rifle_band2"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_rifle_gren"
 msgid "82nd Glider Rifle Grenadier [USAGF]"
-msgstr "82nd Planador Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_sl_asst"
 msgid "82nd Glider Asst. SL [USAGF]"
-msgstr "82nd Planador Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_sl_rifle"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_sl_smg"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_sniper"
 msgid "82nd Glider Sniper [USAGF]"
-msgstr "82nd Planador Franco-atirador [USAGF]"
+msgstr "Franco-atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_at_asst"
 msgid "82nd Airborne AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_at_m1a1"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_at_m9"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_at_m9a1"
 msgid "82nd Airborne AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_bar"
 msgid "82nd Airborne Automatic Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_bar_asst"
 msgid "82nd Airborne AR Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_carbine"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_company_1st_sgt"
 msgid "82nd Airborne Company First Sergeant [USAGF]"
-msgstr "82nd Airborne Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_company_com"
 msgid "82nd Airborne Company Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_company_radio"
 msgid "82nd Airborne Company Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Companhia [USAGF]"
+msgstr "Operador de Rádio de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_company_sgt"
 msgid "82nd Airborne Company Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_company_xo"
 msgid "82nd Airborne Company Executive Officer [USAGF]"
-msgstr "82nd Airborne Oficial Executivo de Companhia [USAGF]"
+msgstr "Oficial Executivo de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_crew"
 msgid "82nd Airborne Weapon Crew [USAGF]"
-msgstr "82nd Airborne Tripulação de Arma [USAGF]"
+msgstr "Tripulação de Arma da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_demo"
 msgid "82nd Airborne Demolition Inf. [USAGF]"
-msgstr "82nd Airborne Inf. de Demolição [USAGF]"
+msgstr "Infantaria de Demolições da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_demo_off"
 msgid "82nd Airborne Demolition Officer [USAGF]"
-msgstr "82nd Airborne Oficial de Demolição [USAGF]"
+msgstr "Oficial de Demolições da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_at_asst"
 msgid "82nd Airborne Engineer AT Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_at_m9a1"
 msgid "82nd Airborne Engineer AT Inf. [USAGF]"
-msgstr "82nd Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_carbine"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_flamer"
 msgid "82nd Airborne Engineer Flamer Inf. [USAGF]"
-msgstr "82nd Airborne Inf. Lança-chamas de Engenheiros [USAGF]"
+msgstr "Engenheiro Lança-chamas da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_rifle"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_asst"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_asst_gren"
 msgid "82nd Airborne Engineer Asst. SL [USAGF]"
-msgstr "82nd Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_smg"
 msgid "82nd Airborne Engineer Squadleader [USAGF]"
-msgstr "82nd Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_eng_smg"
 msgid "82nd Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 82ª [USAGF]"
+msgstr "Engenheiro da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_asst"
 msgid "82nd Glider AT Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_m1a1"
 msgid "82nd Glider AT Inf. [USAGF]"
-msgstr "82nd Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_m9a1"
 msgid "82nd Glider AT Inf. [USAGF]"
-msgstr "82nd Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar"
 msgid "82nd Glider Automatic Rifleman [USAGF]"
-msgstr "82nd Planador Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar_ammo"
 msgid "82nd Glider AR Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar_asst"
 msgid "82nd Glider AR Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg"
 msgid "82nd Glider MG Operator [USAGF]"
-msgstr "82nd Planador Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_ammo"
 msgid "82nd Glider MG Ammo Bearer [USAGF]"
-msgstr "82nd Planador Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_asst"
 msgid "82nd Glider MG Asst. [USAGF]"
-msgstr "82nd Planador Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_flamer"
 msgid "82nd Glider Pioneer Flamer Inf. [USAGF]"
-msgstr "82nd Planador Pioneiro Inf. Lança-chamas [USAGF]"
+msgstr "Pioneiro Lança-chamas da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_rifle"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_rifle_at"
 msgid "82nd Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 82ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_sl"
 msgid "82nd Glider Pioneer Squadleader [USAGF]"
-msgstr "82nd Planador Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_sl_asst"
 msgid "82nd Glider Pioneer Asst. SL [USAGF]"
-msgstr "82nd Planador Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle_band2"
 msgid "82nd Glider Rifleman [USAGF]"
-msgstr "82nd Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle_gren"
 msgid "82nd Glider Rifle Grenadier [USAGF]"
-msgstr "82nd Planador Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_asst"
 msgid "82nd Glider Asst. SL [USAGF]"
-msgstr "82nd Planador Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_rifle"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_smg"
 msgid "82nd Glider Squadleader [USAGF]"
-msgstr "82nd Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_sniper"
 msgid "82nd Glider Sniper [USAGF]"
-msgstr "82nd Planador Franco-atirador [USAGF]"
+msgstr "Franco-atirador da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_medic"
 msgid "82nd Airborne Medic [USAGF]"
-msgstr "82nd Airborne Médico [USAGF]"
+msgstr "Médico da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg"
 msgid "82nd Airborne MG Operator [USAGF]"
-msgstr "82nd Airborne Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg_ammo"
 msgid "82nd Airborne MG Ammo Bearer [USAGF]"
-msgstr "82nd Airborne Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg_asst"
 msgid "82nd Airborne MG Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_rifle"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_smg"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_platoon_com"
 msgid "82nd Airborne Platoon Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_platoon_radio"
 msgid "82nd Airborne Platoon Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Pelotão [USAGF]"
+msgstr "Operador de Rádio de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_platoon_ssgt"
 msgid "82nd Airborne Platoon Guide [USAGF]"
-msgstr "82nd Airborne Guia de Pelotão [USAGF]"
+msgstr "Guia de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_platoon_tsgt"
 msgid "82nd Airborne Platoon Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_recon_rifle"
 msgid "82nd Airborne Recon [USAGF]"
-msgstr "Reconhecimento Aerotransportado 82ª [USAGF]"
+msgstr "Reconhecimento da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_recon_tl"
 msgid "82nd Airborne Recon Teamleader [USAGF]"
-msgstr "82nd Airborne Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_rifle"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_rifle_gren"
 msgid "82nd Airborne Rifle Grenadier [USAGF]"
-msgstr "82nd Airborne Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_sl"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_sl_asst"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_sl_asst_gren"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_smg"
 msgid "82nd Airborne SMG Inf. [USAGF]"
-msgstr "82nd Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_smg_m3"
 msgid "82nd Airborne SMG Inf. [USAGF]"
-msgstr "82nd Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_sniper"
 msgid "82nd Airborne Sniper [USAGF]"
-msgstr "82nd Airborne Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_medic"
 msgid "82nd Airborne Medic [USAGF]"
-msgstr "82nd Airborne Médico [USAGF]"
+msgstr "Médico da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg"
 msgid "82nd Airborne MG Operator [USAGF]"
-msgstr "82nd Airborne Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg_ammo"
 msgid "82nd Airborne MG Ammo Bearer [USAGF]"
-msgstr "82nd Airborne Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg_asst"
 msgid "82nd Airborne MG Asst. [USAGF]"
-msgstr "82nd Airborne Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_pathfinder_rifle"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_pathfinder_smg"
 msgid "82nd Airborne Pathfinder [USAGF]"
-msgstr "82nd Airborne Explorador [USAGF]"
+msgstr "Precursor da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_platoon_com"
 msgid "82nd Airborne Platoon Commander [USAGF]"
-msgstr "82nd Airborne Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_platoon_com_asst"
 msgid "82nd Airborne Asst. Platoon Commander [USAGF]"
-msgstr "82nd Airborne Auxiliar Comandante de Pelotão [USAGF]"
+msgstr "Auxiliar do Comandante de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_platoon_radio"
 msgid "82nd Airborne Platoon Radio Operator [USAGF]"
-msgstr "82nd Airborne Operador de Rádio de Pelotão [USAGF]"
+msgstr "Operador de Rádio de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_platoon_ssgt"
 msgid "82nd Airborne Platoon Guide [USAGF]"
-msgstr "82nd Airborne Guia de Pelotão [USAGF]"
+msgstr "Guia de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_platoon_tsgt"
 msgid "82nd Airborne Platoon Sergeant [USAGF]"
-msgstr "82nd Airborne Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_recon_rifle"
 msgid "82nd Airborne Recon [USAGF]"
-msgstr "Reconhecimento Aerotransportado 82ª [USAGF]"
+msgstr "Reconhecimento da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_recon_tl"
 msgid "82nd Airborne Recon Teamleader [USAGF]"
-msgstr "82nd Airborne Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_rifle"
 msgid "82nd Airborne Rifleman [USAGF]"
-msgstr "82nd Airborne Atirador [USAGF]"
+msgstr "Atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_rifle_gren"
 msgid "82nd Airborne Rifle Grenadier [USAGF]"
-msgstr "82nd Airborne Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_asst"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_asst_cpl"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_asst_cpl_gren"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_asst_gren"
 msgid "82nd Airborne Asst. SL [USAGF]"
-msgstr "82nd Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_sgt"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sl_sgt_smg"
 msgid "82nd Airborne Squadleader [USAGF]"
-msgstr "82nd Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_smg"
 msgid "82nd Airborne SMG Inf. [USAGF]"
-msgstr "82nd Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_sniper"
 msgid "82nd Airborne Sniper [USAGF]"
-msgstr "82nd Airborne Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_at_asst"
 msgid "101st Airborne AT Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_at_m1a1"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_at_m9"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_at_m9a1"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_bar"
 msgid "101st Airborne Automatic Rifleman [USAGF]"
-msgstr "101st Airborne Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_bar_asst"
 msgid "101st Airborne AR Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_carbine"
 msgid "101st Airborne Rifleman [USAGF]"
-msgstr "101st Airborne Atirador [USAGF]"
+msgstr "Atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_company_1st_sgt"
 msgid "101st Airborne Company First Sergeant [USAGF]"
-msgstr "101st Airborne Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_company_com"
 msgid "101st Airborne Company Commander [USAGF]"
-msgstr "101st Airborne Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_company_radio"
 msgid "101st Airborne Company Radio Operator [USAGF]"
-msgstr "101st Airborne Operador de Rádio de Companhia [USAGF]"
+msgstr "Operador de Rádio de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_company_sgt"
 msgid "101st Airborne Company Sergeant [USAGF]"
-msgstr "101st Airborne Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_company_xo"
 msgid "101st Airborne Company Executive Officer [USAGF]"
-msgstr "101st Airborne Oficial Executivo de Companhia [USAGF]"
+msgstr "Oficial Executivo de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_crew"
 msgid "101st Airborne Weapon Crew [USAGF]"
-msgstr "101st Airborne Tripulação de Arma [USAGF]"
+msgstr "Tripulação de Arma da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_demo"
 msgid "101st Airborne Demolition Inf. [USAGF]"
-msgstr "101st Airborne Inf. de Demolição [USAGF]"
+msgstr "Infantaria de Demolições da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_demo_off"
 msgid "101st Airborne Demolition Officer [USAGF]"
-msgstr "101st Airborne Oficial de Demolição [USAGF]"
+msgstr "Oficial de Demolições da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_at_asst"
 msgid "101st Airborne Engineer AT Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_at_m1a1"
 msgid "101st Airborne Engineer AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_at_m9a1"
 msgid "101st Airborne Engineer AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_carbine"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_flamer"
 msgid "101st Airborne Engineer Flamer Inf. [USAGF]"
-msgstr "101st Airborne Inf. Lança-chamas de Engenheiros [USAGF]"
+msgstr "Engenheiro Lança-chamas da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_rifle"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst"
 msgid "101st Airborne Engineer Asst. SL [USAGF]"
-msgstr "101st Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst_cpl_gren"
 msgid "101st Airborne Engineer Asst. SL [USAGF]"
-msgstr "101st Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst_gren"
 msgid "101st Airborne Engineer Asst. SL [USAGF]"
-msgstr "101st Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_sgt"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_sgt_smg"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_sl_smg"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_eng_smg"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_at_asst"
 msgid "101st Glider AT Asst. [USAGF]"
-msgstr "101st Planador Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_at_m1a1"
 msgid "101st Glider AT Inf. [USAGF]"
-msgstr "101st Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_at_m9a1"
 msgid "101st Glider AT Inf. [USAGF]"
-msgstr "101st Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_bar"
 msgid "101st Glider Automatic Rifleman [USAGF]"
-msgstr "101st Planador Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_bar_ammo"
 msgid "101st Glider AR Ammo Bearer [USAGF]"
-msgstr "101st Planador Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_bar_asst"
 msgid "101st Glider AR Asst. [USAGF]"
-msgstr "101st Planador Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg"
 msgid "101st Glider MG Operator [USAGF]"
-msgstr "101st Planador Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg_ammo"
 msgid "101st Glider MG Ammo Bearer [USAGF]"
-msgstr "101st Planador Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg_asst"
 msgid "101st Glider MG Asst. [USAGF]"
-msgstr "101st Planador Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_carbine"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_flamer"
 msgid "101st Glider Pioneer Flamer Inf. [USAGF]"
-msgstr "101st Planador Pioneiro Inf. Lança-chamas [USAGF]"
+msgstr "Pioneiro Lança-chamas da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_rifle"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_rifle_at"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_sl"
 msgid "101st Glider Pioneer Squadleader [USAGF]"
-msgstr "101st Planador Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_sl_asst"
 msgid "101st Glider Pioneer Asst. SL [USAGF]"
-msgstr "101st Planador Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_rifle"
 msgid "101st Glider Rifleman [USAGF]"
-msgstr "101st Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_rifle_band2"
 msgid "101st Glider Rifleman [USAGF]"
-msgstr "101st Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_rifle_gren"
 msgid "101st Glider Rifle Grenadier [USAGF]"
-msgstr "101st Planador Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_sl_asst"
 msgid "101st Glider Asst. SL [USAGF]"
-msgstr "101st Planador Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_sl_rifle"
 msgid "101st Glider Squadleader [USAGF]"
-msgstr "101st Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_sl_smg"
 msgid "101st Glider Squadleader [USAGF]"
-msgstr "101st Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_sniper"
 msgid "101st Glider Sniper [USAGF]"
-msgstr "101st Planador Franco-atirador [USAGF]"
+msgstr "Franco-atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_at_asst"
 msgid "101st Airborne AT Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_at_m1a1"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_at_m9"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_at_m9a1"
 msgid "101st Airborne AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_bar"
 msgid "101st Airborne Automatic Rifleman [USAGF]"
-msgstr "101st Airborne Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_bar_asst"
 msgid "101st Airborne AR Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_carbine"
 msgid "101st Airborne Rifleman [USAGF]"
-msgstr "101st Airborne Atirador [USAGF]"
+msgstr "Atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_company_1st_sgt"
 msgid "101st Airborne Company First Sergeant [USAGF]"
-msgstr "101st Airborne Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_company_com"
 msgid "101st Airborne Company Commander [USAGF]"
-msgstr "101st Airborne Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_company_radio"
 msgid "101st Airborne Company Radio Operator [USAGF]"
-msgstr "101st Airborne Operador de Rádio de Companhia [USAGF]"
+msgstr "Operador de Rádio de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_company_sgt"
 msgid "101st Airborne Company Sergeant [USAGF]"
-msgstr "101st Airborne Sargento de Companhia [USAGF]"
+msgstr "Sargento de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_company_xo"
 msgid "101st Airborne Company Executive Officer [USAGF]"
-msgstr "101st Airborne Oficial Executivo de Companhia [USAGF]"
+msgstr "Oficial Executivo de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_crew"
 msgid "101st Airborne Weapon Crew [USAGF]"
-msgstr "101st Airborne Tripulação de Arma [USAGF]"
+msgstr "Tripulação de Arma da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_demo"
 msgid "101st Airborne Demolition Inf. [USAGF]"
-msgstr "101st Airborne Inf. de Demolição [USAGF]"
+msgstr "Infantaria de Demolições da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_demo_off"
 msgid "101st Airborne Demolition Officer [USAGF]"
-msgstr "101st Airborne Oficial de Demolição [USAGF]"
+msgstr "Oficial de Demolições da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_at_asst"
 msgid "101st Airborne Engineer AT Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_at_m9a1"
 msgid "101st Airborne Engineer AT Inf. [USAGF]"
-msgstr "101st Airborne Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_carbine"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_flamer"
 msgid "101st Airborne Engineer Flamer Inf. [USAGF]"
-msgstr "101st Airborne Inf. Lança-chamas de Engenheiros [USAGF]"
+msgstr "Engenheiro Lança-chamas da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_rifle"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_sl"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_asst"
 msgid "101st Airborne Engineer Asst. SL [USAGF]"
-msgstr "101st Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_asst_gren"
 msgid "101st Airborne Engineer Asst. SL [USAGF]"
-msgstr "101st Airborne Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_smg"
 msgid "101st Airborne Engineer Squadleader [USAGF]"
-msgstr "101st Airborne Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_eng_smg"
 msgid "101st Airborne Engineer [USAGF]"
-msgstr "Engenheiro Aerotransportado 101ª [USAGF]"
+msgstr "Engenheiro da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_at_asst"
 msgid "101st Glider AT Asst. [USAGF]"
-msgstr "101st Planador Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_at_m1a1"
 msgid "101st Glider AT Inf. [USAGF]"
-msgstr "101st Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_at_m9a1"
 msgid "101st Glider AT Inf. [USAGF]"
-msgstr "101st Planador Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_bar"
 msgid "101st Glider Automatic Rifleman [USAGF]"
-msgstr "101st Planador Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_bar_ammo"
 msgid "101st Glider AR Ammo Bearer [USAGF]"
-msgstr "101st Planador Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_bar_asst"
 msgid "101st Glider AR Asst. [USAGF]"
-msgstr "101st Planador Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg"
 msgid "101st Glider MG Operator [USAGF]"
-msgstr "101st Planador Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_ammo"
 msgid "101st Glider MG Ammo Bearer [USAGF]"
-msgstr "101st Planador Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_asst"
 msgid "101st Glider MG Asst. [USAGF]"
-msgstr "101st Planador Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_carbine"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_flamer"
 msgid "101st Glider Pioneer Flamer Inf. [USAGF]"
-msgstr "101st Planador Pioneiro Inf. Lança-chamas [USAGF]"
+msgstr "Pioneiro Lança-chamas da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_rifle"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_rifle_at"
 msgid "101st Glider Pioneer [USAGF]"
-msgstr "Pioneiro de Planador 101ª [USAGF]"
+msgstr "Pioneiro da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_sl"
 msgid "101st Glider Pioneer Squadleader [USAGF]"
-msgstr "101st Planador Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_sl_asst"
 msgid "101st Glider Pioneer Asst. SL [USAGF]"
-msgstr "101st Planador Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle"
 msgid "101st Glider Rifleman [USAGF]"
-msgstr "101st Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle_band2"
 msgid "101st Glider Rifleman [USAGF]"
-msgstr "101st Planador Atirador [USAGF]"
+msgstr "Atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle_gren"
 msgid "101st Glider Rifle Grenadier [USAGF]"
-msgstr "101st Planador Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_asst"
 msgid "101st Glider Asst. SL [USAGF]"
-msgstr "101st Planador Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_rifle"
 msgid "101st Glider Squadleader [USAGF]"
-msgstr "101st Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_smg"
 msgid "101st Glider Squadleader [USAGF]"
-msgstr "101st Planador Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_sniper"
 msgid "101st Glider Sniper [USAGF]"
-msgstr "101st Planador Franco-atirador [USAGF]"
+msgstr "Franco-atirador da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_medic"
 msgid "101st Airborne Medic [USAGF]"
-msgstr "101st Airborne Médico [USAGF]"
+msgstr "Médico da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg"
 msgid "101st Airborne MG Operator [USAGF]"
-msgstr "101st Airborne Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg_ammo"
 msgid "101st Airborne MG Ammo Bearer [USAGF]"
-msgstr "101st Airborne Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg_asst"
 msgid "101st Airborne MG Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_carbine"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_rifle"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_smg"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_platoon_com"
 msgid "101st Airborne Platoon Commander [USAGF]"
-msgstr "101st Airborne Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_platoon_radio"
 msgid "101st Airborne Platoon Radio Operator [USAGF]"
-msgstr "101st Airborne Operador de Rádio de Pelotão [USAGF]"
+msgstr "Operador de Rádio de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_platoon_ssgt"
 msgid "101st Airborne Platoon Guide [USAGF]"
-msgstr "101st Airborne Guia de Pelotão [USAGF]"
+msgstr "Guia de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_platoon_tsgt"
 msgid "101st Airborne Platoon Sergeant [USAGF]"
-msgstr "101st Airborne Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_recon_rifle"
 msgid "101st Airborne Recon [USAGF]"
-msgstr "Reconhecimento Aerotransportado 101ª [USAGF]"
+msgstr "Reconhecimento da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_recon_tl"
 msgid "101st Airborne Recon Teamleader [USAGF]"
-msgstr "101st Airborne Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_rifle"
 msgid "101st Airborne Rifleman [USAGF]"
-msgstr "101st Airborne Atirador [USAGF]"
+msgstr "Atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_rifle_gren"
 msgid "101st Airborne Rifle Grenadier [USAGF]"
-msgstr "101st Airborne Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_sl"
 msgid "101st Airborne Squadleader [USAGF]"
-msgstr "101st Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_sl_asst"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_sl_asst_gren"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_smg"
 msgid "101st Airborne SMG Inf. [USAGF]"
-msgstr "101st Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_smg_m3"
 msgid "101st Airborne SMG Inf. [USAGF]"
-msgstr "101st Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_sniper"
 msgid "101st Airborne Sniper [USAGF]"
-msgstr "101st Airborne Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_medic"
 msgid "101st Airborne Medic [USAGF]"
-msgstr "101st Airborne Médico [USAGF]"
+msgstr "Médico da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg"
 msgid "101st Airborne MG Operator [USAGF]"
-msgstr "101st Airborne Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg_ammo"
 msgid "101st Airborne MG Ammo Bearer [USAGF]"
-msgstr "101st Airborne Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg_asst"
 msgid "101st Airborne MG Asst. [USAGF]"
-msgstr "101st Airborne Auxiliar de Metralhadora [USAGF]"
+msgstr "Auxiliar de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_pathfinder_carbine"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_pathfinder_rifle"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_pathfinder_smg"
 msgid "101st Airborne Pathfinder [USAGF]"
-msgstr "101st Airborne Explorador [USAGF]"
+msgstr "Precursor da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_platoon_com"
 msgid "101st Airborne Platoon Commander [USAGF]"
-msgstr "101st Airborne Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_platoon_com_asst"
 msgid "101st Airborne Asst. Platoon Commander [USAGF]"
-msgstr "101st Airborne Auxiliar Comandante de Pelotão [USAGF]"
+msgstr "Auxiliar do Comandante de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_platoon_radio"
 msgid "101st Airborne Platoon Radio Operator [USAGF]"
-msgstr "101st Airborne Operador de Rádio de Pelotão [USAGF]"
+msgstr "Operador de Rádio de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_platoon_ssgt"
 msgid "101st Airborne Platoon Guide [USAGF]"
-msgstr "101st Airborne Guia de Pelotão [USAGF]"
+msgstr "Guia de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_platoon_tsgt"
 msgid "101st Airborne Platoon Sergeant [USAGF]"
-msgstr "101st Airborne Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_recon_rifle"
 msgid "101st Airborne Recon [USAGF]"
-msgstr "Reconhecimento Aerotransportado 101ª [USAGF]"
+msgstr "Reconhecimento da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_recon_tl"
 msgid "101st Airborne Recon Teamleader [USAGF]"
-msgstr "101st Airborne Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_rifle"
 msgid "101st Airborne Rifleman [USAGF]"
-msgstr "101st Airborne Atirador [USAGF]"
+msgstr "Atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_rifle_gren"
 msgid "101st Airborne Rifle Grenadier [USAGF]"
-msgstr "101st Airborne Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl"
 msgid "101st Airborne Squadleader [USAGF]"
-msgstr "101st Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_asst"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_asst_cpl"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_asst_cpl_gren"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_asst_gren"
 msgid "101st Airborne Asst. SL [USAGF]"
-msgstr "101st Airborne Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_sgt"
 msgid "101st Airborne Squadleader [USAGF]"
-msgstr "101st Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sl_sgt_smg"
 msgid "101st Airborne Squadleader [USAGF]"
-msgstr "101st Airborne Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_smg"
 msgid "101st Airborne SMG Inf. [USAGF]"
-msgstr "101st Airborne Inf. SMG [USAGF]"
+msgstr "Infantaria com Submetralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_sniper"
 msgid "101st Airborne Sniper [USAGF]"
-msgstr "101st Airborne Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/antitank_asst"
 msgid "AT Asst. [USAGF]"
@@ -2947,7 +2947,7 @@ msgstr "Auxiliar Antitanque [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/antitank_gren"
 msgid "AT Rifle Grenadier [USAGF]"
-msgstr "AT Granadeiro Atirador [USAGF]"
+msgstr "AT Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/antitank_m1a1"
 msgid "AT Inf. [USAGF]"
@@ -2963,63 +2963,63 @@ msgstr "Inf. AT [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_carbine_gren"
 msgid "Armored Rifle Grenadier [USAGF]"
-msgstr "Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_company_1st_sgt"
 msgid "Armored Company First Sergeant [USAGF]"
-msgstr "Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_company_com"
 msgid "Armored Company Commander [USAGF]"
-msgstr "Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_company_ssgt"
 msgid "Armored Company Staff Sergeant [USAGF]"
-msgstr "Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_crew"
 msgid "Armored Crew [USAGF]"
-msgstr "Blindada Tripulação [USAGF]"
+msgstr "Tripulação de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_driver"
 msgid "Armored Driver [USAGF]"
-msgstr "Blindada Motorista [USAGF]"
+msgstr "Motorista de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_carbine_gren"
 msgid "Armored Rifle Grenadier [USAGF]"
-msgstr "Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_company_1st_sgt"
 msgid "Armored Company First Sergeant [USAGF]"
-msgstr "Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_company_com"
 msgid "Armored Company Commander [USAGF]"
-msgstr "Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_company_ssgt"
 msgid "Armored Company Staff Sergeant [USAGF]"
-msgstr "Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_crew"
 msgid "Armored Crew [USAGF]"
-msgstr "Blindada Tripulação [USAGF]"
+msgstr "Tripulação de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_driver"
 msgid "Armored Driver [USAGF]"
-msgstr "Blindada Motorista [USAGF]"
+msgstr "Motorista de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_medic"
 msgid "Armored Medic [USAGF]"
-msgstr "Blindada Médico [USAGF]"
+msgstr "Médico de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_platoon_com"
 msgid "Armored Platoon Commander [USAGF]"
-msgstr "Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_platoon_tsgt"
 msgid "Armored Platoon Sergeant [USAGF]"
-msgstr "Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_recon_rifle"
 msgid "Armored Recon [USAGF]"
@@ -3031,83 +3031,83 @@ msgstr "Reconhecimento Blindado [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_recon_tl"
 msgid "Armored Recon Teamleader [USAGF]"
-msgstr "Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_asst"
 msgid "Armored AT Asst. [USAGF]"
-msgstr "Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_m1a1"
 msgid "Armored AT Inf. [USAGF]"
-msgstr "Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_m9a1"
 msgid "Armored AT Inf. [USAGF]"
-msgstr "Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_band"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_band2"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar"
 msgid "Armored Automatic Rifleman [USAGF]"
-msgstr "Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar_ammo"
 msgid "Armored AR Ammo Bearer [USAGF]"
-msgstr "Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar_asst"
 msgid "Armored AR Asst. [USAGF]"
-msgstr "Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_gren"
 msgid "Armored Rifle Grenadier [USAGF]"
-msgstr "Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_rifle_sniper"
 msgid "Armored Sniper [USAGF]"
-msgstr "Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_sl_asst"
 msgid "Armored Asst. SL [USAGF]"
-msgstr "Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_sl_asst_carbine"
 msgid "Armored Asst. SL [USAGF]"
-msgstr "Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_sl_carbine"
 msgid "Armored Squadleader [USAGF]"
-msgstr "Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_late_sl_rifle"
 msgid "Armored Squadleader [USAGF]"
-msgstr "Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_medic"
 msgid "Armored Medic [USAGF]"
-msgstr "Blindada Médico [USAGF]"
+msgstr "Médico de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_platoon_com"
 msgid "Armored Platoon Commander [USAGF]"
-msgstr "Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_platoon_com_mp"
 msgid "Armored Platoon Commander [USAGF]"
-msgstr "Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_platoon_tsgt"
 msgid "Armored Platoon Sergeant [USAGF]"
-msgstr "Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_recon_rifle"
 msgid "Armored Recon [USAGF]"
@@ -3119,895 +3119,895 @@ msgstr "Reconhecimento Blindado [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_recon_tl"
 msgid "Armored Recon Teamleader [USAGF]"
-msgstr "Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_at"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_at_asst"
 msgid "Armored AT Asst. [USAGF]"
-msgstr "Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_at_m1a1"
 msgid "Armored AT Inf. [USAGF]"
-msgstr "Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_at_m9a1"
 msgid "Armored AT Inf. [USAGF]"
-msgstr "Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_band"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_band2"
 msgid "Armored Rifleman [USAGF]"
-msgstr "Blindada Atirador [USAGF]"
+msgstr "Atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_bar"
 msgid "Armored Automatic Rifleman [USAGF]"
-msgstr "Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_bar_ammo"
 msgid "Armored AR Ammo Bearer [USAGF]"
-msgstr "Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_bar_asst"
 msgid "Armored AR Asst. [USAGF]"
-msgstr "Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_gren"
 msgid "Armored Rifle Grenadier [USAGF]"
-msgstr "Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_rifle_sniper"
 msgid "Armored Sniper [USAGF]"
-msgstr "Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_sl_asst"
 msgid "Armored Asst. SL [USAGF]"
-msgstr "Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_sl_asst_carbine"
 msgid "Armored Asst. SL [USAGF]"
-msgstr "Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_sl_carbine"
 msgid "Armored Squadleader [USAGF]"
-msgstr "Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar_sl_rifle"
 msgid "Armored Squadleader [USAGF]"
-msgstr "Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Unidade Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_company_1st_sgt"
 msgid "1st Armored Company First Sergeant [USAGF]"
-msgstr "1st Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_company_com"
 msgid "1st Armored Company Commander [USAGF]"
-msgstr "1st Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_company_ssgt"
 msgid "1st Armored Company Staff Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_crew"
 msgid "1st Armored Crew [USAGF]"
-msgstr "1st Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_driver"
 msgid "1st Armored Driver [USAGF]"
-msgstr "1st Blindada Motorista [USAGF]"
+msgstr "Motorista da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_company_1st_sgt"
 msgid "1st Armored Company First Sergeant [USAGF]"
-msgstr "1st Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_company_com"
 msgid "1st Armored Company Commander [USAGF]"
-msgstr "1st Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_company_ssgt"
 msgid "1st Armored Company Staff Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_crew"
 msgid "1st Armored Crew [USAGF]"
-msgstr "1st Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_driver"
 msgid "1st Armored Driver [USAGF]"
-msgstr "1st Blindada Motorista [USAGF]"
+msgstr "Motorista da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_medic"
 msgid "1st Armored Medic [USAGF]"
-msgstr "1st Blindada Médico [USAGF]"
+msgstr "Médico da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_platoon_com"
 msgid "1st Armored Platoon Commander [USAGF]"
-msgstr "1st Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_platoon_tsgt"
 msgid "1st Armored Platoon Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_recon_rifle"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_recon_smg"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_recon_tl"
 msgid "1st Armored Recon Teamleader [USAGF]"
-msgstr "1st Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_at_asst"
 msgid "1st Armored AT Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_at_m9a1"
 msgid "1st Armored AT Inf. [USAGF]"
-msgstr "1st Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_band"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar"
 msgid "1st Armored Automatic Rifleman [USAGF]"
-msgstr "1st Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar_ammo"
 msgid "1st Armored AR Ammo Bearer [USAGF]"
-msgstr "1st Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar_asst"
 msgid "1st Armored AR Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_gren"
 msgid "1st Armored Rifle Grenadier [USAGF]"
-msgstr "1st Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_rifle_sniper"
 msgid "1st Armored Sniper [USAGF]"
-msgstr "1st Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_sl_asst"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_sl_asst_carbine"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_sl_carbine"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_late_sl_rifle"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_medic"
 msgid "1st Armored Medic [USAGF]"
-msgstr "1st Blindada Médico [USAGF]"
+msgstr "Médico da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_platoon_com"
 msgid "1st Armored Platoon Commander [USAGF]"
-msgstr "1st Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_platoon_com_mp"
 msgid "1st Armored Platoon Commander [USAGF]"
-msgstr "1st Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_platoon_tsgt"
 msgid "1st Armored Platoon Sergeant [USAGF]"
-msgstr "1st Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_recon_rifle"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_recon_smg"
 msgid "1st Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 1ª [USAGF]"
+msgstr "Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_recon_tl"
 msgid "1st Armored Recon Teamleader [USAGF]"
-msgstr "1st Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_at_asst"
 msgid "1st Armored AT Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_at_m1a1"
 msgid "1st Armored AT Inf. [USAGF]"
-msgstr "1st Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_at_m9a1"
 msgid "1st Armored AT Inf. [USAGF]"
-msgstr "1st Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_band"
 msgid "1st Armored Rifleman [USAGF]"
-msgstr "1st Blindada Atirador [USAGF]"
+msgstr "Atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_bar"
 msgid "1st Armored Automatic Rifleman [USAGF]"
-msgstr "1st Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_bar_ammo"
 msgid "1st Armored AR Ammo Bearer [USAGF]"
-msgstr "1st Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_bar_asst"
 msgid "1st Armored AR Asst. [USAGF]"
-msgstr "1st Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_gren"
 msgid "1st Armored Rifle Grenadier [USAGF]"
-msgstr "1st Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_rifle_sniper"
 msgid "1st Armored Sniper [USAGF]"
-msgstr "1st Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_sl_asst"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_sl_asst_carbine"
 msgid "1st Armored Asst. SL [USAGF]"
-msgstr "1st Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_sl_carbine"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_sl_rifle"
 msgid "1st Armored Squadleader [USAGF]"
-msgstr "1st Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tank_com"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tank_com_m1"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tank_com_m3"
 msgid "1st Armored Tank Commander [USAGF]"
-msgstr "1st Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tankman"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tankman_m1"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar1_tankman_m3"
 msgid "1st Armored Tank Crew [USAGF]"
-msgstr "1st Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 1ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_at_asst"
 msgid "2nd Armored AT Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_at_m1a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_band"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar"
 msgid "2nd Armored Automatic Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar_ammo"
 msgid "2nd Armored AR Ammo Bearer [USAGF]"
-msgstr "2nd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar_asst"
 msgid "2nd Armored AR Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_sl_asst"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_camo_sl_rifle"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_carbine_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_company_1st_sgt"
 msgid "2nd Armored Company First Sergeant [USAGF]"
-msgstr "2nd Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_company_com"
 msgid "2nd Armored Company Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_company_ssgt"
 msgid "2nd Armored Company Staff Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_crew"
 msgid "2nd Armored Crew [USAGF]"
-msgstr "2nd Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_driver"
 msgid "2nd Armored Driver [USAGF]"
-msgstr "2nd Blindada Motorista [USAGF]"
+msgstr "Motorista da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_carbine_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_company_1st_sgt"
 msgid "2nd Armored Company First Sergeant [USAGF]"
-msgstr "2nd Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_company_com"
 msgid "2nd Armored Company Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_company_ssgt"
 msgid "2nd Armored Company Staff Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_crew"
 msgid "2nd Armored Crew [USAGF]"
-msgstr "2nd Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_driver"
 msgid "2nd Armored Driver [USAGF]"
-msgstr "2nd Blindada Motorista [USAGF]"
+msgstr "Motorista da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_medic"
 msgid "2nd Armored Medic [USAGF]"
-msgstr "2nd Blindada Médico [USAGF]"
+msgstr "Médico da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_platoon_com"
 msgid "2nd Armored Platoon Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_platoon_tsgt"
 msgid "2nd Armored Platoon Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_recon_rifle"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_recon_smg"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_recon_tl"
 msgid "2nd Armored Recon Teamleader [USAGF]"
-msgstr "2nd Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_asst"
 msgid "2nd Armored AT Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_m1a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_m9a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_band"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_band2"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar"
 msgid "2nd Armored Automatic Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar_ammo"
 msgid "2nd Armored AR Ammo Bearer [USAGF]"
-msgstr "2nd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar_asst"
 msgid "2nd Armored AR Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_rifle_sniper"
 msgid "2nd Armored Sniper [USAGF]"
-msgstr "2nd Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_sl_asst"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_sl_asst_carbine"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_sl_carbine"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_late_sl_rifle"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_medic"
 msgid "2nd Armored Medic [USAGF]"
-msgstr "2nd Blindada Médico [USAGF]"
+msgstr "Médico da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_platoon_com"
 msgid "2nd Armored Platoon Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_platoon_tsgt"
 msgid "2nd Armored Platoon Sergeant [USAGF]"
-msgstr "2nd Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_recon_rifle"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_recon_smg"
 msgid "2nd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 2ª [USAGF]"
+msgstr "Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_recon_tl"
 msgid "2nd Armored Recon Teamleader [USAGF]"
-msgstr "2nd Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_at"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_at_asst"
 msgid "2nd Armored AT Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_at_m1a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_at_m9a1"
 msgid "2nd Armored AT Inf. [USAGF]"
-msgstr "2nd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_band"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_band2"
 msgid "2nd Armored Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador [USAGF]"
+msgstr "Atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_bar"
 msgid "2nd Armored Automatic Rifleman [USAGF]"
-msgstr "2nd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_ammo"
 msgid "2nd Armored AR Ammo Bearer [USAGF]"
-msgstr "2nd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_ammo2"
 msgid "2nd Armored AR Ammo Bearer [USAGF]"
-msgstr "2nd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_asst"
 msgid "2nd Armored AR Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_asst2"
 msgid "2nd Armored AR Asst. [USAGF]"
-msgstr "2nd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_gren"
 msgid "2nd Armored Rifle Grenadier [USAGF]"
-msgstr "2nd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_rifle_sniper"
 msgid "2nd Armored Sniper [USAGF]"
-msgstr "2nd Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_sl_asst"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_sl_asst_carbine"
 msgid "2nd Armored Asst. SL [USAGF]"
-msgstr "2nd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_sl_carbine"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_sl_rifle"
 msgid "2nd Armored Squadleader [USAGF]"
-msgstr "2nd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tank_com"
 msgid "2nd Armored Tank Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tank_com_m1"
 msgid "2nd Armored Tank Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tank_com_m1a1"
 msgid "2nd Armored Tank Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tank_com_m3"
 msgid "2nd Armored Tank Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tankman"
 msgid "2nd Armored Tank Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tankman_m1"
 msgid "2nd Armored Tank Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_tankman_m3"
 msgid "2nd Armored Tank Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_com"
 msgid "2nd Armored Vehicle Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m1"
 msgid "2nd Armored Vehicle Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m1a1"
 msgid "2nd Armored Vehicle Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m3"
 msgid "2nd Armored Vehicle Commander [USAGF]"
-msgstr "2nd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew"
 msgid "2nd Armored Vehicle Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew_m1"
 msgid "2nd Armored Vehicle Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew_m3"
 msgid "2nd Armored Vehicle Crew [USAGF]"
-msgstr "2nd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 2ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_carbine_gren"
 msgid "3rd Armored Rifle Grenadier [USAGF]"
-msgstr "3rd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_company_1st_sgt"
 msgid "3rd Armored Company First Sergeant [USAGF]"
-msgstr "3rd Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_company_com"
 msgid "3rd Armored Company Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_company_ssgt"
 msgid "3rd Armored Company Staff Sergeant [USAGF]"
-msgstr "3rd Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_crew"
 msgid "3rd Armored Crew [USAGF]"
-msgstr "3rd Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_driver"
 msgid "3rd Armored Driver [USAGF]"
-msgstr "3rd Blindada Motorista [USAGF]"
+msgstr "Motorista da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_carbine_gren"
 msgid "3rd Armored Rifle Grenadier [USAGF]"
-msgstr "3rd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_company_1st_sgt"
 msgid "3rd Armored Company First Sergeant [USAGF]"
-msgstr "3rd Blindada Primeiro Sargento de Companhia [USAGF]"
+msgstr "First Sergeant de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_company_com"
 msgid "3rd Armored Company Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Companhia [USAGF]"
+msgstr "Comandante de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_company_ssgt"
 msgid "3rd Armored Company Staff Sergeant [USAGF]"
-msgstr "3rd Blindada Sargento de Estado-Maior de Companhia [USAGF]"
+msgstr "Staff Sergeant de Companhia da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_crew"
 msgid "3rd Armored Crew [USAGF]"
-msgstr "3rd Blindada Tripulação [USAGF]"
+msgstr "Tripulação da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_driver"
 msgid "3rd Armored Driver [USAGF]"
-msgstr "3rd Blindada Motorista [USAGF]"
+msgstr "Motorista da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_medic"
 msgid "3rd Armored Medic [USAGF]"
-msgstr "3rd Blindada Médico [USAGF]"
+msgstr "Médico da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_platoon_com"
 msgid "3rd Armored Platoon Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_platoon_tsgt"
 msgid "3rd Armored Platoon Sergeant [USAGF]"
-msgstr "3rd Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_recon_rifle"
 msgid "3rd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 3ª [USAGF]"
+msgstr "Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_recon_smg"
 msgid "3rd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 3ª [USAGF]"
+msgstr "Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_recon_tl"
 msgid "3rd Armored Recon Teamleader [USAGF]"
-msgstr "3rd Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_asst"
 msgid "3rd Armored AT Asst. [USAGF]"
-msgstr "3rd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_m1a1"
 msgid "3rd Armored AT Inf. [USAGF]"
-msgstr "3rd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_m9a1"
 msgid "3rd Armored AT Inf. [USAGF]"
-msgstr "3rd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_band"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_band2"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar"
 msgid "3rd Armored Automatic Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar_ammo"
 msgid "3rd Armored AR Ammo Bearer [USAGF]"
-msgstr "3rd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar_asst"
 msgid "3rd Armored AR Asst. [USAGF]"
-msgstr "3rd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_gren"
 msgid "3rd Armored Rifle Grenadier [USAGF]"
-msgstr "3rd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_rifle_sniper"
 msgid "3rd Armored Sniper [USAGF]"
-msgstr "3rd Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_sl_asst"
 msgid "3rd Armored Asst. SL [USAGF]"
-msgstr "3rd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_sl_asst_carbine"
 msgid "3rd Armored Asst. SL [USAGF]"
-msgstr "3rd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_sl_carbine"
 msgid "3rd Armored Squadleader [USAGF]"
-msgstr "3rd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_late_sl_rifle"
 msgid "3rd Armored Squadleader [USAGF]"
-msgstr "3rd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_medic"
 msgid "3rd Armored Medic [USAGF]"
-msgstr "3rd Blindada Médico [USAGF]"
+msgstr "Médico da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_platoon_com"
 msgid "3rd Armored Platoon Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Pelotão [USAGF]"
+msgstr "Comandante de Pelotão da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_platoon_tsgt"
 msgid "3rd Armored Platoon Sergeant [USAGF]"
-msgstr "3rd Blindada Sargento de Pelotão [USAGF]"
+msgstr "Sargento de Pelotão da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_recon_rifle"
 msgid "3rd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 3ª [USAGF]"
+msgstr "Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_recon_smg"
 msgid "3rd Armored Recon [USAGF]"
-msgstr "Reconhecimento Blindado 3ª [USAGF]"
+msgstr "Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_recon_tl"
 msgid "3rd Armored Recon Teamleader [USAGF]"
-msgstr "3rd Blindada Líder de Equipe de Reconhecimento [USAGF]"
+msgstr "Líder de Equipe de Reconhecimento da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_at"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_at_asst"
 msgid "3rd Armored AT Asst. [USAGF]"
-msgstr "3rd Blindada Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_at_m1a1"
 msgid "3rd Armored AT Inf. [USAGF]"
-msgstr "3rd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_at_m9a1"
 msgid "3rd Armored AT Inf. [USAGF]"
-msgstr "3rd Blindada Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_band"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_band2"
 msgid "3rd Armored Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador [USAGF]"
+msgstr "Atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_bar"
 msgid "3rd Armored Automatic Rifleman [USAGF]"
-msgstr "3rd Blindada Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_bar_ammo"
 msgid "3rd Armored AR Ammo Bearer [USAGF]"
-msgstr "3rd Blindada Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_bar_asst"
 msgid "3rd Armored AR Asst. [USAGF]"
-msgstr "3rd Blindada Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_gren"
 msgid "3rd Armored Rifle Grenadier [USAGF]"
-msgstr "3rd Blindada Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_rifle_sniper"
 msgid "3rd Armored Sniper [USAGF]"
-msgstr "3rd Blindada Franco-atirador [USAGF]"
+msgstr "Franco-atirador da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_sl_asst"
 msgid "3rd Armored Asst. SL [USAGF]"
-msgstr "3rd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_sl_asst_carbine"
 msgid "3rd Armored Asst. SL [USAGF]"
-msgstr "3rd Blindada Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_sl_carbine"
 msgid "3rd Armored Squadleader [USAGF]"
-msgstr "3rd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_sl_rifle"
 msgid "3rd Armored Squadleader [USAGF]"
-msgstr "3rd Blindada Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tank_com"
 msgid "3rd Armored Tank Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tank_com_m1"
 msgid "3rd Armored Tank Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tank_com_m1a1"
 msgid "3rd Armored Tank Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tank_com_m3"
 msgid "3rd Armored Tank Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Tanque [USAGF]"
+msgstr "Comandante de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tankman"
 msgid "3rd Armored Tank Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tankman_m1"
 msgid "3rd Armored Tank Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tankman_m3"
 msgid "3rd Armored Tank Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_tankman_t5_m3"
 msgid "3rd Armored Tank Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Tanque [USAGF]"
+msgstr "Tripulação de Tanque da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_com"
 msgid "3rd Armored Vehicle Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m1"
 msgid "3rd Armored Vehicle Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m1a1"
 msgid "3rd Armored Vehicle Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m3"
 msgid "3rd Armored Vehicle Commander [USAGF]"
-msgstr "3rd Blindada Comandante de Veículo [USAGF]"
+msgstr "Comandante de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew"
 msgid "3rd Armored Vehicle Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew_m1"
 msgid "3rd Armored Vehicle Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew_m3"
 msgid "3rd Armored Vehicle Crew [USAGF]"
-msgstr "3rd Blindada Tripulação de Veículo [USAGF]"
+msgstr "Tripulação de Veículo da 3ª Blindada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/artilleryman"
 msgid "Artilleryman [USAGF]"
@@ -4083,7 +4083,7 @@ msgstr "Inf. Lança-chamas de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_gren"
 msgid "Engineer Rifle Grenadier [USAGF]"
-msgstr "Engenheiro Granadeiro Atirador [USAGF]"
+msgstr "Engenheiro Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_mine_ap"
 msgid "Engineer AP Miner [USAGF]"
@@ -4099,7 +4099,7 @@ msgstr "Reconhecimento de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_recon_gren"
 msgid "Engineer Recon Rifle Grenadier [USAGF]"
-msgstr "Engenheiro Reconhecimento Granadeiro Atirador [USAGF]"
+msgstr "Engenheiro Reconhecimento Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_recon_sec_lead"
 msgid "Engineer Recon Section Leader [USAGF]"
@@ -4155,7 +4155,7 @@ msgstr "Auxiliar Antitanque [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_antitank_gren"
 msgid "AT Rifle Grenadier [USAGF]"
-msgstr "AT Granadeiro Atirador [USAGF]"
+msgstr "AT Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_antitank_m1a1"
 msgid "AT Inf. [USAGF]"
@@ -4251,7 +4251,7 @@ msgstr "Inf. Lança-chamas de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_gren"
 msgid "Engineer Rifle Grenadier [USAGF]"
-msgstr "Engenheiro Granadeiro Atirador [USAGF]"
+msgstr "Engenheiro Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_mine_ap"
 msgid "Engineer AP Miner [USAGF]"
@@ -4267,7 +4267,7 @@ msgstr "Reconhecimento de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_recon_gren"
 msgid "Engineer Recon Rifle Grenadier [USAGF]"
-msgstr "Engenheiro Reconhecimento Granadeiro Atirador [USAGF]"
+msgstr "Engenheiro Reconhecimento Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_recon_sec_lead"
 msgid "Engineer Recon Section Leader [USAGF]"
@@ -4383,19 +4383,19 @@ msgstr "Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_rifle_bar"
 msgid "Automatic Rifleman [USAGF]"
-msgstr "Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_rifle_bar_ammo"
 msgid "Automatic Rifleman Ammo Bearer [USAGF]"
-msgstr "Portador de Munição do Atirador Automático [USAGF]"
+msgstr "Portador de Munição do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_rifle_bar_asst"
 msgid "Automatic Rifleman Asst. [USAGF]"
-msgstr "Atirador Automático Auxiliar [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_rifle_gren"
 msgid "Rifle Grenadier [USAGF]"
-msgstr "Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_rifle_scout"
 msgid "Rifleman Scout [USAGF]"
@@ -4459,19 +4459,19 @@ msgstr "Veterano Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar"
 msgid "Veteran Automatic Rifleman [USAGF]"
-msgstr "Veterano Atirador Automático [USAGF]"
+msgstr "Veterano Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar_ammo"
 msgid "Veteran AR Ammo Bearer [USAGF]"
-msgstr "Veterano Carregador de Atirador Automático [USAGF]"
+msgstr "Veterano Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar_asst"
 msgid "Veteran AR Asst. [USAGF]"
-msgstr "Veterano Auxiliar de Atirador Automático [USAGF]"
+msgstr "Veterano Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_vet_rifle_gren"
 msgid "Veteran Rifle Grenadier [USAGF]"
-msgstr "Veterano Granadeiro Atirador [USAGF]"
+msgstr "Veterano Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_vet_rifle_sniper"
 msgid "Veteran Sniper [USAGF]"
@@ -4519,27 +4519,27 @@ msgstr "Auxiliar de Tripulação MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_at_asst"
 msgid "Mountain AT Asst. [USAGF]"
-msgstr "Montanha Auxiliar Antitanque [USAGF]"
+msgstr "Auxiliar Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_at_m1a1"
 msgid "Mountain AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_at_m9a1"
 msgid "Mountain AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT [USAGF]"
+msgstr "Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_bar"
 msgid "Mountain Automatic Rifleman [USAGF]"
-msgstr "Montanha Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_bar_ammo"
 msgid "Mountain AR Ammo Bearer [USAGF]"
-msgstr "Montanha Carregador de Atirador Automático [USAGF]"
+msgstr "Portador de Munição de Fuzil Automático das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_bar_asst"
 msgid "Mountain AR Asst. [USAGF]"
-msgstr "Montanha Auxiliar de Atirador Automático [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng"
 msgid "Mountain Engineer [USAGF]"
@@ -4547,35 +4547,35 @@ msgstr "Engenheiro de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_at_asst"
 msgid "Mountain Engineer AT Asst. [USAGF]"
-msgstr "Montanha Auxiliar Antitanque de Engenheiros [USAGF]"
+msgstr "Engenheiro Auxiliar Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_at_m1a1"
 msgid "Mountain Engineer AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_at_m9a1"
 msgid "Mountain Engineer AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT de Engenheiros [USAGF]"
+msgstr "Engenheiro de Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_flamer"
 msgid "Mountain Engineer Flamer [USAGF]"
-msgstr "Montanha Engenheiro Lança-chamas [USAGF]"
+msgstr "Engenheiro Lança-chamas das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_sl"
 msgid "Mountain Engineer Squadleader [USAGF]"
-msgstr "Montanha Engenheiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Engenheiros das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_eng_sl_asst"
 msgid "Mountain Engineer Asst. SL [USAGF]"
-msgstr "Montanha Engenheiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Engenheiros das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_mg"
 msgid "Mountain MG Operator [USAGF]"
-msgstr "Montanha Operador de MG [USAGF]"
+msgstr "Operador de Metralhadora das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_mg_ammo"
 msgid "Mountain MG Ammo Bearer [USAGF]"
-msgstr "Montanha Carregador de MG [USAGF]"
+msgstr "Portador de Munição de Metralhadora das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio"
 msgid "Mountain Pioneer [USAGF]"
@@ -4583,55 +4583,55 @@ msgstr "Pioneiro de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio_at_asst"
 msgid "Mountain Pioneer AT Asst. [USAGF]"
-msgstr "Montanha Auxiliar Antitanque de Pioneiros [USAGF]"
+msgstr "Pioneiro Auxiliar Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio_at_m1a1"
 msgid "Mountain Pioneer AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT de Pioneiros [USAGF]"
+msgstr "Pioneiro de Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio_at_m9a1"
 msgid "Mountain Pioneer AT Inf. [USAGF]"
-msgstr "Montanha Inf. AT de Pioneiros [USAGF]"
+msgstr "Pioneiro de Infantaria Antitanque das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio_sl"
 msgid "Mountain Pioneer Squadleader [USAGF]"
-msgstr "Montanha Pioneiro Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra de Pioneiros das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_pio_sl_asst"
 msgid "Mountain Pioneer Asst. SL [USAGF]"
-msgstr "Montanha Pioneiro Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra de Pioneiros das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_rifle"
 msgid "Mountain Rifleman [USAGF]"
-msgstr "Montanha Atirador [USAGF]"
+msgstr "Atirador das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_rifle_at"
 msgid "Mountain Rifleman [USAGF]"
-msgstr "Montanha Atirador [USAGF]"
+msgstr "Atirador das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_rifle_gren"
 msgid "Mountain Rifle Grenadier [USAGF]"
-msgstr "Montanha Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_sl_asst_gren"
 msgid "Mountain Asst. SL [USAGF]"
-msgstr "Montanha Auxiliar do Líder de Esquadra [USAGF]"
+msgstr "Auxiliar do Líder de Esquadra das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_sl_rifle"
 msgid "Mountain Squadleader [USAGF]"
-msgstr "Montanha Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_sl_smg"
 msgid "Mountain Squadleader [USAGF]"
-msgstr "Montanha Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_sl_smg_m3"
 msgid "Mountain Squadleader [USAGF]"
-msgstr "Montanha Líder de Esquadra [USAGF]"
+msgstr "Líder de Esquadra das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_sniper"
 msgid "Mountain Sniper [USAGF]"
-msgstr "Montanha Franco-atirador [USAGF]"
+msgstr "Franco-atirador das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mp_carbine"
 msgid "Military Police Rifleman [USAGF]"
@@ -4763,15 +4763,15 @@ msgstr "Sargento de Pelotão [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_assault_bar"
 msgid "Ranger Automatic Rifleman [USAGF]"
-msgstr "Ranger Atirador Automático [USAGF]"
+msgstr "Ranger Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_assault_bar_asst"
 msgid "Ranger AR Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Atirador Automático [USAGF]"
+msgstr "Ranger Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_assault_gren"
 msgid "Ranger Rifle Grenadier [USAGF]"
-msgstr "Ranger Granadeiro Atirador [USAGF]"
+msgstr "Ranger Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_assault_rifle"
 msgid "Ranger Rifleman [USAGF]"
@@ -4799,15 +4799,15 @@ msgstr "Ranger Inf. AT [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_bar"
 msgid "Ranger Automatic Rifleman [USAGF]"
-msgstr "Ranger Atirador Automático [USAGF]"
+msgstr "Ranger Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_bar_ammo"
 msgid "Ranger AR Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de Atirador Automático [USAGF]"
+msgstr "Ranger Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_bar_asst"
 msgid "Ranger AR Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Atirador Automático [USAGF]"
+msgstr "Ranger Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_company_1st_sgt"
 msgid "Ranger Company First Sergeant [USAGF]"
@@ -4823,7 +4823,7 @@ msgstr "Ranger Tripulação [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_gren"
 msgid "Ranger Rifle Grenadier [USAGF]"
-msgstr "Ranger Granadeiro Atirador [USAGF]"
+msgstr "Ranger Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_at_m9a1"
 msgid "Ranger AT Inf. [USAGF]"
@@ -4831,15 +4831,15 @@ msgstr "Ranger Inf. AT [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_bar"
 msgid "Ranger Automatic Rifleman [USAGF]"
-msgstr "Ranger Atirador Automático [USAGF]"
+msgstr "Ranger Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_bar_ammo"
 msgid "Ranger AR Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de Atirador Automático [USAGF]"
+msgstr "Ranger Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_bar_asst"
 msgid "Ranger AR Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Atirador Automático [USAGF]"
+msgstr "Ranger Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_company_1st_sgt"
 msgid "Ranger Company First Sergeant [USAGF]"
@@ -4855,11 +4855,11 @@ msgstr "Ranger Tripulação [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_gren"
 msgid "Ranger Rifle Grenadier [USAGF]"
-msgstr "Ranger Granadeiro Atirador [USAGF]"
+msgstr "Ranger Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_mg_ammo"
 msgid "Ranger MG Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de MG [USAGF]"
+msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
@@ -4911,7 +4911,7 @@ msgstr "Ranger Franco-atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_mg_ammo"
 msgid "Ranger MG Ammo Bearer [USAGF]"
-msgstr "Ranger Carregador de MG [USAGF]"
+msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
@@ -4999,27 +4999,27 @@ msgstr "Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_bar"
 msgid "Automatic Rifleman [USAGF]"
-msgstr "Atirador Automático [USAGF]"
+msgstr "Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_bar_ammo"
 msgid "Automatic Rifleman Ammo Bearer [USAGF]"
-msgstr "Portador de Munição do Atirador Automático [USAGF]"
+msgstr "Portador de Munição do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_bar_ammo2"
 msgid "Automatic Rifleman Ammo Bearer [USAGF]"
-msgstr "Portador de Munição do Atirador Automático [USAGF]"
+msgstr "Portador de Munição do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_bar_asst"
 msgid "Automatic Rifleman Asst. [USAGF]"
-msgstr "Atirador Automático Auxiliar [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_bar_asst2"
 msgid "Automatic Rifleman Asst. [USAGF]"
-msgstr "Atirador Automático Auxiliar [USAGF]"
+msgstr "Auxiliar do Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_gren"
 msgid "Rifle Grenadier [USAGF]"
-msgstr "Granadeiro Atirador [USAGF]"
+msgstr "Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/rifle_scout"
 msgid "Rifleman Scout [USAGF]"
@@ -5243,19 +5243,19 @@ msgstr "Veterano Atirador [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/vet_rifle_bar"
 msgid "Veteran Automatic Rifleman [USAGF]"
-msgstr "Veterano Atirador Automático [USAGF]"
+msgstr "Veterano Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/vet_rifle_bar_ammo"
 msgid "Veteran AR Ammo Bearer [USAGF]"
-msgstr "Veterano Carregador de Atirador Automático [USAGF]"
+msgstr "Veterano Portador de Munição de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/vet_rifle_bar_asst"
 msgid "Veteran AR Asst. [USAGF]"
-msgstr "Veterano Auxiliar de Atirador Automático [USAGF]"
+msgstr "Veterano Auxiliar de Atirador de Fuzil Automático [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/vet_rifle_gren"
 msgid "Veteran Rifle Grenadier [USAGF]"
-msgstr "Veterano Granadeiro Atirador [USAGF]"
+msgstr "Veterano Granadeiro de Fuzil [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/vet_rifle_sniper"
 msgid "Veteran Sniper [USAGF]"

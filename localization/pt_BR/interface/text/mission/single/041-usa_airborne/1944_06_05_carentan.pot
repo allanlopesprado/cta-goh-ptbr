@@ -62,7 +62,7 @@ msgstr "Conseguimos limpar tudo ao sul desta ferrovia! Observamos movimento inim
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator10"
 msgid "Our Weapons Platoon has caught up to us. Get them set in and prepare to defend our position."
-msgstr "Nosso Pelotão de Armas nos alcançou. Posicionem-os e preparem-se para defender nossa posição."
+msgstr "Nosso Pelotão de Armas nos alcançou. Posicionem-nos e preparem-se para defender nossa posição."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator11"
 msgid "Enemy mortars! Take cover!"
@@ -74,7 +74,7 @@ msgstr "Tropas aliadas de planador chegando pelo noroeste!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator14"
 msgid "Kraut Halftrack!"
-msgstr "Meia-lagarta Kraut!"
+msgstr "Semilagarta Kraut!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator15"
 msgid "Go, go, go!"
@@ -106,7 +106,7 @@ msgstr "Olhe, Senhor! Eles estão recuando!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier03"
 msgid "Jerry is retreating again!"
-msgstr "O Jerry está recuando de novo!"
+msgstr "Os alemães estão recuando de novo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier04"
 msgid "Those Krauts have had enough!"
@@ -114,7 +114,7 @@ msgstr "Aqueles Krauts já chegaram ao limite!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier05"
 msgid "Hey, check this out! Jerry was too busy runnin’ to take this with ‘em!"
-msgstr "Ei, olha isso! O Jerry estava ocupado demais correndo para levar isso!"
+msgstr "Ei, olha isso! Os alemães estavam tão ocupados fugindo que deixaram isto para trás!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_soldier06"
 msgid "This area of town is secure! What do we have planned next, Sir?"
@@ -142,7 +142,7 @@ msgstr "Dia D +6, 06h00"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/story"
 msgid "  It's been almost a week since you parachuted into France, and it’s been one hell of a week. The Germans are not ready to give up Normandy, and several fierce counterattacks have proven that this battle is far from over.\n\n  It’s clear that whoever holds Carentan, holds the key to the Cotentin peninsula. If the 101st takes Carentan, our Utah and Omaha Beach forces can unite to form a continuous front.\n\n  Your regiment, the 506th PIR, will approach Carentan from the south. Your orders are to take the Carentan railway station. In support of your push, the 401st Glider Infantry Regiment will attack from the opposite side of town.\n\n Good luck!"
-msgstr "  Já se passou quase uma semana desde que você saltou de paraquedas na França, e foi uma semana e tanto. Os alemães não estão prontos para abandonar a Normandia, e vários contra-ataques ferozes provaram que esta batalha está longe de terminar.\n\n  Está claro que quem controla Carentan controla a chave para a Península de Cotentin. Se o 101º tomar Carentan, nossas forças das Praias Utah e Omaha poderão se unir para formar uma frente contínua.\n\n  Seu regimento, o 506º PIR, se aproximará de Carentan pelo sul. Suas ordens são tomar a estação ferroviária de Carentan. Em apoio ao seu avanço, o 401º Regimento de Infantaria de Planadores atacará pelo lado oposto da cidade.\n\n Boa sorte!"
+msgstr "  Já se passou quase uma semana desde que você saltou de paraquedas na França, e foi uma semana e tanto. Os alemães não estão prontos para abandonar a Normandia, e vários contra-ataques ferozes provaram que esta batalha está longe de terminar.\n\n  Está claro que quem controla Carentan controla a chave para a Península de Cotentin. Se a 101ª tomar Carentan, nossas forças das Praias Utah e Omaha poderão se unir para formar uma frente contínua.\n\n  Seu regimento, o 506º PIR, se aproximará de Carentan pelo sul. Suas ordens são tomar a estação ferroviária de Carentan. Em apoio ao seu avanço, o 401º Regimento de Infantaria de Planadores atacará pelo lado oposto da cidade.\n\n Boa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/task1"
 msgid "Neutralize the enemy MG42 and clear the crossroads!"

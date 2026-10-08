@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "validatedAt": "2026-10-08T01:07:23.257Z",
+  "scope": "Full file, contextual decision coverage, guarded-change replay, encoding, catalog and archive validation. Not an in-game/audio test.",
+  "location": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr",
+  "nodeVersion": "v24.15.0",
+  "filePairs": 362,
+  "uniqueEntries": 22030,
+  "annotations": 736,
+  "annotationCounts": {
+    "corrected": 468,
+    "retained-validated": 227,
+    "requires-game-evidence": 5,
+    "source-issue": 34,
+    "deferred-user": 2
+  },
+  "unclassifiedAnnotations": 0,
+  "corrections": 1431,
+  "changedPotFiles": 67,
+  "allSourceFilesByteIdenticalToProvidedEnglishArchive": true,
+  "providedAndInstalledEnglishPackagesUnmodifiedAndIdentical": true,
+  "originalEnglishSha256": "DC5D9F6C9B3F3D47092802ED69C85E4B0C7F6071E60D552E7C54D8BB64C61DD6",
+  "guardedChangeReplay": {
+    "passed": true,
+    "files": 362,
+    "changes": 1431,
+    "onlyPlannedMsgstrChanges": true
+  },
+  "tests": {
+    "passed": 52,
+    "total": 52,
+    "failed": 0,
+    "files": [
+      "tools/translation-audit.test.mjs",
+      "tools/apply-context-review.test.mjs",
+      "tools/final-review-audit.test.mjs",
+      "tools/pack-translation.test.mjs"
+    ]
+  },
+  "catalogAudit": {
+    "passed": true,
+    "files": {
+      "previousEnglish": 362,
+      "portuguese": 362,
+      "currentEnglish": 362
+    },
+    "counts": {
+      "unchanged": 22030,
+      "added": 0,
+      "changed": 0,
+      "removed": 0,
+      "translatedExact": 21893,
+      "needsTranslationReview": 0
+    },
+    "addedFiles": [],
+    "removedFiles": [],
+    "changedFiles": [],
+    "issuesByType": {
+      "same-as-source-review": 3785,
+      "catalog-syntax-error": 66
+    },
+    "duplicates": 92,
+    "sourceExceptionsUsed": 1,
+    "actionableErrors": 0,
+    "diagnosticNotes": "same-as-source candidates are not automatic failures; source duplicates and inherited physical multiline/literal backslash syntax remain reported rather than rewritten."
+  },
+  "package": {
+    "files": 363,
+    "bytes": 3806929,
+    "archiveBytes": 3876403,
+    "crc32": "verified",
+    "content": "exact expected bytes",
+    "root": "default/",
+    "locale": "pt_BR",
+    "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak",
+    "sha256": "1b49df2bb3d2480df9ef1aa5864e3c0788dd2b18ef0d99b8cb4d2bf648be1ff2",
+    "reproducible": true
+  },
+  "independentReaders": {
+    "validatedAt": "2026-10-08T01:07:18.587Z",
+    "archive": "C:\\Users\\allan\\AppData\\Local\\Temp\\cta-goh-ptbr-inspect-3c94c33a9a7240df94d9bb076e7ccf05\\dist\\default.pak",
+    "sha256": "1b49df2bb3d2480df9ef1aa5864e3c0788dd2b18ef0d99b8cb4d2bf648be1ff2",
+    "tarInventoryFiles": 363,
+    "dotNetZipArchiveMatchedSha256Files": 363,
+    "expectedInventoryExact": true,
+    "note": "Read-only verification of the final rebuilt package by Windows .NET ZipArchive and tar; no game installation or launch."
+  },
+  "inGameValidation": {
+    "complete": false,
+    "audioVerified": false,
+    "reason": "User explicitly chose to complete files and test the game later.",
+    "remainingChecks": [
+      {
+        "pendingIndex": 637,
+        "status": "requires-game-evidence",
+        "reason": "A emissão Gav-gav foi mantida exatamente como no inglês. Script confirma a fala no rádio e a sequência cômica, mas não decide se é latido, indicativo ou outra piada; significado audiovisual não aprovado sem áudio.",
+        "evidence": [
+          {
+            "file": "interface/text/mission/single/06-bonus/1945_04_yugoslavia.pot",
+            "context": "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/08",
+            "supports": "Par EN/PT atual e entradas vizinhas relidos."
+          },
+          {
+            "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/dlc5.pak",
+            "entry": "map/single/06-bonus/1945_04_yugoslavia/0.mi",
+            "supports": "tanker/08 está entre tanker/07 e /09, associado ao narrador do tanque. O script preserva a sequência mas não explica emissão Gav-gav nem fornece transcrição alternativa de áudio."
+          }
+        ],
+        "reviewer": "narrative",
+        "original": {
+          "file": "interface/text/mission/single/06-bonus/1945_04_yugoslavia.pot",
+          "context": "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/08",
+          "reason": "Gav-gav é emissão no rádio que pode ser piada/indicativo; preservar sem converter onomatopeia antes de conferir áudio. Referências Kelly's Heroes e ondas negativas intencionais foram mantidas.",
+          "reviewer": "missions-east"
+        }
+      },
+      {
+        "pendingIndex": 640,
+        "status": "requires-game-evidence",
+        "reason": "Astoveri consta literalmente na fala inglesa. Preservado sem inventar nome próprio nem emendar para asetoveri/toveri: não foi obtida confirmação lexical primária dessa grafia; a palavra dita exige conferência de áudio.",
+        "evidence": [
+          {
+            "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+            "context": "mission/single/03-fin/1944_10_tornio/narrator/officer/07",
+            "supports": "Par EN/PT atual e entradas vizinhas relidos."
+          }
+        ],
+        "reviewer": "narrative",
+        "original": {
+          "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+          "context": "mission/single/03-fin/1944_10_tornio/narrator/officer/07",
+          "reason": "Astoveri não confirmado por dicionário finlandês; não adivinhar asetoveri/toveri nem tratá-lo como nome de pessoa. Preservado até áudio/grafia confirmados.",
+          "reviewer": "missions-east"
+        }
+      },
+      {
+        "pendingIndex": 647,
+        "status": "requires-game-evidence",
+        "reason": "The Mayo é fragmento inglês e O major no PT presume uma patente. O script compatível não referencia /03 e salta de /02 para /04. Sem áudio ou fonte textual íntegra não certificar major, Mayor nem personagem Mayo; mantido provisoriamente e isolado como caso de evidência audiovisual.",
+        "evidence": [
+          {
+            "file": "interface/text/mission/single/02-ger/1942_01_vyazma.pot",
+            "context": "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03",
+            "supports": "Par EN/PT atual e entradas vizinhas relidos."
+          },
+          {
+            "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/map/single.pak",
+            "entry": "single/02-ger/1942_01_vyazma/0.mi",
+            "supports": "Intro referencia narrator/leutnant/01,02,04, mas não /03. Não há nome Mayo/Major no script. O fragmento não prova patente nem identidade."
+          }
+        ],
+        "reviewer": "narrative",
+        "original": {
+          "file": "interface/text/mission/single/02-ger/1942_01_vyazma.pot",
+          "context": "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03",
+          "reason": "Original The Mayo é fragmento incompleto; PT O major presume rank. Não completar nem corrigir sem áudio/script.",
+          "reviewer": "missions-east"
+        }
+      },
+      {
+        "pendingIndex": 697,
+        "status": "requires-game-evidence",
+        "reason": "As quatro entradas usam literalmente Home Guard para países diferentes. Conservar identidade legada evita inventar Volkssturm, Guarda Nacional ou outra formação. Procuraram-se associações nos índices de gamelogic.pak e não foi comprovado o vínculo destes quatro contextos. Verificar apresentação/uso antes de expandir o nome.",
+        "original": {
+          "file": "interface/text/info.pot",
+          "contexts": [
+            "info/squad/homeguard(usa)",
+            "info/squad/homeguard(eng)",
+            "info/squad/homeguard(ger)",
+            "info/squad/homeguard(rus)"
+          ],
+          "reason": "Rótulos legados usam Home Guard para quatro nações. Preservada identidade; falta associação com unidade/cena para identificar formação real.",
+          "reviewer": "interface"
+        },
+        "evidence": [],
+        "reviewer": "final-root"
+      },
+      {
+        "pendingIndex": 698,
+        "status": "requires-game-evidence",
+        "reason": "Os pares Sharp/Soft e Check Out/Undo check Out e o campo Direct junto a Angle/Name foram lidos no catálogo completo. PageSceneEditor.xml expõe raízes de editor, mas não define estes controles; pesquisas por documentação do desenvolvedor não esclareceram. Mantidos os rótulos existentes; não atribuir arbitrariamente ação de versionamento, direção ou dureza de pincel. Conferir controles no editor.",
+        "original": {
+          "file": "interface/text/editor.pot",
+          "contexts": [
+            "mapeditor/checkout",
+            "missioneditor/checkout",
+            "landmanager/sharp",
+            "zonemanager/globalwplocation"
+          ],
+          "reason": "Sentido de controles especializados precisa de tela/documentação do editor; não adivinhar significado por rótulo isolado.",
+          "reviewer": "interface"
+        },
+        "evidence": [],
+        "reviewer": "final-root"
+      },
+      {
+        "pendingIndex": 729,
+        "status": "deferred-user",
+        "reason": "O usuário escolheu concluir os arquivos e testar o jogo depois. Teste de largura, quebra de linha, corte e áudio não foi realizado. Checklist preservado explicitamente, fora da conclusão documental.",
+        "original": {
+          "id": "ui-and-audio-not-verified",
+          "concern": "Rotulos mais longos, incluindo Portador de Munição de Fuzil Automático, precisam de teste de corte/linha na interface. Nenhuma proposta desta QA recebeu teste dentro do jogo ou confronto com audio.",
+          "action": "Nao apresentar a QA das 413 propostas como aprovacao completa de todos os 66 catalogos ou de todas as identidades historicas.",
+          "reviewer": "equipment-independent-qa"
+        },
+        "evidence": [],
+        "reviewer": "final-root"
+      },
+      {
+        "pendingIndex": 735,
+        "status": "deferred-user",
+        "reason": "Teste de sincronização, telas e entidades adiado expressamente pelo usuário; nenhum resultado visual ou de áudio é afirmado. Fatos históricos da fonte são uma trilha separada.",
+        "original": {
+          "id": "game-and-audio-not-verified",
+          "concern": "A QA e textual. Nao verifica sincronizacao de audio, limite visual dos rotulos, aparencia de entidades ou factos historicos controversos da fonte.",
+          "reviewer": "missions-west-independent-qa"
+        },
+        "evidence": [],
+        "reviewer": "final-root"
+      }
+    ]
+  },
+  "noCommitPushReleaseOrGameInstall": true,
+  "workingCopyLocation": "C:\\Users\\allan\\AppData\\Local\\Temp\\cta-goh-ptbr-inspect-3c94c33a9a7240df94d9bb076e7ccf05",
+  "validatedLocations": [
+    "C:\\Users\\allan\\AppData\\Local\\Temp\\cta-goh-ptbr-inspect-3c94c33a9a7240df94d9bb076e7ccf05",
+    "C:\\Users\\allan\\Downloads\\cta-goh-ptbr"
+  ],
+  "actualCheckoutVerification": {
+    "passed": true,
+    "checkedAt": "2026-10-08T01:14:37.068Z",
+    "allCopiedBytesVerified": true,
+    "synchronizedFiles": 82,
+    "tests": {
+      "passed": 52,
+      "total": 52,
+      "failed": 0,
+      "files": [
+        "tools/translation-audit.test.mjs",
+        "tools/apply-context-review.test.mjs",
+        "tools/final-review-audit.test.mjs",
+        "tools/pack-translation.test.mjs"
+      ]
+    },
+    "fullCatalogAudit": true,
+    "guardedReplay": true,
+    "packageChecked": true,
+    "gitDiffCheckPassed": true,
+    "sourceEnglishStillUnmodified": true
+  }
+}

@@ -26,7 +26,7 @@ msgstr "Ofensiva"
 
 msgctxt "mp/lobby/doctrine/early_eng_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/mid_eng_defensive"
 msgid "Defensive"
@@ -42,7 +42,7 @@ msgstr "Ofensiva"
 
 msgctxt "mp/lobby/doctrine/mid_eng_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/late_eng_defensive"
 msgid "Defensive"
@@ -58,4 +58,4 @@ msgstr "Ofensiva"
 
 msgctxt "mp/lobby/doctrine/late_eng_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"

@@ -58,7 +58,7 @@ msgstr "SMLE No.1 Mk.III*"
 
 msgctxt "desc/weapon/enfield_no1_mk3_grenade_launcher"
 msgid "SMLE No.1 Mk.III* (No.1 Mk.1 Cup Discharger)"
-msgstr "SMLE No.1 Mk.III* (No.1 Mk.1 Cup Discharger)"
+msgstr "SMLE No.1 Mk.III* (Lançador de Granadas No.1 Mk.1)"
 
 msgctxt "desc/weapon/enfield_no1_mk3t"
 msgid "SMLE No.1 Mk.III* (HT)"
@@ -78,7 +78,7 @@ msgstr "Fuzil No.4 Mk.I (T)"
 
 msgctxt "desc/weapon/de_lisle_carbine"
 msgid "De Lisle Carbine"
-msgstr "De Lisle Carbine"
+msgstr "Carabina De Lisle"
 
 msgctxt "desc/weapon/lanchester_mk1"
 msgid "Lanchester Mk.I"
@@ -90,7 +90,7 @@ msgstr "Lanchester Mk.I*"
 
 msgctxt "desc/weapon/patchett"
 msgid "Patchett Machine Carbine Mk.I"
-msgstr "Patchett Machine Carbine Mk.I"
+msgstr "Submetralhadora Patchett Mk.I"
 
 msgctxt "desc/weapon/sten_mk1"
 msgid "STEN Mk.I"
@@ -102,7 +102,7 @@ msgstr "STEN Mk.II"
 
 msgctxt "desc/weapon/sten_mk2_can"
 msgid "STEN Mk.II (Canadian)"
-msgstr "STEN Mk.II (Canadian)"
+msgstr "STEN Mk.II (Canadense)"
 
 msgctxt "desc/weapon/sten_mk2s"
 msgid "Sten Mk.II(S)"
@@ -126,7 +126,7 @@ msgstr "BESA"
 
 msgctxt "desc/weapon/besa_x4"
 msgid "Quad BESA"
-msgstr "Quad BESA"
+msgstr "BESA (4x)"
 
 msgctxt "desc/weapon/15mm_besa"
 msgid "15mm BESA Mk.II"
@@ -194,7 +194,7 @@ msgstr "BREN Mk.III"
 
 msgctxt "desc/weapon/lewis_gun"
 msgid "Lewis Gun"
-msgstr "Lewis Gun"
+msgstr "Metralhadora Lewis"
 
 msgctxt "desc/weapon/piat"
 msgid "PIAT"
@@ -226,7 +226,7 @@ msgstr "25mm Hotchkiss Mk.I L/72"
 
 msgctxt "desc/weapon/37mm_m6_littlejohn"
 msgid "37mm Gun M6 L/53.5 'Littlejohn'"
-msgstr "37mm Gun M6 L/53.5 'Littlejohn'"
+msgstr "Canhão M6 de 37mm L/53.5 'Littlejohn'"
 
 msgctxt "desc/weapon/37mm_qf_mk1"
 msgid "QF 37mm Mk.I L/72"
@@ -370,7 +370,7 @@ msgstr "114mm QF 4.5-inch Obuseiro L/13.2"
 
 msgctxt "desc/weapon/120mm_qf4_7_mk9"
 msgid "120mm QF 4.7-inch Mk.IX Gun L/45"
-msgstr "120mm QF 4.7-inch Mk.IX Gun L/45"
+msgstr "Canhão QF 4.7-inch Mk.IX de 120mm L/45"
 
 msgctxt "desc/weapon/127mm_bl60"
 msgid "127mm BL 60-pounder L/36.8"

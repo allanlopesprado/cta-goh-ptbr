@@ -19,7 +19,7 @@ msgstr "Linhas de Frente"
 
 msgctxt "mp/game/frontlines/info"
 msgid "\nOne army attacks the defended position of the other team. \nFight for territory and incur as many losses as possible to the foe!"
-msgstr "\nUm exército ataca a posição defendida da equipe adversário. \nLute pelo território e cause o máximo de baixas ao inimigo!"
+msgstr "\nUm exército ataca a posição defendida da equipe adversária. \nLute pelo território e cause o máximo de baixas ao inimigo!"
 
 msgctxt "mp/game/frontlines/rules"
 msgid "Frontlines\n\nFrontlines is an attack-and-defend scenario. Team A attacks and team B defends. The attacking team's goal is to capture all lines of defense within the time limit. The defending team's goal is to hold these lines of defense. Each line of defense is indicated by a set of flags, and all must be captured to enable the defense to fall. The game ends and is won by the attacking team if all lines of defense are captured. Points are awarded by killing enemy troops, and the attack-defense effectiveness. At the end of the game, the team with the best performance wins."

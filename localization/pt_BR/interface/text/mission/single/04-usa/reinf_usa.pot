@@ -158,7 +158,7 @@ msgstr "M20"
 
 msgctxt "mission/single/04-usa/menu_usa/m2_halftrack"
 msgid "M2 Halftrack"
-msgstr "M2 Meia-lagarta"
+msgstr "M2 Semilagarta"
 
 msgctxt "mission/single/04-usa/menu_usa/50cal_quad_m45"
 msgid "M55 Quadmount"
@@ -174,19 +174,19 @@ msgstr "M24 Chaffee"
 
 msgctxt "mission/single/04-usa/menu_usa/81mm_m1"
 msgid "81mm Mortar M1"
-msgstr "81mm Morteiro M1"
+msgstr "Morteiro M1 de 81mm"
 
 msgctxt "mission/single/04-usa/menu_usa/60mm_m2"
 msgid "60mm Mortar M2"
-msgstr "60mm Morteiro M2"
+msgstr "Morteiro M2 de 60mm"
 
 msgctxt "mission/single/04-usa/menu_usa/37mm_m3a1"
 msgid "37mm Gun M3A1"
-msgstr "37mm Gun M3A1"
+msgstr "Canhão M3A1 de 37mm"
 
 msgctxt "mission/single/04-usa/menu_usa/57mm_m1"
 msgid "57mm Gun M1"
-msgstr "57mm Gun M1"
+msgstr "Canhão M1 de 57mm"
 
 msgctxt "mission/single/04-usa/menu_usa/105mm_m2a1"
 msgid "105mm M2A1"
@@ -194,7 +194,7 @@ msgstr "105mm M2A1"
 
 msgctxt "mission/single/04-usa/menu_usa/90mm_m1a1"
 msgid "90mm Gun M1A1"
-msgstr "90mm Gun M1A1"
+msgstr "Canhão M1A1 de 90mm"
 
 msgctxt "mission/single/04-usa/menu_usa/m16_mgmc"
 msgid "MGMC M16"
@@ -202,15 +202,15 @@ msgstr "MGMC M16"
 
 msgctxt "mission/single/04-usa/menu_usa/40mm_m1"
 msgid "40mm Automatic M1"
-msgstr "40mm Automatic M1"
+msgstr "Canhão automático M1 de 40mm"
 
 msgctxt "mission/single/04-usa/menu_usa/76mm_m5_m1"
 msgid "M5 Gun M1 Carriage"
-msgstr "M5 Gun M1 Carriage"
+msgstr "Canhão M5 em reparo M1"
 
 msgctxt "mission/single/04-usa/menu_usa/76mm_m5_m6"
 msgid "M5 Gun M6 Carriage"
-msgstr "M5 Gun M6 Carriage"
+msgstr "Canhão M5 em reparo M6"
 
 msgctxt "mission/single/04-usa/menu_usa/75mm_m1a1"
 msgid "75mm M1A1"
@@ -218,7 +218,7 @@ msgstr "75mm M1A1"
 
 msgctxt "mission/single/04-usa/menu_usa/107mm_m2"
 msgid "4.2-inch Mortar M2"
-msgstr "4.2-inch Morteiro M2"
+msgstr "Morteiro M2 de 4.2 polegadas"
 
 msgctxt "mission/single/04-usa/menu_usa/m10_gmc"
 msgid "M10 Wolverine"
@@ -234,11 +234,11 @@ msgstr "M18 'Hellcat'"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a1_75_late"
 msgid "M4A1 (Late)"
-msgstr "M4A1 (Late)"
+msgstr "M4A1 (tardio)"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a3_75_late"
 msgid "M4A3 (Late)"
-msgstr "M4A3 (Late)"
+msgstr "M4A3 (tardio)"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a3_75w_e4_5"
 msgid "M4A3(75)W 'E4-5'"
@@ -294,7 +294,7 @@ msgstr "M4A3(76)W"
 
 msgctxt "mission/single/04-usa/menu_usa/105mm_m3"
 msgid "105mm Howitzer M3"
-msgstr "105mm Obuseiro M3"
+msgstr "Obuseiro M3 de 105mm"
 
 msgctxt "mission/single/04-usa/menu_usa/155mm_m1a1_longtom"
 msgid "155mm 'Long Tom'"
@@ -302,15 +302,15 @@ msgstr "155mm 'Long Tom'"
 
 msgctxt "mission/single/04-usa/menu_usa/114mm_m1"
 msgid "4.5in M1 Howitzer"
-msgstr "4.5in M1 Obuseiro"
+msgstr "Obuseiro M1 de 4.5 polegadas"
 
 msgctxt "mission/single/04-usa/menu_usa/155mm_m1"
 msgid "155mm Howitzer M1"
-msgstr "155mm Obuseiro M1"
+msgstr "Obuseiro M1 de 155mm"
 
 msgctxt "mission/single/04-usa/menu_usa/203mm_m1"
 msgid "8in Howitzer M1"
-msgstr "8in Obuseiro M1"
+msgstr "Obuseiro M1 de 8 polegadas"
 
 msgctxt "mission/single/04-usa/menu_usa/m12_gmc"
 msgid "155mm GMC M12"

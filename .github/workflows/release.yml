@@ -2,132 +2,103 @@ name: Release Pak
 
 on:
   push:
-    branches:
-      - main
-    tags:
-      - "v*"
+    tags: ['v*']
   workflow_dispatch:
     inputs:
       tag:
-        description: "Release tag (example: v1.1, v1.2, v2.0)"
-        required: false
-      title:
-        description: "Release title"
-        required: false
-      notes:
-        description: "Release notes (plain text)"
-        required: false
+        description: 'Nova tag vX.Y.Z, igual a translation/release.json'
+        required: true
+        type: string
 
 permissions:
   contents: write
+
+concurrency:
+  group: translation-release
+  cancel-in-progress: false
 
 jobs:
   release:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
 
     steps:
-      - name: Checkout
+      - name: Checkout exact triggering commit
         uses: actions/checkout@v6
         with:
+          ref: ${{ github.sha }}
           fetch-depth: 0
-          fetch-tags: true
 
-      - name: Determine release info
+      - name: Set up Node.js 24 LTS
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Validate explicit release request
         id: release_info
         uses: actions/github-script@v9
         with:
           script: |
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-            const tagsData = await github.rest.repos.listTags({ owner, repo, per_page: 100 });
-            const tags = tagsData.data
-              .map(tag => tag.name)
-              .filter(name => /^v\d+\.\d+(?:\.\d+)?$/.test(name));
-            const parsed = tags
-              .map(name => {
-                const match = name.match(/^v(\d+)\.(\d+)(?:\.(\d+))?$/);
-                return {
-                  name,
-                  major: Number(match[1]),
-                  minor: Number(match[2]),
-                  patch: Number(match[3] || 0),
-                };
-              })
-              .sort((a, b) => {
-                if (a.major !== b.major) return a.major - b.major;
-                if (a.minor !== b.minor) return a.minor - b.minor;
-                return a.patch - b.patch;
-              });
-            const latest = parsed.length ? parsed[parsed.length - 1].name : 'v1.0.0';
-            const latestParts = latest.match(/^v(\d+)\.(\d+)(?:\.(\d+))?$/);
-            const major = Number(latestParts[1]);
-            const minor = Number(latestParts[2]);
-            const patch = Number(latestParts[3] || 0);
-            const nextTag = parsed.length ? `v${major}.${minor}.${patch + 1}` : 'v1.0.0';
+            const fs = await import('node:fs');
+            const {pathToFileURL} = await import('node:url');
+            const {validateTrigger, validateReleaseMetadata} = await import(pathToFileURL(`${process.env.GITHUB_WORKSPACE}/tools/release-translation.mjs`).href);
+            const metadata = validateReleaseMetadata(JSON.parse(fs.readFileSync('translation/release.json', 'utf8')));
+            const tag = validateTrigger({eventName: context.eventName, ref: context.ref, manualTag: context.payload.inputs?.tag}, metadata.tag);
+            // Include drafts, so a failed upload cannot be silently overwritten.
+            const releases = await github.paginate(github.rest.repos.listReleases, {...context.repo, per_page: 100});
+            if (releases.some(release => release.tag_name === tag)) {
+              throw new Error(`A release ${tag} já existe, inclusive rascunho; não será sobrescrita.`);
+            }
+            if (context.eventName === 'workflow_dispatch') {
+              try {
+                await github.rest.git.getRef({...context.repo, ref: `tags/${tag}`});
+                throw new Error(`A tag ${tag} já existe; escolha uma nova tag.`);
+              } catch (error) {
+                if (error.status !== 404) throw error;
+              }
+            }
+            core.setOutput('tag', tag);
+            core.setOutput('title', metadata.title);
 
-            const releaseBody = `Atualização de tradução pt_BR\n\n- Correções e melhorias gerais\n\nAlterações completas: https://github.com/${owner}/${repo}/compare/${latest}...${nextTag}`;
-
-            core.setOutput('latest_tag', latest);
-            core.setOutput('next_tag', nextTag);
-            core.setOutput('release_body', releaseBody);
-
-      - name: Build pak
-        shell: bash
+      - name: Require a commit integrated into main
         run: |
-          mkdir -p dist/packroot/default
-          cp -r localization/pt_BR/* dist/packroot/default
-          pushd dist/packroot >/dev/null
-          zip -r ../default.pak default
-          popd >/dev/null
-          rm -rf dist/packroot
-          if [ ! -f dist/default.pak ]; then
-            echo "dist/default.pak was not generated"
-            exit 1
-          fi
+          git fetch origin main
+          git merge-base --is-ancestor HEAD origin/main
 
-      - name: Validate pak structure
-        shell: bash
+      - name: Test and validate translations
         run: |
-          python3 - <<'PY'
-          import zipfile
-          pak = 'dist/default.pak'
-          with zipfile.ZipFile(pak) as z:
-              entries = [e.filename.replace('\\', '/') for e in z.infolist()]
-              has_root = any(e == 'default/' or e.startswith('default/') for e in entries)
-              has_info = 'default/localization.info' in entries
-              pot_count = sum(1 for e in entries if e.startswith('default/interface/') and e.endswith('.pot'))
-              if not has_root:
-                  raise SystemExit('Missing root entry default/')
-              if not has_info:
-                  raise SystemExit('Missing default/localization.info')
-              if pot_count < 300:
-                  raise SystemExit(f'Unexpected .pot count inside pak: {pot_count}')
-              print('PAK validation passed. POT files:', pot_count)
-          PY
+          node --test tools/*.test.mjs
+          node tools/translation-audit.mjs --check
 
-      - name: Create release (tag push)
-        if: startsWith(github.ref, 'refs/tags/')
-        uses: softprops/action-gh-release@v3
-        with:
-          files: dist/default.pak
-          generate_release_notes: true
+      - name: Build and validate pak
+        run: |
+          node tools/pack-translation.mjs --build
+          node tools/pack-translation.mjs --check
 
-      - name: Create or update release (main push)
-        if: github.ref == 'refs/heads/main'
-        uses: softprops/action-gh-release@v3
-        with:
-          tag_name: ${{ steps.release_info.outputs.next_tag }}
-          name: ${{ steps.release_info.outputs.next_tag }}
-          body: ${{ steps.release_info.outputs.release_body }}
-          files: dist/default.pak
+      - name: Verify release metadata, hash and prepare assets
+        env:
+          RELEASE_TAG: ${{ steps.release_info.outputs.tag }}
+        run: node tools/release-translation.mjs --prepare "$RELEASE_TAG"
 
-      - name: Create or update release (manual dispatch)
+      - name: Create new tag for manual request
         if: github.event_name == 'workflow_dispatch'
-        uses: softprops/action-gh-release@v3
-        with:
-          tag_name: ${{ github.event.inputs.tag || 'v1.0' }}
-          name: ${{ github.event.inputs.title || 'v1.0' }}
-          body: ${{ github.event.inputs.notes || 'Manual release dispatch' }}
-          files: dist/default.pak
+        env:
+          RELEASE_TAG: ${{ steps.release_info.outputs.tag }}
+        run: |
+          commit_sha=$(git rev-parse HEAD)
+          gh api --method POST "repos/$GH_REPO/git/refs" -f "ref=refs/tags/$RELEASE_TAG" -f "sha=$commit_sha"
+
+      - name: Publish exactly one release after asset verification
+        env:
+          RELEASE_TAG: ${{ steps.release_info.outputs.tag }}
+          RELEASE_TITLE: ${{ steps.release_info.outputs.title }}
+        run: |
+          gh release create "$RELEASE_TAG" dist/default.pak dist/default.pak.sha256 \
+            --verify-tag --draft --title "$RELEASE_TITLE" --notes-file dist/release-notes.md
+          gh release download "$RELEASE_TAG" --pattern 'default.pak*' --dir dist/published-check
+          cmp dist/default.pak dist/published-check/default.pak
+          cmp dist/default.pak.sha256 dist/published-check/default.pak.sha256
+          gh release edit "$RELEASE_TAG" --draft=false --latest

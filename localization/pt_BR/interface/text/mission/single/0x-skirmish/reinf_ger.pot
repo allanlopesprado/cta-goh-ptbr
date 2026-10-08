@@ -106,7 +106,7 @@ msgstr "Brandenburger"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/pioneer"
 msgid "Pionier squad"
-msgstr "Esquadra Pioneiro"
+msgstr "Esquadra de Pioneiros"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/gebirgsjag"
 msgid "Gebirgsjager"
@@ -198,7 +198,7 @@ msgstr "15cm sFH 18"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/88mm_flak18"
 msgid "8.8cm Flak18 towed"
-msgstr "8.8cm Flak18 towed"
+msgstr "8.8cm Flak18 (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/210mm_morser18"
 msgid "21cm Morser 18"
@@ -286,7 +286,7 @@ msgstr "Panzeraufklarers"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/grenadieresq"
 msgid "Grenadier squad"
-msgstr "Esquadra Granadeiro"
+msgstr "Esquadra de Granadeiros"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/lwfieldinf"
 msgid "Luftwaffe troops"
@@ -318,7 +318,7 @@ msgstr "Sinaleiro de Artilharia"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/grenadierinf"
 msgid "Grenadier squad"
-msgstr "Esquadra Granadeiro"
+msgstr "Esquadra de Granadeiros"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/panzergren_ar"
 msgid "Panzergrenadiers"
@@ -326,7 +326,7 @@ msgstr "Panzergranadeiros"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/pioteam_ht"
 msgid "Pionier team"
-msgstr "Equipe Pioneiro"
+msgstr "Equipe de Pioneiros"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/pioneer_pzsq"
 msgid "Panzerpioniers"
@@ -414,7 +414,7 @@ msgstr "StuG III Ausf.G"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/stug3g_late"
 msgid "StuG III.G(Late)"
-msgstr "StuG III.G(Late)"
+msgstr "StuG III.G (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/panzer4g"
 msgid "Pz.Kpfw IV Ausf.G"

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "referenceDate": "2026-10-07",
+  "package": {
+    "filename": "default.pak",
+    "language": "English",
+    "sha256": "DC5D9F6C9B3F3D47092802ED69C85E4B0C7F6071E60D552E7C54D8BB64C61DD6",
+    "entries": 363,
+    "potFiles": 362,
+    "referenceFolder": "localization/en",
+    "provenance": "Pacote local fornecido pelo responsável pelo projeto. A versão comercial do jogo não foi inferida a partir de tags do Workshop."
+  },
+  "previousRepository": {
+    "url": "https://github.com/allanlopesprado/cta-goh-ptbr",
+    "branch": "main",
+    "commit": "aef4599a35bdcc816b3c590a112b606a7fc2a449",
+    "englishPotFiles": 359,
+    "portuguesePotFiles": 359
+  },
+  "sourceChanges": {
+    "addedFiles": [
+      "interface/text/announcements/update70.pot",
+      "interface/text/announcements/ww2.pot",
+      "interface/text/dlg_workshop_tags.pot"
+    ],
+    "addedEntries": 68,
+    "changedEntries": 12,
+    "removedContexts": 1,
+    "renamedContext": {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "before": "info/squad/81mm_ml3_mortar_barrage",
+      "after": "desc/squad/81mm_ml3_mortar_barrage"
+    },
+    "comparison": "Entradas únicas por arquivo, contexto e original; contempla as fontes inglesas armazenadas em msgstr quando msgid está vazio."
+  },
+  "review": {
+    "date": "2026-10-07",
+    "recordedContexts": 2516,
+    "portuguesePotFiles": 362,
+    "catalogEntries": 22030,
+    "missingTranslations": 0,
+    "missingOrUnexpectedContexts": 0,
+    "protectedTokenConflicts": 0,
+    "languageReviewComplete": false,
+    "visualInGameTestComplete": false,
+    "scope": "Revisão documental dos 362 pares concluída, com todas as 736 anotações da primeira passagem classificadas individualmente e ajustes confirmados aplicados. Cinco registros dependem de uso/tela/áudio; 34 registros de alegações da fonte não são certificação histórica. O usuário adiou o teste no jogo. Inglês e pacote original preservados.",
+    "records": "translation/reviewed-2026-10-07.json",
+    "sourceExceptions": "translation/source-exceptions.json",
+    "inheritedFormatNotes": "Multilinhas físicas e barras literais das listas de nomes foram preservadas conforme o original. Duplicatas inglesas não foram reproduzidas nem usadas para sobrescrever traduções.",
+    "unchangedEnglishCandidates": "Nomes, modelos, versões e expressões técnicas idênticas ao inglês são candidatos à avaliação, não falhas automáticas de tradução.",
+    "earlierRecordedContexts": 262,
+    "thisPassCorrectedEntries": 958,
+    "thisPassChangedFiles": 129,
+    "contextualReadingComplete": true,
+    "contextualReviewedFiles": 362,
+    "pendingContextualRecords": 5,
+    "allEntriesApproved": false,
+    "publicationApproved": false,
+    "contextualRecords": "translation/final-review-2026-10-07.json",
+    "finalPassCorrectedEntries": 1431,
+    "finalPassChangedFiles": 67,
+    "documentaryReviewComplete": true,
+    "fileReviewComplete": true,
+    "previousAnnotationsClassified": 736,
+    "unclassifiedAnnotations": 0,
+    "annotationDispositions": {
+      "corrected": 468,
+      "retained-validated": 227,
+      "requires-game-evidence": 5,
+      "source-issue": 34,
+      "deferred-user": 2
+    },
+    "sourceIssueRecords": 34,
+    "deferredGameValidationRecords": 2,
+    "previousContextualRecords": "translation/full-review-2026-10-07.json",
+    "technicalValidationRecord": "translation/validation-2026-10-07.json"
+  }
+}
