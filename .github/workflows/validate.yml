@@ -28,6 +28,12 @@ jobs:
       - name: Validate translated catalogs
         run: node tools/translation-audit.mjs --check
 
+      - name: Verify English source bytes and inventory
+        run: node tools/source-integrity.mjs --check
+
+      - name: Validate PT-BR catalog headers and translation forms
+        run: node tools/catalog-metadata.mjs --check
+
       - name: Check contextual translation decisions
         run: node tools/context-quality.mjs --check
 

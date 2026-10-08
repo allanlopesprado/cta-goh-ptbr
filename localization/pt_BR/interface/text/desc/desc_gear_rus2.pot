@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Soviet Gear 2\n"
@@ -10,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "desc/stuff/sov_cap_peaked"
 msgid "RKKA Visor Cap"
@@ -22,19 +21,19 @@ msgstr "Quepe RKKA"
 
 msgctxt "desc/stuff/sov_cap_peaked_air_var1"
 msgid "RKKA Visor Cap - Officer [Aviation]"
-msgstr "Quepe RKKA - Oficial [Aviação]"
+msgstr "Quepe RKKA - Oficial [Aviação]"
 
 msgctxt "desc/stuff/sov_cap_peaked_air_var1_gog"
 msgid "RKKA Visor Cap - Officer [Aviation]"
-msgstr "Quepe RKKA - Oficial [Aviação]"
+msgstr "Quepe RKKA - Oficial [Aviação]"
 
 msgctxt "desc/stuff/sov_cap_peaked_air_var2"
 msgid "RKKA Visor Cap - Officer [Aviation]"
-msgstr "Quepe RKKA - Oficial [Aviação]"
+msgstr "Quepe RKKA - Oficial [Aviação]"
 
 msgctxt "desc/stuff/sov_cap_peaked_air_var2_gog"
 msgid "RKKA Visor Cap - Officer [Aviation]"
-msgstr "Quepe RKKA - Oficial [Aviação]"
+msgstr "Quepe RKKA - Oficial [Aviação]"
 
 msgctxt "desc/stuff/sov_cap_peaked_arty"
 msgid "RKKA Visor Cap - Officer [Artillery]"

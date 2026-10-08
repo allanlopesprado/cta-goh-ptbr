@@ -3,9 +3,11 @@
   "status": "applied",
   "baselineCommit": "acda3f7d1008d38cfdf9e0544462a4a8196fbd7b",
   "policy": "Casos de regressão vinculados a arquivo, contexto e fonte exata. Correções aplicadas e retenções contextuais não são equivalências globais nem certificação semântica automática do corpus.",
-  "changeCount": 2414,
-  "retainedSentinelCount": 22,
-  "regressionRuleCount": 2436,
+  "changeCount": 2472,
+  "retainedSentinelCount": 27,
+  "regressionRuleCount": 2499,
+  "latestReview": "translation/offline-review-2026-10-08.json",
+  "ruleCountingPolicy": "changeCount é o número de identidades distintas com ajustes nos registros proativo e offline; os outros casos são sentinelas de retenção. Esses números não indicam posições na lista rules.",
   "rules": [
     {
       "file": "interface/text/announcements/cu6.pot",
@@ -5989,29 +5991,33 @@
       "file": "interface/text/desc/desc_gear_rus2.pot",
       "context": "desc/stuff/sov_cap_peaked_air_var1",
       "source": "RKKA Visor Cap - Officer [Aviation]",
-      "translation": "Quepe RKKA - Oficial [Aviação]",
-      "reason": "Translate generic equipment descriptor and use native item/model order, preserving every historical name, model and qualifier."
+      "translation": "Quepe RKKA - Oficial [Aviação]",
+      "reason": "NFC canonical composition of cedilla and tilde; graphemes, wording, model identifiers and English source unchanged",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
     },
     {
       "file": "interface/text/desc/desc_gear_rus2.pot",
       "context": "desc/stuff/sov_cap_peaked_air_var1_gog",
       "source": "RKKA Visor Cap - Officer [Aviation]",
-      "translation": "Quepe RKKA - Oficial [Aviação]",
-      "reason": "Translate generic equipment descriptor and use native item/model order, preserving every historical name, model and qualifier."
+      "translation": "Quepe RKKA - Oficial [Aviação]",
+      "reason": "NFC canonical composition of cedilla and tilde; graphemes, wording, model identifiers and English source unchanged",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
     },
     {
       "file": "interface/text/desc/desc_gear_rus2.pot",
       "context": "desc/stuff/sov_cap_peaked_air_var2",
       "source": "RKKA Visor Cap - Officer [Aviation]",
-      "translation": "Quepe RKKA - Oficial [Aviação]",
-      "reason": "Translate generic equipment descriptor and use native item/model order, preserving every historical name, model and qualifier."
+      "translation": "Quepe RKKA - Oficial [Aviação]",
+      "reason": "NFC canonical composition of cedilla and tilde; graphemes, wording, model identifiers and English source unchanged",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
     },
     {
       "file": "interface/text/desc/desc_gear_rus2.pot",
       "context": "desc/stuff/sov_cap_peaked_air_var2_gog",
       "source": "RKKA Visor Cap - Officer [Aviation]",
-      "translation": "Quepe RKKA - Oficial [Aviação]",
-      "reason": "Translate generic equipment descriptor and use native item/model order, preserving every historical name, model and qualifier."
+      "translation": "Quepe RKKA - Oficial [Aviação]",
+      "reason": "NFC canonical composition of cedilla and tilde; graphemes, wording, model identifiers and English source unchanged",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
     },
     {
       "file": "interface/text/desc/desc_gear_rus2.pot",
@@ -17058,6 +17064,510 @@
       "source": "This 18-tonne Gun Motor Carriage was distinguished by its excellent speed and featured a powerful 76mm gun which was capable of destroying almost all enemy vehicles. The excellent mobility and low profile made the M18 a difficult target for enemy guns. However, due to their insufficient shell-proof capacity, these vehicles were forced to fire from under cover. Hellcats were also armed with high-calibre anti-aircraft machine guns and were actively used by the U.S. army in Italy and Northwestern Europe.",
       "translation": "Este veículo autopropulsado com canhão, de 18 toneladas, se distinguia por sua excelente velocidade e possuía um poderoso canhão de 76mm capaz de destruir quase todos os veículos inimigos. A excelente mobilidade e o perfil baixo tornavam o M18 um alvo difícil para canhões inimigos. Contudo, devido à proteção insuficiente contra projéteis, esses veículos eram forçados a disparar de posições cobertas. Os Hellcats também eram armados com metralhadoras antiaéreas de alto calibre e foram ativamente usados pelo exército americano na Itália e no Noroeste da Europa.",
       "reason": "M18 Gun Motor Carriage/Hellcat is not the separate M18 recoilless weapon. Recorded decision approved-info/r188: M18 Gun Motor Carriage/Hellcat é caça-tanques autopropulsado distinto do Canhão Sem Recuo M18 portátil; não aplicar o mesmo nome só pela coincidência M18."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/1st_air_para_rec_sec_2ic",
+      "source": "1st Airborne Recce Section 2IC [BA]",
+      "translation": "Subcomandante da Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/1st_air_para_rec_sec_com",
+      "source": "1st Airborne Recce Section Commander [BA]",
+      "translation": "Comandante de Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/1st_air_para_rec_sec_com_bino",
+      "source": "1st Airborne Recce Section Commander [BA]",
+      "translation": "Comandante de Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/1st_air_para_rec_sec_mortar",
+      "source": "1st Airborne Recce Section Mortarman [BA]",
+      "translation": "Morteirista da Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/1st_air_para_rec_sec_2ic",
+      "source": "1st Airborne Recce Section 2IC [BA]",
+      "translation": "Subcomandante da Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/1st_air_para_rec_sec_com",
+      "source": "1st Airborne Recce Section Commander [BA]",
+      "translation": "Comandante de Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/1st_air_para_rec_sec_com_bino",
+      "source": "1st Airborne Recce Section Commander [BA]",
+      "translation": "Comandante de Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/1st_air_para_rec_sec_mortar",
+      "source": "1st Airborne Recce Section Mortarman [BA]",
+      "translation": "Morteirista da Seção de Reconhecimento da 1ª Divisão Aerotransportada [BA]",
+      "reason": "Vincular Reconhecimento à seção, em vez de deixá-lo como substantivo solto antes do cargo. Preservar qualificativos e a formação já expressa no texto atual, sem nova equivalência histórica.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/7th_ad_eng_builder",
+      "source": "7th AD. Engineer Builder [BA]",
+      "translation": "Engenheiro Construtor da 7ª Divisão Blindada [BA]",
+      "reason": "Engineer Builder designa uma pessoa com função de construção; Construtor de Engenheiros sugere que os engenheiros sejam o objeto construído. A nova ordem mantém o cargo e a formação.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/gds_ad_eng_builder",
+      "source": "Guards AD. Engineer Builder [BA]",
+      "translation": "Engenheiro Construtor da Divisão Blindada da Guarda [BA]",
+      "reason": "Engineer Builder designa uma pessoa com função de construção; Construtor de Engenheiros sugere que os engenheiros sejam o objeto construído. A nova ordem mantém o cargo e a formação.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/mid/engineer_builder",
+      "source": "Engineer Builder [USAGF]",
+      "translation": "Engenheiro Construtor [USAGF]",
+      "reason": "Naturalizar a relação entre profissão e função, sem acrescentar patente ou especialidade não presente.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/mid/engineer_recon",
+      "source": "Engineer Recon [USAGF]",
+      "translation": "Engenheiro de Reconhecimento [USAGF]",
+      "reason": "O contexto é rótulo de pessoa; nomear a função pessoal, em vez de apenas a atividade coletiva Reconhecimento de Engenheiros. Não modificar rótulos de seção, nos quais a construção coletiva é válida.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/engineer_recon",
+      "source": "Engineer Recon [USAGF]",
+      "translation": "Engenheiro de Reconhecimento [USAGF]",
+      "reason": "O contexto é rótulo de pessoa; nomear a função pessoal, em vez de apenas a atividade coletiva Reconhecimento de Engenheiros. Não modificar rótulos de seção, nos quais a construção coletiva é válida.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "context": "desc/human/mp/usa/late/late_engineer_recon",
+      "source": "Engineer Recon [USAGF]",
+      "translation": "Engenheiro de Reconhecimento [USAGF]",
+      "reason": "O contexto é rótulo de pessoa; nomear a função pessoal, em vez de apenas a atividade coletiva Reconhecimento de Engenheiros. Não modificar rótulos de seção, nos quais a construção coletiva é válida.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_can.pot",
+      "context": "desc/human/mp/can/late/sec_subcom",
+      "source": "Sub-Section Commander [CA]",
+      "translation": "Comandante de Subseção [CA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_pol.pot",
+      "context": "desc/human/mp/pol/late/1st_ad_sec_subcom",
+      "source": "1st AD. Sub-Section Commander [PSZ]",
+      "translation": "Comandante de Subseção 1ª DA. [PSZ]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/early/com_subsec_com",
+      "source": "Commando Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção Commando [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/51hl_sec_subcom",
+      "source": "51st Highland Div. Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção da 51ª Divisão Highland [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/7th_ad_sec_subcom",
+      "source": "7th AD. Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção da 7ª Divisão Blindada [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/com_subsec_com",
+      "source": "Commando Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção Commando [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/rm_com_subsec_com",
+      "source": "Royal Marine Commando Sub-Section Commander [RM]",
+      "translation": "Royal Marine Commando Comandante de Subseção [RM]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/sas_subsec_com",
+      "source": "SAS Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção do SAS [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/sas_subsec_com_cpl",
+      "source": "SAS Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção do SAS [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/sec_subcom",
+      "source": "Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/mid/vet_sec_subcom",
+      "source": "Veteran Sub-Section Commander [BA]",
+      "translation": "Veterano Comandante de Subseção [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/7th_ad_sec_subcom",
+      "source": "7th AD. Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção da 7ª Divisão Blindada [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/com_subsec_com",
+      "source": "Commando Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção Commando [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/gds_ad_sec_subcom",
+      "source": "Guards AD. Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção da Divisão Blindada da Guarda [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/rm_com_subsec_com",
+      "source": "Royal Marine Commando Sub-Section Commander [RM]",
+      "translation": "Royal Marine Commando Comandante de Subseção [RM]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/sas_subsec_com",
+      "source": "SAS Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção do SAS [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/sas_subsec_com_cpl",
+      "source": "SAS Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção do SAS [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/sec_subcom",
+      "source": "Sub-Section Commander [BA]",
+      "translation": "Comandante de Subseção [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "context": "desc/human/mp/eng/late/vet_sec_subcom",
+      "source": "Veteran Sub-Section Commander [BA]",
+      "translation": "Veterano Comandante de Subseção [BA]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_squad_com_mid(eng)",
+      "source": "<c(B29557)>( II )</c> Commando Sub-Section",
+      "translation": "<c(B29557)>( II )</c> Subseção Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_squad_com_early(eng)",
+      "source": "<c(B29557)>( II )</c> Commando Sub-Section",
+      "translation": "<c(B29557)>( II )</c> Subseção Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_early_con(eng)",
+      "source": "<c(A5A095)>(3)</c> Commando Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> Subseção Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_mid_con(eng)",
+      "source": "<c(A5A095)>(4)</c> Commando Rifle Sub-Section",
+      "translation": "<c(A5A095)>(4)</c> Subseção de Fuzileiros Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_mid_off_1(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Royal Marines Commando Assault Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Subseção de Assalto Commando dos Royal Marines",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_mid_off_2(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Royal Marines Commando Assault Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Subseção de Assalto Commando dos Royal Marines",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_mid_con(eng)",
+      "source": "<c(A5A095)>(3)</c> Royal Marines Commando Assault Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> Subseção de Assalto Commando dos Royal Marines",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_late_off_1(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Royal Marines Commando Assault Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Subseção de Assalto Commando dos Royal Marines",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_late_con(eng)",
+      "source": "<c(A5A095)>(3)</c> Royal Marines Commando Assault Sub-Section [1944]",
+      "translation": "<c(A5A095)>(3)</c> Subseção de Assalto dos Royal Marines Commando [1944]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_rm_com_assault_late_off_2(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Royal Marines Commando Assault Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Subseção de Assalto Commando dos Royal Marines",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_late_off_1(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Commando Rifle Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Subseção de Fuzileiros Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_late_off_2(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Commando Rifle Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Subseção de Fuzileiros Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_late_off_3(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Commando Rifle Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Subseção de Fuzileiros Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_late_off_4(eng)",
+      "source": "<c(A5A095)>(3)</c> <c(E56042)>4.</c> Commando Rifle Sub-Section",
+      "translation": "<c(A5A095)>(3)</c> <c(E56042)>4.</c> Subseção de Fuzileiros Commando",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "context": "desc/squad/squad_com_rifle_late_con(eng)",
+      "source": "<c(A5A095)>(3)</c> Commando Rifle Sub-Section [1944]",
+      "translation": "<c(A5A095)>(3)</c> Subseção de Fuzileiros Commando [1944]",
+      "reason": "Grafia portuguesa por prefixação: sub + seção não se enquadra nas condições de emprego do hífen da Base XVI. Preservar o escalão, qualificativos e marcação do rótulo; não alterar a fonte inglesa Sub-Section.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_05_carentan/narrator19",
+      "source": "Well you just take it easy, Lip. We'll get you out of here and back to England.",
+      "translation": "Pode descansar, Lip. Vamos tirá-lo daqui e levá-lo de volta à Inglaterra.",
+      "reason": "A coordenação atual liga tirá-lo a e de volta sem o verbo que expressa o retorno. Repor levá-lo preserva a segunda ação da fonte e o nome Lip.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_01_pathfinders/narrator/officer/03",
+      "source": "Enemy patrol approaching from down the road. Wait until they get close, and let’em have it!",
+      "translation": "Patrulha inimiga se aproximando pela estrada. Aguardem até que a patrulha chegue perto e abram fogo!",
+      "reason": "Explicitar a condição until e seu sujeito inimigo. Aguardar se aproximarem é uma elipse pouco clara; não mudar a ordem para os soldados avançarem. Ajuste central: explicitar a patrulha e get close como chegue perto, sem mudar a condição de abertura de fogo.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_05",
+      "source": "The whole show hangs on what we do today. If we make it, we might just wrap up the war by Christmas. Think of the lives saved.",
+      "translation": "Tudo depende do que fazemos hoje. Se conseguirmos, talvez possamos encerrar a guerra até o Natal. Pense nas vidas salvas.",
+      "reason": "By Christmas estabelece limite até o Natal; antes do Natal é uma restrição mais estreita. Preservar a possibilidade might e o condicionante if.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_04",
+      "source": "Sir, if I'm correct, then the ground forces will be here in a couple hours.",
+      "translation": "Senhor, se eu estiver certo, as forças terrestres estarão aqui em algumas horas.",
+      "reason": "O original explicita o falante em if I am correct. Repor eu remove a possível leitura de que a condição se refira ao interlocutor, sem transformar couple em prazo numérico obrigatório.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_08",
+      "source": "Hey, take it easy mate. Think of something good. You'll be so bloody telling me about that Matilda girl of yours when we get out of here.",
+      "translation": "Ei, acalme-se, companheiro. Pense em algo bom. Você vai me contar sobre aquela sua garota, a Matilda, quando sairmos daqui.",
+      "reason": "Restituir a referência humana girl e a relação of yours, omitidas no rótulo apenas Matilda, além de naturalizar o futuro. Não renomear o tanque Matilda nem supor nova pessoa.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/04_reinforcements-offmap-support.pot",
+      "context": "mission/single/00-bootcamp/04_reinforcements-offmap-support/task0",
+      "source": "Call in the Rifle Squad and move them into the trenches!",
+      "translation": "Chame a Esquadra de Fuzileiros e mova seus soldados para as trincheiras!",
+      "reason": "Explicitar o antecedente humano de mova-os após o coletivo feminino Esquadra, preservando a ação de mover os membros da unidade.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "context": "desc/ammo/flare_usa artillery_105_vt",
+      "source": "Flare (USA 105mm 'Air')",
+      "translation": "Sinalizador (USA 105mm 'Explosão Aérea')",
+      "reason": "Air designa o modo de explosão aérea da artilharia VT chamada por este sinalizador; significado comprovado nos scripts de interação e efeitos, sem alterar USA, calibre, IDs ou o tipo de item.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "context": "desc/ammo/flare_usa artillery_155_vt",
+      "source": "Flare (USA 155mm 'Air')",
+      "translation": "Sinalizador (USA 155mm 'Explosão Aérea')",
+      "reason": "Air designa o modo de explosão aérea da artilharia VT chamada por este sinalizador; significado comprovado nos scripts de interação e efeitos, sem alterar USA, calibre, IDs ou o tipo de item.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "context": "desc/ammo/flare_usa artillery_203_vt",
+      "source": "Flare (USA 203mm 'Air')",
+      "translation": "Sinalizador (USA 203mm 'Explosão Aérea')",
+      "reason": "Air designa o modo de explosão aérea da artilharia VT chamada por este sinalizador; significado comprovado nos scripts de interação e efeitos, sem alterar USA, calibre, IDs ou o tipo de item.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/editor.pot",
+      "context": "landmanager/sharp",
+      "source": "Sharp",
+      "translation": "Duro",
+      "reason": "O manual oficial do editor define Sharp/Soft como extremos da atenuação/dureza do pincel de terreno: Sharp afeta igualmente os vértices do círculo, Soft reduz o efeito em direção à borda. Nítido descreve nitidez visual e não a propriedade controlada.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#changes"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "context": "desc/human/mp/fin/early/cav_rifle",
+      "source": "Ratsuväki [Maavoimat]",
+      "translation": "Ratsuväki [Maavoimat]",
+      "reason": "Ratsuväki e Maavoimat são designações identitárias preservadas; a igualdade com a fonte não demonstra falta de tradução.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#retainedDecisionExamples"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_single_ger.pot",
+      "context": "desc/human/single/ger/1941_summer/Recruit",
+      "source": "Recruit",
+      "translation": "Recruta",
+      "reason": "Recruit aqui é substantivo pessoal Recruta, não comando verbal Recrutar.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#retainedDecisionExamples"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/14",
+      "source": "Fortunately, we are prepared for this. Take command of the AT rifleman, and turn that armored car into Swiss cheese!",
+      "translation": "Felizmente, estamos preparados para isso. Assuma o comando do soldado com o fuzil antitanque e transforme aquele blindado em queijo suíço!",
+      "reason": "AT rifleman designa soldado com fuzil antitanque, não esquadra genérica de Fuzileiros Antitanque.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#retainedDecisionExamples"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/04_reinforcements-offmap-support.pot",
+      "context": "mission/single/00-bootcamp/04_reinforcements-offmap-support/hint/reinf_info5",
+      "source": "Currently, the Manpower points (MP) available to you are limited, but there is enough for you to call in the required units. Depending on the situation, additional points may be awarded for completing objectives.",
+      "translation": "Atualmente, os pontos de Efetivo (PM) disponíveis são limitados, mas suficientes para chamar as unidades necessárias. Dependendo da situação, pontos adicionais podem ser concedidos ao completar objetivos.",
+      "reason": "Manpower points MP foi localizado como pontos de Efetivo PM; não confundir com multiplayer.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#retainedDecisionExamples"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/taskopt2",
+      "source": "Go to the repair workshop for mechanic training.",
+      "translation": "Vá para a oficina de reparo para o treinamento de mecânica.",
+      "reason": "Workshop neste objetivo é oficina física de reparo, não produto Steam.",
+      "reviewRecord": "translation/offline-review-2026-10-08.json#retainedDecisionExamples"
     }
   ]
 }

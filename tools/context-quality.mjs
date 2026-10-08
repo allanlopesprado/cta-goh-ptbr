@@ -31,8 +31,19 @@ export function validateContextRules(englishText,portugueseText,rules,filename='
  return issues;
 }
 
-export function checkContextQuality(repo,manifest) {
+export function validateContextManifest(manifest) {
  if(manifest.schemaVersion!==1||manifest.status!=='applied'||!Array.isArray(manifest.rules)||manifest.rules.length===0)throw new Error('Expected applied contextual decisions, schemaVersion 1.');
+ const counts=['changeCount','retainedSentinelCount','regressionRuleCount'];
+ if(counts.some(key=>Object.hasOwn(manifest,key))&&(
+  !counts.every(key=>Number.isSafeInteger(manifest[key])&&manifest[key]>=0)||
+  manifest.regressionRuleCount!==manifest.rules.length||
+  manifest.changeCount+manifest.retainedSentinelCount!==manifest.rules.length
+ ))throw new Error('Contextual manifest counts do not match its rules.');
+ return manifest;
+}
+
+export function checkContextQuality(repo,manifest) {
+ validateContextManifest(manifest);
  const groups=new Map();
  for(const rule of manifest.rules) {
   catalogPath(path.resolve(repo,'localization/pt_BR'),rule.file);

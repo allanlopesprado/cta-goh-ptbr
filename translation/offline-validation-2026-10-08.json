@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-08",
+  "status": "passed-offline",
+  "stage": "local-uncommitted",
+  "baselineCommit": "0906464438e5dc445c58b588f5a52997e0665f30",
+  "reviewRecord": "translation/offline-review-2026-10-08.json",
+  "scope": "Validação técnica global e segunda leitura humana dirigida, sem execução do jogo/editor, instalação, commit, push ou publicação.",
+  "summary": {
+    "catalogs": 362,
+    "logicalEntries": 22030,
+    "translationAdjustments": 62,
+    "translationFiles": 14,
+    "headerFiles": 362,
+    "testsPassed": 105,
+    "testsFailed": 0,
+    "contextRules": 2499,
+    "actionableValidationFailures": 0,
+    "gameTested": false,
+    "installedGameChanged": false,
+    "published": false
+  },
+  "commands": [
+    {
+      "command": "node --test tools/*.test.mjs",
+      "exitCode": 0,
+      "passed": 105,
+      "failed": 0,
+      "skipped": 0
+    },
+    {
+      "command": "node tools/translation-audit.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "node tools/source-integrity.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "node tools/catalog-metadata.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "node tools/context-quality.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "node tools/pack-translation.mjs --build",
+      "exitCode": 0,
+      "scope": "Somente dist/default.pak local; não instala."
+    },
+    {
+      "command": "node tools/pack-translation.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "node tools/release-translation.mjs --prepare",
+      "exitCode": 0,
+      "scope": "Somente checksum e notas locais em dist; não publica."
+    },
+    {
+      "command": "node tools/release-translation.mjs --check",
+      "exitCode": 0
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "note": "Sem erros de whitespace; avisos LF/CRLF nos JSONs decorrem de core.autocrlf, sem alteração dos históricos."
+    }
+  ],
+  "checks": {
+    "englishSource": {
+      "files": 363,
+      "catalogs": 362,
+      "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+      "issues": []
+    },
+    "catalogMetadata": {
+      "catalogs": 362,
+      "pluralMessages": 0,
+      "issues": []
+    },
+    "contextualRegression": {
+      "rules": 2499,
+      "files": 146,
+      "issues": []
+    },
+    "associationAudit": {
+      "files": {
+        "previousEnglish": 362,
+        "portuguese": 362,
+        "currentEnglish": 362
+      },
+      "counts": {
+        "unchanged": 22030,
+        "added": 0,
+        "changed": 0,
+        "removed": 0,
+        "translatedExact": 21893,
+        "needsTranslationReview": 0
+      },
+      "addedFiles": [],
+      "removedFiles": [],
+      "changedFiles": [],
+      "issuesByType": {
+        "same-as-source-review": 3790,
+        "catalog-syntax-error": 66
+      },
+      "duplicates": 92,
+      "sourceExceptionsUsed": 1,
+      "actionableFailures": 0,
+      "diagnosticInterpretation": "Os 3.790 mesmos textos EN/PT são candidatos de revisão, não erros automáticos: os 2.461 rótulos distintos foram examinados por domínio. Os 66 diagnósticos de sintaxe correspondem a formatos herdados de campos multilinha físicos ou barras literais; o check não encontrou sintaxe PT acionável. As 92 duplicidades diagnosticadas não são traduções PT conflitantes. Uma exceção de fonte já registrada foi respeitada. Não há lacuna de associação exata acionável."
+    },
+    "fullReconstruction": {
+      "status": "pass",
+      "catalogsReconstructed": 362,
+      "logicalEntries": 22030,
+      "approvedTranslationChanges": 62,
+      "retainedLogicalEntries": 21968,
+      "catalogsWithoutBodyChanges": 348,
+      "reconstruction": "All current PT-BR catalog bytes equal baseline + header normalization + exactly the approved per-context changes",
+      "catalogFingerprintListSha256": "90b517e2294f38b3017cc773a9afce396b096a61cd5b7bc5d2d8006c09ecd60e",
+      "goldenChanges": 2472,
+      "goldenRules": 2499,
+      "packageFiles": 363,
+      "packagePayloadBytes": 3810737,
+      "packageBytes": 3880211,
+      "packageSha256": "f9776175574741d3c9cb89ffc8a33c6b6001b7dd15e78ab9d0be11732ab06eb8",
+      "packageRebuildByteIdentical": true,
+      "packageCheck": {
+        "files": 363,
+        "bytes": 3810737,
+        "archiveBytes": 3880211,
+        "crc32": "verified",
+        "content": "exact expected bytes",
+        "root": "default/"
+      },
+      "historicalRecords": 10,
+      "historicalRecordsGitFilteredBlobsUnchanged": true,
+      "historicalRecordsDataUnchanged": true,
+      "historicalRecordByteComparison": "Git checkout LF/CRLF filtering applied; no historical file was rewritten",
+      "englishAndReadmeGitUnchanged": true,
+      "originalSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+      "installedPakSha256": "d11583c149666e433bddc567163c18d6ce972c7a2068e200d49fcbdcf03d7753",
+      "gameTested": false,
+      "published": false,
+      "historicalRecordsList": [
+        "translation/expression-audit-2026-10-07.json",
+        "translation/file-reviews/00-bootcamp/01_inf-control.json",
+        "translation/final-review-2026-10-07.json",
+        "translation/full-review-2026-10-07.json",
+        "translation/proactive-review-2026-10-08.json",
+        "translation/reviewed-2026-10-07.json",
+        "translation/source-exceptions.json",
+        "translation/source-manifest.json",
+        "translation/validation-2026-10-07.json",
+        "translation/validation-2026-10-08.json"
+      ]
+    },
+    "package": {
+      "mode": "check",
+      "files": 363,
+      "bytes": 3810737,
+      "archiveBytes": 3880211,
+      "crc32": "verified",
+      "content": "exact expected bytes",
+      "root": "default/",
+      "locale": "pt_BR",
+      "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak"
+    },
+    "release": {
+      "tag": "v1.0.22",
+      "pakSha256": "f9776175574741d3c9cb89ffc8a33c6b6001b7dd15e78ab9d0be11732ab06eb8",
+      "pakBytes": 3880211,
+      "gameTested": false,
+      "mode": "--check"
+    },
+    "preservation": {
+      "englishFiles": 363,
+      "englishCatalogs": 362,
+      "sourceInventoryAndRawBytesIntact": true,
+      "sourceMatchesReceivedExtraction": true,
+      "originalPackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+      "installedPackageVersion": "v1.0.21",
+      "installedPakSha256": "d11583c149666e433bddc567163c18d6ce972c7a2068e200d49fcbdcf03d7753",
+      "installedGameChanged": false,
+      "historicalRecords": 10,
+      "historicalFiles": [
+        "translation/expression-audit-2026-10-07.json",
+        "translation/file-reviews/00-bootcamp/01_inf-control.json",
+        "translation/final-review-2026-10-07.json",
+        "translation/full-review-2026-10-07.json",
+        "translation/proactive-review-2026-10-08.json",
+        "translation/reviewed-2026-10-07.json",
+        "translation/source-exceptions.json",
+        "translation/source-manifest.json",
+        "translation/validation-2026-10-07.json",
+        "translation/validation-2026-10-08.json"
+      ],
+      "historicalDataAndGitFilteredBlobsUnchanged": true,
+      "historicalEolPolicy": "Git core.autocrlf=true: CRLF no checkout e LF no blob. Comparação de dados e git hash-object --path comprova preservação; nenhum histórico foi reescrito.",
+      "readmeUnchanged": true
+    }
+  },
+  "independentChecks": {
+    "linguistic": {
+      "status": "pass",
+      "changesRead": 62,
+      "exactSourceAndBeforeAndAfterAndGoldenMatches": 62,
+      "priorRulesRemoved": 0,
+      "formationCountryModelAndRoleQualifiersPreserved": true,
+      "coverageRecord": "translation/offline-review-2026-10-08.json#independentReadingCoverage",
+      "note": "Além dos 62 ajustes finais, houve leitura dirigida de rótulos iguais à fonte, cargos, patentes, condições narrativas e todos os 297 pares dos sete catálogos de treinamento. Não é uma nova leitura individual das 22.030 entradas; os subconjuntos se sobrepõem."
+    },
+    "operational": {
+      "status": "pass",
+      "catalogsReconstructedFromBaseline": 362,
+      "approvedBodyChanges": 62,
+      "packageMembersChecked": 363,
+      "crc32": "Calculado independentemente bit a bit para todos os membros.",
+      "fullPackageRebuildByteIdentical": true,
+      "englishFilesUnchanged": 363,
+      "historicalRecordsUnchanged": 10,
+      "note": "Conferência independente repetiu source-integrity, metadata, context, pack e release em modo de leitura; a suíte de 105 testes foi executada pelo agente principal."
+    }
+  },
+  "resourceEvidence": {
+    "archivesInventoried": 45,
+    "textMembersScanned": 29963,
+    "textBytesScanned": 253883791,
+    "matchingEnglishReferences": 7607,
+    "missingPortugueseAmongEnglishMatchedReferences": 0,
+    "sourceMissingReferenceCandidates": {
+      "groups": 47,
+      "occurrences": 49,
+      "interpretation": "Ausentes também no inglês recebido; não prova de traduções perdidas ou de caminhos efetivamente alcançáveis. Nenhuma chave nova foi inventada."
+    },
+    "fonts": {
+      "descriptors": 96,
+      "fntFiles": 97,
+      "descriptorsResolve": true,
+      "nonAsciiCodePoints": 86,
+      "codePointCountStage": "Inventário inicial de fontes anterior à normalização NFC; a contagem atual foi conferida novamente nos msgstr finais.",
+      "currentNonAsciiCodePoints": 84,
+      "allCodePointsExistInAtLeastOneFont": true,
+      "explicitStyledMessagesExamined": 246,
+      "confirmedMissingGlyphCombinationsAmongResolvedStyles": 0,
+      "unknownStyleAliases": 8,
+      "note": "Não certifica composição, fallback, seleção de fontes, cortes, legibilidade ou áudio. Riscos estáticos específicos e páginas de atlas não localizadas constam no registro da revisão."
+    },
+    "evidenceRecord": "translation/offline-review-2026-10-08.json#operationalEvidence"
+  },
+  "evidenceBoundaries": {
+    "allTechnicalCatalogsChecked": true,
+    "allMessagesReReadIndividuallyThisPass": false,
+    "gameTested": false,
+    "gameVersion": null,
+    "malformedSourceOrLegacyBindings": "Preservados onde não há prova inequívoca da intenção; contextos, fontes e próximas ações seguras constam em offlineUnresolved.",
+    "confirmedOriginalFactualIssuesNotSilentlyRewritten": [
+      {
+        "file": "interface/text/info.pot",
+        "context": "info/entity/kv2",
+        "sourceFact": "122mm main gun",
+        "validatedFact": "Canhão/obuseiro M-10T de 152mm",
+        "classification": "explicit-source-divergence-not-translation-omission"
+      },
+      {
+        "file": "interface/text/info.pot",
+        "context": "info/oerlikon",
+        "sourceFact": "developed in Sweden",
+        "validatedFact": "Origem suíça documentada pelo museu do USS Slater",
+        "classification": "explicit-source-divergence-not-translation-omission"
+      },
+      {
+        "file": "interface/text/info.pot",
+        "context": "info/sturmtiger",
+        "sourceFact": "chassis of the Pz.IVe heavy tank",
+        "validatedFact": "Chassi do Tiger",
+        "classification": "explicit-source-divergence-not-translation-omission"
+      }
+    ],
+    "factualCorrectionPolicy": "Os três fatos acima são problemas comprovados do original, não ausência de tradução. Registrados separadamente, sem substituir o texto inglês nem aplicar divergência editorial silenciosa.",
+    "limitations": [
+      "Não houve execução do jogo/editor, instalação ou alteração da instalação e nenhuma publicação nesta etapa.",
+      "A cobertura de referências cobre candidatos estáticos encontrados, não todos os caminhos dinâmicos do motor.",
+      "Há chaves candidatas ausentes também no inglês; nenhuma entrada foi criada por plausibilidade.",
+      "Cobertura de glyphs não prova fallback, corte, aparência ou sincronização de áudio.",
+      "Fontes malformadas, identidades legadas e fatos históricos sem prova específica continuam registrados sem inventar uma solução.",
+      "A aprovação dos testes e a leitura dirigida não certificam perfeição semântica de todo o corpus."
+    ]
+  },
+  "documentation": {
+    "readmeRemainsUserFocused": true,
+    "localPublicationState": "v1.0.22 preparado somente localmente; GitHub e pacote já instalado permanecem v1.0.21.",
+    "reviewAndValidationRecordsLinkedFrom": [
+      "CHANGELOG.md",
+      ".github/CONTRIBUTING.md"
+    ],
+    "documentsChecked": 5,
+    "localLinksChecked": 35,
+    "brokenLocalLinks": 0,
+    "localLinksCheck": "Todos os links locais dos cinco documentos foram conferidos após materialização deste registro; nenhuma falha."
+  },
+  "publication": {
+    "commitCreated": false,
+    "pushed": false,
+    "tagCreated": false,
+    "githubReleaseCreated": false,
+    "gameInstalled": false
+  }
+}

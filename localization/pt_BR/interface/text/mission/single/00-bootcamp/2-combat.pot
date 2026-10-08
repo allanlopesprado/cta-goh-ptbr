@@ -1,5 +1,4 @@
-﻿#, fuzzy
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Editor (Dev) (2-combat)\n"
 "POT-Creation-Date: \n"
@@ -10,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "mission/single/00-bootcamp/2-combat/date"
 msgid "June 26th, 1941 - Grodno, Belorussian SSR."

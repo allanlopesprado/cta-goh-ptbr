@@ -1,5 +1,49 @@
 # Histórico de versões
 
+## v1.0.22
+
+Validação offline complementar de 8 de outubro de 2026, preservando o pacote
+inglês recebido em 7 de outubro. Esta é a versão da tradução, não do jogo.
+
+- Cabeçalhos dos 362 catálogos padronizados para PT-BR e UTF-8, com regra inteira
+  de plural brasileira e retirada de `fuzzy` somente dos cabeçalhos revisados.
+  Os textos permaneceram intactos nessa subetapa.
+- 62 ajustes em 14 catálogos: ortografia de subseção, relações entre cargos e
+  formações, clareza de instruções/falas, referência humana a Matilda e quatro
+  normalizações Unicode de acentos, conservando nomes, modelos e qualificadores.
+- Sinalizadores VT de artilharia: “Air” identificado como explosão aérea pelos
+  scripts. “Sharp” do pincel de terreno corrigido pelo manual oficial do editor.
+- Segunda leitura independente dirigida de rótulos preservados, cargos,
+  patentes, instruções e diálogos, com abrangência e limites registrados.
+- Cruzamento estático de referências em mapas, scripts, UI e DLCs instalados;
+  nenhuma ausência PT nas referências encontradas também no catálogo inglês.
+- Inventário/hash por arquivo inglês, cabeçalhos, formas e Unicode protegidos
+  na CI, além das 2.499 decisões contextuais. 105 testes automatizados aprovados.
+- Pacote com 362 catálogos PT-BR e `localization.info`: 363 arquivos,
+  3.880.211 bytes, inventário, CRC32 e conteúdo conferidos individualmente.
+
+### Registros da verificação
+
+Original, antes/depois, decisões, fontes e limites em
+[offline-review-2026-10-08.json](translation/offline-review-2026-10-08.json).
+Resultados técnicos em
+[offline-validation-2026-10-08.json](translation/offline-validation-2026-10-08.json).
+Os relatórios das versões anteriores permanecem preservados.
+
+### Integridade do download
+
+SHA-256 de `default.pak`:
+
+```text
+f9776175574741d3c9cb89ffc8a33c6b6001b7dd15e78ab9d0be11732ab06eb8
+```
+
+Referência inglesa original (SHA-256):
+
+```text
+dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6
+```
+
 ## v1.0.21
 
 Revisão proativa de 8 de outubro de 2026, mantendo a referência inglesa

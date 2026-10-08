@@ -1,0 +1,1823 @@
+{
+  "schemaVersion": 1,
+  "referenceDate": "2026-10-07",
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "scope": "Bytes dos 363 arquivos ingleses preservados da referência fornecida; atualizar explicitamente com o manifesto ao importar uma nova fonte.",
+  "files": [
+    {
+      "file": "interface/text/announcements/announcement.pot",
+      "bytes": 1626,
+      "sha256": "026934798422ef6feb68de404b17c20d9cd22764cf6a1de2f893a7f32ad607d6"
+    },
+    {
+      "file": "interface/text/announcements/autumn2025.pot",
+      "bytes": 718,
+      "sha256": "5b326cd2f86ee878bd4073a00b69715947997944a2696512d839c1eaae38f951"
+    },
+    {
+      "file": "interface/text/announcements/cu6.pot",
+      "bytes": 1168,
+      "sha256": "fb65eea56c492d1b369c0f83a2ad636b0f4fda622296b04da8e8dac4eb42f7d9"
+    },
+    {
+      "file": "interface/text/announcements/finesthour.pot",
+      "bytes": 986,
+      "sha256": "95e9fdfc07bf9b4e5dfb1fc3d0228a76c44e59e525306ad497daedc863f48a67"
+    },
+    {
+      "file": "interface/text/announcements/finesthour_release.pot",
+      "bytes": 1238,
+      "sha256": "39fac91f0b9c08f6346dac133d2c129e77b7defea412c5a33635a1c89789c3d4"
+    },
+    {
+      "file": "interface/text/announcements/pvp.pot",
+      "bytes": 748,
+      "sha256": "7523a010eb9b447e23ceab4390a456ca7dcadd3c74f742551ed904ee06a0b7fb"
+    },
+    {
+      "file": "interface/text/announcements/update70.pot",
+      "bytes": 852,
+      "sha256": "e5b24d3802ebdb63428821c3dbb600a4b8fcae4ee4485bb03508690f82cc77d5"
+    },
+    {
+      "file": "interface/text/announcements/ww2.pot",
+      "bytes": 752,
+      "sha256": "f547cbca31f3f77408a5cc9851564e70ff299a607f88aff0d41fb2ba2567ab8b"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_eng.pot",
+      "bytes": 12924,
+      "sha256": "53232cfa7600e6c3dcd9a1ff4a5761faf22f8d982b109e80115957d09619890f"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_fin.pot",
+      "bytes": 5275,
+      "sha256": "fefd81ba08113a83f1eb59f98236e6cae67958aad1067cf16ed420bed8e1ff48"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_fra.pot",
+      "bytes": 600,
+      "sha256": "04cf477dde7fdae7fdf4a1e4d63b2b4aafa6a13b319ede4cde0a30e323d5c329"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_fra_.pot",
+      "bytes": 608,
+      "sha256": "311ba205959a22fb9347714e9b5250f786fcf7429f499f284ee829f30431a501"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_generic.pot",
+      "bytes": 2714,
+      "sha256": "87c1d78e74badd07c520589a6ca2efbed51d2c1923669af590ad65e667508a3c"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_ger.pot",
+      "bytes": 14970,
+      "sha256": "5ee5117a5c23251f5f5e6a745b456aac40b513cd20ab764a84076b19894cd9a1"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_rus.pot",
+      "bytes": 9829,
+      "sha256": "a9c930bcee1bf186fb65960284242cb779aa2db162b06b987d81bf73edb95840"
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "bytes": 12364,
+      "sha256": "f7b43892bb24fee0429a818983a3b2d1d9177fa3c8535bba6b0680a8f9fe68f7"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_airborne_ger.pot",
+      "bytes": 7564,
+      "sha256": "90b481e5379072a8e4632a30db371317abdd3673e618fc4f994f7fd383c28b52"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_civilian.pot",
+      "bytes": 2781,
+      "sha256": "5e47ed486e720521cf0014c61a42237d484dbcb32a4e7160e194887fa0e781d8"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_can.pot",
+      "bytes": 8712,
+      "sha256": "690516dfe01c23302eec1b38347f5e9ade0962200d1276d8a12ef4177fcd933d"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "bytes": 52791,
+      "sha256": "8e4e627e03bb1bf3c354e553c6c0e27fb305c7b6182def62d2938609b6f4d5e5"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_fra.pot",
+      "bytes": 1308,
+      "sha256": "4dcfa33f30591a39b9ae700175501302fc061561c2159efcc977dd34a5538272"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_ger.pot",
+      "bytes": 77544,
+      "sha256": "e01379380cd1cdd77d50d111f45a7b0b5a003b7e6cbbede5f2b469a3b136d211"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_ned.pot",
+      "bytes": 1219,
+      "sha256": "b9ecd97e7aebefa4188ec9e896d36d0f1dac6f747fecc79e0bee4adc314846c6"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_pol.pot",
+      "bytes": 9761,
+      "sha256": "869386c46ecbf906578dbf6f168bb2d07cf1607fafd03adac25ff41cbb5ffb80"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_rus.pot",
+      "bytes": 46254,
+      "sha256": "68ceb2a6da2b2c315cfd2dab860d444cd850734ca3602980c257a9338a848e44"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_uk.pot",
+      "bytes": 90059,
+      "sha256": "5f88a6c1c446c755b764a2023bc5e87662396e94b933e7eb8e7abf5a9d6e7742"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa.pot",
+      "bytes": 131550,
+      "sha256": "4b0dc94a7d8c0a72385b41d642525bc9cb6ab28295612536d5deeae8f8291bfb"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_usa_.pot",
+      "bytes": 1106,
+      "sha256": "e2288293aabdcb4659e6b30d909d7956725ab861d0a00edffe62338bb081a068"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_single_ger.pot",
+      "bytes": 31841,
+      "sha256": "48115d1e95dfc9d7e528328a89733a69a32c10b8700b3f9e94472cc0cf625c3d"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_single_rus.pot",
+      "bytes": 34564,
+      "sha256": "41a762f1a8a17c3023f5cb8f6a61739f9bcf5b1c274016b6ad483e1a00a87fd5"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special.pot",
+      "bytes": 2341,
+      "sha256": "3283f16a5d8a057ba67cef90d8adde1571060afe3410e713390ccf63ab9f63fb"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special_.pot",
+      "bytes": 1341,
+      "sha256": "2c6c71381ed1a91cccdcbe76b92c702bf5e4c376901a85d8405a77bf200ad523"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special_airborne.pot",
+      "bytes": 1820,
+      "sha256": "7ee44d46a046dc5676d931790065119642db567221a8e066d88f40be9845d70c"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special_eng.pot",
+      "bytes": 2411,
+      "sha256": "8612cfff3f1cc731dfd724b912e15df87561508345b13e33f3d49fee8cae5369"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_special_ger.pot",
+      "bytes": 1640,
+      "sha256": "6e44700158e517969bec089b37197970400c55735707106751c64b7723419a1d"
+    },
+    {
+      "file": "interface/text/desc/desc_fauna.pot",
+      "bytes": 1288,
+      "sha256": "afeeb3040d63871e91c12d63df81989310220335dc8810b1c2b3effa8d29a401"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_eng.pot",
+      "bytes": 8873,
+      "sha256": "c15422c1e4c5467fae1ca6ec3adc2647e8c7225b7f6c3b0e3b0efb74947d8e68"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_fin.pot",
+      "bytes": 14909,
+      "sha256": "94c1860d7d2e9abfe96889c6f55904abcfb473a76851f6d2552256430c77bb90"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_generic.pot",
+      "bytes": 4820,
+      "sha256": "18fc1e2f0431c6bbabeb545452c4d7c47a41a0b21b51015fad9b2c3649666bc1"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_generic_.pot",
+      "bytes": 446,
+      "sha256": "3069053a1873484f430b07268e7fa6852ef9812798ef47178551a0e4345e27ac"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_ger.pot",
+      "bytes": 50627,
+      "sha256": "3826ddfe2fb01f82309d0bca3a863838f38af4ca5703ca5db33b60197b3f8862"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_rus.pot",
+      "bytes": 5091,
+      "sha256": "67e0d8be810be2afe1e1f45becb24516f1960565ef12d7b7e652be0c7fa9049b"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_rus2.pot",
+      "bytes": 12803,
+      "sha256": "b84ce6bbdb69f1cb53e7e40b0f54cfcfeb1877c8f46a57e866f365b03e8d1091"
+    },
+    {
+      "file": "interface/text/desc/desc_gear_usa.pot",
+      "bytes": 51630,
+      "sha256": "68fdfd9019224e10e8d14761e22a9f1f3e8baed1419c6f51ad7c4afb8c39d28c"
+    },
+    {
+      "file": "interface/text/desc/desc_misc_fh.pot",
+      "bytes": 2958,
+      "sha256": "27d1c28de0e12d2eb8f4f76c57fb4adef27cf8112d8d884698bb2ff3fa0e3112"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "bytes": 12397,
+      "sha256": "df01625ec49d58421a13cab92ed725a8b3f33e320efc64eabdce9468dffd80ad"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_fin.pot",
+      "bytes": 13868,
+      "sha256": "9538722c594aa76a592f94fd6aec59b2bf8743e48bc841b2a5302a8e6bbce2c3"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_ger.pot",
+      "bytes": 21222,
+      "sha256": "0cf5badbdc553c11664159f9b4931e22e8e3e4bb3c8a60158411afc08a340689"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_rus.pot",
+      "bytes": 20763,
+      "sha256": "30d3f0e4bf755260f7ceaab35e25b66de0c8013bb1292184e95532be9edb0684"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "bytes": 8784,
+      "sha256": "622f666c13f0ece0117cffe279a6702acfb7d6199275f6164f886f2d9d43ee9d"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_eng.pot",
+      "bytes": 42881,
+      "sha256": "060bcff9565e68a008bbaeac17b3aef056ac1b2984359e3f564e75ae85746afb"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_fin.pot",
+      "bytes": 24072,
+      "sha256": "064923515eec207568cab1e3cbbb5ef30fc516c675302643f546288c30720432"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_fin_dcg_late.pot",
+      "bytes": 2655,
+      "sha256": "745280a66efcb35e31394ac381e996fced754826b4e0b1fed6ffcf986c9b2462"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_ger.pot",
+      "bytes": 27685,
+      "sha256": "7a5a95f9392c6653191cddc1f3d2f714e26ddbf08dfafc40602a0b61c635b389"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_ger_dcg_late.pot",
+      "bytes": 3489,
+      "sha256": "c07bf8b8d78a6eeb29ad56431ff1a8af5c2ce6861b259765df3e1354a9c10072"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_mp_usa.pot",
+      "bytes": 19454,
+      "sha256": "3eba3633a0f7efea0cb9709b34821d159d38ff51163e66244e63e34a0b18f9b5"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_rus.pot",
+      "bytes": 26345,
+      "sha256": "ac214b7b06f92634c9b1aff509f58321cb5b0c6b4d2b1ec2f4dcdc0ae2d1c363"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_rus_dcg_late.pot",
+      "bytes": 4429,
+      "sha256": "c426ce6a882f46a345c7b08c2a1ce7257b1b680f9c8da93fc06a1012058977de"
+    },
+    {
+      "file": "interface/text/desc/desc_squad_usa_dcg_late.pot",
+      "bytes": 3117,
+      "sha256": "d2056ff2406da19e1a6474b9436705bd381d62fd4e73eb673c6358ea97bdc1a2"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_eng.pot",
+      "bytes": 37490,
+      "sha256": "98f89c944a60df8f14a5a62bedd496b5090c37cee75e30dc7d922e0461ea63ec"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_fin.pot",
+      "bytes": 17979,
+      "sha256": "111fdc266e002ec88b5069c3a123465f7bebe046bf76d4dc8ba41639f4460725"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_generic.pot",
+      "bytes": 2536,
+      "sha256": "18f2e0c8b8801ba7ec3fe0837adbf83a721aa9a326b2319ac69de76e2b23141c"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger.pot",
+      "bytes": 30253,
+      "sha256": "56ddf26c23de499de17717e56e3d9b1bd84f04e377e42b6b4e2ffd98b77a0160"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_ger_fh.pot",
+      "bytes": 1246,
+      "sha256": "e279b64ed771b7cc204949dcfa4e6ea7c085453927c16ac140e7bd4fbed18c52"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_rus.pot",
+      "bytes": 24213,
+      "sha256": "b71eef02bfb2f81763d6b0d35247f40514315233e67fbcdbb9d450002e3d73dc"
+    },
+    {
+      "file": "interface/text/desc/desc_vehicles_usa.pot",
+      "bytes": 23078,
+      "sha256": "de9ff29c4dc300193a4b88806a4830b713a3f92a6038c32a286b930bbc873682"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_eng.pot",
+      "bytes": 8600,
+      "sha256": "8821363f1b7e46e39d726290ea0e18ef75c8091a3aab80bb9d2a872d4e7ec3c2"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_fin.pot",
+      "bytes": 3906,
+      "sha256": "a70c757994418160044ae36ea4951783896d8068e5a35ab166e85ec6f83f3621"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_fra.pot",
+      "bytes": 549,
+      "sha256": "9c542fec33aef08cbefe24157a1ea42df9373b6c5ba8b7b1d898bd497d1a169a"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_generic.pot",
+      "bytes": 2285,
+      "sha256": "fa2ae2f7dd6c16ba9b8995cb8bcb027612ad7b314277d2934d0b4cfcb47d09d8"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_ger.pot",
+      "bytes": 10949,
+      "sha256": "890ab9446e60e5d0032dd80dda8f44f5c0b996472d334f8d42dccadaba75194f"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_ger_fh.pot",
+      "bytes": 421,
+      "sha256": "92573c80b97935e8097ad96938fef0be9421fdffac8eb01d4952429a378e7d36"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_rus.pot",
+      "bytes": 8438,
+      "sha256": "97088d3209824094b980a3d54ed167780cece3420cf1b703f44c2be3cf494630"
+    },
+    {
+      "file": "interface/text/desc/desc_weapon_usa.pot",
+      "bytes": 7589,
+      "sha256": "c42eab38dd0e44e8b4a489b27b9bcfa1c080b7cb10a1d1c3c4ca2421f4525fe0"
+    },
+    {
+      "file": "interface/text/dlg_2.pot",
+      "bytes": 614,
+      "sha256": "ad80a8dbc6e8a63f05d20549366c5c211bb20fd1b3e104728bb7f0507478885d"
+    },
+    {
+      "file": "interface/text/dlg_colors.pot",
+      "bytes": 2772,
+      "sha256": "7f684c0b4b40e25770921b859e466337a62973b0f5707b02e08f89c6e335c8ac"
+    },
+    {
+      "file": "interface/text/dlg_credits.pot",
+      "bytes": 5740,
+      "sha256": "ee3f23eecf49374cfbcbd5f1263c40076af7f5794c26d59300b36d92c7eff341"
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "bytes": 142517,
+      "sha256": "56c474c92d66a2f40996118854ee251f37aaee85bf477d6853bf351c392a9945"
+    },
+    {
+      "file": "interface/text/dlg_frontend_fh.pot",
+      "bytes": 802,
+      "sha256": "c730b9c1bffff00e10f30af011aacbefa291625a99ea3c63c84eccdf8d134b31"
+    },
+    {
+      "file": "interface/text/dlg_frontend_liberation.pot",
+      "bytes": 444,
+      "sha256": "b7ab588d65ca9beeed7d0d0ceedcd1a0772e808aa810db7e760432c91e7afd8f"
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "bytes": 49978,
+      "sha256": "d0d8f814ac9bac1c4aad4a3a22df15c703b0a5eedce1203d66d56163127042ad"
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "bytes": 76722,
+      "sha256": "181a40d3637515d44569f499b97e32c6c56d47ebc2fd22f42340671376ab1483"
+    },
+    {
+      "file": "interface/text/dlg_mp_domination.pot",
+      "bytes": 1599,
+      "sha256": "9bef8920ed160fe283e5b67c37a33204e66d4aeef7c8427fe86403c5f682e003"
+    },
+    {
+      "file": "interface/text/dlg_mp_frontlines.pot",
+      "bytes": 3052,
+      "sha256": "9e941e42cc6afc7a89e877b054310c0029ccd2ed9aab426bd29d20ad62931044"
+    },
+    {
+      "file": "interface/text/dlg_mp_laststand.pot",
+      "bytes": 1873,
+      "sha256": "ba6527b103548a984a1de38c95fc4eb0ce67439b67be2b0a3d39975a1e6a76ab"
+    },
+    {
+      "file": "interface/text/dlg_workshop_tags.pot",
+      "bytes": 2862,
+      "sha256": "056167fc9f17d177558bec88dbfa255f197de0bd607caa1e3b7798bd2a822819"
+    },
+    {
+      "file": "interface/text/doctrines.pot",
+      "bytes": 7796,
+      "sha256": "b0b50b9c5ba289a64a30b3c58597e0d63b54fb29109431256913420d2e2662fd"
+    },
+    {
+      "file": "interface/text/doctrines_eng.pot",
+      "bytes": 1260,
+      "sha256": "3748b30ac173f984cd27a38008f007a2be009d02491f0bfe5be2c1de61e5aae5"
+    },
+    {
+      "file": "interface/text/doctrines_usa.pot",
+      "bytes": 956,
+      "sha256": "1cf5edbad81f35f96a3dbb48e9d2a1ae673ba6354e7b291e0320c95eb6d69011"
+    },
+    {
+      "file": "interface/text/editor.pot",
+      "bytes": 6665,
+      "sha256": "4e1edb33cd8e8fcef2407cab8903c74419d17c48723e839aa346dbcff1086100"
+    },
+    {
+      "file": "interface/text/info.pot",
+      "bytes": 114504,
+      "sha256": "49af8521a0d4b7e059e28347d6620576da1d943cbbc3a8b5e9b37922e9b0826d"
+    },
+    {
+      "file": "interface/text/mission.pot",
+      "bytes": 11404,
+      "sha256": "ec217604b2fa5d72cd90663c6618aa2f239525bec03d7652d9f9aa5fc1a19378"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/1v1_barbarossa.pot",
+      "bytes": 772,
+      "sha256": "32384f62011d0d0ee0c7ff1f7f1be02d209bac24a3aa7d1de5e52fc48071de97"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/1v1_cobra.pot",
+      "bytes": 752,
+      "sha256": "295546453757e55b1828920c5f40a1e4dcc9665979c5e27784c245539f7b8e49"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/1v1_karjala.pot",
+      "bytes": 760,
+      "sha256": "63c1195a6f1ee1f00c24156384b01fa1968e34e257ac4dd4a788473f63e2d9ca"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/1v1_reichswald_aut.pot",
+      "bytes": 788,
+      "sha256": "1bb384781cf356ea66cff9a4db7cb9ef6b2009689c89fae1f945f28906775282"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/2v2_bastogne.pot",
+      "bytes": 764,
+      "sha256": "4a198065b895f7227ec38440cb5d6a48b044ff13fd913a33b6470ae020ee9dea"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/2v2_blitzkrieg.pot",
+      "bytes": 772,
+      "sha256": "879057d9a608253fd85dc4c60aa17452f4c53f800845b79636b6ef0c2cc41b0b"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/2v2_stalingrad_factory.pot",
+      "bytes": 804,
+      "sha256": "9b094c12bc09d0bbdc96165ae5f3a2bda39f090bda6927a68d5c850556ab7f8c"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/2v2_tali_ihantala.pot",
+      "bytes": 784,
+      "sha256": "afd8bc7e009cc420eb585528731decab867532d09c9a0dff2597b41f1e65e841"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/3v3_crimea.pot",
+      "bytes": 756,
+      "sha256": "66b7e1780cdf9fb47578747a275569beaacbb4fcf9f5a786983261566c62b441"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/3v3_hells_highway.pot",
+      "bytes": 784,
+      "sha256": "574d8ef4e52cc25946b9699ee2d251863224d814cc58950af4bb1ae243e06d1f"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/3v3_normandy.pot",
+      "bytes": 764,
+      "sha256": "d9b6ab8701ac3801ec558c58b7070db390155664e067a8c3ff8cc13dcc317339"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/3v3_volga.pot",
+      "bytes": 752,
+      "sha256": "624412a5a0c3160dac20dc28d43aa719594f8e5e2845fbefc7fd629beca67c86"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/4v4_goodwood.pot",
+      "bytes": 764,
+      "sha256": "b039ffbc8b4b333543c4fc4d910ead4246f5fcabb6512dd07a67d5df4b2ce20a"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/4v4_kursk.pot",
+      "bytes": 752,
+      "sha256": "b76a6ea63a00ab41c1e67fa0f9d1fa8e6390ea442fdc002c656633718d477823"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/4v4_mannerheim.pot",
+      "bytes": 772,
+      "sha256": "1c378e50103ea7d00e5c1f3aa578e9944ff84ba8f7fb25678183bfddec547b24"
+    },
+    {
+      "file": "interface/text/mission/multi/0_frontlines/4v4_siegfried.pot",
+      "bytes": 768,
+      "sha256": "b5300df55e26fac54e9d76603d7408e89b46d8c2ccd0c686ead4a612c3a6d820"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_balzerweg.pot",
+      "bytes": 716,
+      "sha256": "2966cbb281e56ece486ed832efcef0fe204df864a1e8f63c65ac99255dee4bab"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_crossing.pot",
+      "bytes": 712,
+      "sha256": "1607234f6029c05225bc633e60331c53d4f465be30d8656caaba9e85ebb5fdd2"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_fall_gelb_sum.pot",
+      "bytes": 732,
+      "sha256": "dfa43f44f91315f3e18cca110205670316f55901dbf8ff7531a9e2ab365ba8bb"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_farmland.pot",
+      "bytes": 712,
+      "sha256": "10a159f168fbb9811dd1cd2ab5c492c3a774c59599c2905bd61fe1ab8b7be88a"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_farmstead.pot",
+      "bytes": 716,
+      "sha256": "cea210fb1f2ec28ebfc1886e13153cf79c215c2db72e5ab8c41ed73d7e51c973"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_forssa_dam.pot",
+      "bytes": 720,
+      "sha256": "8fa49273d1a8b1516138fb3dfe620e59a8af2f96fe48f8de849e6574afbb9ce6"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_hiekalla.pot",
+      "bytes": 712,
+      "sha256": "427f549c5df172061e7d40af0ae7c04a5a0c155205df5337092fb1efab022d73"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_holzbach.pot",
+      "bytes": 775,
+      "sha256": "d6645ae4f9f74642b37ff596ff11629bf174780ab2695fdba11cad8fd3b86ef3"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_isigny_ruins.pot",
+      "bytes": 791,
+      "sha256": "f317c1b9832c0a0d32951505efd08d906c9dbb4c3406729ccbb5a28c53c455ce"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_jarven.pot",
+      "bytes": 704,
+      "sha256": "75257dbe7628a304a6927958f7943f1c88d4df346d5ee2ae993db466d3e1aadd"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_kalinin.pot",
+      "bytes": 708,
+      "sha256": "ede5d772add4536ea0ee76739d4bf3c66e5a1a2fa4c5def00276ccea3a2da042"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_ladoga.pot",
+      "bytes": 704,
+      "sha256": "3fe662c8480e079ffbc8b067f63530dcde7ea8db05d8b41b060c54db90aabe8d"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_losheim_gap.pot",
+      "bytes": 787,
+      "sha256": "212d5e322961f59c16e840dd8faa7d792764f843d6d88a7d546afec95aba0d3b"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_nevel.pot",
+      "bytes": 700,
+      "sha256": "6bb17d8d7f316c0ff0543ba25748b4477d60b4f329c0c35e9cb2db855001e8ab"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_oosterbeek_sum.pot",
+      "bytes": 736,
+      "sha256": "75dc52621a0510a673a17cb3fbc09d905bb8a97febb928d1b437ccd15d9395eb"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_oryol.pot",
+      "bytes": 700,
+      "sha256": "6370830c55ea82301b916368beedcbb82f349f366e44e6d5edfe914d91302380"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_ouren_valley.pot",
+      "bytes": 791,
+      "sha256": "a30f40468832b13cad92f3b672b22fc2241457188d722cd6e3ed87423b4727b2"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_radar_hill.pot",
+      "bytes": 783,
+      "sha256": "941d916b9f6f244c6c41b9985f3a58e7ec44c19d6441931a0cb0c48d15ec23c2"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_reka.pot",
+      "bytes": 696,
+      "sha256": "ca6f45fb42a9eeedfbacb1f1335763c965953713fbeeaf26be9f2d12885ff6e5"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_riverbank.pot",
+      "bytes": 716,
+      "sha256": "9d91f9966bba2ab6a0e147d15faebc405a316966e959c74111fc9e45729baa32"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_solingen_factory_aut.pot",
+      "bytes": 760,
+      "sha256": "9ffb7e9f012c897771908d89083241bdb6f55244e3e9509746304431d1bbad32"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_tormasenvaara.pot",
+      "bytes": 732,
+      "sha256": "6d3748ff732a8b09eac1924989dce29ef530462b190b7a170599aee4bc18fd63"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_uran.pot",
+      "bytes": 696,
+      "sha256": "e29b0320c4ff247876aab28638c18d9e893d2194f634f7496ca4b8ccaae196a6"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_valley.pot",
+      "bytes": 704,
+      "sha256": "bf24af79deb93b8ff0cd61a3f7e8394f01a3bad947c96b4a9b522982cff6b727"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_volokolamsk.pot",
+      "bytes": 724,
+      "sha256": "b698320589923fd3bd3fae80f14918fff88bd9a491511df0379740d62d112f05"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_weteringsteeg.pot",
+      "bytes": 732,
+      "sha256": "d6dfea80052dd5092a334d9fb3976de3f4708a3bfd7d646fde192f128f14abf7"
+    },
+    {
+      "file": "interface/text/mission/multi/1v1_workshop.pot",
+      "bytes": 712,
+      "sha256": "b94b1cb2aad362801b505a865646c798f257c806044e22696ee68862530f4775"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_blizzard.pot",
+      "bytes": 712,
+      "sha256": "4dcf8d1ccad220152d3a5bd9e39fdf39cf3524a959f8c3e4cfb9038578cce0e9"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_bubingen.pot",
+      "bytes": 775,
+      "sha256": "88b28ba3989fe9da48b83499a541f287850708603cfdc9f0f6fb8bf08a25c92e"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_countryside.pot",
+      "bytes": 724,
+      "sha256": "c6c8ca63dd112c908f7efa1466432ea5865e2f9d4aa355b50b684dab166f4622"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_courtyard.pot",
+      "bytes": 716,
+      "sha256": "cf061fa3db3c49af68c23adcf1c367283261de7492eb3974ff2b900e59341dbd"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_dunkirk_dunes_sum.pot",
+      "bytes": 748,
+      "sha256": "c3cc6e2606207de5980a9c3465fd0c7a9bc31c5a52b9895d5909038a84c949d3"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_fall.pot",
+      "bytes": 696,
+      "sha256": "4f3da3f59768b54f2892f2f2aed3e2ec2a535a6194edfde66648b07c57a17c8d"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_gelid.pot",
+      "bytes": 700,
+      "sha256": "8bb96e2d49d8a6c394340562976c891acbaa2283bd03c51457a602616badbdcd"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_glubinka.pot",
+      "bytes": 712,
+      "sha256": "76e90ec953abc16ec6b87b4551d4e993ca3ebf9fa830624ba61062a4124f384d"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_grave_sum.pot",
+      "bytes": 716,
+      "sha256": "1354d20b2a609ee107f266afc4c79dd1c8be00668bf814fe860983fba75a13a4"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_hakola.pot",
+      "bytes": 704,
+      "sha256": "dc47de39bea179ee60b685f035b7c7f4ff1e6ca5b9f7a6a8646fd78349096941"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_heelsum_sum.pot",
+      "bytes": 724,
+      "sha256": "afedbf21851f3e392468466fab78a8c4df7ad087963a9c351abbca4846431f21"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_hunting.pot",
+      "bytes": 708,
+      "sha256": "af5b28f24ab62b5e9cfd9331a2ccc0488c35ad57bb35130fa50698cf3d7ecca9"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_hutor.pot",
+      "bytes": 700,
+      "sha256": "062b618115ff602d79dec867928136bfcb6a5aeb0f9ff3cd2e9f8bccd5e8d68a"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_industry.pot",
+      "bytes": 712,
+      "sha256": "95004935a37a76171712e26aa0b1c20265910d12e930a03b1e5c97079e49b599"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_invanovka.pot",
+      "bytes": 716,
+      "sha256": "8131b355171b5f064852e0a455217a3e09f8916239a37a4fb4dee9cc9853b2d4"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_kainuo.pot",
+      "bytes": 704,
+      "sha256": "f24c2b8bf7461606e53798a3068ff8191c3c5be8daa220561c75f29f9c55ff69"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_karvola.pot",
+      "bytes": 708,
+      "sha256": "ae0b00f11c0c63d29729d3f75eb57a36a00ae8f8baaa6377e2c7151122a724f3"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_katrinovo.pot",
+      "bytes": 716,
+      "sha256": "96ae658efc0d9aff2033a0f947cfac593bb35c0275ee935310b271a5ac7f5e55"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_kavichy_factory.pot",
+      "bytes": 740,
+      "sha256": "1daba1d18b218b54d54ef56f65f4569106bca00d46ce180cfc0b8f6d13333a5a"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_mannerheim.pot",
+      "bytes": 720,
+      "sha256": "b5a2232ad52c737693ca114b51c44cdaa47008ba9ecd8122f3e6887f34e8cb49"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_marvie_ridge.pot",
+      "bytes": 791,
+      "sha256": "5838f96f62a414543273854309d8cb3b2064a5cb3a6ea873a4838dae9d0b24d5"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_monastery.pot",
+      "bytes": 716,
+      "sha256": "85b59330549fd76e2a4e08035621c6a894b476fcdb30d8ef448b04ae8d5dc47a"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_mortain.pot",
+      "bytes": 708,
+      "sha256": "0de46b0958f9f87b59198561668607407e3c11186ac112b5a604839646d4ca48"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_olshanka.pot",
+      "bytes": 712,
+      "sha256": "b8c7d7dfae78c43cb2de1f118a1b934414b58d8976cfad30a17075535a3eb161"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_rouncy.pot",
+      "bytes": 767,
+      "sha256": "89ad8fc3ea441e0f0d8dcb22dc3223ab45b44c45d48123d38e8e344cc494b124"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_sainte_marie_du_mont.pot",
+      "bytes": 823,
+      "sha256": "9daf41f0c15339ca3b20ea289e95dc1dd2a53765520860b34238ced5de2c486c"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_shaforovo.pot",
+      "bytes": 716,
+      "sha256": "8452626941d91783ea2e67c9072a28012c28cbd6d5da112ef233a8a8cb845547"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_st_vith.pot",
+      "bytes": 771,
+      "sha256": "9a66368aceaf05f9ecf8fba496b0359791e89f7d5fd428e039a0beead50e0f31"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_stalingard.pot",
+      "bytes": 720,
+      "sha256": "da27708aaebfd4d8558d006e646bf79e3269bc04704f28f5887fe75d4dfa2201"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_suburbs.pot",
+      "bytes": 708,
+      "sha256": "80cc8e6dc07c7457835654d72636840bf4afef321ff7c595b510049e423a57b2"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_suishka.pot",
+      "bytes": 708,
+      "sha256": "cfded50d23339f30d806df0efb14467cdc828684785b7a36a641a3abed5baf26"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_tikhvin.pot",
+      "bytes": 708,
+      "sha256": "556d5032e753b91988ea98a95c8dfdfa7ad4f09354798286f73a5e15000dffac"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_urban_hell.pot",
+      "bytes": 720,
+      "sha256": "cce486f8a1fa5d89c1b43c3c781bdd2aba47f0a129bd6903ef0b01615f062b36"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_vainikalan.pot",
+      "bytes": 720,
+      "sha256": "52493b8df31daf6a29c97e52361dae4e2f6e571cdbe981c8dd4cd5d79c46c36f"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_wesel_aut.pot",
+      "bytes": 716,
+      "sha256": "d8f258b201807a86c8673803749ec845421ac61c0f2dcf3b7c68ddd93e96c034"
+    },
+    {
+      "file": "interface/text/mission/multi/2v2_ziborovo.pot",
+      "bytes": 712,
+      "sha256": "99ed07a4950e1a0d630397ac03426d2d6dcae3711fbcfc94e771fde7ca0641d2"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_barrikady.pot",
+      "bytes": 716,
+      "sha256": "eb66cf5cfd59df45db96f5f2b2c00e277fbf2bc1dbbbf7875fd16a4db863071e"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_brozha.pot",
+      "bytes": 704,
+      "sha256": "dd225f16f020772af7637eb03532735d09e6597f7290bc96de0f24063e7e8da8"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_canals_sum.pot",
+      "bytes": 720,
+      "sha256": "d4689376c96bde7b12d9ebf5d7c5c58ca64c09d59313122b012407d8f1469e63"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_elanskaya.pot",
+      "bytes": 716,
+      "sha256": "5b9e4835a7a9e12ad9fb3102ce8a67617bf13412a0aaf2fac3901c53b5421b20"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_factory.pot",
+      "bytes": 708,
+      "sha256": "9807b583c82e6729eed398ed8d44e44b1c8c1da55f88ada6cc7b6af1874c36f4"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_general_winter.pot",
+      "bytes": 736,
+      "sha256": "72dba30abdcf83a49add23ff058159b80f91d9073950e10a468a71e6b495de71"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_glushkovo.pot",
+      "bytes": 716,
+      "sha256": "274e17a6ac6266000e5163f272546b19062fe6ebe04b4009ffed98a4db189def"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_hamminkeln_aut.pot",
+      "bytes": 736,
+      "sha256": "8bb81ed1c50c2306b5bbbd6cf66cf7519f0de3418bc113b227a3cd6293ddb319"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_hqvistvaara.pot",
+      "bytes": 724,
+      "sha256": "74d5e559231266e01404bc1f043b744bd5b3de976bc4122bf7991d221cc08fa6"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_hungary.pot",
+      "bytes": 708,
+      "sha256": "5e764396b729905dee7194a17192ca53b87634fc1c7f517f642da250b7ae97ff"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_hurtgenwald.pot",
+      "bytes": 787,
+      "sha256": "e2c90315d6583ef7e62e2871497d3c1c73bf044506d35a6ae7794683f78f72f2"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_king_of_the_hill.pot",
+      "bytes": 744,
+      "sha256": "818bb89f35dd60fcc2c48123a624935d441c1bffd24dbd1441d167e826cd432f"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_lakeside_airfield.pot",
+      "bytes": 748,
+      "sha256": "47cf3f02485269b8906ba6a180183f6a7f8232ced003d35db5906e91b9bd2610"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_lakhta.pot",
+      "bytes": 704,
+      "sha256": "abeb21cec792f8e1191729c79bfb18df2956588e7dc5442494240f6496c202a1"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_lalobbe.pot",
+      "bytes": 771,
+      "sha256": "c3072adcfc380ab9591638967ca814a392d04da6753413eda1b4cf3b177cbd33"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_mikli.pot",
+      "bytes": 700,
+      "sha256": "f115ad64202ef16f3719f4f266f6ffad822b4266d60c7d5acd27b06dc02e546e"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_mont_cassel.pot",
+      "bytes": 724,
+      "sha256": "a9fb66ae2e414c59c0eebfd2613acc1150a10d2500ba617c50cec320dd1e0808"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_mortain_station.pot",
+      "bytes": 803,
+      "sha256": "aefc2a7d5687c3358a1c7cf52a869317dffdaa46052bc7e7dccecb9188ee3cc9"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_natramala.pot",
+      "bytes": 716,
+      "sha256": "4392168bbece0eb3ef1f53de8566b148ab9cc1590aea1fc77f4613a4778a4f57"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_posenov.pot",
+      "bytes": 708,
+      "sha256": "f0b3690ef37f1f51f45291d3aa09477223e0081ebef70e228c35be510bc24b3f"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_radusha_airfield.pot",
+      "bytes": 744,
+      "sha256": "adb118267f3b1e98dd0892a55656dcdf6fa3482db5bfda156912da0cd4f0a177"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_ranes.pot",
+      "bytes": 763,
+      "sha256": "7da257fbef5b7083a146a9875e11de361c515b2a91e83eafed8336ddaff3c4ba"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_samree.pot",
+      "bytes": 767,
+      "sha256": "fde4aea9a750620bb4826038dc328d9869702a8f18e2db9d0112b279a3e251bd"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_sopheke_quarry.pot",
+      "bytes": 736,
+      "sha256": "e2d6161e7c89433baf2ecaf18ff27487746632470921ff284757febfd7cb1101"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_steppe.pot",
+      "bytes": 704,
+      "sha256": "e9355b610e3b1f4cd7928ea6c16024a675d1415329e80d70a4a3cc4fcbee0512"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_trenches.pot",
+      "bytes": 712,
+      "sha256": "2b6521b7dd98c9fd10aea6a91b1af1e41a3587a89f7a850744dc53cc84a5ee44"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_voronezh.pot",
+      "bytes": 712,
+      "sha256": "2d5f36cd648918efca0b5e828581a20479295b6816e749995aed2003a9e0e219"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_wotan.pot",
+      "bytes": 700,
+      "sha256": "e81c6cab80789c27c288b3f737b25679eb2d3d4ce6bc230f5aa7f9dee1926205"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_zeeland_sum.pot",
+      "bytes": 724,
+      "sha256": "6f4c174373329bce29c6a1a8020ee5b0f70ce1a9248ef2d32b0ef9fd13d53b0c"
+    },
+    {
+      "file": "interface/text/mission/multi/3v3_ziborovo.pot",
+      "bytes": 712,
+      "sha256": "62c24987dd83d44dd81863675a907c744fe4eab0e86436a835e8151b3f0da2fd"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_arras_countryside_sum.pot",
+      "bytes": 764,
+      "sha256": "13f2ae5b6307aec703a5fb4ea3ff8889e59b5111625444eff311337e39c330dd"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_dubovka.pot",
+      "bytes": 708,
+      "sha256": "4a9c5c5f363842e7f9d78b669eaa628abd7a7622871c4a7e7c3bcb1da1aa29bf"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_eindhoven.pot",
+      "bytes": 716,
+      "sha256": "e8528a036e746716a27b94b850ceb15f38b7341d906f610605b99cdf0f78875c"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_fields.pot",
+      "bytes": 704,
+      "sha256": "2d8c1442614f54d01e35b31a47b76486b62e95202ac35caf8035cb095e538aff"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_grassland.pot",
+      "bytes": 716,
+      "sha256": "5eff7a983c36c1f010378d287c6f105b890ad9bc1db9f5f0defa5dfb050d5f73"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_hanhijarvi.pot",
+      "bytes": 720,
+      "sha256": "1fa0b7129e14b590f50ed1e75866384b0a06b01b8331cd42735a0e8cf55ee299"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_hill_331.pot",
+      "bytes": 775,
+      "sha256": "c3436f609e5e33bad49b32cb2d58d4552c8633d497900c9e77ad9cd43230b16a"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_hills.pot",
+      "bytes": 700,
+      "sha256": "d95d0646d52e01633318fbc150628cd1de691504fb1fec97b519c787b8b82003"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_houdremont.pot",
+      "bytes": 783,
+      "sha256": "c2e54835463fceb07ebf949c148636d722f529f084321d0072164baf681df9b0"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_kirjavala.pot",
+      "bytes": 716,
+      "sha256": "6bd1e9e77b866c4453806fae4beb696ffbb21636bcb9f56fc687eab7fc9a728c"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_krasny_bor.pot",
+      "bytes": 783,
+      "sha256": "827d775d5e002393d2bcb9c2d661eba3c91d10e0b860318cf16685a448fa9b93"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_kylmapuro.pot",
+      "bytes": 716,
+      "sha256": "76cbad578bf5d966c330c107b2861153f70e845402f91915d3b7796ec7689caa"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_lysovo.pot",
+      "bytes": 704,
+      "sha256": "2ad7c527f5210f76748ec4068fce32707e1d783d67ce8434a32dff76b2a1b6f1"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_martinville_ridge.pot",
+      "bytes": 811,
+      "sha256": "2642b8c86a05e27c6e8dadb20ff176cb2856f773ffe462d6261b762128c100ed"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_niemen.pot",
+      "bytes": 704,
+      "sha256": "b7ee3fece70c9c85bd89cb8adc92e62f38cec1c1a044585fe4df9869c86eb744"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_olkhovatka.pot",
+      "bytes": 720,
+      "sha256": "a001e511c379167dbe8a39db67e2ec85481ada67eb11a9883fd019a35cc5b44f"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_purple_heart_lane.pot",
+      "bytes": 811,
+      "sha256": "62833f778152d48bcb2c295e79808e7fb916e0da5dacf9c1e439530cf408440d"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_remagen_aut.pot",
+      "bytes": 724,
+      "sha256": "0a0f901b4a588407575dc939dfe9ecfb0441f22335e22bebd326a6719f08b68c"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_rikila.pot",
+      "bytes": 704,
+      "sha256": "3c721b11a59c16e5791870d05d8684f96ca9da1d5f361346200acff1fd4e2858"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_schoppen.pot",
+      "bytes": 775,
+      "sha256": "5b8ba9e986f084041c3cc7f7357131b8331cb4357a56e8410f719e8d4143f20a"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_shiryayevo.pot",
+      "bytes": 720,
+      "sha256": "1657c2f2c6f4e28dc94bd8f6358db7253315e328e6072d78a846297fefbdb247"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_sikovitsy.pot",
+      "bytes": 716,
+      "sha256": "78a17666486ff9abbd7a46e560a0d30447fe4cba5a1c8a736c4cf1ea0e364fa7"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_swamp.pot",
+      "bytes": 700,
+      "sha256": "a189d56634305828fc0409fa51fce55d2c637655cac2f42047fa16152a37151e"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_vahikkala.pot",
+      "bytes": 716,
+      "sha256": "acc48ff5ccf6701c17e354d4c593b86d0745ca063ba1f339dc74e24f873a4e05"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_vitebsk.pot",
+      "bytes": 708,
+      "sha256": "84bcb732f4910bce2335f615401424cc51a445eebdf969fbf711a8515539f269"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_vlissingen_breach.pot",
+      "bytes": 748,
+      "sha256": "1ca025fbfb7958fb0150b9f85e34afb2426fe5c4a886197cf2262d711aa26907"
+    },
+    {
+      "file": "interface/text/mission/multi/4v4_winter_walk.pot",
+      "bytes": 724,
+      "sha256": "22969fc3b52579489799250700cdd5fb1aed8d0bfeb71f79bedb8210bf7f0ce3"
+    },
+    {
+      "file": "interface/text/mission/multi/common.pot",
+      "bytes": 2063,
+      "sha256": "e64c2b1189d9b3fc43f326fb6542677e8334f537f195cd81b14bbc50b7dc99e0"
+    },
+    {
+      "file": "interface/text/mission/multi/errors_helper.pot",
+      "bytes": 1574,
+      "sha256": "74f033217b6f4a8eb2b03b0b3404c56a392b078d239068196692ec148f96cae7"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "bytes": 8461,
+      "sha256": "cbca355709dc727c81c78d9793b4f1b5ad2cc97a7ec6e41bc9e28b8b85c3796b"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/02_vehicle-control.pot",
+      "bytes": 7981,
+      "sha256": "3a84b031e43081a2b0e37ff24159aab7a3369b0f37cbbe53e3e8abc492ea6900"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "bytes": 7623,
+      "sha256": "e7f767d99947f107df52d1ae95fa64a275d2071735c6dba748ee3764a1cd745b"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/04_reinforcements-offmap-support.pot",
+      "bytes": 8803,
+      "sha256": "16ee8c0db15a37889cd8f9c790817a9f39494c6110bb5a61c3075d18b9bd3e7c"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "bytes": 17230,
+      "sha256": "a0e3fbfb1e96d3d79d648cd6531c9e19852433c6ac01bb8d352110741dc4df8c"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "bytes": 9295,
+      "sha256": "f687c13b55e8e9b075febc4749ed8623ef9f963ef562a8a6e07452cafb4910b0"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/campaign.pot",
+      "bytes": 523,
+      "sha256": "80075ea54db352bee82bed834b56c182a233e99f99b5bc24cd8ad367ea2d307f"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1941_11_typhoon.pot",
+      "bytes": 6596,
+      "sha256": "1238314e622aed5c849c7409519ff7ae3fbb7348088e637b0f03e9d0fc7a7061"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1941_12_tikhvin.pot",
+      "bytes": 15348,
+      "sha256": "37aa8739f6f6c59ef9b81e7f9d5ce941cf6aeb96765130bd61e1a8a9351a2ebb"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_05_kerch.pot",
+      "bytes": 20540,
+      "sha256": "42c4de444fd53240d436c07f5f46fe3e64f96f63ccf12bf4c4ddf1c70f5d136c"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_09_pavlovs_house.pot",
+      "bytes": 6946,
+      "sha256": "320b2a5150ca085548ac7246c89da4c5718731b4ac0e30daaa22f73a1e9a62d3"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "bytes": 11157,
+      "sha256": "2410ccf0765564a892b0b9dc906c6d3c3d8d55268105455e3084a062d00be702"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_12_winterstorm.pot",
+      "bytes": 21895,
+      "sha256": "c3e0eaf6cdd10b46d12b05d33ba64faf2565895b92cbe3a374baa970c8026e44"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_07_ponyri.pot",
+      "bytes": 5318,
+      "sha256": "4d0b4f1fd865ae3a794cbe42e50810b2cf777784fc07036d798fe7a6b727e34d"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "bytes": 4999,
+      "sha256": "c5cf426e2ba4fe95d498dcaf7f438fd7f6178d208b4b134f96c41ba89870ca18"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1944_10_courland.pot",
+      "bytes": 10760,
+      "sha256": "a1a420c50bf6b0c8c12c2e2efec3959bd6bc8b38cf2a5230cf9cbe24f66875ef"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1945_04_konigsberg.pot",
+      "bytes": 6182,
+      "sha256": "608fca20a11a1dfa68ab8c458d74b70d148b1f95cb50e5f2263897c064a000dd"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/campaign.pot",
+      "bytes": 495,
+      "sha256": "207df54dc65745d1ee8c8d02690bfe86017ed626d7605803f8aee0e3d1c32626"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus_skirmish/campaign.pot",
+      "bytes": 516,
+      "sha256": "039177ede83c1da87646d6053b3b7ff6a0e31fb0a99cddbae5263455a6f8acfa"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_06_saint_lo_hills.pot",
+      "bytes": 10093,
+      "sha256": "43e21c10d9abeb158451437763cb00c1bdf9666f9388357468f29dd9e3b3340c"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_08_07_luttich.pot",
+      "bytes": 7803,
+      "sha256": "aa667925f616da9bb6f05cc412236e7ed33df3b9eeb7f46f10b0f2bd32b2e427"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_08_19_falaise_escape.pot",
+      "bytes": 8370,
+      "sha256": "78fda9e3d1f3228a36c9ab501e8d1ed1c12c7d24d16e3c2a1676906810c4d1d7"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_12_samree.pot",
+      "bytes": 7685,
+      "sha256": "71b64ffe2bfcd42fbce3db7cd160e76bf7eccc164f2f6c8de6bc6cdf644c78ea"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1945_01_thirimont.pot",
+      "bytes": 9005,
+      "sha256": "50fb2613bf5b163912eeef1354cdbb23b424c48d83a8ffb9ad53620011f59297"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1945_04_ruhr_pocket.pot",
+      "bytes": 13321,
+      "sha256": "d7d52a269de70ccfbfc8839991b5afa4e769fc49e0898b92b16c423556df6cce"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/campaign.pot",
+      "bytes": 532,
+      "sha256": "9a552fdcb91816899305ef85dd0358ef14c1c44240e858424a0b9264508c638d"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1941_10_glushkovo.pot",
+      "bytes": 7413,
+      "sha256": "ec379d86507b0ed08e06941e568333ba4d5d5a594e1eec270c71ca998fc1c355"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_01_vyazma.pot",
+      "bytes": 11661,
+      "sha256": "5fad74c59fd78c5e5ee1727ac6eb9fd2afde3dd95c077b6bceadb908147f9f28"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_06_sevastopol.pot",
+      "bytes": 7788,
+      "sha256": "50783c4e03381eab37c7763a8e16f46bbe3f548b960c479a651e356f6526755f"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_09_elbrus.pot",
+      "bytes": 16060,
+      "sha256": "820fb7ec1fd1f3a03bb1fd7f4fe9373425325e23b2892fe641d91a5ab4671208"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_02_krasny_bor.pot",
+      "bytes": 8471,
+      "sha256": "1f655e2846578fd23b37a0d479f24900b4c9bc8e1dfb5475ac398639b71a2b29"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_07_petrovka.pot",
+      "bytes": 17166,
+      "sha256": "61b3d68463f48659afc9497cf2ab67d68214d52b0af1abde135fca29d4967f6e"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_11_wotan.pot",
+      "bytes": 9894,
+      "sha256": "287fc08c5f07945194a784cbb4b1e2e46d6eb972f1d4e357d0c3895ce122b956"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1944_03_narva.pot",
+      "bytes": 8204,
+      "sha256": "b04056fc1e8615b682180d9acaf54f4b3623e0d513e87dab08391dec8f762f1b"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1944_09_yugoslavia.pot",
+      "bytes": 7109,
+      "sha256": "88b1db6a40e62aef5ee3638923423d339b84920b3c603bfe78fd6c84e47497e9"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1945_03_spring-awakening.pot",
+      "bytes": 7068,
+      "sha256": "9f987bbd66d42a603dbf5e09b3e70ed8d6be3cefbcb9e7dd415fa1922ac401f4"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/campaign.pot",
+      "bytes": 500,
+      "sha256": "90f3739e9a9018d9d260d07e139cff0ca4a186edc331c5c884d717f5c5ab6990"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger_skirmish/campaign.pot",
+      "bytes": 519,
+      "sha256": "7d5945fc1e5fbda80b9f1ad8ce331c1b38a603993d83c37dbc2b3c48d0f74b7f"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_kollaa.pot",
+      "bytes": 20915,
+      "sha256": "980d26643ec2b54eab97094a005462eb68d82974747e50342c137c4e405765fc"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_summa.pot",
+      "bytes": 6920,
+      "sha256": "d8eff57e453c546706f98513f3ac018a37b96d512dec920a86139b0cdac1065d"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1940_01_raate_road.pot",
+      "bytes": 5176,
+      "sha256": "c334fb732382a14954f9eca75dd29c1bf21331b382c88b557a0eefc485c5ab62"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1941_08_ino_station.pot",
+      "bytes": 5660,
+      "sha256": "7fe527fed762b2d60528019d4de08817ea9888e1d40fbfa919d4da0a96d7c42e"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1941_08_porlampi.pot",
+      "bytes": 5022,
+      "sha256": "9b5b7725a3ccf6caba5f38b9d3bd1ab21444fa3623d82a2dcca1aaca22043b8a"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_06_tali-ilhantala.pot",
+      "bytes": 7446,
+      "sha256": "4d6b7da0dd2283bd3efd2245e7ba83da109888cb656515c4749ea8c1608d6a5f"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+      "bytes": 5079,
+      "sha256": "26907ed729672b21f0b4c0cfdb85ebb6936174b20d5004db9135508698e5a773"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/campaign.pot",
+      "bytes": 501,
+      "sha256": "cc0040d88d8f95a844d3905486ed099f9adf45ccfad198ffc9aff55b23148d6e"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin_skirmish/campaign.pot",
+      "bytes": 519,
+      "sha256": "f721245d7f114a59442020101dbcc40b3f6c55fc33f465136a45116227cb6001"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "bytes": 13354,
+      "sha256": "03935848a0ca2677b74c6269d9d8bdc95986c5d15b16e9087bde5d2abe42e80f"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_07_hedgerow_hell.pot",
+      "bytes": 8420,
+      "sha256": "05a82bdb0f9cada151849cddbafc3c0118cd9488f1350dd4b37726d6bca4926c"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_07_skirmish_operation_cobra.pot",
+      "bytes": 4547,
+      "sha256": "45362dbcb9b28e892bf88b338cafba1e560c09e73fd32544ad2040d579cf928e"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_08_mortain.pot",
+      "bytes": 5923,
+      "sha256": "40b3bc2dfe0597b4acda6cc7209633fc34e4aaaf4448f09dd100adf06e7693af"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_08_skirmish_falaise_pocket.pot",
+      "bytes": 4582,
+      "sha256": "91e4438ba9610c143e1c7739efba8b57c25749457f8990e19b966daaa61961ae"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_10_skirmish_hurtgen_forest.pot",
+      "bytes": 4595,
+      "sha256": "8b21211e56b0e72609ce79e6056fa6787613ef10b8bd8024fc7a3ff6e1e82019"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
+      "bytes": 9961,
+      "sha256": "cb3a413c472b5e260c8d802d0b3e7064b416180a8f49f90e03fb8a3c6f73e9d2"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hotton.pot",
+      "bytes": 7688,
+      "sha256": "1499d83d5c743023e0ae7f093f6569affa1ba1dce11eb7823fb5c19212f25858"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_skirmish_bulge.pot",
+      "bytes": 4444,
+      "sha256": "3a2a372d0361ea3fba31363d8a581865b436f53c491ffa3c391f993798ed9eed"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1945_03_cologne.pot",
+      "bytes": 7022,
+      "sha256": "3b0d7d4e31cd6afc99f78108a6c5c33d2057b8cf1ffa8e7275988c5bedbfb599"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/campaign.pot",
+      "bytes": 498,
+      "sha256": "64966b033b141e67c60efd5214b152a4bd301d3a0fa71808cbda4e6d0017e3dc"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/common.pot",
+      "bytes": 1221,
+      "sha256": "f81a61ee7fcd637b5ea34d3dc196ae46fab9877127107a1ca9576e8037508cd3"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "bytes": 6934,
+      "sha256": "bb0e284efe8f1a3fe97a327953c40cc6c2aca906c32bc94de799bd9ec763bcaa"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "bytes": 13699,
+      "sha256": "888b2ea46db44ee6ae99a99b3e60fff9bbd36f8f406f1a1c190ef219fbb01ff0"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "bytes": 10891,
+      "sha256": "cb72eb2b1931902a94d9def71b55a5b6f96757f774b8d6b2c1e99b5396325ef4"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_03_brecourt_manor.pot",
+      "bytes": 7998,
+      "sha256": "0aa2038cc7639c32ecce841cb063743b9f60b1786a8ce989bce858301b4d7d32"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "bytes": 7500,
+      "sha256": "857376d20f2edcfcf6608fab3a0dc0c97e37804caf6778c621b54d08866de989"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "bytes": 7552,
+      "sha256": "e1ecd8cb5bff0d27ef076a8864b7d7cdd10e87fe6230cb931c7518a2e3504c80"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_06_bloody_gulch.pot",
+      "bytes": 7191,
+      "sha256": "c7adbdd53e261b611656f21de6c61258713ac8116e07f9f661391f277f1923c8"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_09_01_nijmegen.pot",
+      "bytes": 5767,
+      "sha256": "25e228089966f21eea62bfca8199ced1d179379296d809aed4d0e96ce8fefabc"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_09_02_veghel.pot",
+      "bytes": 5096,
+      "sha256": "6725777279d908d79784b61db642af9875820bfb4f3871b007269a46295f573f"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_01_noville.pot",
+      "bytes": 6358,
+      "sha256": "090399c46dda35f2b1978570bfe98be4f99493499b355d201f9fc7e604e608f2"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_02_elsenborn.pot",
+      "bytes": 8384,
+      "sha256": "1fca8b6f6bd20d9728c98507ef1c4d82eb321646997347ed2c318f9e0cbcbf50"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "bytes": 9954,
+      "sha256": "395a200d3dff962ceb01ac4f54cbf2dc5565d56e6c321f06917c4f8d7f348797"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1945_04_30_elbe.pot",
+      "bytes": 5547,
+      "sha256": "2fa59ae983ffe96b32fe51d34b8e9cca70fcb663faacbb518e168f5399662179"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/campaign.pot",
+      "bytes": 516,
+      "sha256": "7eb272b215ad43d064b6b3e8365ae9751aede03ae8a631206be793cf92d1cb55"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/common.pot",
+      "bytes": 1301,
+      "sha256": "539ad61dc9512fe09552312f73ae222e8eb60fa866c90b80db2534e35c8a0e93"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "bytes": 7714,
+      "sha256": "716fe76eeab1a0512764403b0f1dd48c6760230c219dd4241ecbcf4e4276c0f0"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "bytes": 32378,
+      "sha256": "3e1847403c721a922d39711bee3f5446cc64abe1b543ced6da0683cff589c63c"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_20_arras_skirmish.pot",
+      "bytes": 5808,
+      "sha256": "30abce53d150d403ed7dea7b732daf023a1f0dd942775f4385059999bdb157d0"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_06_03_dunkirk.pot",
+      "bytes": 14424,
+      "sha256": "79e2ff0cdf8c66f45eedb4d73c28737909fd6870efd4f7fb11a62b5140af5828"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "bytes": 18232,
+      "sha256": "a153d617ccdddc3cbceab1c583b65a42d36a9b21b0e3b682186fc5250dad02b9"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_13_villers-bocage_skirmish.pot",
+      "bytes": 6387,
+      "sha256": "9f9562183b586a7859a36bb82e6b268c4c1223cd5a4277afba44da0b8245f78f"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "bytes": 16342,
+      "sha256": "df8d5aea69e0e04388ac78fada3974841895c2ac1f383aa593bfe339c233bfff"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "bytes": 16913,
+      "sha256": "faddc988c8de1f61b4304678eb1beced8e5a295e7c7a43531ad26c4f431c4d2d"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_marketgarden_skirmish.pot",
+      "bytes": 6106,
+      "sha256": "f9344eef95fcda1d0419594d11dfe3600a24f804b4ec7e639d0742c20ea4e49b"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "bytes": 26474,
+      "sha256": "4b6f03a740819168c98df03976edb85e34a27024216a26a0c5d668294c73454b"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "bytes": 21990,
+      "sha256": "e5bfe342ba750a9e6c8bd88426d72baa5b477e6d5f4f1f85aac910a51194d1e4"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/campaign.pot",
+      "bytes": 530,
+      "sha256": "0e872e623f283146afc2cf7ea0ec7c72b4c2fe19e77034e8afa4ed1a79133181"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/common.pot",
+      "bytes": 1221,
+      "sha256": "a8a5e9821cb83bf9c9f54bcaa8887b57cf73ce0102434b9cfb8884601c25b148"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1940_05_arras.pot",
+      "bytes": 6429,
+      "sha256": "aee3f4dc8dc8fcadc5cf20592999acafbf0b3953a19710d3b44238d6197330a3"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1940_06_st_valery_en_caux.pot",
+      "bytes": 8101,
+      "sha256": "f37fc3dd03d7d033b1142de516d2d5d173fa9ee9498e3969cccdec19d6808931"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_06_swordbeach.pot",
+      "bytes": 6040,
+      "sha256": "931ea497326578fa0215e53345cc7272976ca7c4426d06d3ebdb61e044c6a80b"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_06_tilly_sur_seulles.pot",
+      "bytes": 6037,
+      "sha256": "65dd9c7d6d23ef30cb5bcb812e581bab6ec54aca751b4b09b889d53d800b087d"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_09_koevering.pot",
+      "bytes": 8064,
+      "sha256": "91fcf7c6a2eaf227c737f5cbae9a1739df2adf13a1de5a001d7723103ee2016b"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_10_woensdrecht.pot",
+      "bytes": 10551,
+      "sha256": "91007ede7bb27ce6b64231c46192c167c6f7e3eb5c440f282c6e845c32f54828"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/campaign.pot",
+      "bytes": 554,
+      "sha256": "f1192207fa3c7d903d62e448ba22b5bc8f1c4535c34f8ee7b8f387fcb6eb4a04"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1941_12_feodosia.pot",
+      "bytes": 6669,
+      "sha256": "e2150e273e992673d6ecb93cf195fd85fd3525a174938dd9dd125fad2ecc2b42"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1944_03_trap.pot",
+      "bytes": 10997,
+      "sha256": "8cca693a70946d883cb077efee6c4da47838fa46ce6f6ab0d1aea218d9680da3"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1945_04_yugoslavia.pot",
+      "bytes": 12931,
+      "sha256": "b74f6934e6ae2a93080d2ca7972eafd68e6c426e60fe3b440eefb314244fe3eb"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/campaign.pot",
+      "bytes": 582,
+      "sha256": "a9a1ebb12352728b8c9f9beed75b12f31487c618a2cf07599306e1f505fdb456"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1940_02-fin_honkaniemi.pot",
+      "bytes": 4171,
+      "sha256": "a9c5fb2cc45c6e774893d375d9c8bdfe12c772c5ae4eb8341c7780ab9cdcb34e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_07-fin_petrozavodsk.pot",
+      "bytes": 4302,
+      "sha256": "56b0be01b768f4260909c790045a82a14281959ecc1d2364d73357c3a4aa513e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_07-rus_smolensk.pot",
+      "bytes": 4575,
+      "sha256": "95b80b221da10cd94457391fc6470dfb71763ecaf0e0bf9030a355b6c13027ea"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_08-fin_polar_fox_alakurtti.pot",
+      "bytes": 4324,
+      "sha256": "676f1f2d6e8878261d3222be723d19b9bf40c1ea7b46d35c114612e0cd178396"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_11-ger_moscow.pot",
+      "bytes": 4874,
+      "sha256": "c20a0e0b33ab8c0522e629bc4c5b05ca7b341c00174ecaead6e92c3347991b61"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1942_10-rus_stalingrad_volga.pot",
+      "bytes": 4536,
+      "sha256": "3575ed75f11f5ac14f14de71c71127da1ecc68995c5fe5465165e66b80cbcfda"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1942_11-ger_mamayev_kurgan.pot",
+      "bytes": 4633,
+      "sha256": "31082104b26ac8371dae11d6b4ae7a1f9f04aaeccd263652c17c611516f9a52e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1943_02-ger_kharkov.pot",
+      "bytes": 4321,
+      "sha256": "0097a7615cd1a1785af6fe56225fed2f3526d48e8bede0e2494dd8a98e0823bc"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1944_07-fin_ilomantsi.pot",
+      "bytes": 4204,
+      "sha256": "d9e9a70952f1032dab69e87b94ec2883d5aa65a8706d69f68510a05dff06e30c"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1944_07-rus_op_bagration.pot",
+      "bytes": 4228,
+      "sha256": "fe371e5bd332a3608de5dbce99161532edd3212405af04d6152e6db51bdd48d4"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1945-04-ger_berlin.pot",
+      "bytes": 4408,
+      "sha256": "95740ac5825907d996c9f646d328d4b159fc0b724f58e08576b786fa37be97cc"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1945_04-rus_seelow_heights.pot",
+      "bytes": 4382,
+      "sha256": "db01645634a0f59b197b71fb0a9fc6a42ecd4f18b4d5965fe032bb5de2e84a43"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/_common.pot",
+      "bytes": 693,
+      "sha256": "6576ba40b376c026e2616a3e1fab3f3c9f925f6a261272e5aee494e32e767683"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/_reinf_ger.pot",
+      "bytes": 3360,
+      "sha256": "45c64850aaa85364b14ec4b2d03f55be4273b2ace50c7635fa94b4a33336f9c7"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/campaign.pot",
+      "bytes": 518,
+      "sha256": "01ec348dac256a61e752fc899d2c48c3b1cb50f45f148810c5553a47de6b0b31"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/common.pot",
+      "bytes": 1261,
+      "sha256": "418314a520231658f7c72346b3e6deafc4fc26a060bb8de700cc07b9c32c2b9c"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "bytes": 12018,
+      "sha256": "84428294244f199922caf06c11efcc9a4a6bbf39c95f16569eb245ed9ab06e1b"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_fin.pot",
+      "bytes": 13195,
+      "sha256": "328260f3eab88c00fd8b28b9d217a2b6dcdc17f232735ee92a344a8717fb3224"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_ger.pot",
+      "bytes": 11877,
+      "sha256": "223f74c3cd88bd82e3026b79cec951ee6ad62e3e355ae93ef3cf153b648887a5"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_rus.pot",
+      "bytes": 10020,
+      "sha256": "c424cd9989db273a5bc4fc44c796c625a04c4906d0390d683cccfa958bef04c8"
+    },
+    {
+      "file": "interface/text/mission/single/common.pot",
+      "bytes": 2098,
+      "sha256": "6027b199efb10412ad5d3c344bba2a36199765f937ea4ffcffcc65a7dc3707bf"
+    },
+    {
+      "file": "interface/text/mission/single/errors_helper.pot",
+      "bytes": 474,
+      "sha256": "2ab51611390820febf1736ca27232e7f92354bc191ac0a51f68c04561545fa02"
+    },
+    {
+      "file": "interface/text/mission/single/test_scenario.pot",
+      "bytes": 806,
+      "sha256": "6ed10123aba10abde7ee104c17a497e963fe8730819edf04f2f8e5544c3aff11"
+    },
+    {
+      "file": "interface/text/mission_finesthour.pot",
+      "bytes": 4388,
+      "sha256": "2f2a0c4f623c7879f24b4f42fb1de17d063d34e61d06cd1fe4c0cb584312da98"
+    },
+    {
+      "file": "interface/text/mission_jubilee.pot",
+      "bytes": 800,
+      "sha256": "466446d3650060e6dc400ab79901aab456726b0ce3aad445e05bacca1192d4fd"
+    },
+    {
+      "file": "interface/text/mission_liberation.pot",
+      "bytes": 5499,
+      "sha256": "355406a6f339098b46f9e7e0e28a28f073c763aa4862191549ab34a9ce1ff7ca"
+    },
+    {
+      "file": "interface/text/names/dlg_names.pot",
+      "bytes": 25130,
+      "sha256": "cdf276e99c0ea6e0a2b2e20cfb8755ae11108c68bb4c61b9de8ec4826b959c6a"
+    },
+    {
+      "file": "interface/text/names/dlg_names_eng.pot",
+      "bytes": 13477,
+      "sha256": "a67e7cacdefe0c3af7dbff12bda17d370985cceea48be825450408c97ae9b3ba"
+    },
+    {
+      "file": "interface/text/names/dlg_names_finland.pot",
+      "bytes": 3110,
+      "sha256": "6931d4932d2ffe8c6a8f0292a9c5d17bc1459f621c4edd1e9c457eb18276b7bd"
+    },
+    {
+      "file": "interface/text/names/dlg_names_fra.pot",
+      "bytes": 4960,
+      "sha256": "61797e47ca9c286ac1fd289dbdffcc11be435c05af69321f02beb19747cd13ff"
+    },
+    {
+      "file": "interface/text/names/dlg_names_pol.pot",
+      "bytes": 3361,
+      "sha256": "9251f0ecaba3558866c1fae14e17bc0165b64708e0aaca17b59128bed33b4c07"
+    },
+    {
+      "file": "interface/text/names/dlg_names_swe.pot",
+      "bytes": 3995,
+      "sha256": "1d8ade62182159b5027c8b74428ca7b8d9274e1900be946ec34294bd6e164a38"
+    },
+    {
+      "file": "interface/text/names/dlg_names_usa.pot",
+      "bytes": 10035,
+      "sha256": "c35e6a6391735b2178deab6ad73ceaff3860a3dc1cacce059b0a85a120e5c7ae"
+    },
+    {
+      "file": "interface/text/tips.pot",
+      "bytes": 9321,
+      "sha256": "a070610c6a93ec3bb2a515df866ede6b215d06ba60c98b3d7890bd5b2976bd91"
+    },
+    {
+      "file": "localization.info",
+      "bytes": 107,
+      "sha256": "0ae6ea80fd8cb213df08bba5c0f343b971fa3bed4db576606edf9e2ddb2726eb"
+    }
+  ]
+}

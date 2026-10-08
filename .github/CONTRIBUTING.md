@@ -57,6 +57,10 @@ esse número não é a versão do jogo e não comprova compatibilidade com outra
 - Revisão de 8 de outubro de 2026: [revisão proativa](../translation/proactive-review-2026-10-08.json)
   e [validação técnica](../translation/validation-2026-10-08.json), com cobertura,
   original, antes/depois, motivos, referências e decisões também para entradas mantidas.
+- Verificação offline complementar: [revisão e investigações](../translation/offline-review-2026-10-08.json)
+  e [validação final](../translation/offline-validation-2026-10-08.json), com
+  cabeçalhos, leitura independente dirigida, fontes, referências dos recursos
+  instalados e diferenças conferidas. Os registros históricos acima permanecem intactos.
 - [Regras contextuais de regressão](../translation/context-quality.json): protegem
   decisões por arquivo, contexto e fonte exata; não certificam automaticamente o sentido
   de todo texto novo.
@@ -78,11 +82,20 @@ da tradução com a fonte versionada, mas não recupera diferenças históricas 
 de sobrescrever a referência. Revise os resultados antes de importar a nova fonte
 e de atualizar o manifesto, os catálogos PT-BR e os registros de revisão.
 
+O inventário [source-files.json](../translation/source-files.json) registra
+tamanho e SHA-256 de cada arquivo inglês da referência. Ao importar uma fonte
+nova, confira os arquivos contra o pacote recebido e atualize esse inventário
+junto com `source-manifest.json`; não atualize fingerprints apenas para contornar
+uma divergência. `source-integrity.mjs --check` detecta alterações de bytes,
+adições e remoções em EN, incluindo mudanças de BOM e finais de linha.
+
 ## Validação técnica
 
 ```powershell
 node --test tools/*.test.mjs
 node tools/translation-audit.mjs --check
+node tools/source-integrity.mjs --check
+node tools/catalog-metadata.mjs --check
 node tools/context-quality.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
@@ -117,6 +130,18 @@ Texto igual ao inglês e peculiaridades herdadas do formato podem aparecer como
 candidatos ou diagnósticos; não são automaticamente erros de tradução. A aprovação
 técnica não certifica sentido, fatos históricos, largura de texto, telas ou áudio.
 Declare separadamente o que foi testado no jogo e o que ainda depende desse teste.
+
+Os cabeçalhos PT-BR devem declarar `Language: pt_BR`, UTF-8, transferência `8bit`
+e `Plural-Forms: nplurals=2; plural=(n > 1);`, conforme a convenção inteira do
+[GNU gettext para português brasileiro](https://www.gnu.org/software/gettext/manual/html_node/Plural-forms.html).
+A verificação `catalog-metadata.mjs --check` é somente leitura e também recusa
+cabeçalhos duplicados, marcações `fuzzy` e inventário incompleto de formas de
+tradução, além de textos PT fora da normalização Unicode NFC. A regra NFC conserva
+os grafemas e evita acentos combinantes não presentes em algumas fontes; não
+certifica cobertura de todas as fontes nem o comportamento de fallback do jogo.
+Não retire `fuzzy` de uma mensagem para aprová-la sem revisão humana.
+O projeto não possui atualmente entradas `msgid_plural`; a regra do cabeçalho
+não comprova o tratamento de quantidades pelo motor do jogo.
 
 ## Validação e publicação no GitHub
 

@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Editor (Dev) (04_reinforcements-offmap-support)\n"
@@ -10,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/complete"
 msgid "Congratulations, you have finished the fourth tutorial (Reinforcements)."
@@ -141,7 +140,7 @@ msgstr "Bem-vindo ao treinamento de armamento de apoio, Soldado.\n\nNeste tutori
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task0"
 msgid "Call in the Rifle Squad and move them into the trenches!"
-msgstr "Chame a Esquadra de Fuzileiros e mova-os para as trincheiras!"
+msgstr "Chame a Esquadra de Fuzileiros e mova seus soldados para as trincheiras!"
 
 msgctxt "mission/single/00-bootcamp/04_reinforcements-offmap-support/task1"
 msgid "Call in a MG 34, a 8cm Mortar and a 2cm Flak. Place them on the frontline (green outline) to defend our HQ!"
