@@ -13,17 +13,41 @@ msgstr ""
 "Language-Team: \n"
 
 msgctxt "mission/multi/dcg_error01"
-msgid "Warning - dcg error 01: enemyid is above 4.(setting to 5)"
-msgstr "Aviso - erro dcg 01: enemyid acima de 4. (ajustando para 5)"
+msgid ""
+msgstr "(Aviso) - erro dcg 01: enemyid acima de 4. (ajustando para 5)"
 
 msgctxt "mission/multi/dcg_error02"
-msgid "Warning - dcg error 02: user nation unknown.(defaulting to rus)"
-msgstr "Aviso - erro dcg 02: nação do usuário desconhecida. (definindo como rus)"
+msgid ""
+msgstr "(Aviso) - erro dcg 02: nação do usuário desconhecida. (definindo como rus)"
 
 msgctxt "mission/multi/dcg_error03"
-msgid "Warning - dcg error 03: bots_spawnside unknown.(defaulting user_side to map-a)"
-msgstr "Aviso - erro dcg 03: bots_spawnside desconhecido. (definindo user_side como map-a)"
+msgid ""
+msgstr "(Aviso) - valores de arrows/bots_spawnside desconhecidos. (definindo user_side como A)"
 
 msgctxt "mission/multi/ev_error01"
-msgid "Warning - last_stand error 01: invalid Players:Composition.(bots scripting disabled)"
+msgid ""
 msgstr "Aviso - erro last_stand 01: Players:Composition inválido. (script de bots desativado)"
+
+msgctxt "mission/multi/dcg2_error01"
+msgid ""
+msgstr "(Aviso) - Nem todos os pontos de surgimento dos bots defensores foram movidos! (side:A)"
+
+msgctxt "mission/multi/dcg2_error02"
+msgid ""
+msgstr "(Aviso) - Nem todos os pontos de surgimento dos bots defensores foram movidos! (side:B)"
+
+msgctxt "mission/multi/dcg2_garrison_failsafe"
+msgid ""
+msgstr "(Aviso) - erro de guarnição dcg: Espera excessiva... Forçando a guarnição a ficar pronta!"
+
+msgctxt "mission/multi/dcg2_info02"
+msgid ""
+msgstr "(Depuração) - garrison_ready definido como 1"
+
+msgctxt "mission/multi/dcg2_error03"
+msgid ""
+msgstr "(Aviso) - Pelo menos um ponto de surgimento da guarnição dos bots inimigos está fora de todas as zonas forward#!"
+
+msgctxt "mission/multi/dcg2_error04"
+msgid ""
+msgstr "(Aviso) - ID do ponto de surgimento do jogador desconhecido!"

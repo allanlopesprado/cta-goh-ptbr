@@ -14,15 +14,15 @@ msgstr ""
 
 msgctxt "desc/ammo/82mm_rs82"
 msgid "82-mm RS-82 Rockets [<c(ff1200)>HE</c>]"
-msgstr "82-mm RS-82 Rockets [<c(ff1200)>HE</c>]"
+msgstr "Foguetes RS-82 de 82mm [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/132mm_bm13"
 msgid "132-mm RS-132 Rockets [<c(ff1200)>HE</c>]"
-msgstr "132-mm RS-132 Rockets [<c(ff1200)>HE</c>]"
+msgstr "Foguetes RS-132 de 132mm [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/300mm_bm30"
 msgid "300-mm M-31 Rockets [<c(ff1200)>HE</c>]"
-msgstr "300-mm M-31 Rockets [<c(ff1200)>HE</c>]"
+msgstr "Foguetes M-31 de 300mm [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/atrifle_rus"
 msgid "14.5-mm AT Rounds"
@@ -402,7 +402,7 @@ msgstr "7.62-mm MG Munição"
 
 msgctxt "desc/ammo/82mm_bm8"
 msgid "82-mm BM-8 Rockets [<c(ff1200)>HE</c>]"
-msgstr "82-mm BM-8 Rockets [<c(ff1200)>HE</c>]"
+msgstr "Foguetes BM-8 de 82mm [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/air_bomb_rus_50kg"
 msgid "FAB-50 [<c(ff1200)>HE</c>]"

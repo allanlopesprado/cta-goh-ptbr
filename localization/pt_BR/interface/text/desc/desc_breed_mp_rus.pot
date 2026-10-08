@@ -23,7 +23,7 @@ msgstr "Apoio AT [KA]"
 
 msgctxt "desc/human/mp/rus/early/antitank_3"
 msgid "Rifle grenadier [KA]"
-msgstr "Granadeiro Atirador [KA]"
+msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/early/antitank_4"
 msgid "Rifle AT grenadier [KA]"
@@ -247,19 +247,19 @@ msgstr "Desantnik Líder de Esquadra [VVS]"
 
 msgctxt "desc/human/mp/rus/early/partisan_1"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/early/partisan_2"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/early/partisan_3"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/early/partisan_4"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/early/pilot"
 msgid "Pilot [VVS]"
@@ -627,27 +627,27 @@ msgstr "Condenado Recruta [NKVD]"
 
 msgctxt "desc/human/mp/rus/late/partisan_1"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_2"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_3"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_4"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_5"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_6"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/pilot"
 msgid "Pilot [VVS]"
@@ -771,7 +771,7 @@ msgstr "Apoio AT [KA]"
 
 msgctxt "desc/human/mp/rus/mid/antitank_3"
 msgid "Rifle grenadier [KA]"
-msgstr "Granadeiro Atirador [KA]"
+msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/mid/antitank_4"
 msgid "Rifle AT grenadier [KA]"
@@ -875,7 +875,7 @@ msgstr "Líder de Esquadra da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/mid/guard_senior"
 msgid "Guards senior Rifleman [KA]"
-msgstr "senior Atirador da Guarda [KA]"
+msgstr "Atirador Sênior da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/mid/marine_1"
 msgid "BSF Marine [VMF]"
@@ -1039,23 +1039,23 @@ msgstr "Desantnik Líder de Esquadra [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/partisan_1"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/mid/partisan_2"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/mid/partisan_3"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/mid/partisan_4"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/mid/partisan_5"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/mid/pilot"
 msgid "Pilot [VVS]"
@@ -1615,11 +1615,11 @@ msgstr "Inf. SMG Sênior [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_smg_drum"
 msgid "SMG inf. [NKVD]"
-msgstr "SMG inf. [NKVD]"
+msgstr "Infantaria com Submetralhadora [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_smg_stick"
 msgid "SMG inf. [NKVD]"
-msgstr "SMG inf. [NKVD]"
+msgstr "Infantaria com Submetralhadora [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/penal_rifle"
 msgid "Penal Rifleman [KA]"
@@ -1671,11 +1671,11 @@ msgstr "Inf. SMG Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/mid/smg_drum"
 msgid "SMG inf. [KA]"
-msgstr "SMG inf. [KA]"
+msgstr "Infantaria com Submetralhadora [KA]"
 
 msgctxt "desc/human/mp/rus/mid/smg_m1928"
 msgid "SMG inf. [KA]"
-msgstr "SMG inf. [KA]"
+msgstr "Infantaria com Submetralhadora [KA]"
 
 msgctxt "desc/human/mp/rus/mid/tank_commander_m1928"
 msgid "Tank Commander [KA]"
@@ -1967,11 +1967,11 @@ msgstr "Partisan Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_drum"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_stick"
 msgid "Partisan [KA]"
-msgstr "Partidário [KA]"
+msgstr "Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/sapper_flamer"
 msgid "Sapper Flamer inf. [KA]"
@@ -2015,7 +2015,7 @@ msgstr "Inf. SMG Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/late/smg_stick"
 msgid "SMG inf. [KA]"
-msgstr "SMG inf. [KA]"
+msgstr "Infantaria com Submetralhadora [KA]"
 
 msgctxt "desc/human/mp/rus/late/tank_commander_m1928"
 msgid "Tank Commander [KA]"
@@ -2039,15 +2039,15 @@ msgstr "Veterano Partisan Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_drum"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_drum_pzf"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_k98"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mg34"
 msgid "Veteran Partisan MG Operator [KA]"
@@ -2059,28 +2059,28 @@ msgstr "Veterano Partisan Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mosin"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mosin_pzf"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mp40"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mp40_pzf"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_pps43"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_stick"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_svt40"
 msgid "Veteran Partisan [KA]"
-msgstr "Veterano Partidário [KA]"
+msgstr "Guerrilheiro Veterano [KA]"

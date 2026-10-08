@@ -31,11 +31,11 @@ msgstr "Inf. de Apoio AT [Heer]"
 
 msgctxt "desc/human/mp/ger/early/antitank_3"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/early/antitank_4"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/early/artilleryman"
 msgid "Artilleryman [Heer]"
@@ -75,7 +75,7 @@ msgstr "Engenheiro de Campo [Heer]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_1"
 msgid "Fallschirmjäger NCO [Luftwaffe]"
-msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+msgstr "Fallschirmjäger Graduado (NCO) [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_2"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -95,7 +95,7 @@ msgstr "Fallschirmjäger Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_mg_ammo"
 msgid "Fallschirmjäger MG Ammo Bearer [Luftwaffe]"
-msgstr "Fallschirmjäger Carregador de MG [Luftwaffe]"
+msgstr "Fallschirmjäger Portador de Munição de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_mg_asst"
 msgid "Fallschirmjäger MG Asst. [Luftwaffe]"
@@ -147,7 +147,7 @@ msgstr "Großdeutschland Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_mg_ammo"
 msgid "Großdeutschland MG Ammo Bearer [Heer]"
-msgstr "Großdeutschland Carregador de MG [Heer]"
+msgstr "Großdeutschland Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_mg_asst"
 msgid "Großdeutschland MG Asst. [Heer]"
@@ -207,7 +207,7 @@ msgstr "Landesschütze Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/landwehr_mg_ammo"
 msgid "Landesschütze MG Ammo Bearer [Heer]"
-msgstr "Landesschütze Carregador de MG [Heer]"
+msgstr "Landesschütze Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/landwehr_mg_asst"
 msgid "Landesschütze MG Asst. [Heer]"
@@ -243,7 +243,7 @@ msgstr "LW Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/luft_mg_ammo"
 msgid "LW MG Ammo Bearer [Luftwaffe]"
-msgstr "LW Carregador de MG [Luftwaffe]"
+msgstr "LW Portador de Munição de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/luft_mg_asst"
 msgid "LW MG Asst. [Luftwaffe]"
@@ -267,7 +267,7 @@ msgstr "Marine Operador de MG [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_mg_ammo"
 msgid "Marine MG Ammo Bearer [Kriegsmarine]"
-msgstr "Marine Carregador de MG [Kriegsmarine]"
+msgstr "Marine Portador de Munição de MG [Kriegsmarine]"
 
 msgctxt "desc/human/mp/ger/early/marine_mg_asst"
 msgid "Marine MG Asst. [Kriegsmarine]"
@@ -311,7 +311,7 @@ msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/early/mgun_3"
 msgid "MG Ammo Bearer [Heer]"
-msgstr "Carregador de MG [Heer]"
+msgstr "Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/miner-ap"
 msgid "AP-Mine Engineer [Heer]"
@@ -335,7 +335,7 @@ msgstr "Piloto [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_1"
 msgid "Pionier NCO [Heer]"
-msgstr "Sub-oficial Pioneiro [Heer]"
+msgstr "Pioneiro Graduado (NCO) [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_2"
 msgid "Pionier [Heer]"
@@ -359,7 +359,7 @@ msgstr "Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_mgun_ammo_carrier"
 msgid "Pionier MG Ammo Bearer [Heer]"
-msgstr "Pionier Carregador de MG [Heer]"
+msgstr "Pionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pioneer_mgun_asst"
 msgid "Pionier MG Asst. [Heer]"
@@ -395,7 +395,7 @@ msgstr "Panzerpionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_mg_ammo_carrier"
 msgid "Panzerpionier MG Ammo Bearer [Heer]"
-msgstr "Panzerpionier Carregador de MG [Heer]"
+msgstr "Panzerpionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_pio_mg_asst"
 msgid "Panzerpionier MG Asst. [Heer]"
@@ -535,11 +535,11 @@ msgstr "Inf. de Apoio AT [Heer]"
 
 msgctxt "desc/human/mp/ger/late/antitank_4"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/late/antitank_5"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/late/artilleryman"
 msgid "Artilleryman [Heer]"
@@ -607,7 +607,7 @@ msgstr "Engenheiro de Campo [Heer]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_1"
 msgid "Fallschirmjäger NCO [Luftwaffe]"
-msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+msgstr "Fallschirmjäger Graduado (NCO) [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/late/fallsch_2"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -1427,11 +1427,11 @@ msgstr "Inf. de Apoio AT [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/antitank_3"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/antitank_4"
 msgid "Rifle grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/artilleryman"
 msgid "Artilleryman [Heer]"
@@ -1511,7 +1511,7 @@ msgstr "Engenheiro de Campo [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_1"
 msgid "Fallschirmjäger NCO [Luftwaffe]"
-msgstr "Fallschirmjäger Sub-oficial [Luftwaffe]"
+msgstr "Fallschirmjäger Graduado (NCO) [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/mid/fallsch_2"
 msgid "Fallschirmjäger [Luftwaffe]"
@@ -1743,7 +1743,7 @@ msgstr "Auxiliar de Metralhadora [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/mgun_3"
 msgid "MG Ammo Bearer [Heer]"
-msgstr "Carregador de MG [Heer]"
+msgstr "Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/miner-ap"
 msgid "AP-Mine Engineer [Heer]"
@@ -1803,7 +1803,7 @@ msgstr "Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pioneer_mgun_ammo_carrier"
 msgid "Pionier MG Ammo Bearer [Heer]"
-msgstr "Pionier Carregador de MG [Heer]"
+msgstr "Pionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pioneer_mgun_asst"
 msgid "Pionier MG Asst. [Heer]"
@@ -1827,7 +1827,7 @@ msgstr "Panzerpionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_mg_ammo_carrier"
 msgid "Panzerpionier MG Ammo Bearer [Heer]"
-msgstr "Panzerpionier Carregador de MG [Heer]"
+msgstr "Panzerpionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/pz_pio_mg_asst"
 msgid "Panzerpionier MG Asst. [Heer]"
@@ -2007,7 +2007,7 @@ msgstr "Elite Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_mg_ammo"
 msgid "Elite MG Ammo Bearer [Heer]"
-msgstr "Elite Carregador de MG [Heer]"
+msgstr "Elite Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/elite_mg_asst"
 msgid "Elite MG Asst. [Heer]"
@@ -2047,7 +2047,7 @@ msgstr "Fallschirmpionier Operador de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_mg_ammo"
 msgid "Fallschirmpionier MG Ammo Bearer [Luftwaffe]"
-msgstr "Fallschirmpionier Carregador de MG [Luftwaffe]"
+msgstr "Fallschirmpionier Portador de Munição de MG [Luftwaffe]"
 
 msgctxt "desc/human/mp/ger/early/fallsch_pio_mg_asst"
 msgid "Fallschirmpionier MG Asst. [Luftwaffe]"
@@ -2103,7 +2103,7 @@ msgstr "Großdeutschland Pionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_pio_mg_ammo"
 msgid "Großdeutschland Pionier MG Ammo Bearer [Heer]"
-msgstr "Großdeutschland Pionier Carregador de MG [Heer]"
+msgstr "Großdeutschland Pionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gd_pio_mg_asst"
 msgid "Großdeutschland Pionier MG Asst. [Heer]"
@@ -2135,7 +2135,7 @@ msgstr "Gebirgspionier Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg_ammo"
 msgid "Gebirgspionier MG Ammo Bearer [Heer]"
-msgstr "Gebirgspionier Carregador de MG [Heer]"
+msgstr "Gebirgspionier Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/gebirgs_pio_mg_asst"
 msgid "Gebirgspionier MG Asst. [Heer]"
@@ -2223,7 +2223,7 @@ msgstr "Panzerschütze Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_mg_ammo"
 msgid "Panzerschütze MG Ammo Bearer [Heer]"
-msgstr "Panzerschütze Carregador de MG [Heer]"
+msgstr "Panzerschütze Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/pz_mg_asst"
 msgid "Panzerschütze MG Asst. [Heer]"
@@ -2287,7 +2287,7 @@ msgstr "Veterano Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_mg_ammo"
 msgid "Veteran MG Ammo Bearer [Heer]"
-msgstr "Veterano Carregador de MG [Heer]"
+msgstr "Veterano Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/early/vet_mg_asst"
 msgid "Veteran MG Asst. [Heer]"
@@ -2315,7 +2315,7 @@ msgstr "Elite Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_mg_ammo"
 msgid "Elite MG Ammo Bearer [Heer]"
-msgstr "Elite Carregador de MG [Heer]"
+msgstr "Elite Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/elite_mg_asst"
 msgid "Elite MG Asst. [Heer]"
@@ -2531,7 +2531,7 @@ msgstr "Aufklärer Operador de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/rifle_gren"
 msgid "Rifle Grenadier [Heer]"
-msgstr "Granadeiro Atirador [Heer]"
+msgstr "Granadeiro de Fuzil [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/sl"
 msgid "Squadleader [Heer]"
@@ -2595,7 +2595,7 @@ msgstr "Tripulante de Tanque [Heer]"
 
 msgctxt "desc/human/mp/ger/mid/vet_mg_ammo"
 msgid "Veteran MG Ammo Bearer [Heer]"
-msgstr "Veterano Carregador de MG [Heer]"
+msgstr "Veterano Portador de Munição de MG [Heer]"
 
 msgctxt "desc/human/mp/ger/late/blau_1"
 msgid "Blau Legion SMG Inf. [Heer]"
@@ -2687,7 +2687,7 @@ msgstr "Comandante de Companhia [Heer]"
 
 msgctxt "desc/human/mp/ger/late/company_hauptfeldwebel"
 msgid "Company Hauptfeldwebel [Heer]"
-msgstr "Sargento-Mor de Companhia [Heer]"
+msgstr "Hauptfeldwebel de Companhia [Heer]"
 
 msgctxt "desc/human/mp/ger/late/company_tl"
 msgid "Company Teamleader [Heer]"

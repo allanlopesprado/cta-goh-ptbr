@@ -14,19 +14,19 @@ msgstr ""
 
 msgctxt "desc/squad/squad_101st_pathfinder_late_all(usa)"
 msgid "<c(A5A095)>(4)</c> 101st AB Pathfinder Team"
-msgstr "<c(A5A095)>(4)</c> Equipe de Batedores 101ª AB"
+msgstr "<c(A5A095)>(4)</c> Equipe de Precursores da 101ª AB"
 
 msgctxt "desc/squad/squad_101st_pathfinder_late_def(usa)"
 msgid "<c(A5A095)>(4)</c> 101st AB Pathfinder Team"
-msgstr "<c(A5A095)>(4)</c> Equipe de Batedores 101ª AB"
+msgstr "<c(A5A095)>(4)</c> Equipe de Precursores da 101ª AB"
 
 msgctxt "desc/squad/squad_82nd_pathfinder_late_irr(usa)"
 msgid "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team"
-msgstr "<c(A5A095)>(4+)</c> Equipe de Batedores 82ª AB"
+msgstr "<c(A5A095)>(4+)</c> Equipe de Precursores da 82ª AB"
 
 msgctxt "desc/squad/squad_82nd_pathfinder_late_off(usa)"
 msgid "<c(A5A095)>(4+)</c> 82nd AB Pathfinder Team"
-msgstr "<c(A5A095)>(4+)</c> Equipe de Batedores 82ª AB"
+msgstr "<c(A5A095)>(4+)</c> Equipe de Precursores da 82ª AB"
 
 msgctxt "desc/squad/conquest_p47"
 msgid "P47 500lb Bomb"
@@ -126,31 +126,31 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Engenheiros"
 
 msgctxt "desc/squad/squad_82nd_glider_pio_mid_def(usa)"
 msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
-msgstr "<c(A5A095)>(3)</c> 82nd Planador Esquadra de Pioneiros"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_def_1(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_def_2(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_def_3(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_eng_mid_def(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
-msgstr "<c(A5A095)>(4)</c> 82nd Airborne Esquadra de Engenheiros"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Engenheiros da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_mid_def_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_mid_def_2(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_mp_mid_irr(usa)"
 msgid "<c(A5A095)>(1)</c> Military Police Squad"
@@ -170,35 +170,35 @@ msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_82nd_glider_pio_mid_irr(usa)"
 msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
-msgstr "<c(A5A095)>(3)</c> 82nd Planador Esquadra de Pioneiros"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_irr_1(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_irr_2(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_mid_irr_3(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_recon_mid_irr(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Airborne Recon Team"
-msgstr "<c(A5A095)>(4)</c> 82ª Equipe de Reconhecimento Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> Equipe de Reconhecimento da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_eng_mid_irr(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
-msgstr "<c(A5A095)>(4)</c> 82nd Airborne Esquadra de Engenheiros"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Engenheiros da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_mid_irr_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_mid_irr_2(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_mp_mid_off(usa)"
 msgid "<c(A5A095)>(1)</c> Military Police Squad"
@@ -358,27 +358,27 @@ msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_101st_glider_late_def_1(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 101st Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 101st Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Esquadra da Infantaria de Planadores da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_101st_glider_late_def_2(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 101st Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 101st Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Esquadra da Infantaria de Planadores da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_101st_glider_late_def_3(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 101st Glider Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 101st Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Esquadra da Infantaria de Planadores da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_101st_eng_late_def(usa)"
 msgid "<c(A5A095)>(4)</c> 101st Airborne Engineer Squad"
-msgstr "<c(A5A095)>(4)</c> 101st Airborne Esquadra de Engenheiros"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Engenheiros da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_101st_late_def_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 101st Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> 101ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Esquadra da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_101st_late_def_2(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 101st Airborne Squad"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> 101ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Esquadra da 101ª Aerotransportada"
 
 msgctxt "desc/squad/squad_mp_late_irr(usa)"
 msgid "<c(A5A095)>(1)</c> Military Police Squad"
@@ -406,35 +406,35 @@ msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> 29th.Div Esquadra de Fuzis"
 
 msgctxt "desc/squad/squad_82nd_glider_pio_late_irr(usa)"
 msgid "<c(A5A095)>(3+)</c> 82nd Glider Pioneer Squad"
-msgstr "<c(A5A095)>(3+)</c> 82nd Planador Esquadra de Pioneiros"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_late_irr_1(usa)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_late_irr_2(usa)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_late_irr_3(usa)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_recon_late_irr(usa)"
 msgid "<c(A5A095)>(4+)</c> 82nd Airborne Recon Team"
-msgstr "<c(A5A095)>(4+)</c> 82ª Equipe de Reconhecimento Aerotransportados"
+msgstr "<c(A5A095)>(4+)</c> Equipe de Reconhecimento da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_demo_late_irr(usa)"
 msgid "<c(A5A095)>(4+)</c> 82nd Airborne Demolitions Section"
-msgstr "<c(A5A095)>(4+)</c> 82ª Seção de Demolições Aerotransportados"
+msgstr "<c(A5A095)>(4+)</c> Seção de Demolições da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_late_irr_1(usa)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_late_irr_2(usa)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> 82nd Airborne Squad"
-msgstr "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> 82ª Esquadra Aerotransportados"
+msgstr "<c(A5A095)>(4+)</c> <c(E56042)>2.</c> Esquadra da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_arm_recon_late_off(usa)"
 msgid "<c(A5A095)>(2)</c> Armored Recon Team"
@@ -618,7 +618,7 @@ msgstr "<c(A5A095)>(2)</c> Equipe de Reconhecimento de Cavalaria (M2HB)"
 
 msgctxt "desc/squad/squad_82nd_recon_con(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Recon Team"
-msgstr "<c(A5A095)>(4)</c> 82ª Equipe de Reconhecimento"
+msgstr "<c(A5A095)>(4)</c> Equipe de Reconhecimento da 82ª"
 
 msgctxt "desc/squad/squad_rifle_con(usa)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
@@ -646,11 +646,11 @@ msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis Veterana"
 
 msgctxt "desc/squad/squad_82nd_glider_con(usa)"
 msgid "<c(A5A095)>(3)</c> 82nd Glider Squad"
-msgstr "<c(A5A095)>(3)</c> 82nd Esquadra de Planadores"
+msgstr "<c(A5A095)>(3)</c> Esquadra da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_glider_pio_con(usa)"
 msgid "<c(A5A095)>(3)</c> 82nd Glider Pioneer Squad"
-msgstr "<c(A5A095)>(3)</c> 82nd Planador Esquadra de Pioneiros"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Pioneiros da Infantaria de Planadores da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_ranger_assault_con(usa)"
 msgid "<c(A5A095)>(4)</c> Ranger Assault Section"
@@ -662,12 +662,12 @@ msgstr "<c(A5A095)>(4)</c> Seção de Assalto Ranger (MG)"
 
 msgctxt "desc/squad/squad_82nd_con(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Airborne Squad (MG)"
-msgstr "<c(A5A095)>(4)</c> Esquadra Aerotransportados 82ª (MG)"
+msgstr "<c(A5A095)>(4)</c> Esquadra (MG) da 82ª Aerotransportada"
 
 msgctxt "desc/squad/squad_82nd_eng_con(usa)"
 msgid "<c(A5A095)>(4)</c> 82nd Airborne Engineer Squad"
-msgstr "<c(A5A095)>(4)</c> 82nd Airborne Esquadra de Engenheiros"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Engenheiros da 82ª Aerotransportada"
 
 msgctxt "desc/squad/1st_special_con(usa)"
 msgid "<c(A5A095)>(4)</c> 1st Special Combat Section"
-msgstr "<c(A5A095)>(4)</c> 1ª Seção de Combate Especial"
+msgstr "<c(A5A095)>(4)</c> Seção de Combate da 1ª Força de Serviço Especial"

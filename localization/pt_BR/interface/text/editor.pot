@@ -26,7 +26,7 @@ msgstr "Adicionar"
 
 msgctxt "missioneditor/waypoint"
 msgid "waypoint [4]"
-msgstr "waypoint [4]"
+msgstr "ponto de rota [4]"
 
 msgctxt "anchormanager/radius"
 msgid "Radius..."
@@ -122,7 +122,7 @@ msgstr "Adicionar"
 
 msgctxt "finddialog/waypoint"
 msgid "Waypoint uid:"
-msgstr "UID do Waypoint:"
+msgstr "UID do ponto de rota:"
 
 msgctxt "mapeditor/mesh_group"
 msgid "mesh group [5]"

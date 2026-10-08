@@ -701,7 +701,7 @@ msgid "NUM 0"
 msgstr ""
 
 msgctxt "main_menu2/library/vehicles/gun/range"
-msgid "Range#<x(%i)>%.f m"
+msgid "Range/Penetration#%1%m<x(75)>%2%m<x(225)>(max)"
 msgstr ""
 
 msgctxt "main_menu2/multiplayer/state/online_rookie"
@@ -4600,7 +4600,11 @@ msgid "Gun %i#%s"
 msgstr ""
 
 msgctxt "main_menu2/library/vehicles/gun/penetration"
-msgid "Penetration#<x(%i)>%.f mm"
+msgid "%s#%1%mm<x(75)>%2%mm<x(150)>%3%mm<x(225)>(%4%m)"
+msgstr ""
+
+msgctxt "main_menu2/library/vehicles/gun/penetration_explosive"
+msgid "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)"
 msgstr ""
 
 msgctxt "user_statistics/ranked/row/score"
@@ -5820,6 +5824,18 @@ msgctxt "main_menu2/dynamic_campaign/select_duration"
 msgid "operation size"
 msgstr ""
 
+msgctxt "main_menu2/dynamic_campaign/create2/status/completed"
+msgid "<c(8ca65a)>COMPLETED"
+msgstr ""
+
+msgctxt "main_menu2/dynamic_campaign/create2/status/partially_completed"
+msgid "<c(c9a24a)>PARTIALLY COMPLETED"
+msgstr ""
+
+msgctxt "main_menu2/dynamic_campaign/create2/status/failed"
+msgid "<c(b76b5b)>FAILED"
+msgstr ""
+
 msgctxt "main_menu2/dynamic_campaign/hint_duration"
 msgid "Defines how large the operation is, by adjusting how many maps need to be conquered to win the operation."
 msgstr ""
@@ -5829,7 +5845,12 @@ msgid "economy"
 msgstr ""
 
 msgctxt "main_menu2/dynamic_campaign/hint_resources"
-msgid "Economy adjusts the following: \n• Starting resources \n• Resources gained after each battle \n• Cost to repair and resupply units \n• Resources gained from selling units \n• Enemy resources in battle, which is a \n  percentage of player's total army value"
+msgid ""
+"Economy adjusts the following: \n"
+"• Starting resources \n"
+"• Resources gained after each battle \n"
+"• Cost to repair and resupply units \n"
+"• Resources gained from selling units"
 msgstr ""
 
 msgctxt "main_menu2/dynamic_campaign/advanced"
@@ -6469,4 +6490,3 @@ msgstr ""
 msgctxt "options/keys/control_manual/vault#desc"
 msgid "Climb over vault-able objects while in third person control of infantry."
 msgstr ""
-

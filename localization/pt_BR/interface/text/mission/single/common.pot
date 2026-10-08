@@ -18,7 +18,7 @@ msgstr "Engenheiros e tripulantes de tanques podem reparar um veículo, com exce
 
 msgctxt "mission/single/hint_bleeding_heal"
 msgid "Wounded soldiers with at least a veterancy of 1 can be revived for a short time before they bleed out. Select a medic and click the bleeding man. Medics and various elite soldiers have basic medic training indicated by the cross icon."
-msgstr "Soldados feridos com pelo menos 1 ponto de veterania podem ser reanimados por um curto período antes de sangrar até a morte. Selecione um médico e clique no soldado sangrando. Médicos e alguns soldados de elite possuem treinamento médico básico, indicado pelo ícone de cruz."
+msgstr "Soldados feridos com pelo menos 1 ponto de veterania podem ser reanimados durante um breve intervalo antes de morrerem de hemorragia. Selecione um médico e clique no soldado que está sangrando. Médicos e alguns soldados de elite possuem treinamento médico básico, indicado pelo ícone de cruz."
 
 msgctxt "mission/single/hint_hide_corpse"
 msgid "To pick up the corpse, click the Take icon (in the inventory actions icon group) and click the body. To put the corpse down, select any weapon, drag the body out of your soldier's inventory or click the Drop icon and specify a location."

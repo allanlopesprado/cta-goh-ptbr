@@ -50,7 +50,7 @@ msgstr "BM-31-12 Andryusha"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/280mm_br5"
 msgid "280mm mortar(Br-5)"
-msgstr "280mm morteiro(Br-5)"
+msgstr "Morteiro Br-5 de 280mm"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/crew"
 msgid "Tank crew"
@@ -102,7 +102,7 @@ msgstr "Sapadores de Assalto"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/gmarines"
 msgid "Guards Marines"
-msgstr "Fuzileiros da Guarda"
+msgstr "Fuzileiros Navais da Guarda"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/militia"
 msgid "Militia"
@@ -138,7 +138,7 @@ msgstr "Maxim M1910/30"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/sg43_stand"
 msgid "SG-43 Stand MG"
-msgstr "SG-43 Stand MG"
+msgstr "MG SG-43 (suporte)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/dshk_stan"
 msgid "DShK M1938 MG"
@@ -166,7 +166,7 @@ msgstr "152mm ML-20 M1937"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/152mm_br2"
 msgid "152mm gun(Br-2)"
-msgstr "152mm gun(Br-2)"
+msgstr "Canhão Br-2 de 152mm"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/203mm_b4"
 msgid "203mm B-4 M1931"
@@ -210,7 +210,7 @@ msgstr "76mm ZIS-3 M1942"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/76mm_zis3_towed"
 msgid "76mm ZIS-3 towed"
-msgstr "76mm ZIS-3 towed"
+msgstr "76mm ZIS-3 (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/76mm_f22"
 msgid "76mm F-22 M1936"
@@ -234,7 +234,7 @@ msgstr "85mm 52-K M1939"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/85mm_52k_towed"
 msgid "85mm 52-K towed"
-msgstr "85mm 52-K towed"
+msgstr "85mm 52-K (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/ba20"
 msgid "BA-20"
@@ -258,7 +258,7 @@ msgstr "BM-13 Katyusha"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/zis5guards"
 msgid "ZIS-5/Guards"
-msgstr "ZIS-5/Guards"
+msgstr "ZIS-5/Guardas"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/gaz_aaa_72k"
 msgid "GAZ-AAA 72-K"

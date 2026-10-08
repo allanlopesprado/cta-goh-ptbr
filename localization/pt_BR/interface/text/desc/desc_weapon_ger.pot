@@ -362,7 +362,7 @@ msgstr "FG-42"
 
 msgctxt "desc/weapon/fg42_scope"
 msgid "FG-42 (Scope)"
-msgstr "FG-42 (Scope)"
+msgstr "FG-42 (Mira Telescópica)"
 
 msgctxt "desc/weapon/fm24-29_no_bipod"
 msgid "FM-24/29"
@@ -390,11 +390,11 @@ msgstr "Gewehr 43"
 
 msgctxt "desc/weapon/g43_marksman"
 msgid "Gewehr 43 Improved"
-msgstr "Gewehr 43 Improved"
+msgstr "Gewehr 43 Aprimorado"
 
 msgctxt "desc/weapon/g43_scope"
 msgid "Gewehr 43 (Scope)"
-msgstr "Gewehr 43 (Scope)"
+msgstr "Gewehr 43 (Mira Telescópica)"
 
 msgctxt "desc/weapon/goliath"
 msgid "Goliath"
@@ -418,7 +418,7 @@ msgstr "98k Schiessbecher"
 
 msgctxt "desc/weapon/k98_scope"
 msgid "Karabiner 98k (Scope)"
-msgstr "Karabiner 98k (Scope)"
+msgstr "Karabiner 98k (Mira Telescópica)"
 
 msgctxt "desc/weapon/leuchtpistole34"
 msgid "Leuchtpistole 34 Flare Pistol"
@@ -434,7 +434,7 @@ msgstr "MG 13"
 
 msgctxt "desc/weapon/mg13_no_bipod_x2"
 msgid "Dual MG 13"
-msgstr "Dual MG 13"
+msgstr "MG 13 (2x)"
 
 msgctxt "desc/weapon/mg15"
 msgid "MG 15"
@@ -457,16 +457,16 @@ msgid "MG 26(t)"
 msgstr "MG 26(t)"
 
 msgctxt "desc/weapon/mg31f"
-msgid "MG 31(f)"
-msgstr "MG 31(f)"
+msgid "MG 311(f)"
+msgstr "MG 311(f)"
 
 msgctxt "desc/weapon/mg34_belt"
 msgid "MG 34 (Belt)"
-msgstr "MG 34 (Belt)"
+msgstr "MG 34 (Fita)"
 
 msgctxt "desc/weapon/mg34_doubledrum"
 msgid "MG 34 (Doubledrum)"
-msgstr "MG 34 (Doubledrum)"
+msgstr "MG 34 (Tambor Duplo)"
 
 msgctxt "desc/weapon/mg34_drum"
 msgid "MG 34 (Drum)"
@@ -482,11 +482,11 @@ msgstr "MG 34 Panzerlauf"
 
 msgctxt "desc/weapon/mg34_tank_x2"
 msgid "Dual MG 34 Panzerlauf"
-msgstr "Dual MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf (2x)"
 
 msgctxt "desc/weapon/mg34_tank_x2_2"
 msgid "Dual MG 34 Panzerlauf"
-msgstr "Dual MG 34 Panzerlauf"
+msgstr "MG 34 Panzerlauf (2x)"
 
 msgctxt "desc/weapon/mg37t"
 msgid "MG 37(t)"
@@ -494,7 +494,7 @@ msgstr "MG 37(t)"
 
 msgctxt "desc/weapon/mg42_belt"
 msgid "MG 42 (Belt)"
-msgstr "MG 42 (Belt)"
+msgstr "MG 42 (Fita)"
 
 msgctxt "desc/weapon/mg42_drum"
 msgid "MG 42 (Drum)"
@@ -598,15 +598,15 @@ msgstr "14mm Flammenwerfer"
 
 msgctxt "desc/weapon/mg34_belt_long"
 msgid "MG 34 (Belt)"
-msgstr "MG 34 (Belt)"
+msgstr "MG 34 (Fita)"
 
 msgctxt "desc/weapon/mg42_belt_long"
 msgid "MG 42 (Belt)"
-msgstr "MG 42 (Belt)"
+msgstr "MG 42 (Fita)"
 
 msgctxt "desc/weapon/stg44_scope"
 msgid "StG 44 (Scoped)"
-msgstr "StG 44 (Scoped)"
+msgstr "StG 44 (Com Mira Telescópica)"
 
 msgctxt "desc/weapon/15mm_mg151_x3"
 msgid "MG 151/15 (15mm)"

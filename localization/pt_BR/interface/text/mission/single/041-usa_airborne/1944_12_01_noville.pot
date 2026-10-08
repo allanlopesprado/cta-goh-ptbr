@@ -50,7 +50,7 @@ msgstr "O ataque danificou muito de nosso equipamento. Precisamos reparar tudo q
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator04"
 msgid "You heard what the Major said. Let's get to work! We need to rebuild our defense line before Jerry attacks again!"
-msgstr "Você ouviu o que o Major disse. Vamos trabalhar! Precisamos reconstruir nossa linha de defesa antes que o Jerry ataque novamente!"
+msgstr "Vocês ouviram o que o major disse. Vamos ao trabalho! Precisamos reconstruir nossa linha de defesa antes que os alemães ataquem novamente!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator05"
 msgid "We need to get these tanks and cannons operational quickly!"
@@ -109,11 +109,11 @@ msgstr "Os campos minados ajudarão a retardar qualquer blindado alemão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_completed"
 msgid " Well done! You have bought enough time for the rest of the 101st to set up defenses and prepare for a German attack. You may have made the difference between keeping or losing Bastogne."
-msgstr " Bem feito! Você comprou tempo suficiente para o restante da 101ª estabelecer defesas e se preparar para um ataque alemão. Você pode ter feito a diferença entre manter ou perder Bastogne."
+msgstr " Bem feito! Você ganhou tempo suficiente para o restante da 101ª estabelecer defesas e se preparar para um ataque alemão. Você pode ter feito a diferença entre manter ou perder Bastogne."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_failed"
 msgid "Our comrades in Bastogne will now face the entire German force unprepared. If only you could have bought them some more time! Bastogne will fall, and the Germans will have an open road to the Meuse River. You must try again!"
-msgstr "Nossos camaradas em Bastogne enfrentarão agora toda a força alemã despreparados. Se ao menos você pudesse ter comprado mais tempo para eles! Bastogne cairá, e os alemães terão uma estrada aberta para o Rio Mosa. Tente novamente!"
+msgstr "Nossos camaradas em Bastogne enfrentarão agora toda a força alemã despreparados. Se ao menos você pudesse ter ganhado mais tempo para eles! Bastogne cairá, e os alemães terão uma estrada aberta para o Rio Mosa. Tente novamente!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/place"
 msgid "101st Airborne Division \"Screaming Eagles\""

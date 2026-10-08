@@ -73,39 +73,16 @@ jobs:
             core.setOutput('next_tag', nextTag);
             core.setOutput('release_body', releaseBody);
 
-      - name: Build pak
-        shell: bash
+      - name: Test and validate translations
         run: |
-          mkdir -p dist/packroot/default
-          cp -r localization/pt_BR/* dist/packroot/default
-          pushd dist/packroot >/dev/null
-          zip -r ../default.pak default
-          popd >/dev/null
-          rm -rf dist/packroot
-          if [ ! -f dist/default.pak ]; then
-            echo "dist/default.pak was not generated"
-            exit 1
-          fi
+          node --test tools/*.test.mjs
+          node tools/translation-audit.mjs --check
+
+      - name: Build pak
+        run: node tools/pack-translation.mjs --build
 
       - name: Validate pak structure
-        shell: bash
-        run: |
-          python3 - <<'PY'
-          import zipfile
-          pak = 'dist/default.pak'
-          with zipfile.ZipFile(pak) as z:
-              entries = [e.filename.replace('\\', '/') for e in z.infolist()]
-              has_root = any(e == 'default/' or e.startswith('default/') for e in entries)
-              has_info = 'default/localization.info' in entries
-              pot_count = sum(1 for e in entries if e.startswith('default/interface/') and e.endswith('.pot'))
-              if not has_root:
-                  raise SystemExit('Missing root entry default/')
-              if not has_info:
-                  raise SystemExit('Missing default/localization.info')
-              if pot_count < 300:
-                  raise SystemExit(f'Unexpected .pot count inside pak: {pot_count}')
-              print('PAK validation passed. POT files:', pot_count)
-          PY
+        run: node tools/pack-translation.mjs --check
 
       - name: Create release (tag push)
         if: startsWith(github.ref, 'refs/tags/')

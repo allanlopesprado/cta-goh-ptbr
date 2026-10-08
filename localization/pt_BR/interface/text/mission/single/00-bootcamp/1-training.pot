@@ -55,7 +55,7 @@ msgstr "Selecione seu soldado e mova-o clicando com o mouse. Você pode examinar
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grenade"
 msgid "You can throw grenades to eliminate targets behind cover. For the most effective use of grenades, you can 'cook' them in direct control mode (select a single soldier and press the direct control button on the bottom left of the interface or press the hotkey 'E' by default). Direct control allows you to micro-control one unit with WASD movement and mouse aiming/shooting."
-msgstr "Você pode atirar granadas para eliminar alvos atrás de cobertura. Para o uso mais eficaz, pode 'cozinhá-las' no modo de controle direto (selecione um soldado e pressione o botão de controle direto no canto inferior esquerdo da interface ou pressione a tecla 'E' por padrão). O controle direto permite microcontrolar uma unidade com movimento WASD e mira/tiro pelo mouse."
+msgstr "Você pode atirar granadas para eliminar alvos atrás de cobertura. Para o uso mais eficaz, pode ativar a granada e adiar o arremesso ('cook') no modo de controle direto (selecione um soldado e pressione o botão de controle direto no canto inferior esquerdo da interface ou pressione a tecla 'E' por padrão). O controle direto permite microcontrolar uma unidade com movimento WASD e mira/tiro pelo mouse."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/highlight"
 msgid "You can highlight objects that can be collected by your units - like the weapons on the table - by clicking on the 'highlight items' button on the bottom right corner of the interface 'cubed shape button' or by holding the hotkey 'C' by default"
@@ -123,7 +123,7 @@ msgstr "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar a
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak2"
 msgid "The 3.7cm PaK Light Anti-Tank Gun fires various types of ammunition. To penetrate and destroy armored targets, use Armor Piercing (AP) and Armor Piercing Composite Rigid (APCR) rounds. To penetrate the thicker plates in front of you, use APCR. Against angled armor APCR it will ricochet off instead of penetrating. AP shells are more effective in this case."
-msgstr "O canhão antitanque leve 3.7cm PaK dispara vários tipos de munição. Para penetrar e destruir alvos blindados, use projéteis Perfurantes de Armadura (AP) e Perfurantes Compostos Rígidos (APCR). Para penetrar as placas mais espessas à sua frente, use APCR. Contra blindagem inclinada, o APCR ricocheteia em vez de penetrar. Os projéteis AP são mais eficazes nesse caso."
+msgstr "O canhão antitanque leve 3.7cm PaK dispara vários tipos de munição. Para penetrar e destruir alvos blindados, use projéteis Perfurantes de Blindagem (AP) e Perfurantes Compostos Rígidos (APCR). Para penetrar as placas mais espessas à sua frente, use APCR. Contra blindagem inclinada, o APCR ricocheteia em vez de penetrar. Os projéteis AP são mais eficazes nesse caso."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak3"
 msgid "For wooden or other soft targets, High Explosive (HE) shells are best. These shells detonate on impact and cause a lot of damage to non-armored objects, unlike AP shells that would pass through and cause little damage."

@@ -46,7 +46,7 @@ msgstr "\"Tempestade de Inverno\""
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/location"
 msgid "Late evening. Southwest of Gromoslavka"
-msgstr "Final da tarde. Sudoeste de Gromoslavka"
+msgstr "Noite avançada. Sudoeste de Gromoslavka"
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/loose_units"
 msgid "You lost all your units."
@@ -66,7 +66,7 @@ msgstr "Tempestade de Inverno"
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/angling"
 msgid "Angled armor is extremely effective against lower caliber shells. While large calibers have better overmatching, the Panzer III's 50mm shells will have a very hard time penetrating your T-34's armor if you angle it correctly."
-msgstr "A blindagem inclinada é extremamente eficaz contra projéteis de menor calibre. Embora calibres maiores tenham melhor capacidade de penetração, os projéteis de 50mm do Panzer III terão muita dificuldade para penetrar a blindagem do T-34 se você a inclinar corretamente."
+msgstr "A blindagem inclinada é extremamente eficaz contra projéteis de menor calibre. Embora calibres maiores sejam mais eficazes para superar a blindagem inclinada por efeito de overmatching, os projéteis de 50mm do Panzer III terão muita dificuldade para penetrar a blindagem do T-34 se você a inclinar corretamente."
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/hint/apcr_5"
 msgid "Your gun now has APCR rounds. They penetrate much further than regular rounds, but their smaller core deals less damage, they are uncommon, and the accuracy/penetration drop is stronger."
@@ -182,7 +182,7 @@ msgstr "Inferno! Todos os perímetros da aldeia foram perdidos!!!"
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/demolition"
 msgid "Fire in the hole!"
-msgstr "Fogo no buraco!"
+msgstr "Atenção, explosão!"
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/detonator_override"
 msgid "I've had enough! The Germans already know we're here - I'm going to blow that detonator. "
@@ -194,7 +194,7 @@ msgstr "Não temos homens suficientes para cobrir todas as aproximações à ald
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/p2_04"
 msgid "We've retreated by 10 kilometers already and regrouped near this village - We have had a taste of them already. They know they don't have men to spare, so they advance cautiously with terrible effectiveness. "
-msgstr "Já recuamos 10 quilômetros e nos reagrupamos perto desta aldeia — já os provamos. Eles sabem que não têm homens para desperdiçar, então avançam com cautela e terrível eficácia."
+msgstr "Já recuamos 10 quilômetros e nos reagrupamos perto desta aldeia — já sentimos do que eles são capazes. Eles sabem que não têm homens para desperdiçar, então avançam com cautela e terrível eficácia."
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_narrator/sec01_02"
 msgid "Hmm. Maybe they were the ones directing the fire."
@@ -218,7 +218,7 @@ msgstr "Muito bem. Vamos revisar. Com certeza os alemães tentarão TODAS as apr
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/05"
 msgid "Comrade, take command of the small outpost squad and do your best to withstand the Germans. Follow my instructions carefully."
-msgstr "Camarada, assuma o comando do pequena esquadra do posto avançado e faça o seu melhor para resistir aos alemães. Siga minhas instruções com atenção."
+msgstr "Camarada, assuma o comando da pequena esquadra do posto avançado e faça o seu melhor para resistir aos alemães. Siga minhas instruções com atenção."
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/narration/rus_officer/06"
 msgid "Those swine came very soon. "
@@ -428,7 +428,7 @@ msgstr "%1% de 3 setores assegurados!"
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/outro_completed"
 msgid "Helped by appalling weather and their growing battle experience, the Red Army held the line at Gromoslavka. The 6th Army would have to soldier on without help, short of ammunition and food - despite an attempt to supply the pocket from the air. The only relief operation came to a standstill\n at the hands of the 51st Army, shattering the false hopes of the Germans inside the Stalingrad pocket. In early February 1943, they surrendered."
-msgstr "Ajudado pelo tempo horrível e pela crescente experiência de batalha, o Exército Vermelho segurou a linha em Gromoslavka. O 6º Exército teria que seguir sem ajuda, escasso de munição e comida — apesar de uma tentativa de abastecer o bolso pelo ar. A única operação de alívio chegou a um impasse\n nas mãos do 51º Exército, destruindo as falsas esperanças dos alemães dentro do bolso de Stalingrado. No início de fevereiro de 1943, eles se renderam."
+msgstr "Ajudado pelo tempo horrível e pela crescente experiência de batalha, o Exército Vermelho segurou a linha em Gromoslavka. O 6º Exército teria que seguir sem ajuda, escasso de munição e comida — apesar de uma tentativa de abastecer as tropas cercadas pelo ar. A única operação de socorro foi detida\n pelo 51º Exército, destruindo as falsas esperanças dos alemães cercados em Stalingrado. No início de fevereiro de 1943, eles se renderam."
 
 msgctxt "mission/single/01-rus/1942_12_winterstorm/outro_failed"
 msgid "The Germans break through to the north as a result of this battle. You should have held the village! Now the Germans can \nbreak out and save hundreds of thousands of their comrades. The next spring they will be back at the front and all hope of a counteroffensive is now lost!"

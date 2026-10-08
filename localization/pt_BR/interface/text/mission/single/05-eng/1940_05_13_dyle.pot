@@ -34,11 +34,11 @@ msgstr "A guerra falsa explodiu em Blitzkrieg! Os alemães invadem a Holanda e a
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/outro_completed"
 msgid "We have shown them what to expect from the British Expeditionary force. We might be retreating from the battle today, but we bought ourselves and our allies some more time."
-msgstr "Mostramos a eles o que esperar da Força Expedicionária Britânica. Talvez estejamos recuando da batalha hoje, mas compramos mais tempo para nós e para nossos aliados."
+msgstr "Mostramos a eles o que esperar da Força Expedicionária Britânica. Talvez estejamos recuando da batalha hoje, mas ganhamos mais tempo para nós e para nossos aliados."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/outro_failed"
 msgid "That is rather unfortunate, we should have held the line here. Because we haven’t stopped this brutal attack, Jerry can now continue his drive into Belgium and toward France, unfortunately."
-msgstr "Isso é bastante infeliz; deveríamos ter mantido a linha aqui. Porque não paramos este ataque brutal, Jerry pode agora continuar seu avanço para a Bélgica e em direção à França, infelizmente."
+msgstr "Isso é lamentável; deveríamos ter mantido a linha aqui. Como não detivemos este ataque brutal, os alemães agora podem continuar seu avanço pela Bélgica e em direção à França, infelizmente."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_01"
 msgid "The 6-inch howitzer has arrived. We got only one chance, don’t screw this up!"
@@ -46,7 +46,7 @@ msgstr "O obuseiro de 6 polegadas chegou. Temos uma única chance — não estra
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_02"
 msgid "Jerry has spotted our gun! They will open fire in no time, change the position of the bloody howitzer, quickly!"
-msgstr "Jerry localizou nosso canhão! Eles vão abrir fogo em breve; mude a posição do nosso obuseiro!"
+msgstr "Os alemães localizaram nosso canhão! Vão abrir fogo a qualquer momento. Mude logo a posição desse maldito obuseiro!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_allround_03"
 msgid "Nice shot, one gun down. Two left!"
@@ -94,7 +94,7 @@ msgstr "Maldição, acabamos de perder nosso veículo antiaéreo! Não sei como,
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_01"
 msgid "The artillery observer has arrived. Don’t let Jerry spot him. We got only one chance, make this a good one!"
-msgstr "O observador de artilharia chegou. Não deixe Jerry localizá-lo. Temos uma única chance!"
+msgstr "O observador de artilharia chegou. Não deixe os alemães localizá-lo. Só temos uma chance; faça valer a pena!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/doc_irregular_02"
 msgid "Watch out, the observer has been spotted!"
@@ -162,7 +162,7 @@ msgstr "Pelo amor de Deus, Williams. Você pode ficar calado por uma vez? Todos 
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_04"
 msgid "Take it easy, Stu. I’m just trying to lift your spirits. You’re looking far too knackered for our little continental adventure. What’s wrong, ja? Scared of the Jerries?"
-msgstr "Relaxa, Stu. Estou apenas tentando animar você. Você parece muito exausto para nossa pequena aventura continental. O que há? Está com medo dos Jerries?"
+msgstr "Relaxa, Stu. Estou apenas tentando animar você. Você parece muito exausto para nossa pequena aventura continental. O que há? Está com medo dos alemães?"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/intro_05"
 msgid "Well spotted, genius. You are not even slightly bothered that the bloody Luftwaffe doesn’t let us sleep more than an hour a night? We’re all knackered, alright?"
@@ -210,19 +210,19 @@ msgstr "Preciso que se concentrem, rapazes. Deve haver alguém que conseguiu se 
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_03"
 msgid "Lieutenant Williams, your objective is to secure the area in case Jerry decides to scavenge the wrecks. No way those planes knew the convoy’s location without someone guiding ‘em from the ground. There should be some scout rats, for sure."
-msgstr "Tenente Williams, seu objetivo é assegurar a área caso Jerry decida vasculhar os destroços. Não tem como aqueles aviões conhecerem a localização do comboio sem alguém guiando pelo solo. Deve haver batedores por aí."
+msgstr "Tenente Williams, seu objetivo é assegurar a área caso os alemães decidam vasculhar os destroços. Não tem como aqueles aviões saberem a localização do comboio sem alguém guiando-os do solo. Com certeza há alguns malditos batedores por aí."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04"
 msgid "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out."
-msgstr "Cabo Crosby, você está no comando da equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Me reporte quando estiver pronto para evacuação e enviarei um caminhão para os feridos. Não posso fazer isso agora — os céus estão quentes demais. Câmbio e encerro."
+msgstr "Cabo Crosby, você está no comando da equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Me reporte quando estiver pronto para evacuação e enviarei um caminhão para os feridos. Não posso fazer isso agora — o céu está perigoso demais. Câmbio e encerro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_05"
 msgid "Gosh… No one warned about the smell… Look at ‘em… They’re all… Burnt… I feel so sick."
-msgstr "Nossa... Ninguém avisou sobre o cheiro... Olha eles... Todos... Queimados... Sinto tanto..."
+msgstr "Nossa... Ninguém avisou sobre o cheiro... Olha eles... Todos... Queimados... Estou passando mal..."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_06"
 msgid "It’ll be fine, alright? Pull yourself together. Keep an eye out for cover in case Jerry returns."
-msgstr "Vai ficar bem, tudo certo? Se controle. Fique atento para cobertura caso Jerry volte."
+msgstr "Vai ficar tudo bem, certo? Controle-se. Fique de olho em lugares para se abrigar caso os alemães voltem."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_07"
 msgid "Fuck! I just… I just touched his fucking skin and…"
@@ -238,7 +238,7 @@ msgstr "Temos visitas do norte!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_10"
 msgid "Jerry coming from the southeast!"
-msgstr "Jerry vindo do sudeste!"
+msgstr "Alemães vindo do sudeste!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_11"
 msgid "Williams, we heard gunfire. What’s going on? Over."
@@ -330,7 +330,7 @@ msgstr "Os retardamos, rapazes! Agora destruam os veículos inimigos restantes!"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_01"
 msgid "Jerry has taken control of our northern flank! I am sending our last reserves to re-capture these positions before our whole entire defense falls. Lieutenant Williams, I need you to provide support for their counter-attack."
-msgstr "Jerry tomou o controle do nosso flanco norte! Estou enviando nossas últimas reservas para retomar essas posições antes que toda a defesa caia. Tenente Williams, preciso que você apoie o contra-ataque."
+msgstr "Os alemães tomaram o controle do nosso flanco norte! Estou enviando nossas últimas reservas para retomar essas posições antes que toda a nossa defesa caia. Tenente Williams, preciso que você dê apoio ao contra-ataque deles."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_allround"
 msgid "The enemy has brought in their heavy guns! My forces will not be able to counter attack while the howitzers are still operational. We have to deal with ‘em first."
@@ -338,11 +338,11 @@ msgstr "O inimigo trouxe seus canhões pesados! Minhas forças não serão capaz
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_defensive"
 msgid "There is a Jerry plane hanging about! It makes no sense to attack while Jerry has close air support. My forces have no anti-air equipment, so you guys have to deal with it on your own."
-msgstr "Há um avião de Jerry rondando! Não faz sentido atacar enquanto Jerry tem apoio aéreo próximo. Minhas forças não têm equipamento antiaéreo; vocês têm de lidar com isso por conta própria."
+msgstr "Há um avião alemão rondando! Não faz sentido atacar enquanto os alemães têm apoio aéreo aproximado. Minhas forças não têm equipamento antiaéreo, então vocês terão de lidar com isso por conta própria."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_irregular"
 msgid "The enemy has brought in their emplacements! The AT and AA guns must be destroyed first. My forces will not be able to counter attack while the guns are still operational. We have to deal with those first."
-msgstr "O inimigo trouxe suas posições! Os canhões AT e AA devem ser destruídos primeiro. Minhas forças não serão capazes de contra-atacar enquanto os canhões ainda estiverem operacionais. Temos de lidar com eles primeiro."
+msgstr "O inimigo trouxe armas para suas posições de tiro! Os canhões AT e AA devem ser destruídos primeiro. Minhas forças não serão capazes de contra-atacar enquanto os canhões ainda estiverem operacionais. Temos de lidar com eles primeiro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_02_offensive"
 msgid "The enemy has brought in their tanks! These tanks must be destroyed first. My forces have no anti-tank weapons, so you guys have to deal with ‘em on your own."
@@ -354,7 +354,7 @@ msgstr "Meus rapazes estão prontos para avançar para as posições alemãs. Me
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_allround"
 msgid "We still have a royal ace up our sleeve, though. I am granting you access to a 6-inch howitzer for counter artillery combat. We only have one, so please be careful with this old lady. The Jerries will most likely open fire in response after a single shot, that’s why you have to put the Morris carrier to good use. Change your position after every shot."
-msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um obuseiro de 6 polegadas para combate de contra-artilharia. Só temos um, então seja cuidadoso com esta velha senhora. Os Jerries provavelmente vão abrir fogo em resposta após um único tiro — é por isso que você deve usar o Morris Transporte com sabedoria. Mude de posição após cada tiro."
+msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um obuseiro de 6 polegadas para fogo de contrabateria. Só temos um, então seja cuidadoso com esta velha senhora. Os alemães provavelmente vão abrir fogo em resposta após um único tiro — é por isso que você deve usar o veículo de transporte Morris com sabedoria. Mude de posição após cada tiro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_defensive"
 msgid "We still have a royal ace up our sleeve, though. I am granting you access to an ack-ack tank to take this bloody plane down. We only have one, so please be careful with this lad. The pilot will most likely try to take this vehicle down once he spots it, so be careful and change your position as often as you can."
@@ -362,11 +362,11 @@ msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um tanque ant
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_irregular"
 msgid "We still have a royal ace up our sleeve, though. I am granting you access to an artillery observer to provide exact coordinates to our artillery. Make the ground tremble under their feet. We only have one specialist, so make sure Jerry does not spot him."
-msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um observador de artilharia para fornecer coordenadas exatas à nossa artilharia. Faça o chão tremer sob seus pés. Só temos um especialista; certifique-se de que Jerry não o localize."
+msgstr "Mas ainda temos um ás na manga. Vou colocar um observador de artilharia à sua disposição para fornecer coordenadas exatas à nossa artilharia. Faça o chão tremer sob os pés deles. Só temos um especialista, então certifique-se de que os alemães não o localizem."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_offensive"
 msgid "We still have a royal ace up our sleeve, though. I am granting you access to a Matilda II tank which is capable of taking out both Panzers. We only have one, so please be careful with this young lady. However, keep your distance from the Jerries, we don’t know how they might respond."
-msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um tanque Matilda II capaz de eliminar ambos os Panzers. Só temos um; seja cuidadoso com esta jovem senhora. No entanto, mantenha distância dos Jerries — não sabemos como eles podem reagir."
+msgstr "Ainda temos um ás na manga. Estou lhe concedendo acesso a um tanque Matilda II capaz de eliminar ambos os Panzers. Só temos um; seja cuidadoso com esta jovem senhora. No entanto, mantenha distância dos alemães — não sabemos como eles podem reagir."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part03_04"
 msgid "Alright lads, move, move!"
@@ -474,7 +474,7 @@ msgstr "Aye. Pode contar."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_01"
 msgid "Christ… Didn’t expect Jerry to have that many tanks. No one told us about it. And even after this whole mess… We’re just leaving. I don’t know, it feels like it was for nothing."
-msgstr "Cristo... Não esperava que Jerry tivesse tantos tanques. Ninguém nos disse sobre isso. E mesmo depois de toda essa bagunça... Estamos apenas indo embora. Não sei — parece que foi tudo para nada."
+msgstr "Meu Deus... Não esperava que os alemães tivessem tantos tanques. Ninguém nos avisou. E mesmo depois de toda essa confusão... Estamos simplesmente indo embora. Não sei, parece que foi tudo em vão."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_02"
 msgid "But we stopped them, didn’t we? Maybe some lads from other battalions will be thankful for that."
@@ -482,11 +482,11 @@ msgstr "Mas os paramos, não paramos? Talvez alguns rapazes de outros batalhões
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_03"
 msgid "We’ve been through bloody hell, mate. And that’s just today. Why the hell did Jerry even invade Belgium? They could’ve kept sitting on their asses and… not start this whole thing…"
-msgstr "Passamos pelo inferno, companheiro. E isso é só hoje. Por que diabos Jerry invadiu a Bélgica? Poderiam ter ficado sentados e... não começado toda essa coisa..."
+msgstr "Passamos por um inferno dos diabos, companheiro. E isso foi só hoje. Por que diabos os alemães foram invadir a Bélgica? Podiam ter ficado sentados sem fazer nada e... não ter começado tudo isso..."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_04"
 msgid "Well, I’ve heard the Russians are helping Jerry with fuel and industrial crap. Maybe that’ll push Winnie to strike a deal with Jerry and we’ll be home sooner than we think."
-msgstr "Bem, ouvi dizer que os russos estão ajudando Jerry com combustível e material industrial. Talvez isso empurre Winnie a fechar um acordo com Jerry e voltemos para casa mais cedo do que pensamos."
+msgstr "Bem, ouvi dizer que os russos estão ajudando os alemães com combustível e essa porcaria de material industrial. Talvez isso leve Winnie a fechar um acordo com os alemães e a gente volte para casa mais cedo do que imagina."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/cutscene/outro_05"
 msgid "You heard where we’re heading next?"
@@ -570,7 +570,7 @@ msgstr "Auxilie as forças aliadas a retomar a posição norte"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_allround"
 msgid "<c(B29557)>[All-Round Doctrine]</c> Eliminate enemy howitzers"
-msgstr "<c(B29557)>[Doutrina Geral]</c> Elimine os obuseiros inimigos"
+msgstr "<c(B29557)>[Doutrina Versátil]</c> Elimine os obuseiros inimigos"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/tasks/05_doc_defensive"
 msgid "<c(B29557)>[Defensive Doctrine]</c> Eliminate enemy aircraft"
@@ -618,7 +618,7 @@ msgstr "As forças alemãs romperam as linhas."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/hint_allround_ammo"
 msgid "More artillery shells for 6-inch howitzer can be found in the Moris car."
-msgstr "Mais projéteis de artilharia para o obuseiro de 6 polegadas podem ser encontrados no Morris Transporte."
+msgstr "Mais projéteis de artilharia para o obuseiro de 6 polegadas podem ser encontrados no veículo de transporte Morris."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/hint_ally_assault"
 msgid "To order your allied forces to begin the attack, <c(B29557)>click</c> on the corresponding button at the <c(B29557)>reinforcements tab</c>."
@@ -650,7 +650,7 @@ msgstr "Ordene às suas unidades aliadas que iniciem um assalto às posições i
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_allround"
 msgid "<c(B29557)>[All-Round]</c> BL 6-inch howitzer"
-msgstr "<c(B29557)>[Geral]</c> Obuseiro BL de 6 polegadas"
+msgstr "<c(B29557)>[Versátil]</c> Obuseiro BL de 6 polegadas"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_defensive"
 msgid "<c(B29557)>[Defensive]</c> Light Tank Mk. VIb"
@@ -658,7 +658,7 @@ msgstr "<c(B29557)>[Defensiva]</c> Tanque Leve Mk. VIb"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_irregular"
 msgid "<c(B29557)>[Irregular]</c> Signaller"
-msgstr "<c(B29557)>[Irregular]</c> Sinalizador"
+msgstr "<c(B29557)>[Irregular]</c> Sinaleiro"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_offensive"
 msgid "<c(B29557)>[Offensive]</c> Matilda II"
@@ -686,7 +686,7 @@ msgstr "Selecione sua Doutrina para a missão.\nIsso afeta a lista de unidades d
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_allround"
 msgid "All-Round: BL 6-inch howitzer"
-msgstr "Geral: Obuseiro BL de 6 polegadas"
+msgstr "Versátil: Obuseiro BL de 6 polegadas"
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_defensive"
 msgid "Defensive: Light Tank Mk. VIb"

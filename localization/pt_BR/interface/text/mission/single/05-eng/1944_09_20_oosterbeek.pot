@@ -22,7 +22,7 @@ msgstr "Até o Fim"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/outro_completed"
 msgid "Everything that could have gone wrong in this operation went horribly wrong. Just now, we’ve again suffered horrendous casualties, but you’ve managed to make it out of there and live to fight another day. Market Garden failed due to ignorant commanders, not through a lack of courage."
-msgstr "Tudo que poderia ter dado errado nessa operação deu horrivelmente errado. Neste exato momento, sofremos novamente baixas horrendas. Porém, foi graças à tenacidade e ao sacrifício de homens como você que conseguimos salvar quantas vidas salvamos. Isso vai entrar para a história."
+msgstr "Tudo o que poderia dar errado nesta operação deu terrivelmente errado. Acabamos de sofrer, mais uma vez, baixas horrendas, mas você conseguiu sair de lá com vida para lutar outro dia. A Operação Market Garden fracassou por causa de comandantes incompetentes, não por falta de coragem."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/outro_failed"
 msgid "This is awful, they gave us a right pasting. Operation Market Garden has failed, and now our retreat has failed as well. Now you have become a prisoner of war. Perhaps this was just one bridge too far?"
@@ -38,7 +38,7 @@ msgstr "1ª Divisão Aerotransportada"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/story"
 msgid "You have been in battle for 3 days straight, while the situation is getting worse for the British paratroopers in and around Arnhem.\n\nSince the resupply operation failed, things are getting worse by the minute.\n\nControlling the bridge has become impossible. XXX corps is still south of Nijmegen, fighting to get control over the bridge there. It doesn’t look like they will break through soon.\n\nThe units fighting west of the bridge are to retreat from Arnhem to the town of Oosterbeek. That includes you. Pick up any stragglers you might find and make sure you stay out of the hands of the Germans."
-msgstr "Você está em batalha por 3 dias consecutivos, enquanto a situação piora para os paraquedistas britânicos em e ao redor de Arnhem.\n\nO XXX Corpo não conseguiu chegar a tempo e o tenente-coronel Frost foi forçado a se render na ponte de Arnhem. A 1ª Divisão Aerotransportada foi empurrada de volta para um perímetro defensivo ao redor de Oosterbeek.\n\nO RASC iniciou reabastecimentos aéreos, mas a maioria foi capturada pelos alemães. As divisões estão em colapso; a evacuação é a única saída.\n\nVocê recebeu ordens de guiar sua seção de volta ao perímetro britânico e então evacuar através do Rio Reno. Mantenha-se calmo e siga em frente."
+msgstr "Você está em combate há 3 dias seguidos, enquanto a situação piora para os paraquedistas britânicos em Arnhem e arredores.\n\nDesde que a operação de reabastecimento fracassou, as coisas pioram a cada minuto.\n\nManter o controle da ponte tornou-se impossível. O XXX Corpo ainda está ao sul de Nijmegen, lutando para controlar a ponte de lá. Não parece que conseguirão romper tão cedo.\n\nAs unidades que combatem a oeste da ponte devem recuar de Arnhem para a cidade de Oosterbeek. Isso inclui você. Reúna quaisquer soldados desgarrados que encontrar e certifique-se de não cair nas mãos dos alemães."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/gameover_pl_dead"
 msgid "You lost all of your units."
@@ -70,11 +70,11 @@ msgstr "Você está vivo, sim? Ótimo. Mas parece um fantasma, e... Boże świę
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/intro_05"
 msgid "I have one good news… and one very shitty one. Good news is that you caught your last train out of this hell. Me and my squad, well, just the two of us left now, we look for poor boys like you to drag out."
-msgstr "Tenho uma boa notícia... e uma muito ruim. A boa é que você pegou o último trem para sair desse inferno. Eu e meus poloneses vamos escoltá-los de volta ao perímetro britânico."
+msgstr "Tenho uma boa notícia... e uma notícia de merda. A boa é que vocês pegaram o último trem para sair deste inferno. Eu e minha esquadra — bem, só restamos nós dois agora — estamos procurando pobres rapazes como vocês para tirá-los daqui."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/intro_06"
 msgid "The bad news is, if you take a quick look around… We’re surrounded by these skurwiele. Either we find more weapons and send Szwaby back in pieces where they came from, or activate our brains and slip past the patrols. Lucky for us, the night is dark today."
-msgstr "A má notícia é que, se você der uma olhada ao redor... Estamos cercados por esses skurwiele. Ou encontramos mais armas e lutamos com os dentes, ou escapamos na surdina como fantasmas. A escolha é sua."
+msgstr "A má notícia é que, se vocês derem uma olhada ao redor... Estamos cercados por esses skurwiele. Ou encontramos mais armas e mandamos os Szwaby de volta em pedaços para o lugar de onde vieram, ou usamos a cabeça e passamos despercebidos pelas patrulhas. Para nossa sorte, a noite está escura hoje."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/intro_07"
 msgid "So… what do you say, huh? We find more guns and send them back to their Vaterland, or the clever way, like ghosts in the night?"
@@ -82,7 +82,7 @@ msgstr "Então... o que você acha, hein? Achamos mais armas e os mandamos de vo
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part01_01_stealth"
 msgid "Hold! An enemy vehicle coming from the south-east."
-msgstr "Ei! Um veículo inimigo vindo do sudeste."
+msgstr "Parem! Um veículo inimigo vindo do sudeste."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part01_01_combat"
 msgid "Watch out! An enemy vehicle coming from the south-east."
@@ -94,11 +94,11 @@ msgstr "Os Szwaby estão atacando o posto britânico! Precisamos ajudar os nosso
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/perimeter_02"
 msgid "Things became even worse. I recall the last outpost controlled by Brits was three hundred meters away from here. The rats are increasing their pressure and are not giving up."
-msgstr "As coisas pioraram ainda mais. Lembro que o último posto controlado pelos britânicos ficava a trezentos metros daqui. Os ratos estão se fechando. Vamos."
+msgstr "As coisas pioraram ainda mais. Lembro que o último posto controlado pelos britânicos ficava a trezentos metros daqui. Os ratos estão aumentando a pressão e não desistem."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part02_01"
 msgid "I’ll be damned! Kowalczyk, you made it out again! Bloody glad to see you, mate! I am really wondering how you manage to escape death every time."
-msgstr "Maldição! Kowalczyk, você escapou mais uma vez! Fico muito feliz em vê-lo, camarada! Fico genuinamente impressionado como você consegue."
+msgstr "Mas veja só! Kowalczyk, você escapou mais uma vez! Que bom vê-lo, camarada! Fico me perguntando como consegue escapar da morte todas as vezes."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part02_02"
 msgid "There’s no special secret, actually. I just say “not today” to this insatiable bastard."
@@ -110,7 +110,7 @@ msgstr "Graças a Deus vocês ainda mantêm esta posição. O major nos enviou p
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part02_04"
 msgid "So you’re our reinforcements?.. That’s all?.. Cholera, Major is losing his sense of humor if it’s supposed to be some kind of a joke."
-msgstr "Então vocês são nossos reforços?.. Só isso?.. Cholera, o Major está perdendo o senso de humor se isso é suposto ser algum tipo de piada."
+msgstr "Então vocês são nossos reforços?.. Só isso?.. Cholera, o Major está perdendo o senso de humor se a intenção era fazer algum tipo de piada."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part02_09"
 msgid "A bloody tank from the east incoming! Our PIAT operator got hit. Lads, grab his launcher and destroy the tank!"
@@ -126,7 +126,7 @@ msgstr "Ótimo tiro, rapazes! Que provem do próprio veneno."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part02_12"
 msgid "I reckon that’s all of them… At least for now. So if you’ll excuse me, gentlemen, I better disappear before the Major completely loses his mind over how long I’ve been gone."
-msgstr "Acho que foi o último deles... Pelo menos por ora. Então, com a sua licença, senhores, é melhor eu desaparecer antes que o Major venha cobrar."
+msgstr "Acho que eram todos eles... Pelo menos por enquanto. Então, com licença, senhores, é melhor eu desaparecer antes que o Major perca completamente a cabeça por eu estar fora há tanto tempo."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_01"
 msgid "I need to report to Major Urquhart about my return. He should be at HQ, in the hotel."
@@ -158,7 +158,7 @@ msgstr "Calma, os dois. Não é hora de brigar. Por que não simplesmente trocam
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_qf17_05_2"
 msgid "Well… There’s one option, technically… Back on manoeuvres, we saw some wasted Canadians try swapping a 17-pounder wheel with one off a captured Opel Blitz. Sort of a wager. Looked ridiculous, and the wheel fell to bits after two minutes of towing."
-msgstr "Bem... Existe uma opção, tecnicamente... Nas manobras, vimos uns canadenses bêbados trocar a roda de um canhão de 17 libras usando uma roda de caminhão Opel. Era maior, mas encaixou. Talvez funcione..."
+msgstr "Bem... Existe uma opção, tecnicamente... Nas manobras, vimos uns canadenses bêbados tentarem trocar a roda de um canhão de 17 libras por uma de um Opel Blitz capturado. Era uma espécie de aposta. Ficou ridículo, e a roda se desfez depois de dois minutos de reboque."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_qf17_09"
 msgid "Do you think you'll get it done?"
@@ -178,7 +178,7 @@ msgstr "De jeito nenhum... Você realmente encontrou! Gov, dê uma mão aqui?"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_qf17_13"
 msgid "I say, bloody hell, she made it! The wheel's gone, but who cares? This is the gun’s last stop anyway. We’re not dragging her out during evac. You’ve done us a real favour, mate."
-msgstr "Caramba, maldição, funcionou! A roda não encaixou perfeitamente, mas quem se importa? Esta é a última parada deste canhão de qualquer forma. Não vamos arrastá-lo pela Europa toda."
+msgstr "Ora, maldição, funcionou! A roda já era, mas quem se importa? Esta é a última parada do canhão, de qualquer forma. Não vamos levá-lo conosco na evacuação. Você nos fez um grande favor, camarada."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_01"
 msgid "Nice lorry you have here."
@@ -194,15 +194,15 @@ msgstr "Relaxa, não preciso do caminhão inteiro. Só... Uma parte dele. Mais e
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_04"
 msgid "What the hell do you need a wheel for? …Eh, never mind. I could do it. But let’s say I’d be willing… for a very particular kind of trade. Couple of days back, we were pushing toward Arnhem and I got hit by shrapnel."
-msgstr "Pra que raios você precisa de uma roda? ...Ah, deixa para lá. Eu poderia fazer isso. Mas digamos que eu estivesse disposto... por um item muito específico."
+msgstr "Pra que raios você precisa de uma roda? ...Ah, deixa pra lá. Eu poderia fazer isso. Mas digamos que eu estivesse disposto... em troca de algo muito específico. Há uns dois dias, estávamos avançando para Arnhem e fui atingido por estilhaços."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_05"
 msgid "Thought my lungs exploded. There was a medic who jabbed a syringe in me and the pain just… Vanished. Now it’s the only thing that keeps me from screaming every time I move."
-msgstr "Achei que meu pulmão tinha explodido. Chegou um médico e me furou com uma seringa e a dor simplesmente... Desapareceu. Agora é a única coisa que me mantém em pé."
+msgstr "Achei que meus pulmões tinham explodido. Um médico me deu uma injeção, e a dor simplesmente... desapareceu. Agora é a única coisa que me impede de gritar toda vez que me mexo."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_07"
 msgid "We are running short on morphine but I think I know where you might get some. Jerry has a supply stash not far from here. It’s in a broken down ammo trailer near the entrance."
-msgstr "Estamos com pouca morfina, mas acho que sei onde você pode conseguir. Jerry tem um depósito de suprimentos não muito longe daqui."
+msgstr "Estamos com pouca morfina, mas acho que sei onde você pode conseguir mais. Os alemães têm um depósito de suprimentos não muito longe daqui. A morfina está em um reboque de munição avariado, perto da entrada."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_09"
 msgid "Can you lend me one of your Jeeps to tow it out?"
@@ -210,7 +210,7 @@ msgstr "Pode me emprestar um dos seus Jeeps para rebocar o reboque?"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_mechanic_10"
 msgid "Hell no. That trailer might go up any second, and the Major said no risking the transport. We still need to get our arses out of here. But if you find anything usable in there, bring it here."
-msgstr "Nem pensar. Aquele reboque pode explodir a qualquer segundo, e o Major disse para não arriscar o transporte. Ainda precisamos dar o fora daqui."
+msgstr "Nem pensar. Aquele reboque pode explodir a qualquer segundo, e o Major disse para não arriscar o transporte. Ainda precisamos dar o fora daqui. Mas, se encontrar algo aproveitável lá dentro, traga para cá."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_near_truck"
 msgid "That’s the lorry I am looking for. Let’s try our luck talking to the mechanic."
@@ -234,7 +234,7 @@ msgstr "Combustível suficiente por agora."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_board_tractor_with_fuel"
 msgid "Now we talk. This thing is capable of towing light emplacements."
-msgstr "Agora sim. Esta coisa é capaz de rebocar instalações leves."
+msgstr "Agora sim. Esta coisa é capaz de rebocar peças leves."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_board_trailer"
 msgid "It won’t budge, the wheel is damaged. Maybe I could tow this thing away."
@@ -254,7 +254,7 @@ msgstr "Acho que é isso. Vamos reportar ao Major agora."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_civ_01"
 msgid "Dziękuję… Ah… Bedankt… It is very good eating. And I really like how beautiful here around. Even my hometown did not look so good before the war as your bombed town right now."
-msgstr "Dziękuję... Ah... Bedankt... É uma comida muito boa. E realmente gosto do quão bonito é aqui ao redor. Até minha cidade natal não se parecia assim antes da guerra..."
+msgstr "Dziękuję... Ah... Bedankt... É uma comida muito boa. E gosto muito de como tudo aqui é bonito. Nem minha cidade natal era tão bonita antes da guerra quanto a cidade bombardeada de vocês é agora."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/report_01"
 msgid "At ease, lieutenant. Good to see you back in one piece."
@@ -262,15 +262,15 @@ msgstr "Descanse, tenente. Bom ver você inteiro."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/report_02"
 msgid "We received tragic news while you were away. The garrison of Lieutenant Colonel Frost in Arnhem had capitulated. I am afraid we shall not wait for anyone from that city to reach us. To avoid their fate, I have made a decision to evacuate our people tonight."
-msgstr "Recebemos notícias trágicas enquanto você estava fora. A guarnição do tenente-coronel Frost em Arnhem capitulou. Receio que devemos considerar a operação um fracasso."
+msgstr "Recebemos notícias trágicas enquanto você estava fora. A guarnição do tenente-coronel Frost em Arnhem capitulou. Receio que não devemos esperar que mais ninguém daquela cidade chegue até nós. Para evitar o mesmo destino, decidi evacuar nossos homens esta noite."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/report_03"
 msgid "We will move out under cover of darkness to avoid unnecessary attention. You are needed in a recon role, Lieutenant. The Polish forces with boats are going to wait for you at the river. You have to meet them and give us a signal to begin the evacuation."
-msgstr "Moveremos sob a cobertura da escuridão para evitar atenção desnecessária. Sua função é de reconhecimento, Tenente. A retirada começa esta noite."
+msgstr "Partiremos sob a cobertura da escuridão para evitar atenção desnecessária. Precisamos do senhor em uma missão de reconhecimento, Tenente. As forças polonesas com os barcos estarão esperando pelo senhor no rio. O senhor deve encontrá-las e nos dar o sinal para começar a evacuação."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/report_04"
 msgid "We are going to put an end to this folly operation we call Market Garden and save our wounded and starved men. In the meantime…"
-msgstr "Vamos pôr fim a esta operação tola que chamamos de Market Garden e salvar nossos homens feridos e famintos. Enquanto isso, descanse um pouco."
+msgstr "Vamos pôr fim a esta operação insensata que chamamos de Market Garden e salvar nossos homens feridos e famintos. Enquanto isso..."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/cutscene/report_05"
 msgid "Mortar! Get down!"
@@ -278,7 +278,7 @@ msgstr "Morteiro! Ao chão!"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part04_01"
 msgid "That mortar’s coming from the next district over. Damn things's got a clear line on us."
-msgstr "Aquele morteiro está vindo do distrito ao lado. O maldito tem linha de tiro livre sobre nós."
+msgstr "Os disparos daquele morteiro vêm do distrito ao lado. O maldito tem uma linha de tiro livre sobre nós."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part04_02"
 msgid "We need it silenced before it reduces this hotel to rubble. Move swiftly."
@@ -294,7 +294,7 @@ msgstr "Ótimo. Um problema a menos."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part04_05"
 msgid "Heads up, they’re pushing through from the east. Lieutenant, I need you on that flank. We have reserves nearby, but without support, they won’t hold."
-msgstr "Atenção, estão avançando pelo leste. Tenente, preciso que você vá para aquele flanco. Temos reservas por perto, mas com recursos limitados."
+msgstr "Atenção, estão avançando pelo leste. Tenente, preciso do senhor naquele flanco. Temos reservas por perto, mas, sem apoio, elas não vão resistir."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part04_06"
 msgid "They have decided to go full scale, ha? Hold your ground, people!"
@@ -330,15 +330,15 @@ msgstr "O intervalo acabou, rapazes. Temos de ir até a linha de chegada."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_01"
 msgid "Our Polish friends are still waiting for us to arrive at the shore to get us out of here. We lost contact with them this evening and they probably don’t even know we’re still alive."
-msgstr "Nossos amigos poloneses ainda estão nos esperando na margem para nos tirar daqui. Perdemos contato com eles esta manhã; devemos alertá-los de que estamos a caminho."
+msgstr "Nossos amigos poloneses ainda estão esperando que cheguemos à margem para nos tirar daqui. Perdemos contato com eles esta noite, e provavelmente eles nem sabem que ainda estamos vivos."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_02"
 msgid "They won’t be waiting for too long for us, Szwaby are pushing them just as bad as they do to us. We have to let them know we’re still here as soon as possible. It’s now or never."
-msgstr "Eles não vão esperar muito por nós; os Szwaby estão pressionando eles tanto quanto pressionam a nós. Temos de avisá-los que estamos a caminho."
+msgstr "Eles não vão esperar muito por nós; os Szwaby estão pressionando-os tanto quanto a nós. Temos de avisá-los o mais rápido possível de que ainda estamos aqui. É agora ou nunca."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_03"
 msgid "The Szwaby are in the village! Don’t waste time on killing all of them, we have to hurry! Our primary objective is to let the people on the other side know we’re still alive!"
-msgstr "Os Szwaby estão na aldeia! Não desperdice tempo matando todos eles; temos de correr! Nosso objetivo principal é encontrar a equipe de evacuação."
+msgstr "Os Szwaby estão na aldeia! Não percam tempo matando todos eles; temos de nos apressar! Nosso objetivo principal é avisar os homens do outro lado de que ainda estamos vivos!"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_04"
 msgid "Sir?.. There’s no one there… The bloody evac team is not there!"
@@ -350,11 +350,11 @@ msgstr "Co do diabła?.."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_06"
 msgid "Lieutenant, we've finally made contact with the evacuation team. They’re still holding, but had to pull back east under pressure. There’s a village nearby crawling with German vehicles. If we don’t act fast, they’ll compromise the entire operation."
-msgstr "Tenente, finalmente estabelecemos contato com a equipe de evacuação. Ainda estão segurando, mas tiveram de recuar para leste sob pressão pesada."
+msgstr "Tenente, finalmente estabelecemos contato com a equipe de evacuação. Eles ainda estão resistindo, mas tiveram de recuar para leste sob pressão. Há uma aldeia próxima cheia de veículos alemães. Se não agirmos rápido, eles comprometerão toda a operação."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_07"
 msgid "The evac team won’t last much longer. Those vehicles must be taken out as soon as possible. That’s your priority, Lieutenant Kowalczyk."
-msgstr "A equipe de evacuação não aguentará muito mais. Esses veículos precisam ser eliminados o mais rápido possível. Esta é sua prioridade, Tenente."
+msgstr "A equipe de evacuação não aguentará muito mais. Esses veículos precisam ser eliminados o mais rápido possível. Esta é sua prioridade, Tenente Kowalczyk."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_08"
 msgid "The village is swarming with infantry as well. I’m sending a platoon your way, they’ll draw attention from the enemy. Focus on knocking out those damn vehicles."
@@ -362,7 +362,7 @@ msgstr "A aldeia também está repleta de infantaria. Estou enviando um pelotão
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_09"
 msgid "I wish I could give you more. But these are the last combat-ready men we’ve got. Remember what you're fighting for. Behind you are dozens of wounded, starving men who haven’t slept in days. You’re their last chance, Lieutenant. I trust you. Don’t let them down."
-msgstr "Queria poder dar mais. Mas estes são os últimos homens em condições de combate que temos. Lembre-se pelo que está lutando. Atrás de você estão todos os homens que esperamos salvar."
+msgstr "Queria poder lhe dar mais. Mas estes são os últimos homens em condições de combate que temos. Lembre-se do que está defendendo. Atrás do senhor há dezenas de homens feridos e famintos, que não dormem há dias. O senhor é a última chance deles, Tenente. Confio no senhor. Não os decepcione."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part05_10"
 msgid "All vehicles destroyed! Let’s get the fuck out of here!"
@@ -410,7 +410,7 @@ msgstr "Ótimo, conseguimos passar. Vamos dar o fora daqui."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/stealth_light_hint"
 msgid "Half of the town is in flames. Let’s avoid these spots and sneak through patrols like shadows."
-msgstr "Metade da cidade está em chamas. Vamos evitar essas áreas e nos infiltrar pelos patrulheiros como sombras."
+msgstr "Metade da cidade está em chamas. Vamos evitar essas áreas e passar despercebidos pelas patrulhas como sombras."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/stealth_take_body"
 msgid "We should not leave the corpses, other Szwaby will find them."
@@ -418,7 +418,7 @@ msgstr "Não devemos deixar os cadáveres — outros Szwaby vão encontrá-los."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/stealth_stabbed"
 msgid "Nice three-point shot."
-msgstr "Bela finalização."
+msgstr "Belo arremesso de três pontos."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/narrator/stealth_saw_body"
 msgid "This skurwiel saw the body! Kill him now!"
@@ -442,11 +442,11 @@ msgstr "Apenas 1 soldado precisa chegar ao perímetro britânico se você escolh
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_knifes"
 msgid "Use <c(B29557)>throwing knifes</c> to eliminate enemies silently. \n\nYou can throw them more effectively in <c(B29557)>direct control</c>."
-msgstr "Use <c(B29557)>facas de arremesso</c> para eliminar inimigos silenciosamente. \n\nVocê pode arremessá-las com mais eficácia em <c(B29557)>modo mira</c>."
+msgstr "Use <c(B29557)>facas de arremesso</c> para eliminar inimigos silenciosamente. \n\nVocê pode arremessá-las com mais eficácia em <c(B29557)>controle direto</c>."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_side_quest"
 msgid "Optional activities will not be available after reporting to HQ. \n\nTo report to HQ, click on the specific button in the reinforcements tab. This button is shown when you're near to the hotel building."
-msgstr "msgstr "As atividades opcionais não estarão disponíveis após reportar ao QG.\n\nPara reportar ao QG, clique no botão específico na <c(B29557)>aba de reforços</c>. Esse botão aparece quando você estiver próximo ao hotel."
+msgstr "As atividades opcionais não estarão disponíveis após você se apresentar ao QG. \n\nPara se apresentar ao QG, clique no botão correspondente na aba de reforços. Esse botão aparece quando você está perto do hotel."
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_refuel_01"
 msgid "Find a <c(B29557)>gas can</c> to refuel the tractor."
@@ -542,7 +542,7 @@ msgstr "Objetivo Secreto nº 1"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/tasks/secret01_completed"
 msgid "Secret objective: Undeathly Shadow - Reach the British positions unspotted and without kills"
-msgstr "Objetivo Secreto: Sombra Imortal - Chegue às posições britânicas sem ser detectado e sem kills"
+msgstr "Objetivo Secreto: Sombra Imortal - Chegue às posições britânicas sem ser detectado e sem matar ninguém"
 
 msgctxt "mission/single/05-eng/1944_09_20_oosterbeek/tasks/secret02"
 msgid "Secret objective #2"

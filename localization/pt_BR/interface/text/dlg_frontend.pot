@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "main_menu2/dynamic_campaign/region_hint_west"
 msgid "Western Europe - (Liberation Maps)"
-msgstr "Europa Ocidental - (Mapas da Libertação)"
+msgstr "Europa Ocidental - (Mapas de Liberation)"
 
 msgctxt "options/keys/actions/lock_ammo"
 msgid "Toggle ammo switching"
@@ -166,7 +166,7 @@ msgstr "Modo atual"
 
 msgctxt "main_menu2/library/weapons/health_damage"
 msgid "Health Damage#%.1f HP"
-msgstr "Dano de Saúde#%.1f HP"
+msgstr "Dano à Saúde#%.1f HP"
 
 msgctxt "user_statistics/profile/logos"
 msgid "BADGES"
@@ -174,7 +174,7 @@ msgstr "INSÍGNIAS"
 
 msgctxt "options/video/glow#desc"
 msgid "<c(bcb8b1)>Enables glow on explosions, tracers and thermal effects for cinematic effect. May reduce performance."
-msgstr "<c(bcb8b1)>Habilita brilho em explosões, traçantes e efeitos térmicos. Pode reduzir o desempenho."
+msgstr "<c(bcb8b1)>Habilita brilho em explosões, traçantes e efeitos térmicos para produzir um efeito cinematográfico. Pode reduzir o desempenho."
 
 msgctxt "options/keys/btn_keys_reset"
 msgid "<f(pobeda)s(27)b>RESET TO DEFAULT"
@@ -242,7 +242,7 @@ msgstr "Modo de Controle Direto Preferido"
 
 msgctxt "options/game/manual_mode#desc"
 msgid "<c(bcb8b1)>Set the default \"Direct Control\" mode for starting games. \"Third Person\" allows selected units to be controlled in third person, \"Classic Direct Control\" is a \"Men of War\"-Style Top-Down control and \"No Direct Control\" disables the feature to control units individually."
-msgstr "<c(bcb8b1)>Define o modo padrão de \"Controle Direto\" para iniciar partidas. \"Terceira Pessoa\" permite controlar unidades selecionadas em terceira pessoa, \"Controle Direto Clássico\" é um estilo \"Men of War\" com visão de cima."
+msgstr "<c(bcb8b1)>Define o modo padrão de \"Controle Direto\" para iniciar partidas. \"Terceira Pessoa\" permite controlar unidades selecionadas em terceira pessoa. \"Controle Direto Clássico\" oferece controle com visão de cima, no estilo de \"Men of War\". \"Sem Controle Direto\" desativa o recurso de controlar unidades individualmente."
 
 msgctxt "options/game/manual_mode#/tpc_mode"
 msgid "Third person Control"
@@ -302,7 +302,7 @@ msgstr "<c(bcb8b1)>Altera a velocidade de movimento do cursor."
 
 msgctxt "options/video/detail#desc"
 msgid "<c(bcb8b1)>Texture quality. If you have performance issues, try to lower this setting. For better results, change screen resolution, color depth and texture quality proportionally."
-msgstr "<c(bcb8b1)>Qualidade de textura. Se tiver problemas de desempenho, tente reduzir esta configuração."
+msgstr "<c(bcb8b1)>Qualidade de textura. Se tiver problemas de desempenho, tente reduzir esta configuração. Para melhores resultados, altere resolução, profundidade de cor e qualidade de textura proporcionalmente."
 
 msgctxt "options/video/resolution#/desktop"
 msgid "Use desktop settings"
@@ -578,7 +578,7 @@ msgstr "Alto"
 
 msgctxt "options/video/filtering#desc"
 msgid "Texture filtering type. At higher settings, textures will look sharper and more detailed from far away, but this can also reduce performance."
-msgstr "Tipo de filtragem de textura. Em configurações mais altas, as texturas ficam mais nítidas à distância, mas podem reduzir o desempenho."
+msgstr "Tipo de filtragem de textura. Em configurações mais altas, as texturas ficam mais nítidas e detalhadas à distância, mas isso também pode reduzir o desempenho."
 
 msgctxt "options/keys/keymap/key_numpadstar"
 msgid "NUM *"
@@ -701,8 +701,8 @@ msgid "NUM 0"
 msgstr "NUM 0"
 
 msgctxt "main_menu2/library/vehicles/gun/range"
-msgid "Range#<x(%i)>%.f m"
-msgstr "Alcance#<x(%i)>%.f m"
+msgid "Range/Penetration#%1%m<x(75)>%2%m<x(225)>(max)"
+msgstr "Alcance/Penetração#%1%m<x(75)>%2%m<x(225)>(máx.)"
 
 msgctxt "main_menu2/multiplayer/state/online_rookie"
 msgid "You must have at least %1% training game or %2% unranked games played to unlock this mode."
@@ -1078,7 +1078,7 @@ msgstr "Efeitos de lente"
 
 msgctxt "options/video/lens_effects_options#desc"
 msgid "Enables various lens effects with each level, adding immersion and cinematic effect. Examples of lens effects include reflections on sniper scopes, light flares when staring at the sun, etc."
-msgstr "Habilita vários efeitos de lente, adicionando imersão e efeito cinematográfico. Exemplos: reflexos em miras de franco-atirador, clarões ao encarar o sol, etc."
+msgstr "Habilita vários efeitos de lente a cada nível, adicionando imersão e efeito cinematográfico. Exemplos: reflexos em miras de franco-atirador, clarões ao encarar o sol, etc."
 
 msgctxt "options/workshop/property/tags"
 msgid "Tags:"
@@ -1094,7 +1094,7 @@ msgstr "Ranqueado"
 
 msgctxt "options/audio/speaker_config#/81_discrete"
 msgid "8.1-speaker system"
-msgstr "Sistema de 8.1 alto-falantes"
+msgstr "Sistema de alto-falantes 8.1"
 
 #, boost-format
 
@@ -1144,7 +1144,7 @@ msgstr "Baixo"
 
 msgctxt "options/keys/actions/attack#desc"
 msgid "Order your squad or vehicle to attack the selected target (regardless of who it belongs to)."
-msgstr "Ordena sua esquadra ou veículo a atacar o alvo selecionado (independentemente de quem pertence)."
+msgstr "Ordena sua esquadra ou veículo a atacar o alvo selecionado (independentemente de a quem ele pertence)."
 
 msgctxt "options/workshop/mod_changed_2"
 msgid "<f(roboto_mono)s(15)>Press Apply to apply changes or Reset to cancel them."
@@ -1184,7 +1184,7 @@ msgstr "<f(pobeda)s(27)b>RESTAURAR PADRÃO"
 
 msgctxt "options/video/lens_refraction#desc"
 msgid "Enables lens refraction effect for weapon scopes, for immersion and simulating the human eye perception."
-msgstr "Habilita efeito de refração de lente para miras de armas."
+msgstr "Habilita o efeito de refração de lente nas miras de armas, para aumentar a imersão e simular a percepção do olho humano."
 
 msgctxt "options/video/antialiasing"
 msgid "MSAA"
@@ -1232,7 +1232,7 @@ msgstr "4x"
 
 msgctxt "options/keys/actions/toggle_attack#desc"
 msgid "Toggle between \"Hold fire\", \"Return fire\", and \"Fire at will\" modes."
-msgstr "Alterna entre os modos \"Cessar fogo\", \"Contra-atacar\" e \"Fogo à vontade\"."
+msgstr "Alterna entre os modos \"Cessar fogo\", \"Responder ao fogo\" e \"Fogo à vontade\"."
 
 msgctxt "options/video/antialiasing#/5x"
 msgid "5x"
@@ -1280,7 +1280,7 @@ msgstr "Lançar granada de fumaça"
 
 msgctxt "options/keys/actions/throw_at_grenade#desc"
 msgid "Order the selected squad or soldier to throw a anti-tank grenade. (Only active if anti-tank grenades are available.)"
-msgstr "Ordena aa esquadra ou soldado selecionado que arremesse uma granada antitanque. (Ativo apenas se granadas antitanque estiverem disponíveis.)"
+msgstr "Ordena à esquadra ou ao soldado selecionado que arremesse uma granada antitanque. (Ativo apenas se granadas antitanque estiverem disponíveis.)"
 
 msgctxt "missions/save_load"
 msgid "<f(danger_cyr)s(21)>Load"
@@ -1388,7 +1388,7 @@ msgstr "Ignorar pressionamento de CTRL"
 
 msgctxt "options/video/bumptype#desc"
 msgid "Normal maps give textures to flat surfaces. In the 'Ultra' option, parallax maps further add a 3d displacement effect to terrain. Consider not running 'Ultra' if you have performance issues."
-msgstr "Mapas normais adicionam textura a superfícies planas. Na opção 'Ultra', mapas parallax adicionam deslocamento 3D ao terreno."
+msgstr "Mapas normais adicionam textura a superfícies planas. Na opção 'Ultra', mapas parallax adicionam um efeito de deslocamento 3D ao terreno. Considere não usar 'Ultra' se tiver problemas de desempenho."
 
 msgctxt "options/game/action_by_left_click#desc"
 msgid "Reverses mouse buttons. To give orders use left mouse and deselect units with right mouse."
@@ -1412,7 +1412,7 @@ msgstr "Mudar modo de movimento"
 
 msgctxt "options/video/specular#desc"
 msgid "Enables shiny surfaces like polished, wet or mirror-like materials look more realistic. It also makes metallic surfaces look real. This setting should not affect game performance."
-msgstr "Habilita superfícies brilhantes como materiais polidos, molhados ou espelhados. Não deve afetar o desempenho."
+msgstr "Torna mais realistas as superfícies brilhantes, como materiais polidos, molhados ou espelhados, assim como as superfícies metálicas. Esta configuração não deve afetar o desempenho do jogo."
 
 msgctxt "user_profile2/xp_progress"
 msgid "<e(shadow)>%1%/%2% XP %3%"
@@ -1492,7 +1492,7 @@ msgstr "Bloom"
 
 msgctxt "options/video/bloom#desc"
 msgid "This effect imitates the lens of a camera, by making the whole image smoother and slightly defocused. It also enhances the overall image quality. Disable bloom if you have performance issues."
-msgstr "Este efeito imita a lente de uma câmera, tornando a imagem mais suave e levemente desfocada. Desative o Bloom se tiver problemas de desempenho."
+msgstr "Este efeito imita a lente de uma câmera, tornando toda a imagem mais suave e levemente desfocada. Também melhora a qualidade geral da imagem. Desative o Bloom se tiver problemas de desempenho."
 
 msgctxt "options/keys/control_manual/sprint"
 msgid "Sprint"
@@ -1504,7 +1504,7 @@ msgstr "Enquanto se move, segure para se mover rapidamente."
 
 msgctxt "options/video/filmgrain#desc"
 msgid "Enables a film grain effect, simulating a film camera. May reduce performance slightly."
-msgstr "Habilita efeito de grão de filme. Pode reduzir levemente o desempenho."
+msgstr "Habilita um efeito de grão de filme, simulando uma câmera de filme. Pode reduzir levemente o desempenho."
 
 msgctxt "main_menu2/library/soldiers/weapon_skills/skill"
 msgid "%s#%i<x(%i)>%.2f"
@@ -1540,7 +1540,7 @@ msgstr "Selecionar membro 1"
 
 msgctxt "options/video/dof#desc"
 msgid "Simulates a camera focus by blurring the parts of the scene which aren't in focus, creating a film-like quality. May reduce performance."
-msgstr "Simula o foco de câmera desfocando partes fora de foco. Pode reduzir o desempenho."
+msgstr "Simula o foco de uma câmera, desfocando as partes da cena que estão fora de foco para criar um aspecto cinematográfico. Pode reduzir o desempenho."
 
 msgctxt "options/keys/control_manual/forward#desc"
 msgid "Move the selected unit forward."
@@ -1768,7 +1768,7 @@ msgstr "Calibre#%s"
 
 msgctxt "options/keys/control_manual/backward"
 msgid "Backward"
-msgstr "Ré"
+msgstr "Para trás"
 
 msgctxt "options/game/difficulty#/hard"
 msgid "Hard"
@@ -1852,7 +1852,7 @@ msgstr "Negativo!"
 
 msgctxt "options/keys/keymap/double"
 msgid "DOUBLE"
-msgstr "DOUBLE"
+msgstr "DUPLO"
 
 msgctxt "main_menu2/market/rarity/rare"
 msgid "Rare"
@@ -1940,7 +1940,7 @@ msgstr "concluída"
 
 msgctxt "options/audio/speaker_config#/40_discrete"
 msgid "4.0-speaker system"
-msgstr "Sistema de 4.0 alto-falantes"
+msgstr "Sistema de alto-falantes 4.0"
 
 msgctxt "options/audio/volume/effects#desc"
 msgid "Volume of in-game effects such as  shots, explosions and engine sounds."
@@ -1948,7 +1948,7 @@ msgstr "Volume de efeitos no jogo como tiros, explosões e sons de motor."
 
 msgctxt "options/audio/speaker_config#/51_discrete"
 msgid "5.1-speaker system"
-msgstr "Sistema de 5.1 alto-falantes"
+msgstr "Sistema de alto-falantes 5.1"
 
 msgctxt "main_menu2/market/use"
 msgid "Use"
@@ -1968,11 +1968,11 @@ msgstr "<f(impact)s(21)y(+5)c(255 255 255)>Men Of War - Demo"
 
 msgctxt "options/audio/speaker_config#/61_discrete"
 msgid "6.1-speaker system"
-msgstr "Sistema de 6.1 alto-falantes"
+msgstr "Sistema de alto-falantes 6.1"
 
 msgctxt "options/audio/speaker_config#/71_discrete"
 msgid "7.1-speaker system"
-msgstr "Sistema de 7.1 alto-falantes"
+msgstr "Sistema de alto-falantes 7.1"
 
 msgctxt "options/keys/control_manual/helicopter_up"
 msgid "Aircraft move mode"
@@ -1980,7 +1980,7 @@ msgstr "Modo de movimento de aeronave"
 
 msgctxt "options/keys/control_manual/helicopter_up#desc"
 msgid "Toggles aircraft movement mode. If on ground, allows aircraft to take of. If flying, deploys landing gear and starts landing sequence."
-msgstr "Alterna o modo de movimento de aeronave. Em terra, permite decolar. Em voo, baixa o trem de pouso."
+msgstr "Alterna o modo de movimento da aeronave. Em terra, permite decolar. Em voo, baixa o trem de pouso e inicia a sequência de pouso."
 
 msgctxt "options/keys/control_manual/helicopter_down"
 msgid "Descend helicopter"
@@ -2096,7 +2096,7 @@ msgstr "Ataque corpo a corpo"
 
 msgctxt "options/audio/buffers#desc"
 msgid "The number of sound buffers is the number of simultaneous sounds which can be processed by your system. It is recommended to use the maximum setting for audio immersion, otherwise you may experience sounds cutting off."
-msgstr "O número de buffers de som determina quantos sons simultâneos podem ser processados. Recomenda-se usar o máximo para imersão."
+msgstr "O número de buffers de som determina quantos sons simultâneos podem ser processados pelo sistema. Recomenda-se usar a configuração máxima para maior imersão sonora; caso contrário, os sons podem ser cortados."
 
 msgctxt "options/keys/actions/rotate"
 msgid "Look at"
@@ -2169,7 +2169,7 @@ msgstr "Marcador de equipe/Chatwheel"
 
 msgctxt "options/keys/multiplayer/show_notification#desc"
 msgid "Places marker on map and mini-map that only your team can see. Hold down to activate the Chatwheel!"
-msgstr "Coloca marcador no mapa visível apenas para sua equipe. Segure para ativar o Chatwheel!"
+msgstr "Coloca um marcador no mapa e no minimapa, visível apenas para sua equipe. Segure para ativar o Chatwheel!"
 
 msgctxt "options/audio/volume/environment"
 msgid "Environment"
@@ -2241,7 +2241,7 @@ msgstr "Fala"
 
 msgctxt "announce_upgrade_text"
 msgid "We hope you were enjoying Call to Arms so far!\n\nIt's a great time to upgrade your free edition to one of the full version packages. Experience the singleplayer campaigns in solo or coop with your friends, play user generated content via Steam Workshop, fight custom battles in editor, mod your game from ground up, get your multiplayer units unlocked instantly and receive access to new factions (once available). Of course, there are also some extra goodies waiting for you. For more information, please check the product pages.\n\nHave fun!"
-msgstr "Esperamos que você esteja aproveitando Call to Arms!\n\nÉ uma ótima hora para atualizar para uma das versões completas. Experimente as campanhas solo ou cooperativo com amigos, jogue conteúdo da comunidade via Steam Workshop, crie batalhas personalizadas no editor, modifique o jogo do zero, desbloqueie unidades multiplayer instantaneamente e acesse novas facções. Há também extras esperando por você. Para mais informações, confira as páginas do produto.\n\nDivirta-se!"
+msgstr "Esperamos que você esteja aproveitando Call to Arms!\n\nÉ uma ótima hora para atualizar para uma das versões completas. Experimente as campanhas solo ou cooperativo com amigos, jogue conteúdo da comunidade via Steam Workshop, crie batalhas personalizadas no editor, modifique o jogo do zero, desbloqueie unidades multiplayer instantaneamente e acesse novas facções (quando estiverem disponíveis). Há também extras esperando por você. Para mais informações, confira as páginas do produto.\n\nDivirta-se!"
 
 msgctxt "options/audio/volume/narrator#desc"
 msgid "Volume of soldiers' and narrator's speech during battle."
@@ -2419,7 +2419,7 @@ msgstr "Iniciando o jogo (WAN)"
 
 msgctxt "options/game/mouseout_camera_movement#desc"
 msgid "Enable camera movement when the mouse is near the screen edges or offscreen"
-msgstr "Habilita movimento de câmera quando o mouse está próximo às bordas da tela"
+msgstr "Habilita o movimento da câmera quando o mouse está próximo às bordas da tela ou fora dela."
 
 msgctxt "options/game/aiming/auto_aim_vehicle"
 msgid "Auto aim at vehicles"
@@ -2435,7 +2435,7 @@ msgstr "A mira automática em veículos trava o cursor no veículo mais próximo
 
 msgctxt "feedback_text2"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Silver Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Prata. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Prata. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "options/game/slow_down_while_inventory_exchange"
 msgid "Slow down during inventory exchange"
@@ -2883,7 +2883,7 @@ msgstr "<f(roboto_mono)c(ffffff)>Excluir jogo salvo: \"%1%\"?"
 
 msgctxt "options/keys/actions/toggle_hatch#desc"
 msgid "Open or close the top hatch of a secondary weapon to whether or not expose the gunner to enemy fire (in cost of own fire power)."
-msgstr "Abre ou fecha a escotilha superior da arma secundária, expondo ou protegendo o atirador ao fogo inimigo."
+msgstr "Abre ou fecha a escotilha superior da arma secundária. Ao fechá-la, o atirador fica protegido do fogo inimigo, mas o veículo perde poder de fogo."
 
 msgctxt "options/keys/control_manual/modify#desc"
 msgid "Activate \"Direct Control\" mode while the key is being pressed."
@@ -2967,7 +2967,7 @@ msgstr "<c(255 255 255)e(shadow)>%1%"
 
 msgctxt "options/keys/control_manual/fire#desc"
 msgid "Fire weapon / throw grenade."
-msgstr "Atirar arma / lançar granada."
+msgstr "Disparar a arma / lançar granada."
 
 msgctxt "main_menu2/skirmish/online_game"
 msgid "ONLINE SKIRMISH"
@@ -3083,7 +3083,7 @@ msgstr "<c(204 204 204)>%1% <c(20a601)>versão - %2%"
 
 msgctxt "options/keys/actions/throw_sk_grenade#desc"
 msgid "Order the selected squad or soldier to throw a smoke grenade. (Only available if smoke grenades are available.)"
-msgstr "Ordena a esquadra ou soldado lançar uma granada de fumaça. (Apenas se disponível.)"
+msgstr "Ordena à esquadra ou ao soldado selecionado que lance uma granada de fumaça. (Disponível apenas se houver granadas de fumaça.)"
 
 msgctxt "options/keys/interface/game_menu#desc"
 msgid "Show game menu."
@@ -3171,7 +3171,7 @@ msgstr "Parar"
 
 msgctxt "options/keys/actions/throw_ap_grenade#desc"
 msgid "Order the selected squad or soldier to throw a fragmentation grenade. (Only active if frag grenades are available.)"
-msgstr "Ordena a esquadra ou soldado lançar uma granada de fragmentação. (Apenas se disponível.)"
+msgstr "Ordena à esquadra ou ao soldado selecionado que lance uma granada de fragmentação. (Ativo apenas se houver granadas de fragmentação.)"
 
 msgctxt "options/keys/keymap/key_numlock"
 msgid "NUM LOCK"
@@ -3187,7 +3187,7 @@ msgstr "Usar lança-foguetes"
 
 msgctxt "options/keys/actions/bazooka_shot#desc"
 msgid "Order the selected squad or soldier to perform a rocket launcher shot if possible."
-msgstr "Ordena a esquadra ou soldado realizar um disparo de lança-foguetes se possível."
+msgstr "Ordena à esquadra ou ao soldado selecionado que dispare um lança-foguetes, se possível."
 
 msgctxt "options/keys/actions/attack_melee#desc"
 msgid "Order one of your soldiers to perform a melee attack against the selected target."
@@ -3299,7 +3299,7 @@ msgstr "Alcance Máximo#%.1f km"
 
 msgctxt "main_menu2/breadcrumbs/page_launcher_multiplayer"
 msgid "Launcher (Multiplayer)"
-msgstr "Launcher (Multijogador)"
+msgstr "Inicializador (Multijogador)"
 
 msgctxt "options/keys/control_camera"
 msgid "CAMERA  CONTROLS"
@@ -3427,7 +3427,7 @@ msgstr "Destacar cadáveres"
 
 msgctxt "fail_minimum_memory"
 msgid "Cannot allocate required video memory.\nThis may cause memory errors during the game.\nIf your video card meets the minimum requirements listed in the User Guide,\nanother application may be preventing the game from allocating enough video memory.\nDo you want to run the game anyway?"
-msgstr "Não é possível alocar a memória de vídeo necessária.\nIsso pode causar erros de memória durante o jogo.\nRecomendamos fechar outros aplicativos ou reduzir as configurações gráficas.\nOutros aplicativos podem estar impedindo o jogo de alocar memória suficiente.\nDeseja continuar mesmo assim?"
+msgstr "Não é possível alocar a memória de vídeo necessária.\nIsso pode causar erros de memória durante o jogo.\nSe a sua placa de vídeo atende aos requisitos mínimos listados no Guia do Usuário,\noutro aplicativo pode estar impedindo o jogo de alocar memória de vídeo suficiente.\nDeseja executar o jogo mesmo assim?"
 
 msgctxt "user_statistics/ranked/stat/killveh_bot"
 msgid "Bot vehicle kills"
@@ -3539,7 +3539,7 @@ msgstr "Selecionar esquadra 4"
 
 msgctxt "options/keys/groups#desc"
 msgid "Key assignments for squads"
-msgstr "Atribuições de teclas para esquadrões"
+msgstr "Atribuições de teclas para esquadras"
 
 msgctxt "options/keys/keymap/key_equals"
 msgid "="
@@ -3695,7 +3695,7 @@ msgstr "D"
 
 msgctxt "main_menu2/breadcrumbs/page_launcher_singleplayer"
 msgid "Launcher (Singleplayer)"
-msgstr "Launcher (Jogador Único)"
+msgstr "Inicializador (Jogador Único)"
 
 msgctxt "options/keys/keymap/key_f"
 msgid "F"
@@ -3703,7 +3703,7 @@ msgstr "F"
 
 msgctxt "options/keys/keymap/key_unlabeled"
 msgid "UNLABELLED"
-msgstr "UNLABELLED"
+msgstr "SEM IDENTIFICAÇÃO"
 
 msgctxt "options/keys/keymap/key_g"
 msgid "G"
@@ -4549,7 +4549,7 @@ msgstr "Distância#<x(%i)>%i m"
 
 msgctxt "main_menu2/library/weapons/damage_table/health"
 msgid "Health Damage#<x(%i)>%.f HP"
-msgstr "Dano de Saúde#<x(%i)>%.f HP"
+msgstr "Dano à Saúde#<x(%i)>%.f HP"
 
 msgctxt "main_menu2/library/soldiers/single_weapon"
 msgid "Weapon#%s"
@@ -4561,7 +4561,7 @@ msgstr "Alcance Máximo#%.f m"
 
 msgctxt "main_menu2/library/weapons/range_accuracy"
 msgid "Range Accuracy"
-msgstr "Precisão de Alcance"
+msgstr "Precisão por Distância"
 
 msgctxt "main_menu2/library/weapons/weight"
 msgid "Weight#%.1f kg"
@@ -4600,8 +4600,8 @@ msgid "Gun %i#%s"
 msgstr "Canhão %i#%s"
 
 msgctxt "main_menu2/library/vehicles/gun/penetration"
-msgid "Penetration#<x(%i)>%.f mm"
-msgstr "Penetração#<x(%i)>%.f mm"
+msgid "%s#%1%mm<x(75)>%2%mm<x(150)>%3%mm<x(225)>(%4%m)"
+msgstr "%s#%1%mm<x(75)>%2%mm<x(150)>%3%mm<x(225)>(%4%m)"
 
 msgctxt "user_statistics/ranked/row/score"
 msgid "%1%"
@@ -5077,7 +5077,7 @@ msgstr "PLACAR"
 
 msgctxt "user_statistics/leaderboards/header"
 msgid "#Rank#Player#<x.>Games played#<x.>Winrate#<x.>%1%#"
-msgstr "#Rank#Jogador#<x.>Partidas jogadas#<x.>Vitórias#<x.>%1%#"
+msgstr "#Posição#Jogador#<x.>Partidas jogadas#<x.>Taxa de vitórias#<x.>%1%#"
 
 msgctxt "user_statistics/leaderboards/score"
 msgid "Score"
@@ -5561,7 +5561,7 @@ msgstr "<f(roboto_mono)s(18)>Opções de missão"
 
 msgctxt "entity_info/description/moto"
 msgid "Moto : %1%"
-msgstr "Lema: %1%"
+msgstr "Motocicleta : %1%"
 
 msgctxt "entity_info/description/car"
 msgid "Car : %1%"
@@ -5573,7 +5573,7 @@ msgstr "Canhão : %1%"
 
 msgctxt "entity_info/description/airborne"
 msgid "Airborne : %1%"
-msgstr "Aerotransportado : %1%"
+msgstr "Aeronave : %1%"
 
 msgctxt "entity_info/description/marine"
 msgid "Boat : %1%"
@@ -5597,7 +5597,7 @@ msgstr "%1%<x(50)>%2%<x(90)>%3%<x(125)>%4%<x(160)>%5%<x(190)>%6%"
 
 msgctxt "entity_info/vehicle/turret"
 msgid "Turret"
-msgstr "Torrreta"
+msgstr "Torreta"
 
 msgctxt "entity_info/human/skill_format"
 msgid "<x(20)>%1%<x(70)>%2%"
@@ -5629,11 +5629,11 @@ msgstr "CAROS JOGADORES!"
 
 msgctxt "feedback_text"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Bronze Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Bronze. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Bronze. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "feedback_text3"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Gold Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Ouro. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Ouro. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "copyright_string"
 msgid "<s(8)c(120 120 120)f(arial_hq)>(C) 2014-2020 Digitalmindsoft e.K & Barbedwire Studios"
@@ -5781,7 +5781,7 @@ msgstr "região"
 
 msgctxt "main_menu2/dynamic_campaign/region_hint_ostfront"
 msgid "Eastern Europe - (Ostfront Maps)"
-msgstr "Europa Oriental - (Mapas da Frente Oriental)"
+msgstr "Europa Oriental - (Mapas de Ostfront)"
 
 msgctxt "main_menu2/dynamic_campaign/region_hint_talvisota"
 msgid "Finland + Eastern Europe - (Ostfront + Talvisota Maps)"
@@ -5828,8 +5828,8 @@ msgid "economy"
 msgstr "economia"
 
 msgctxt "main_menu2/dynamic_campaign/hint_resources"
-msgid "Economy adjusts the following: \n• Starting resources \n• Resources gained after each battle \n• Cost to repair and resupply units \n• Resources gained from selling units \n• Enemy resources in battle, which is a \n  percentage of player's total army value"
-msgstr "A economia ajusta o seguinte: \n• Recursos iniciais \n• Recursos ganhos após cada batalha \n• Custo de reparo e reabastecimento de unidades \n• Recursos ganhos ao vender unidades \n• Recursos inimigos em batalha, que são uma \n  porcentagem do valor total do exército do jogador"
+msgid "Economy adjusts the following: \n• Starting resources \n• Resources gained after each battle \n• Cost to repair and resupply units \n• Resources gained from selling units"
+msgstr "A economia ajusta o seguinte: \n• Recursos iniciais \n• Recursos ganhos após cada batalha \n• Custo de reparo e reabastecimento de unidades \n• Recursos ganhos ao vender unidades"
 
 msgctxt "main_menu2/dynamic_campaign/advanced"
 msgid "advanced"
@@ -6019,7 +6019,7 @@ msgstr "Ordenar esquadra"
 
 msgctxt "options/keys/control_manual/order_squad#desc"
 msgid "When in first/third person, click to send your squad to the aimed at position. Hold key to display cover and send units on release."
-msgstr "No modo primeira/terceira pessoa, clique para enviar sua esquadra para a posição mirando. Segure para exibir cobertura."
+msgstr "No modo em primeira ou terceira pessoa, clique para enviar sua esquadra à posição para a qual está mirando. Segure a tecla para exibir as coberturas e solte-a para enviar as unidades."
 
 msgctxt "main_menu2/user_profile/save_changes"
 msgid "Do you want to save profile changes?"
@@ -6179,7 +6179,7 @@ msgstr "Blindagem do Casco#%s"
 
 msgctxt "main_menu2/library/vehicles/armor_turret"
 msgid "Turret Armor#%s"
-msgstr "Blindagem da Torrreta#%s"
+msgstr "Blindagem da Torreta#%s"
 
 msgctxt "main_menu2/library/vehicles/armor_shield"
 msgid "Additional Armor#%s"
@@ -6247,11 +6247,11 @@ msgstr "Som"
 
 msgctxt "options/workshop/tag/mp map"
 msgid "MP Map"
-msgstr "Mapa PM"
+msgstr "Mapa multijogador"
 
 msgctxt "options/workshop/tag/sp map"
 msgid "SP Map"
-msgstr "Mapa SP"
+msgstr "Mapa para jogador único"
 
 msgctxt "options/workshop/tag/unit set"
 msgid "Unit Set"
@@ -6259,7 +6259,7 @@ msgstr "Conjunto de Unidades"
 
 msgctxt "options/workshop/tag/mp compatible"
 msgid "MP Compatible"
-msgstr "Compatível PM"
+msgstr "Compatível com multijogador"
 
 msgctxt "options/workshop/tag/total conversion"
 msgid "Total Conversion"
@@ -6291,7 +6291,7 @@ msgstr "Fogo de Supressão"
 
 msgctxt "options/keys/actions/suppression_fire#desc"
 msgid "Unleash intense firepower at the overall vicinity of a designated target or location for 60 seconds"
-msgstr "Desencadeie poder de fogo intenso na área de um alvo designado por 60 segundos"
+msgstr "Desencadeie fogo intenso na área ao redor de um alvo ou local designado por 60 segundos"
 
 msgctxt "options/keys/actions/mine_ap"
 msgid "Anti-personal mine"
@@ -6299,7 +6299,7 @@ msgstr "Mina antipessoal"
 
 msgctxt "options/keys/actions/mine_ap#desc"
 msgid "Place anti-personal mine"
-msgstr "Construir mina antipessoal"
+msgstr "Colocar mina antipessoal"
 
 msgctxt "options/keys/actions/mine_at"
 msgid "Anti-tank mine"
@@ -6307,7 +6307,7 @@ msgstr "Mina antitanque"
 
 msgctxt "options/keys/actions/mine_at#desc"
 msgid "Place anti-tank mine"
-msgstr "Construir mina antitanque"
+msgstr "Colocar mina antitanque"
 
 msgctxt "options/keys/actions/mine_detection"
 msgid "Mine Detection"
@@ -6427,7 +6427,7 @@ msgstr "Arame farpado"
 
 msgctxt "options/keys/actions/barbwire#desc"
 msgid "Place barbed wire"
-msgstr "Construir arame farpado"
+msgstr "Colocar arame farpado"
 
 msgctxt "options/keys/actions/collect"
 msgid "Take"
@@ -6468,3 +6468,19 @@ msgstr "Saltar"
 msgctxt "options/keys/control_manual/vault#desc"
 msgid "Climb over vault-able objects while in third person control of infantry."
 msgstr "Saltar sobre objetos no controle em terceira pessoa da infantaria."
+
+msgctxt "main_menu2/library/vehicles/gun/penetration_explosive"
+msgid "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)"
+msgstr "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)"
+
+msgctxt "main_menu2/dynamic_campaign/create2/status/completed"
+msgid "<c(8ca65a)>COMPLETED"
+msgstr "<c(8ca65a)>CONCLUÍDA"
+
+msgctxt "main_menu2/dynamic_campaign/create2/status/partially_completed"
+msgid "<c(c9a24a)>PARTIALLY COMPLETED"
+msgstr "<c(c9a24a)>PARCIALMENTE CONCLUÍDA"
+
+msgctxt "main_menu2/dynamic_campaign/create2/status/failed"
+msgid "<c(b76b5b)>FAILED"
+msgstr "<c(b76b5b)>FRACASSADA"

@@ -82,7 +82,7 @@ msgstr "Este frio é nosso maior aliado. Ele vai desacelerar o inimigo mais do q
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/intro_wd_02"
 msgid "I’m more accurate and harder to detect without it!"
-msgstr "Sou mais preciso e mais difícil de detectar sem ele!"
+msgstr "Sou mais preciso e mais difícil de detectar sem ela!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/lost_base4"
 msgid "We lost our positions at Base 4!"
@@ -194,7 +194,7 @@ msgstr "Excelente trabalho! Esta bateria de artilharia não nos incomodará mais
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_01"
 msgid "Artillery strike! Everyone, take cover!"
-msgstr "Ataque de artilharia! Todos, cubram-se!"
+msgstr "Ataque de artilharia! Todos, abriguem-se!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_02"
 msgid "I hear the artillery! Lay down!"
@@ -202,11 +202,11 @@ msgstr "Ouço a artilharia! Deitem!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_base4"
 msgid "Artillery strike at the fourth base positions, take cover!"
-msgstr "Ataque de artilharia nas posições da quarta base — cubram-se!"
+msgstr "Ataque de artilharia nas posições da quarta base — abriguem-se!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_hq"
 msgid "Soviet artillery is firing at our positions at the Dugout Hill, take cover!"
-msgstr "A artilharia soviética está atirando em nossas posições no Morro do Abrigo — cubram-se!"
+msgstr "A artilharia soviética está atirando em nossas posições no Morro do Abrigo — abriguem-se!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_rock_01"
 msgid "The Soviets are firing their long range artillery at our trenches near the rock positions!"
@@ -314,7 +314,7 @@ msgstr "Pular preparação"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_allround"
 msgid "<c(B29557)>All-Round:</c> 76 RK/27"
-msgstr "<c(B29557)>Geral:</c> 76 RK/27"
+msgstr "<c(B29557)>Versátil:</c> 76 RK/27"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/reinforcements/doctrine_defensive"
 msgid "<c(B29557)>Defensive:</c> 76 RK/27"
@@ -462,7 +462,7 @@ msgstr "Coquetel para Molotov? Entendo a parte sobre Molotov, mas por que é um 
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/wd_pause"
 msgid "I've already lost count of the men I shot. I don't understand why they are advancing so recklessly. What's the whole point of it?"
-msgstr "Já perdi a conta dos homens que atirei. Não entendo por que estão avançando tão imprudentemente. Qual é o sentido de tudo isso?"
+msgstr "Já perdi a conta dos homens em quem atirei. Não entendo por que estão avançando tão imprudentemente. Qual é o sentido de tudo isso?"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/wd_tanks_hint"
 msgid "Why do the Soviets send their tanks without infantry cover? Just look at how unprotected these tanks are. It's not that hard to ambush them with the Molotov cocktails onto their engine bay."

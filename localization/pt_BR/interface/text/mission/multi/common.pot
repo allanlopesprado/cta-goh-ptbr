@@ -71,3 +71,11 @@ msgid "Intelligence reports confirm the enemy is arriving soon from the areas in
 msgstr "Relatórios de inteligência confirmam que o inimigo se aproxima pelas áreas indicadas no mapa.
 \n 
 \n Prepare-se imediatamente para o ataque!"
+
+msgctxt "mission/multi/enemy_retreat"
+msgid "They are retreating! We’ve held the line! Good work!"
+msgstr "Eles estão recuando! Mantivemos a linha! Bom trabalho!"
+
+msgctxt "mission/multi/enemy_retreat2"
+msgid "We have won! They're running away!"
+msgstr "Vencemos! Eles estão fugindo!"

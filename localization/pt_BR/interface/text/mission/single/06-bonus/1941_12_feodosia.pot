@@ -104,7 +104,7 @@ Quando você voltar, apresente-se ao Comissário de Brigada Brejnev. Ele ficará
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/outro_failed"
 msgid "Ouch! That is not the outcome Stavka planned. You don’t want this reported to HQ. Maybe you should try again?"
-msgstr "Que decepção! Esse não era o resultado planejado pelo Stavka. Você não vai querer que isso seja reportado ao QG. Talvez deva tentar novamente?"
+msgstr "Que decepção! Esse não era o resultado planejado pela Stavka. Você não vai querer que isso seja reportado ao QG. Talvez deva tentar novamente?"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/place"
 msgid "Lt. Aydinov's landing party, Soviet Black Sea Fleet"
@@ -116,7 +116,7 @@ msgstr "Pular preparação"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/story"
 msgid "You are going on a mission to support besieged Sevastopol. To be precise, you are ordered to secure the Crimean harbor of Feodosiya for the large invasion force that will land there. We will go ashore behind the enemy’s back, and you will be in the first echelon. \nThis attack will relieve pressure on Sevastopol for sure, when the Germans have to turn around and fight us in Feodosiya; the importance of this mission cannot be overstated. \nThe success of your mission depends on your improvisation skills and the ability to use every bit of equipment you come across. \n\nGood luck!"
-msgstr "Você vai em uma missão para apoiar a sitiada Sevastopol. Para ser preciso, está ordenado a assegurar o porto da Crimeia de Feodósia para a grande força de invasão que desembarcará lá. Iremos à terra pela retaguarda do inimigo, e você estará no primeiro escalão.\nEste ataque certamente aliviará a pressão sobre Sevastopol quando os alemães tiverem de se virar e lutar contra nós em Feodósia; a importância desta missão não pode ser subestimada.\nO sucesso de sua missão depende de suas habilidades de improvisação e da capacidade de usar cada equipamento que encontrar.\n\nBoa sorte!"
+msgstr "Você vai em uma missão para apoiar a sitiada Sevastopol. Para ser preciso, recebeu ordens de assegurar o porto de Feodósia, na Crimeia, para a grande força de invasão que desembarcará lá. Iremos à terra pela retaguarda do inimigo, e você estará no primeiro escalão.\nEste ataque certamente aliviará a pressão sobre Sevastopol quando os alemães tiverem de se virar e lutar contra nós em Feodósia; a importância desta missão não pode ser subestimada.\nO sucesso de sua missão depende de suas habilidades de improvisação e da capacidade de usar cada equipamento que encontrar.\n\nBoa sorte!"
 
 msgctxt "mission/single/06-bonus/1941_12_feodosia/tasks/01-lighthouse"
 msgid "Capture the lighthouse"

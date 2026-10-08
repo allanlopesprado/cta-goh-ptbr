@@ -76,11 +76,11 @@ msgstr "Para contaminar a cozinha inimiga, leve um soldado com um kit de reparo 
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/04"
 msgid "To take out the German howitzers silently, bring a soldier close enough to the gun barrel and he will sabotage the gun."
-msgstr "Para eliminar os obuses alemães silenciosamente, aproxime um soldado do cano do canhão e ele sabotará a arma."
+msgstr "Para neutralizar os obuseiros alemães silenciosamente, aproxime um soldado do cano do canhão e ele sabotará a arma."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/05"
 msgid "There are several paths leading to the second aerosled. Scouting will be needed to determine the best one."
-msgstr "Há vários caminhos que levam ao segundo aeróbobsled. Será necessário fazer reconhecimento para determinar o melhor."
+msgstr "Há vários caminhos que levam ao segundo trenó a hélice. Será necessário fazer reconhecimento para determinar o melhor."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/06"
 msgid "Try to remain stealthy. Do not get too close to sleeping Germans or raise suspicion. You should use the silenced Nagant pistol to take out enemies quietly."
@@ -112,7 +112,7 @@ msgstr "Passe pelos arbustos! Ele não saberá para onde fomos!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/04"
 msgid "We have to regroup with the other aerosled! .... the radio caught a bullet, we can't communicate ... we will have to find them using another way!"
-msgstr "Precisamos nos reagrupar com o outro aeróbobsled! ... O rádio levou uma bala, não conseguimos nos comunicar... Teremos que encontrá-los de outro jeito!"
+msgstr "Precisamos nos reagrupar com o outro trenó a hélice! ... O rádio levou uma bala, não conseguimos nos comunicar... Teremos que encontrá-los de outro jeito!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/05"
 msgid "We have the documents! Let me see..."
@@ -144,7 +144,7 @@ msgstr "Aparentemente, a julgar pela distância entre as unidades alemãs, elas 
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/12"
 msgid "Don't let us get spotted or noticed by enemy officers! Make sure to shoot them before engaging in combat. They will likely call for reinforcements!"
-msgstr "Não deixe que nos vejam ou notem os oficiais inimigos! Certifique-se de abatê-los antes de entrar em combate. Eles provavelmente chamarão reforços!"
+msgstr "Não deixe que os oficiais inimigos nos vejam ou percebam nossa presença! Certifique-se de abatê-los antes de entrar em combate. Eles provavelmente chamarão reforços!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/13"
 msgid "That officer over there is still safe and sound! I bet he's calling for reinforcements as we speak. Brace yourselves!"
@@ -172,7 +172,7 @@ msgstr "Camaradas, em poucos minutos um comboio de combustível está programado
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/19"
 msgid "A logistics column is scheduled to arrive in a few minutes. The Manifest: Howitzer ammunition. I don't think we should let the fascist dogs have any of that!"
-msgstr "Uma coluna logística está programada para chegar em alguns minutos. O manifesto: munição de obuseiro. Não acho que devemos deixar os cães fascistas ficarem com isso!"
+msgstr "Uma coluna logística está programada para chegar em alguns minutos. A carga declarada: munição de obuseiro. Não acho que devemos deixar os cães fascistas ficarem com isso!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/20"
 msgid "Oh yes. Guten appetit, you swine!"
@@ -188,7 +188,7 @@ msgstr "Hah! Eles não vão saber o que os acertou."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/23"
 msgid "That's the howitzers! Good job."
-msgstr "São os obuses! Bom trabalho."
+msgstr "Os obuseiros foram neutralizados! Bom trabalho."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/24"
 msgid "Excellent. They can't call for reinforcements now. But this is no license to go out there with guns blazing! They still outnumber us and we should try and act quietly!"
@@ -304,7 +304,7 @@ msgstr "O Grupo de Exércitos Norte avança em direção à cidade-chave de Leni
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task1"
 msgid "Establish contact with the other aerosled."
-msgstr "Estabeleça contato com o outro aeróbobsled."
+msgstr "Estabeleça contato com o outro trenó a hélice."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task2"
 msgid "The Commissar must survive!"

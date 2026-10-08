@@ -118,11 +118,11 @@ msgstr "Artilharia de foguetes inimiga na área! Os órgãos de Stalin chegaram 
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_completed"
 msgid "Because the blue division held the line at Krasny Bor, the 18th army was not surrounded like the 6th at Stalingrad. But they paid a terrible price; only 1 in five got out alive. \nThe Germans thought the blue division’s tenacity was unmatched. This seems no more than fair, considering how little they had to defend themselves against the huge odds."
-msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército não foi cercado como o 6º em Stalingrado. Mas pagou um preço terrível: apenas 1 em cada 5 saiu vivo.\nOs alemães consideravam a tenacidade da Divisão Azul incomparável. Isso parece justo, considerando quão pouco eles tinham para se defender diante de odds tão grandes."
+msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército não foi cercado como o 6º em Stalingrado. Mas pagou um preço terrível: apenas 1 em cada 5 saiu vivo.\nOs alemães consideravam a tenacidade da Divisão Azul incomparável. Isso parece justo, considerando quão pouco eles tinham para se defender diante de tamanha desvantagem."
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_failed"
 msgid "Your failure to hold Krasny Bor has grave consequences; the 18th army has just been cut off from the front, facing the same fate as the 6th army at Stalingrad. Thousands will succumb to injury, illness and starvation. Those that can still walk will be sent to Siberia. This is a dent in your reputation to say the least!  \n"
-msgstr "Seu fracasso em manter Krasny Bor tem graves consequências — o 18º Exército acaba de ser cortado da frente, enfrentando o mesmo destino do 6º Exército em Stalingrado. Milhares sucumbirão a ferimentos, doenças e inanição. Os que ainda conseguem andar serão enviados à Sibéria. Isso é um baque para sua reputação, para dizer o mínimo!\n"
+msgstr "Seu fracasso em manter Krasny Bor tem graves consequências — o 18º Exército acaba de ser isolado do restante da frente, enfrentando o mesmo destino do 6º Exército em Stalingrado. Milhares sucumbirão a ferimentos, doenças e inanição. Os que ainda conseguem andar serão enviados à Sibéria. Isso é um baque para sua reputação, para dizer o mínimo!\n\n"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/place"
 msgid "250th Infantry Division \"Blue Division\""
@@ -174,7 +174,7 @@ msgstr "Fevereiro de 1943 — o Exército Vermelho vai à ofensiva na região de
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_hospital"
 msgid "Escort the trucks evacuating the hospital. At least 2 trucks must survive."
-msgstr "Escolta os caminhões que evacuam o hospital. Pelo menos 2 caminhões devem sobreviver."
+msgstr "Escolte os caminhões que evacuam o hospital. Pelo menos 2 caminhões devem sobreviver."
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_main"
 msgid "Don't let the enemy tanks overrun the headquarters."

@@ -26,7 +26,7 @@ msgstr "Fazenda"
 
 msgctxt "mission/multi/1v1_forssa_dam/name"
 msgid "Forssa Dam <c(7e5be4)>[Talvisota]"
-msgstr "Forssa Dam <c(7e5be4)>[Talvisota]"
+msgstr "Barragem de Forssa <c(7e5be4)>[Talvisota]"
 
 msgctxt "mission/multi/1v1_hiekalla/name"
 msgid "Hiekalla <c(7e5be4)>[Talvisota]"
@@ -70,7 +70,7 @@ msgstr "Vale"
 
 msgctxt "mission/multi/1v1_volokolamsk/name"
 msgid "Frostbite"
-msgstr "Geada"
+msgstr "Geladura"
 
 msgctxt "mission/multi/1v1_workshop/name"
 msgid "Workshop"
@@ -554,7 +554,7 @@ msgstr "Operação Barbarossa"
 
 msgctxt "mission/multi/0_frontlines/2v2_stalingrad_factory/name"
 msgid "Stalingrad Factory"
-msgstr "Fábrica Stalingrado"
+msgstr "Fábrica de Stalingrado"
 
 msgctxt "mission/multi/0_frontlines/3v3_crimea/name"
 msgid "Crimea"

@@ -30,7 +30,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/early_fin_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/early_fin_allround#hint"
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/early_ger_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/early_ger_allround#hint"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/early_rus_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/early_rus_allround#hint"
 msgid ""
@@ -142,7 +142,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/mid_fin_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/mid_fin_allround#hint"
 msgid ""
@@ -182,7 +182,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/mid_ger_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/mid_ger_allround#hint"
 msgid ""
@@ -222,7 +222,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/mid_rus_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/mid_rus_allround#hint"
 msgid ""
@@ -270,7 +270,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/late_fin_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/late_fin_allround#hint"
 msgid ""
@@ -310,7 +310,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/late_ger_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/late_ger_allround#hint"
 msgid ""
@@ -318,7 +318,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/late_ger_allround2"
 msgid "All-Round (West) <c(7e5be4)>[Liberation DLC]</c>"
-msgstr "Geral (Oeste) <c(7e5be4)>[Liberation DLC]</c>"
+msgstr "Versátil (Oeste) <c(7e5be4)>[Liberation DLC]</c>"
 
 msgctxt "mp/lobby/doctrine/late_ger_allround2#hint"
 msgid ""
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "mp/lobby/doctrine/late_rus_allround"
 msgid "All-Round"
-msgstr "Geral"
+msgstr "Versátil"
 
 msgctxt "mp/lobby/doctrine/late_rus_allround#hint"
 msgid ""

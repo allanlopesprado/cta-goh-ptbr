@@ -1,0 +1,21 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (announcements)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "announce_update70"
+msgid "Yet another highly anticipated update for our dynamic campaign generator, Conquest, is here!\n\n Smarter AI, dug-in defensive positions, community-requested changes, retreating mechanics and devastating counterattacks.\n\nUpdate 70 also brings you sound optimizations, and much more! \n\n<c(f5d167)>We're running a special sale to celebrate this important milestone!</c>"
+msgstr "Chegou mais uma atualização muito aguardada para o modo Conquista, nosso gerador de campanhas dinâmicas!\n\n IA mais inteligente, posições defensivas entrincheiradas, mudanças solicitadas pela comunidade, mecânicas de retirada e contra-ataques devastadores.\n\nA atualização 70 também traz otimizações de áudio e muito mais! \n\n<c(f5d167)>Estamos realizando uma promoção especial para comemorar este importante marco!</c>"
+
+msgctxt "button/discounts2"
+msgid "<c(f5d167)>CHECK YOUR DISCOUNT!</c>"
+msgstr "<c(f5d167)>CONFIRA SEU DESCONTO!</c>"

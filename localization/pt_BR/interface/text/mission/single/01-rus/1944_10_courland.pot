@@ -38,15 +38,15 @@ msgstr "Selecione sua Doutrina para a missão:"
 
 msgctxt "mission/single/01-rus/1944_10_courland/name"
 msgid "Closing the Pocket"
-msgstr "Fechando o Bolso"
+msgstr "Fechando o Cerco"
 
 msgctxt "mission/single/01-rus/1944_10_courland/name_big"
 msgid "Closing the Pocket"
-msgstr "Fechando o Bolso"
+msgstr "Fechando o Cerco"
 
 msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/01"
 msgid "Comrades! Today is the day of reckoning for the Hitlerite hordes! Whilst our glorious 5th Guards Tank Army is breaching the Fascist defenses around Memel, we will secure this area and cut them off. "
-msgstr "Camaradas! Hoje é o dia do ajuste de contas para as hordas hitlerists! Enquanto nosso glorioso 5º Exército de Tanques da Guarda está rompendo as defesas fascistas ao redor de Memel, asseguraremos esta área e os cortaremos."
+msgstr "Camaradas! Hoje é o dia do ajuste de contas para as hordas hitleristas! Enquanto nosso glorioso 5º Exército de Tanques da Guarda está rompendo as defesas fascistas ao redor de Memel, asseguraremos esta área e os isolaremos."
 
 msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/02"
 msgid "The Germans attacked us last night, and today you are to counter-attack and drive them out of this sector. "
@@ -86,7 +86,7 @@ msgstr "Nada pode parar nosso glorioso Exército Vermelho. E agora nada vai para
 
 msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task5_complete"
 msgid "Those miserable Hitlerite lowlives will no longer be able to bombard our neighboring regiments. Comrade, I am giving you command of our long-range weaponry reserves."
-msgstr "Esses miseráveis patifes hitlerists não conseguirão mais bombardear nossos regimentos vizinhos. Camarada, estou dando a você o comando de nossas reservas de armamentos de longo alcance."
+msgstr "Esses miseráveis patifes hitleristas não conseguirão mais bombardear nossos regimentos vizinhos. Camarada, estou dando a você o comando de nossas reservas de armamentos de longo alcance."
 
 msgctxt "mission/single/01-rus/1944_10_courland/narrator/officer/task6_complete"
 msgid "These Fascists have excellent radio equipment. We will use their equipment to relay ground attack coordinates for our Sturmoviks."
@@ -290,7 +290,7 @@ msgstr "Caixa de Munição"
 
 msgctxt "mission/single/01-rus/1944_10_courland/story"
 msgid "Army Group North suffers the unstoppable tide of the Red Army. Stavka proceeds to encircle the city of Memel. In the south, the 43rd Army dashes towards the coast to cut the Germans off from the south. A brutal engagement is about to unfold..."
-msgstr "O Grupo de Exércitos Norte sofre com a maré imparável do Exército Vermelho. A Stavka procede ao cerco da cidade de Memel. Ao sul, o 43º Exército avança em direção à costa para cortar os alemães pelo sul. Um confronto brutal está prestes a se desenrolar..."
+msgstr "O Grupo de Exércitos Norte sofre com a maré imparável do Exército Vermelho. A Stavka procede ao cerco da cidade de Memel. Ao sul, o 43º Exército avança em direção à costa para isolar os alemães pelo sul. Um confronto brutal está prestes a se desenrolar..."
 
 msgctxt "mission/single/01-rus/1944_10_courland/task1"
 msgid "Recapture the depot for acquiring supplies"
@@ -302,7 +302,7 @@ msgstr "Capture a primeira linha de defesa para obter acesso a equipamentos AT e
 
 msgctxt "mission/single/01-rus/1944_10_courland/task3"
 msgid "Recapture the village of Daukšaičiai to gain access to medium armor."
-msgstr "Retome a aldeia de Daukšaičiai para obter acesso à blindagem média."
+msgstr "Retome a aldeia de Daukšaičiai para obter acesso a tanques médios."
 
 msgctxt "mission/single/01-rus/1944_10_courland/task4"
 msgid "Secure the road checkpoint to pave way for our heavy tanks."
@@ -310,7 +310,7 @@ msgstr "Assegure o posto de controle da estrada para abrir caminho para nossos t
 
 msgctxt "mission/single/01-rus/1944_10_courland/task5"
 msgid "Take out the German Heavy Artillery position and gain access to heavy howitzers"
-msgstr "Destrua a posição de Artilharia Pesada alemã e obtenha acesso a obuses pesados"
+msgstr "Destrua a posição de Artilharia Pesada alemã e obtenha acesso a obuseiros pesados"
 
 msgctxt "mission/single/01-rus/1944_10_courland/task6"
 msgid "Seize the enemy communications outpost to establish communications with our air force"

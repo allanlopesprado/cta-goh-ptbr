@@ -18,7 +18,7 @@ msgstr "Equipe de bazuca, aguardando ordens!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies02"
 msgid "Sniper team, ready for action!"
-msgstr "Equipe de atiradores, pronta para ação!"
+msgstr "Equipe de atiradores de elite, pronta para a ação!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/date"
 msgid "June 6th, 1944 · La Fière, Normandy, France."
@@ -34,7 +34,7 @@ msgstr "A Batalha de La Fière"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator01"
 msgid "The Germans have flooded the fields around the Merderet river because they anticipated the invasion..."
-msgstr "Os alemães inundaram os campos ao redor do rio Merderet porque anteciparam a invasão..."
+msgstr "Os alemães inundaram os campos ao redor do rio Merderet porque previram a invasão..."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator02"
 msgid "We need to secure the bridge to prevent German reserves from counterattacking Sainte-Mere-Eglise or reinforcing the Utah Beach defenses!"
@@ -50,15 +50,15 @@ msgstr "Não há tempo a perder! Vamos expulsar os alemães de lá!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator05"
 msgid "We cleared out the Krauts! Search for additional equipment and prepare for the inevitable counterattack. This bridge is as important to them as it is to us."
-msgstr "Limpamos os Krauts! Procurem equipamentos adicionais e preparem-se para o inevitável contra-ataque. Esta ponte é tão importante para eles quanto para nós."
+msgstr "Expulsamos os alemães! Procurem equipamentos adicionais e preparem-se para o inevitável contra-ataque. Esta ponte é tão importante para eles quanto para nós."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator06"
 msgid "Jerry left some explosives in this crate. Let's mine the approach to the bridge with anti-tank mines."
-msgstr "O Jerry deixou alguns explosivos nesta caixa. Vamos minar a aproximação da ponte com minas antitanque."
+msgstr "Os alemães deixaram alguns explosivos nesta caixa. Vamos colocar minas antitanque no acesso à ponte."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator07"
 msgid "Jerry has the frontal approaches covered. Let's push farther south along the path and hit them from the flank!"
-msgstr "O Jerry tem as abordagens frontais cobertas. Vamos avançar mais ao sul pelo caminho e atacá-los pelo flanco!"
+msgstr "Os alemães mantêm os acessos frontais sob a mira de suas armas. Vamos avançar mais ao sul pelo caminho e atacá-los pelo flanco!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator08"
 msgid "We now have a 57mm AT-Gun. Let's position it with a good view of the road."
@@ -78,11 +78,11 @@ msgstr "Lá vêm eles!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator12"
 msgid "Enemy artillery incoming! Take cover!"
-msgstr "Artilharia inimiga chegando! Cubra-se!"
+msgstr "Bombardeio de artilharia inimiga! Abriguem-se!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator13"
 msgid "They've got us zeroed! Spread it out!"
-msgstr "Eles nos têm como alvo! Espalhem!"
+msgstr "Eles ajustaram a mira em nós! Espalhem-se!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator14"
 msgid "They're retreating!"
@@ -110,7 +110,7 @@ msgstr "Ele não vai a lugar nenhum!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2"
 msgid "Look what we found, Jerry’s radio! Time to call for some backup!"
-msgstr "Olhem o que encontramos, o rádio do Jerry! Hora de pedir alguns reforços!"
+msgstr "Olhem o que encontramos: um rádio dos alemães! Hora de pedir reforços!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_secret2a"
 msgid "About time you showed up! We’re in the thick of it!"

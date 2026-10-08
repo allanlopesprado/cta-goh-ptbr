@@ -22,7 +22,7 @@ msgstr "<f(anka)s(12)x.>MG Coaxial"
 
 msgctxt "desc/weapon/type/hull"
 msgid "<f(anka)s(12)x.>Hull MG"
-msgstr "<f(anka)s(12)x.>MG de Casco"
+msgstr "<f(anka)s(12)x.>MG do Casco"
 
 msgctxt "desc/weapon/type/rear"
 msgid "<f(anka)s(12)x.>Rear MG"
@@ -34,7 +34,7 @@ msgstr "<f(anka)s(12)x.>MG Antiaérea"
 
 msgctxt "desc/weapon/type/secondary_flamer"
 msgid "<f(anka)s(12)x.>Hull Flamethrower"
-msgstr "<f(anka)s(12)x.>Lança-chamas de Casco"
+msgstr "<f(anka)s(12)x.>Lança-chamas do Casco"
 
 msgctxt "desc/weapon/type/coaxial_flamer"
 msgid "<f(anka)s(12)x.>Coaxial Flamethrower"
@@ -42,19 +42,19 @@ msgstr "<f(anka)s(12)x.>Lança-chamas Coaxial"
 
 msgctxt "desc/weapon/type/mgun_turret_left"
 msgid "<f(anka)s(12)x.>Left Turret MG"
-msgstr "<f(anka)s(12)x.>MG Torreta Esquerda"
+msgstr "<f(anka)s(12)x.>MG da Torreta Esquerda"
 
 msgctxt "desc/weapon/type/mgun_turret_right"
 msgid "<f(anka)s(12)x.>Right Turret MG"
-msgstr "<f(anka)s(12)x.>MG Torreta Direita"
+msgstr "<f(anka)s(12)x.>MG da Torreta Direita"
 
 msgctxt "desc/weapon/type/mgun_turret_rear_left"
 msgid "<f(anka)s(12)x.>Left Rear Turret MG"
-msgstr "<f(anka)s(12)x.>MG Torreta Traseira Esquerda"
+msgstr "<f(anka)s(12)x.>MG da Torreta Traseira Esquerda"
 
 msgctxt "desc/weapon/type/mgun_turret_rear_right"
 msgid "<f(anka)s(12)x.>Right Rear Turret MG"
-msgstr "<f(anka)s(12)x.>MG Torreta Traseira Direita"
+msgstr "<f(anka)s(12)x.>MG da Torreta Traseira Direita"
 
 msgctxt "desc/weapon/type/commander"
 msgid "<f(anka)s(12)x.>Commander"
@@ -90,7 +90,7 @@ msgstr ""
 
 msgctxt "desc/weapon/type/cupola"
 msgid "<f(anka)s(12)x.>Cupola MG"
-msgstr "<f(anka)s(12)x.>MG de Cúpula"
+msgstr "<f(anka)s(12)x.>MG da Cúpula"
 
 msgctxt "desc/weapon/type/left"
 msgid "<f(anka)s(12)x.>Left MG"

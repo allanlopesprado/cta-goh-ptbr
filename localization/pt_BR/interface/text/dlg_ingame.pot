@@ -39,7 +39,7 @@ msgstr "Tipo de Projétil Bloqueado"
 
 msgctxt "actionbar/ammo/unlock_ammo/usage"
 msgid "Unit is locked to current cannon shell type until unlocked or out of current type of ammo"
-msgstr "A unidade está bloqueada no tipo de projétil atual até ser desbloqueada ou ficar sem munição"
+msgstr "A unidade está bloqueada no tipo de projétil atual até ser desbloqueada ou ficar sem munição desse tipo."
 
 msgctxt "actionbar/engine_toggle"
 msgid "Toggle Engine on/off"
@@ -473,7 +473,7 @@ msgstr "<f(pobeda)s(27)b+c(222 222 222)e(shadow)>Objetivo concluído"
 
 msgctxt "actionbar/back_fire"
 msgid "Return fire"
-msgstr "Retornar fogo"
+msgstr "Responder ao fogo"
 
 msgctxt "actionbar/hold_position"
 msgid "Hold position"
@@ -939,11 +939,11 @@ msgstr "<c(ff8c00)>Canhão Avariado"
 
 msgctxt "component/gun_jammed"
 msgid "<c(f3ff00)>Gun Elevation Jam"
-msgstr "<c(f3ff00)>Trava de Elevação do Canhão"
+msgstr "<c(f3ff00)>Elevação do Canhão Travada"
 
 msgctxt "component/turret_broken"
 msgid "<c(ff8c00)>Turret Broken"
-msgstr "<c(ff8c00)>Torrreta Avariada"
+msgstr "<c(ff8c00)>Torreta Avariada"
 
 msgctxt "component/body_break"
 msgid "<c(ff8c00)>Hull Broken"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 msgctxt "actionbar/fire/back/action"
 msgid "Return fire"
-msgstr "Retornar fogo"
+msgstr "Responder ao fogo"
 
 msgctxt "actionbar/message_history"
 msgid "Message history"
@@ -1122,7 +1122,7 @@ msgstr "<f(anka)s(18)c(edd28c)e(shadow)y(15)>%1%"
 
 msgctxt "actionbar/fire/free/usage"
 msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
-msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+msgstr "Clique para alternar entre os modos de fogo: Cessar fogo, Responder ao fogo e Fogo à vontade."
 
 msgctxt "actionbar/map_control/opacity"
 msgid "Transparency"
@@ -1238,7 +1238,7 @@ msgstr "nível 2"
 
 msgctxt "actionbar/fire/hold/usage"
 msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
-msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+msgstr "Clique para alternar entre os modos de fogo: Cessar fogo, Responder ao fogo e Fogo à vontade."
 
 msgctxt "actionbar/highlight/stuff"
 msgid "Highlight Items"
@@ -1342,7 +1342,7 @@ msgstr "<f(pobeda)s(27)e(shadow)b+c(%1%)>%2%% Eficiência"
 
 msgctxt "actionbar/fire/back/usage"
 msgid "Click this button to switch between firing modes: Hold fire, Return fire, and Fire at will."
-msgstr "Clique para alternar entre modos de fogo: Cessar fogo, Retornar fogo e Fogo à vontade."
+msgstr "Clique para alternar entre os modos de fogo: Cessar fogo, Responder ao fogo e Fogo à vontade."
 
 msgctxt "replay/current_player"
 msgid "<e(shadow)>Currently watching: %1%"
@@ -1362,7 +1362,7 @@ msgstr ""
 
 msgctxt "hints/vehicle_not_working"
 msgid "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>Vehicle is immobile. Turn the engine on, repair or refuel the vehicle!"
-msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está inoperante. Ligue o motor, repare ou reabasteça o veículo!"
+msgstr "<f(roboto_mono)s(16)c(FFFFFF)e(shadow)>O veículo está imobilizado. Ligue o motor, repare ou reabasteça o veículo!"
 
 msgctxt "actionbar/move/usage"
 msgid ""
@@ -1488,7 +1488,7 @@ msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Dano do Motor: %2%/%3%"
 
 msgctxt "vehicle_view/turret"
 msgid "<f(arial_hq)s(10)e(shadow)c(%1%)>Turret Armor: %2%/%3%"
-msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Blindagem da Torrreta: %2%/%3%"
+msgstr "<f(arial_hq)s(10)e(shadow)c(%1%)>Blindagem da Torreta: %2%/%3%"
 
 msgctxt "humanbar/veterancy/level"
 msgid "<s(12)c(207 133 64)p(0)x.>lvl %d"
@@ -1556,7 +1556,7 @@ msgstr "<s(21)>%s"
 
 msgctxt "actionbar/hatch_state/open/usage"
 msgid "Open the top hatch to allow units to mount an exposed secondary weapon."
-msgstr "Abrir a escotilha superior para permitir que unidades montem uma arma secundária exposta."
+msgstr "Abrir a escotilha superior para permitir que unidades operem uma arma secundária exposta."
 
 msgctxt "actionbar/chat"
 msgid "Chat"
@@ -1660,7 +1660,7 @@ msgstr "Fechar Escotilha"
 
 msgctxt "actionbar/hatch_state/close/usage"
 msgid "Close the top hatch to prevent units to mount an exposed secondary weapon."
-msgstr "Fechar a escotilha superior para impedir que unidades montem uma arma secundária exposta."
+msgstr "Fechar a escotilha superior para impedir que unidades operem uma arma secundária exposta."
 
 msgctxt "crewbar/driver"
 msgid "<f(roboto_mono)>Driver"
@@ -2294,7 +2294,7 @@ msgstr "Construir ponto de reunião médico"
 
 msgctxt "actionbar/medic_rally/usage"
 msgid "Medical Rally points resupply healing equipment. After clicking this button, click on the map to define the position and orientation for placing the rally."
-msgstr "Pontos de reunião médico reabastecem equipamentos de cura. Após clicar, clique no mapa para definir a posição."
+msgstr "Pontos de reunião médicos reabastecem equipamentos de cura. Após clicar neste botão, clique no mapa para definir a posição e a orientação do ponto."
 
 msgctxt "actionbar/vehicle_body"
 msgid "Hull armor"
@@ -2314,11 +2314,11 @@ msgstr "Dano do motor"
 
 msgctxt "actionbar/vehicle_turret"
 msgid "Turret armor"
-msgstr "Blindagem da torrreta"
+msgstr "Blindagem da torreta"
 
 msgctxt "actionbar/vehicle_turret_broken"
 msgid "Turret damage"
-msgstr "Dano da torrreta"
+msgstr "Dano da torreta"
 
 msgctxt "actionbar/barricade_sq"
 msgid "Place small barricade"
@@ -2338,7 +2338,7 @@ msgstr "Blindagem do Casco"
 
 msgctxt "entity_info/armor_turret"
 msgid "Turret Armor"
-msgstr "Blindagem da Torrreta"
+msgstr "Blindagem da Torreta"
 
 msgctxt "entity_info/armor_shield"
 msgid "Extra Armor"
@@ -2358,7 +2358,7 @@ msgstr "Recrutar Soldados"
 
 msgctxt "actionbar/call_ally/usage"
 msgid "Recruit nearby AI soldiers into your command"
-msgstr "Recrutar soldados AI próximos para seu comando"
+msgstr "Recrutar soldados da IA próximos para seu comando"
 
 msgctxt "actionbar/suppression_fire"
 msgid "Suppression Fire"
@@ -2366,7 +2366,7 @@ msgstr "Fogo de Supressão"
 
 msgctxt "actionbar/suppression_fire/usage"
 msgid "Unleash intense firepower at the overall vicinity of a designated target or location for 60 seconds."
-msgstr "Desencadeie poder de fogo intenso na área de um alvo designado por 60 segundos."
+msgstr "Desencadeie fogo intenso na área ao redor de um alvo ou local designado por 60 segundos."
 
 msgctxt "actionbar/mortar_pit"
 msgid "Place mortar trench"

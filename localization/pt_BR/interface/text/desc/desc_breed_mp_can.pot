@@ -27,7 +27,7 @@ msgstr "Artilheiro Real [CA]"
 
 msgctxt "desc/human/mp/can/late/bat_2ic"
 msgid "Battalion 2IC [CA]"
-msgstr "2º Comandante do Batalhão [CA]"
+msgstr "Subcomandante do Batalhão [CA]"
 
 msgctxt "desc/human/mp/can/late/bat_com"
 msgid "Battalion Commander [CA]"
@@ -47,7 +47,7 @@ msgstr "Ordenança [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_2ic"
 msgid "Company 2IC [CA]"
-msgstr "2º Comandante da Companhia [CA]"
+msgstr "Subcomandante da Companhia [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_com"
 msgid "Company Commander [CA]"
@@ -91,7 +91,7 @@ msgstr "Defesa Atirador [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_2ic"
 msgid "Defense Section 2IC [CA]"
-msgstr "Defesa 2º Comandante de Seção [CA]"
+msgstr "Subcomandante de Seção de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_com"
 msgid "Defense Section Commander [CA]"
@@ -135,15 +135,15 @@ msgstr "Operador Motorizado de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_mg_asst"
 msgid "Motor MG Asst. [CA]"
-msgstr "Auxiliar Motorizado. de MG [CA]"
+msgstr "Auxiliar Motorizado de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_piat"
 msgid "Motor AT Inf. [CA]"
-msgstr "Inf. Motorizada. AT [CA]"
+msgstr "Inf. Motorizada AT [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_piat_asst"
 msgid "Motor AT Asst. [CA]"
-msgstr "Auxiliar Motorizado. AT [CA]"
+msgstr "Auxiliar Motorizado AT [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_rifle"
 msgid "Motor Rifleman [CA]"
@@ -187,7 +187,7 @@ msgstr "Comandante de Seção Batedora Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_sec_2ic"
 msgid "Motor Section 2IC [CA]"
-msgstr "2º Comandante de Seção Motorizada [CA]"
+msgstr "Subcomandante de Seção Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_sec_com"
 msgid "Motor Section Commander [CA]"
@@ -195,99 +195,99 @@ msgstr "Comandante de Seção Motorizada [CA]"
 
 msgctxt "desc/human/mp/can/late/para_batman"
 msgid "1st Parachute Batman [CA]"
-msgstr "Ordenança 1º Paraquedista [CA]"
+msgstr "Ordenança do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_2ic"
 msgid "1st Parachute Company 2IC [CA]"
-msgstr "2º Comandante da 1ª Companhia Paraquedista [CA]"
+msgstr "Subcomandante de Companhia do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_com"
 msgid "1st Parachute Company Commander [CA]"
-msgstr "Comandante da 1ª Companhia Paraquedista [CA]"
+msgstr "Comandante de Companhia do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_coy_sgt_maj"
 msgid "1st Parachute Company Sergeant Major [CA]"
-msgstr "Sargento-Mor da 1ª Companhia Paraquedista [CA]"
+msgstr "Sergeant Major de Companhia do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_crew"
 msgid "1st Parachute Crew [CA]"
-msgstr "Tripulação 1º Paraquedista [CA]"
+msgstr "Tripulação do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_medic"
 msgid "1st Parachute Medic [CA]"
-msgstr "Médico 1º Paraquedista [CA]"
+msgstr "Médico do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg"
 msgid "1st Parachute MG Operator [CA]"
-msgstr "Operador de MG 1º Paraquedista [CA]"
+msgstr "Operador de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora 1º Paraquedista [CA]"
+msgstr "Auxiliar de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst_smg"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora 1º Paraquedista [CA]"
+msgstr "Auxiliar de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mortar"
 msgid "1st Parachute Mortarman [CA]"
-msgstr "Morteirista 1º Paraquedista [CA]"
+msgstr "Morteirista do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mortar_asst"
 msgid "1st Parachute Mortar Asst. [CA]"
-msgstr "Auxiliar de Morteiro 1º Paraquedista [CA]"
+msgstr "Auxiliar de Morteiro do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_piat"
 msgid "1st Parachute AT Inf. [CA]"
-msgstr "Inf. AT 1º Paraquedista [CA]"
+msgstr "Infantaria Antitanque do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_piat_asst"
 msgid "1st Parachute AT Asst. [CA]"
-msgstr "Auxiliar Antitanque 1º Paraquedista [CA]"
+msgstr "Auxiliar Antitanque do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_plt_com"
 msgid "1st Parachute Platoon Commander [CA]"
-msgstr "Comandante de Pelotão 1º Paraquedista [CA]"
+msgstr "Comandante de Pelotão do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_plt_sgt"
 msgid "1st Parachute Platoon Sergeant [CA]"
-msgstr "Sargento de Pelotão 1º Paraquedista [CA]"
+msgstr "Sargento de Pelotão do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_rifle"
 msgid "1st Parachute Rifleman [CA]"
-msgstr "Atirador 1º Paraquedista [CA]"
+msgstr "Atirador do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_rifle_band"
 msgid "1st Parachute Rifleman [CA]"
-msgstr "Atirador 1º Paraquedista [CA]"
+msgstr "Atirador do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_2ic"
 msgid "1st Parachute Section 2IC [CA]"
-msgstr "2º Comandante de Seção 1º Paraquedista [CA]"
+msgstr "Subcomandante de Seção do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_com"
 msgid "1st Parachute Section Commander [CA]"
-msgstr "Comandante de Seção 1º Paraquedista [CA]"
+msgstr "Comandante de Seção do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_com_cpl"
 msgid "1st Parachute Section Commander [CA]"
-msgstr "Comandante de Seção 1º Paraquedista [CA]"
+msgstr "Comandante de Seção do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sec_mortar"
 msgid "1st Parachute Section Mortarman [CA]"
-msgstr "Morteirista de Seção 1º Paraquedista [CA]"
+msgstr "Morteirista de Seção do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_smg"
 msgid "1st Parachute SMG Inf. [CA]"
-msgstr "Inf. SMG 1º Paraquedista [CA]"
+msgstr "Infantaria com Submetralhadora do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_smg_band"
 msgid "1st Parachute SMG Inf. [CA]"
-msgstr "Inf. SMG 1º Paraquedista [CA]"
+msgstr "Infantaria com Submetralhadora do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_sniper"
 msgid "1st Parachute Sniper [CA]"
-msgstr "Franco-atirador 1º Paraquedista [CA]"
+msgstr "Franco-atirador do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/pio"
 msgid "Pioneer [CA]"
@@ -347,7 +347,7 @@ msgstr "Franco-atirador [CA]"
 
 msgctxt "desc/human/mp/can/late/sec_2ic"
 msgid "Section 2IC [CA]"
-msgstr "2º Comandante de Seção [CA]"
+msgstr "Subcomandante de Seção [CA]"
 
 msgctxt "desc/human/mp/can/late/sec_com"
 msgid "Section Commander [CA]"

@@ -94,7 +94,7 @@ msgstr "Gebirgsjager"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/squad_border_jag"
 msgid "Border Jaeger Sq"
-msgstr "Esq. Jäger de Fronteira"
+msgstr "Esq. Jaeger de Fronteira"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/squad_engineer"
 msgid "Engineer squad"
@@ -106,7 +106,7 @@ msgstr "Esquadra Reservista"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/squad_jaeger"
 msgid "Jaeger Squad"
-msgstr "Esquadra Jäger"
+msgstr "Esquadra Jaeger"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ger_squad"
 msgid "German Infantry"
@@ -114,7 +114,7 @@ msgstr "Infantaria Alemã"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/jaeger_lmg"
 msgid "Jaeger LMG squad"
-msgstr "Esquadra LMG Jäger"
+msgstr "Esquadra LMG Jaeger"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/jaeger_ger_sq"
 msgid "Jaeger German Sq"
@@ -138,7 +138,7 @@ msgstr "Sd.Kfz 10/4 (2cm)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/squad_sissi"
 msgid "Sissi commandos"
-msgstr "Sissi comandos"
+msgstr "Comandos Sissi"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/crew"
 msgid "Tank crew"
@@ -194,7 +194,7 @@ msgstr "76 RK/27"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ds39_stand_fin"
 msgid "DS-39/VKT Stand"
-msgstr "DS-39/VKT Stand"
+msgstr "DS-39/VKT (suporte)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/20mm_itk35"
 msgid "20 ItK/35 Breda"
@@ -278,7 +278,7 @@ msgstr "203 H/17"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin"
 msgid "Stu 40 G (Late)"
-msgstr "Stu 40 G (Late)"
+msgstr "Stu 40 G (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ba10_fin"
 msgid "BAF C"
@@ -418,7 +418,7 @@ msgstr "Pz II Ausf.C"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/88mm_flak18_tow"
 msgid "8.8cm FlaK18(tow)"
-msgstr "8.8cm FlaK18(tow)"
+msgstr "8.8cm FlaK18 (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/105mm_lefh18"
 msgid "10.5cm LeFH 18"
@@ -550,11 +550,11 @@ msgstr "76 ItK/31(Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_late"
 msgid "76 K/02 (Late)"
-msgstr "76 K/02 (Late)"
+msgstr "76 K/02 (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32_mid"
 msgid "45 PstK/32 (Mid)"
-msgstr "45 PstK/32 (Mid)"
+msgstr "45 PstK/32 (intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ba10m_fin"
 msgid "BAF C"
@@ -562,27 +562,27 @@ msgstr "BAF C"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t26_33_fin_mid"
 msgid "T-26B (Mid)"
-msgstr "T-26B (Mid)"
+msgstr "T-26B (intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t26e_mid"
 msgid "T-26E (Mid)"
-msgstr "T-26E (Mid)"
+msgstr "T-26E (intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t28e_fin_late"
 msgid "T-28E (Late)"
-msgstr "T-28E (Late)"
+msgstr "T-28E (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t3476_41_fin_late"
 msgid "T-34B (Late)"
-msgstr "T-34B (Late)"
+msgstr "T-34B (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/kv1_40e_fin_late"
 msgid "KV-1B (Late)"
-msgstr "KV-1B (Late)"
+msgstr "KV-1B (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/kv1_42_fin_late"
 msgid "KV-1A (Late)"
-msgstr "KV-1A (Late)"
+msgstr "KV-1A (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin_early"
 msgid "Stu 40 G"

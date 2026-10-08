@@ -114,11 +114,11 @@ msgstr "Parece o QG alemão! Devemos verificar se há rádios e destruí-los."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/08"
 msgid "Ah! We've found Jerry's vehicle depot. I bet we can blow it to smithereens!"
-msgstr "Ah! Encontramos o depósito de veículos do Jerry. Aposto que podemos explodir tudo!"
+msgstr "Ah! Encontramos o depósito de veículos dos alemães. Aposto que podemos explodir tudo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy01"
 msgid "The town is now fully under control, but Jerry is sure to counterattack."
-msgstr "A cidade está agora totalmente sob controle, mas o Jerry certamente vai contra-atacar."
+msgstr "A cidade está agora totalmente sob controle, mas os alemães certamente vão contra-atacar."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/narrator/convoy02"
 msgid "The enemy counterattack will soon be gathering from different directions, as indicated on your map. You must ambush it and eliminate all enemy troops before they can deploy!"
@@ -158,7 +158,7 @@ msgstr "Ótimo! Todos os canhões antiaéreos estão silenciados!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/convoy"
 msgid "Jerry is here! Let's give them a warm welcome. All The Way!"
-msgstr "O Jerry está aqui! Vamos dar-lhes uma calorosa recepção. All The Way!"
+msgstr "Os alemães chegaram! Vamos dar-lhes uma calorosa recepção. All The Way!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/firstgundestroyed"
 msgid "First flak destroyed!"
@@ -178,7 +178,7 @@ msgstr "Mais um canhão antiaéreo destruído!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/officerfind"
 msgid "I saw other men from my 'Stick' drop northwest of the church. I gotta make my way there and find them!"
-msgstr "Vi outros homens do meu 'Stick' pousando a noroeste da igreja. Preciso chegar lá e encontrá-los!"
+msgstr "Vi outros homens do meu grupo de salto ('Stick') pousando a noroeste da igreja. Preciso chegar lá e encontrá-los!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/player/reinf_at"
 msgid "Reinforcements, finally! We sure could use the help!"

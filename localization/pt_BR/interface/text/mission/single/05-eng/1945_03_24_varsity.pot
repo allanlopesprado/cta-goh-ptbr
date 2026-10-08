@@ -14,15 +14,15 @@ msgstr ""
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/name"
 msgid "The Liberation of the Old"
-msgstr "A Libertação dos Antigos"
+msgstr "A Libertação da Velha Guarda"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/name_big"
 msgid "The Liberation of the Old"
-msgstr "A Libertação dos Antigos"
+msgstr "A Libertação da Velha Guarda"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/story"
 msgid "Today, the largest airborne operation in military history takes place. Nearly 17.000 airborne troops will be dropped East of the river Rhine in Germany.\n\nYou have just landed behind enemy defenses in front of Wesel, with orders to secure the area in support of the planned Rhine crossing. The crossing is to take place in three different locations today; you will interfere with any enemy activity in the Wesel area, to prevent enemy attacks on the crossings.\n\nYour unit, the 6th Airborne Division, will be in the very first wave. Your orders are to secure the nearby train station and to clear the way for the next wave."
-msgstr "Hoje ocorre a maior operação aerotransportada da história militar. Quase 17.000 soldados aerotransportados serão lançados a leste do Rio Reno, na Alemanha — uma força maciça destinada a cruzar o rio em massa e abrir o caminho para o interior alemão.\n\nVocê pousou de planador perto de Hamminkeln com sua seção. Imediatamente ao pousar, aeronave inimiga e fogo de infantaria atingiram o planador, matando o piloto e ferindo vários de seus homens.\n\nO Capitão Rowse perdeu contato com o restante da companhia. Você precisa romper o contra-ataque alemão e encontrar seus aliados."
+msgstr "Hoje ocorre a maior operação aerotransportada da história militar. Quase 17.000 soldados aerotransportados serão lançados a leste do rio Reno, na Alemanha.\n\nVocê acaba de pousar atrás das defesas inimigas, diante de Wesel, com ordens de assegurar a área em apoio à travessia planejada do Reno. A travessia ocorrerá hoje em três locais diferentes; você deverá impedir a atividade inimiga na área de Wesel para evitar ataques às travessias.\n\nSua unidade, a 6ª Divisão Aerotransportada, estará na primeira onda. Suas ordens são assegurar a estação ferroviária próxima e abrir caminho para a próxima onda."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/date"
 msgid "March 24th, 1945 · Near Hamminkeln, Germany"
@@ -34,11 +34,11 @@ msgstr "6ª Divisão Aerotransportada"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/outro_completed"
 msgid "We have restored our reputation, and the operation to cross the Rhine is a huge success. Let’s see Jerry deal with this blow! \n\nThank you for playing the \"Finest Hour\" campaign!"
-msgstr "Restauramos nossa reputação, e a operação de travessia do Reno é um enorme sucesso. Vamos ver Jerry lidar com este golpe! \n\nObrigado por jogar a campanha \"Finest Hour\"!"
+msgstr "Restauramos nossa reputação, e a operação de travessia do Reno é um enorme sucesso. Vamos ver os alemães lidarem com este golpe! \n\nObrigado por jogar a campanha \"Finest Hour\"!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/outro_failed"
 msgid "My word, that was not at all as expected. We should have held the enemy away from the river crossings; but because we failed, those will probably turn into a bloodbath.Regroup and try again!"
-msgstr "Minha nossa, isso não foi nada como esperávamos. Deveríamos ter mantido o inimigo afastado das travessias do rio; mas porque falhamos nisso, o avanço sofreu um enorme revés. Descuidado e imperdoável."
+msgstr "Minha nossa, isso não foi nada como esperávamos. Deveríamos ter mantido o inimigo afastado das travessias do rio, mas, como falhamos, elas provavelmente se tornarão um banho de sangue. Reagrupe-se e tente novamente!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_01"
 msgid "Captain, are you alive?!"
@@ -50,7 +50,7 @@ msgstr "Levante-se, Sam, estão avançando!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_03"
 msgid "Hold your ground!"
-msgstr "Firme!"
+msgstr "Mantenham suas posições!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_04"
 msgid "Ammo running low… We won’t be holding this junkyard here for long."
@@ -58,15 +58,15 @@ msgstr "Munição acabando... Não vamos manter este ferro-velho por muito tempo
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_05"
 msgid "A Jerry’s tank incoming! Bloody hell… We don’t have PIATs, do we?"
-msgstr "Um tanque Jerry se aproximando! Maldição... Não temos PIATs, temos?"
+msgstr "Um tanque alemão se aproximando! Maldição... Não temos PIATs, temos?"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_06"
 msgid "Our little Locust has arrived to support us! Just in time. Keep holding the ground! Crew, destroy this tank!"
-msgstr "Nosso pequeno Locust chegou para nos apoiar! Bem a tempo. Continue firme! Tripulação, destrua este tanque!"
+msgstr "Nosso pequeno Locust chegou para nos apoiar! Bem a tempo. Continuem mantendo a posição! Tripulação, destrua este tanque!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_07"
 msgid "Nice hit! Come on, Jerry, we have plenty of shells for all of you!"
-msgstr "Ótimo tiro! Pode vir mais, Jerry; temos projéteis de sobra para todos vocês!"
+msgstr "Ótimo tiro! Venham, alemães, temos projéteis de sobra para todos vocês!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_08"
 msgid "Alright, we’re good for now. Let’s check where we are on the map…"
@@ -78,7 +78,7 @@ msgstr "O que diabos o enfermeiro está fazendo? Vá ajudar nossos feridos — e
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_wounded_02"
 msgid "For God’s sake, don’t be like a shy nurse! Tend to the wounded! They won’t hold for long!"
-msgstr "Pelo amor de Deus, não seja tímido! Cuide dos feridos! Eles não aguentam por muito mais!"
+msgstr "Pelo amor de Deus, não aja como uma enfermeira tímida! Cuide dos feridos! Eles não vão aguentar por muito tempo!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_wounded_03"
 msgid "Good, now back to fighting! There should be some crates near the glider, top up your ammo!"
@@ -90,15 +90,15 @@ msgstr "Pelo amor de Cristo, poderíamos tê-los salvado!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part01_pl_armor_destroyed"
 msgid "They’ve destroyed our Locust! I reckon it’s just us now against Jerry."
-msgstr "Eles destruíram nosso Locust! Acho que agora somos só nós contra Jerry."
+msgstr "Eles destruíram nosso Locust! Acho que agora somos só nós contra os alemães."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_01"
 msgid "Believe it or not, this is the first time our pilots skipped on the ale and they dropped us exactly on target. We have to destroy Jerry's anti-air and secure the nearby rail station."
-msgstr "Acredite se quiser, é a primeira vez que nossos pilotos deixaram a cerveja de lado e nos lançaram exatamente no alvo. Temos de neutralizar a antiaérea Jerry e tomar a estação ferroviária próxima."
+msgstr "Acredite se quiser, é a primeira vez que nossos pilotos deixaram a cerveja de lado e nos lançaram exatamente no alvo. Temos de destruir as defesas antiaéreas alemãs e assegurar a estação ferroviária próxima."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_02"
 msgid "Right in front of us there is a first anti-air position. Knocking it out will save our gliders so they can drop us some toys. Makes sense to take it out first."
-msgstr "Bem à nossa frente está a primeira posição antiaérea. Destruí-la vai salvar nossos planadores para que possam nos trazer mais reforços."
+msgstr "Bem à nossa frente está a primeira posição antiaérea. Neutralizá-la vai salvar nossos planadores, para que possam trazer alguns brinquedos para nós. Faz sentido eliminá-la primeiro."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_03"
 msgid "If the maps are still up to date, there should be more ack-ack guns at the railway station. You know the drill, lads."
@@ -110,11 +110,11 @@ msgstr "Outra companhia pousou a oeste de nós. Eles vão apoiar nossa pequena o
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_05"
 msgid "Those signs slightly concern me. Good thing we have mine detectors in the supply box at the glider, making it walk in the park. Defusing will take a lot of time, though."
-msgstr "Aqueles sinais me preocupam um pouco. Ainda bem que temos detectores de minas no caixote de suprimentos do planador, tornando a caminhada mais segura."
+msgstr "Aquelas placas me preocupam um pouco. Ainda bem que temos detectores de minas no caixote de suprimentos do planador, o que facilita muito as coisas. Desarmar as minas vai levar bastante tempo, porém."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_06"
 msgid "Hold fire, hold your damn fire! They’re surrendering!"
-msgstr "Suspendam o fogo, suspendo o maldito fogo! Eles estão se rendendo!"
+msgstr "Suspendam o fogo, suspendam o maldito fogo! Eles estão se rendendo!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_gun_destroyed_01"
 msgid "One gun down! Let’s get on to the other one!"
@@ -134,7 +134,7 @@ msgstr "Olha isso — aquele caça-tanque ainda deve estar funcionando. Mas como
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_crewed_locomotive"
 msgid "Did I ever tell you that it was my dream to become a train driver? Well, because it wasn’t. Still can't believe some people like them and not get bored."
-msgstr "Alguém já me contou que era meu sonho me tornar maquinista? Bem, porque não era. Ainda não consigo acreditar que alguém com juízo faria isso de propósito."
+msgstr "Eu já contei que meu sonho era ser maquinista? Pois não era. Ainda não acredito que tem gente que gosta de trens e não fica entediada."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_linked_wagon"
 msgid "I better get promoted for this…"
@@ -142,7 +142,7 @@ msgstr "É melhor eu ganhar uma promoção por isso..."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_crewed_secret"
 msgid "Blimey, this thing is pristine! Well, beside the gun but it’s negotiable with a good repair kit."
-msgstr "Blimey, esta máquina está impecável! Bem, exceto pelo canhão, mas isso é negociável com um bom kit de reparo."
+msgstr "Blimey, esta máquina está impecável! Bem, exceto pelo canhão, mas isso se resolve com um bom kit de reparo."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_01"
 msgid "You know, I sort of envy them."
@@ -158,11 +158,11 @@ msgstr "Esses alemães. As chances deles de chegar em casa vivos são maiores qu
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_04"
 msgid "Look at this boy… I wouldn’t give him 16. At his age, I used to shoot a slingshot at abandoned buildings windows and run away from the coppers… This poor kid was running around with a damn rifle a half hour ago… What is the world coming to?.."
-msgstr "Olha esse menino... Não daria 16 anos. Na minha época, eu atirava estilingue nas janelas de edifícios abandonados e saía correndo..."
+msgstr "Olha esse menino... Não daria 16 anos para ele. Na idade dele, eu atirava com estilingue nas janelas de prédios abandonados e fugia da polícia... Esse pobre garoto estava correndo por aí com um maldito fuzil há meia hora... Onde este mundo vai parar?.."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_05"
 msgid "At your age? Do you mean the period between the Roman Empire and the Hundred Years' War?"
-msgstr "Na sua época? Você quer dizer o período entre o Império Romano e a Guerra dos Cem Anos?"
+msgstr "Na sua idade? Você quer dizer o período entre o Império Romano e a Guerra dos Cem Anos?"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_06"
 msgid "Knock it off, will ya? I’m not that old actually. Turned 32 recently. This morning, more specifically."
@@ -178,11 +178,11 @@ msgstr "Obrigado, camarada."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_09"
 msgid "Captain, we just got a message from the US 17th! They’ve managed to secure the bridge but Jerry is pushing ‘em very hard. They’re requesting assistance from us."
-msgstr "Capitão, acabamos de receber uma mensagem do 17º americano! Conseguiram assegurar a ponte, mas Jerry está pressionando muito forte..."
+msgstr "Capitão, acabamos de receber uma mensagem da 17ª Divisão Aerotransportada dos EUA! Conseguiram assegurar a ponte, mas os alemães estão pressionando muito. Estão pedindo nossa ajuda."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_10"
 msgid "Alright lads, the celebration is postponed. Sergeant Shelton, you stay here and make sure not a single Jerry holding a weapon comes close to the railway station. Try to find something to drink while we’re away. I’ll take the second platoon and move towards the Yankee positions."
-msgstr "Certo, rapazes, a comemoração está adiada. Sargento Shelton, você fica aqui e certifique-se de que nenhum Jerry com uma arma saberá o caminho de volta. Entendido?"
+msgstr "Certo, rapazes, a comemoração está adiada. Sargento Shelton, você fica aqui e garante que nenhum alemão armado se aproxime da estação ferroviária. Tente encontrar algo para beber enquanto estivermos fora. Vou levar o segundo pelotão até as posições americanas."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/pause_11"
 msgid "Got it, Sir. Good luck. See you on the other side."
@@ -190,11 +190,11 @@ msgstr "Entendido, senhor. Boa sorte. Nos vemos do outro lado."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part03_01"
 msgid "The Yanks have managed to capture the bridge on the Issel river but Jerry is counterattacking. We need to support the GIs quickly."
-msgstr "Os americanos conseguiram capturar a ponte no Rio Issel, mas Jerry está contra-atacando. Precisamos apoiar os GIs."
+msgstr "Os americanos conseguiram capturar a ponte sobre o rio Issel, mas os alemães estão contra-atacando. Precisamos apoiar os soldados americanos depressa."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part03_02"
 msgid "Spread out and watch the flanks! Our ground forces should be here soon. Hold your ground!"
-msgstr "Espalhlem-se e vigiem os flancos! Nossas forças terrestres devem chegar em breve. Firme!"
+msgstr "Espalhem-se e vigiem os flancos! Nossas forças terrestres devem chegar em breve. Mantenham suas posições!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part03_03"
 msgid "They are not as cooperative as the ones at the railway station, ha?"
@@ -246,7 +246,7 @@ msgstr "Pelo amor de Deus, se você fizer essa porcaria de novo, vou te deixar a
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/tankman_05"
 msgid "Oi, hello my dear friend, nice to see you. It won’t be long, unfortunately. But we’ll have a very good time together, you have my word. Yeah, I’m coming!"
-msgstr "Oi, olá meu querido amigo, bom ver você. Não será por muito tempo, infelizmente. Mas vamos nos divertir muito juntos, sabia?"
+msgstr "Oi, olá, meu querido amigo, que bom vê-lo. Não será por muito tempo, infelizmente. Mas vamos nos divertir muito juntos, pode acreditar. Sim, já vou!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/tankman_06"
 msgid "Christ alive, what have I done to deserve such punishment? Get rid of that crate and help us, God dammit!"
@@ -258,11 +258,11 @@ msgstr "O motor não pega; preciso que você nos ajude a consertar. Esses pobres
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_02"
 msgid "You lads are mean to me, you know that? I try my best to keep the… What did they call it?.. Ehm… Esprit de corps! Yeah, the esprit de corps thing! I put my heart into this crew so we’re all blythe together."
-msgstr "Vocês são maus comigo, sabia? Faço o meu melhor para manter o... Como chamam isso?.. Ehm... Esprit de corps! Isso, a moral, sabe?"
+msgstr "Vocês são maus comigo, sabia? Faço o meu melhor para manter o... Como chamam isso?.. Ehm... Esprit de corps! Isso, o tal esprit de corps! Eu me dedico de coração a esta tripulação para ficarmos todos felizes juntos."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_03"
 msgid "And nobody has ever appreciated what I do for you, lads. I mean… I’m not the most bonnie lad in the world, so they’ve told me… But… Nobody?"
-msgstr "E ninguém nunca aprecia o que eu faço por vocês, rapazes. Quer dizer... Não sou o rapaz mais bonito do mundo, então eles tiveram de..."
+msgstr "E ninguém nunca deu valor ao que faço por vocês, rapazes. Quer dizer... Não sou o rapaz mais bonito do mundo, pelo que me disseram... Mas... Ninguém?"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_04"
 msgid "Mate, listen… Not a soul has ever had a sip of your booze except yourself."
@@ -282,7 +282,7 @@ msgstr "Certo, rapazes, estamos prontos! Tripulações de tanque, tomem suas pos
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_08"
 msgid "I see enemy armor! 200 yards, north-east! All units, load AP! Drivers, take cover behind the tank wreckages!"
-msgstr "Vejo blindados inimigos! 200 metros, nordeste! Todas as unidades, APCR! Motoristas, cubram-se atrás dos destroços dos tanques!"
+msgstr "Vejo blindados inimigos! 200 jardas, nordeste! Todas as unidades, carreguem munição AP! Motoristas, abriguem-se atrás dos destroços dos tanques!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_09"
 msgid "Targets incoming from the north! Gunner, traverse!"
@@ -302,7 +302,7 @@ msgstr "Mais tanques inimigos do norte — preparem-se!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_13"
 msgid "I think that was the last of them. Brilliant job, gents. Let’s keep moving to the Issel bridge. If someone needs a repair, do it now. There won’t be a way back."
-msgstr "Acho que foi o último deles. Trabalho brilhante, cavalheiros. Vamos seguir em direção à ponte Issel. Se alguém precisar de reparos ou reabastecimento, agora é a hora."
+msgstr "Acho que foi o último deles. Trabalho brilhante, cavalheiros. Vamos continuar até a ponte do Issel. Se alguém precisar de reparos, faça-os agora. Não haverá caminho de volta."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_14"
 msgid "They’re still alive! We should help them!"
@@ -310,11 +310,11 @@ msgstr "Ainda estão vivos! Devemos ajudá-los!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_15"
 msgid "Priority targets to the south-west! Three tigers! Everyone, load APDS!"
-msgstr "Alvos prioritários a sudoeste! Três Tigers! Todos, APDS!"
+msgstr "Alvos prioritários a sudoeste! Três Tigers! Todos, carreguem munição APDS!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_16"
 msgid "Just look who showed up at the last moment! Hold your ground, we’re not falling back!"
-msgstr "Olha quem apareceu no último momento! Firme, não vamos recuar!"
+msgstr "Olha quem apareceu no último momento! Mantenham suas posições, não vamos recuar!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_17"
 msgid "All armoured targets have been destroyed! Brilliant job, gents."
@@ -362,11 +362,11 @@ msgstr "Blimey... Leu a nossa mente, tenente!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_10"
 msgid "Sir, I’ve told you I would share my findings. Let me introduce some of Jerry’s homemade booze to you, lads. Tastes like a cough syrup but still warms you right up."
-msgstr "Senhor, eu disse que compartilharia minhas descobertas. Deixem-me apresentar a bebida caseira dos Jerry, rapazes. Tem gosto de xarope para tosse, mas esquenta pra valer."
+msgstr "Senhor, eu disse que compartilharia minhas descobertas. Deixem-me apresentar a bebida caseira dos alemães, rapazes. Tem gosto de xarope para tosse, mas esquenta pra valer."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_11"
 msgid "Ehm… I beg your pardon?"
-msgstr "Ehm... Peço sua indulgência?"
+msgstr "Ehm... Como disse?"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_12"
 msgid "This is private MacKenzie, we call him just Mac. He is a good bloke from a far northern village. Don’t worry, most of us can’t understand him anyway."
@@ -378,7 +378,7 @@ msgstr "Acho que isso não vai ser um problema. Aposto que todos vamos falar esc
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_14"
 msgid "Alright, let’s find out what that Jerry booze tastes like. Cheers!"
-msgstr "Muito bem, vamos descobrir como é essa cachaça Jerry. Saúde!"
+msgstr "Muito bem, vamos descobrir que gosto tem essa bebida alemã. Saúde!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_15"
 msgid "Cheers, lads!"
@@ -390,7 +390,7 @@ msgstr "Saúde!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/cutscene/outro_17"
 msgid "Bottoms up!"
-msgstr "Até o fundo!"
+msgstr "Virem os copos!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_enemy_destroyed_01"
 msgid "Panzer down! Gunner, service the next target!"
@@ -434,7 +434,7 @@ msgstr "A tripulação de McLeon está fora!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_at_guns"
 msgid "Ambush! AT-guns, 170 yards to the north!"
-msgstr "Emboscada! Canhões AT, 170 metros ao norte!"
+msgstr "Emboscada! Canhões AT, 170 jardas ao norte!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part04_at_inf"
 msgid "Watch out, watch out, AT infantry from the west!"

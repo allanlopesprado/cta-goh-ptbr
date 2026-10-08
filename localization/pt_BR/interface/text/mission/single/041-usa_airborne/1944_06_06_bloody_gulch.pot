@@ -30,11 +30,11 @@ msgstr "Batalha de Bloody Gulch"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator01"
 msgid "Easy Company! Our scouts reported that an enemy formation is coming our way and will be here soon!"
-msgstr "Easy Company! Nossos batedores relataram que uma formação inimiga está vindo em nossa direção e chegará em breve!"
+msgstr "Companhia Easy! Nossos batedores relataram que uma formação inimiga está vindo em nossa direção e chegará em breve!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator03"
 msgid "Take up defensive positions along these hedgerows. Reinforce them if you need to. Use the mines to cover possible enemy approaches."
-msgstr "Assumam posições defensivas ao longo desses bocages. Reforcem se necessário. Usem minas para cobrir possíveis abordagens inimigas."
+msgstr "Assumam posições defensivas ao longo dessas cercas vivas. Reforcem-nas se necessário. Usem minas para cobrir possíveis vias de acesso do inimigo."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator04"
 msgid "Hold your ground and let them come to us. Hang tough, men!"
@@ -50,7 +50,7 @@ msgstr "Terceira esquadra! Rompam a linha alemã, unam-se à equipe de batedores
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator07"
 msgid "Come on, Blithe! Stand up! Get on your feet, soldier! Fire your weapon, Blithe!"
-msgstr "Vamos, Blithe! Levante-se! Ponha-se de pé, soldado! Atire sua arma, Blithe!"
+msgstr "Vamos, Blithe! Levante-se! Ponha-se de pé, soldado! Dispare sua arma, Blithe!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator08"
 msgid "Here they come! Get ready, soldiers!"
@@ -58,7 +58,7 @@ msgstr "Lá vêm eles! Preparem-se, soldados!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator09"
 msgid "Enemy halftracks! Take them out!"
-msgstr "Halftracks inimigos! Destruam-nos!"
+msgstr "Semilagartas inimigos! Destruam-nos!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/narrator10"
 msgid "They are bringing mortars!"
@@ -98,11 +98,11 @@ msgstr "Vocês chegaram bem a tempo. Achei que estávamos perdidos com certeza! 
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_completed"
 msgid "Easy Company successfully repelled the German attack with support from the 2nd Armored Division. With the German attackers routed, the Allies were able to push west and cut off the German forces in the Cotentin Peninsula from German-occupied France."
-msgstr "A Easy Company repeliu com sucesso o ataque alemão com apoio da 2ª Divisão Blindada. Com os atacantes alemães derrotados, os Aliados conseguiram avançar para o oeste e cortar as forças alemãs na Península Cotentin da França ocupada."
+msgstr "A Companhia Easy repeliu com sucesso o ataque alemão com apoio da 2ª Divisão Blindada. Com os atacantes alemães derrotados, os Aliados conseguiram avançar para o oeste e isolar as forças alemãs na Península de Cotentin do restante da França ocupada pelos alemães."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/outro_failed"
 msgid "Easy Company was destroyed by the Germans while defending its position west of Carentan. Now, nothing stands in the way of the German advance towards Carentan. You must try again!"
-msgstr "A Easy Company foi destruída pelos alemães ao defender sua posição a oeste de Carentan. Agora, nada está no caminho do avanço alemão em direção a Carentan. Tente novamente!"
+msgstr "A Companhia Easy foi destruída pelos alemães ao defender sua posição a oeste de Carentan. Agora, nada está no caminho do avanço alemão em direção a Carentan. Tente novamente!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/lose_winters"
 msgid "Lt. Winters is dead!"
@@ -126,11 +126,11 @@ msgstr "Pular fase de preparação"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/story"
 msgid "  The 101st has been in action constantly since the jump into Normandy over a week ago. After clearing Carentan yesterday, it’s time to push forward and capitalize on this victory.\n\n  Easy company will be covering the extreme right flank. Headquarters has sent scouts forward along the axis of advance. Depending on what they report, we will proceed accordingly. Report to the 506th Parachute Infantry Regiment for further orders and prepare for what could be a bloody battle.\n\n Good luck!"
-msgstr "  O 101º está em ação constantemente desde o salto sobre a Normandia há mais de uma semana. Após limpar Carentan ontem, é hora de avançar e capitalizar sobre esta vitória.\n\n  A Easy Company cobrirá o flanco extremo direito. O Quartel-General enviou batedores à frente ao longo do eixo de avanço. Dependendo do que reportarem, procederemos conforme necessário. Apresente-se ao 506º Regimento de Infantaria de Paraquedistas para mais ordens e prepare-se para o que pode ser uma batalha sangrenta.\n\n Boa sorte!"
+msgstr "  A 101ª está em ação constantemente desde o salto sobre a Normandia há mais de uma semana. Após limpar Carentan ontem, é hora de avançar e capitalizar sobre esta vitória.\n\n  A Companhia Easy cobrirá o flanco extremo direito. O Quartel-General enviou batedores à frente ao longo do eixo de avanço. Dependendo do que reportarem, procederemos conforme necessário. Apresente-se ao 506º Regimento de Infantaria de Paraquedistas para mais ordens e prepare-se para o que pode ser uma batalha sangrenta.\n\n Boa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task1"
 msgid "Prepare a defense line along the hedgerow!"
-msgstr "Prepare uma linha de defesa ao longo do bocage!"
+msgstr "Prepare uma linha de defesa ao longo da cerca viva!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_06_bloody_gulch/task2"
 msgid "Rescue the scout team!"

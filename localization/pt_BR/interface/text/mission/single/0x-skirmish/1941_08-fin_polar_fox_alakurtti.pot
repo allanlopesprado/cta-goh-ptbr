@@ -50,7 +50,7 @@ msgstr "Raposa Ártica"
 
 msgctxt "mission/single/03-fin_skirmish/1941_08-fin_polar_fox_alakurtti/story"
 msgid " Arctic front, the push for Murmansk. We have covered a lot of ground with our flanking attack. But the village ahead seems heavily defended. You need to attack immediately!\n\nGoals:\n - Destroy Soviet armor.\n - Take Alakurtti."
-msgstr " Frente ártica, o avanço sobre Murmansk. Cobrimos muito terreno com nosso ataque de flanco. Mas a aldeia à frente parece fortemente defendida. Você precisa atacar imediatamente!\n\nObjetivos:\n - Destrua a blindagem soviética.\n - Tome Alakurtti."
+msgstr " Frente ártica, o avanço sobre Murmansk. Cobrimos muito terreno com nosso ataque de flanco. Mas a aldeia à frente parece fortemente defendida. Você precisa atacar imediatamente!\n\nObjetivos:\n - Destrua os blindados soviéticos.\n - Tome Alakurtti."
 
 msgctxt "mission/single/03-fin_skirmish/1941_08-fin_polar_fox_alakurtti/place"
 msgid "Alakurtti, Murmansk region"
@@ -98,7 +98,7 @@ msgstr "Camarada, você está encarregado de realizar um avanço decisivo em dir
 
 msgctxt "mission/single/03-fin_skirmish/1941_08-fin_polar_fox_alakurtti/narrator_start2"
 msgid "The Soviets may reinforce their lines with heavy armor. Make sure you move before they get here!"
-msgstr "Os soviéticos podem reforçar suas linhas com blindagens pesadas. Certifique-se de se mover antes que cheguem!"
+msgstr "Os soviéticos podem reforçar suas linhas com blindados pesados. Certifique-se de se mover antes que cheguem!"
 
 msgctxt "mission/single/03-fin_skirmish/1941_08-fin_polar_fox_alakurtti/narrator_start3"
 msgid "Begin securing the objectives, while we bring forward some reinforcements for you to deploy!"

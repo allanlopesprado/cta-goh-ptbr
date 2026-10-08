@@ -35,7 +35,7 @@ msgstr "<c(B29557)>( III )</c> 2x OT-34/85"
 
 msgctxt "desc/squad/doctrine_2valentine9"
 msgid "<c(B29557)>( III )</c> 2x Valentine IX with A.Sappers"
-msgstr "<c(B29557)>( III )</c> 2x Valentine IX com Zapadores"
+msgstr "<c(B29557)>( III )</c> 2x Valentine IX com Sapadores de Assalto"
 
 msgctxt "desc/squad/doctrine_2xbt5"
 msgid "<c(B29557)>( I )</c> 2x BT-5"
@@ -271,11 +271,11 @@ msgstr "<c(B29557)>( III )</c> IL-2 Bomba 250kg"
 
 msgctxt "desc/squad/doctrine_il2_late"
 msgid "<c(B29557)>( III )</c> IL-2 Airstrike"
-msgstr "<c(B29557)>( III )</c> IL-2 Airstrike"
+msgstr "<c(B29557)>( III )</c> Ataque Aéreo com IL-2"
 
 msgctxt "desc/squad/doctrine_il2_mid"
 msgid "<c(B29557)>( III )</c> IL-2 Airstrike"
-msgstr "<c(B29557)>( III )</c> IL-2 Airstrike"
+msgstr "<c(B29557)>( III )</c> Ataque Aéreo com IL-2"
 
 msgctxt "desc/squad/doctrine_is2"
 msgid "<c(B29557)>( III )</c> IS-2 M1944"
@@ -363,11 +363,11 @@ msgstr "<c(B29557)>( I )</c> Ampulomet M1941"
 
 msgctxt "desc/squad/doctrine_m72_snipers"
 msgid "<c(B29557)>( I )</c> Motorised snipers"
-msgstr "<c(B29557)>( I )</c> Atiradores Motorizados"
+msgstr "<c(B29557)>( I )</c> Franco-atiradores Motorizados"
 
 msgctxt "desc/squad/doctrine_m72_snipers_late"
 msgid "<c(B29557)>( I )</c> M72 with Snipers"
-msgstr "<c(B29557)>( I )</c> M72 com Atiradores"
+msgstr "<c(B29557)>( I )</c> M72 com Franco-atiradores"
 
 msgctxt "desc/squad/doctrine_mechanized"
 msgid "<c(B29557)>( II )</c> Mechanised Brigade"
@@ -543,7 +543,7 @@ msgstr "<c(B29557)>( I )</c>  Esquadra de Supressão"
 
 msgctxt "desc/squad/doctrine_squad_universal_sniper"
 msgid "<c(B29557)>( I )</c> Universal with Scouts, Sniper"
-msgstr "<c(B29557)>( I )</c> Universal com Exploradores e Atirador"
+msgstr "<c(B29557)>( I )</c> Universal com Exploradores e Franco-atirador"
 
 msgctxt "desc/squad/doctrine_stans"
 msgid "<c(B29557)>( I )</c> 2x MG Emplacements"
@@ -663,7 +663,7 @@ msgstr "<c(B29557)>( I )</c> T-34 M1940"
 
 msgctxt "desc/squad/doctrine_t3476_41e"
 msgid "<c(B29557)>( II )</c> Shielded T-34"
-msgstr "<c(B29557)>( II )</c> T-34 com Escudos"
+msgstr "<c(B29557)>( II )</c> T-34 com blindagem adicional"
 
 msgctxt "desc/squad/doctrine_t3485_44b"
 msgid "<c(B29557)>( II )</c> 2x T-34/85"

@@ -439,7 +439,7 @@ msgstr "<c(c3baae)>Tanque Leve</c>"
 
 msgctxt "desc/entity/ds39_stand"
 msgid "DS-39 Stand"
-msgstr "DS-39 Stand"
+msgstr "DS-39 (Suporte)"
 
 msgctxt "info/special/ds39_stand"
 msgid "<c(c3baae)>Medium MG</c>"
@@ -455,7 +455,7 @@ msgstr "<c(c3baae)>MG Pesado</c>"
 
 msgctxt "desc/entity/dshk_stan"
 msgid "DShK M1938 Stand"
-msgstr "DShK M1938 Stand"
+msgstr "DShK M1938 (Suporte)"
 
 msgctxt "info/special/dshk_stan"
 msgid "<c(c3baae)>Heavy MG</c>"
@@ -511,7 +511,7 @@ msgstr "<c(c3baae)>Caminhão AA Leve</c>"
 
 msgctxt "desc/entity/gaz_aaa_maximx4"
 msgid "GAZ-AAA (Quad Maxim)"
-msgstr "GAZ-AAA (Quad Maxim)"
+msgstr "GAZ-AAA (4x Maxim)"
 
 msgctxt "info/special/gaz_aaa_maximx4"
 msgid "<c(c3baae)>AA Truck</c>"
@@ -799,7 +799,7 @@ msgstr "<c(c3baae)>MG Médio</c>"
 
 msgctxt "desc/entity/maxim_stand"
 msgid "Maxim M1910/30 Stand"
-msgstr "Maxim M1910/30 Stand"
+msgstr "Maxim M1910/30 (Suporte)"
 
 msgctxt "info/special/maxim_stand"
 msgid "<c(c3baae)>Medium MG</c>"
@@ -807,7 +807,7 @@ msgstr "<c(c3baae)>MG Médio</c>"
 
 msgctxt "desc/entity/maxim_x4"
 msgid "Quad M4 Maxim"
-msgstr "Quad M4 Maxim"
+msgstr "M4 Maxim (4x)"
 
 msgctxt "info/special/maxim_x4"
 msgid "<c(c3baae)>AA MMG</c>"
@@ -839,7 +839,7 @@ msgstr "<c(c3baae)>Avião de Reconhecimento</c>"
 
 msgctxt "desc/entity/sg43_stand"
 msgid "SG-43 Stand"
-msgstr "SG-43 Stand"
+msgstr "SG-43 (Suporte)"
 
 msgctxt "info/special/sg43_stand"
 msgid "<c(c3baae)>Medium MG</c>"
@@ -1111,7 +1111,7 @@ msgstr "<c(c3baae)>Tanque Médio</c>"
 
 msgctxt "desc/entity/t3476_41e"
 msgid "Shielded T-34"
-msgstr "Shielded T-34"
+msgstr "T-34 com blindagem adicional"
 
 msgctxt "info/special/t3476_41e"
 msgid "<c(c3baae)>Medium Tank</c>"

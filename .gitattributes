@@ -2,6 +2,10 @@
 localization/**/*.pot text eol=lf
 localization/**/*.info text eol=lf
 
+# A referência inglesa preserva os bytes do pacote, inclusive CRLF, para os hashes da revisão.
+localization/en/**/*.pot -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+localization/en/localization.info -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+
 # Scripts Python
 *.py text eol=lf
 

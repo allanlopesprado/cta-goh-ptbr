@@ -458,7 +458,7 @@ msgstr "M/27 Chapéu de Campo"
 
 msgctxt "desc/stuff/fin_fieldcap_m27_brown_nco"
 msgid "M/27 Field Hat (NCO)"
-msgstr "M/27 Chapéu de Campo (Suboficial)"
+msgstr "M/27 Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m27_brown_officer"
 msgid "M/27 Field Hat (Officer)"
@@ -466,7 +466,7 @@ msgstr "M/27 Chapéu de Campo (Oficial)"
 
 msgctxt "desc/stuff/fin_fieldcap_m27_nco"
 msgid "M/27 Field Hat (NCO)"
-msgstr "M/27 Chapéu de Campo (Suboficial)"
+msgstr "M/27 Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m27_officer"
 msgid "M/27 Field Hat (Officer)"
@@ -486,7 +486,7 @@ msgstr "M/36 Verikauha Chapéu de Campo"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_arm_nco_inf"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_arm_officer_tank"
 msgid "M/36 Verikauha Field Hat (Officer)"
@@ -506,7 +506,7 @@ msgstr "M/36 Verikauha Chapéu de Campo"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_gray_arm_nco_inf"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_gray_arm_officer_tank"
 msgid "M/36 Verikauha Field Hat (Officer)"
@@ -518,11 +518,11 @@ msgstr "M/36 Verikauha Chapéu de Campo"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_gray_nco"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_gray_nco_inf"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_gray_officer_inf"
 msgid "M/36 Verikauha Field Hat (Officer)"
@@ -530,23 +530,23 @@ msgstr "M/36 Verikauha Chapéu de Campo (Oficial)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_nco"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_nco_arty"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_nco_cav"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_nco_inf"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_nco_tank"
 msgid "M/36 Verikauha Field Hat (NCO)"
-msgstr "M/36 Verikauha Chapéu de Campo (Suboficial)"
+msgstr "M/36 Verikauha Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_fieldcap_m36_officer_air"
 msgid "M/36 Verikauha Field Hat (Officer)"
@@ -578,7 +578,7 @@ msgstr "M/27 Chapéu de Campo"
 
 msgctxt "desc/stuff/fin_furcap_m27_brown_nco"
 msgid "M/27 Field Hat (NCO)"
-msgstr "M/27 Chapéu de Campo (Suboficial)"
+msgstr "M/27 Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_furcap_m27_brown_officer"
 msgid "M/27 Field Hat (Officer)"
@@ -586,7 +586,7 @@ msgstr "M/27 Chapéu de Campo (Oficial)"
 
 msgctxt "desc/stuff/fin_furcap_m27_nco"
 msgid "M/27 Field Hat (NCO)"
-msgstr "M/27 Chapéu de Campo (Suboficial)"
+msgstr "M/27 Chapéu de Campo para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_furcap_m27_officer"
 msgid "M/27 Field Hat (Officer)"
@@ -638,7 +638,7 @@ msgstr "Chapéu de Verão M/39"
 
 msgctxt "desc/stuff/fin_summercap_m39_arm_nco_inf"
 msgid "M/39 Summer Hat (NCO)"
-msgstr "Chapéu de Verão M/39 (Suboficial)"
+msgstr "Chapéu de Verão M/39 para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_summercap_m39_arm_officer_tank"
 msgid "M/39 Summer Hat (Officer)"
@@ -646,15 +646,15 @@ msgstr "Chapéu de Verão M/39 (Oficial)"
 
 msgctxt "desc/stuff/fin_summercap_m39_nco_cav"
 msgid "M/39 Summer Hat (NCO)"
-msgstr "Chapéu de Verão M/39 (Suboficial)"
+msgstr "Chapéu de Verão M/39 para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_summercap_m39_nco_inf"
 msgid "M/39 Summer Hat (NCO)"
-msgstr "Chapéu de Verão M/39 (Suboficial)"
+msgstr "Chapéu de Verão M/39 para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_summercap_m39_nco_tank"
 msgid "M/39 Summer Hat (NCO)"
-msgstr "Chapéu de Verão M/39 (Suboficial)"
+msgstr "Chapéu de Verão M/39 para Graduado (NCO)"
 
 msgctxt "desc/stuff/fin_summercap_m39_officer_air"
 msgid "M/39 Summer Hat (Officer)"

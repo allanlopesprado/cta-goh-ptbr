@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "desc/squad/squad_vet_partisan_rifle_late_con(rus)"
 msgid "<c(A5A095)>(1+)</c> Veteran Partisan Rifle squad [1944]"
-msgstr "<c(A5A095)>(1+)</c> Esquadra de Fuzis Partidária Veterana [1944]"
+msgstr "<c(A5A095)>(1+)</c> Esquadra de Fuzileiros Guerrilheiros Veteranos [1944]"
 
 msgctxt "desc/squad/squad_vet_partisan_smg_late_con(rus)"
 msgid "<c(A5A095)>(1+)</c> Veteran Partisan SMG squad [1944]"
-msgstr "<c(A5A095)>(1+)</c> Esquadra SMG Partidária Veterana [1944]"
+msgstr "<c(A5A095)>(1+)</c> Esquadra SMG de Guerrilheiros Veteranos [1944]"
 
 msgctxt "desc/squad/squad_nkvd_recon_con(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Recon squad"
@@ -42,7 +42,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Sapadores [1944]"
 
 msgctxt "desc/squad/squad_nkvd_at_rifle_con(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD AT rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra AT NKVD"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT NKVD"
 
 msgctxt "desc/squad/squad_nkvd_rifle_con(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Rifle squad"
@@ -126,7 +126,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis de Cavalaria da Guarda [1944]"
 
 msgctxt "desc/squad/squad_guards_marines_44_con(rus)"
 msgid "<c(A5A095)>(3+)</c> Guards Marine Rifle squad [1944]"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda [1944]"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros Navais da Guarda [1944]"
 
 msgctxt "desc/squad/squad_nkvd_mountain_cav_con(rus)"
 msgid "<c(A5A095)>(4)</c> NKVD Mountain Cavalry squad"

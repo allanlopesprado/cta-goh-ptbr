@@ -42,7 +42,7 @@ msgstr "A Operação Market Garden começou!\n\nO XXX Corpo também começou a s
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_east"
 msgid "Jerry is attacking our positions at the Eastern side of the bridge!"
-msgstr "Jerry está atacando nossas posições no lado leste da ponte!"
+msgstr "Os alemães estão atacando nossas posições no lado leste da ponte!"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_west"
 msgid "Germans are pushing our positions at the Western side of the bridge!"
@@ -138,7 +138,7 @@ msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. 
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_04"
 msgid "The bridge is ours now. Dig in, keep watch and get some rest. Digby had better show up by morning…"
-msgstr "A ponte é nossa agora. Entre em trincheiras, fique de guarda e descanse um pouco. Digby é melhor aparecer de manhã..."
+msgstr "A ponte é nossa agora. Entrincheirem-se, fiquem de guarda e descansem um pouco. É bom que Digby apareça até de manhã..."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/secret01_hint"
 msgid "This appears to be one of the tanks which attacked us during the day, let's see if it's still repairable."
@@ -174,7 +174,7 @@ msgstr "Não vai ser fácil, mas tenho certeza de que conseguiremos. O Corpo tem
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_01"
 msgid "Listen up, lads! We are to hold this bridge until the ground forces arrive. Could be hours, could be days. No one knows. The only thing I know is that Jerry has to take this bridge brick by brick if they want it."
-msgstr "Atenção, rapazes! Devemos manter esta ponte até que as forças terrestres cheguem. Podem ser horas; podem ser dias. Ninguém sabe. A única coisa que sei é que Jerry vai ter de tomar esta ponte tijolo por tijolo se quiserem."
+msgstr "Atenção, rapazes! Devemos manter esta ponte até que as forças terrestres cheguem. Podem ser horas, podem ser dias. Ninguém sabe. A única coisa que sei é que os alemães terão de tomar esta ponte tijolo por tijolo se a quiserem."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_02"
 msgid "We’re completely surrounded, gentlemen. That simplifies our problem. Shoot everything that moves and expect enemy attacks from all directions."
@@ -218,7 +218,7 @@ msgstr "Não temos muito tempo; certifique-se de que estamos prontos para enfren
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_01"
 msgid "Is that all? I expected something more serious, not a few token infantrymen."
-msgstr "É só isso? Esperava algo mais grave — não meia dúzia de infantes simbólicos."
+msgstr "É só isso? Esperava algo mais sério — não uns poucos soldados só para marcar presença."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_02"
 msgid "Those poor sods must’ve been probing our defenses."
@@ -238,11 +238,11 @@ msgstr "Tudo depende do que fazemos hoje. Se conseguirmos, talvez possamos encer
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_01"
 msgid "Everyone, take cover in basements! They are rolling out rocket artillery!"
-msgstr "Todos, para os porões! Estão lançando foguetes Nebelwerfer!"
+msgstr "Todos, abriguem-se nos porões! Estão trazendo artilharia de foguetes!"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_02"
 msgid "I have one of my best squads on the other side. They’ll do their best."
-msgstr "Tenho um dos meus melhores esquadrões do outro lado. Farão o melhor que puderem."
+msgstr "Tenho uma das minhas melhores esquadras do outro lado. Farão o melhor que puderem."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_03"
 msgid "Let’s be very careful, these are elite troops. First, we have to distract them before they fire."
@@ -326,11 +326,11 @@ msgstr "Mantenha o posto avançado"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt_resistance_ammo_completed"
 msgid "I'll take two - Ask the Dutch resistance squad to find more ammunition"
-msgstr "Fico com dois - Peça aa esquadra de resistência holandês para encontrar mais munição"
+msgstr "Fico com dois - Peça à esquadra da resistência holandesa para encontrar mais munição"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/opt_resistance_recruit_completed"
 msgid "Doomed Tea Party - Recruit the Dutch resistance squad"
-msgstr "Festa do Chá Condenada - Recrute a esquadra de resistência holandês"
+msgstr "Festa do Chá Condenada - Recrute a esquadra da resistência holandesa"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/tasks/secret01"
 msgid "Secret objective #1"
@@ -392,4 +392,4 @@ msgstr "Chegada das forças mecanizadas alemãs"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/hint_choice"
 msgid "The Dutch Resistance squad is willing to help you. Choose one of the options in the <c(B29557)>reinforcements tab</c>."
-msgstr "A esquadra de Resistência Holandesa está disposto a ajudá-los. Escolha uma das opções na <c(B29557)>aba de reforços</c>."
+msgstr "A esquadra da Resistência Holandesa está disposta a ajudá-los. Escolha uma das opções na <c(B29557)>aba de reforços</c>."

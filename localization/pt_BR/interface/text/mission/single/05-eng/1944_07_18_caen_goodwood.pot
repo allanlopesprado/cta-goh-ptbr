@@ -46,7 +46,7 @@ msgstr "Selecione sua Doutrina para a missão.\nIsso afeta a lista de unidades d
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/doctrine_allround"
 msgid "All-Round: Churchill AVRE + Achilles Mk. II"
-msgstr "Geral: Churchill AVRE + Achilles Mk. II"
+msgstr "Versátil: Churchill AVRE + Achilles Mk. II"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/doctrine_defensive"
 msgid "Defensive: Cromwell Mk. VI CS + Staghound AA"
@@ -66,7 +66,7 @@ msgstr "Batalhão, atenção! Hoje temos de assegurar a cidade de Cagny e fornec
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/cutscene/intro_02"
 msgid "Don’t worry about Jerry, the RAF has served them bombs for breakfast."
-msgstr "Não se preocupe com Jerry; a RAF serviu bombas no café da manhã deles."
+msgstr "Não se preocupe com os alemães; a RAF serviu bombas no café da manhã deles."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/cutscene/intro_03"
 msgid "Ambush! Multiple AT guns!"
@@ -98,7 +98,7 @@ msgstr "Sargento O'Hara, preciso que auxilie os outros veículos. Mova-se para a
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part01_06"
 msgid "Where the hell did they get these AT guns from? The carpet bombing should have wiped them out! Never mind. We are already behind schedule, so let’s move on."
-msgstr "De onde diabos conseguiram esses canhões AT? O bombardeio de tapete deveria tê-los eliminado! Deixa para lá. Já estamos atrasados no cronograma — vamos em frente."
+msgstr "De onde diabos conseguiram esses canhões AT? O bombardeio em área deveria tê-los eliminado! Deixa para lá. Já estamos atrasados no cronograma — vamos em frente."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part01_gun_destroyed_01"
 msgid "That son of a bitch is down!"
@@ -110,7 +110,7 @@ msgstr "Belo tiro — os bastardos estão liquidados!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_01"
 msgid "Jerry is retreating to the north and digging in, which will slow down our offensive. Get rid of them as soon as possible."
-msgstr "Jerry está recuando para o norte e se entrincheirando, o que vai retardar nossa ofensiva. Livre-se deles o mais rápido possível."
+msgstr "Os alemães estão recuando para o norte e se entrincheirando, o que vai retardar nossa ofensiva. Livre-se deles o mais rápido possível."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_02_allround"
 msgid "The Germans have turned the entire road into a stronghold. Shit, the house-to-house clearing is gonna take the whole day…"
@@ -122,7 +122,7 @@ msgstr "Com sorte para nós, podemos transformar essas casas em seus túmulos. S
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_allround"
 msgid "The AVRE has arrived. Now show Jerry there is nowhere to hide!"
-msgstr "O AVRE chegou. Agora mostre ao Jerry que não há onde se esconder!"
+msgstr "O AVRE chegou. Agora mostre aos alemães que não há onde se esconder!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_05_allround"
 msgid "This 230mm beast is really wild. Good work men, this road is no longer a threat to us."
@@ -130,7 +130,7 @@ msgstr "Esta besta de 230mm é selvagem de verdade. Bom trabalho, rapazes — es
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_02_offensive"
 msgid "The Germans have dug trenches between these hedgerows and everywhere else. Shit, this clearing is gonna take the whole day…"
-msgstr "Os alemães cavaram trincheiras entre estas sebes e em todo lugar. Merda, esta limpeza vai tomar o dia inteiro..."
+msgstr "Os alemães cavaram trincheiras entre estas cercas vivas e em todo lugar. Merda, esta limpeza vai tomar o dia inteiro..."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_03_offensive"
 msgid "Lucky for us, we can literally smoke them out. Gentlemen, I would like to introduce a solution against these rats - the Churchill Crocodile. And what’s better than a flamethrower? That’s right! A bloody armoured flamethrower!"
@@ -138,7 +138,7 @@ msgstr "Com sorte para nós, podemos literalmente queimá-los. Senhores, é um p
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_offensive"
 msgid "The Crocodile has arrived. Now make Jerry regret he survived the carpet bombing!"
-msgstr "O Crocodile chegou. Agora faça Jerry se arrepender de ter sobrevivido ao bombardeio de tapete!"
+msgstr "O Crocodile chegou. Agora faça os alemães se arrependerem de ter sobrevivido ao bombardeio em área!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_05_offensive"
 msgid "Smoking them out is definitely easier than clearing every German foxhole in the area. Good work, men."
@@ -218,7 +218,7 @@ msgstr "Estão enviando pequenos grupos antitanque! Mantenha a infantaria próxi
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part03_05"
 msgid "Incoming artillery! Take cover!"
-msgstr "Artilharia chegando! Procure cobertura!"
+msgstr "Fogo de artilharia a caminho! Abriguem-se!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part03_06"
 msgid "The artillery is very accurate, meaning someone is spotting for their battery. O'Hara, find this observer and deal with him!"
@@ -238,7 +238,7 @@ msgstr "O que diabos é isso?! Alguém já viu esses tanques antes?"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part03_10"
 msgid "All units, load APDS! We have to destroy them!"
-msgstr "Todas as unidades, APDS! Temos de destruí-los!"
+msgstr "Todas as unidades, carreguem munição APDS! Temos de destruí-los!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part03_12"
 msgid "I got one of them! Not as invincible as they look!"
@@ -254,7 +254,7 @@ msgstr "Olha só essa coisa... 150mm de blindagem pelo menos... Tivemos muita so
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/cutscene/outro_02"
 msgid "I’m wondering how many of these Jerry has left. Let’s hope we don’t meet any more of them on our way."
-msgstr "Estou me perguntando quantos desses Jerry ainda tem. Vamos torcer para não encontrarmos mais deles no caminho."
+msgstr "Fico me perguntando quantos desses os alemães ainda têm. Vamos torcer para não encontrarmos mais nenhum pelo caminho."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/secret_infantry"
 msgid "So… Should the tank crews take a nap or something?"
@@ -270,7 +270,7 @@ msgstr "Você perdeu todas as suas unidades."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/reinf_menu_allround"
 msgid "<c(B29557)>[All-Round]</c> Forces"
-msgstr "<c(B29557)>[Geral]</c> Forças"
+msgstr "<c(B29557)>[Versátil]</c> Forças"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/reinf_menu_offensive"
 msgid "<c(B29557)>[Offensive]</c> Forces"
@@ -298,7 +298,7 @@ msgstr "Assegure a parte norte de Cagny e complete o Objetivo de Doutrina"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/task04_allround"
 msgid "<c(B29557)>[All-Round Doctrine]</c> Eliminate enemy Infantry covered in Buildings using the Churchill AVRE"
-msgstr "<c(B29557)>[Doutrina Geral]</c> Elimine Infantaria inimiga em Edifícios usando o Churchill AVRE"
+msgstr "<c(B29557)>[Doutrina Versátil]</c> Elimine Infantaria inimiga em Edifícios usando o Churchill AVRE"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/task04_offensive"
 msgid "<c(B29557)>[Offensive Doctrine]</c> Eliminate 20 Enemies using Fire Damage with the Churchill Crocodile"

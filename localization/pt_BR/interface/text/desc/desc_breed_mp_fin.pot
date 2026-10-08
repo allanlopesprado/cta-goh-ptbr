@@ -203,7 +203,7 @@ msgstr "Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/rifleman_avs"
 msgid "Automatic Rifleman [Maavoimat]"
-msgstr "Atirador Automático [Maavoimat]"
+msgstr "Atirador de Fuzil Automático [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/rifleman_cap"
 msgid "Rifleman [Maavoimat]"
@@ -255,15 +255,15 @@ msgstr "Sissi [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/smg_m20"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/sniper"
 msgid "Sniper [Maavoimat]"
@@ -291,11 +291,11 @@ msgstr "Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/summer_smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/summer_smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/tank_commander"
 msgid "Tank commander [Maavoimat]"
@@ -635,19 +635,19 @@ msgstr "Sissi [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/smg_pps"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/smg_ppsh"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/sniper"
 msgid "Sniper [Maavoimat]"
@@ -675,11 +675,11 @@ msgstr "Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/summer_smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/summer_smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/tank_commander"
 msgid "Tank commander [Maavoimat]"
@@ -911,7 +911,7 @@ msgstr "Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/rifleman_avs"
 msgid "Automatic Rifleman [Maavoimat]"
-msgstr "Atirador Automático [Maavoimat]"
+msgstr "Atirador de Fuzil Automático [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/rifleman_cap"
 msgid "Rifleman [Maavoimat]"
@@ -959,15 +959,15 @@ msgstr "Sissi [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/smg_m20"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/sniper"
 msgid "Sniper [Maavoimat]"
@@ -995,11 +995,11 @@ msgstr "Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/summer_smg_drum"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/summer_smg_stick"
 msgid "SMG inf. [Maavoimat]"
-msgstr "SMG inf. [Maavoimat]"
+msgstr "Infantaria com Submetralhadora [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/tank_commander"
 msgid "Tank commander [Maavoimat]"
@@ -1095,7 +1095,7 @@ msgstr "Elite Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/elite_rifleman_sa"
 msgid "Elite Automatic Rifleman [Maavoimat]"
-msgstr "Elite Atirador Automático [Maavoimat]"
+msgstr "Elite Atirador de Fuzil Automático [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/elite_smg_drum"
 msgid "Elite SMG inf. [Maavoimat]"
@@ -1279,7 +1279,7 @@ msgstr "Elite Atirador [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_rifle_sa"
 msgid "Elite Automatic Rifleman [Maavoimat]"
-msgstr "Elite Atirador Automático [Maavoimat]"
+msgstr "Elite Atirador de Fuzil Automático [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/elite_smg_drum"
 msgid "Elite SMG inf. [Maavoimat]"
@@ -1591,7 +1591,7 @@ msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
-msgstr "SMG Inf. [Svensk Volontär]"
+msgstr "Infantaria com Submetralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/early/urr_cav_mg"
 msgid "Uudenmaan Ratsuväki MG Operator [Maavoimat]"
@@ -1823,7 +1823,7 @@ msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
-msgstr "SMG Inf. [Svensk Volontär]"
+msgstr "Infantaria com Submetralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/mid/urr_cav_mg"
 msgid "Uudenmaan Ratsuväki MG Operator [Maavoimat]"
@@ -2143,7 +2143,7 @@ msgstr "Auxiliar de Líder [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/swe_smg"
 msgid "SMG Inf. [Svensk Volontär]"
-msgstr "SMG Inf. [Svensk Volontär]"
+msgstr "Infantaria com Submetralhadora [Svensk Volontär]"
 
 msgctxt "desc/human/mp/fin/late/urr_cav_mg"
 msgid "Uudenmaan Ratsuväki MG Operator [Maavoimat]"

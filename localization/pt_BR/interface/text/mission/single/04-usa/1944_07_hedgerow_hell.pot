@@ -74,7 +74,7 @@ msgstr "Bem-vindo à Normandia, 3ª Blindada. A situação não é nada boa."
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/01"
 msgid "Our advance across the river Vire was rather slow but now we're approaching Hauts Vents. Fighting among the hedgerows is extremely difficult."
-msgstr "Nosso avanço através do rio Vire foi bastante lento, mas agora estamos nos aproximando de Hauts Vents. Lutar entre os bocages é extremamente difícil."
+msgstr "Nosso avanço através do rio Vire foi bastante lento, mas agora estamos nos aproximando de Hauts Vents. Lutar entre as cercas vivas é extremamente difícil."
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/02"
 msgid "Our reconnaissance team has established this command post just off the main road towards Pont- Hébert. We are waiting for reinforcements."
@@ -90,7 +90,7 @@ msgstr "Foi por pouco, mas ouço motores de tanques à distância. Prepare-se pa
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/05"
 msgid "We held our own, but the neighboring platoon got hit hard. They need our help to push back the Germans. If the Krauts overrun them, they will push into our rear, that cannot happen."
-msgstr "Nos sustentamos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os alemães. Se os Krauts os sobrepassarem, avançarão pela nossa retaguarda — isso não pode acontecer."
+msgstr "Resistimos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os alemães. Se os Krauts dominarem a posição deles, avançarão pela nossa retaguarda — isso não pode acontecer."
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/06"
 msgid "We have captured Germans from the Panzer Lehr Division, which means they are probably in the area. The prisoners also told us that the 275. Infantry Division has set up defenses everywhere, you have to advance extremely carefully."
@@ -106,7 +106,7 @@ msgstr "No geral, extraímos dos prisioneiros as posições de todas as principa
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/narrator/09"
 msgid "Reinforcements have arrived. This is all that we can commit to this attack right now. Make the best out of it, Lieutenant!"
-msgstr "Os reforços chegaram. Isso é tudo o que podemos comprometer neste ataque agora. Aproveite ao máximo, Tenente!"
+msgstr "Os reforços chegaram. Isso é tudo o que podemos mobilizar para este ataque agora. Aproveite ao máximo, Tenente!"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/outro_completed"
 msgid "Congratulations! You stand victorious after a hard-fought battle. The attack on St.Lo and Operation Cobra are next. This battle has proven once again that we are an unstoppable force, and the Liberation of Europe is only a matter of time. Keep it up!"
@@ -114,7 +114,7 @@ msgstr "Parabéns! Você está vitorioso após uma batalha disputada. O ataque a
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/outro_failed"
 msgid "These hedgerows really are hell on earth right now. Apparently, we need different tactics or a bit more luck. We can’t be fazed though, and we need to repeat the attack or Operation Cobra has failed before it has even begun. General Watson’s orders were very clear!"
-msgstr "Esses bocados realmente são um inferno na terra agora. Aparentemente, precisamos de táticas diferentes ou um pouco mais de sorte. Não podemos nos abater, porém, e precisamos repetir o ataque ou a Operação Cobra fracassará antes mesmo de começar. As ordens do General Watson foram muito claras!"
+msgstr "Essas cercas vivas realmente são um inferno na terra agora. Aparentemente, precisamos de táticas diferentes ou um pouco mais de sorte. Não podemos nos abater, porém, e precisamos repetir o ataque ou a Operação Cobra fracassará antes mesmo de começar. As ordens do General Watson foram muito claras!"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/place"
 msgid "3rd Armored Division “Spearhead”"
@@ -130,7 +130,7 @@ msgstr "Ouço motores de tanques à distância. Prepare-se para defender nosso q
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/player/03"
 msgid "We held our own, but the neighboring platoon got hit hard. They need our help to push back the German tanks that took the crossroads to the west of our position. As long as they hold it they can push into our rear, don't let that happen."
-msgstr "Nos sustentamos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os tanques alemães que tomaram o cruzamento a oeste de nossa posição. Enquanto o segurarem, podem avançar pela nossa retaguarda — não deixe isso acontecer."
+msgstr "Resistimos, mas o pelotão vizinho foi duramente atingido. Precisam de nossa ajuda para repelir os tanques alemães que tomaram o cruzamento a oeste de nossa posição. Enquanto o segurarem, podem avançar pela nossa retaguarda — não deixe isso acontecer."
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/push_line"
 msgid "Re- establish the line & destroy the German tanks"
@@ -138,11 +138,11 @@ msgstr "Restabeleça a linha e destrua os tanques alemães"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/story"
 msgid " July 1944. Since the D-Day landings in June, your advance has been steady, if a bit slow; but gradually, the bridgehead widens and deepens, as does the crisis for the Germans. The main objective of general Bradley’s advance is to take the area around St. Lô. To get there, the road to St. Lô must be cleared first.\n\n You will be leading your troops into the hedgerows today. A spotter plane has reported enemy movement nearby. This might be the Panzer Lehr division! They might be trying to counterattack, better sound the alarm and brace yourself. Stand your ground until our main force arrives, and stand by for further orders.\n\nGood luck!"
-msgstr " Julho de 1944. Desde os desembarques do Dia D em junho, seu avanço tem sido constante, se um pouco lento; mas gradualmente, a cabeça de ponte se alarga e aprofunda, assim como a crise para os alemães. O principal objetivo do avanço do General Bradley é tomar a área ao redor de St. Lô. Para chegar lá, a estrada para St. Lô deve ser limpa primeiro.\n\n Você liderará suas tropas para dentro do bocage hoje. Um avião batedore reportou movimentação inimiga nas proximidades. Pode ser a Divisão Panzer Lehr! Eles podem estar tentando contra-atacar; é melhor soar o alarme e se preparar. Mantenha o terreno até que nossa força principal chegue, e aguarde ordens.\n\nBoa sorte!"
+msgstr " Julho de 1944. Desde os desembarques do Dia D em junho, seu avanço tem sido constante, se um pouco lento; mas gradualmente, a cabeça de ponte se alarga e aprofunda, assim como a crise para os alemães. O principal objetivo do avanço do General Bradley é tomar a área ao redor de St. Lô. Para chegar lá, a estrada para St. Lô deve ser limpa primeiro.\n\n Você liderará suas tropas por entre as cercas vivas hoje. Um avião de reconhecimento relatou movimentação inimiga nas proximidades. Pode ser a Divisão Panzer Lehr! Eles podem estar tentando contra-atacar; é melhor soar o alarme e se preparar. Mantenha o terreno até que nossa força principal chegue, e aguarde ordens.\n\nBoa sorte!"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task1"
 msgid "Take positions among the hedgerows around the HQ."
-msgstr "Tome posições entre os bocages ao redor do QG."
+msgstr "Tome posições entre as cercas vivas ao redor do QG."
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task2"
 msgid "Hold off the German column and await reinforcements"
@@ -150,7 +150,7 @@ msgstr "Contenha a coluna alemã e aguarde reforços"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/task3"
 msgid "Re- establish the line & destroy the German push"
-msgstr "Restabeleça a linha e destrua o avanço alemão"
+msgstr "Restabeleça a linha e repila o avanço alemão"
 
 msgctxt "mission/single/04-usa/1944_07_hedgerow_hell/timer"
 msgid "Set up positions around HQ:"

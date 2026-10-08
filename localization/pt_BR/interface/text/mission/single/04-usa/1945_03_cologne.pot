@@ -74,11 +74,11 @@ msgstr "Parece que a 104ª Divisão de Infantaria está travada por perto. Eles 
 
 msgctxt "mission/single/04-usa/1945_03_cologne/narrator/08"
 msgid "Alright gentlemen. We have explosives now, but we also have further problems. There's enemy snipers overlooking the streets. We cannot advance toward the cathedral until the snipers are taken out."
-msgstr "Certo, senhores. Temos explosivos agora, mas também temos mais problemas. Há atiradores inimigos cobrindo as ruas. Não podemos avançar em direção à catedral até que os atiradores sejam eliminados."
+msgstr "Certo, senhores. Temos explosivos agora, mas também temos mais problemas. Há atiradores de elite inimigos cobrindo as ruas. Não podemos avançar em direção à catedral até que os atiradores de elite sejam eliminados."
 
 msgctxt "mission/single/04-usa/1945_03_cologne/narrator/09"
 msgid "There's a god damn 88 nest at the crossroads. That's the last foreseeable threat remaining for our Pershing. Take it out and I'll let you sweep the floor with the Pershing."
-msgstr "Tem um maldito ninho de canhão 88mm no cruzamento. Essa é a última ameaça previsível restante para nosso Pershing. Elimine-o e deixarei você varrer o chão com o Pershing."
+msgstr "Tem um maldito ninho de canhão 88mm no cruzamento. Essa é a última ameaça previsível restante para nosso Pershing. Elimine-o e deixarei você acabar com eles usando o Pershing."
 
 msgctxt "mission/single/04-usa/1945_03_cologne/narrator/10"
 msgid "Allright boys! Let's go visit those spires, shall we? I order you to take the cathedral district. And remember - don't you even think about losing my Pershing. Got it?"
@@ -98,7 +98,7 @@ msgstr "Panther! Tem um Panther naquela interseção! Bem — desta vez viemos p
 
 msgctxt "mission/single/04-usa/1945_03_cologne/narrator/panzerfaust"
 msgid "Watch out for those Panzerfausts. They will shred through our heaviest armour, and they seem to be giving them away like candy. There's old men and children fighting like fanatics, and they know this city well."
-msgstr "Cuidado com esses Panzerfausts. Eles destruirão nossa blindagem mais pesada, e parecem estar os distribuindo como balas. Há velhos e crianças lutando como fanáticos, e conhecem bem esta cidade."
+msgstr "Cuidado com esses Panzerfausts. Eles podem perfurar até nossa blindagem mais espessa, e parecem estar os distribuindo como balas. Há velhos e crianças lutando como fanáticos, e conhecem bem esta cidade."
 
 msgctxt "mission/single/04-usa/1945_03_cologne/narrator/pershing"
 msgid "Well done Sir. Take command of the M26 Pershing, but we have instructions from HQ not to lose this asset. Take good care of our little beast."
@@ -108,7 +108,7 @@ msgstr "Muito bem, senhor. Assuma o comando do M26 Pershing, mas temos instruç�
 
 msgctxt "mission/single/04-usa/1945_03_cologne/obj_progress"
 msgid "%1% out of 10 snipers eliminated"
-msgstr "%1% de 10 atiradores eliminados"
+msgstr "%1% de 10 atiradores de elite eliminados"
 
 msgctxt "mission/single/04-usa/1945_03_cologne/outro_completed"
 msgid "Great job, General Rose will be very pleased! Now, let’s get the press guys up here and show them the results of this fight; we seem to have plenty of cameramen here. If they managed to get some footage of the action, this fight might become symbolic for the Battle of Cologne someday. Who knows?"
@@ -136,7 +136,7 @@ msgstr "Encontre os engenheiros da 104ª DI"
 
 msgctxt "mission/single/04-usa/1945_03_cologne/task3"
 msgid "Clear out the snipers"
-msgstr "Elimine os atiradores"
+msgstr "Elimine os atiradores de elite"
 
 msgctxt "mission/single/04-usa/1945_03_cologne/task4"
 msgid "Take out the 88 in order to get access to the Pershing"
