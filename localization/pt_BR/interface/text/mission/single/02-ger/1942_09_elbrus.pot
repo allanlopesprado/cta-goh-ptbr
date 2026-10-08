@@ -90,7 +90,7 @@ msgstr "Estamos quase lá."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_02"
 msgid "Our task is to capture \"Shelter of the Eleven\", ideally without raising the alarm."
-msgstr "Nossa missão é capturar o \"Abrigo dos Onze\", idealmente sem dar o alarme."
+msgstr "Nossa missão é capturar o \"Abrigo dos Onze\", idealmente sem que o inimigo dê o alarme."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_03"
 msgid "They don't expect us. We have the element of surprise."
@@ -102,7 +102,7 @@ msgstr "Devemos eliminar quaisquer patrulhas inimigas no caminho."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_05"
 msgid "Correct, our tracks will go unseen. Visibility is poor and we can get close to their patrols without being seen."
-msgstr "Correto — nossas trilhas não serão vistas. A visibilidade é ruim e podemos nos aproximar de suas patrulhas sem ser vistos."
+msgstr "Correto — nossos rastros não serão vistos. A visibilidade é ruim e podemos nos aproximar de suas patrulhas sem ser vistos."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_06"
 msgid "They raised the alarm! It's going to get much tougher."
@@ -118,7 +118,7 @@ msgstr "O Reich ficará orgulhoso de vocês, soldados. Excelente trabalho!"
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_09"
 msgid "The hotel is in front of us. You should quietly silence the perimeter without being spotted."
-msgstr "O hotel está à nossa frente. Você deve silenciar o perímetro discretamente sem ser avistado."
+msgstr "O hotel está à nossa frente. Você deve neutralizar discretamente os inimigos no perímetro sem ser avistado."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_officer/p1_10"
 msgid "Capture the building, take out all the Bolsheviks! Kill everyone around the shelter."
@@ -286,7 +286,7 @@ msgstr "Acho que vi o que há de errado. É bastante fácil de consertar."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_06"
 msgid "Herr Leutnant, we could use the generator to power the radio, but it's broken down."
-msgstr "Herr Leutnant, poderíamos usar o gerador para alimentar o rádio, mas está avariado."
+msgstr "Herr Leutnant, poderíamos usar o gerador para alimentar o rádio, mas o gerador está avariado."
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/pl_soldier/p3_07"
 msgid "Yes sir! If I remember correctly, I saw one around the houses on the southeastern slope."
@@ -338,7 +338,7 @@ msgstr "Durante a ofensiva 'Caso Azul', o 'Abrigo dos Onze', um hotel de montanh
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_01"
 msgid "Don't raise the alarm!"
-msgstr "Não dê o alarme!"
+msgstr "Não deixe que o inimigo dê o alarme!"
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02"
 msgid "Find a repair kit"
@@ -346,7 +346,7 @@ msgstr "Encontre um kit de reparo"
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_02_1"
 msgid "Take the repair kit to the generator room"
-msgstr "Leve o kit de reparo ao quarto do gerador"
+msgstr "Leve o kit de reparo à sala do gerador"
 
 msgctxt "mission/single/02-ger/1942_09_elbrus/tasks/opt_task_03"
 msgid "Mine the northeastern slope"

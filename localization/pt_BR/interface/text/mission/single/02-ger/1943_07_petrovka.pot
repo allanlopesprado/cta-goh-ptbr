@@ -130,7 +130,7 @@ msgstr "Nossos operadores de rádio fizeram um trabalho perfeito. Alvo destruíd
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/officer_22"
 msgid "Take the village now, or risk a counterattack!"
-msgstr "Tome a aldeia agora, ou arrisque um contra-ataque!"
+msgstr "Tome a aldeia agora, ou correrá o risco de sofrer um contra-ataque!"
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/officer_23"
 msgid "Intelligence reports that Russian troops have begun to move toward the village."
@@ -170,7 +170,7 @@ msgstr "Em todas as frentes, estamos perdendo uma quantidade colossal de blindad
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/officer_32"
 msgid "The sappers got held up when their column was destroyed by Soviet strike aircraft."
-msgstr "Os sapadores foram retardados quando sua coluna foi destruída por aeronaves de ataque soviéticas."
+msgstr "O avanço dos sapadores foi atrasado quando sua coluna foi destruída por aeronaves de ataque soviéticas."
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/officer_33"
 msgid "Affirmative. Stay on the main road for now. "
@@ -182,7 +182,7 @@ msgstr "Você está sofrendo muitas baixas. Você pode chamar por reforços."
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/outro_completed"
 msgid "This mission, based on Rall’s biography, is the story of a very lucky pilot. In his own words, he was ‘lucky an energetic Panzer commander rushed a column forward and offered a ride to safety’. The battle of Kursk was followed by ‘Operation Kutuzov’, during which the Soviet Army took the initiative for the remainder of the war. Günther Rall was fortunate enough to survive this adventure and the war as well."
-msgstr "Esta missão, baseada na biografia de Rall, é a história de um piloto muito afortunado. Em suas próprias palavras, ele teve 'sorte de um enérgico comandante de Panzer apressar uma coluna à frente e oferecer uma carona para a segurança'. A Batalha de Kursk foi seguida pela Operação Kutuzov, durante a qual o Exército Soviético assumiu a iniciativa pelo resto da guerra. Günther Rall foi afortunado o suficiente para sobreviver a esta aventura e à guerra."
+msgstr "Esta missão, baseada na biografia de Rall, é a história de um piloto muito afortunado. Em suas próprias palavras, ele teve 'sorte de um enérgico comandante de Panzer fazer uma coluna avançar rapidamente e oferecer uma carona até um lugar seguro'. A Batalha de Kursk foi seguida pela Operação Kutuzov, durante a qual o Exército Soviético assumiu a iniciativa pelo resto da guerra. Günther Rall foi afortunado o suficiente para sobreviver a esta aventura e à guerra."
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/outro_failed"
 msgid "As a result of your actions, JG52 has just lost its most talented commander. When the news of the death of Günther Rall reaches his unit, their morale will slump and in absence of leadership, the standards will slip and losses will mount, making reorganization necessary to dissolve the 3rd group of the 52nd fighter squadron."
@@ -364,7 +364,7 @@ msgstr "Muito longe — os tanques precisam se aproximar."
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/soldier_radio_20"
 msgid "Herr Leutnant, I'm ready to transmit the target area. Indicate the desired firing location."
-msgstr "Herr Leutnant, estou pronto para transmitir a área do alvo. Indique o local de tiro desejado."
+msgstr "Herr Leutnant, estou pronto para transmitir a área do alvo. Indique o local que deseja atingir."
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/story"
 msgid "When the battle of Kursk began, expectations were high - and tank busters flew low. Soviet defenses were layered and there were minefields everywhere."
@@ -468,7 +468,7 @@ msgstr "Encontre o piloto alemão"
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/task4"
 msgid "Take Hauptmann Rall to safety"
-msgstr "Leve o Hauptmann Rall para a segurança"
+msgstr "Leve o Hauptmann Rall a um lugar seguro"
 
 msgctxt "mission/single/02-ger/1943_07_petrovka/task5"
 msgid "Defend the captured positions"

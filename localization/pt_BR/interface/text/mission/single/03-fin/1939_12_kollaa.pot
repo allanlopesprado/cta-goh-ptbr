@@ -62,7 +62,7 @@ msgstr "Aqui estão algumas de nossas tropas em retirada de Suojärvi. Tiveram u
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/intro_officer_02"
 msgid "The retreating troops will take and fortify our main defensive positions behind the river. However, they are not ready to receive the red tide yet. We must slow them down here, while our main line prepares."
-msgstr "As tropas em retirada tomarão e fortificarão nossas principais posições defensivas atrás do rio. No entanto, ainda não estão prontas para receber a maré vermelha. Devemos retardá-los aqui, enquanto nossa linha principal se prepara."
+msgstr "As tropas em retirada tomarão e fortificarão nossas principais posições defensivas atrás do rio. No entanto, ainda não estão prontas para receber a maré vermelha. Devemos retardar o inimigo aqui, enquanto nossa linha principal se prepara."
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/intro_officer_03"
 msgid "Your objective is to set up ambushes along the forest area. The allied units will support you by taking positions along the main road and the railroad. You have to support each other if things get hairy!"
@@ -74,7 +74,7 @@ msgstr "Está tão frio aqui fora que nem consigo me esconder nos arbustos para 
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/intro_soldier_02"
 msgid "Maybe so… Simo, what kind of sniper does not use a scope anyway?"
-msgstr "Talvez... Simo, que tipo de atirador de elite não usa luneta mesmo?"
+msgstr "Talvez... Simo, que tipo de franco-atirador não usa luneta mesmo?"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/intro_wd_01"
 msgid "This cold is our greatest ally. It will slow down the enemy more than any of our bullets."
@@ -186,7 +186,7 @@ msgstr "Não precisa lutar até o último homem — senão não teremos defensor
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_01"
 msgid "Watch out! Ivan has brought his artillery emplacements! They will be very dangerous for our engineers out in the open. We have to destroy them as fast as possible! I am providing you with a captured Soviet armoured vehicle for this purpose. Use it to raid the enemy's rear and destroy this artillery battery."
-msgstr "Cuidado! Ivan trouxe suas posições de artilharia! Serão muito perigosas para nossos engenheiros a céu aberto. Temos que destruí-las o mais rápido possível! Estou fornecendo a você um veículo blindado soviético capturado para essa finalidade. Use-o para atacar a retaguarda inimiga e destruir esta bateria de artilharia."
+msgstr "Cuidado! Ivan trouxe suas peças de artilharia! Serão muito perigosas para nossos engenheiros a céu aberto. Temos que destruí-las o mais rápido possível! Estou fornecendo a você um veículo blindado soviético capturado para essa finalidade. Use-o para atacar a retaguarda inimiga e destruir esta bateria de artilharia."
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_destroyed"
 msgid "Excellent job! This artillery battery will not bother us anymore!"
@@ -210,7 +210,7 @@ msgstr "A artilharia soviética está atirando em nossas posições no Morro do 
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_rock_01"
 msgid "The Soviets are firing their long range artillery at our trenches near the rock positions!"
-msgstr "Os soviéticos estão atirando sua artilharia de longo alcance em nossas trincheiras perto das posições rochosas!"
+msgstr "Os soviéticos estão disparando com sua artilharia de longo alcance contra nossas trincheiras perto das posições rochosas!"
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_artillery_strike_rock_02"
 msgid "Soviet artillery is firing on the hill at the rock positions!"
@@ -218,7 +218,7 @@ msgstr "A artilharia soviética está atirando no morro nas posições rochosas!
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_end_01"
 msgid "You're right, we stopped their advance. At least for now. Men, you all proved yourselves today. I am very proud of you all. Take some rest, you've earned it."
-msgstr "Você está certo — detivemos o avanço deles. Pelo menos por ora. Homens, todos vocês se provaram hoje. Estou muito orgulhoso de todos vocês. Descansem — vocês merecem."
+msgstr "Você está certo — detivemos o avanço deles. Pelo menos por ora. Homens, todos vocês provaram seu valor hoje. Estou muito orgulhoso de todos vocês. Descansem — vocês merecem."
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_engineers_01"
 msgid "Our forces have taken and fortified the main defensive line. But the engineers have not placed enough AT mines yet. We have to protect them as long as possible. The more mines they place, the easier the fight will be for us."
@@ -250,7 +250,7 @@ msgstr "Os retardamos por um tempo. Use este tempo para reforçar suas posiçõe
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_pause_01"
 msgid "Seems like the Soviets decided to give us a little break. I don't think any of them expected this much resistance from us. You are doing very well, men. It's an honor for me to serve with you."
-msgstr "Parece que os soviéticos decidiram nos dar uma pequena pausa. Não acho que nenhum deles esperava tanta resistência de nossa parte. Estão se saindo muito bem, homens. É uma honra para mim servir com vocês."
+msgstr "Parece que os soviéticos decidiram nos dar uma pequena pausa. Não acho que algum deles esperasse tanta resistência de nossa parte. Estão se saindo muito bem, homens. É uma honra para mim servir com vocês."
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/officer_positions_lost"
 msgid "They broke our defensive lines! We have to retreat!"
@@ -286,7 +286,7 @@ msgstr "A defesa do Rio Kollaa caiu, e com ela uma oportunidade crítica de dete
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/pause_soldier_01"
 msgid "I'm quite surprised there aren't any Soviet planes overhead. They'd probably bomb us to pieces if they had a chance."
-msgstr "Estou bastante surpreso que não há aviões soviéticos sobrevoando. Provavelmente nos bombardeariam em pedaços se tivessem a chance."
+msgstr "Estou bastante surpreso por não haver aviões soviéticos sobrevoando. Provavelmente nos fariam em pedaços com o bombardeio se tivessem a chance."
 
 msgctxt "mission/single/03-fin/1939_12_kollaa/pause_soldier_02"
 msgid "Didn't the retreating troops from Suojärvi bring anything to eat or drink with them? I feel quite hungry and thirsty."

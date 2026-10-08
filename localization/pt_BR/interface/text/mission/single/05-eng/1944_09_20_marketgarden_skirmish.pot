@@ -58,7 +58,7 @@ msgstr "XXX Corpo"
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/date"
 msgid "September 20th, 1944 · Nijmegen, Netherlands"
-msgstr "20 de setembro de 1944 · Nijmegen, Holanda"
+msgstr "20 de setembro de 1944 · Nijmegen, Países Baixos"
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_start"
 msgid ""
@@ -66,7 +66,7 @@ msgstr ""
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_completed"
 msgid "You’ve done the king proud! This will surely earn a mention in dispatches. The entire operation seems doomed, but now at least we can push on and give Market Garden one last chance; we will see what happens next. Splendid soldiering!"
-msgstr "Você encheu o rei de orgulho! Isto certamente merecerá menção nas ordens do dia. Toda a operação parece fadada ao fracasso, mas agora pelo menos podemos avançar e dar a Market Garden uma última chance; veremos o que acontece a seguir. Exemplar atuação militar!"
+msgstr "Você encheu o rei de orgulho! Isto certamente merecerá menção nos despachos militares. Toda a operação parece fadada ao fracasso, mas agora pelo menos podemos avançar e dar a Market Garden uma última chance; veremos o que acontece a seguir. Exemplar atuação militar!"
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/outro_failed"
 msgid "Too bad, commander! The Germans reacted more efficiently than we expected, putting the entire operation at risk. We should have found a way through the German positions but we didn’t, who’s going to tell General Horrocks?"
@@ -114,7 +114,7 @@ msgstr "Devemos manter nosso posto de comando! Não há espaço para rendição!
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/player_rescue"
 msgid "Americans from 82nd Airborne are bogged down ahead! Let's help them out."
-msgstr "Americanos da 82ª Aerotransportada estão encurralados à frente! Vamos ajudá-los."
+msgstr "Americanos da 82ª Aerotransportada estão retidos à frente! Vamos ajudá-los."
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/para_survivors_assign"
 msgid "Good to see you, Lieutenant! We didn't think we'd make it! Our men are under your command."
@@ -126,7 +126,7 @@ msgstr "Major! Agora você pode solicitar um ataque aéreo."
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/rescue"
 msgid "Rescue stranded paratroopers!"
-msgstr "Resgate os paraquedistas presos!"
+msgstr "Resgate os paraquedistas isolados!"
 
 msgctxt "mission/single/05-eng/1944_09_20_marketgarden_skirmish/tasks/secret01"
 msgid "Secret objective #1"

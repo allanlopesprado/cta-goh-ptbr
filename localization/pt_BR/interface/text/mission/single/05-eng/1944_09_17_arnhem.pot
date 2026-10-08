@@ -30,7 +30,7 @@ msgstr "No fim, não havia como você ter mantido a posição na ponte. Faltando
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/date"
 msgid "September 17th, 1944 · Arnhem, Netherlands"
-msgstr "17 de setembro de 1944 · Arnhem, Holanda"
+msgstr "17 de setembro de 1944 · Arnhem, Países Baixos"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/place"
 msgid "1st Airborne Division"
@@ -38,7 +38,7 @@ msgstr "1ª Divisão Aerotransportada"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/story"
 msgid "Operation Market Garden has begun!\n\nXXX Corps also started moving into the Netherlands from Belgium. They need to cover the distance to Arnhem in a matter of days if they are to relieve your unit at the Arnhem bridge.\n\nIn the Nijmegen area, the US paratroopers will also attempt to capture the bridges.\n\nYou have marched from your dropzone to Arnhem proper in the meantime. The Drop Zone, however, was miles away from the bridge you have to take; you have been marching east along the river for a while now, wondering why there isn't a single German to be seen.\n\nYour orders are to take the bridge and to hold it until XXX Corps arrives from the south. It’s a relatively simple objective, but it will be hard to achieve."
-msgstr "A Operação Market Garden começou!\n\nO XXX Corpo também começou a se mover para os Países Baixos a partir da Bélgica. Eles precisam cobrir a distância até Arnhem em poucos dias para socorrer sua unidade na ponte de Arnhem.\n\nNa área de Nijmegen, os paraquedistas americanos também tentarão capturar as pontes.\n\nVocê marchou da zona de lançamento até o centro de Arnhem nesse ínterim. A Zona de Lançamento, no entanto, ficava a quilômetros da ponte que você tem de tomar; você vem marchando a leste ao longo do rio há algum tempo, se perguntando por que não há um único alemão à vista.\n\nSuas ordens são tomar a ponte e mantê-la até que o XXX Corpo chegue pelo sul. É um objetivo relativamente simples, mas será difícil de cumprir."
+msgstr "A Operação Market Garden começou!\n\nO XXX Corpo também começou a se mover para os Países Baixos a partir da Bélgica. Eles precisam cobrir a distância até Arnhem em poucos dias para socorrer sua unidade na ponte de Arnhem.\n\nNa área de Nijmegen, os paraquedistas americanos também tentarão capturar as pontes.\n\nVocê marchou da zona de lançamento até a cidade de Arnhem nesse ínterim. A Zona de Lançamento, no entanto, ficava a quilômetros da ponte que você tem de tomar; você vem marchando a leste ao longo do rio há algum tempo, se perguntando por que não há um único alemão à vista.\n\nSuas ordens são tomar a ponte e mantê-la até que o XXX Corpo chegue pelo sul. É um objetivo relativamente simples, mas será difícil de cumprir."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_b_east"
 msgid "Jerry is attacking our positions at the Eastern side of the bridge!"
@@ -134,7 +134,7 @@ msgstr "Digby deveria ter chegado até aqui, mas acho que não podemos esperar m
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_03"
 msgid "Hopefully, they will reach us by morning. Till then, we must control this bridge. Lucky for us, looks like most of the Germans have gone, so we shouldn’t meet tough resistance."
-msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. Com sorte para nós, parece que a maioria dos alemães foi embora — não devemos encontrar resistência forte."
+msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. Para nossa sorte, parece que a maioria dos alemães foi embora — não devemos encontrar resistência forte."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_04"
 msgid "The bridge is ours now. Dig in, keep watch and get some rest. Digby had better show up by morning…"
@@ -186,7 +186,7 @@ msgstr "Lembrem-se: este é o trabalho para o qual fomos treinados. Os olhos do 
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_04"
 msgid "I have always appreciated your attitude, Sir Digby. However let us not forget how short we are on supplies. Make every shot count and spare your ammo."
-msgstr "Sempre apreciei sua atitude, Sir Digby. No entanto, não vamos esquecer quão escassos estamos de suprimentos. Faça cada tiro valer a pena e poupe sua munição."
+msgstr "Sempre apreciei sua atitude, Sir Digby. No entanto, não vamos esquecer como nossos suprimentos estão escassos. Faça cada tiro valer a pena e poupe sua munição."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/preparation_05"
 msgid "In case you decide to take positions in houses… For God’s sake, please watch your head while going upstairs. These bloody stairs will take us out quicker than the Germans."

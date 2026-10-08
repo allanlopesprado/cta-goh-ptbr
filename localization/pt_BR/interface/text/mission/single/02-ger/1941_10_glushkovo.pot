@@ -78,11 +78,11 @@ msgstr "Baixas amigas localizadas! Aqueles coitados realmente foram parar no pio
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/outro_completed"
 msgid "After Glushkovo, the attack on Vyazma succeeded and the Germans marched toward Moscow. However, because of the extreme cold and a large-scale Soviet counteroffensive, an attack on the Russian capital was no longer on the cards. Little were they to know they would have to fight over the same place just a few months later."
-msgstr "Após Glushkovo, o ataque a Vyazma teve êxito e os alemães marcharam em direção a Moscou. Porém, devido ao frio extremo e a uma contra-ofensiva soviética em larga escala, um ataque à capital russa deixou de ser possível. Pouco sabiam eles que teriam de lutar pelo mesmo local apenas alguns meses depois."
+msgstr "Após Glushkovo, o ataque a Vyazma teve êxito e os alemães marcharam em direção a Moscou. Porém, devido ao frio extremo e a uma contraofensiva soviética em larga escala, um ataque à capital russa deixou de ser possível. Pouco sabiam eles que teriam de lutar pelo mesmo local apenas alguns meses depois."
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/outro_failed"
 msgid "Not crossing the Dnieper means not taking Vyazma, and many more casualties for Army Group Centre. This mission result means the northern half of the attack on Vyazma is missing, delaying the end of the encirclement by 4 weeks and stopping the German offensive when it matters most."
-msgstr "Não cruzar o Dnieper significa não tomar Vyazma, e muito mais baixas para o Grupo de Exércitos Centro. Este resultado da missão significa que a metade norte do ataque a Vyazma está faltando, atrasando o encerramento do cerco em 4 semanas e parando a ofensiva alemã no momento mais crítico."
+msgstr "Não cruzar o Dnieper significa não tomar Vyazma, e muito mais baixas para o Grupo de Exércitos Centro. Este resultado da missão significa que a metade norte do ataque a Vyazma está faltando, atrasando a conclusão do cerco em 4 semanas e parando a ofensiva alemã no momento mais crítico."
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/place"
 msgid "3rd Panzer Group, Army Group Centre."
@@ -94,7 +94,7 @@ msgstr "Tripulação da Panzerwaffe"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/infantry_truck"
 msgid "Motorized Inf. squad"
@@ -142,7 +142,7 @@ msgstr "Sturmpioniere"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/scouts"
 msgid "Scout and Sniper"
-msgstr "Batedores e Atiradores de Elite"
+msgstr "Batedor e Franco-atirador"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/reinforcement/fueltruck"
 msgid "Fuel truck"

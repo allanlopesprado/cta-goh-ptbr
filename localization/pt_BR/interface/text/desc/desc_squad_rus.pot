@@ -75,7 +75,7 @@ msgstr "Engenheiro de Campo"
 
 msgctxt "desc/squad/single_flamer(rus)"
 msgid "Flamer"
-msgstr "Lança-chamas"
+msgstr "Operador de Lança-chamas"
 
 msgctxt "desc/squad/single_medic(rus)"
 msgid "Medic"
@@ -123,15 +123,15 @@ msgstr "<c(A5A095)>(1)</c> Esquadra da Guarda de Fronteira"
 
 msgctxt "desc/squad/squad_conscripts(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript rifle squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_conscripts_con(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_conscripts_late(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript rifle squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_guards(rus)"
 msgid "Guards Inf."
@@ -147,7 +147,7 @@ msgstr "<c(A5A095)>(3)</c> Esquadra SMG da Guarda"
 
 msgctxt "desc/squad/squad_guardsrifle(rus)"
 msgid "<c(A5A095)>(3)</c> Guards Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_heavy(rus)"
 msgid "Heavy Inf."
@@ -155,19 +155,19 @@ msgstr "Inf. Pesada"
 
 msgctxt "desc/squad/squad_marines(rus)"
 msgid "<c(A5A095)>(4)</c> Black sea Marine squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Marines do Mar Negro"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros Navais do Mar Negro"
 
 msgctxt "desc/squad/squad_marines_con(rus)"
 msgid "<c(A5A095)>(4)</c> Black sea marine squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Marines do Mar Negro"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros Navais do Mar Negro"
 
 msgctxt "desc/squad/squad_marines_late(rus)"
 msgid "<c(A5A095)>(4)</c> Guards Marine squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Marines da Guarda"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros Navais da Guarda"
 
 msgctxt "desc/squad/squad_mountain_rifle_early(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_mountainrifles(rus)"
 msgid "Mountain Rifles"
@@ -175,7 +175,7 @@ msgstr "Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_mountainrifles_con(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_nkvd(rus)"
 msgid "Penal Unit"
@@ -211,7 +211,7 @@ msgstr "<c(A5A095)>(1)</c> Partisanos"
 
 msgctxt "desc/squad/squad_partisan_con(rus)"
 msgid "<c(A5A095)>(1)</c> Partisan squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Partisans"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Guerrilheiros"
 
 msgctxt "desc/squad/squad_penal(rus)"
 msgid "Penal Battalion"
@@ -243,7 +243,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra Pesada de Fuzis"
 
 msgctxt "desc/squad/squad_rifle_motorised"
 msgid "Motorised rifle squad"
-msgstr "Esquadra de Fuzis Motorizada"
+msgstr "Esquadra de Fuzileiros Motorizada"
 
 msgctxt "desc/squad/squad_rifle_motorised_con"
 msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
@@ -251,35 +251,35 @@ msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzis"
 
 msgctxt "desc/squad/squad_rifleunit(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit_42(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit_44(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit_alt(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad (No LMG)"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis (Sem LMG)"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros (Sem LMG)"
 
 msgctxt "desc/squad/squad_rifleunit_alt_con(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad (No LMG)"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis (Sem LMG)"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros (Sem LMG)"
 
 msgctxt "desc/squad/squad_rifleunit_con(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit_early(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit_heavy(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_sappers(rus)"
 msgid "Assault Sappers"
@@ -331,7 +331,7 @@ msgstr "Soldado SMG"
 
 msgctxt "desc/squad/single_sa(rus)"
 msgid "Semi-Auto Rifleman"
-msgstr "Atirador Semi-automático"
+msgstr "Atirador de Fuzil Semiautomático"
 
 msgctxt "desc/squad/squad_recon_early_all(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -339,7 +339,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_early_all(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_cav_sap_recon_early_all(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Recon Sapper Squad"
@@ -347,7 +347,7 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Sapadores e Reconhecimento de Cavalaria"
 
 msgctxt "desc/squad/squad_cav_early_all(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Cavalaria"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Cavalaria"
 
 msgctxt "desc/squad/squad_para_early_all(rus)"
 msgid "<c(A5A095)>(4)</c> Paratrooper Squad"
@@ -359,7 +359,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_early_def(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_sapper_early_def(rus)"
 msgid "<c(A5A095)>(2)</c> Sapper Squad"
@@ -367,7 +367,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Sapadores"
 
 msgctxt "desc/squad/squad_mountain_early_def(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_mountain_sapper_early_def(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Sapper Squad"
@@ -375,23 +375,23 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Sapadores de Montanha"
 
 msgctxt "desc/squad/squad_para_glider_early_def(rus)"
 msgid "<c(A5A095)>(4)</c> Glider Squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Planadores"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Infantaria de Planadores"
 
 msgctxt "desc/squad/squad_rifle_early_irr(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_heavy_early_irr_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Heavy Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis Pesada"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros Pesada"
 
 msgctxt "desc/squad/squad_rifle_heavy_early_irr_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Heavy Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis Pesada"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros Pesada"
 
 msgctxt "desc/squad/squad_rifle_heavy_early_irr_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Heavy Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis Pesada"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros Pesada"
 
 msgctxt "desc/squad/squad_mountain_recon_early_irr(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Recon Squad"
@@ -399,7 +399,7 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Reconhecimento de Montanha"
 
 msgctxt "desc/squad/squad_mountain_early_irr(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_para_recon_early_irr(rus)"
 msgid "<c(A5A095)>(4)</c> Paratrooper Recon Squad"
@@ -415,11 +415,11 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_early_off(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_cav_early_off(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Cavalaria"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Cavalaria"
 
 msgctxt "desc/squad/squad_cav_sapper_early_off(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Sapper Squad"
@@ -435,11 +435,11 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento Cossaca"
 
 msgctxt "desc/squad/squad_cossack_early_sup(rus)"
 msgid "<c(A5A095)>(2)</c> Cossack Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis Cossaca"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros Cossaca"
 
 msgctxt "desc/squad/squad_mountain_early_sup(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_mountain_sapper_early_sup(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Sapper Squad"
@@ -447,15 +447,15 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Sapadores de Montanha"
 
 msgctxt "desc/squad/squad_para_glider_recon_early_sup(rus)"
 msgid "<c(A5A095)>(4)</c> Glider Recon Squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Reconhecimento de Planadores"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Reconhecimento da Infantaria de Planadores"
 
 msgctxt "desc/squad/squad_para_glider_early_sup(rus)"
 msgid "<c(A5A095)>(4)</c> Glider Squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Planadores"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Infantaria de Planadores"
 
 msgctxt "desc/squad/squad_conscript_mid_all(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_recon_mid_all(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -463,7 +463,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_mid_all(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_at_rifle_mid_all(rus)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
@@ -471,19 +471,19 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_guards_rifle_mid_all(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_elite_guards_rifle_mid_all(rus)"
 msgid "<c(A5A095)>(3+)</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guards_rifle_mid_off(rus)"
 msgid "<c(A5A095)>(3+)</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_penal_mid_def(rus)"
 msgid "<c(A5A095)>(1)</c> Penal Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Batalhão Penal"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Batalhão Penal"
 
 msgctxt "desc/squad/squad_nkvd_recon_mid_def(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Recon Squad"
@@ -491,7 +491,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento NKVD"
 
 msgctxt "desc/squad/squad_nkvd_rifle_mid_def(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis NKVD"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros NKVD"
 
 msgctxt "desc/squad/squad_nkvd_sapper_mid_def(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Sapper Squad"
@@ -503,7 +503,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT NKVD"
 
 msgctxt "desc/squad/squad_nkvd_mountain_mid_def(rus)"
 msgid "<c(A5A095)>(3)</c> NKVD Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha NKVD"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha NKVD"
 
 msgctxt "desc/squad/squad_nkvd_mountain_cav_mid_def(rus)"
 msgid "<c(A5A095)>(4)</c> NKVD Mountain Cavalry Squad"
@@ -519,19 +519,19 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_mid_irr(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad (SMG)"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis (SMG)"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros (SMG)"
 
 msgctxt "desc/squad/squad_rifle_mid_irr_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad (MG)"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis (MG)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros (MG)"
 
 msgctxt "desc/squad/squad_rifle_mid_irr_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad (MG)"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis (MG)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros (MG)"
 
 msgctxt "desc/squad/squad_rifle_mid_irr_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad (MG)"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis (MG)"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros (MG)"
 
 msgctxt "desc/squad/squad_at_rifle_mid_irr(rus)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
@@ -539,27 +539,27 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_mountain_mid_irr(rus)"
 msgid "<c(A5A095)>(3)</c> Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzis de Montanha"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros de Montanha"
 
 msgctxt "desc/squad/squad_mountain_cav_mid_irr(rus)"
 msgid "<c(A5A095)>(4)</c> Mountain Cavalry Squad"
-msgstr "<c(A5A095)>(4)</c> Montanha Esquadra de Cavalaria"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Cavalaria de Montanha"
 
 msgctxt "desc/squad/squad_mountain_cav_mid_all(rus)"
 msgid "<c(A5A095)>(4)</c> Mountain Cavalry Squad"
-msgstr "<c(A5A095)>(4)</c> Montanha Esquadra de Cavalaria"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Cavalaria de Montanha"
 
 msgctxt "desc/squad/squad_mountain_cav_late_def(rus)"
 msgid "<c(A5A095)>(4)</c> Mountain Cavalry Squad"
-msgstr "<c(A5A095)>(4)</c> Montanha Esquadra de Cavalaria"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Cavalaria de Montanha"
 
 msgctxt "desc/squad/squad_mountain_cav_late_len(rus)"
 msgid "<c(A5A095)>(4)</c> Mountain Cavalry Squad"
-msgstr "<c(A5A095)>(4)</c> Montanha Esquadra de Cavalaria"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Cavalaria de Montanha"
 
 msgctxt "desc/squad/squad_conscript_mid_off(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_recon_mid_off(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -567,7 +567,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_mid_off(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_smg_mid_off(rus)"
 msgid "<c(A5A095)>(2)</c> SMG Squad"
@@ -579,7 +579,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_guards_rifle_mid_off(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guards_para_mid_off_1(rus)"
 msgid "<c(A5A095)>(4+)</c> <c(E56042)>1.</c> Guards Paratrooper Squad"
@@ -607,7 +607,7 @@ msgstr "<c(A5A095)>(4+)</c> <c(E56042)>3.</c> Esquadra de Paraquedistas da Guard
 
 msgctxt "desc/squad/squad_conscript_mid_sup(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_scout_mid_sup(rus)"
 msgid "<c(A5A095)>(2)</c> Scout Squad"
@@ -615,7 +615,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Exploradores"
 
 msgctxt "desc/squad/squad_rifle_mid_sup(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_sapper_mid_sup(rus)"
 msgid "<c(A5A095)>(2)</c> Sapper Squad"
@@ -631,11 +631,11 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros Navais"
 
 msgctxt "desc/squad/squad_bsf_marine_mid_sup(rus)"
 msgid "<c(A5A095)>(4)</c> BSF Marine Rifle Squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros BSF"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros Navais BSF"
 
 msgctxt "desc/squad/squad_conscript_mid_len(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_recon_mid_len(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -643,7 +643,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_mid_len(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_at_rifle_mid_len(rus)"
 msgid "<c(A5A095)>(2)</c> AT-Rifle Squad"
@@ -655,19 +655,19 @@ msgstr "<c(A5A095)>(3)</c> Esquadra de Fuzileiros Navais"
 
 msgctxt "desc/squad/squad_bsf_marine_mid_len(rus)"
 msgid "<c(A5A095)>(4)</c> BSF Marine Rifle Squad"
-msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros BSF"
+msgstr "<c(A5A095)>(4)</c> Esquadra de Fuzileiros Navais BSF"
 
 msgctxt "desc/squad/squad_rifle_late_all_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_all_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_all_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_smg_late_all_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> SMG Squad"
@@ -687,15 +687,15 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Sapadores"
 
 msgctxt "desc/squad/squad_guard_rifle_late_all_1(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_all_2(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_all_3(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_assault_eng_late_all(rus)"
 msgid "<c(A5A095)>(4)</c> Assault Engineer Squad"
@@ -715,19 +715,19 @@ msgstr "<c(A5A095)>(4)</c> Esquadra AT/Lança-chamas de Eng. de Assalto"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_all_1(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c>  Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c>  Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c>  Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_all_2(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c>  Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c>  Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c>  Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_all_3(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>3.</c>  Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c>  Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c>  Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_conscript_late_def(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_recon_late_def(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -735,15 +735,15 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_late_def_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_def_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_def_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_sap_late_def(rus)"
 msgid "<c(A5A095)>(2)</c> Sapper Squad"
@@ -787,15 +787,15 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_late_irr_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_irr_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_irr_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_vet_partisan_rifle_late_irr_1(rus)"
 msgid "<c(A5A095)>(1+)</c> <c(E56042)>1.</c> Vet Partisan Rifle Squad"
@@ -827,31 +827,31 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzis AT"
 
 msgctxt "desc/squad/squad_guard_rifle_late_irr_1(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_irr_2(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_irr(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_irr_1(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_irr_2(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_irr(rus)"
 msgid "<c(A5A095)>(3+)</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_conscript_late_len(rus)"
 msgid "<c(A5A095)>(1)</c> Conscript Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzis de Conscritos"
+msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Conscritos"
 
 msgctxt "desc/squad/squad_recon_late_len(rus)"
 msgid "<c(A5A095)>(2)</c> Recon Squad"
@@ -859,15 +859,15 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_late_len_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_len_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_len_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_smg_late_len_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> SMG Squad"
@@ -915,19 +915,19 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_late_sup_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_sup_3(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_late_sup_2(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Heavy Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzis Pesada"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros Pesada"
 
 msgctxt "desc/squad/squad_rifle_late_sup_4(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Heavy Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzis Pesada"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros Pesada"
 
 msgctxt "desc/squad/squad_smg_late_sup_1(rus)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> SMG Squad"
@@ -947,15 +947,15 @@ msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra SMG Pesada"
 
 msgctxt "desc/squad/squad_guard_rifle_late_sup_1(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_sup_2(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_rifle_late_sup(rus)"
 msgid "<c(A5A095)>(2+)</c> Guards Rifle Squad"
-msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzis da Guarda"
+msgstr "<c(A5A095)>(2+)</c> Esquadra de Fuzileiros da Guarda"
 
 msgctxt "desc/squad/squad_guard_smg_late_sup_1(rus)"
 msgid "<c(A5A095)>(2+)</c> <c(E56042)>1.</c> Guards SMG Squad"
@@ -971,15 +971,15 @@ msgstr "<c(A5A095)>(2+)</c> Esquadra SMG da Guarda"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_sup_1(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_sup_2(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_rifle_late_sup(rus)"
 msgid "<c(A5A095)>(3+)</c> Elite Guards Rifle Squad"
-msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzis da Guarda de Elite"
+msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_elite_guard_smg_late_sup_1(rus)"
 msgid "<c(A5A095)>(3+)</c> <c(E56042)>1.</c> Elite Guards SMG Squad"

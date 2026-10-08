@@ -38,7 +38,7 @@ msgstr "15 de julho de 1944 · Bielorrússia"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/story"
 msgid "While the 1st Belorussian Front is smashing through Army Group Centre during Operation Bagration in the summer of 1944, you are advancing behind the main line of attack. Your orders are clear: report to the headquarters of the 17th Infantry Division. \nAs you move through the humid Belarusian countryside under a grey July sky, you wonder what the division staff needs from you. You’ll know soon enough. Just keep marching — the HQ is just beyond that village up ahead. \n\nGood luck!"
-msgstr "Enquanto a 1ª Frente Bielorrussa esmaga o Grupo de Exércitos Centro durante a Operação Bagration no verão de 1944, você avança atrás da linha principal de ataque. Suas ordens são claras: apresentar-se ao quartel-general da 17ª Divisão de Infantaria.\nConforme você avança pelo úmido campo bielorrusso sob um céu cinza de julho, pergunta-se o que a equipe da divisão precisa de você. Logo saberá. Continue marchando — o QG fica logo além daquele vilarejo à frente.\n\nBoa sorte!"
+msgstr "Enquanto a 1ª Frente Bielorrussa esmaga o Grupo de Exércitos Centro durante a Operação Bagration no verão de 1944, você avança atrás da linha principal de ataque. Suas ordens são claras: apresentar-se ao quartel-general da 17ª Divisão de Infantaria.\nConforme você avança pelo úmido campo bielorrusso sob um céu cinza de julho, pergunta-se o que o estado-maior da divisão quer de você. Logo saberá. Continue marchando — o QG fica logo além daquele vilarejo à frente.\n\nBoa sorte!"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/gameover_officer_dead"
 msgid "Hauptmann Hellmann was killed."
@@ -74,7 +74,7 @@ msgstr "Vamos ver... Não consigo distinguir todos os detalhes, mas mesmo à pri
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/docs_found_02"
 msgid "They've surrounded our division and plan to attack it from two directions. There is more bad news - they've got heavy tanks!"
-msgstr "Eles cercaram nossa divisão e planejam atacá-la em dois sentidos. Tem mais uma notícia ruim — eles têm tanques pesados!"
+msgstr "Eles cercaram nossa divisão e planejam atacá-la por duas direções. Tem mais uma notícia ruim — eles têm tanques pesados!"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/docs_found_03"
 msgid "The situation calls for guts and determination. We must ambush their reinforcements and warn our comrades!"
@@ -82,7 +82,7 @@ msgstr "A situação exige coragem e determinação. Precisamos emboscar seus re
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/enemy_see_pl"
 msgid "Now they know we're here. In a moment, the whole village will be looking for us. Prepare yourselves!"
-msgstr "Agora eles sabem que estamos aqui. Em um momento, todo o vilarejo estará nos procurando. Preparem-se!"
+msgstr "Agora eles sabem que estamos aqui. Em instantes, todo o vilarejo estará nos procurando. Preparem-se!"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/officer/evac_01"
 msgid "I think that was the last of them. Amazing job, soldiers!"
@@ -162,7 +162,7 @@ msgstr "Cuidado, eles têm reforços se aproximando pelo oeste!"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_01"
 msgid "I can't argue with that... It reminds me of my village."
-msgstr "Não posso discutir com isso... Me lembra meu vilarejo."
+msgstr "Não tenho como discordar disso... Me lembra meu vilarejo."
 
 msgctxt "mission/single/06-bonus/1944_03_trap/narrator/soldier/intro_02"
 msgid "What is this?"
@@ -222,7 +222,7 @@ msgstr "Recapturar o Jagdpanther e repará-lo"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_allround"
 msgid "<c(B29557)>All-Round doctrine:</c> Eliminate the enemy sniper"
-msgstr "<c(B29557)>Doutrina Versátil:</c> Eliminar o atirador de elite inimigo"
+msgstr "<c(B29557)>Doutrina Versátil:</c> Eliminar o franco-atirador inimigo"
 
 msgctxt "mission/single/06-bonus/1944_03_trap/tasks/opt02_defensive"
 msgid "<c(B29557)>Defensive doctrine:</c> Eliminate the Soviet light armor unit in the village"

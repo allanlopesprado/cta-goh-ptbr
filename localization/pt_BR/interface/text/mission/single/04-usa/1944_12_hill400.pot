@@ -72,7 +72,7 @@ msgstr "Vamos tomar o Morro 400, Tenente. Meus rapazes vão testar as defesas al
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/03"
 msgid "Knock it off! Those M12s are here to blow the hell out of the Germans. Alright Soldiers, scout hill 400 and give us some coordinates for bombardment."
-msgstr "Chega! Esses M12s estão aqui para destruir os alemães. Certo, soldados — reconheçam o Morro 400 e nos dêem coordenadas para bombardeio."
+msgstr "Chega! Esses M12s estão aqui para destruir os alemães. Certo, soldados — reconheçam o Morro 400 e nos deem coordenadas para bombardeio."
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/04"
 msgid "Listen Up!! I want that hill taken by nightfall, let's go! Reinforcements and Artillery are at your disposal. Rangers lead the way!"
@@ -84,7 +84,7 @@ msgstr "Os Krauts têm alguns canhões antiaéreos perto do complexo da fazenda,
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/06"
 msgid "Well done boys! The Hill is ours. Judging by the way they fought for it, I don't think they'll let it go that easily. Set up a defensive perimeter and prepare for possible counterattack."
-msgstr "Muito bem, rapazes! O morro é nosso. A julgar pela forma como lutaram por ele, não acho que vão deixá-lo ir facilmente. Monte um perímetro defensivo e prepare-se para possível contra-ataque."
+msgstr "Muito bem, rapazes! O morro é nosso. A julgar pela forma como lutaram por ele, não acho que vão desistir dele tão facilmente. Monte um perímetro defensivo e prepare-se para possível contra-ataque."
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator/07"
 msgid "As you move through the forest keep your eyes peeled for the enemy. You could be leaving pockets of resistance behind you. These Krauts know how to camouflage their positions. Fan out and comb the entire area slowly."
@@ -168,7 +168,7 @@ msgstr "Poderíamos simplesmente contorná-lo, senhor... Pelo amor de Deus, est�
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/03"
 msgid "Well guys, it's time for us to catch some rays, you know? 5th Armoured division need us back at Bergstein. Pleasure to have slayed some nazis with y'all today."
-msgstr "Bem, rapazes — é hora de apanharmos um sol, sabe? A 5ª Divisão Blindada nos quer de volta em Bergstein. Foi um prazer combater nazistas com vocês hoje."
+msgstr "Bem, rapazes — é hora de apanharmos um sol, sabe? A 5ª Divisão Blindada nos quer de volta em Bergstein. Foi um prazer eliminar alguns nazistas com vocês hoje."
 
 msgctxt "mission/single/04-usa/1944_12_hill400/narrator2/unable"
 msgid "Target out of our range, you're gonna have to give us new coordinates."
@@ -260,7 +260,7 @@ msgstr "CCKW (Suprimento)"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/story"
 msgid " December 1944. You have been in Europe for half a year now. Progress has been steady and the allied advance seems unstoppable.\n\n Today, just like on D-Day, you will be taking an enemy position on high ground, a crucial hill that would give us the high ground in the upcoming battle for the Hürtgen forest. On your map, it’s named Hill 400, near Bergstein. You must gather intel on the enemy position first, and then decide how you’re going to take this hill. When you have control of the area, you must reinforce the position, set up radio communications, and defend  against potential counterattacks. Only when you have radio contact, will you get access to artillery support. Use it to your advantage whenever you can.\n\nGood luck!"
-msgstr " Dezembro de 1944. Você está na Europa há meio ano e o avanço aliado parece imparável.\n\n Hoje, assim como no Dia D, você tomará uma posição inimiga em ponto elevado, um morro crucial que nos daria vantagem topográfica na próxima batalha pela Floresta de Hürtgen. No mapa, está identificado como Morro 400, próximo a Bergstein. Você deve primeiro coletar inteligência sobre a posição inimiga e então decidir como tomar este morro. Quando tiver controle da área, deve reforçar a posição, estabelecer comunicações por rádio e se defender contra possíveis contra-ataques. Somente quando tiver contato por rádio, terá acesso ao apoio de artilharia. Use-o a seu favor sempre que puder.\n\nBoa sorte!"
+msgstr " Dezembro de 1944. Você está na Europa há meio ano. O progresso tem sido constante e o avanço aliado parece imparável.\n\n Hoje, assim como no Dia D, você tomará uma posição inimiga em ponto elevado, um morro crucial que nos daria vantagem topográfica na próxima batalha pela Floresta de Hürtgen. No mapa, está identificado como Morro 400, próximo a Bergstein. Você deve primeiro coletar informações de inteligência sobre a posição inimiga e então decidir como tomar este morro. Quando tiver controle da área, deve reforçar a posição, estabelecer comunicações por rádio e se defender contra possíveis contra-ataques. Somente quando tiver contato por rádio, terá acesso ao apoio de artilharia. Use-o a seu favor sempre que puder.\n\nBoa sorte!"
 
 msgctxt "mission/single/04-usa/1944_12_hill400/task_aa"
 msgid "Eliminate the German AA guns to get access to airstrikes"

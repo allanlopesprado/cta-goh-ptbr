@@ -18,7 +18,7 @@ msgstr "Equipe de bazuca, aguardando ordens!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/allies02"
 msgid "Sniper team, ready for action!"
-msgstr "Equipe de atiradores de elite, pronta para a ação!"
+msgstr "Equipe de franco-atiradores, pronta para a ação!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/date"
 msgid "June 6th, 1944 · La Fière, Normandy, France."
@@ -90,11 +90,11 @@ msgstr "Eles estão recuando!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator15"
 msgid "There's something wrong with the AT-gun's breech. Don't fire it too much, or it'll break!"
-msgstr "Há algo errado com o obturador do canhão AT. Não atire demais, ou vai quebrar!"
+msgstr "Há algo errado com a culatra do canhão AT. Não atire demais, ou vai quebrar!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier01"
 msgid "Shit! The AT gun's breech broke! Someone grab a repair kit!"
-msgstr "Merda! O obturador do canhão AT quebrou! Alguém pegue um kit de reparo!"
+msgstr "Merda! A culatra do canhão AT quebrou! Alguém pegue um kit de reparo!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/narrator_soldier02"
 msgid "The AT-gun patched up! We're back in business!"
@@ -142,7 +142,7 @@ msgstr "(Objetivo Secreto nº 2)"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/story"
 msgid "  Daybreak on D-Day. The 82nd Airborne is on the ground in Normandy. Not everything went right; the cloud base over the drop zone and the German Flak was dense. You have spent hours of darkness trying to find your comrades, and after a short headcount, it’s clear that this will be one hell of a day.\n\n  Your group is tasked to take the bridge at La Fière and hold it until the US Army arrives from Utah Beach. \n\n  Your task is vital; once you take the bridge, the enemy can no longer approach St. Mère-Église from the west, or reach the roads to the invasion beaches.\n\n Good luck!"
-msgstr "  Amanhecer do Dia D. A 82ª Aerotransportada está em solo na Normandia. Nem tudo correu bem; a base das nuvens sobre a zona de lançamento e a Flak alemã eram densas. Você passou horas na escuridão tentando encontrar seus camaradas e, após uma rápida contagem, está claro que este será um dia e tanto.\n\n  Seu grupo tem a missão de tomar a ponte em La Fière e segurá-la até que o Exército dos EUA chegue da Praia Utah.\n\n  Sua missão é vital; uma vez que você tome a ponte, o inimigo não poderá mais se aproximar de St. Mère-Église pelo oeste, nem alcançar as estradas para as praias de invasão.\n\n Boa sorte!"
+msgstr "  Amanhecer do Dia D. A 82ª Aerotransportada está em solo na Normandia. Nem tudo correu bem; a camada de nuvens sobre a zona de lançamento era densa, assim como o fogo antiaéreo alemão. Você passou horas na escuridão tentando encontrar seus camaradas e, após uma rápida contagem, está claro que este será um dia e tanto.\n\n  Seu grupo tem a missão de tomar a ponte em La Fière e segurá-la até que o Exército dos EUA chegue da Praia Utah.\n\n  Sua missão é vital; uma vez que você tome a ponte, o inimigo não poderá mais se aproximar de St. Mère-Église pelo oeste, nem alcançar as estradas para as praias de invasão.\n\n Boa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge/task1"
 msgid "Capture the manor and secure the bridge!"

@@ -78,11 +78,11 @@ msgstr "Missão fracassada! - O inimigo capturou o nosso QG!"
 
 msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/mission_attack"
 msgid "Break through the Seelow Heights"
-msgstr "Rompa as Alturas de Seelow"
+msgstr "Abra caminho pelas Alturas de Seelow"
 
 msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/flag_capture_status"
 msgid "Your soldiers secured %1%/7 German positions!"
@@ -94,7 +94,7 @@ msgstr "Você está agora no covil da Besta! Este é o nosso QG de campo, deve p
 
 msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start1"
 msgid "Comrade, you are tasked with breaching through these heavily defended heights. We must crush the Seelow defenses and drive on to Berlin!"
-msgstr "Camarada, você está encarregado de romper estas alturas fortemente defendidas. Devemos esmagar as defesas de Seelow e avançar para Berlim!"
+msgstr "Camarada, você está encarregado de abrir caminho por estas alturas fortemente defendidas. Devemos esmagar as defesas de Seelow e avançar para Berlim!"
 
 msgctxt "mission/single/01-rus_skirmish/1945_04-rus_seelow_heights/narrator_start2"
 msgid "The germans are planning to reinforce their lines with everything they've got! Make sure to flank them and overwhelm them with our numbers!"

@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "desc/ammo/bergmann_stick"
 msgid "7.65mm Bergmann Stick"
-msgstr "7.65mm Bergmann Pente"
+msgstr "Carregador Tipo Caixa 7.65mm para Bergmann"
 
 msgctxt "desc/ammo/bullet_20x138b_auto fin ap"
 msgid "20 psfav-Vj3 [<c(ff6a00)>AP</c>] <c(65696d)>Breda</c>"
@@ -126,55 +126,55 @@ msgstr "20 tkrv-Vj3 [<c(ff1200)>HE</c>] <c(65696d)>ItK/40</c>"
 
 msgctxt "desc/ammo/chauchat"
 msgid "8mm Chauchat Magazine"
-msgstr "8mm Chauchat Carregador"
+msgstr "Carregador 8mm para Chauchat"
 
 msgctxt "desc/ammo/m26"
 msgid "7.62mm M/26 Magazine"
-msgstr "7.62mm M/26 Carregador"
+msgstr "Carregador 7.62mm para M/26"
 
 msgctxt "desc/ammo/madsen"
 msgid "7.62mm Madsen Magazine"
-msgstr "7.62mm Madsen Carregador"
+msgstr "Carregador 7.62mm para Madsen"
 
 msgctxt "desc/ammo/mgun_rus l33_36"
 msgid "7.62-mm L-33/36 Rounds"
-msgstr "7.62-mm L-33/36 Cartuchos"
+msgstr "Cartuchos 7.62-mm para L-33/36"
 
 msgctxt "desc/ammo/mortarfin_81 he"
 msgid "[<c(ff1200)>HE</c>] 81-mm Mortar"
-msgstr "[<c(ff1200)>HE</c>] 81-mm Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição para Morteiro de 81-mm"
 
 msgctxt "desc/ammo/mortarfin_81 sm"
 msgid "[SMOKE] 81-mm Mortar"
-msgstr "[SMOKE] 81-mm Morteiro"
+msgstr "[SMOKE] Munição para Morteiro de 81-mm"
 
 msgctxt "desc/ammo/mortarfin_120 he"
 msgid "[<c(ff1200)>HE</c>] 120-mm Mortar"
-msgstr "[<c(ff1200)>HE</c>] 120-mm Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição para Morteiro de 120-mm"
 
 msgctxt "desc/ammo/mortarfin_170 he"
 msgid "[<c(ff1200)>HE</c>] 170-mm Mortar"
-msgstr "[<c(ff1200)>HE</c>] 170-mm Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição para Morteiro de 170-mm"
 
 msgctxt "desc/ammo/suomi_drum"
 msgid "9mm Suomi Drum"
-msgstr "9mm Suomi Tambor"
+msgstr "Tambor Suomi de 9mm"
 
 msgctxt "desc/ammo/suomi_stick"
 msgid "9mm Suomi Stick"
-msgstr "9mm Suomi Pente"
+msgstr "Carregador Tipo Caixa 9mm para Suomi"
 
 msgctxt "desc/ammo/m1907_mag"
 msgid "9mm M1907 Rounds"
-msgstr "9mm M1907 Cartuchos"
+msgstr "Cartuchos 9mm para M1907"
 
 msgctxt "desc/ammo/kg_m21_mag"
 msgid "6.5mm KG M/21 Magazine"
-msgstr "6.5mm KG M/21 Carregador"
+msgstr "Carregador 6.5mm para KG M/21"
 
 msgctxt "desc/ammo/rifle_swe clip"
 msgid "6.5mm Mauser Rounds"
-msgstr "6.5mm Mauser Cartuchos"
+msgstr "Cartuchos 6.5mm para Mauser"
 
 msgctxt "desc/ammo/bulletrus_45 apcbc"
 msgid "45 psa-Vj4 [<c(ff6a00)>APCBC</c>]"
@@ -202,7 +202,7 @@ msgstr "114 fsakrv 51/61-106E [<c(FFFFFF)>WP</c>] <c(65696d)>L/15.6</c>"
 
 msgctxt "desc/ammo/mortarfin_300 he"
 msgid "[<c(ff1200)>HE</c>] 300-mm Mortar"
-msgstr "[<c(ff1200)>HE</c>] 300-mm Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição para Morteiro de 300-mm"
 
 msgctxt "desc/ammo/bulletrus_76_l55 apcbc"
 msgid "76 psa-Vj4 [<c(ff6a00)>APCBC</c>]"

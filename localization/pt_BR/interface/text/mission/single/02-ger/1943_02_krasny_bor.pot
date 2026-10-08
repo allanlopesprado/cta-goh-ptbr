@@ -34,7 +34,7 @@ msgstr "Soldados da 250ª Divisão de Infantaria! Atenção!"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/02"
 msgid "The Soviet counteroffensive is at large! The bolsheviks are eager to break the Leningrad encirclement and are dashing toward your defences with armor! Everything is at stake!"
-msgstr "A contra-ofensiva soviética está em pleno andamento! Os bolcheviques estão ansiosos para romper o cerco de Leningrado e avançam para suas defesas com blindados! Tudo está em jogo!"
+msgstr "A contraofensiva soviética está em pleno andamento! Os bolcheviques estão ansiosos para romper o cerco de Leningrado e avançam para suas defesas com blindados! Tudo está em jogo!"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/03"
 msgid "Today is the day where the Red wave will meet the Blue wall! You already defeated the communists once. I am confident you will do it once more! "
@@ -118,7 +118,7 @@ msgstr "Artilharia de foguetes inimiga na área! Os órgãos de Stalin chegaram 
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_completed"
 msgid "Because the blue division held the line at Krasny Bor, the 18th army was not surrounded like the 6th at Stalingrad. But they paid a terrible price; only 1 in five got out alive. \nThe Germans thought the blue division’s tenacity was unmatched. This seems no more than fair, considering how little they had to defend themselves against the huge odds."
-msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército não foi cercado como o 6º em Stalingrado. Mas pagou um preço terrível: apenas 1 em cada 5 saiu vivo.\nOs alemães consideravam a tenacidade da Divisão Azul incomparável. Isso parece justo, considerando quão pouco eles tinham para se defender diante de tamanha desvantagem."
+msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército não foi cercado como o 6º em Stalingrado. Mas a Divisão Azul pagou um preço terrível: apenas 1 em cada 5 saiu vivo.\nOs alemães consideravam a tenacidade da Divisão Azul incomparável. Isso parece justo, considerando quão pouco eles tinham para se defender diante de tamanha desvantagem."
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_failed"
 msgid "Your failure to hold Krasny Bor has grave consequences; the 18th army has just been cut off from the front, facing the same fate as the 6th army at Stalingrad. Thousands will succumb to injury, illness and starvation. Those that can still walk will be sent to Siberia. This is a dent in your reputation to say the least!  \n"
@@ -186,7 +186,7 @@ msgstr "Não deixe os tanques inimigos invadirem a bateria de artilharia"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_comms"
 msgid "Keep the radio vehicle crewed and operational for reinforcements."
-msgstr "Mantenha o veículo de rádio tripulado e operacional para os reforços."
+msgstr "Mantenha o veículo de rádio tripulado e operacional para poder chamar reforços."
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/taskopt_station"
 msgid "Don't let the enemy tanks enter the train station"

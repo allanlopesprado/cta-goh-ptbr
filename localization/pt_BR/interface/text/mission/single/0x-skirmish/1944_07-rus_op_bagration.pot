@@ -50,7 +50,7 @@ msgstr "Operação Bagration"
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/story"
 msgid "Belorussian Front, Minsk offensive. After several delays our forces are finally on the move. We will overwhelm the nazis, now that the numbers are stacked in our favor.\n\nGoals:\n - Liberation of Minsk.\n - Destruction of the german Fourth Army."
-msgstr "Frente Bielorrussa, ofensiva de Minsk. Após vários atrasos, nossas forças estão finalmente em movimento. Vamos esmagar os nazistas, agora que os números estão a nosso favor.\n\nObjetivos:\n - Libertação de Minsk.\n - Destruição do 4º Exército alemão."
+msgstr "Frente Bielorrussa, ofensiva de Minsk. Após vários atrasos, nossas forças estão finalmente em movimento. Vamos esmagar os nazistas, agora que temos vantagem numérica.\n\nObjetivos:\n - Libertação de Minsk.\n - Destruição do 4º Exército alemão."
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/place"
 msgid "Berezina line"
@@ -78,7 +78,7 @@ msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/mission_attack"
 msgid "Capture the river east of Minsk!"
@@ -102,7 +102,7 @@ msgstr "Os alemães planejam reforçar suas linhas com blindados pesados. Certif
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/narrator_start3"
 msgid "Begin securing the objectives, while we bring forward some reinforcements for you to deploy!"
-msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você implantar!"
+msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você enviar ao campo de batalha!"
 
 msgctxt "mission/single/01-rus_skirmish/1944_07-rus_op_bagration/allied_enemy_near_hq"
 msgid "Comrades! Germans are close to our Field HQ!"

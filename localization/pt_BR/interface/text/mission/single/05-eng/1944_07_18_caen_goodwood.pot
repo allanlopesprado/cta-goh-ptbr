@@ -22,7 +22,7 @@ msgstr "Goodwood"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/story"
 msgid "Operation Goodwood starts today.\n\nMore than one thousand RAF heavy bombers, flying extremely low, are on their way to bomb enemy positions in Colombelles, Cagny, and a number of other villages and towns.\n\nThanks to the air and artillery support, progress has been good so far; you’re already miles to the south of Caen. In front lies your target for today, which is the village of Cagny.\n\nWe have no idea what the bombing attacks have achieved, or what remains of the enemy; the whole area in and around the village looks like it has been completely obliterated. Take control of the area and form a closed front to defend against any possible German counterattacks."
-msgstr "A Operação Goodwood começa hoje.\n\nMais de mil bombardeiros pesados da RAF, voando extremamente baixo, estão a caminho para bombardear posições inimigas em Colombelles, Cagny e outros vilarejos e cidades.\n\nGraças ao apoio aéreo e de artilharia, o progresso foi bom até agora; você já está quilômetros ao sul de Caen. À frente está seu alvo de hoje: a aldeia de Cagny.\n\nNão sabemos o que os ataques de bombardeio alcançaram, nem o que resta do inimigo; toda a área ao redor da aldeia parece ter sido completamente obliterada. Tome o controle da área e forme uma frente fechada para se defender contra possíveis contra-ataques alemães."
+msgstr "A Operação Goodwood começa hoje.\n\nMais de mil bombardeiros pesados da RAF, voando extremamente baixo, estão a caminho para bombardear posições inimigas em Colombelles, Cagny e outros vilarejos e cidades.\n\nGraças ao apoio aéreo e de artilharia, o progresso foi bom até agora; você já está quilômetros ao sul de Caen. À frente está seu alvo de hoje: a aldeia de Cagny.\n\nNão sabemos o que os ataques de bombardeio alcançaram, nem o que resta do inimigo; toda a área da aldeia e de seus arredores parece ter sido completamente obliterada. Tome o controle da área e forme uma frente fechada para se defender contra possíveis contra-ataques alemães."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/date"
 msgid "July 18th, 1944 · South-East of Caen, Normandy"
@@ -34,7 +34,7 @@ msgstr "2º Batalhão Blindado, Guardas Irlandeses"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/outro_completed"
 msgid "Any planned German counterthrust has been stopped dead in its tracks, even if our losses now prevent us from going on an all- out offensive. Have a rest, you deserve it."
-msgstr "Qualquer contra-ofensiva alemã planejada foi completamente estancada, ainda que nossas perdas agora nos impeçam de realizar uma ofensiva total. Descanse — você merece."
+msgstr "Qualquer contraofensiva alemã planejada foi completamente estancada, ainda que nossas perdas agora nos impeçam de realizar uma ofensiva total. Descanse — você merece."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/outro_failed"
 msgid "This makes us look like useless bleeders! Instead of a splendid victory we’ve been routed like never before. The Germans will keep their hold on Normandy and we’re stuck in the middle of nowhere. Try again!"
@@ -102,7 +102,7 @@ msgstr "De onde diabos conseguiram esses canhões AT? O bombardeio em área deve
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part01_gun_destroyed_01"
 msgid "That son of a bitch is down!"
-msgstr "Aquele filho da puta está fora!"
+msgstr "Aquele filho da puta já era!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part01_gun_destroyed_02"
 msgid "Nice hit, the bastards are dead!"
@@ -114,11 +114,11 @@ msgstr "Os alemães estão recuando para o norte e se entrincheirando, o que vai
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_02_allround"
 msgid "The Germans have turned the entire road into a stronghold. Shit, the house-to-house clearing is gonna take the whole day…"
-msgstr "Os alemães transformaram toda a estrada num fortim. Merda, a limpeza casa por casa vai tomar o dia inteiro..."
+msgstr "Os alemães transformaram toda a estrada numa posição fortificada. Merda, a limpeza casa por casa vai tomar o dia inteiro..."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_03_allround"
 msgid "Lucky for us, we can turn these houses into their graves. Gentlemen, I would like to introduce our demolition miracle - Churchill AVRE. Its firepower is enough to get rid of entire fortifications in the space of a few minutes."
-msgstr "Com sorte para nós, podemos transformar essas casas em seus túmulos. Senhores, é um prazer apresentar nosso milagre de demolição — o Churchill AVRE. Sua potência de fogo é suficiente para eliminar fortificações inteiras em questão de minutos."
+msgstr "Para nossa sorte, podemos transformar essas casas em seus túmulos. Senhores, é um prazer apresentar nosso milagre de demolição — o Churchill AVRE. Sua potência de fogo é suficiente para eliminar fortificações inteiras em questão de minutos."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_allround"
 msgid "The AVRE has arrived. Now show Jerry there is nowhere to hide!"
@@ -126,7 +126,7 @@ msgstr "O AVRE chegou. Agora mostre aos alemães que não há onde se esconder!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_05_allround"
 msgid "This 230mm beast is really wild. Good work men, this road is no longer a threat to us."
-msgstr "Esta besta de 230mm é selvagem de verdade. Bom trabalho, rapazes — esta estrada não é mais uma ameaça para nós."
+msgstr "Esta fera de 230mm é selvagem de verdade. Bom trabalho, rapazes — esta estrada não é mais uma ameaça para nós."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_02_offensive"
 msgid "The Germans have dug trenches between these hedgerows and everywhere else. Shit, this clearing is gonna take the whole day…"
@@ -134,7 +134,7 @@ msgstr "Os alemães cavaram trincheiras entre estas cercas vivas e em todo lugar
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_03_offensive"
 msgid "Lucky for us, we can literally smoke them out. Gentlemen, I would like to introduce a solution against these rats - the Churchill Crocodile. And what’s better than a flamethrower? That’s right! A bloody armoured flamethrower!"
-msgstr "Com sorte para nós, podemos literalmente queimá-los. Senhores, é um prazer apresentar uma solução contra estes ratos — o Churchill Crocodile. E o que é melhor que um lança-chamas? Certo! Um maldito lança-chamas blindado!"
+msgstr "Para nossa sorte, podemos literalmente expulsá-los com fogo. Senhores, é um prazer apresentar uma solução contra estes ratos — o Churchill Crocodile. E o que é melhor que um lança-chamas? Certo! Um maldito lança-chamas blindado!"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_offensive"
 msgid "The Crocodile has arrived. Now make Jerry regret he survived the carpet bombing!"
@@ -142,7 +142,7 @@ msgstr "O Crocodile chegou. Agora faça os alemães se arrependerem de ter sobre
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_05_offensive"
 msgid "Smoking them out is definitely easier than clearing every German foxhole in the area. Good work, men."
-msgstr "Queimá-los é definitivamente mais fácil do que limpar cada abrigo individual alemão na área. Bom trabalho, rapazes."
+msgstr "Expulsá-los com fogo é definitivamente mais fácil do que limpar cada abrigo individual alemão na área. Bom trabalho, rapazes."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_02_defensive"
 msgid "The Germans have even more guns! Shit, we’re gonna lose so many tanks again…"
@@ -150,7 +150,7 @@ msgstr "Os alemães têm ainda mais canhões! Merda, vamos perder mais tanques n
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_03_defensive"
 msgid "Lucky for us, we finally received support against AT guns. Gentlemen, I would like to introduce the Cromwell VI. Its mobility and 95mm gun allows it to manoeuvre in close quarters and avoid the enemy's field of view."
-msgstr "Com sorte para nós, finalmente recebemos apoio contra canhões AT. Senhores, é um prazer apresentar o Cromwell VI. Sua mobilidade e canhão de 95mm permitem manobrar em espaços fechados e esquivar do campo de visão inimigo."
+msgstr "Para nossa sorte, finalmente recebemos apoio contra canhões AT. Senhores, é um prazer apresentar o Cromwell VI. Sua mobilidade e canhão de 95mm permitem manobrar em espaços restritos e esquivar-se do campo de visão inimigo."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_defensive"
 msgid "The Cromwell has arrived. Just provide it with precise coordinates and it will take care of the rest."
@@ -166,7 +166,7 @@ msgstr "Os alemães estabeleceram um campo minado inteiro perto de suas posiçõ
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_03_irregular"
 msgid "Lucky for us, we have a reliable sapper. Gentlemen, I would like to introduce a solution against all minefields - the Sherman Crab. Use it for clearing up the mines."
-msgstr "Com sorte para nós, temos um sapador de confiança. Senhores, é um prazer apresentar uma solução contra todos os campos minados — o Sherman Crab. Use-o para limpar as minas."
+msgstr "Para nossa sorte, temos um sapador de confiança. Senhores, é um prazer apresentar uma solução contra todos os campos minados — o Sherman Crab. Use-o para neutralizar as minas."
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/narrator/part02_04_irregular"
 msgid "The Crab has arrived. Now get rid of this minefield."
@@ -310,7 +310,7 @@ msgstr "<c(B29557)>[Doutrina Defensiva]</c> Elimine canhões AT inimigos usando 
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/task04_irregular"
 msgid "<c(B29557)>[Irregular Doctrine]</c> Clear all Mines using the Sherman Crab"
-msgstr "<c(B29557)>[Doutrina Irregular]</c> Limpe todas as Minas usando o Sherman Crab"
+msgstr "<c(B29557)>[Doutrina Irregular]</c> Neutralize todas as Minas usando o Sherman Crab"
 
 msgctxt "mission/single/05-eng/1944_07_18_caen_goodwood/ui/task05_ruins"
 msgid "Capture the Ruins of Cagny"

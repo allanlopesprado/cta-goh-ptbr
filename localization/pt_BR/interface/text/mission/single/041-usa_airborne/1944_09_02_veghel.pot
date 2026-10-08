@@ -46,7 +46,7 @@ msgstr "Um Panther! Artilheiros, mirem num ponto fraco, ou ele nos matará!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator15"
 msgid "Our 57 mil is down! Someone deal with that Panther!"
-msgstr "Nosso canhão de 57mm está fora! Alguém cuide daquele Panther!"
+msgstr "Nosso canhão de 57mm está fora de combate! Alguém cuide daquele Panther!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator04"
 msgid "They are retreating!"
@@ -70,11 +70,11 @@ msgstr "O apoio chegou!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator16"
 msgid "We have been granted limited artillery support from a nearby battery. One high-explosive and two smoke barrages are available."
-msgstr "Recebemos apoio de artilharia limitado de uma bateria próxima. Uma barragem de explosivo de alto poder e duas de fumaça estão disponíveis."
+msgstr "Recebemos apoio de artilharia limitado de uma bateria próxima. Uma barragem de projéteis de alto explosivo e duas de fumaça estão disponíveis."
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator10"
 msgid "We need to clear any remaining enemies from the village and nearby woods."
-msgstr "Precisamos limpar os inimigos restantes da aldeia e das matas próximas."
+msgstr "Precisamos eliminar os inimigos restantes da aldeia e das matas próximas."
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/narrator07"
 msgid "Good job! The enemy tank destroyers won't threaten our convoys anymore!"
@@ -114,7 +114,7 @@ msgstr "Proteja os caminhões de suprimentos (pelo menos 3 devem sobreviver)"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task02"
 msgid "Clear the enemies from the highway!"
-msgstr "Limpe os inimigos da autoestrada!"
+msgstr "Elimine os inimigos da autoestrada!"
 
 msgctxt "mission/single/041-usa_airborne/1944_09_02_veghel/task03"
 msgid "Find and neutralize German tank destroyers!"

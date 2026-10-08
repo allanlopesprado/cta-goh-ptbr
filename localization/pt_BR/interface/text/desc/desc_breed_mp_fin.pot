@@ -399,7 +399,7 @@ msgstr "Rajajääkäri [Rajavartiolaitos]"
 
 msgctxt "desc/human/mp/fin/late/cav_mg"
 msgid "Ratsuväki MG Operator [Maavoimat]"
-msgstr "Ratsuväki Operador MG [Maavoimat]"
+msgstr "Ratsuväki Operador de MG [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/cav_mg_asst"
 msgid "Ratsuväki MG Asst. [Maavoimat]"
@@ -1459,15 +1459,15 @@ msgstr "Iskuryhmä Líder de Esquadra [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/fortress_rifle"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/fortress_rifle_mosin"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/fortress_sl"
 msgid "Fortress Squadleader [Maavoimat]"
-msgstr "Fortress Líder de Esquadra [Maavoimat]"
+msgstr "Líder de Esquadra de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/early/hrr_cav_mg"
 msgid "Hämeen Ratsuväki MG Operator [Maavoimat]"
@@ -1651,23 +1651,23 @@ msgstr "Iskuryhmä Líder de Esquadra [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_mg"
 msgid "Fortress MG Operator [Maavoimat]"
-msgstr "Fortress Operador de MG [Maavoimat]"
+msgstr "Operador de MG de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_mg_asst"
 msgid "Fortress MG Asst. [Maavoimat]"
-msgstr "Fortress Auxiliar de Metralhadora [Maavoimat]"
+msgstr "Auxiliar de Metralhadora de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_rifle"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_rifle_mosin"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/fortress_sl"
 msgid "Fortress Squadleader [Maavoimat]"
-msgstr "Fortress Líder de Esquadra [Maavoimat]"
+msgstr "Líder de Esquadra de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/mid/hq_lr_jag_rifle"
 msgid "Kaukopartiojoukot Jääkäri [Maavoimat]"
@@ -1955,27 +1955,27 @@ msgstr "Iskuryhmä Líder de Esquadra [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_mg"
 msgid "Fortress MG Operator [Maavoimat]"
-msgstr "Fortress Operador de MG [Maavoimat]"
+msgstr "Operador de MG de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_mg_asst"
 msgid "Fortress MG Asst. [Maavoimat]"
-msgstr "Fortress Auxiliar de Metralhadora [Maavoimat]"
+msgstr "Auxiliar de Metralhadora de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_rifle"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_rifle_mosin"
 msgid "Fortress Rifleman [Maavoimat]"
-msgstr "Fortress Atirador [Maavoimat]"
+msgstr "Atirador de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_sl"
 msgid "Fortress Squadleader [Maavoimat]"
-msgstr "Fortress Líder de Esquadra [Maavoimat]"
+msgstr "Líder de Esquadra de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/fortress_smg"
 msgid "Fortress SMG Inf. [Maavoimat]"
-msgstr "Fortress Inf. SMG [Maavoimat]"
+msgstr "Inf. SMG de Fortaleza [Maavoimat]"
 
 msgctxt "desc/human/mp/fin/late/hq_lr_jag_avt"
 msgid "Kaukopartiojoukot Jääkäri [Maavoimat]"

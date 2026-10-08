@@ -58,7 +58,7 @@ msgstr "Estou despachando o Tenente Afanasyev da 3ª Companhia de Metralhadoras 
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/08"
 msgid "I am sending a notorious sniper to reinforce your men, Comrade Pavlov. He is young, but has a reputation among the fascist hordes. Keep him alive and safe."
-msgstr "Estou enviando um atirador de elite notório para reforçar seus homens, camarada Pavlov. Ele é jovem, mas tem reputação entre as hordas fascistas. Mantenha-o vivo e seguro."
+msgstr "Estou enviando um franco-atirador notório para reforçar seus homens, camarada Pavlov. Ele é jovem, mas tem reputação entre as hordas fascistas. Mantenha-o vivo e seguro."
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/narrator/chuikov/09"
 msgid "Comrades, engineering supplies have been found left behind by the Germans. I am ordering you to reinforce the approaches of the building to improve its defensive capabilities. "
@@ -118,7 +118,7 @@ msgstr "O Sargento Yakov Pavlov deve sobreviver!"
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task5"
 msgid "Keep Sniper Anatoly Checkov alive."
-msgstr "Mantenha o atirador de elite Anatoly Checkov vivo."
+msgstr "Mantenha o franco-atirador Anatoly Checkov vivo."
 
 msgctxt "mission/single/01-rus/1942_09_pavlovs_house/task_supply"
 msgid "Secure supplies"

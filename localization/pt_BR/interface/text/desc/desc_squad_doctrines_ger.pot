@@ -599,7 +599,7 @@ msgstr "<c(B29557)>( I )</c>  Osttruppen"
 
 msgctxt "desc/squad/doctrine_squad_panzergrenadiere"
 msgid "<c(B29557)>( II )</c> Panzergrenadier squad (armored)"
-msgstr "<c(B29557)>( II )</c> Esquadra Panzergrenadier (blindado)"
+msgstr "<c(B29557)>( II )</c> Esquadra Panzergrenadier (blindada)"
 
 msgctxt "desc/squad/doctrine_squad_panzernahkampftrupp(ger)"
 msgid "<c(B29557)>( I )</c> Panzernahkampftrupp"
@@ -615,7 +615,7 @@ msgstr "<c(B29557)>( I )</c> Equipe Pionier"
 
 msgctxt "desc/squad/doctrine_squad_pz_recon"
 msgid "<c(B29557)>( I )</c> Panzeraufklärer squad (armored)"
-msgstr "<c(B29557)>( I )</c> Esquadra Panzeraufklärer (blindado)"
+msgstr "<c(B29557)>( I )</c> Esquadra Panzeraufklärer (blindada)"
 
 msgctxt "desc/squad/doctrine_squad_regular_motorised"
 msgid "<c(B29557)>( I )</c> Sd.Kfz 251 + Inf."
@@ -627,11 +627,11 @@ msgstr "<c(B29557)>( I )</c> Franco-atiradores Urbanos"
 
 msgctxt "desc/squad/doctrine_squad_stosstrupp"
 msgid "<c(B29557)>( II )</c> Panzerpionier squad (armored)"
-msgstr "<c(B29557)>( II )</c> Esquadra Panzerpionier (blindado)"
+msgstr "<c(B29557)>( II )</c> Esquadra Panzerpionier (blindada)"
 
 msgctxt "desc/squad/doctrine_squad_sturmgrenadiere"
 msgid "<c(B29557)>( II )</c> Sturmgrenadier squad (armored)"
-msgstr "<c(B29557)>( II )</c> Esquadra Sturmgrenadier (blindado)"
+msgstr "<c(B29557)>( II )</c> Esquadra Sturmgrenadier (blindada)"
 
 msgctxt "desc/squad/doctrine_squad_sturmpionier"
 msgid "<c(B29557)>( I )</c> Sturmpioniere"
@@ -639,7 +639,7 @@ msgstr "<c(B29557)>( I )</c> Sturmpioniere"
 
 msgctxt "desc/squad/doctrine_squad_vetsniper(ger)"
 msgid "<c(B29557)>( I )</c> Mountain Sniper"
-msgstr "<c(B29557)>( I )</c> Atirador de Precisão de Montanha"
+msgstr "<c(B29557)>( I )</c> Franco-atirador de Montanha"
 
 msgctxt "desc/squad/doctrine_squad_volksgrenadier(ger)"
 msgid "<c(B29557)>( I )</c> Volksgrenadier squad"
@@ -723,7 +723,7 @@ msgstr "<c(B29557)>( I )</c> 3.7cm PaK 36"
 
 msgctxt "desc/squad/doctrine_squad_vetsniper_early(ger)"
 msgid "<c(B29557)>( I )</c> Mountain Sniper"
-msgstr "<c(B29557)>( I )</c> Atirador de Precisão de Montanha"
+msgstr "<c(B29557)>( I )</c> Franco-atirador de Montanha"
 
 msgctxt "desc/squad/doctrine_200mm_ldgw40_mid"
 msgid "<c(B29557)>( II )</c> 20cm LdgW 40"

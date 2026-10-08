@@ -70,7 +70,7 @@ msgstr "<c(B29557)>( I )</c> Cruiser Mk.III"
 
 msgctxt "desc/human/mp/eng/early/hl_bw_sniper"
 msgid "Royal HL. Black Watch Sniper [BA]"
-msgstr "Franco-atirador Royal HL. Black Watch [BA]"
+msgstr "Franco-atirador do Royal HL. Black Watch [BA]"
 
 msgctxt "desc/human/mp/eng/mid/7th_ad_coy_signalman"
 msgid "7th AD. Company Signalman [BA]"
@@ -90,32 +90,32 @@ msgstr "Auxiliar Antitanque Comando Royal Marines [RM]"
 
 msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sniper"
 msgid "6th Airlanding Recon Sniper [BA]"
-msgstr "Franco-atirador Reconhecimento 6° Aerotransportada [BA]"
+msgstr "Franco-atirador de Reconhecimento da 6ª Aerotransportada (Planadores) [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_driver_smg"
 msgid "Guards AD. Driver [BA]"
-msgstr "Guards AD. Motorista [BA]"
+msgstr "Motorista da Divisão Blindada da Guarda [BA]"
 
 msgctxt "desc/ammo/bulleteng_20_auto box ap"
 msgid "20mm AP Shot Mk.IX.T Box Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
-msgstr "Munição AP 20mm Mk.IX.T Carregador [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Munição AP 20mm Mk.IX.T Carregador Tipo Caixa [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto box he"
 msgid "20mm HE/HE-T Shell Box Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
-msgstr "Munição HE/HE-T 20mm Carregador [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HE/HE-T 20mm Carregador Tipo Caixa [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto box hei"
 msgid "20mm HEI/HEI-T Shell Box Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
-msgstr "Munição HEI/HEI-T 20mm Carregador [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HEI/HEI-T 20mm Carregador Tipo Caixa [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto drum ap"
 msgid "20mm AP Shot Mk.IX.T Drum Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
-msgstr "Munição AP 20mm Mk.IX.T Tambor [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Munição AP 20mm Mk.IX.T Carregador Tipo Tambor [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto drum he"
 msgid "20mm HE/HE-T Shell Drum Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
-msgstr "Munição HE/HE-T 20mm Tambor [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HE/HE-T 20mm Carregador Tipo Tambor [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto drum hei"
 msgid "20mm HEI/HEI-T Shell Drum Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
-msgstr "Munição HEI/HEI-T 20mm Tambor [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr "Munição HEI/HEI-T 20mm Carregador Tipo Tambor [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"

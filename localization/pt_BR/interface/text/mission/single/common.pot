@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "mission/single/hint_repair"
 msgid "Engineers and tankmen are able to repair a vehicle, the latter with the exception of the vehicle's hull. To repair a damaged vehicle, press [Shift]+[R] or click the \"Repair\" button (the wrench) while a capable soldier or the defect vehicle is selected."
-msgstr "Engenheiros e tripulantes de tanques podem reparar um veículo, com exceção do casco do veículo para os últimos. Para reparar um veículo danificado, pressione [Shift]+[R] ou clique no botão \"Reparar\" (chave inglesa) enquanto um soldado capaz ou o veículo defeituoso estiver selecionado."
+msgstr "Engenheiros e tripulantes de tanques podem reparar veículos, mas os tripulantes não podem reparar o casco. Para reparar um veículo danificado, pressione [Shift]+[R] ou clique no botão \"Reparar\" (chave inglesa) enquanto um soldado capaz ou o veículo defeituoso estiver selecionado."
 
 msgctxt "mission/single/hint_bleeding_heal"
 msgid "Wounded soldiers with at least a veterancy of 1 can be revived for a short time before they bleed out. Select a medic and click the bleeding man. Medics and various elite soldiers have basic medic training indicated by the cross icon."
-msgstr "Soldados feridos com pelo menos 1 ponto de veterania podem ser reanimados durante um breve intervalo antes de morrerem de hemorragia. Selecione um médico e clique no soldado que está sangrando. Médicos e alguns soldados de elite possuem treinamento médico básico, indicado pelo ícone de cruz."
+msgstr "Soldados feridos com veterania de nível 1 ou superior podem ser reanimados durante um breve intervalo antes de morrerem de hemorragia. Selecione um médico e clique no soldado que está sangrando. Médicos e alguns soldados de elite possuem treinamento médico básico, indicado pelo ícone de cruz."
 
 msgctxt "mission/single/hint_hide_corpse"
 msgid "To pick up the corpse, click the Take icon (in the inventory actions icon group) and click the body. To put the corpse down, select any weapon, drag the body out of your soldier's inventory or click the Drop icon and specify a location."

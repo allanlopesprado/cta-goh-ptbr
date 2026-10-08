@@ -38,7 +38,7 @@ msgstr "O Steam está em modo offline ou o Steam Cloud está desativado."
 
 msgctxt "options/keys/control_manual/special_action"
 msgid "Toggle throwing weapon"
-msgstr "Alternar arma de lançamento"
+msgstr "Alternar arma de arremesso"
 
 msgctxt "options/game/msg_cloud_reset"
 msgid "Delete stored profile data in Steam Cloud?"
@@ -326,7 +326,7 @@ msgstr "concluída"
 
 msgctxt "options/keys/actions/attack_ground#desc"
 msgid "Choose a spot to cover."
-msgstr "Escolha um ponto para cobrir."
+msgstr "Escolha um ponto para cobrir com fogo."
 
 msgctxt "options/video/water_quality"
 msgid "Water quality"
@@ -674,7 +674,7 @@ msgstr "Selecionar esquadra 1"
 
 msgctxt "options/video/window_mode#/windowed_fullscreen"
 msgid "Windowed borderless foreground"
-msgstr "Janela sem borda (frente)"
+msgstr "Janela sem bordas (primeiro plano)"
 
 msgctxt "entity_info/vehicle/armor_vehicle"
 msgid "Armor<x(55)>: %1%"
@@ -686,7 +686,7 @@ msgstr "Atacar"
 
 msgctxt "user_profile/na"
 msgid "<c(25 25 25)>n/a"
-msgstr "<c(25 25 25)>n/a"
+msgstr "<c(25 25 25)>n/d"
 
 msgctxt "user_statistics/leaderboards/column/winratio"
 msgid "<x.>%0.0f%"
@@ -694,7 +694,7 @@ msgstr "<x.>%0.0f%"
 
 msgctxt "options/video/window_mode#/windowed_borderless"
 msgid "Windowed borderless background"
-msgstr "Janela sem borda (fundo)"
+msgstr "Janela sem bordas (segundo plano)"
 
 msgctxt "options/keys/keymap/key_numpad0"
 msgid "NUM 0"
@@ -1256,7 +1256,7 @@ msgstr "Progresso"
 
 msgctxt "options/keys/control_manual/right#desc"
 msgid "Strafe right (soldiers) or turn right (vehicles)."
-msgstr "Deslocar à direita (soldados) ou virar à direita (veículos)."
+msgstr "Deslocar lateralmente à direita (soldados) ou virar à direita (veículos)."
 
 msgctxt "options/video/antialiasing#/8x"
 msgid "8x"
@@ -1272,7 +1272,7 @@ msgstr "DETALHES"
 
 msgctxt "options/keys/multiplayer/chat_all#desc"
 msgid "Send a message to all players. Hold down to activate the Chatwheel!"
-msgstr "Envie uma mensagem a todos os jogadores. Segure para ativar o Chatwheel!"
+msgstr "Envie uma mensagem a todos os jogadores. Segure para ativar o menu radial de comunicação!"
 
 msgctxt "options/keys/actions/throw_sk_grenade"
 msgid "Throw smoke grenade"
@@ -1664,7 +1664,7 @@ msgstr "Translucidez"
 
 msgctxt "options/keys/actions/repair#desc"
 msgid "Order a soldier or let the crew exit to repair damaged components of a vehicle."
-msgstr "Ordena um soldado ou a tripulação a sair para reparar componentes danificados do veículo."
+msgstr "Ordena a um soldado que repare componentes danificados de um veículo ou permite que a tripulação desembarque para repará-los."
 
 msgctxt "options/keys/keymap/key_rightarrow"
 msgid "RIGHT"
@@ -1712,7 +1712,7 @@ msgstr "Distância de visão"
 
 msgctxt "options/video/alphatocoverage#desc"
 msgid "Enables soft edges on leaves and blending effect on semi-transparent objects. May reduce performance noticeably if used in combination with MSAA. To improve performance, use 'soft alpha' together with FXAA."
-msgstr "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho com MSAA. Para melhor desempenho, use com FXAA."
+msgstr "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho com MSAA. Para melhorar o desempenho, use 'Alpha suave' junto com FXAA."
 
 msgctxt "options/keys/actions/toggle_attack"
 msgid "Change fire mode"
@@ -1840,7 +1840,7 @@ msgstr "O Steam está em modo offline. Os recursos de multijogador estão desati
 
 msgctxt "main_menu2/multiplayer/state/online"
 msgid "This option available only in Steam Offline Mode."
-msgstr "Esta opção disponível apenas no modo offline do Steam."
+msgstr "Esta opção está disponível apenas no modo offline do Steam."
 
 msgctxt "user_statistics/ranked/stat/total_killman"
 msgid "Total Infantry killed"
@@ -2145,7 +2145,7 @@ msgstr "LAN"
 
 msgctxt "user_statistics/ranked/stat/max_infantry_bot"
 msgid "Highest bot infantry kills"
-msgstr "Maior nº de mortes de infantaria contra bots"
+msgstr "Maior número de unidades de infantaria eliminadas contra bots"
 
 msgctxt "options/audio/volume/emotions#desc"
 msgid "Volume of soldiers' emotes during battle."
@@ -2165,11 +2165,11 @@ msgstr "Reiniciar"
 
 msgctxt "options/keys/multiplayer/show_notification"
 msgid "Team marker/Chatwheel"
-msgstr "Marcador de equipe/Chatwheel"
+msgstr "Marcador de equipe/Menu radial"
 
 msgctxt "options/keys/multiplayer/show_notification#desc"
 msgid "Places marker on map and mini-map that only your team can see. Hold down to activate the Chatwheel!"
-msgstr "Coloca um marcador no mapa e no minimapa, visível apenas para sua equipe. Segure para ativar o Chatwheel!"
+msgstr "Coloca um marcador no mapa e no minimapa, visível apenas para sua equipe. Segure para ativar o menu radial de comunicação!"
 
 msgctxt "options/audio/volume/environment"
 msgid "Environment"
@@ -2269,7 +2269,7 @@ msgstr "Lançar granada antitanque"
 
 msgctxt "options/keys/multiplayer/chat_#desc"
 msgid "Send a message to your team. Hold down to activate the Chatwheel!"
-msgstr "Envie uma mensagem para sua equipe. Segure para ativar o Chatwheel!"
+msgstr "Envie uma mensagem para sua equipe. Segure para ativar o menu radial de comunicação!"
 
 msgctxt "button/no"
 msgid "<f(pobeda)s(27)b>No"
@@ -2919,7 +2919,7 @@ msgstr "DETALHES"
 
 msgctxt "options/keys/control_manual/left#desc"
 msgid "Strafe left (soldiers) or turn left (vehicles)."
-msgstr "Deslocar à esquerda (soldados) ou virar à esquerda (veículos)."
+msgstr "Deslocar lateralmente à esquerda (soldados) ou virar à esquerda (veículos)."
 
 msgctxt "user_statistics/faction/stat/kdveh"
 msgid "K/D ratio"
@@ -3295,7 +3295,7 @@ msgstr "Alternar estado da escotilha"
 
 msgctxt "main_menu2/library/vehicles/fuel/range"
 msgid "Max Range#%.1f km"
-msgstr "Alcance Máximo#%.1f km"
+msgstr "Autonomia Máxima#%.1f km"
 
 msgctxt "main_menu2/breadcrumbs/page_launcher_multiplayer"
 msgid "Launcher (Multiplayer)"
@@ -4117,7 +4117,7 @@ msgstr "Concluir"
 
 msgctxt "user_profile2/rank_na"
 msgid "RANK N/A"
-msgstr "RANK N/D"
+msgstr "CLASSIFICAÇÃO N/D"
 
 msgctxt "options/mods/txt_delete"
 msgid "Delete selected mod?"
@@ -4221,7 +4221,7 @@ msgstr "Mapa"
 
 msgctxt "main_menu2/library/weapons/magazin_size"
 msgid "Magazine Size#%i"
-msgstr "Tamanho do Carregador#%i"
+msgstr "Capacidade do Carregador#%i"
 
 msgctxt "options/workshop/tag/legacy"
 msgid "Legacy"
@@ -4957,7 +4957,7 @@ msgstr "<s(16)>Você desbloqueou %1% de %2% (%3%%) conquistas."
 
 msgctxt "user_statistics/ranked/stat/trust_rating"
 msgid "Ranked trust rating"
-msgstr "Classificação de confiança ranqueada"
+msgstr "Índice de confiança (ranqueado)"
 
 msgctxt "user_statistics/ranked/stat/score"
 msgid "Ranked score (ELO)"
@@ -5913,11 +5913,11 @@ msgstr "Coloque unidades recrutadas neste estágio para chamá-las durante o com
 
 msgctxt "main_menu2/dynamic_campaign/hint_stage_airstrike"
 msgid "Place support call-ins in this stage to use them any time during combat"
-msgstr "Coloque reforços de apoio neste estágio para usá-los durante o combate"
+msgstr "Coloque chamadas de apoio neste estágio para usá-las a qualquer momento durante o combate."
 
 msgctxt "main_menu2/dynamic_campaign/hint_stage_emplacement"
 msgid "Place emplacements in this stage to build them with engineers (required to recruit seperately)"
-msgstr "Coloque posições neste estágio para construí-las com engenheiros (requer recrutamento separado)"
+msgstr "Coloque posições neste estágio para construí-las com engenheiros, que precisam ser recrutados separadamente."
 
 msgctxt "main_menu2/dynamic_campaign/start_mission"
 msgid "START MISSION"
@@ -5933,7 +5933,7 @@ msgstr "REABASTECER TUDO"
 
 msgctxt "main_menu2/dynamic_campaign/stage"
 msgid "DEPLOY"
-msgstr "IMPLANTAR"
+msgstr "POSICIONAR"
 
 msgctxt "main_menu2/dynamic_campaign/resupply"
 msgid "RESUPPLY"
@@ -5995,11 +5995,11 @@ msgstr "Operação perdida!"
 
 msgctxt "main_menu2/dynamic_campaign/nothing_deployed"
 msgid "Nothing deployed"
-msgstr "Nada implantado"
+msgstr "Nada posicionado"
 
 msgctxt "main_menu2/dynamic_campaign/nothing_deployed_in_stage"
 msgid "Nothing deployed in stage %1%"
-msgstr "Nada implantado no estágio %1%"
+msgstr "Nada posicionado no estágio %1%"
 
 msgctxt "main_menu2/dynamic_campaign/conflict_duration"
 msgid "END OF OPERATION: DAY %1%"
@@ -6451,7 +6451,7 @@ msgstr "Alternar modo de marcha ré"
 
 msgctxt "options/keys/actions/vehicle_toggle_reverse#desc"
 msgid "Toggle vehicle to move in reverse only mode or automatically choose to move in forward or reverse gears"
-msgstr "Alterna o veículo para modo de marcha ré apenas ou seleção automática de marcha"
+msgstr "Alterna entre mover o veículo somente em marcha ré e escolher automaticamente entre avançar e recuar."
 
 msgctxt "save_load_game/load_map_missing"
 msgid "This save game was created on a map that is missing. It cannot be loaded."

@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "desc/ammo/9mm_pistol"
 msgid "9mm Pistol Rounds"
-msgstr "9mm Pistol Cartuchos"
+msgstr "Cartuchos de Pistola de 9mm"
 
 msgctxt "desc/ammo/150mm_nebelwerfer"
 msgid "15cm Wurfgranate 41 [<c(ff1200)>HE</c>]"
@@ -42,7 +42,7 @@ msgstr "Bomba Aérea Pequena [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/air_bomb stuff"
 msgid "Air Bomb Stuff[<c(ff1200)>HE</c>]"
-msgstr "Bomba Aérea Carregada [<c(ff1200)>HE</c>]"
+msgstr "Bomba Aérea [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/air_bomb"
 msgid "Air Bomb [<c(ff1200)>HE</c>]"
@@ -74,7 +74,7 @@ msgstr "SC-250 [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/atrifle_ger"
 msgid "7.92mm AT Rounds"
-msgstr "7.92mm AT Cartuchos"
+msgstr "Cartuchos AT de 7.92mm"
 
 msgctxt "desc/ammo/bullet_20_auto aphe"
 msgid "20mm Aircraft [<c(ff6a00)>APHE</c>]"
@@ -390,11 +390,11 @@ msgstr "60cm schwere Betongranate 040"
 
 msgctxt "desc/ammo/colt1911"
 msgid "9mm Magazine"
-msgstr "9mm Carregador"
+msgstr "Carregador de 9mm"
 
 msgctxt "desc/ammo/dummy ap"
 msgid "Dummy AP"
-msgstr "AP de Treinamento"
+msgstr "AP Inerte"
 
 msgctxt "desc/ammo/faustpatrone30"
 msgid "[<c(c9a6ff)>HEAT</c>] Faustpatrone 30 Rocket"
@@ -402,11 +402,11 @@ msgstr "[<c(c9a6ff)>HEAT</c>] Foguete Faustpatrone 30"
 
 msgctxt "desc/ammo/fg42"
 msgid "7.92mm FG-42 Magazine"
-msgstr "7.92mm FG-42 Carregador"
+msgstr "Carregador 7.92mm para FG-42"
 
 msgctxt "desc/ammo/flame_thrower"
 msgid "Flame Thrower Fuel"
-msgstr "Combustível Lança-chamas"
+msgstr "Combustível para Lança-chamas"
 
 msgctxt "desc/ammo/flare marker"
 msgid "Marking Flares"
@@ -414,7 +414,7 @@ msgstr "Sinalizadores de Marcação"
 
 msgctxt "desc/ammo/flare signal"
 msgid "Signal Flares"
-msgstr "Sinalizadores de Sinal"
+msgstr "Sinalizadores"
 
 msgctxt "desc/ammo/flare"
 msgid "Flares"
@@ -430,15 +430,15 @@ msgstr "Explosivo Goliath 100kg"
 
 msgctxt "desc/ammo/goliath"
 msgid "Remote Control Explosive"
-msgstr "Explosivo por Controle Remoto"
+msgstr "Explosivo Acionado por Controle Remoto"
 
 msgctxt "desc/ammo/hmgun_ger"
 msgid "13mm MG131 Rounds"
-msgstr "13mm MG131 Cartuchos"
+msgstr "Cartuchos 13mm para MG131"
 
 msgctxt "desc/ammo/k98_antitank"
 msgid "GG/P40 Anti-Tank Rifle Grenade"
-msgstr "Granada de Rifle Antitanque GG/P40"
+msgstr "Granada Antitanque de Fuzil GG/P40"
 
 msgctxt "desc/ammo/k98_grenade he"
 msgid "[<c(ff1200)>HE</c>] Gew.SprGr."
@@ -462,87 +462,87 @@ msgstr "Munição de MG"
 
 msgctxt "desc/ammo/mgun_ger belt ap2"
 msgid "7.92mm SmK(H) Belt-Fed Rounds"
-msgstr "7.92mm SmK(H) Cartuchos em Fita"
+msgstr "Cartuchos em Fita SmK(H) de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger belt ap"
 msgid "7.92mm SmK Belt-Fed Rounds"
-msgstr "7.92mm SmK Cartuchos em Fita"
+msgstr "Cartuchos em Fita SmK de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger belt"
 msgid "7.92mm Belt-Fed Rounds"
-msgstr "7.92mm Cartuchos em Fita"
+msgstr "Cartuchos em Fita de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum"
 msgid "7.92mm Drum (double)"
-msgstr "7.92mm Tambor (duplo)"
+msgstr "Tambor (duplo) de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum ap"
 msgid "7.92mm SmK Drum (double)"
-msgstr "7.92mm SmK Tambor (duplo)"
+msgstr "Tambor (duplo) SmK de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum ap2"
 msgid "7.92mm SmK(H) Drum (double)"
-msgstr "7.92mm SmK(H) Tambor (duplo)"
+msgstr "Tambor (duplo) SmK(H) de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger drum"
 msgid "7.92mm Drum-fed Rounds"
-msgstr "7.92mm Cartuchos em Tambor"
+msgstr "Cartuchos em Tambor de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger mg13"
 msgid "7.92mm MG-13 Rounds"
-msgstr "7.92mm MG-13 Cartuchos"
+msgstr "Cartuchos 7.92mm para MG-13"
 
 msgctxt "desc/ammo/zb26_mag"
 msgid "7.92mm ZB-26 Rounds"
-msgstr "7.92mm ZB-26 Cartuchos"
+msgstr "Cartuchos 7.92mm para ZB-26"
 
 msgctxt "desc/ammo/mgun_ita belt"
 msgid "7mm Rounds"
-msgstr "7mm Cartuchos"
+msgstr "Cartuchos de 7mm"
 
 msgctxt "desc/ammo/mgun_ita breda"
 msgid "7mm Rounds"
-msgstr "7mm Cartuchos"
+msgstr "Cartuchos de 7mm"
 
 msgctxt "desc/ammo/mortarger_50 he"
 msgid "[<c(ff1200)>HE</c>] 5cm Wgr.36 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 5cm Wgr.36 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição Wgr.36 para Morteiro de 5cm"
 
 msgctxt "desc/ammo/mortarger_80 he"
 msgid "[<c(ff1200)>HE</c>] 8cm Wgr.34 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 8cm Wgr.34 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição Wgr.34 para Morteiro de 8cm"
 
 msgctxt "desc/ammo/mortarger_80 sm"
 msgid "[SMOKE] 8cm Wgr.34 Mortar"
-msgstr "[SMOKE] 8cm Wgr.34 Morteiro"
+msgstr "[SMOKE] Munição Wgr.34 para Morteiro de 8cm"
 
 msgctxt "desc/ammo/mortarger_100 he"
 msgid "[<c(ff1200)>HE</c>] 10cm Wgr.37 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 10cm Wgr.37 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição Wgr.37 para Morteiro de 10cm"
 
 msgctxt "desc/ammo/mortarger_100 sm"
 msgid "[SMOKE] 10cm Wgr.35 Nb St Mortar"
-msgstr "[SMOKE] 10cm Wgr.35 Nb St Morteiro"
+msgstr "[SMOKE] Munição Wgr.35 Nb St para Morteiro de 10cm"
 
 msgctxt "desc/ammo/mortarger_120 he"
 msgid "[<c(ff1200)>HE</c>] 12cm Wgr.42 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 12cm Wgr.42 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição Wgr.42 para Morteiro de 12cm"
 
 msgctxt "desc/ammo/mortarger_120 sm"
 msgid "[SMOKE] 12cm Wgr.42 Mortar"
-msgstr "[SMOKE] 12cm Wgr.42 Morteiro"
+msgstr "[SMOKE] Munição Wgr.42 para Morteiro de 12cm"
 
 msgctxt "desc/ammo/mortarger_200 he"
 msgid "[<c(ff1200)>HE</c>] 20cm Wgr.40 Mortar"
-msgstr "[<c(ff1200)>HE</c>] 20cm Wgr.40 Morteiro"
+msgstr "[<c(ff1200)>HE</c>] Munição Wgr.40 para Morteiro de 20cm"
 
 msgctxt "desc/ammo/mortarger_200 sm"
 msgid "[SMOKE] 20cm Nb.40 Mortar"
-msgstr "[SMOKE] 20cm Nb.40 Morteiro"
+msgstr "[SMOKE] Munição Nb.40 para Morteiro de 20cm"
 
 msgctxt "desc/ammo/mp40"
 msgid "9mm MP38/40 Magazine"
-msgstr "9mm MP38/40 Carregador"
+msgstr "Carregador 9mm para MP38/40"
 
 msgctxt "desc/ammo/panzerfaust60"
 msgid "[<c(c9a6ff)>HEAT</c>] Panzerfaust 60 Rocket"
@@ -562,19 +562,19 @@ msgstr "9mm Parabellum"
 
 msgctxt "desc/ammo/rifle_fra"
 msgid "7.92mm Rifle Rounds"
-msgstr "7.92mm Cartuchos de Fuzil"
+msgstr "Cartuchos de Fuzil de 7.92mm"
 
 msgctxt "desc/ammo/rifle_ger clip"
 msgid "7.92mm Mauser Rounds"
-msgstr "7.92mm Mauser Cartuchos"
+msgstr "Cartuchos 7.92mm para Mauser"
 
 msgctxt "desc/ammo/rifle_ger gewehr"
 msgid "7.92mm Gewehr Rifle Magazine"
-msgstr "7.92mm Carregador Gewehr de Fuzil"
+msgstr "Carregador de Fuzil Gewehr de 7.92mm"
 
 msgctxt "desc/ammo/rifle_ger"
 msgid "7.92mm Mauser Rounds"
-msgstr "7.92mm Mauser Cartuchos"
+msgstr "Cartuchos 7.92mm para Mauser"
 
 msgctxt "desc/ammo/shotgun"
 msgid "Shotgun Shells"
@@ -582,7 +582,7 @@ msgstr "Cartuchos de Espingarda"
 
 msgctxt "desc/ammo/stg44"
 msgid "7.92mm-K. MP-44 Magazine"
-msgstr "7.92mm-K. MP-44 Carregador"
+msgstr "Carregador 7.92mm-K. para MP-44"
 
 msgctxt "desc/ammo/torpedo"
 msgid "Torpedo"
@@ -598,19 +598,19 @@ msgstr "Sinalizador"
 
 msgctxt "desc/stuff/mgun_ger belt"
 msgid "7.92mm Belt-Fed Rounds"
-msgstr "7.92mm Cartuchos em Fita"
+msgstr "Cartuchos em Fita de 7.92mm"
 
 msgctxt "desc/stuff/mgun_ger doubledrum"
 msgid "7.92mm Drum-Fed Rounds (double)"
-msgstr "7.92mm Cartuchos em Tambor (duplo)"
+msgstr "Cartuchos em Tambor (duplo) de 7.92mm"
 
 msgctxt "desc/stuff/mgun_ger"
 msgid "7.92mm Belt-Fed Rounds"
-msgstr "7.92mm Cartuchos em Fita"
+msgstr "Cartuchos em Fita de 7.92mm"
 
 msgctxt "desc/stuff/mgun_ger mg13"
 msgid "7.92mm MG-13 Magazine"
-msgstr "7.92mm MG-13 Carregador"
+msgstr "Carregador 7.92mm para MG-13"
 
 msgctxt "desc/ammo/bulletger_15_auto ap"
 msgid "15mm PzGr. [<c(ff6a00)>AP</c>]"

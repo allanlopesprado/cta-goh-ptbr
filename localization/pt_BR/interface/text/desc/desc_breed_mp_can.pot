@@ -55,7 +55,7 @@ msgstr "Comandante da Companhia [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_sgt_maj"
 msgid "Company Sergeant Major [CA]"
-msgstr "Sargento-Mor da Companhia [CA]"
+msgstr "Sergeant Major da Companhia [CA]"
 
 msgctxt "desc/human/mp/can/late/coy_signalman"
 msgid "Company Signalman [CA]"
@@ -67,27 +67,27 @@ msgstr "Tripulação [CA]"
 
 msgctxt "desc/human/mp/can/late/def_at_piat"
 msgid "Defense AT Inf. [CA]"
-msgstr "Defesa Inf. AT [CA]"
+msgstr "Inf. AT de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_at_piat_asst"
 msgid "Defense AT Asst. [CA]"
-msgstr "Defesa Auxiliar Antitanque [CA]"
+msgstr "Auxiliar Antitanque de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_mg"
 msgid "Defense MG Operator [CA]"
-msgstr "Defesa Operador de MG [CA]"
+msgstr "Operador de MG de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_mg_asst"
 msgid "Defense MG Asst. [CA]"
-msgstr "Defesa Auxiliar de Metralhadora [CA]"
+msgstr "Auxiliar de Metralhadora de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_rifle"
 msgid "Defense Rifleman [CA]"
-msgstr "Defesa Atirador [CA]"
+msgstr "Atirador de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_rifle_band"
 msgid "Defense Rifleman [CA]"
-msgstr "Defesa Atirador [CA]"
+msgstr "Atirador de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_2ic"
 msgid "Defense Section 2IC [CA]"
@@ -95,11 +95,11 @@ msgstr "Subcomandante de Seção de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_com"
 msgid "Defense Section Commander [CA]"
-msgstr "Defesa Comandante de Seção [CA]"
+msgstr "Comandante de Seção de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_sec_com_sgt"
 msgid "Defense Section Commander [CA]"
-msgstr "Defesa Comandante de Seção [CA]"
+msgstr "Comandante de Seção de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/detach_com"
 msgid "Detachment Commander [CA]"
@@ -155,35 +155,35 @@ msgstr "Atirador Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_rifle_sniper"
 msgid "Motor Sniper [CA]"
-msgstr "Motorizado Franco-atirador [CA]"
+msgstr "Franco-atirador Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_detach_com_cpl"
 msgid "Motor Scout Detachment Commander [CA]"
-msgstr "Batedora Motorizada Comandante de Destacamento [CA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_detach_com_lcpl"
 msgid "Motor Scout Detachment Commander [CA]"
-msgstr "Batedora Motorizada Comandante de Destacamento [CA]"
+msgstr "Comandante de Destacamento de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_driver"
 msgid "Motor Scout Driver [CA]"
-msgstr "Batedora Motorizada Motorista [CA]"
+msgstr "Motorista de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_mg"
 msgid "Motor Scout MG Operator [CA]"
-msgstr "Operador de MG Batedora [CA]"
+msgstr "Operador de MG de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_piat"
 msgid "Motor Scout AT Inf. [CA]"
-msgstr "Inf. AT Batedora [CA]"
+msgstr "Inf. AT de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_rifle"
 msgid "Motor Scout [CA]"
-msgstr "Batedora Motorizada [CA]"
+msgstr "Batedor Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_scout_sec_com"
 msgid "Motor Scout Section Commander [CA]"
-msgstr "Comandante de Seção Batedora Motorizada [CA]"
+msgstr "Comandante de Seção de Reconhecimento Motorizado [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_sec_2ic"
 msgid "Motor Section 2IC [CA]"
@@ -319,11 +319,11 @@ msgstr "Sargento de Pelotão [CA]"
 
 msgctxt "desc/human/mp/can/late/rear_echelon_rifle"
 msgid "Rear Echelon Rifleman [CA]"
-msgstr "Atirador de Escalão Traseiro [CA]"
+msgstr "Atirador de Retaguarda [CA]"
 
 msgctxt "desc/human/mp/can/late/rear_echelon_smg"
 msgid "Rear Echelon SMG Inf. [CA]"
-msgstr "Inf. SMG de Escalão Traseiro [CA]"
+msgstr "Inf. SMG de Retaguarda [CA]"
 
 msgctxt "desc/human/mp/can/late/rifle"
 msgid "Rifleman [CA]"

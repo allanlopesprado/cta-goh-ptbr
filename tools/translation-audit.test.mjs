@@ -3,6 +3,8 @@ import test from 'node:test';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 import { auditRoots, effectiveSource, indexCatalog, parseCatalog, printfArguments, protectedTokens, replaceTranslation } from './translation-audit.mjs';
 
 test('parses multiline strings, escaped names, CRLF, headers and plural forms', () => {
@@ -65,6 +67,19 @@ test('records inherited malformed fields and duplicate empty msgid for diagnosti
   assert.equal(entries[0].msgctxt, 'x');
 });
 
+test('duplicate msgstr and plural forms are diagnosed without overwriting the first value', () => {
+  for (const field of ['msgstr','msgstr[0]']) {
+    const text='msgctxt "x"\nmsgid "Tank"\n'+field+' "Primeiro"\n'+field+' "Segundo"\n"continuação"\n';
+    assert.throws(()=>parseCatalog(text),/duplicate msgstr/);
+    const [entry]=parseCatalog(text,'duplicate',{tolerant:true});
+    assert.equal(entry.translations[field],'Primeiro');
+    assert.ok(entry.syntaxErrors.some(problem=>problem.error==='duplicate-field'&&problem.field===field));
+    assert.equal(text.slice(entry.spans[field].start,entry.spans[field].end),field+' "Primeiro"\n');
+  }
+  const duplicate='msgctxt "x"\nmsgid "Tank"\nmsgstr "Tanque"\nmsgstr "Tanque"\n';
+  assert.throws(()=>replaceTranslation(duplicate,'x','Tank','Tanque','Blindado'),/invalid Portuguese catalog syntax/);
+});
+
 test('reads physical multiline fields completely without truncating their source', () => {
   const entries = parseCatalog('msgctxt "x"\nmsgid "First line\nSecond line"\nmsgstr "Primeira linha\nSegunda linha"\n', 'test', { tolerant: true });
   assert.equal(entries[0].msgid, 'First line\nSecond line');
@@ -102,5 +117,70 @@ test('changed fallback sources require matching review evidence against an older
   } finally {
     assert.ok(fixture.startsWith(path.join(os.tmpdir(), 'cta-audit-test-')));
     fs.rmSync(fixture, { recursive: true });
+  }
+});
+
+test('audit keeps different English fallback sources distinct and accepts only explicit safe keys', () => {
+  const fixture=fs.mkdtempSync(path.join(os.tmpdir(),'cta-audit-test-'));
+  const entry=(src,tr)=>'msgctxt "error"\nmsgid '+JSON.stringify(src)+'\nmsgstr '+JSON.stringify(tr)+'\n\n';
+  try {
+    for(const folder of ['en','pt'])fs.mkdirSync(path.join(fixture,folder));
+    const enRoot=path.join(fixture,'en'),ptRoot=path.join(fixture,'pt');
+    fs.writeFileSync(path.join(enRoot,'test.pot'),entry('','Tank')+entry('','Weapon'));
+    fs.writeFileSync(path.join(ptRoot,'test.pot'),entry('','Tanque'));
+    const ambiguous=auditRoots(enRoot,ptRoot,enRoot);
+    assert.equal(ambiguous.counts.unchanged,2);
+    assert.equal(ambiguous.counts.translatedExact,0);
+    assert.equal(ambiguous.counts.needsTranslationReview,2);
+    fs.writeFileSync(path.join(ptRoot,'test.pot'),entry('Tank','Tanque')+entry('Weapon','Arma'));
+    const explicit=auditRoots(enRoot,ptRoot,enRoot);
+    assert.equal(explicit.counts.translatedExact,2);
+    assert.equal(explicit.counts.needsTranslationReview,0);
+  } finally {
+    assert.ok(path.resolve(fixture).startsWith(path.join(os.tmpdir(),'cta-audit-test-')));
+    fs.rmSync(fixture,{recursive:true});
+  }
+});
+
+test('a changed errors_helper fallback with exact explicit PT source needs no ambiguous fallback evidence', () => {
+  const fixture=fs.mkdtempSync(path.join(os.tmpdir(),'cta-audit-test-'));
+  const ctx='mission/single/nodifficulty_error',src='Warning - Difficulty not detected!';
+  const entry=(s,t)=>'msgctxt '+JSON.stringify(ctx)+'\nmsgid '+JSON.stringify(s)+'\nmsgstr '+JSON.stringify(t)+'\n';
+  try {
+    for(const folder of ['old','en','pt'])fs.mkdirSync(path.join(fixture,folder));
+    fs.writeFileSync(path.join(fixture,'old/test.pot'),entry('','Old warning'));
+    fs.writeFileSync(path.join(fixture,'en/test.pot'),entry('',src));
+    fs.writeFileSync(path.join(fixture,'pt/test.pot'),entry(src,'Aviso - Dificuldade não detectada!'));
+    const r=auditRoots(...['old','pt','en'].map(folder=>path.join(fixture,folder)));
+    assert.equal(r.counts.changed,1);
+    assert.equal(r.counts.needsTranslationReview,0);
+    assert.equal(r.changes[0].alreadyTranslatedExact,true);
+  } finally {
+    assert.ok(path.resolve(fixture).startsWith(path.join(os.tmpdir(),'cta-audit-test-')));
+    fs.rmSync(fixture,{recursive:true});
+  }
+});
+
+test('audit --check rejects duplicate Portuguese fields but tolerates unused broken English msgstr', () => {
+  const fixture=fs.mkdtempSync(path.join(os.tmpdir(),'cta-audit-test-'));
+  const auditor=fileURLToPath(new URL('./translation-audit.mjs',import.meta.url));
+  try {
+    for(const folder of ['localization/en','localization/pt_BR'])fs.mkdirSync(path.join(fixture,folder),{recursive:true});
+    fs.writeFileSync(path.join(fixture,'localization/en/test.pot'),'msgctxt "x"\nmsgid "Tank"\nmsgstr ""4\n');
+    const ptFile=path.join(fixture,'localization/pt_BR/test.pot');
+    fs.writeFileSync(ptFile,'msgctxt "x"\nmsgid "Tank"\nmsgstr "Tanque"\n');
+    const run=()=>spawnSync(process.execPath,[auditor,'--repo',fixture,'--check'],{encoding:'utf8'});
+    assert.equal(run().status,0);
+    for(const duplicate of ['Tanque','Errado']) {
+      fs.writeFileSync(ptFile,'msgctxt "x"\nmsgid "Tank"\nmsgstr "Tanque"\nmsgstr '+JSON.stringify(duplicate)+'\n');
+      const failed=run();
+      assert.equal(failed.status,1);
+      assert.match(failed.stderr,/Translation validation failed/);
+      const report=auditRoots(path.join(fixture,'localization/en'),path.join(fixture,'localization/pt_BR'),path.join(fixture,'localization/en'));
+      assert.ok(report.issues.some(i=>i.type==='catalog-syntax-error'&&i.language==='portuguese'&&i.error==='duplicate-field'));
+    }
+  } finally {
+    assert.ok(path.resolve(fixture).startsWith(path.join(os.tmpdir(),'cta-audit-test-')));
+    fs.rmSync(fixture,{recursive:true});
   }
 });

@@ -34,7 +34,7 @@ msgstr "Canhões AT e Artilharia"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/00"
 msgid "Soldaten! Welcome back to the front line! Today you will learn how to deploy Anti-Tank guns, build sandbags, and distinguish between direct and indirect fire units."
-msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão a posicionar canhões antitanque, construir sacos de areia e distinguir entre unidades de tiro direto e indireto."
+msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão a posicionar canhões antitanque, montar proteções com sacos de areia e distinguir entre unidades de tiro direto e indireto."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01"
 msgid "First, use all of your soldiers to crew the Anti-Tank gun."
@@ -46,7 +46,7 @@ msgstr "Soldados, está na hora de reposicionar o canhão AT para uma nova posi�
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/02"
 msgid "Great! Now it's time to build sandbags around your AT gun for extra protection!"
-msgstr "Ótimo! Agora é hora de construir sacos de areia ao redor do canhão AT para proteção adicional!"
+msgstr "Ótimo! Agora é hora de montar proteções com sacos de areia ao redor do canhão AT para proteção adicional!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/03"
 msgid "Enemy vehicles down the road! Wipe them out!"
@@ -111,7 +111,7 @@ msgstr "Reboque seu canhão AT para a nova posição usando o caminhão."
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/outro_completed"
 msgid "Mission Accomplished!\n\n"
 "Click on 'continue' to keep playing this mission or click on 'next' to proceed directly into the next mission."
-msgstr "Missão Cumprida!\n\nClique em 'continuar' para continuar jogando esta missão ou clique em 'próxima' para ir diretamente à próxima missão."
+msgstr "Missão Cumprida!\n\nClique em 'Continuar' para continuar jogando esta missão ou clique em 'Próximo' para ir diretamente à próxima missão."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/place"
 msgid "Army Group Centre"
@@ -142,7 +142,7 @@ msgstr "Mova seu canhão AT para um novo local conforme indicado."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task2"
 msgid "Build sandbags for your AT gun."
-msgstr "Construa sacos de areia para o canhão AT."
+msgstr "Monte proteções com sacos de areia para o canhão AT."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task3"
 msgid "Destroy the enemy vehicles!"

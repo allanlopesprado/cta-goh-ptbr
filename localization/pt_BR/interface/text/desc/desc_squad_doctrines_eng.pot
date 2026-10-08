@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "desc/squad/doctrine_squad_1st_airland_support_late_all(eng)"
 msgid "<c(B29557)>( I )</c> 1st Airlanding Support Section"
-msgstr "<c(B29557)>( I )</c> Seção de Apoio 1ª Aerotransportada "
+msgstr "<c(B29557)>( I )</c> Seção de Apoio da 1ª Aerotransportada (Planadores) "
 
 msgctxt "desc/squad/doctrine_crusader_aa_mk2"
 msgid "<c(B29557)>( I )</c> Crusader Mk.III AA Mk.III"
@@ -90,7 +90,7 @@ msgstr "<c(B29557)>( I )</c> Typhoon Ib 250lb Bomba"
 
 msgctxt "desc/squad/doctrine_squad_carrier_late_irr"
 msgid "<c(B29557)>( I )</c> Carrier Section"
-msgstr "<c(B29557)>( I )</c> Seção de Carrier"
+msgstr "<c(B29557)>( I )</c> Seção de Carriers"
 
 msgctxt "desc/squad/doctrine_m22_locust_littlejohn"
 msgid "<c(B29557)>( I )</c> M22 Locust (Little John)"
@@ -162,7 +162,7 @@ msgstr "<c(B29557)>( III )</c> Canhão BL 4.5-inch Mk.II"
 
 msgctxt "desc/squad/doctrine_squad_1st_airland_support_mid_all(eng)"
 msgid "<c(B29557)>( I )</c> 1st Airlanding Support Section"
-msgstr "<c(B29557)>( I )</c> Seção de Apoio 1ª Aerotransportada "
+msgstr "<c(B29557)>( I )</c> Seção de Apoio da 1ª Aerotransportada (Planadores) "
 
 msgctxt "desc/squad/doctrine_cruiser_mk2a_cs_mid"
 msgid "<c(B29557)>( I )</c> Cruiser Mk.IIA CS"
@@ -238,7 +238,7 @@ msgstr "<c(B29557)>( I )</c> Hurribomber IIc 250lb Bomba"
 
 msgctxt "desc/squad/doctrine_squad_carrier_mid_irr"
 msgid "<c(B29557)>( I )</c> Carrier Section"
-msgstr "<c(B29557)>( I )</c> Seção de Transportadores"
+msgstr "<c(B29557)>( I )</c> Seção de Carriers"
 
 msgctxt "desc/squad/doctrine_40mm_qf2_littlejohn_mid"
 msgid "<c(B29557)>( I )</c> QF 2-pdr 'Littlejohn'"
@@ -306,7 +306,7 @@ msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.III"
 
 msgctxt "desc/squad/doctrine_squad_carrier_early_all"
 msgid "<c(B29557)>( I )</c> Carrier Section"
-msgstr "<c(B29557)>( I )</c> Seção de Transportadores"
+msgstr "<c(B29557)>( I )</c> Seção de Carriers"
 
 msgctxt "desc/squad/doctrine_mortar_carrier_mk1"
 msgid "<c(B29557)>( I )</c> 2-inch Mortar Carrier Mk.I"
@@ -410,7 +410,7 @@ msgstr "<c(B29557)>( I )</c> Blenheim Mk.I Avião de Reconhecimento"
 
 msgctxt "desc/squad/doctrine_squad_carrier_early_off"
 msgid "<c(B29557)>( I )</c> Carrier Section"
-msgstr "<c(B29557)>( I )</c> Seção de Transportadores"
+msgstr "<c(B29557)>( I )</c> Seção de Carriers"
 
 msgctxt "desc/squad/doctrine_cruiser_mk3_late"
 msgid "<c(B29557)>( I )</c> Cruiser Mk.III*"

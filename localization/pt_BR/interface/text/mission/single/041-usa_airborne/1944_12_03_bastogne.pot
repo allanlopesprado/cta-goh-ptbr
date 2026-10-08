@@ -86,7 +86,7 @@ msgstr "Parece que pegamos tudo! Vamos voltar para nossas linhas!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator21"
 msgid "The Germans captured the air drops before we could!"
-msgstr "Os alemães capturaram os lançamentos aéreos antes de nós!"
+msgstr "Os alemães capturaram as cargas lançadas do ar antes de nós!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator18"
 msgid "Now let’s finish preparing those defenses. Every second counts. Take the explosives from this crate..."
@@ -126,7 +126,7 @@ msgstr "O General McAuliffe nos concedeu apoio de artilharia."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_assistant01"
 msgid "Coordinates received! Fire for effect!"
-msgstr "Coordenadas recebidas! Fogo efetivo!"
+msgstr "Coordenadas recebidas! Tiro de eficácia!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator_soldier12"
 msgid "They are running away! Is that all they got?!"
@@ -162,7 +162,7 @@ msgstr "Há duas unidades blindadas em sua área. Escolha uma para reforçá-lo.
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator33"
 msgid "Well done. We've stopped their attack, and the HQ is still standing."
-msgstr "Bem feito. Paramos o ataque deles, e o QG ainda está de pé."
+msgstr "Bom trabalho. Paramos o ataque deles, e o QG ainda está de pé."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/narrator35"
 msgid "The remaining Germans have set up defensive positions in the village. We need to clear it!"
@@ -246,4 +246,4 @@ msgstr "(Objetivo Secreto nº 1): Repare e tripule o obuseiro danificado!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_03_bastogne/timer"
 msgid "Time before the Germans find the supply drops."
-msgstr "Tempo antes dos alemães encontrarem os lançamentos de suprimentos."
+msgstr "Tempo antes dos alemães encontrarem as cargas de suprimentos lançadas do ar."

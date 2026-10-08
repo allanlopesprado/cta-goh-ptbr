@@ -78,7 +78,7 @@ msgstr "Maldição... Falhamos em assegurar o nosso QG de campo! Você precisa v
 
 msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/mission_attack"
 msgid "Punch a hole in the enemy position and drive north!"
@@ -118,7 +118,7 @@ msgstr "Devemos manter nosso posto de comando! Não há espaço para rendição!
 
 msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/narrator_ambush"
 msgid "Bloody hell! One of our tanks and trucks got lost and knocked out. We should try and recover this tank!"
-msgstr "Maldição! Um de nossos tanques e caminhões se perdeu e foi destruído. Devemos tentar recuperar esse tanque!"
+msgstr "Maldição! Um de nossos tanques e caminhões se perdeu e ficou fora de combate. Devemos tentar recuperar esse tanque!"
 
 msgctxt "mission/single/05-eng/1940_05_20_arras_skirmish/hq_bonus"
 msgid "Major! Now you can request an airstrike."

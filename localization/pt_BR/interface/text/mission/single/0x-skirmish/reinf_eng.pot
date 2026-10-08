@@ -18,11 +18,11 @@ msgstr "Bombardeio aéreo da área selecionada"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/hint_wp"
 msgid "Deploy your reinforcements on the battlefield.\n\nClick at the unit icon, select a destination on the map\nand click to send reinforcements to the selected area.\n\n"
-msgstr "Implante seus reforços no campo de batalha.\n\nClique no ícone da unidade, selecione um destino no mapa\ne clique para enviar os reforços para a área selecionada.\n\n"
+msgstr "Envie seus reforços para o campo de batalha.\n\nClique no ícone da unidade, selecione um destino no mapa\ne clique para enviar os reforços para a área selecionada.\n\n"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/menu:1_1"
 msgid "Infantry"
@@ -70,7 +70,7 @@ msgstr "Médico"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/flamer"
 msgid "Flamer"
-msgstr "Lança-chamas"
+msgstr "Operador de Lança-chamas"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/51piobuilder"
 msgid "51st pioneer builder"
@@ -102,7 +102,7 @@ msgstr "Esquadra de Reconhecimento"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/rifle_heavy_sq"
 msgid "Heavy rifle squad"
-msgstr "Esquadra de Fuzileiros Pesados"
+msgstr "Esquadra Pesada de Fuzileiros"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/pioneer_sq"
 msgid "Pioneer squad"
@@ -442,7 +442,7 @@ msgstr "Canhão BL 4.5-inch Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/155mm_m1a1_longtom_eng"
 msgid "155mm Gun M1A1 'Long Tom'"
-msgstr "Canhão M1A1 de 155mm 'Long Tom'"
+msgstr "Canhão M1A1 'Long Tom' de 155mm"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/183mm_bl_7_2_mk6"
 msgid "BL 7.2-inch Howitzer Mk.VI"

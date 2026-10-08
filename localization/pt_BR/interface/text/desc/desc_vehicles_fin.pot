@@ -394,7 +394,7 @@ msgstr "DS-39/VKT (Suporte)"
 
 msgctxt "info/special/ds39_stand_fin"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/ford_3ton"
 msgid "Ford 3-Ton (Transport)"
@@ -422,7 +422,7 @@ msgstr "<c(c3baae)>Caminhão AA</c>"
 
 msgctxt "desc/entity/ford_3ton_eng"
 msgid "Ford 3-Ton (Engineer)"
-msgstr "Ford 3-Ton (Engenheiro)"
+msgstr "Ford 3-Ton (Engenharia)"
 
 msgctxt "info/special/ford_3ton_eng"
 msgid "<c(c3baae)>Engineering Truck</c>"
@@ -462,7 +462,7 @@ msgstr "<c(c3baae)>Caminhão de Munição</c>"
 
 msgctxt "desc/entity/ford_v3000_eng"
 msgid "Ford V3000S (Engineer)"
-msgstr "Ford V3000S (Engenheiro)"
+msgstr "Ford V3000S (Engenharia)"
 
 msgctxt "info/special/ford_v3000_eng"
 msgid "<c(c3baae)>Engineering Truck</c>"
@@ -498,7 +498,7 @@ msgstr "Maxim M/09-09"
 
 msgctxt "info/special/heavy_mg_maxim_m1910_30"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/inf_crate_fin"
 msgid "Finnish Ammo Crate"
@@ -518,7 +518,7 @@ msgstr "<c(c3baae)>Canhão de Assalto Pesado</c>"
 
 msgctxt "desc/entity/kht130_fin"
 msgid "KhT-130 (Flame)"
-msgstr "KhT-130 (Chamas)"
+msgstr "KhT-130 (Lança-chamas)"
 
 msgctxt "info/special/kht130_fin"
 msgid "<c(c3baae)>Light Tank</c>"
@@ -562,7 +562,7 @@ msgstr "Maxim M/09-09"
 
 msgctxt "info/special/maxim_m1910_30"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/panzer4j_fin"
 msgid "PzKw IVJ"
@@ -658,7 +658,7 @@ msgstr "Maxim MG 08"
 
 msgctxt "info/special/mg08_fin"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/25mm_pstk37"
 msgid "25 PstK/37"
@@ -786,7 +786,7 @@ msgstr "Maxim M/32-33"
 
 msgctxt "info/special/maxim_m32_33"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/heavy_mg_maxim_m32_33"
 msgid "Maxim M/32-33"
@@ -794,7 +794,7 @@ msgstr "Maxim M/32-33"
 
 msgctxt "info/special/heavy_mg_maxim_m32_33"
 msgid "<c(c3baae)>Medium MG</c>"
-msgstr "<c(c3baae)>MG Médio</c>"
+msgstr "<c(c3baae)>MG Média</c>"
 
 msgctxt "desc/entity/76mm_m1927_fin_mid"
 msgid "76 RK/27 (Mid)"

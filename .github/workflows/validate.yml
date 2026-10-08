@@ -28,6 +28,9 @@ jobs:
       - name: Validate translated catalogs
         run: node tools/translation-audit.mjs --check
 
+      - name: Check contextual translation decisions
+        run: node tools/context-quality.mjs --check
+
       - name: Build pak
         run: node tools/pack-translation.mjs --build
 

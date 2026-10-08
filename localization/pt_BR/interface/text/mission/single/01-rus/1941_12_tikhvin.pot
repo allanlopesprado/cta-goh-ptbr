@@ -60,7 +60,7 @@ msgstr "Destacamento Especial"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/progress_p3"
 msgid "Compromise the garrison! %1% Out of a minimum of 4 targets accomplished."
-msgstr "Comprometa a guarnição! %1% de pelo menos 4 alvos cumpridos."
+msgstr "Enfraqueça a guarnição! %1% de pelo menos 4 objetivos concluídos."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/01"
 msgid "Nighttime reduces the units' vision but vehicles and loud gunshots will be heard over a distance. Try to be stealthy."
@@ -152,7 +152,7 @@ msgstr "Aquele oficial ali ainda está são e salvo! Aposto que está chamando r
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/14"
 msgid "See that guy with the peaked cap? He's an officer! You should have taken him out by now! I bet he is calling in reinforcements."
-msgstr "Vê aquele cara com boné? Ele é um oficial! Você deveria tê-lo eliminado já! Aposto que está chamando reforços."
+msgstr "Vê aquele cara de quepe? Ele é um oficial! Você já deveria tê-lo eliminado! Aposto que está chamando reforços."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/15"
 msgid "Bloody hell, this place stinks of petrol. The fuel must have an open valve somewhere. Hmmm... We could put some chemicals into the fuel to stall their engines..."
@@ -176,7 +176,7 @@ msgstr "Uma coluna logística está programada para chegar em alguns minutos. A 
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/20"
 msgid "Oh yes. Guten appetit, you swine!"
-msgstr "Oh sim. Bom apetite, seus porcos!"
+msgstr "Oh sim. Guten appetit, seus porcos!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_officer/21"
 msgid "Alright, comrades. That's enough. Time to get the hell out!"
@@ -300,7 +300,7 @@ msgstr "É um oficial! Não o deixe ver você..."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/story"
 msgid "Army Group North dashes towards the key city of Leningrad. Tikhvin is taken.\n\nThe Red Army orders a counteroffensive for the next day. In preparation, the lines are infiltrated."
-msgstr "O Grupo de Exércitos Norte avança em direção à cidade-chave de Leningrado. Tikhvin é tomada.\n\nO Exército Vermelho ordena uma contra-ofensiva para o dia seguinte. Em preparação, as linhas são infiltradas."
+msgstr "O Grupo de Exércitos Norte avança em direção à cidade-chave de Leningrado. Tikhvin é tomada.\n\nO Exército Vermelho ordena uma contraofensiva para o dia seguinte. Em preparação, as linhas são infiltradas."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task1"
 msgid "Establish contact with the other aerosled."
@@ -324,7 +324,7 @@ msgstr "O Comissário deve obter os documentos alemães. Ele sabe ler alemão."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task4"
 msgid "Compromise the German garrison!"
-msgstr "Comprometa a guarnição alemã!"
+msgstr "Enfraqueça a guarnição alemã!"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task4_1"
 msgid "Sabotage the artillery position"

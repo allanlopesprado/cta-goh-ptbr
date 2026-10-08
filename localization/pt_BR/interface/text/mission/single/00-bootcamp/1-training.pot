@@ -47,7 +47,7 @@ msgstr "Campo Militar"
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/fuel"
 msgid "There are 2 ways you can refuel a vehicle: automatically, by driving a refueling supply truck close to it, or manually, with fuel cans. To use fuel cans, collect them into your soldier's inventory, and while holding them, clicking on a fuel source like fuel trucks and big barrels to fill the empty can with fuel. When the can is full, you can \"pour out\" the fuel contents into the empty vehicle."
-msgstr "Há 2 formas de abastecer um veículo: automaticamente, aproximando um caminhão de abastecimento, ou manualmente, com jerricans. Para usar jerricans, colete-os no inventário do soldado e, segurando-os, clique em uma fonte de combustível como caminhões ou barris para encher o jerrican. Quando estiver cheio, despeje o combustível no veículo."
+msgstr "Há 2 formas de abastecer um veículo: automaticamente, aproximando um caminhão de abastecimento, ou manualmente, com jerricãs. Para usar jerricãs, coloque-os no inventário do soldado e, com um deles nas mãos, clique em uma fonte de combustível, como caminhões de combustível ou grandes barris, para encher o jerricã vazio. Quando estiver cheio, despeje o combustível no veículo sem combustível."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/grabweapon"
 msgid "Select your soldier, and move him around with your mouse clicks. You can examine boxes by clicking on them to transfer the items between the box's and soldier's inventories. Grab a helmet, rifle, and ammo from the different boxes."
@@ -107,7 +107,7 @@ msgstr "Aquele caminhão deve permanecer dentro dos limites do posto de combust�
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/grenades"
 msgid "Good work, Soldiers. Now head over to the grenade area. Use the hand grenades to blow up some of the fuel barrels."
-msgstr "Bom trabalho, Soldados. Agora vão para a área de granadas. Use granadas de mão para explodir alguns barris de combustível."
+msgstr "Bom trabalho, Soldados. Agora vão para a área de granadas. Usem granadas de mão para explodir alguns barris de combustível."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/k98"
 msgid "The Karabiner 98-K is the standard infantry weapon. A precise bolt action rifle, ideal for engaging the enemy at medium and long ranges."
@@ -127,7 +127,7 @@ msgstr "O canhão antitanque leve 3.7cm PaK dispara vários tipos de munição. 
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak3"
 msgid "For wooden or other soft targets, High Explosive (HE) shells are best. These shells detonate on impact and cause a lot of damage to non-armored objects, unlike AP shells that would pass through and cause little damage."
-msgstr "Para alvos de madeira ou outros alvos macios, os projéteis de Alta Explosão (HE) são os melhores. Esses projéteis detonam no impacto e causam muito dano a objetos não blindados, ao contrário dos projéteis AP que os atravessam causando pouco dano."
+msgstr "Para alvos de madeira ou outros alvos sem blindagem, os projéteis explosivos (HE) são os melhores. Esses projéteis detonam no impacto e causam muito dano a objetos não blindados, ao contrário dos projéteis AP que os atravessam causando pouco dano."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak4"
 msgid "The high-velocity APCR shells are lightweight and penetrate more than AP shells at close ranges but they lose their kinetic energy quickly at longer ranges. It is better to use AP shells to engage distant targets."
@@ -203,7 +203,7 @@ msgstr "Você é muito bom mesmo. Nas batalhas que virão, a Alemanha pode conta
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/spec14"
 msgid "Complete amateurs are being hired now. You are a disgrace to Germany."
-msgstr "Amadores completos estão sendo contratados agora. Você é uma vergonha para a Alemanha."
+msgstr "Agora estão recrutando gente totalmente inexperiente. Você é uma vergonha para a Alemanha."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/start1"
 msgid "Soldiers! Welcome to the Kummersdorf training camp. "

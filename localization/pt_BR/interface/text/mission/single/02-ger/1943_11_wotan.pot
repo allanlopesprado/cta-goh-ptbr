@@ -84,7 +84,7 @@ msgstr "Veículos blindados são esperados pelo sul..."
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/4"
 msgid "Enemy infantry regiments crossed the Dnieper and are expected to attack us from the north... we don't know how much longer it will take for them to build pontoon crossings and deploy armored divisions from this sector..."
-msgstr "Regimentos de infantaria inimiga cruzaram o Dnieper e devem nos atacar pelo norte... não sabemos quanto tempo mais levará para construírem travessias de pontes flutuantes e implantar divisões blindadas neste setor..."
+msgstr "Regimentos de infantaria inimiga cruzaram o Dnieper e devem nos atacar pelo norte... não sabemos quanto tempo mais levará para construírem travessias com pontes flutuantes e enviarem divisões blindadas a partir desse setor..."
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/5"
 msgid "We also anticipate that Ivan will attempt to break through at the village. Grenadiers with short-range weaponry have been deployed there for close-quarters combat..."
@@ -92,7 +92,7 @@ msgstr "Também antecipamos que Ivan tentará romper pela aldeia. Granadeiros co
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/6"
 msgid "You have some time to prepare the defenses before the arrival of the first enemy scouts. Dig foxholes, position your men and lay down the mines from the crates by the dispersal area."
-msgstr "Você tem algum tempo para preparar as defesas antes da chegada dos primeiros batedores inimigos. Cave abrigos individuais, posicione seus homens e coloque as minas das caixas na área de dispersão."
+msgstr "Você tem algum tempo para preparar as defesas antes da chegada dos primeiros batedores inimigos. Cave abrigos individuais, posicione seus homens e plante as minas que estão nas caixas perto da área de dispersão."
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/7"
 msgid "The enemy is almost here. Man your positions! If we can hold until nightfall the enemy may call off their assault!"
@@ -116,7 +116,7 @@ msgstr "Os soviéticos estão implantando morteiros ao norte!"
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/mortars2"
 msgid "Enemy mortars spotted in the south! They're planning to bomb us out!"
-msgstr "Morteiros inimigos avistados ao sul! Estão planejando nos bombardear!"
+msgstr "Morteiros inimigos avistados ao sul! Estão planejando nos expulsar com o bombardeio!"
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/n_generic1"
 msgid "The Bolsheviks are coming from the north!"
@@ -128,7 +128,7 @@ msgstr "Ivan está assaltando nosso flanco norte!"
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/n_inf"
 msgid "The Soviet infantry has arrived at our northern positions! We're now fighting on 2 fronts! "
-msgstr "A infantaria soviética chegou às nossas posições norte! Agora estamos lutando em 2 frentes!"
+msgstr "A infantaria soviética chegou às nossas posições ao norte! Agora estamos lutando em 2 frentes!"
 
 msgctxt "mission/single/02-ger/1943_11_wotan/narrator/officer/nw_generic1"
 msgid "Soviet column approaching us from the northwest! On the road!"
@@ -184,7 +184,7 @@ msgstr "Herr Leutnant, parece que os soviéticos pararam de nos pressionar!"
 
 msgctxt "mission/single/02-ger/1943_11_wotan/outro_completed"
 msgid "The onslaught continued and the Wehrmacht committed all their strength and courage to withstand the Red wave. In Ukraine, the tenacious Soviet forces continued overwhelming the unfinished Wotan line with brute force. Whatever fortifications had been built along the Dnieper were rather subpar, as both materials and labor had been insufficient to build a position strong enough to withstand the might of the Red Army. Nevertheless, in some places, the Germans held the line until well into 1944. Surrounded, undergunned and in spite of all the odds, the Panther-Wotan line bought precious time for the Wehrmacht, for more solid attempts to stop the avalanche of the Soviets and attempt to tilt the balance of the eastern front once more..."
-msgstr "O ataque continuou e a Wehrmacht empenhou toda a sua força e coragem para resistir à onda vermelha. Na Ucrânia, as tenacíssimas forças soviéticas continuaram esmagando a inacabada linha Wotan com força bruta. As fortificações construídas ao longo do Dnieper eram bastante inadequadas, pois materiais e mão de obra haviam sido insuficientes para construir uma posição forte o suficiente para resistir ao poderio do Exército Vermelho. No entanto, em alguns lugares, os alemães mantiveram a linha até bem adentro de 1944. Cercada, com poder de fogo insuficiente e apesar de todas as probabilidades, a linha Panther-Wotan comprou tempo precioso para a Wehrmacht, para tentativas mais sólidas de parar a avalanche soviética e tentar mudar o equilíbrio da frente oriental mais uma vez..."
+msgstr "O ataque continuou e a Wehrmacht empenhou toda a sua força e coragem para resistir à onda vermelha. Na Ucrânia, as tenacíssimas forças soviéticas continuaram esmagando a inacabada linha Wotan com força bruta. As fortificações construídas ao longo do Dnieper eram bastante inadequadas, pois materiais e mão de obra haviam sido insuficientes para construir uma posição forte o suficiente para resistir ao poderio do Exército Vermelho. No entanto, em alguns lugares, os alemães mantiveram a linha até boa parte de 1944. Cercada, com poder de fogo insuficiente e apesar de todas as dificuldades, a linha Panther-Wotan ganhou tempo precioso para a Wehrmacht, para tentativas mais sólidas de parar a avalanche soviética e tentar mudar o equilíbrio da frente oriental mais uma vez..."
 
 msgctxt "mission/single/02-ger/1943_11_wotan/outro_failed"
 msgid "Since you were unable to stop the Red tide here, the Red Army can now march west unopposed. They will leave Army Group Centre in complete disarray, and will be able to reach Warsaw before summer. A year from now, still in 1944, Berlin will fall to the allies."

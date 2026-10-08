@@ -78,7 +78,7 @@ msgstr "Fascistas chegando! Camaradas, defendam os caminhões!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/fighter/10"
 msgid "Well comrades, I have the distinct sensation that the war ends here and now for me. I hope not to see you again too soon, but it was an honor to liberate the motherland with you all these years."
-msgstr "Bem, camaradas, tenho a distinta sensação de que a guerra termina aqui e agora para mim. Espero não ver vocês novamente tão cedo, mas foi uma honra libertar a pátria com todos vocês esses anos."
+msgstr "Bem, camaradas, tenho a nítida sensação de que a guerra termina aqui e agora para mim. Espero não ver vocês novamente tão cedo, mas foi uma honra libertar a pátria com vocês durante todos esses anos."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/01"
 msgid "Yup, but the Germans are all over the place. Trucks are going in but not coming out. Something about this stinks! We need to find out what the fascists are hoarding here."
@@ -86,7 +86,7 @@ msgstr "É, mas os alemães estão por todo o lugar. Caminhões entrando mas nã
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/02"
 msgid "Hmm. It looks like one of those trucks broke down up ahead. I say we take a look at their cargo."
-msgstr "Hmm. Parece que um daqueles caminhões quebrou ali na frente. Digo que demos uma olhada na carga deles."
+msgstr "Hmm. Parece que um daqueles caminhões quebrou ali na frente. Sugiro que demos uma olhada na carga deles."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/03"
 msgid "My friend, this goes beyond liberating our country from the fascist yoke. The Germans are taking valuables with them. This particular convoy seems heavily protected."
@@ -94,11 +94,11 @@ msgstr "Meu amigo, isso vai além de libertar nosso país do jugo fascista. Os a
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/04"
 msgid "Heads up, dead north! "
-msgstr "Atenção, direto ao norte!"
+msgstr "Atenção, exatamente ao norte!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/05"
 msgid "Don't panic. The Tigers are vulnerable in close quarters. We'll outflank them and attack them from behind. Whatever they are safeguarding in this town must be very valuable if tigers are strolling around."
-msgstr "Não entrem em pânico. Os Tigers são vulneráveis em espaços fechados. Vamos flanqueá-los e atacá-los por trás. O que quer que estejam guardando nesta cidade deve ser muito valioso se Tigers estão rondando por aí."
+msgstr "Não entrem em pânico. Os Tigers são vulneráveis no combate a curta distância. Vamos flanqueá-los e atacá-los por trás. O que quer que estejam guardando nesta cidade deve ser muito valioso se Tigers estão rondando por aí."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/06"
 msgid "Well, well. Now that's something worth guarding with Tigers."
@@ -110,7 +110,7 @@ msgstr "Camarada, você conhece alguém que possa nos ajudar a retirar esses obj
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/08"
 msgid "I checked the documents in the vehicle and they were heading towards the farmers' warehouse in the center of town. It makes sense; it's a large building. That is where we will find our treasure. Let's move out!"
-msgstr "Verifiquei os documentos no veículo e eles iam em direção ao armazém dos fazendeiros no centro da cidade. Faz sentido; é um grande prédio. É lá que encontraremos nosso tesouro. Vamos em frente!"
+msgstr "Verifiquei os documentos no veículo: os caminhões iam em direção ao armazém dos fazendeiros no centro da cidade. Faz sentido; é um grande prédio. É lá que encontraremos nosso tesouro. Vamos em frente!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/09"
 msgid "Yeah, well, this gold is useless unless we can get it out of here. The Germans clearly want to take it with them, so we need to act swiftly. Secure the village! Comrade tank commander, call your friends up."
@@ -118,7 +118,7 @@ msgstr "Pois é, mas esse ouro é inútil a não ser que consigamos tirá-lo daq
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/10"
 msgid "Comrades, I need a thorough search. I don't want a single fascist left in this village compromising our operation. We need those trucks coming in safe and sound."
-msgstr "Camaradas, preciso de uma busca completa. Não quero um único fascista restante neste vilarejo comprometendo nossa operação. Precisamos que aqueles caminhões entrem seguros e protegidos."
+msgstr "Camaradas, preciso de uma busca completa. Não quero um único fascista restante neste vilarejo comprometendo nossa operação. Precisamos que aqueles caminhões entrem em segurança, sem danos."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/11"
 msgid "Damn it! We failed to clear the town!"
@@ -126,7 +126,7 @@ msgstr "Merda! Não conseguimos limpar a cidade!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/12"
 msgid "Comrades, set up a defensive perimeter around the warehouse! The gold will take time to load, and the Germans will want it back!"
-msgstr "Camaradas, estabeleçam um perímetro defensivo ao redor do armazém! O ouro levará tempo para carregar, e os alemães vão querer de volta!"
+msgstr "Camaradas, estabeleçam um perímetro defensivo ao redor do armazém! Carregar o ouro levará tempo, e os alemães vão querê-lo de volta!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/leader/13"
 msgid "No! We've lost too many transport trucks!"
@@ -170,7 +170,7 @@ msgstr "Camarada partisano, sempre com essa atitude pessimista. Não consegue ap
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/06"
 msgid "Sure thing. Let's find out where the Fascists keep the gold, clear the area, and I'm sure I could persuade some comrades to come along with transports. The war has been very tough on all of us. The thought of returning to the Urals emptyhanded seems rather sad, you know?"
-msgstr "Claro. Vamos descobrir onde os Fascistas guardam o ouro, limpar a área, e tenho certeza de que poderia persuadir alguns camaradas a virem com transportes. A guerra foi muito difícil para todos nós. A ideia de voltar aos Urais de mãos vazias parece bastante triste, sabe?"
+msgstr "Claro. Vamos descobrir onde os Fascistas guardam o ouro, limpar a área, e tenho certeza de que poderia persuadir alguns camaradas a virem com veículos de transporte. A guerra foi muito difícil para todos nós. A ideia de voltar aos Urais de mãos vazias parece bastante triste, sabe?"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/07"
 msgid "Yes, Comrade..."
@@ -186,7 +186,7 @@ msgstr "(no rádio) Não, não estou tentando ser engraçado. Olha, preciso de u
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/10"
 msgid "(on radio) Listen, I need you here round about now, I'm about to cut you into a very good deal, if you don't want it, then you're out, I can find 10 trucks almost anywhere."
-msgstr "(no rádio) Olha, preciso de você aqui agora — estou prestes a te colocar em um ótimo negócio; se você não quiser, não precisa, posso encontrar 10 caminhões em quase qualquer lugar."
+msgstr "(no rádio) Olha, preciso de você aqui agora — estou prestes a te colocar em um ótimo negócio; se você não quiser, está fora, posso encontrar 10 caminhões em quase qualquer lugar."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/11"
 msgid "Yeah, just as I thought. Alright, comrades, listen up! 6 minutes for our trucks to come from the southeast, secure the town!"
@@ -206,7 +206,7 @@ msgstr "Chamando ataque aéreo!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/15"
 msgid "Calling in an IL-2. One thousand seven hundred horsepowers of goodness and some big bombs strapped under it."
-msgstr "Chamando um IL-2. Mil e setecentos cavalos de potência de força bruta com algumas bombas grandes presas sob ele."
+msgstr "Chamando um IL-2. Mil e setecentos cavalos de força bruta, com algumas bombas grandes presas sob ele."
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/narrator/tanker/16"
 msgid "Hm. Definitely an anti-social type."
@@ -234,7 +234,7 @@ msgstr "Elementos do Exército Popular de Libertação da Iugoslávia"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/story"
 msgid "It’s 1945, and the Germans are retreating from Yugoslavia. \nHaving lost the easier withdrawal route through Serbia, they secure the more difficult passage through Kosovo, Sandzak, and Bosnia. They even score a series of temporary successes against the People's Liberation Army. \nIn early March, the Germans move troops from southern Bosnia to support an unsuccessful counter-offensive in Hungary, enabling the People’s Liberation Army to attack the weakened German positions.  \nToday, you are looking for Germans while driving through the beautiful Yugoslavian landscape. \nWhatever you do or find, just make sure you avoid them negative waves, and you’ll be fine.\n\nGood luck!"
-msgstr "É 1945, e os alemães estão recuando da Iugoslávia.\nHavendo perdido a rota de retirada mais fácil pela Sérvia, eles asseguram a passagem mais difícil pelo Kosovo, Sandžak e Bósnia. Chegam até a conseguir uma série de sucessos temporários contra o Exército Popular de Libertação.\nNo início de março, os alemães movem tropas do sul da Bósnia para apoiar uma contra-ofensiva malsucedida na Hungria, permitindo que o Exército Popular de Libertação ataque as posições alemãs enfraquecidas.\nHoje, você está procurando alemães enquanto atravessa a bela paisagem iugoslava.\nSeja o que for que você faça ou encontre, apenas certifique-se de evitar essas ondas negativas e tudo correrá bem.\n\nBoa sorte!"
+msgstr "É 1945, e os alemães estão recuando da Iugoslávia.\nHavendo perdido a rota de retirada mais fácil pela Sérvia, eles asseguram a passagem mais difícil pelo Kosovo, Sandžak e Bósnia. Chegam até a conseguir uma série de sucessos temporários contra o Exército Popular de Libertação.\nNo início de março, os alemães movem tropas do sul da Bósnia para apoiar uma contraofensiva malsucedida na Hungria, permitindo que o Exército Popular de Libertação ataque as posições alemãs enfraquecidas.\nHoje, você está procurando alemães enquanto atravessa a bela paisagem iugoslava.\nSeja o que for que você faça ou encontre, apenas certifique-se de evitar essas ondas negativas e tudo correrá bem.\n\nBoa sorte!"
 
 msgctxt "mission/single/06-bonus/1945_04_yugoslavia/task1"
 msgid "Inspect the broken-down vehicle to find what the Germans are transporting."

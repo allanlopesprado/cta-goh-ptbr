@@ -27,7 +27,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/early/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/early/antitank_5"
 msgid "Rifle AT Ammo Bearer [KA]"
@@ -47,11 +47,11 @@ msgstr "Comissário [KA]"
 
 msgctxt "desc/human/mp/rus/early/conscript_nco"
 msgid "Conscript squadleader [KA]"
-msgstr "Líder de Esquadra Recruta [KA]"
+msgstr "Líder de Esquadra Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/early/conscript_rifle"
 msgid "Conscript Rifleman [KA]"
-msgstr "Conscrito Atirador [KA]"
+msgstr "Atirador Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/early/cossack_1"
 msgid "Cossack [KA]"
@@ -139,7 +139,7 @@ msgstr "Auxiliar de Metralhadora [KA]"
 
 msgctxt "desc/human/mp/rus/early/militia_1"
 msgid "Border Militia Squadleader [KA]"
-msgstr "Border Militia Líder de Esquadra [KA]"
+msgstr "Líder de Esquadra da Milícia de Fronteira [KA]"
 
 msgctxt "desc/human/mp/rus/early/militia_2"
 msgid "Border Militia [KA]"
@@ -159,15 +159,15 @@ msgstr "Engenheiro de Minas AT [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_1"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_2"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_3"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_mg"
 msgid "Mountain Trooper MG Operator [KA]"
@@ -183,7 +183,7 @@ msgstr "Soldado de Montanha Líder de Esquadra [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_senior"
 msgid "Senior Mountain Trooper [KA]"
-msgstr "Sênior Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/early/nco"
 msgid "Squadleader [KA]"
@@ -299,7 +299,7 @@ msgstr "Atirador de Precisão [KA]"
 
 msgctxt "desc/human/mp/rus/early/senior_sa"
 msgid "Senior Rifleman [KA]"
-msgstr "Sênior Atirador [KA]"
+msgstr "Atirador Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/early/signaller"
 msgid "Artillery Signaller [KA]"
@@ -427,11 +427,11 @@ msgstr "Comissário [KA]"
 
 msgctxt "desc/human/mp/rus/late/conscript_nco"
 msgid "Conscript Squadleader [KA]"
-msgstr "Líder de Esquadra Recruta [KA]"
+msgstr "Líder de Esquadra Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/late/conscript_rifle"
 msgid "Conscript Rifleman [KA]"
-msgstr "Conscrito Atirador [KA]"
+msgstr "Atirador Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/late/engineer_1"
 msgid "Field Engineer [KA]"
@@ -491,7 +491,7 @@ msgstr "Fuzileiro Naval da Guarda [VMF]"
 
 msgctxt "desc/human/mp/rus/late/guards_marine_senior"
 msgid "Guards Senior Marine [VMF]"
-msgstr "Sênior Fuzileiro Naval da Guarda [VMF]"
+msgstr "Fuzileiro Naval Sênior da Guarda [VMF]"
 
 msgctxt "desc/human/mp/rus/late/guards_marine_smg"
 msgid "Guards Marine [VMF]"
@@ -571,7 +571,7 @@ msgstr "Marine Líder de Esquadra [VMF]"
 
 msgctxt "desc/human/mp/rus/late/marine_senior"
 msgid "Senior Marine [VMF]"
-msgstr "Sênior Fuzileiro Naval [VMF]"
+msgstr "Fuzileiro Naval Sênior [VMF]"
 
 msgctxt "desc/human/mp/rus/late/medic"
 msgid "Medic [KA]"
@@ -775,7 +775,7 @@ msgstr "Granadeiro de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/mid/antitank_4"
 msgid "Rifle AT grenadier [KA]"
-msgstr "Granadeiro AT Atirador [KA]"
+msgstr "Granadeiro Antitanque de Fuzil [KA]"
 
 msgctxt "desc/human/mp/rus/mid/antitank_ptrs"
 msgid "AT. Inf. [KA]"
@@ -831,11 +831,11 @@ msgstr "Comissário [KA]"
 
 msgctxt "desc/human/mp/rus/mid/conscript_nco"
 msgid "Conscript Squadleader [KA]"
-msgstr "Líder de Esquadra Recruta [KA]"
+msgstr "Líder de Esquadra Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/mid/conscript_rifle"
 msgid "Conscript Rifleman [KA]"
-msgstr "Conscrito Atirador [KA]"
+msgstr "Atirador Conscrito [KA]"
 
 msgctxt "desc/human/mp/rus/mid/engineer_1"
 msgid "Field Engineer [KA]"
@@ -951,15 +951,15 @@ msgstr "Engenheiro de Minas AT [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_1"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_2"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_3"
 msgid "Mountain Trooper [KA]"
-msgstr "Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_mg"
 msgid "Mountain Trooper MG Operator [KA]"
@@ -975,7 +975,7 @@ msgstr "Soldado de Montanha Líder de Esquadra [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_senior"
 msgid "Senior Mountain Trooper [KA]"
-msgstr "Sênior Tropa de Montanha [KA]"
+msgstr "Soldado de Montanha Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/mid/nco"
 msgid "Serzhant [KA]"
@@ -1091,7 +1091,7 @@ msgstr "Atirador [KA]"
 
 msgctxt "desc/human/mp/rus/mid/senior_sa"
 msgid "Senior Rifleman [KA]"
-msgstr "Sênior Atirador [KA]"
+msgstr "Atirador Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/mid/signaller"
 msgid "Artillery Signaller [KA]"
@@ -1195,7 +1195,7 @@ msgstr "Cavalaria Sapador [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_senior_sa"
 msgid "Cavalry Senior Rifleman [KA]"
-msgstr "Cavalaria Sênior Atirador [KA]"
+msgstr "Atirador Sênior de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_smg"
 msgid "Cavalry SMG inf. [KA]"
@@ -1255,35 +1255,35 @@ msgstr "Desantnik Lança-chamas inf. [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_flamer"
 msgid "Glider Flamer inf. [VVS]"
-msgstr "Planador Lança-chamas inf. [VVS]"
+msgstr "Inf. Lança-chamas da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_mg"
 msgid "Glider MG Operator [VVS]"
-msgstr "Planador Operador de MG [VVS]"
+msgstr "Operador de MG da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_mg_asst"
 msgid "Glider MG Asst. [VVS]"
-msgstr "Planador Auxiliar de Metralhadora [VVS]"
+msgstr "Auxiliar de Metralhadora da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_nco"
 msgid "Glider Squadleader [VVS]"
-msgstr "Planador Líder de Esquadra [VVS]"
+msgstr "Líder de Esquadra da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_nco_asst"
 msgid "Glider Asst. Leader [VVS]"
-msgstr "Planador Auxiliar de Líder [VVS]"
+msgstr "Auxiliar do Líder da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_recon_nco"
 msgid "Glider Recon Squadleader [VVS]"
-msgstr "Planador Reconhecimento Líder de Esquadra [VVS]"
+msgstr "Líder de Esquadra de Reconhecimento da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_recon_rifle"
 msgid "Glider Recon Rifleman [VVS]"
-msgstr "Planador Reconhecimento Atirador [VVS]"
+msgstr "Atirador de Reconhecimento da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_recon_sa"
 msgid "Glider Recon Rifleman [VVS]"
-msgstr "Planador Reconhecimento Atirador [VVS]"
+msgstr "Atirador de Reconhecimento da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_recon_smg"
 msgid "Glider Recon SMG inf. [VVS]"
@@ -1291,11 +1291,11 @@ msgstr "Inf. SMG de Reconhecimento em Planador [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_rifle"
 msgid "Glider Rifleman [VVS]"
-msgstr "Planador Atirador [VVS]"
+msgstr "Atirador da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_sa"
 msgid "Glider Rifleman [VVS]"
-msgstr "Planador Atirador [VVS]"
+msgstr "Atirador da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_nco_asst"
 msgid "Desantnik Asst. Leader [VVS]"
@@ -1339,7 +1339,7 @@ msgstr "Sapador [KA]"
 
 msgctxt "desc/human/mp/rus/mid/conscript_smg"
 msgid "Conscript SMG inf. [KA]"
-msgstr "Inf. SMG Recruta [KA]"
+msgstr "Inf. SMG de Conscritos [KA]"
 
 msgctxt "desc/human/mp/rus/mid/elite_guard_mg"
 msgid "Elite Guards MG Operator [KA]"
@@ -1363,7 +1363,7 @@ msgstr "Atirador da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/mid/elite_guard_senior_sa"
 msgid "Elite Guards Senior Rifleman [KA]"
-msgstr "Sênior Atirador da Guarda de Elite [KA]"
+msgstr "Atirador Sênior da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/mid/elite_guard_smg_drum"
 msgid "Elite Guards SMG inf. [KA]"
@@ -1443,7 +1443,7 @@ msgstr "Fuzileiro Naval [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_reg_senior"
 msgid "Senior Marine [VMF]"
-msgstr "Sênior Fuzileiro Naval [VMF]"
+msgstr "Fuzileiro Naval Sênior [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_reg_smg_m1928"
 msgid "Marine [VMF]"
@@ -1603,11 +1603,11 @@ msgstr "Sapador [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_senior_rifle"
 msgid "Senior Rifleman [NKVD]"
-msgstr "Sênior Atirador [NKVD]"
+msgstr "Atirador Sênior [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_senior_sa"
 msgid "Senior Rifleman [NKVD]"
-msgstr "Sênior Atirador [NKVD]"
+msgstr "Atirador Sênior [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_senior_smg_stick"
 msgid "Senior SMG inf. [NKVD]"
@@ -1663,7 +1663,7 @@ msgstr "Sapador [KA]"
 
 msgctxt "desc/human/mp/rus/mid/senior_rifle"
 msgid "Senior Rifleman [KA]"
-msgstr "Sênior Atirador [KA]"
+msgstr "Atirador Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/mid/senior_smg"
 msgid "Senior SMG inf. [KA]"
@@ -1671,11 +1671,11 @@ msgstr "Inf. SMG Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/mid/smg_drum"
 msgid "SMG inf. [KA]"
-msgstr "Infantaria com Submetralhadora [KA]"
+msgstr "Inf. SMG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/smg_m1928"
 msgid "SMG inf. [KA]"
-msgstr "Infantaria com Submetralhadora [KA]"
+msgstr "Inf. SMG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/tank_commander_m1928"
 msgid "Tank Commander [KA]"
@@ -1715,11 +1715,11 @@ msgstr "Cavalaria Atirador [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_senior_rifle"
 msgid "Cavalry Senior Rifleman [KA]"
-msgstr "Cavalaria Sênior Atirador [KA]"
+msgstr "Atirador Sênior de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_senior_sa"
 msgid "Cavalry Senior Rifleman [KA]"
-msgstr "Cavalaria Sênior Atirador [KA]"
+msgstr "Atirador Sênior de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_senior_smg"
 msgid "Cavalry Senior SMG inf. [KA]"
@@ -1779,11 +1779,11 @@ msgstr "Atirador da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_senior_rifle"
 msgid "Elite Guards Senior Rifleman [KA]"
-msgstr "Sênior Atirador da Guarda de Elite [KA]"
+msgstr "Atirador Sênior da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_senior_sa"
 msgid "Elite Guards Senior Rifleman [KA]"
-msgstr "Sênior Atirador da Guarda de Elite [KA]"
+msgstr "Atirador Sênior da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_senior_smg"
 msgid "Elite Guards Senior SMG inf. [KA]"
@@ -1843,11 +1843,11 @@ msgstr "Cavalaria Atirador da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_senior_rifle"
 msgid "Guards Cavalry Senior Rifleman [KA]"
-msgstr "Cavalaria Sênior Atirador da Guarda [KA]"
+msgstr "Atirador Sênior de Cavalaria da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_senior_sa"
 msgid "Guards Cavalry Senior Rifleman [KA]"
-msgstr "Cavalaria Sênior Atirador da Guarda [KA]"
+msgstr "Atirador Sênior de Cavalaria da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_senior_smg"
 msgid "Guards Cavalry Senior SMG inf. [KA]"
@@ -1883,11 +1883,11 @@ msgstr "Líder de Esquadra da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_senior_rifle"
 msgid "Guards Senior Rifleman [KA]"
-msgstr "Sênior Atirador da Guarda [KA]"
+msgstr "Atirador Sênior da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_senior_sa"
 msgid "Guards Senior Rifleman [KA]"
-msgstr "Sênior Atirador da Guarda [KA]"
+msgstr "Atirador Sênior da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_senior_smg"
 msgid "Guards Senior SMG inf. [KA]"
@@ -1915,11 +1915,11 @@ msgstr "Marine Líder de Esquadra [VMF]"
 
 msgctxt "desc/human/mp/rus/late/marine_senior_pps43"
 msgid "Senior Marine [VMF]"
-msgstr "Sênior Fuzileiro Naval [VMF]"
+msgstr "Fuzileiro Naval Sênior [VMF]"
 
 msgctxt "desc/human/mp/rus/late/marine_senior_stick"
 msgid "Senior Marine [VMF]"
-msgstr "Sênior Fuzileiro Naval [VMF]"
+msgstr "Fuzileiro Naval Sênior [VMF]"
 
 msgctxt "desc/human/mp/rus/late/mountain_cav_mg"
 msgid "Mountain Cavalry MG Operator [KA]"
@@ -1963,7 +1963,7 @@ msgstr "Líder de Esquadra [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_dp"
 msgid "Partisan MG Operator [KA]"
-msgstr "Partisan Operador de MG [KA]"
+msgstr "Operador de MG Guerrilheiro [KA]"
 
 msgctxt "desc/human/mp/rus/late/partisan_drum"
 msgid "Partisan [KA]"
@@ -1999,11 +1999,11 @@ msgstr "Sapador [KA]"
 
 msgctxt "desc/human/mp/rus/late/senior_rifle"
 msgid "Senior Rifleman [KA]"
-msgstr "Sênior Atirador [KA]"
+msgstr "Atirador Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/late/senior_sa"
 msgid "Senior Rifleman [KA]"
-msgstr "Sênior Atirador [KA]"
+msgstr "Atirador Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/late/senior_smg_pps43"
 msgid "Senior SMG inf. [KA]"
@@ -2015,7 +2015,7 @@ msgstr "Inf. SMG Sênior [KA]"
 
 msgctxt "desc/human/mp/rus/late/smg_stick"
 msgid "SMG inf. [KA]"
-msgstr "Infantaria com Submetralhadora [KA]"
+msgstr "Inf. SMG [KA]"
 
 msgctxt "desc/human/mp/rus/late/tank_commander_m1928"
 msgid "Tank Commander [KA]"
@@ -2035,7 +2035,7 @@ msgstr "Veterano Líder de Esquadra [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_dp"
 msgid "Veteran Partisan MG Operator [KA]"
-msgstr "Veterano Partisan Operador de MG [KA]"
+msgstr "Operador de MG Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_drum"
 msgid "Veteran Partisan [KA]"
@@ -2051,11 +2051,11 @@ msgstr "Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mg34"
 msgid "Veteran Partisan MG Operator [KA]"
-msgstr "Veterano Partisan Operador de MG [KA]"
+msgstr "Operador de MG Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mg42"
 msgid "Veteran Partisan MG Operator [KA]"
-msgstr "Veterano Partisan Operador de MG [KA]"
+msgstr "Operador de MG Guerrilheiro Veterano [KA]"
 
 msgctxt "desc/human/mp/rus/late/vet_partisan_mosin"
 msgid "Veteran Partisan [KA]"

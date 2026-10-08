@@ -46,7 +46,7 @@ msgstr "Quando o terreno não oferecer cobertura, você deve cavar suas própria
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/hints/medic"
 msgid "Medics are one of the most valuable assets on the battlefield. They are the only ones who can treat bleeding soldiers. While having a medic selected, hover over an injured soldier and you will be prompted to treat him. Bear in mind, bleeding soldiers will die if left unattended for too long..."
-msgstr "Os médicos são um dos ativos mais valiosos no campo de batalha. São os únicos que podem tratar soldados sangrando. Com um médico selecionado, passe o cursor sobre um soldado ferido e você será solicitado a tratá-lo. Lembre-se, soldados sangrando morrerão se ficarem sem atendimento por tempo demais..."
+msgstr "Os médicos estão entre os recursos mais valiosos no campo de batalha. São os únicos que podem tratar soldados sangrando. Com um médico selecionado, passe o cursor sobre um soldado ferido e você será solicitado a tratá-lo. Lembre-se, soldados sangrando morrerão se ficarem sem atendimento por tempo demais..."
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/hints/minedetector"
 msgid "You must use a mine detector to locate mines. To do so, grab it from the truck's inventory. Once in your soldiers' inventory, you will be able to sweep a specific location using the 'mine detection' button inside the 'item options' submenu on the bottom right."
@@ -114,7 +114,7 @@ msgstr "Você! Pegue um detector de minas do caminhão e varra a estrada à fren
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/tank"
 msgid "This thing has no ammo, no fuel! What a bloody disaster. You'll need to stock her up!"
-msgstr "Esta coisa não tem munição nem combustível! Que desastre. Você precisará abastecê-la!"
+msgstr "Esta coisa não tem munição nem combustível! Que desastre. Você precisará reabastecê-la com munição e combustível!"
 
 msgctxt "mission/single/00-bootcamp/2-combat/narrator/officer/village"
 msgid "I need you to take your half of the squad and flank the village from the north. Get those bastards from the side and grenade them out of their festering stinkholes. We will keep them spotted and have their guns pointed this way!"
@@ -138,7 +138,7 @@ msgstr "Experimente comandar tropas e veículos em seu batismo de fogo."
 
 msgctxt "mission/single/00-bootcamp/2-combat/task1"
 msgid "Clear out the mines."
-msgstr "Limpe as minas."
+msgstr "Remova as minas."
 
 msgctxt "mission/single/00-bootcamp/2-combat/task1_2"
 msgid "Treat the bleeding soldier!"

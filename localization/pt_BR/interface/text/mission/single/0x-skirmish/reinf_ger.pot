@@ -18,7 +18,7 @@ msgstr "Ataque aéreo da área selecionada."
 
 msgctxt "mission/single/0x-skirmish/menu_ger/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/menu:1_1"
 msgid "Infantry"
@@ -78,7 +78,7 @@ msgstr "Esquadra AT"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/flamer"
 msgid "Flamer"
-msgstr "Lança-chamas"
+msgstr "Operador de Lança-chamas"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/sniper"
 msgid "Sniper"
@@ -134,7 +134,7 @@ msgstr "Equipe de Engenharia"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_engineering"
 msgid "Opel(Engineer)"
-msgstr "Opel(Engenheiro)"
+msgstr "Opel(Engenharia)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz10_pak38"
 msgid "Sd.Kfz 10 PaK 38"

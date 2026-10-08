@@ -19,6 +19,37 @@ test('original in English msgstr supports empty msgid',()=>{
  const p=planCatalogChanges(entry('test','','Unit'),entry('test','','Unidade'),[change('Unit','Unidade','Tropa')]);
  assert.equal(p.text,entry('test','','Tropa'));
 });
+
+test('real errors_helper English fallback pairs with an explicit Portuguese source',()=>{
+ const ctx='mission/single/nodifficulty_error',src='Warning - Difficulty not detected!',before='Aviso - Dificuldade não detectada!',after='Aviso: dificuldade não detectada!';
+ const p=planCatalogChanges(entry(ctx,'',src),entry(ctx,src,before),[change(src,before,after,ctx)]);
+ assert.equal(p.text,entry(ctx,src,after));
+});
+
+test('indistinguishable empty sources never overwrite another legacy translation',()=>{
+ const en=entry('test','','Tank')+entry('test','','Weapon');
+ assert.throws(()=>planCatalogChanges(en,entry('test','','Arma'),[change('Tank','Arma','Tanque')]),/ambiguous legacy/);
+ const pt=entry('test','Tank','Tanque')+entry('test','Weapon','Arma');
+ const p=planCatalogChanges(en,pt,[change('Tank','Tanque','Blindado'),change('Weapon','Arma','Armamento')]);
+ assert.equal(p.text,entry('test','Tank','Blindado')+entry('test','Weapon','Armamento'));
+});
+
+test('identical English duplicates and unused malformed English msgstr do not block exact changes',()=>{
+ const pt=entry('test','Tank','Tanque'),changes=[change('Tank','Tanque','Blindado')];
+ assert.equal(planCatalogChanges(entry('test','Tank','').repeat(2),pt,changes).changes,1);
+ assert.equal(planCatalogChanges(entry('test','','Tank').repeat(2),entry('test','','Tanque'),changes).changes,1);
+ const broken='msgctxt "test"\nmsgid "Tank"\nmsgstr ""4\n';
+ assert.equal(planCatalogChanges(broken,pt,changes).changes,1);
+});
+
+test('duplicate Portuguese msgstr or unknown syntax cannot be repaired implicitly by a patch',()=>{
+ const en=entry('test','Tank',''),changes=[change('Tank','Tanque','Blindado')];
+ for(const pt of [
+  'msgctxt "test"\nmsgid "Tank"\nmsgstr "Tanque"\nmsgstr "Tanque"\n',
+  'msgctxt "test"\nmsgid "Tank"\nmsgstr "Tanque"\nmsgstr "Errado"\n',
+  entry('test','Tank','Tanque').trim()+'\njunk\n'
+ ])assert.throws(()=>planCatalogChanges(en,pt,changes),/invalid Portuguese catalog syntax/);
+});
 test('stale translation is rejected',()=>assert.throws(()=>planCatalogChanges(entry('test','Tank','Tank'),entry('test','Tank','Tanque'),[change('Tank','Blindado','Veículo')] ),/changed since review/));
 test('missing tag is rejected',()=>assert.throws(()=>planCatalogChanges(entry('test','<c(abc)>Tank',''),entry('test','<c(abc)>Tank','<c(abc)>Tanque'),[change('<c(abc)>Tank','<c(abc)>Tanque','Tanque')] ),/token mismatch/));
 test('printf argument order cannot change',()=>assert.throws(()=>planCatalogChanges(entry('test','%s %d',''),entry('test','%s %d','%s %d'),[change('%s %d','%s %d','%d %s')] ),/printf order/));

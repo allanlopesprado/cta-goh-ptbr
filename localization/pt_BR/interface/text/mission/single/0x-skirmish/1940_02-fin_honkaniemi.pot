@@ -50,7 +50,7 @@ msgstr "Honkaniemi"
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/story"
 msgid " Winter war, the attack on Honkaniemi. It's a pity some of our tanks broke down on the way here, but we will counterattack anyway. The enemy breakthrough is a threat, and we have to attack now!\n\nGoal:\n - Take the village of Honkaniemi.\n - Close the salient."
-msgstr " Guerra de Inverno, o ataque a Honkaniemi. É uma pena que alguns de nossos tanques tenham quebrado no caminho, mas contra-atacaremos assim mesmo. O avanço inimigo é uma ameaça, e temos de atacar agora!\n\nObjetivo:\n - Tome a aldeia de Honkaniemi.\n - Feche o saliente."
+msgstr " Guerra de Inverno, o ataque a Honkaniemi. É uma pena que alguns de nossos tanques tenham quebrado no caminho, mas contra-atacaremos assim mesmo. O rompimento das linhas pelo inimigo é uma ameaça, e temos de atacar agora!\n\nObjetivo:\n - Tome a aldeia de Honkaniemi.\n - Feche o saliente."
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/place"
 msgid "Honkaniemi"
@@ -78,7 +78,7 @@ msgstr "Missão fracassada! - O inimigo capturou o seu QG!"
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_hq"
 msgid "You must hold your field HQ!"
-msgstr "Você deve manter o seu QG de campo!"
+msgstr "Você deve manter o seu QG de campanha!"
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/mission_attack"
 msgid "Capture the village!"
@@ -102,7 +102,7 @@ msgstr "Os soviéticos podem ter fortes defesas antitanque. Certifique-se de des
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/narrator_start3"
 msgid "Begin securing the objectives, while we bring forward some reinforcements for you to deploy!"
-msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você implantar!"
+msgstr "Comece a assegurar os objetivos, enquanto trazemos alguns reforços para você enviar ao campo de batalha!"
 
 msgctxt "mission/single/03-fin_skirmish/1940_02-fin_honkaniemi/allied_enemy_near_hq"
 msgid "Asetoverit! Soviets are close to our Field HQ!"

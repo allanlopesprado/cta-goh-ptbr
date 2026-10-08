@@ -102,7 +102,7 @@ msgstr "Segure o centro! Não podemos perdê-lo!"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_20"
 msgid "We are losing too many transports! Do something!"
-msgstr "Estamos perdendo transporte demais! Faça alguma coisa!"
+msgstr "Estamos perdendo veículos de transporte demais! Faça alguma coisa!"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer01/part1_21"
 msgid "You failed at protecting the convoy, you will be held accountable!"
@@ -214,7 +214,7 @@ msgstr "Boa sorte, camaradas."
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_05"
 msgid "HQ allocated reinforcements to cover the column! Use the anti-aircraft gun to destroy the enemy fighter aircraft."
-msgstr "O QG alocou reforços para cobrir a coluna! Use o canhão antiaéreo para destruir as aeronaves de combate inimigas."
+msgstr "O QG alocou reforços para cobrir a coluna! Use o canhão antiaéreo para destruir os caças inimigos."
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part1_06"
 msgid "We are preparing the main defensive position. As soon as the column is safe, pull back!"
@@ -234,7 +234,7 @@ msgstr "Ao sul, aviões alemães bombardearam o último comboio. Dois veículos 
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_04_lost"
 msgid "They destroyed our line of defense! You were unable to cope with the task at hand. Traitor!"
-msgstr "Eles destruíram nossa linha de defesa! Você não foi capaz de lidar com a tarefa em mãos. Traidor!"
+msgstr "Eles destruíram nossa linha de defesa! Você não conseguiu cumprir sua tarefa. Traidor!"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_05"
 msgid "Great job, you regained control of the defense line. There is no time to waste. The main German forces can be here at any moment. Distribute the troops along the defense line. Try to make the surviving guns and tanks operational, the Germans will press us without mercy."
@@ -282,7 +282,7 @@ msgstr "A aeronave inimiga foi atingida! Estamos envergonhando nossa força aér
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_02"
 msgid "I'm engaged!!"
-msgstr "Estou engajado!!"
+msgstr "Estou em combate!!"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/narrator/soldier/part1_03"
 msgid "Tank moving to the right flank!"
@@ -442,7 +442,7 @@ msgstr "Abata o avião alemão!"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/outro_completed"
 msgid "Eventually, the Red Army evacuated what was left of the 44th Army by sea. A rearguard was left behind to cover the evacuation, which took place on the east beaches. Some 116,000 soldiers escaped. Later that summer, Sevastopol fell; but the Red Army would return in 1944 to take it all back."
-msgstr "Por fim, o Exército Vermelho evacuou o que restava do 44º Exército por mar. Uma retaguarda foi deixada para cobrir a evacuação, que ocorreu nas praias do leste. Cerca de 116.000 soldados escaparam. No final daquele verão, Sebastopol caiu; mas o Exército Vermelho retornaria em 1944 para recuperar tudo."
+msgstr "Por fim, o Exército Vermelho evacuou o que restava do 44º Exército por mar. Uma retaguarda foi deixada para cobrir a evacuação, que ocorreu nas praias do leste. Cerca de 116.000 soldados escaparam. Mais tarde, naquele verão, Sebastopol caiu; mas o Exército Vermelho retornaria em 1944 para recuperar tudo."
 
 msgctxt "mission/single/01-rus/1942_05_kerch/outro_failed"
 msgid "Because you did not do enough to delay the Germans, they are now driving toward the east beaches! The evacuation will turn into a bloodbath. After that, the Germans will be able to cross into the Taman Peninsula almost unopposed. Their attack plan for next year can now be altered to include an army group marching on Maikop from just 300 km to the west."
@@ -450,7 +450,7 @@ msgstr "Por não ter feito o suficiente para atrasar os alemães, eles agora ava
 
 msgctxt "mission/single/01-rus/1942_05_kerch/part1_retreat_button"
 msgid "Retreat"
-msgstr "Retirada"
+msgstr "Recuar"
 
 msgctxt "mission/single/01-rus/1942_05_kerch/part1_retreat_button_hint"
 msgid "Order soldiers to retreat to allied positions"

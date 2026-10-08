@@ -94,11 +94,11 @@ msgstr "Bem-vindo a Berlim, Major! Este é o seu QG de campo, certifique-se de m
 
 msgctxt "mission/single/02-ger_skirmish/1945-04-ger_berlin/narrator_start1"
 msgid "Soldaten! The Bolsheviks have tightened their grip on our beloved capital. They have to be stopped here, or we will face total collapse. They may have the numbers, but nothing will sway our dedication to the Fatherland. Do not despair, keep fighting until the final victory has been achieved!"
-msgstr "Soldaten! Os bolcheviques apertaram seu cerco sobre nossa amada capital. Eles têm de ser parados aqui, ou enfrentaremos um colapso total. Eles podem ter vantagem numérica, mas nada irá abalar nossa dedicação à Pátria. Não desespere, continue lutando até que a vitória final seja alcançada!"
+msgstr "Soldaten! Os bolcheviques apertaram seu cerco sobre nossa amada capital. Eles têm de ser parados aqui, ou enfrentaremos um colapso total. Eles podem ter vantagem numérica, mas nada irá abalar nossa dedicação à Pátria. Não desesperem, continuem lutando até que a vitória final seja alcançada!"
 
 msgctxt "mission/single/02-ger_skirmish/1945-04-ger_berlin/narrator_start2"
 msgid "The Red Army is already moving in from the outskirts of the city. We have to stop them right here!"
-msgstr "O Exército Vermelho já está avançando pelos arredores da cidade. Temos de detê-los bem aqui!"
+msgstr "O Exército Vermelho já está avançando para dentro da cidade a partir dos arredores. Temos de detê-los bem aqui!"
 
 msgctxt "mission/single/02-ger_skirmish/1945-04-ger_berlin/narrator_start3"
 msgid "Coordinate the defence. Secure enough AT weapons to stand a chance against the Soviet tanks. Use the buildings to hide your men. You might even get reinforcements."
@@ -110,7 +110,7 @@ msgstr "Major! Os soviéticos estão perto do nosso QG de campo!"
 
 msgctxt "mission/single/02-ger_skirmish/1945-04-ger_berlin/player_enemy_near_hq"
 msgid "Never surrender the command post, that would amount to high treason!"
-msgstr "Jamais abandone o posto de comando, isso equivaleria a alta traição!"
+msgstr "Jamais ceda o posto de comando, isso equivaleria a alta traição!"
 
 msgctxt "mission/single/02-ger_skirmish/1945-04-ger_berlin/hq_bonus"
 msgid "Major! Now you can request an airstrike."

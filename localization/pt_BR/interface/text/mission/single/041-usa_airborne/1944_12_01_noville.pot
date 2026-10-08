@@ -30,7 +30,7 @@ msgstr "Certo, soldados! Parece que a 10ª Blindada ainda está lutando pela ald
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator02"
 msgid "Sniper! Take cover!"
-msgstr "Atirador de elite! Cubra-se!"
+msgstr "Franco-atirador! Cubra-se!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator03"
 msgid "We need to help Major Desobry clear the Germans out of Noville!"
@@ -66,7 +66,7 @@ msgstr "Há caminhões de combustível e munição nas proximidades. Devemos us�
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry06"
 msgid "Enemy artillery! Take cover!"
-msgstr "Artilharia inimiga! Tomem cobertura!"
+msgstr "Artilharia inimiga! Abriguem-se!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator08"
 msgid "Get ready! Here they come!"
@@ -96,7 +96,7 @@ msgstr "Eles nos flanquearam! Os alemães estão atacando pelo sudeste!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator14"
 msgid "They are running away! Well done!"
-msgstr "Eles estão fugindo! Bem feito!"
+msgstr "Eles estão fugindo! Bom trabalho!"
 
 #removed
 #msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry04"
@@ -109,7 +109,7 @@ msgstr "Os campos minados ajudarão a retardar qualquer blindado alemão!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_completed"
 msgid " Well done! You have bought enough time for the rest of the 101st to set up defenses and prepare for a German attack. You may have made the difference between keeping or losing Bastogne."
-msgstr " Bem feito! Você ganhou tempo suficiente para o restante da 101ª estabelecer defesas e se preparar para um ataque alemão. Você pode ter feito a diferença entre manter ou perder Bastogne."
+msgstr " Bom trabalho! Você ganhou tempo suficiente para o restante da 101ª estabelecer defesas e se preparar para um ataque alemão. Você pode ter feito a diferença entre manter ou perder Bastogne."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/outro_failed"
 msgid "Our comrades in Bastogne will now face the entire German force unprepared. If only you could have bought them some more time! Bastogne will fall, and the Germans will have an open road to the Meuse River. You must try again!"

@@ -79,6 +79,15 @@ export function parseCatalog(text, filename = '<catalog>', { tolerant = false } 
           offset += raw.length;
           continue;
         }
+        if (entry && field.startsWith('msgstr') && Object.hasOwn(entry.translations, field)) {
+          if (!tolerant) throw new Error(filename + ':' + firstLine + ': duplicate ' + field + ' field');
+          entry.syntaxErrors.push({ line: firstLine, field, value: match[2], error: 'duplicate-field' });
+          // Keep the first value/span for diagnostics, never silently last-write-wins.
+          // Continuations of the duplicate must not be appended to the first value.
+          active = null;
+          offset += raw.length;
+          continue;
+        }
         if (entry && (field === 'msgctxt' || (field === 'msgid' && Object.hasOwn(entry, 'msgid')))) {
           finish();
         }
@@ -116,6 +125,29 @@ export function sourceSignature(entry) {
 export function effectiveSource(entry) {
   // A few engine messages have an empty msgid and their English source in msgstr.
   return entry.msgid || entry.translations.msgstr || '';
+}
+
+// Physical multiline fields and literal backslashes are inherited game formats:
+// report them, but do not turn those diagnostics into new blocking exceptions.
+export const actionableCatalogSyntax = problem =>
+  ['invalid-quoted-string', 'unrecognized-syntax', 'duplicate-field'].includes(problem.error);
+
+// Select by context AND exact English source. Empty legacy msgid values are not
+// an identity when that context contains different effective English texts.
+// A Portuguese msgid spelling out the exact English text is a safe explicit key.
+export function matchCatalogTranslation(englishEntries, portugueseEntries, context, source) {
+  const originals = englishEntries.filter(e => !e.header && e.msgctxt === context && effectiveSource(e) === source);
+  const signatures = [...new Set(originals.map(sourceSignature))];
+  if (signatures.length !== 1) return { originals, matches: [], ambiguousEmptySource: false };
+  const signature = signatures[0], original = originals[0];
+  const legacy = !original.msgid;
+  const related = englishEntries.filter(e => !e.header && e.msgctxt === context && sourceSignature(e) === signature);
+  const ambiguousEmptySource = legacy && new Set(related.map(effectiveSource)).size > 1;
+  const matches = portugueseEntries.filter(e => !e.header && e.msgctxt === context && (
+    (sourceSignature(e) === signature && !ambiguousEmptySource) ||
+    (legacy && source && e.msgid === source && (e.msgid_plural ?? null) === (original.msgid_plural ?? null))
+  ));
+  return { originals, signature, matches, ambiguousEmptySource };
 }
 
 export function indexCatalog(entries) {
@@ -165,7 +197,15 @@ function readCatalog(root, relative) {
 }
 
 function flatEntries(catalog) {
-  return [...catalog.index.values()].flatMap(group => [...group.values()].map(items => items[0]));
+  return [...catalog.index.values()].flatMap(group => [...group.values()].flatMap(items => {
+    const seen = new Set();
+    return items.filter(item => {
+      const source = effectiveSource(item);
+      if (seen.has(source)) return false;
+      seen.add(source);
+      return true;
+    });
+  }));
 }
 
 function translationsAt(catalog, context) {
@@ -230,10 +270,7 @@ export function auditRoots(oldRoot, translatedRoot, incomingRoot, { sourceExcept
         report.issues.push({ type: 'missing-context', file: relative, context: next.msgctxt });
       }
       const translatedGroup = translated.index.get(next.msgctxt || '');
-      const exactTranslations = [...(translatedGroup?.get(signature) || [])];
-      if (!next.msgid && effectiveSource(next)) {
-        exactTranslations.push(...[...(translatedGroup?.values() || [])].flat().filter(item => item.msgid === effectiveSource(next)));
-      }
+      const exactTranslations = matchCatalogTranslation(incoming.entries, translated.entries, next.msgctxt, effectiveSource(next)).matches;
       for (const exception of sourceExceptions.filter(item =>
         item.file === relative && item.context === next.msgctxt && item.englishSource === next.msgid)) {
         const accepted = [...(translatedGroup?.values() || [])].flat().filter(item => item.msgid === exception.acceptedPortugueseSource);
@@ -247,8 +284,8 @@ export function auditRoots(oldRoot, translatedRoot, incomingRoot, { sourceExcept
           review.file === relative && review.context === next.msgctxt &&
           review.source === next.msgid && review.sourceText === effectiveSource(next) &&
           review.translation === item.translations.msgstr);
-        return !(type === 'changed' && !next.msgid && !reviewedFallback) &&
-          !item.syntaxErrors.some(problem => ['invalid-quoted-string', 'unrecognized-syntax'].includes(problem.error)) &&
+        return !(type === 'changed' && !next.msgid && !item.msgid && !reviewedFallback) &&
+          !item.syntaxErrors.some(actionableCatalogSyntax) &&
           Object.values(item.translations).some(Boolean);
       });
       if (exact) report.counts.translatedExact++;
@@ -256,10 +293,11 @@ export function auditRoots(oldRoot, translatedRoot, incomingRoot, { sourceExcept
       if (type !== 'unchanged') report.changes.push({
         file: relative, context: next.msgctxt, type,
         source: next.msgid, sourceText: effectiveSource(next), plural: next.msgid_plural ?? null,
-        previousSources: previousGroup ? [...previousGroup.values()].map(items => effectiveSource(items[0])) : [],
+        previousSources: previousGroup ? [...new Set([...previousGroup.values()].flat().map(effectiveSource))] : [],
         previousTranslations: translationsAt(translated, next.msgctxt || ''),
         alreadyTranslatedExact: !!exact,
-        ambiguousContext: (incoming.index.get(next.msgctxt || '')?.size || 0) > 1 || (previousGroup?.size || 0) > 1,
+        ambiguousContext: [incoming.index.get(next.msgctxt || ''), previousGroup].some(group =>
+          group && new Set([...group.values()].flat().map(item => JSON.stringify([sourceSignature(item), effectiveSource(item)]))).size > 1),
       });
       if (exact) {
         const fields = Object.keys(exact.translations);
@@ -304,6 +342,7 @@ export function replaceTranslation(text, context, source, expected, replacement,
     !entry.header && entry.msgctxt === context && entry.msgid === source &&
     entry.translations.msgstr === expected);
   if (matches.length !== 1) throw new Error(filename + ': expected exactly one matching translation for ' + context + ', got ' + matches.length);
+  if (matches[0].syntaxErrors.some(actionableCatalogSyntax)) throw new Error(filename + ': invalid Portuguese catalog syntax: ' + context);
   const span = matches[0].spans.msgstr;
   if (!span) throw new Error(filename + ': missing singular msgstr: ' + context);
   if (JSON.stringify(protectedTokens(source)) !== JSON.stringify(protectedTokens(replacement))) {
@@ -354,7 +393,7 @@ function main() {
     const errors = report.issues.filter(issue =>
       ['no-exact-translation', 'protected-token-mismatch', 'printf-argument-order-mismatch', 'missing-context', 'unexpected-context'].includes(issue.type) ||
       (issue.type === 'catalog-syntax-error' && issue.language === 'portuguese' &&
-        ['invalid-quoted-string', 'unrecognized-syntax'].includes(issue.error)));
+        actionableCatalogSyntax(issue)));
     const duplicateErrors = report.duplicates.filter(item => item.language === 'portuguese' && item.conflictingTranslations);
     if (errors.length || duplicateErrors.length) {
       console.error('Translation validation failed: ' + (errors.length + duplicateErrors.length) + ' actionable issue(s).');

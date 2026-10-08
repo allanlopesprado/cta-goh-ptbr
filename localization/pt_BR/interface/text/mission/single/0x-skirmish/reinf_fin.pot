@@ -18,7 +18,7 @@ msgstr "Ataque aéreo da área selecionada."
 
 msgctxt "mission/single/0x-skirmish/menu_fin/hint"
 msgid "Deploy your reinforcements on the battlefield"
-msgstr "Implante seus reforços no campo de batalha"
+msgstr "Envie seus reforços para o campo de batalha"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/menu:1_1"
 msgid "Infantry"
@@ -150,7 +150,7 @@ msgstr "Esquadra AT"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/flamer"
 msgid "Flamer"
-msgstr "Lança-chamas"
+msgstr "Operador de Lança-chamas"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/sniper"
 msgid "Sniper"
@@ -174,7 +174,7 @@ msgstr "Ford 3-Ton(Suprimentos)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_eng"
 msgid "Ford(Engineer)"
-msgstr "Ford(Engenheiro)"
+msgstr "Ford(Engenharia)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/heavy_mg_maxim_m1910_30"
 msgid "Maxim M/09-09"
