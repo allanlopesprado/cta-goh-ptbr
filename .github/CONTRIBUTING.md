@@ -9,7 +9,8 @@ Obrigado por ajudar a melhorar esta tradução PT-BR para Call to Arms - Gates o
 - Consulte o [README](../README.md), o [glossário contextual](../translation/glossary.json)
   e o [manifesto da fonte](../translation/source-manifest.json).
 - Use Node.js 24 LTS para as ferramentas atuais; confira a instalação com
-  `node --version`. Execute os comandos abaixo a partir da raiz do repositório.
+  `node --version`. Não há dependências npm a instalar. Execute os comandos abaixo
+  a partir da raiz do repositório.
 
 ## O que pode ser contribuído
 
@@ -40,6 +41,25 @@ Obrigado por ajudar a melhorar esta tradução PT-BR para Call to Arms - Gates o
    aceito por `tools/apply-context-review.mjs`: ele confere fonte, tradução anterior e
    hashes. Use `--repo` e `--manifest` para validá-lo; só `--apply` autoriza a aplicação.
    Não reaplique um manifesto já aplicado.
+
+## Registros da revisão
+
+A origem e o hash do pacote inglês estão no [manifesto da fonte](../translation/source-manifest.json).
+O [glossário](../translation/glossary.json) registra escolhas por contexto, não
+substituições globais. Os [metadados de release](../translation/release.json) e o
+[changelog](../CHANGELOG.md) identificam o pacote de cada versão da tradução;
+esse número não é a versão do jogo e não comprova compatibilidade com outras atualizações.
+
+- Revisão de 7 de outubro de 2026: [primeiro lote](../translation/reviewed-2026-10-07.json),
+  [leitura por arquivo](../translation/full-review-2026-10-07.json),
+  [fechamento contextual](../translation/final-review-2026-10-07.json) e
+  [validação técnica](../translation/validation-2026-10-07.json).
+- Revisão de 8 de outubro de 2026: [revisão proativa](../translation/proactive-review-2026-10-08.json)
+  e [validação técnica](../translation/validation-2026-10-08.json), com cobertura,
+  original, antes/depois, motivos, referências e decisões também para entradas mantidas.
+- [Regras contextuais de regressão](../translation/context-quality.json): protegem
+  decisões por arquivo, contexto e fonte exata; não certificam automaticamente o sentido
+  de todo texto novo.
 
 ## Atualização da referência inglesa
 
@@ -79,7 +99,10 @@ decisão protegida, registre a justificativa e revise a regra correspondente;
 não apague regras apenas para contornar uma falha. A cobertura e as decisões
 estão em `translation/proactive-review-2026-10-08.json`.
 O build gera `dist/default.pak`, não altera a instalação do jogo e não publica uma
-Release. Não inclua arquivos gerados ou não relacionados no pull request.
+release. O pacote contém somente `default/localization.info` e os catálogos PT-BR;
+inglês, relatórios e ferramentas ficam fora dele. O empacotador confere inventário,
+CRC32 e conteúdo byte a byte e recusa links simbólicos, arquivos inesperados e
+destinos fora de `dist/`. Não inclua arquivos gerados ou não relacionados no pull request.
 
 Se alterar os catálogos ou a referência inglesa, prepare os metadados da próxima
 versão em `translation/release.json` e as notas em `CHANGELOG.md`: tag nova,
@@ -95,6 +118,25 @@ candidatos ou diagnósticos; não são automaticamente erros de tradução. A ap
 técnica não certifica sentido, fatos históricos, largura de texto, telas ou áudio.
 Declare separadamente o que foi testado no jogo e o que ainda depende desse teste.
 
+## Validação e publicação no GitHub
+
+O workflow [Validate](workflows/validate.yml) roda em pushes de branches e pull
+requests: testes, auditoria, regressões contextuais, construção/conferência do
+pacote e metadados da release. Um merge na `main`, inclusive de documentação,
+não publica uma release.
+
+O workflow [Release Pak](workflows/release.yml) exige uma tag `vX.Y.Z` ou uma
+execução manual explícita na `main`. A tag deve corresponder a
+`translation/release.json` e o commit deve estar integrado à `main`; a execução
+manual exige uma tag nova. Releases existentes, inclusive rascunhos, não são
+sobrescritas. As notas devem anunciar somente verificações realmente executadas.
+
+Depois dos testes, auditorias e build, o fluxo compara o SHA-256 esperado com o
+pacote reconstruído e prepara seu checksum e notas. Pacote e checksum são enviados
+primeiro a um rascunho; os anexos são baixados e comparados byte a byte com os arquivos
+locais antes de publicar como `latest`. Publicação e instalação no jogo são etapas
+separadas; aprovação de um pull request não equivale a teste visual concluído.
+
 ## Checklist de pull request
 
 - Descreva o que mudou e por quê, com original e antes/depois quando aplicável.
@@ -104,8 +146,8 @@ Declare separadamente o que foi testado no jogo e o que ainda depende desse test
   quais verificações não foram executadas.
 - Confira os metadados e as notas da versão com `release-translation.mjs --check`.
 - Diferencie validação técnica de teste no jogo e liste pendências conhecidas.
-- Consulte no README o fluxo de branches e publicação antes de solicitar o merge;
-  aprovar um pull request não deve ser confundido com teste visual concluído.
+- Siga o fluxo de validação e publicação deste guia antes de solicitar o merge;
+  confira também os registros de revisão correspondentes às mudanças.
 
 ## Aspectos legais
 
