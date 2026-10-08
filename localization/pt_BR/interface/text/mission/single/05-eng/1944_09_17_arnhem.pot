@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Editor (Dev) (1944_09_17_arnhem)\n"
@@ -6,11 +5,11 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/name"
 msgid "Arnhem Hell"
@@ -230,11 +229,11 @@ msgstr "Senhores, recebi uma boa notícia. O XXX Corpo e a 82ª americana estão
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_04"
 msgid "Sir, if I'm correct, then the ground forces will be here in a couple hours."
-msgstr "Senhor, se estiver correto, as forças terrestres estarão aqui em algumas horas."
+msgstr "Senhor, se eu estiver certo, as forças terrestres estarão aqui em algumas horas."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_05"
 msgid "The whole show hangs on what we do today. If we make it, we might just wrap up the war by Christmas. Think of the lives saved."
-msgstr "Tudo depende do que fazemos hoje. Se conseguirmos, talvez possamos encerrar a guerra antes do Natal. Pense nas vidas salvas."
+msgstr "Tudo depende do que fazemos hoje. Se conseguirmos, talvez possamos encerrar a guerra até o Natal. Pense nas vidas salvas."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part03_01"
 msgid "Everyone, take cover in basements! They are rolling out rocket artillery!"

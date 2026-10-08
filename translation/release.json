@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "tag": "v1.0.21",
-  "title": "v1.0.21 — Consistência terminológica e revisão proativa PT-BR",
+  "tag": "v1.0.22",
+  "title": "v1.0.22 — Validação offline e ajustes contextuais PT-BR",
   "sourceReferenceDate": "2026-10-07",
   "sourceManifest": "translation/source-manifest.json",
   "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
   "gameVersion": null,
   "gameTested": false,
-  "pakSha256": "d11583c149666e433bddc567163c18d6ce972c7a2068e200d49fcbdcf03d7753",
-  "pakBytes": 3883805,
+  "pakSha256": "f9776175574741d3c9cb89ffc8a33c6b6001b7dd15e78ab9d0be11732ab06eb8",
+  "pakBytes": 3880211,
   "pakFiles": 363,
   "changelog": "CHANGELOG.md"
 }

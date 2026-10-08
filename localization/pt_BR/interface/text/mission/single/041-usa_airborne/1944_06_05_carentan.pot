@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Editor (Dev) (1944_06_05_carentan)\n"
@@ -6,11 +5,11 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/date"
 msgid "June 12th, 1944 · Carentan, Normandy, France."
@@ -90,7 +89,7 @@ msgstr "Temos ordens de estabelecer defesas no terreno elevado a oeste da cidade
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator19"
 msgid "Well you just take it easy, Lip. We'll get you out of here and back to England."
-msgstr "Pode descansar, Lip. Vamos tirá-lo daqui e de volta à Inglaterra."
+msgstr "Pode descansar, Lip. Vamos tirá-lo daqui e levá-lo de volta à Inglaterra."
 
 msgctxt "mission/single/041-usa_airborne/1944_06_05_carentan/narrator_lipton01"
 msgid "Don't worry about me, Sir. I'll be back before long."

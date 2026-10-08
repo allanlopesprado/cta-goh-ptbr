@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell American MP soldiers\n"
@@ -10,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.3\n"
 
 msgctxt "desc/human/mp/usa/late/101st_speirs"
@@ -915,7 +914,7 @@ msgstr "Inf. AT de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_builder"
 msgid "Engineer Builder [USAGF]"
-msgstr "Construtor de Engenheiros [USAGF]"
+msgstr "Engenheiro Construtor [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_flamer"
 msgid "Engineer Flamer Inf. [USAGF]"
@@ -935,7 +934,7 @@ msgstr "Minador AT de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_recon"
 msgid "Engineer Recon [USAGF]"
-msgstr "Reconhecimento de Engenheiros [USAGF]"
+msgstr "Engenheiro de Reconhecimento [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/engineer_recon_gren"
 msgid "Engineer Recon Grenadier [USAGF]"
@@ -4095,7 +4094,7 @@ msgstr "Minador AT de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_recon"
 msgid "Engineer Recon [USAGF]"
-msgstr "Reconhecimento de Engenheiros [USAGF]"
+msgstr "Engenheiro de Reconhecimento [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/engineer_recon_gren"
 msgid "Engineer Recon Rifle Grenadier [USAGF]"
@@ -4263,7 +4262,7 @@ msgstr "Minador AT de Engenheiros [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_recon"
 msgid "Engineer Recon [USAGF]"
-msgstr "Reconhecimento de Engenheiros [USAGF]"
+msgstr "Engenheiro de Reconhecimento [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_engineer_recon_gren"
 msgid "Engineer Recon Rifle Grenadier [USAGF]"

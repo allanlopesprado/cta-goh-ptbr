@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Gates of Hell Doctrine Squads\n"
@@ -10,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgctxt "desc/squad/doctrine_squad_1st_airland_support_late_all(eng)"
 msgid "<c(B29557)>( I )</c> 1st Airlanding Support Section"
@@ -246,7 +245,7 @@ msgstr "<c(B29557)>( I )</c> QF 2-pdr 'Littlejohn'"
 
 msgctxt "desc/squad/doctrine_squad_com_mid(eng)"
 msgid "<c(B29557)>( II )</c> Commando Sub-Section"
-msgstr "<c(B29557)>( II )</c> Sub-Seção Commando"
+msgstr "<c(B29557)>( II )</c> Subseção Commando"
 
 msgctxt "desc/squad/doctrine_churchill_mk1"
 msgid "<c(B29557)>( II )</c> Churchill Mk.I"
@@ -386,7 +385,7 @@ msgstr "<c(B29557)>( I )</c> Tropa de Reconhecimento Exploratório"
 
 msgctxt "desc/squad/doctrine_squad_com_early(eng)"
 msgid "<c(B29557)>( II )</c> Commando Sub-Section"
-msgstr "<c(B29557)>( II )</c> Sub-Seção Commando"
+msgstr "<c(B29557)>( II )</c> Subseção Commando"
 
 msgctxt "desc/squad/doctrine_matilda2_mk3"
 msgid "<c(B29557)>( II )</c> Matilda II Mk.III"

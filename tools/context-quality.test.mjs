@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {validateContextRules,checkContextQuality} from './context-quality.mjs';
+import {validateContextRules,checkContextQuality,validateContextManifest} from './context-quality.mjs';
 const entry=(ctx,src,tr)=>`msgctxt ${JSON.stringify(ctx)}\nmsgid ${JSON.stringify(src)}\nmsgstr ${JSON.stringify(tr)}\n\n`;
 const rule=(context,source,translation)=>({context,source,translation,reason:'Sentido conferido pelo contexto.'});
 
@@ -77,4 +77,13 @@ test('tags and positional printf arguments in decisions must be valid',()=>{
 test('only applied, nonempty manifests and safe catalog paths are accepted',()=>{
  assert.throws(()=>checkContextQuality('.', {schemaVersion:1,status:'proposal-only',rules:[]}),/applied/);
  assert.throws(()=>checkContextQuality('.', {schemaVersion:1,status:'applied',rules:[{file:'../escape.pot'}]}),/Unsafe/);
+});
+
+test('declared contextual coverage counts cannot exceed or contradict the actual rules',()=>{
+ const manifest={schemaVersion:1,status:'applied',rules:[rule('unit','Tank','Tanque')],changeCount:1,retainedSentinelCount:0,regressionRuleCount:1};
+ assert.equal(validateContextManifest(manifest),manifest);
+ for(const invalid of [{regressionRuleCount:2},{changeCount:2},{retainedSentinelCount:1},{changeCount:0.5},{changeCount:undefined}]) {
+  assert.throws(()=>validateContextManifest({...manifest,...invalid}),/counts/);
+ }
+ assert.equal(validateContextManifest({schemaVersion:1,status:'applied',rules:manifest.rules}).rules.length,1);
 });
