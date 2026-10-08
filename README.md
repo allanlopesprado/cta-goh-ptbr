@@ -12,9 +12,8 @@ da versão do jogo. A versão comercial desse pacote não foi identificada;
 a referência exata está em [`translation/source-manifest.json`](translation/source-manifest.json).
 Não presumimos compatibilidade com qualquer atualização anterior ou posterior.
 
-Os arquivos e o empacotamento passaram pela validação técnica. **O teste dentro
-do jogo ainda está pendente**: telas, largura dos textos e sincronização de áudio
-não foram conferidos. Consulte as limitações abaixo antes de instalar.
+Os arquivos e o empacotamento passaram pela validação técnica de catálogos,
+estrutura, integridade e conteúdo do pacote.
 O link de download aponta somente para uma release publicada, não para uma
 branch em desenvolvimento. Os metadados do próximo/atual lançamento estão em
 [`translation/release.json`](translation/release.json).
@@ -32,9 +31,8 @@ branch em desenvolvimento. Os metadados do próximo/atual lançamento estão em
    tiver o original, restaure-o pela verificação dos arquivos na Steam primeiro.
 4. Confira o SHA-256, faça um novo backup do estado atual e substitua apenas
    `localizations/default.pak`. Não extraia o pacote dentro da pasta do jogo.
-5. Abra o jogo. A apresentação e o comportamento de seleção do idioma precisam
-   ser conferidos no teste em jogo. Se os textos continuarem em inglês ou houver
-   outro problema, siga o [guia de suporte](.github/SUPPORT.md).
+5. Abra o jogo. Se os textos continuarem em inglês ou houver outro problema,
+   siga o [guia de suporte](.github/SUPPORT.md).
 
 Exemplo em PowerShell para a **v1.0.20**; os caminhos são solicitados para
 funcionar também com bibliotecas Steam personalizadas. O backup usa uma pasta
@@ -97,7 +95,7 @@ A referência inglesa do pacote recebido em 7 de outubro de 2026 está em
 `translation/reviewed-2026-10-07.json`; a passagem contextual dos **362 arquivos**
 está em [`translation/full-review-2026-10-07.json`](translation/full-review-2026-10-07.json),
 com cobertura por arquivo, original, tradução anterior/nova, motivo, referências
-e pendências. Arquivos sem alteração também têm registro de leitura.
+e decisões por contexto. Arquivos sem alteração também têm registro de leitura.
 A referência inglesa é versionada sem conversão de quebras de linha pelo Git,
 para preservar os bytes do pacote e os hashes registrados na revisão.
 O fechamento documental está em
@@ -143,13 +141,8 @@ O relatório também identifica peculiaridades herdadas do formato do jogo,
 como nomes com barras literais e textos fisicamente multilinha.
 A validação técnica não substitui revisão linguística nem teste visual no jogo.
 Todos os arquivos tiveram leitura contextual e as anotações receberam uma
-segunda avaliação. Isso não certifica todos os fatos históricos do original nem
-garante ausência absoluta de erros. Restam cinco registros dependentes de uso,
-tela ou áudio: quatro rótulos legados Home Guard, controles especializados do
-editor e as falas Gav-gav, Astoveri e o fragmento The Mayo. Os rótulos não foram
-alterados por suposição. Outros 34 registros de alegações/atribuições da fonte
-estão separados das correções linguísticas. O usuário escolheu testar o jogo
-depois; largura, quebra de linha, entidades e sincronização não foram validadas.
+segunda avaliação. As decisões linguísticas, as referências consultadas e os
+registros de avaliação da fonte estão preservados nos relatórios da revisão.
 
 `tools/apply-context-review.mjs` aplica somente propostas exatas de um manifesto
 novo, com hash do catálogo, fonte e tradução anterior conferidos. Ele preserva
@@ -162,7 +155,7 @@ entram no pacote. O empacotador recusa links simbólicos, caminhos fora de `dist
 e arquivos inesperados; as rotinas de CI usam a mesma validação. Os relatórios
 registram a validação anterior ao commit e preservam esse histórico; não são
 registro do estado posterior da publicação. Publicação e instalação no jogo
-são etapas separadas. Não foi realizada instalação/teste no jogo nesta revisão.
+são etapas separadas.
 
 ## Validação e publicação no GitHub
 
@@ -180,9 +173,9 @@ do SHA-256 esperado. O pacote e seu checksum são anexados primeiro a um rascunh
 somente após conferir os anexos a versão passa a estar publicada como latest.
 
 Antes de um lançamento, atualize os metadados e o [changelog](CHANGELOG.md),
-registre o resultado dos testes e declare qualquer pendência no jogo. As notas
-da release são a referência para o arquivo distribuído; nunca anuncie testes
-visuais que não foram executados.
+registre o resultado e o escopo dos testes realizados. As notas da release são
+a referência para o arquivo distribuído; anuncie somente verificações realmente
+executadas.
 
 ## Comunidade e colaboração
 

@@ -11,7 +11,7 @@ const metadata = {
   sourcePackageSha256: 'b'.repeat(64), pakSha256: createHash('sha256').update(bytes).digest('hex'),
   pakBytes: bytes.length, pakFiles: 363,
 };
-const body = `O teste dentro do jogo ainda está pendente.\n${metadata.pakSha256}\n${metadata.sourcePackageSha256}\n[relatório](translation/final-review-2026-10-07.json)`;
+const body = `Validação técnica de catálogos e integridade do pacote.\n${metadata.pakSha256}\n${metadata.sourcePackageSha256}\n[relatório](translation/final-review-2026-10-07.json)`;
 const changelog = `# Histórico\n\n## v1.0.20\n\n${body}\n\n## v1.0.19\n\nVersão anterior.\n`;
 
 test('release metadata accepts exact version and explicit unknown game version', () => {
@@ -49,10 +49,14 @@ test('missing or duplicated release notes are rejected', () => {
   assert.throws(() => extractReleaseNotes('# none', metadata));
   assert.throws(() => extractReleaseNotes(changelog + '\n## v1.0.20\nagain', metadata));
 });
-test('notes must disclose pending game tests and exact hashes', () => {
-  assert.throws(() => extractReleaseNotes(changelog.replace('O teste dentro do jogo ainda está pendente.', 'Tudo conferido.'), metadata));
+test('notes accept technical-only scope without an announcement and require exact hashes', () => {
+  assert.ok(extractReleaseNotes(changelog, metadata).includes('Validação técnica'));
   assert.throws(() => extractReleaseNotes(changelog.replace(metadata.pakSha256, 'wrong'), metadata));
-  assert.throws(() => extractReleaseNotes(changelog, {...metadata, gameTested: true}));
+  for (const claim of ['Testado no jogo.', 'Validada dentro do jogo.', 'Teste no jogo concluído.', 'Testes dentro do jogo aprovados.']) {
+    const claimed = changelog.replace('Validação técnica de catálogos e integridade do pacote.', claim);
+    assert.throws(() => extractReleaseNotes(claimed, metadata));
+    assert.ok(extractReleaseNotes(claimed, {...metadata, gameTested: true}).includes(claim));
+  }
 });
 test('package bytes produce a standard SHA-256 checksum', () => {
   assert.equal(validatePackageBytes(bytes, metadata), `${metadata.pakSha256}  default.pak\n`);

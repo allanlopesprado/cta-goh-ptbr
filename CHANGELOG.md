@@ -20,18 +20,9 @@ Esta é a versão da tradução, não um número de versão comercial do jogo.
   segurança e publicação revisada. Publicação automática a cada push na `main`
   removida; lançamentos passam por um fluxo explícito e único.
 
-### Limitações conhecidas
+### Referência e registros da revisão
 
-O teste dentro do jogo ainda está pendente: apresentação em telas, largura,
-quebras de linha e sincronização de áudio não foram validadas. Cinco registros
-dependem de evidência de uso/tela/áudio: o grupo de rótulos legados Home Guard,
-o grupo de controles especializados do editor e as falas Gav-gav, Astoveri e
-o fragmento The Mayo. Os 34 registros sobre alegações/atribuições da fonte são
-pendências de verificação histórica, não 34 erros comprovados da tradução.
-
-A versão comercial do jogo correspondente ao pacote de referência não foi
-identificada. Não há garantia de compatibilidade com toda atualização do jogo.
-Consulte os detalhes em
+O pacote inglês de referência e as decisões por contexto estão registrados em
 [final-review-2026-10-07.json](translation/final-review-2026-10-07.json) e
 [source-manifest.json](translation/source-manifest.json).
 

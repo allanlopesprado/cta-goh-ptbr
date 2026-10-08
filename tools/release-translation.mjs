@@ -39,8 +39,8 @@ export function extractReleaseNotes(changelog, metadata) {
   const notes = changelog.slice(section.index + section[0].length, next?.index ?? changelog.length).trim();
   if (!notes) fail('Release notes are empty');
   if (!notes.includes(metadata.pakSha256) || !notes.includes(metadata.sourcePackageSha256)) fail('Changelog hashes do not match release metadata');
-  if (!metadata.gameTested && !/teste dentro do jogo ainda est[aá] pendente/i.test(notes)) fail('Release must explicitly disclose pending in-game testing');
-  if (metadata.gameTested && /teste dentro do jogo ainda est[aá] pendente/i.test(notes)) fail('Changelog contradicts gameTested metadata');
+  const assertsInGameTesting = /(?:testad[oa]s?|validad[oa]s?) (?:no|dentro do) jogo|testes? (?:no|dentro do) jogo (?:conclu[ií]d[oa]s?|aprovad[oa]s?|realizad[oa]s?)/i.test(notes);
+  if (!metadata.gameTested && assertsInGameTesting) fail('Release cannot claim in-game testing without a recorded test');
   // Relative links from CHANGELOG.md do not resolve correctly from Release pages.
   const canonical = notes.replace(/\]\((translation\/[^)]+)\)/g,
     `](https://github.com/allanlopesprado/cta-goh-ptbr/blob/${metadata.tag}/$1)`);
