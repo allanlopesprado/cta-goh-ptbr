@@ -1,4 +1,4 @@
-# Tradução PT-BR — Call to Arms - Gates of Hell: Ostfront
+# Tradução PT-BR - Call to Arms - Gates of Hell: Ostfront
 
 Tradução da interface e dos textos do jogo para português brasileiro.
 
