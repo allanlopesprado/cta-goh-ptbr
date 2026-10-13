@@ -57,7 +57,7 @@ msgstr "Fomos enviados aqui para corrigir as coisas. Todos vocês são veteranos
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/021"
 msgid "Our primary objective is to defend the town of Attern while the local population is being evacuated, or drafted as part of our local defence forces - the Volkssturm."
-msgstr "Nosso objetivo principal é defender a cidade de Attern enquanto a população local é evacuada, ou recrutada como parte de nossas forças de defesa locais — o Volkssturm."
+msgstr "Nosso objetivo principal é defender a cidade de Attern enquanto a população local é evacuada, ou recrutada como parte de nossas forças de defesa locais - o Volkssturm."
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/03"
 msgid "So far, our Volkssturm defense forces have performed poorly, commanded by utterly incompetent Gauleiters. Your first task is to find the volkssturm batallion and recruit as many of them as you can. Teach them some real tactics!"
@@ -145,7 +145,7 @@ msgstr "Soldaten! Vocês lutaram bravamente e com orgulho pela pátria de vocês
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender2"
 msgid "In spite of our best efforts, this war is now over for us. Do not feel ashamed, do not feel dishonoured."
-msgstr "Apesar de todos os nossos esforços, esta guerra acabou para nós. Não se sintam envergonhados — não se sintam desonrados."
+msgstr "Apesar de todos os nossos esforços, esta guerra acabou para nós. Não se sintam envergonhados - não se sintam desonrados."
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender3"
 msgid "Your enemies have feared you. Your enemies have respected you. We have waged our war honorably and gallantly."
@@ -161,7 +161,7 @@ msgstr "Mas o façam com os olhos voltados para os céus limpos, e não para seu
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender6"
 msgid "I'm proud to have served with each and every one of you. From the shores of Normandy to the heart of our country, We've defended Fortress Europe together; you made your country proud."
-msgstr "Tenho orgulho de ter servido com cada um de vocês. Das praias da Normandia até o coração do nosso país, defendemos a Fortaleza Europa juntos — vocês fizeram o país de vocês se orgulhar."
+msgstr "Tenho orgulho de ter servido com cada um de vocês. Das praias da Normandia até o coração do nosso país, defendemos a Fortaleza Europa juntos - vocês fizeram o país de vocês se orgulhar."
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narrator/surrender7"
 msgid "We hereby surrender to the US Armed Forces. There is no other way to survive this bloodshed, this hell!"
@@ -189,11 +189,11 @@ msgstr "Vocês estão cercados e com uma enorme desvantagem numérica. Deponham 
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/narratorhint/01"
 msgid "In order to recruit soldiers, move your units close and hover over the soldier you want to recruit. A grabbing icon will appear. Inspect the troops and click to recruit 10 soldiers of your choice."
-msgstr "Para recrutar soldados, mova suas unidades para perto e passe o cursor sobre o soldado que deseja recrutar. Um ícone de captura aparecerá. Inspecione as tropas e clique para recrutar 10 soldados de sua escolha."
+msgstr "Para recrutar soldados, mova suas unidades para perto e passe o cursor sobre o soldado que deseja recrutar. Aparecerá um ícone para recrutá-lo. Inspecione as tropas e clique para recrutar 10 soldados de sua escolha."
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/outro_completed"
 msgid "This is the end. Regardless of the choice you just made, there will be no medals, just a lot of graves. You will need to roll up your sleeves and start building back your country and make sure that a senseless war like this will not repeat itself. Well done!"
-msgstr "Este é o fim. Independentemente da escolha que você acabou de fazer, não haverá medalhas — apenas muitos túmulos. Você precisará arregaçar as mangas e começar a reconstruir seu país, garantindo que uma guerra sem sentido como esta não se repita. Muito bem!"
+msgstr "Este é o fim. Independentemente da escolha que você acabou de fazer, não haverá medalhas - apenas muitos túmulos. Você precisará arregaçar as mangas e começar a reconstruir seu país, garantindo que uma guerra sem sentido como esta não se repita. Muito bem!"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/outro_failed"
 msgid "This failure will have consequences. For one, we cannot prevent being surrounded anymore; furthermore, the road to Berlin is now open to the Americans. Who will tell General von Waldenburg the bad news?"
@@ -261,7 +261,7 @@ msgstr "Escolha o destino de suas tropas:"
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/win"
 msgid "You chose to fight, your soldiers did the ultimate sacrifice for the Fatherland, and the enemy has buried your troops with honours out of admiration for your fighting spirit."
-msgstr "Você escolheu lutar — seus soldados fizeram o sacrifício supremo pela Pátria, e o inimigo enterrou suas tropas com honras, por admiração ao seu espírito combativo."
+msgstr "Você escolheu lutar - seus soldados fizeram o sacrifício supremo pela Pátria, e o inimigo enterrou suas tropas com honras, por admiração ao seu espírito combativo."
 
 msgctxt "mission/single/02-ger-west/1945_04_ruhr_pocket/win2"
 msgid "You chose to surrender to the US forces, and spare the lives of your men in a desperate situation against overwhelming odds. The enemy will take good care of your troops out of respect for the tenacious fighting spirit. Soon, Germany will capitulate and the troops will be able to go back to their families."

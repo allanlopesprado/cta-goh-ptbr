@@ -25,7 +25,7 @@ msgstr "Você pode se orgulhar; fez tudo o que era humanamente possível, apesar
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/outro_failed"
 msgid "In the end, there was no way in which you could have held the position at the bridge. Lacking firepower and proper means of communication, plus very poor planning, this outcome was predictable; but your courage will be remembered."
-msgstr "No fim, não havia como você ter mantido a posição na ponte. Faltando potência de fogo e meios adequados de comunicação, além de um planejamento muito deficiente, este resultado era previsível — mas sua coragem será lembrada."
+msgstr "No fim, não havia como você ter mantido a posição na ponte. Faltando potência de fogo e meios adequados de comunicação, além de um planejamento muito deficiente, este resultado era previsível - mas sua coragem será lembrada."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/date"
 msgid "September 17th, 1944 · Arnhem, Netherlands"
@@ -69,7 +69,7 @@ msgstr "Nosso posto avançado está sob ataque!"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_prison"
 msgid "Another attack, it’s on the prison building!"
-msgstr "Mais um ataque — é no edifício da prisão!"
+msgstr "Mais um ataque - é no edifício da prisão!"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/attack_workshop"
 msgid "The enemy is attacking our positions at the workshop facilities!"
@@ -133,7 +133,7 @@ msgstr "Digby deveria ter chegado até aqui, mas acho que não podemos esperar m
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_03"
 msgid "Hopefully, they will reach us by morning. Till then, we must control this bridge. Lucky for us, looks like most of the Germans have gone, so we shouldn’t meet tough resistance."
-msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. Para nossa sorte, parece que a maioria dos alemães foi embora — não devemos encontrar resistência forte."
+msgstr "Com sorte, chegarão de manhã. Até lá, devemos controlar esta ponte. Para nossa sorte, parece que a maioria dos alemães foi embora - não devemos encontrar resistência forte."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/intro_04"
 msgid "The bridge is ours now. Dig in, keep watch and get some rest. Digby had better show up by morning…"
@@ -141,7 +141,7 @@ msgstr "A ponte é nossa agora. Entrincheirem-se, fiquem de guarda e descansem u
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/secret01_hint"
 msgid "This appears to be one of the tanks which attacked us during the day, let's see if it's still repairable."
-msgstr "Este parece ser um dos tanques que nos atacou durante o dia — vamos ver se ainda é reparável."
+msgstr "Este parece ser um dos tanques que nos atacou durante o dia - vamos ver se ainda é reparável."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/enemy_see_pl_tank"
 msgid "Looks like we scared them to death with the tank."
@@ -153,7 +153,7 @@ msgstr "Bela manhã, Coronel Frost. Espero que seus equipamentos não estejam co
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_02"
 msgid "Good to see you, Major. The kits are fine which I cannot say about our situation."
-msgstr "Bom vê-lo, Major. Os equipamentos estão bem — o que não posso dizer da nossa situação."
+msgstr "Bom vê-lo, Major. Os equipamentos estão bem - o que não posso dizer da nossa situação."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_03"
 msgid "Thirty Corps is moving much slower than we’ve expected even in the worst case scenario. It seems like we have to be ready for all possible German counterattacks."
@@ -165,7 +165,7 @@ msgstr "Acredito que temos tudo o que precisamos, Coronel. Os canhões de 6 libr
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_05"
 msgid "This might not be enough, I am afraid. The enemy cannot afford to lose this bridge, otherwise their entire frontline will fall. They will throw everything they have."
-msgstr "Isso pode não ser suficiente, receio. O inimigo não pode se dar ao luxo de perder esta ponte — caso contrário, toda a linha de frente deles vai desmoronar. Eles jogarão tudo o que têm."
+msgstr "Isso pode não ser suficiente, receio. O inimigo não pode se dar ao luxo de perder esta ponte - caso contrário, toda a linha de frente deles vai desmoronar. Eles jogarão tudo o que têm."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_06"
 msgid "This is going to be not easy for us but I am sure we will do it. The Corps has some delay but they are not that far from us. I suggest discussing the details in the HQ if you have any by far."
@@ -217,7 +217,7 @@ msgstr "Não temos muito tempo; certifique-se de que estamos prontos para enfren
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_01"
 msgid "Is that all? I expected something more serious, not a few token infantrymen."
-msgstr "É só isso? Esperava algo mais sério — não uns poucos soldados só para marcar presença."
+msgstr "É só isso? Esperava algo mais sério - não uns poucos soldados só para marcar presença."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/narrator/part02_02"
 msgid "Those poor sods must’ve been probing our defenses."
@@ -367,7 +367,7 @@ msgstr "Procure munição"
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_ammo_hint"
 msgid "Send the Dutch Resistance squad to search for ammunition. They will come back later with their findings."
-msgstr "Envie a esquadra de Resistência Holandesa para procurar munição. Eles voltarão mais tarde com suas descobertas."
+msgstr "Envie a esquadra de Resistência Holandesa para procurar munição. Eles voltarão mais tarde com o que encontrarem."
 
 msgctxt "mission/single/05-eng/1944_09_17_arnhem/ui/reinf_resistance_join"
 msgid "Join us"

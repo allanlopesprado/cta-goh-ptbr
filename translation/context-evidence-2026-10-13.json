@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "mode": "independent-read-only-interface-crosscheck",
+  "repo": "C:/Users/allan/Downloads/cta-goh-ptbr",
+  "scope": "Registro histórico da checagem independente anterior à aplicação de v1.0.23; source/before/proposed preservados como evidência.",
+  "conclusions": [
+    "Solicite unidades em até... é correção contextual segura; renda-se é fluência opcional.",
+    "Separar esquadra alinha a barra ao frontend e comando configurado; não usar troca global de Dispensar em Conquista.",
+    "Toneladas é localização textual opcional sem conversão; t depende de confirmação de unidade métrica, ainda não demonstrada.",
+    "Atirador Frontal Morto é adaptação contextual plausível; Proa literal não é prova de nome/contexto errado. gunner3 também aparece em torres auxiliares."
+  ],
+  "findings": [
+    {
+      "id": "IF-XCHECK-01",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "hints/spawntime",
+      "source": "Order units within %1% seconds, or surrender!",
+      "before": "Ordene unidades em %1% segundos ou se renda!",
+      "sourceLine": 1092,
+      "translationLine": 1090,
+      "proposed": "Solicite unidades em até %1% segundos ou renda-se!",
+      "classification": "seguro-contextual",
+      "confidence": "alta",
+      "reason": "Order units significa pedir/comprar unidades/reforços neste contexto de surgimento, não comandar as unidades existentes. A mensagem correlata diz que a equipe está sem unidades; within é prazo máximo (em até). Solicite não acrescenta custo ou método de compra. Renda-se é aprimoramento de fluência, não correção semântica indispensável.",
+      "evidence": [
+        "mp/game/text/combat_inactivity_lose_time",
+        "mp/lobby/setup/settings.preparationtime#hint",
+        "script/multiplayer/modes/battlezones.lua:3-4"
+      ],
+      "limits": "O script de bot corrobora spawn associado à compra, mas a condição engine que dispara hints/spawntime não foi localizada; não se afirma ensaio de mecânica ou vínculo direto com essa mensagem."
+    },
+    {
+      "id": "IF-XCHECK-02",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/squad/dismiss",
+      "source": "Dismiss squad",
+      "before": "Dispensar esquadra",
+      "sourceLine": 659,
+      "translationLine": 657,
+      "proposed": "Separar esquadra",
+      "classification": "seguro-contextual",
+      "confidence": "alta-contextual; execução do motor não ensaiada",
+      "reason": "O frontend descreve explicitamente groups/dismiss_squad como separar a esquadra selecionada em soldados individuais. As chaves instaladas ligam essa operação a K; o botão gc_cp_squad_control aparece no painel em condição human multiple. Dispensar esquadra pode sugerir remover unidades e não comunica essa separação. A proposta alinha os três rótulos da barra ao comando já traduzido no frontend.",
+      "evidence": [
+        "options/keys/groups/dismiss_squad",
+        "options/keys/groups/dismiss_squad#desc",
+        "profiles/default/keys.set:384",
+        "set/panel_control/right_main.set:84-86"
+      ],
+      "limits": "A configuração prova botão para grupo humano e tecla de dismiss_squad, não fornece a implementação compilada que liga ambos nem demonstra por teste que o botão chama esse atalho. Correspondência funcional fortemente apoiada pela UI; não tratada como verificação binária/runtime. Não aplicar a main_menu2/dynamic_campaign/sell: DISMISS/DISPENSAR em Conquista é ação distinta de gestão do elenco."
+    },
+    {
+      "id": "IF-XCHECK-03",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/squad/control",
+      "source": "Dismiss squad",
+      "before": "Dispensar esquadra",
+      "sourceLine": 663,
+      "translationLine": 661,
+      "proposed": "Separar esquadra",
+      "classification": "seguro-contextual",
+      "confidence": "alta-contextual; execução do motor não ensaiada",
+      "reason": "O frontend descreve explicitamente groups/dismiss_squad como separar a esquadra selecionada em soldados individuais. As chaves instaladas ligam essa operação a K; o botão gc_cp_squad_control aparece no painel em condição human multiple. Dispensar esquadra pode sugerir remover unidades e não comunica essa separação. A proposta alinha os três rótulos da barra ao comando já traduzido no frontend.",
+      "evidence": [
+        "options/keys/groups/dismiss_squad",
+        "options/keys/groups/dismiss_squad#desc",
+        "profiles/default/keys.set:384",
+        "set/panel_control/right_main.set:84-86"
+      ],
+      "limits": "A configuração prova botão para grupo humano e tecla de dismiss_squad, não fornece a implementação compilada que liga ambos nem demonstra por teste que o botão chama esse atalho. Correspondência funcional fortemente apoiada pela UI; não tratada como verificação binária/runtime. Não aplicar a main_menu2/dynamic_campaign/sell: DISMISS/DISPENSAR em Conquista é ação distinta de gestão do elenco."
+    },
+    {
+      "id": "IF-XCHECK-04",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/squad/control/action",
+      "source": "The selected squad will be dismissed.",
+      "before": "A esquadra selecionada será dispensada.",
+      "sourceLine": 667,
+      "translationLine": 665,
+      "proposed": "A esquadra selecionada será separada em soldados individuais.",
+      "classification": "seguro-contextual",
+      "confidence": "alta-contextual; execução do motor não ensaiada",
+      "reason": "O frontend descreve explicitamente groups/dismiss_squad como separar a esquadra selecionada em soldados individuais. As chaves instaladas ligam essa operação a K; o botão gc_cp_squad_control aparece no painel em condição human multiple. Dispensar esquadra pode sugerir remover unidades e não comunica essa separação. A proposta alinha os três rótulos da barra ao comando já traduzido no frontend.",
+      "evidence": [
+        "options/keys/groups/dismiss_squad",
+        "options/keys/groups/dismiss_squad#desc",
+        "profiles/default/keys.set:384",
+        "set/panel_control/right_main.set:84-86"
+      ],
+      "limits": "A configuração prova botão para grupo humano e tecla de dismiss_squad, não fornece a implementação compilada que liga ambos nem demonstra por teste que o botão chama esse atalho. Correspondência funcional fortemente apoiada pela UI; não tratada como verificação binária/runtime. Não aplicar a main_menu2/dynamic_campaign/sell: DISMISS/DISPENSAR em Conquista é ação distinta de gestão do elenco."
+    },
+    {
+      "id": "IF-XCHECK-05",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "mass_view/ton",
+      "source": "<f(arial_hq)s(8)x.>Mass: %g ton",
+      "before": "<f(arial_hq)s(8)x.>Peso: %g ton",
+      "sourceLine": 1898,
+      "translationLine": 1902,
+      "proposed": "<f(arial_hq)s(8)x.>Peso: %g toneladas",
+      "classification": "opcional-localizacao-textual",
+      "confidence": "alta para localizar palavra; unidade interna não comprovada",
+      "reason": "Pode localizar ton por extenso como toneladas preservando %g e o valor fornecido, sem conversão. O rótulo complementar kg sugere escala métrica, mas não demonstra o algoritmo que formata %g. Peso é linguagem comum de UI; Massa seria tecnicamente mais literal, mas seria decisão editorial coordenada com mass_view/kg, não uma troca isolada obrigatória.",
+      "evidence": [
+        "mass_view/kg",
+        "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8",
+        "https://www.nist.gov/pml/special-publication-330/sp-330-section-4"
+      ],
+      "conditionalAlternative": {
+        "proposed": "<f(arial_hq)s(8)x.>Peso: %g t",
+        "classification": "depende-evidencia",
+        "condition": "Confirmar que o formatador usa tonelada métrica de 1000 kg. NIST distingue short ton, long ton e metric ton; t é símbolo da tonelada métrica na convenção SI. Não foi localizado código de formatação ou divisão por 1000 nos arquivos examinados."
+      },
+      "limits": "Escrever toneladas não certifica tipo de ton e não deve ganhar qualificador métrica sem prova. Nenhum valor/conversão/calibração física foi alterado. Forma plural fixa mantém comportamento do catálogo original; não foi proposta nova regra de pluralização."
+    },
+    {
+      "id": "IF-XCHECK-06",
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "component/gunner3_die",
+      "source": "<c(cc1900)>Bow Gunner Killed",
+      "before": "<c(cc1900)>Atirador de Proa Morto",
+      "sourceLine": 889,
+      "translationLine": 887,
+      "proposed": "<c(cc1900)>Atirador Frontal Morto",
+      "classification": "opcional-adaptacao-contextual",
+      "confidence": "alta para sentido veicular de Bow; média para universalidade da posição engine",
+      "reason": "Bow Gunner é termo usado em tanques, não implica navio. Os scripts tank-main associam kill_gunner3 ao volume mg_port e tank_crew aloca gunner3 como tripulante com visor driver. Frontal transmite a orientação de Bow sem designar arma/modelo nem inventar função adicional. A tradução Atirador de Proa é literal e não comprova entidade naval errada; frontal é adaptação mais clara para PT de interface.",
+      "evidence": [
+        "set/interaction_entity/tank/tank-main.inc:319,327",
+        "properties/tank_crew.ext:95-103",
+        "https://www.ww2online.org/view/fred-hirsekorn",
+        "https://tankmuseum.org/article/history-of-the-m47"
+      ],
+      "caveat": {
+        "source": "set/interaction_entity/tank/tank-specifics.inc",
+        "examples": [
+          {
+            "line": 2048,
+            "entity": "t28 tank",
+            "component": "aux_turret2"
+          },
+          {
+            "line": 2129,
+            "entity": "t35 tank",
+            "component": "aux_turret1"
+          },
+          {
+            "line": 4507,
+            "entity": "crusader_mk1 tank",
+            "component": "aux_turret1"
+          },
+          {
+            "line": 4529,
+            "entity": "crusader_mk1_cs tank",
+            "component": "aux_turret1"
+          }
+        ],
+        "interpretation": "O índice gunner3 é reutilizado em torres auxiliares. Não prova sempre atirador do casco ou sempre metralhador. Frontal apoia-se no EN Bow, não numa regra universal gunner3=casco/frontal. Não foi localizada a implementação que associa kill_gunner3 diretamente à string component/gunner3_die."
+      },
+      "limits": "Não recomendar Metralhador, Operador de Browning, Radioperador ou Auxiliar do Motorista como rótulo universal. Fontes históricas confirmam uso de bow gunner em tanques, não usos exatos de todas as entidades do motor."
+    }
+  ],
+  "contextPairs": [
+    {
+      "id": 12111,
+      "file": "interface/text/dlg_frontend.pot",
+      "bucket": "interface",
+      "context": "options/keys/groups/dismiss_squad",
+      "source": "Separate squad",
+      "translation": "Separar esquadra",
+      "sourceLine": 443,
+      "translationLine": 442,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 12112,
+      "file": "interface/text/dlg_frontend.pot",
+      "bucket": "interface",
+      "context": "options/keys/groups/dismiss_squad#desc",
+      "source": "Separate selected squad into individual soldiers.",
+      "translation": "Separa a esquadra selecionada em soldados individuais.",
+      "sourceLine": 447,
+      "translationLine": 446,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13488,
+      "file": "interface/text/dlg_frontend.pot",
+      "bucket": "interface",
+      "context": "main_menu2/dynamic_campaign/sell",
+      "source": "DISMISS",
+      "translation": "DISPENSAR",
+      "sourceLine": 5964,
+      "translationLine": 5941,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13522,
+      "file": "interface/text/dlg_frontend.pot",
+      "bucket": "interface",
+      "context": "main_menu2/dynamic_campaign/tutorial_portraits",
+      "source": "Drag the portraits to recruit, dismiss and enlist them for the next battle.",
+      "translation": "Arraste os retratos para recrutar, dispensar e alistar unidades para a próxima batalha.",
+      "sourceLine": 6102,
+      "translationLine": 6079,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13780,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "actionbar/squad/dismiss",
+      "source": "Dismiss squad",
+      "translation": "Dispensar esquadra",
+      "sourceLine": 659,
+      "translationLine": 657,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13781,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "actionbar/squad/control",
+      "source": "Dismiss squad",
+      "translation": "Dispensar esquadra",
+      "sourceLine": 663,
+      "translationLine": 661,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13782,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "actionbar/squad/control/action",
+      "source": "The selected squad will be dismissed.",
+      "translation": "A esquadra selecionada será dispensada.",
+      "sourceLine": 667,
+      "translationLine": 665,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13794,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "mass_view/kg",
+      "source": "<f(arial_hq)s(8)x.>Mass: %g kg",
+      "translation": "<f(arial_hq)s(8)x.>Peso: %g kg",
+      "sourceLine": 715,
+      "translationLine": 713,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13837,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "component/gunner3_die",
+      "source": "<c(cc1900)>Bow Gunner Killed",
+      "translation": "<c(cc1900)>Atirador de Proa Morto",
+      "sourceLine": 889,
+      "translationLine": 887,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 13887,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "hints/spawntime",
+      "source": "Order units within %1% seconds, or surrender!",
+      "translation": "Ordene unidades em %1% segundos ou se renda!",
+      "sourceLine": 1092,
+      "translationLine": 1090,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 14087,
+      "file": "interface/text/dlg_ingame.pot",
+      "bucket": "interface",
+      "context": "mass_view/ton",
+      "source": "<f(arial_hq)s(8)x.>Mass: %g ton",
+      "translation": "<f(arial_hq)s(8)x.>Peso: %g ton",
+      "sourceLine": 1898,
+      "translationLine": 1902,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 14484,
+      "file": "interface/text/dlg_mp.pot",
+      "bucket": "interface",
+      "context": "mp/game/text/combat_inactivity_lose_time",
+      "source": "Your team has no units left. You will lose in:",
+      "translation": "Sua equipe não tem unidades. Você perderá em:",
+      "sourceLine": 980,
+      "translationLine": 979,
+      "matches": 1,
+      "exceptionUsed": false
+    },
+    {
+      "id": 14717,
+      "file": "interface/text/dlg_mp.pot",
+      "bucket": "interface",
+      "context": "mp/lobby/setup/settings.preparationtime#hint",
+      "source": "Time until the game starts. You can buy units during this time.",
+      "translation": "Tempo até o jogo iniciar. Você pode comprar unidades durante este tempo.",
+      "sourceLine": 1934,
+      "translationLine": 1933,
+      "matches": 1,
+      "exceptionUsed": false
+    }
+  ],
+  "nativeEvidence": [
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/interface/interface.pak",
+      "member": "profiles/default/keys.set",
+      "sha256": "1d673afb1bf1a57635f63ed6e67691c4a728c7751a1b49b265beb5e918479154",
+      "excerpts": [
+        {
+          "line": 384,
+          "text": "\t\n\t; groups\n\t{\"groups/dismiss_squad\"\n\t\t{value KEY_K}\n\t}"
+        }
+      ]
+    },
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/gamelogic.pak",
+      "member": "set/panel_control/right_main.set",
+      "sha256": "30fe459cb301065b359e1e2fe93534126b8a662db2ffb914ef922bbb4f412681",
+      "excerpts": [
+        {
+          "line": 10,
+          "text": "; \"vehicle\" \"tank\" \"cannon\" \"tractor\" \"human\"\t:\tshow this control based on actors properties\t\t\t\t\t\t;\n; \"single\"\t\t\t\t\t\t\t\t\t\t:\tshow this control only if a single actor is selected\t\t\t\t;\n; \"multiple\"\t\t\t\t\t\t\t\t\t:\tshow this control only if multiple actors (squad) is selected\t\t;\n; \"commander\"\t\t\t\t\t\t\t\t\t:\tshow this control only if the selected actor is a squad commander\t;\n; \"disabled\"\t\t\t\t\t\t\t\t\t:\tshow this control even if it is disabled\t\t\t\t\t\t\t;"
+        },
+        {
+          "line": 84,
+          "text": "\t\n;// fourth button\n\t{gc_cp_squad_control\n\t\t{position 3 1}\n\t\t{condition \"human multiple disabled\"}"
+        },
+        {
+          "line": 86,
+          "text": "\t{gc_cp_squad_control\n\t\t{position 3 1}\n\t\t{condition \"human multiple disabled\"}\n\t}\n\t{repair"
+        }
+      ]
+    },
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/gamelogic.pak",
+      "member": "script/multiplayer/modes/battlezones.lua",
+      "sha256": "3ffdb80f56de05ae6efcc28ca25d36fc060ab53ab81b8ea50d6e220cbfe2f0ed",
+      "excerpts": [
+        {
+          "line": 3,
+          "text": "\n-- Time from start of match AI will wait before attempting to buy a unit.\nlocal StartSpawnTime = {"
+        },
+        {
+          "line": 4,
+          "text": "-- Time from start of match AI will wait before attempting to buy a unit.\nlocal StartSpawnTime = {\n\tMin = 0.5 * 1000, -- 0.5 sec (ms)"
+        }
+      ]
+    },
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/gamelogic.pak",
+      "member": "set/interaction_entity/tank/tank-main.inc",
+      "sha256": "05953aa2a2c95b5d59856cc9105deaa3bc12f4f0c25d8fc78cb6ce53604ad221",
+      "excerpts": [
+        {
+          "line": 319,
+          "text": "\t\t\t{call \"kill_commander\"}\n\t\telse volume \"mg_port\"\n\t\t\t{call \"kill_gunner3\"}\n\t\t}\n\t}"
+        },
+        {
+          "line": 327,
+          "text": "\t\t\t{call \"kill_commander\"}\n\t\telse volume \"mg_port\"\n\t\t\t{call \"kill_gunner3\"}\n\t\t}\n\t}"
+        }
+      ]
+    },
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/gamelogic.pak",
+      "member": "set/interaction_entity/tank/tank-specifics.inc",
+      "sha256": "6f6114e0bd1143a7ce206c4acd2630a3446a0e25a9382351359ea0082d6881e8",
+      "excerpts": [
+        {
+          "line": 2048,
+          "text": "\t\t{if not tagged \"exploded\"\n\t\t\t{if component \"aux_turret2\"\n\t\t\t\t{call \"kill_gunner3\"}\n\t\t\telse component \"aux_turret1\"\n\t\t\t\t{call \"kill_charger2\"}"
+        },
+        {
+          "line": 2129,
+          "text": "\t\t\telse component \"aux_turret1\"\n\t\t\t\t{if rand 0.5\n\t\t\t\t\t{call_synced \"kill_gunner3\"}\n\t\t\t\telse\n\t\t\t\t\t{call_synced \"kill_charger3\"}"
+        },
+        {
+          "line": 4507,
+          "text": "\t\t{if not tagged \"exploded\"\n\t\t\t{if component \"aux_turret1\"\n\t\t\t\t{call \"kill_gunner3\"}\n\t\t\t}\n\t\t}"
+        },
+        {
+          "line": 4529,
+          "text": "\t\t{if not tagged \"exploded\"\n\t\t\t{if component \"aux_turret1\"\n\t\t\t\t{call \"kill_gunner3\"}\n\t\t\t}\n\t\t}"
+        }
+      ]
+    },
+    {
+      "archive": "C:/Program Files (x86)/Steam/steamapps/common/Call to Arms - Gates of Hell/resource/properties.pak",
+      "member": "properties/tank_crew.ext",
+      "sha256": "8b22f36dab75976bd0653d80656f797ff3901376e1618ad49cdc0692aea1b627",
+      "excerpts": [
+        {
+          "line": 95,
+          "text": ")\n(define \"crew_gunner3\"\n\t{placer"
+        },
+        {
+          "line": 97,
+          "text": "\t{placer\n\t\t{place \"gunner3\" {group \"crew\"} {visor \"driver\"}}\n\t}"
+        },
+        {
+          "line": 151,
+          "text": "\t(\"crew_inside\")\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(driver)\t\tdoor(emit1) door2(emit2) visor(driver))"
+        },
+        {
+          "line": 157,
+          "text": "\t(\"crew_inside\")\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(driver)\t\tdoor(emit1) door2(emit2) visor(driver))"
+        },
+        {
+          "line": 172,
+          "text": "\t(\"crew_human\" place(driver)\t\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 179,
+          "text": "\t(\"crew_human\" place(driver)\t\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(charger)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 193,
+          "text": "\t(\"crew_human\" place(gunner)\t\tdoor(emit1) door2(emit2) visor(main))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 208,
+          "text": "\t(\"crew_human\" place(charger)\tdoor(emit1) door2(emit2) visor(none))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 224,
+          "text": "\t(\"crew_human\" place(charger)\tdoor(emit1) door2(emit2) visor(none))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 249,
+          "text": "\t(\"crew_human\" place(charger2)\tdoor(emit1) door2(emit2) visor(none))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 258,
+          "text": "\t(\"crew_human\" place(charger2)\tdoor(emit1) door2(emit2) visor(none))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        },
+        {
+          "line": 267,
+          "text": "\t(\"crew_human\" place(charger2)\tdoor(emit1) door2(emit2) visor(none))\n\t(\"crew_human\" place(gunner3)\tdoor(emit1) door2(emit2) visor(driver))\n\t(\"crew_human\" place(commander)\tdoor(emit1) door2(emit2) visor(around))"
+        }
+      ]
+    }
+  ],
+  "sourceEvidence": {
+    "unitReferences": [
+      {
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8",
+        "supports": "Distingue ton longa, curta e métrica; metric ton/tonne de 1000 kg."
+      },
+      {
+        "url": "https://www.nist.gov/pml/special-publication-330/sp-330-section-4",
+        "supports": "Tonelada métrica, símbolo t, 1000 kg."
+      }
+    ],
+    "bowReferences": [
+      {
+        "url": "https://www.ww2online.org/view/fred-hirsekorn",
+        "supports": "História oral de veterano do M4 Sherman distingue gunner principal e bow gunner/assistant driver; mostra emprego do termo em tanque."
+      },
+      {
+        "url": "https://tankmuseum.org/article/history-of-the-m47",
+        "supports": "Descreve tanque M47 com quinto tripulante Assistant Driver e metralhadora bow mounted; confirma uso de bow em veículo terrestre."
+      }
+    ]
+  },
+  "searchCoverage": [
+    {
+      "archive": "resource/gamelogic.pak",
+      "textMembersSearched": 6108
+    },
+    {
+      "archive": "resource/properties.pak",
+      "textMembersSearched": 150
+    },
+    {
+      "archive": "resource/interface/interface.pak",
+      "textMembersSearched": 193
+    }
+  ],
+  "method": "Comparação direta dos pares EN/PT por contexto; leitura de trechos correlatos e inspeção read-only de recursos instalados. Busca textual de arquivos lua/set/ext/inc/xml nos três arquivos PAK por dismiss/dismiss_squad, gc_*squad, gunner3_die/kill_gunner3, spawntime, inactivity, buyunits, mass_view e expressões de massa/divisão por 1000. Arquivo entity/-vehicle.pak teve somente inventário de membros, sem prova adicional de geometria. Evidência encontrada em scripts/configuração distingue-se explicitamente de inferência semântica e de implementação do motor não disponível.",
+  "limitations": [
+    "Não executou o jogo, não clicou botões, não ensaiou tecla K, não leu código-fonte de classes compiladas do motor.",
+    "As buscas não cobrem todo DLC, mapas, modelos, arquivos binários ou comportamento runtime. Ausência de implementação textual não demonstra ausência no jogo.",
+    "O script battlezones é controle de bot, não a origem textual comprovada do aviso hints/spawntime.",
+    "Nenhuma localização exata em script foi encontrada para os identificadores mass_view/ton, hints/spawntime ou component/gunner3_die; os catálogos são a origem direta dessas strings.",
+    "Não edita catálogos, instalação, tracked files, glossário, Git, build ou GitHub. Somente este relatório ignored foi criado."
+  ]
+}

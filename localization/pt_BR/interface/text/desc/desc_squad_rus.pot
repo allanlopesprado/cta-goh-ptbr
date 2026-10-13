@@ -86,7 +86,7 @@ msgstr "Destacamento de MG"
 
 msgctxt "desc/squad/single_riflegrenade(rus)"
 msgid "Gren. Riflemen"
-msgstr "Granadeiros Atiradores"
+msgstr "Granadeiros de Fuzil"
 
 msgctxt "desc/squad/single_sniper(rus)"
 msgid "Sniper"
@@ -238,7 +238,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Reconhecimento"
 
 msgctxt "desc/squad/squad_rifle_heavy_early(rus)"
 msgid "<c(A5A095)>(2)</c> Heavy Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra Pesada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra Pesada de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_motorised"
 msgid "Motorised rifle squad"
@@ -246,7 +246,7 @@ msgstr "Esquadra de Fuzileiros Motorizada"
 
 msgctxt "desc/squad/squad_rifle_motorised_con"
 msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifleunit(rus)"
 msgid "<c(A5A095)>(2)</c> Rifle squad"

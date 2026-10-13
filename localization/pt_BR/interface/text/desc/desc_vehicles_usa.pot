@@ -161,7 +161,7 @@ msgstr "<c(c3baae)>Canhão AA</c>"
 
 msgctxt "desc/entity/50mm_rocket_projector"
 msgid "2-inch Rocket Projector"
-msgstr "Lançador de Foguetes 2-inch"
+msgstr "Lançador de Foguetes 2 pol."
 
 msgctxt "info/special/50mm_rocket_projector"
 msgid ""
@@ -233,7 +233,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Leve</c>"
 
 msgctxt "desc/entity/76mm_m5_m1"
 msgid "3-inch Gun M5 (M1 Carriage)"
-msgstr "Canhão M5 de 3-inch (Reparo M1)"
+msgstr "Canhão M5 de 3 pol. (Reparo M1)"
 
 msgctxt "info/special/76mm_m5_m1"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -241,7 +241,7 @@ msgstr "<c(c3baae)>Canhão AT Médio</c>"
 
 msgctxt "desc/entity/76mm_m5_m6"
 msgid "3-inch Gun M5 (M6 Carriage)"
-msgstr "Canhão M5 de 3-inch (Reparo M6)"
+msgstr "Canhão M5 de 3 pol. (Reparo M6)"
 
 msgctxt "info/special/76mm_m5_m6"
 msgid "<c(c3baae)>Medium AT Gun</c>"
@@ -353,7 +353,7 @@ msgstr "Morteiro M2 de 4.2 polegadas"
 
 msgctxt "desc/entity/114mm_m1"
 msgid "4.5-inch Gun M1"
-msgstr "Canhão M1 de 4.5-inch"
+msgstr "Canhão M1 de 4.5 pol."
 
 msgctxt "info/special/114mm_m1"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -417,7 +417,7 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/203mm_m1"
 msgid "8-inch Howitzer M1"
-msgstr "Obuseiro M1 de 8-inch"
+msgstr "Obuseiro M1 de 8 pol."
 
 msgctxt "info/special/203mm_m1"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -1009,7 +1009,7 @@ msgstr "<c(c3baae)>Obuseiro Autopropulsado</c>"
 
 msgctxt "desc/entity/m10_gmc"
 msgid "3-inch GMC M10"
-msgstr "3-inch GMC M10"
+msgstr "3 pol. GMC M10"
 
 msgctxt "info/special/m10_gmc"
 msgid "<c(c3baae)>Tank Destroyer</c>"
@@ -1017,7 +1017,7 @@ msgstr "<c(c3baae)>Caça-tanque</c>"
 
 msgctxt "desc/entity/m10_gmc_early"
 msgid "3-inch GMC M10"
-msgstr "3-inch GMC M10"
+msgstr "3 pol. GMC M10"
 
 msgctxt "info/special/m10_gmc_early"
 msgid "<c(c3baae)>Tank Destroyer</c>"
@@ -1025,7 +1025,7 @@ msgstr "<c(c3baae)>Caça-tanque</c>"
 
 msgctxt "desc/entity/m10_gmc_late"
 msgid "3-inch GMC M10 (Late)"
-msgstr "3-inch GMC M10 (Tardio)"
+msgstr "3 pol. GMC M10 (Tardio)"
 
 msgctxt "info/special/m10_gmc_late"
 msgid "<c(c3baae)>Tank Destroyer</c>"

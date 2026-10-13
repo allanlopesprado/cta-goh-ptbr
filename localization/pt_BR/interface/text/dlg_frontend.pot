@@ -1475,7 +1475,7 @@ msgstr "Remover"
 
 msgctxt "options/video/grass#desc"
 msgid "Determines whether grass should be shown or not. It is recommended to keep this setting on to be able to appreciate the landscapes and vegetation properly."
-msgstr "Determina se a grama deve ser exibida. Recomenda-se manter ativado para apreciar a paisagem adequadamente."
+msgstr "Determina se a grama deve ser exibida. Recomenda-se manter ativado para apreciar as paisagens e a vegetação adequadamente."
 
 msgctxt "options/keys/keymap/key_alt"
 msgid "ALT"
@@ -3274,7 +3274,7 @@ msgstr "Largar/guardar item"
 
 msgctxt "options/keys/actions/drop#desc"
 msgid "Drop the currently selected item on a specified place on the ground, or put it into the specified container."
-msgstr "Largar o item selecionado no chão ou guardá-lo no contêiner especificado."
+msgstr "Largar o item selecionado no local especificado no chão ou guardá-lo no contêiner especificado."
 
 msgctxt "options/keys/keymap/key_shift"
 msgid "SHIFT"
@@ -6462,11 +6462,11 @@ msgstr "Este arquivo foi criado com mods não ativados. Não pode ser carregado.
 
 msgctxt "options/keys/control_manual/vault"
 msgid "Vault"
-msgstr "Saltar"
+msgstr "Transpor obstáculos"
 
 msgctxt "options/keys/control_manual/vault#desc"
 msgid "Climb over vault-able objects while in third person control of infantry."
-msgstr "Saltar sobre objetos no controle em terceira pessoa da infantaria."
+msgstr "Transpor obstáculos ao controlar a infantaria em terceira pessoa."
 
 msgctxt "main_menu2/library/vehicles/gun/penetration_explosive"
 msgid "%s#-<x(75)>-<x(150)>-<x(225)>(%1%m)"

@@ -65,7 +65,7 @@ msgstr "Estamos prontos para o ataque. Podemos começar com um ataque frontal pa
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/06"
 msgid "Look out for secondary minefields and AT positions. They may prove dangerous for our advance, be on the loukout for any soviet counter attack as well, the enemy is not going to give up the ridge without a fight..."
-msgstr "Fique atento a campos minados secundários e posições AT. Podem ser perigosos para nosso avanço — fique também alerta para qualquer contra-ataque soviético; o inimigo não vai ceder a crista sem lutar..."
+msgstr "Fique atento a campos minados secundários e posições AT. Podem ser perigosos para nosso avanço - fique também alerta para qualquer contra-ataque soviético; o inimigo não vai ceder a crista sem lutar..."
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/07"
 msgid "I am placing under your command our Thor siege mortar. Show those soviets what it means to be under the yoke of the Wehrmacht's heaviest artillery! It will require a whole detachment of resupply vehicles to keep it in operation!"
@@ -77,7 +77,7 @@ msgstr "Com os reforços adicionais, espero que você rompa as defesas soviétic
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/09"
 msgid "The enemy has also deployed marines from the Black Sea Fleet to reinforce their lines. Beware! These are tough nuts to crack, you will need to throw everything you have at them!"
-msgstr "O inimigo também implantou fuzileiros navais da Frota do Mar Negro para reforçar suas linhas. Cuidado! São adversários duros — você precisará usar tudo o que tem contra eles!"
+msgstr "O inimigo também empregou fuzileiros navais da Frota do Mar Negro para reforçar suas linhas. Cuidado! São adversários duros; você precisará usar tudo o que tem contra eles!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/10"
 msgid "Well done, Soldaten! "
@@ -85,11 +85,11 @@ msgstr "Muito bem, Soldaten!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/11"
 msgid "Good work, keep pushing!"
-msgstr "Bom trabalho — continue avançando!"
+msgstr "Bom trabalho - continue avançando!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/12"
 msgid "Excellent! Keep up the progress, there is much left to do!"
-msgstr "Excelente! Continue progredindo — há muito ainda a fazer!"
+msgstr "Excelente! Continue progredindo - há muito ainda a fazer!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/13"
 msgid "The enemy battery has at last ceased to be. An accomplishment that will live long in our future generation's history books, Soldaten!"
@@ -97,11 +97,11 @@ msgstr "A bateria inimiga finalmente deixou de existir. Uma conquista que viver�
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/14"
 msgid "Excellent work! The control of this route is of upmost importance, this will stop soviets from being able to get in or out of the battery complex."
-msgstr "Excelente trabalho! O controle desta rota é da maior importância — isso impedirá que os soviéticos entrem ou saiam do complexo da bateria."
+msgstr "Excelente trabalho! O controle desta rota é da maior importância - isso impedirá que os soviéticos entrem ou saiam do complexo da bateria."
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/15"
 msgid "Good work, the eastern high ground is ours!"
-msgstr "Bom trabalho — a posição elevada oriental é nossa!"
+msgstr "Bom trabalho - a posição elevada oriental é nossa!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/narrator/officer/16"
 msgid "The minefields have been cleared! Our forces can now safely cross through the northern approaches."
@@ -117,7 +117,7 @@ msgstr "Excelente trabalho! O forte foi tomado e toda a bateria neutralizada. O 
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/outro_failed"
 msgid "This is definitely not the kind of outcome we can report to HQ. Our troops were unable to break through, and the attack has come to a complete standstill as a result. You will have to try again after re- grouping, and perhaps using different tactics will help. "
-msgstr "Este definitivamente não é o tipo de resultado que podemos reportar ao QG. Nossas tropas não conseguiram avançar, e o ataque chegou a um impasse total. Você terá que tentar novamente após se reagrupar — talvez usar táticas diferentes ajude."
+msgstr "Este definitivamente não é o tipo de resultado que podemos reportar ao QG. Nossas tropas não conseguiram avançar, e o ataque chegou a um impasse total. Você terá que tentar novamente após se reagrupar - talvez usar táticas diferentes ajude."
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/place"
 msgid "213th Infantry Regiment, 173rd Engineer Battalion"
@@ -125,7 +125,7 @@ msgstr "213º Regimento de Infantaria, 173º Batalhão de Engenharia"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/story"
 msgid "The German 11th army is trying to take the last parts of the Crimea that are in Soviet hands. They have taken the Kerch peninsula and now they approach Sevastopol from all sides. The Germans meet stiff resistance from the Black Sea fleet and the 'Separate Coastal Army' under Ivan Yefimovich Petrov. The defenders have dug in everywhere, and they are backed by coastal batteries. Progress is slow, and heavy artillery is brought to the front in an attempt to destroy the defenses and punch through to the city proper.\n\nIn this mission, you will lead the attack on battery number 30, or 'Fort Maksim Gorki 1' as the Germans call it. You will have our heaviest siege mortar at your disposal, use it to silence the defenses. The battery's main guns are already out of action. Use your infantry to protect the left flank. Once you have taken out the first line of defense, storm the hilltop and take the fort. We can't allow any more delays in the offensive. It's up to you to make this work.\n\nGood luck!"
-msgstr "O 11º Exército alemão tenta tomar as últimas partes da Crimeia ainda em mãos soviéticas. Após tomar a Península de Kerch, avança sobre Sevastopol por todos os lados. Os alemães encontram resistência tenaz da Frota do Mar Negro e do 'Exército Costeiro Separado' sob Ivan Yefimovich Petrov. Os defensores estão entrincheirados em toda parte, apoiados por baterias costeiras. O progresso é lento, e artilharia pesada é trazida para a frente numa tentativa de destruir as defesas e abrir caminho até a cidade.\n\nNesta missão, você liderará o ataque à bateria número 30, ou 'Forte Maksim Gorki 1' como os alemães a chamam. Você terá nosso morteiro de sítio mais pesado à sua disposição — use-o para silenciar as defesas. Os canhões principais da bateria já estão fora de combate. Use sua infantaria para proteger o flanco esquerdo. Depois de eliminar a primeira linha de defesa, tome o cume e capture o forte. Não podemos tolerar mais atrasos na ofensiva. Cabe a você fazer isso funcionar.\n\nBoa sorte!"
+msgstr "O 11º Exército alemão tenta tomar as últimas partes da Crimeia ainda em mãos soviéticas. Após tomar a Península de Kerch, avança sobre Sevastopol por todos os lados. Os alemães encontram resistência tenaz da Frota do Mar Negro e do 'Exército Costeiro Separado' sob Ivan Yefimovich Petrov. Os defensores estão entrincheirados em toda parte, apoiados por baterias costeiras. O progresso é lento, e artilharia pesada é trazida para a frente numa tentativa de destruir as defesas e abrir caminho até a cidade.\n\nNesta missão, você liderará o ataque à bateria número 30, ou 'Forte Maksim Gorki 1' como os alemães a chamam. Você terá nosso morteiro de sítio mais pesado à sua disposição - use-o para silenciar as defesas. Os canhões principais da bateria já estão fora de combate. Use sua infantaria para proteger o flanco esquerdo. Depois de eliminar a primeira linha de defesa, tome o cume e capture o forte. Não podemos tolerar mais atrasos na ofensiva. Cabe a você fazer isso funcionar.\n\nBoa sorte!"
 
 msgctxt "mission/single/02-ger/1942_06_sevastopol/task1"
 msgid "Clear all of the strongpoints at the first line of defences."

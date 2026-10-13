@@ -49,7 +49,7 @@ msgstr "Batalha da Floresta de Hürtgen"
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/story"
 msgid "Operation Queen, Hurtgen offensive - The attack by the 28th Division started on 2nd November.\n\n2nd Rangers listen up! The forest ahead needs to be cleared of enemies. Clear the forest and chase the enemy out!\n\nGoals:\n - Clear the forest.\n - Chase the enemy from his trenches."
-msgstr "Operação Queen, ofensiva de Hürtgen — o ataque da 28ª Divisão começou em 2 de novembro.\n\n2º Rangers, atenção! A floresta à frente precisa ser limpa de inimigos. Limpe a floresta e expulse o inimigo!\n\nObjetivos:\n - Limpar a floresta.\n - Expulsar o inimigo de suas trincheiras."
+msgstr "Operação Queen, ofensiva de Hürtgen - o ataque da 28ª Divisão começou em 2 de novembro.\n\n2º Rangers, atenção! A floresta à frente precisa ser limpa de inimigos. Limpe a floresta e expulse o inimigo!\n\nObjetivos:\n - Limpar a floresta.\n - Expulsar o inimigo de suas trincheiras."
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/place"
 msgid "Hurtgen Forest"
@@ -89,11 +89,11 @@ msgstr "Seus soldados asseguraram %1%/7 posições alemãs!"
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start0"
 msgid "Welcome to the infamous Hürtgen forest! This is your field HQ, it must remain in our control!"
-msgstr "Bem-vindo à infame floresta de Hürtgen! Este é seu QG de campo — deve permanecer sob nosso controle!"
+msgstr "Bem-vindo à infame floresta de Hürtgen! Este é seu QG de campo - deve permanecer sob nosso controle!"
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start1"
 msgid "Lieutenant, we're against the ropes here, and high command deems it best to seize the initiative immediately. Attack!"
-msgstr "Tenente — estamos encurralados aqui, e o alto comando considera melhor tomar a iniciativa imediatamente. Ataque!"
+msgstr "Tenente - estamos encurralados aqui, e o alto comando considera melhor tomar a iniciativa imediatamente. Ataque!"
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start2"
 msgid "The germans are unprepared for a massive assault, but their fortifications and obstacles will be tough to crack!"
@@ -101,7 +101,7 @@ msgstr "Os alemães não estão preparados para um assalto massivo, mas suas for
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/narrator_start3"
 msgid "Commence the assault, more reinforcements will be sent here soon!"
-msgstr "Inicie o assalto — mais reforços serão enviados em breve!"
+msgstr "Inicie o assalto - mais reforços serão enviados em breve!"
 
 msgctxt "mission/single/04-usa/1944_10_skirmish_hurtgen_forest/allied_enemy_near_hq"
 msgid "Attention! Our Field HQ is under threat!"

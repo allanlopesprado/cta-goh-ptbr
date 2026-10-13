@@ -513,7 +513,7 @@ msgstr "[<c(ff1200)>HE</c>] Munição Wgr.34 para Morteiro de 8cm"
 
 msgctxt "desc/ammo/mortarger_80 sm"
 msgid "[SMOKE] 8cm Wgr.34 Mortar"
-msgstr "[SMOKE] Munição Wgr.34 para Morteiro de 8cm"
+msgstr "[FUMAÇA] Munição Wgr.34 para Morteiro de 8cm"
 
 msgctxt "desc/ammo/mortarger_100 he"
 msgid "[<c(ff1200)>HE</c>] 10cm Wgr.37 Mortar"
@@ -521,7 +521,7 @@ msgstr "[<c(ff1200)>HE</c>] Munição Wgr.37 para Morteiro de 10cm"
 
 msgctxt "desc/ammo/mortarger_100 sm"
 msgid "[SMOKE] 10cm Wgr.35 Nb St Mortar"
-msgstr "[SMOKE] Munição Wgr.35 Nb St para Morteiro de 10cm"
+msgstr "[FUMAÇA] Munição Wgr.35 Nb St para Morteiro de 10cm"
 
 msgctxt "desc/ammo/mortarger_120 he"
 msgid "[<c(ff1200)>HE</c>] 12cm Wgr.42 Mortar"
@@ -529,7 +529,7 @@ msgstr "[<c(ff1200)>HE</c>] Munição Wgr.42 para Morteiro de 12cm"
 
 msgctxt "desc/ammo/mortarger_120 sm"
 msgid "[SMOKE] 12cm Wgr.42 Mortar"
-msgstr "[SMOKE] Munição Wgr.42 para Morteiro de 12cm"
+msgstr "[FUMAÇA] Munição Wgr.42 para Morteiro de 12cm"
 
 msgctxt "desc/ammo/mortarger_200 he"
 msgid "[<c(ff1200)>HE</c>] 20cm Wgr.40 Mortar"
@@ -537,7 +537,7 @@ msgstr "[<c(ff1200)>HE</c>] Munição Wgr.40 para Morteiro de 20cm"
 
 msgctxt "desc/ammo/mortarger_200 sm"
 msgid "[SMOKE] 20cm Nb.40 Mortar"
-msgstr "[SMOKE] Munição Nb.40 para Morteiro de 20cm"
+msgstr "[FUMAÇA] Munição Nb.40 para Morteiro de 20cm"
 
 msgctxt "desc/ammo/mp40"
 msgid "9mm MP38/40 Magazine"

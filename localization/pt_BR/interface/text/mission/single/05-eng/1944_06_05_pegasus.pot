@@ -33,7 +33,7 @@ msgstr "6 de junho de 1944 · Normandia, França"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/place"
 msgid "6th Airlanding Brigade"
-msgstr "6ª Brigada Aerotransportada"
+msgstr "6ª Brigada Aerotransportada (Planadores)"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/story"
 msgid "To protect the invasion against German flanking attacks, a couple of bridges East of the beaches must be secured. \n\n This task has been assigned to the British 6th Airborne Brigade. They are to seize the bridge over the Caen canal and the nearby bridge over the Orne river. \n\nMonths of training proved to be invaluable as the pilot landed the glider right at the bridge over the Orne canal. \n\n Time to spring into action! First, chase the Germans out and secure Bénouville Bridge."
@@ -97,7 +97,7 @@ msgstr "Jogada inteligente. Um problema a menos com que se preocupar."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part01_bridge_cleared"
 msgid "The bridge is ours. Keep focused, I’m sure there will be more of them."
-msgstr "A ponte é nossa. Fique concentrado — tenho certeza de que virão mais."
+msgstr "A ponte é nossa. Fique concentrado - tenho certeza de que virão mais."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part02_01"
 msgid "It seems like Jerry hasn’t rigged the bridge with explosives, I’d wager they have them stashed somewhere nearby. Let’s have a look around."
@@ -129,7 +129,7 @@ msgstr "Vamos ver se há moradores por aqui; talvez saibam onde os alemães guar
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/pl_see_hotel_mgun"
 msgid "MG! Hotel building, first floor, get to cover!"
-msgstr "MG! Edifício do hotel, primeiro andar — procure cobertura!"
+msgstr "MG! Edifício do hotel, primeiro andar - procure cobertura!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_see"
 msgid "Heads up, anti-air spotted in the field! Knock it out so our boys in the sky can breathe easy!"
@@ -137,7 +137,7 @@ msgstr "Atenção, canhão Flak avistado no campo! Destrua-o para que nossos avi
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_hint_destroy"
 msgid "We need to take out that Flak. Use a PIAT or find some explosives. Anything that we can use to disable it."
-msgstr "Precisamos eliminar aquele Flak. Use um PIAT ou encontre explosivos — qualquer coisa que possa desativá-lo."
+msgstr "Precisamos eliminar aquele Flak. Use um PIAT ou encontre explosivos - qualquer coisa que possa desativá-lo."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/flak38_destroyed"
 msgid "Nice one! That bloody Flak won't bother anyone again!"
@@ -173,7 +173,7 @@ msgstr "Não, companheiro, somos britânicos! Chá, futebol, Inglaterra! Tudo be
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_04"
 msgid "Ah, oui, oui, of course! Here small depot, but les Boches, they take it away. Dominique, mon voisin, he is résistant, watch the depot, oui? Now he is in the stable… Eh… West… Big box! Box en bois, comprendre? Wood box! He have eyes like un faucon and moustache… Long, very long, jusqu’à Marseille! Good luck, les Anglais, merci!"
-msgstr "Ah, oui, oui, claro! Tinha um pequeno depósito aqui, mas les Boches levaram tudo. Dominique, mon voisin, é um résistant — vigiava o depósito, oui? Agora está no estábulo... Eh... Oeste... Caixa grande! Caixa en bois, comprendre? Caixa de madeira! Ele tem olhos como un faucon e bigode... Comprido, muito comprido, jusqu’à Marseille! Boa sorte, les Anglais, merci!"
+msgstr "Ah, oui, oui, claro! Tinha um pequeno depósito aqui, mas les Boches levaram tudo. Dominique, mon voisin, é um résistant - vigiava o depósito, oui? Agora está no estábulo... Eh... Oeste... Caixa grande! Caixa en bois, comprendre? Caixa de madeira! Ele tem olhos como un faucon e bigode... Comprido, muito comprido, jusqu’à Marseille! Boa sorte, les Anglais, merci!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_05"
 msgid "Alright then... Got it. Thank you, monsieur. And stay safe out there."
@@ -181,7 +181,7 @@ msgstr "Tudo bem então... Entendi. Obrigado, monsieur. E fique em segurança."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/hint_civilians_02"
 msgid "Reckon he means the barn west of here. There is another civvie. Sharp eyes, big moustache. Bet he knows more about the charges."
-msgstr "Acho que ele se refere ao celeiro a oeste daqui. Há outro civil — olhar aguçado, bigode enorme. Aposto que ele sabe mais sobre as cargas."
+msgstr "Acho que ele se refere ao celeiro a oeste daqui. Há outro civil - olhar aguçado, bigode enorme. Aposto que ele sabe mais sobre as cargas."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_06"
 msgid "You're Dominique? Moustache down to Marseilie, eyes like falcon? Yeah, you match the description."
@@ -241,7 +241,7 @@ msgstr "Outro chegando! Pegue o PIAT! E, se estiver sem munição, encontre gran
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_armor_t1_destroyed"
 msgid "Well done, that'll make 'em think twice before pushing again."
-msgstr "Bom trabalho — vai fazê-los pensar duas vezes antes de avançar novamente."
+msgstr "Bom trabalho - vai fazê-los pensar duas vezes antes de avançar novamente."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_ammo_out_01"
 msgid "I'm dry! I need a fresh mag!"
@@ -249,7 +249,7 @@ msgstr "Estou sem munição! Preciso de um novo carregador!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part03_ammo_out_02"
 msgid "We are running out of ammunition. Take a look around, you'll probably find some weapon crates left by the Germans."
-msgstr "Estamos ficando sem munição. Dê uma olhada ao redor — provavelmente vai encontrar alguns caixotes de armas deixados pelos alemães."
+msgstr "Estamos ficando sem munição. Dê uma olhada ao redor - provavelmente vai encontrar alguns caixotes de armas deixados pelos alemães."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_pl_reinf"
 msgid "A squad from another landing zone has arrived. We’ve expected the ground forces but they will work for now too. I reckon they’ve just increased our chances of holding this bridge."
@@ -269,11 +269,11 @@ msgstr "Pararam de atirar. Significa que estão em movimento. Fiquem prontos, ra
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_mortar_on_pos"
 msgid "They’ve deployed a mortar to the northwest of us! Get rid of it before it buries all of us under this damn bridge!"
-msgstr "Eles implantaram um morteiro a noroeste de nós! Elimine-o antes que nos enterre sob esta maldita ponte!"
+msgstr "Eles posicionaram um morteiro a noroeste de nós! Elimine-o antes que nos enterre sob esta maldita ponte!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_attack_south_01"
 msgid "The Germans are moving in from the south! Make sure this flank is secured, don’t let them surround us!"
-msgstr "Os alemães estão avançando pelo sul! Certifique-se de que este flanco está protegido — não os deixe nos cercar!"
+msgstr "Os alemães estão avançando pelo sul! Certifique-se de que este flanco está protegido - não os deixe nos cercar!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_attack_north_01"
 msgid "They’re pushing in from the north! Bloody hell, if they break through, that squad of ours and the entire flank are in real trouble!"
@@ -289,7 +289,7 @@ msgstr "Olhem quem finalmente resolveu aparecer! Commandos! Esses caras são dos
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/bridge_captured"
 msgid "We lost the Bridge! Get over there and take it back, now!"
-msgstr "Perdemos a Ponte! Vá lá e a retome — agora!"
+msgstr "Perdemos a Ponte! Vá lá e a retome - agora!"
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/bridge_recaptured"
 msgid "Good, the bridge is ours again. I nearly got a heart attack."
@@ -321,7 +321,7 @@ msgstr "Que bom vê-lo por aqui, milorde. Seguramos até agora, mas estamos no l
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_04"
 msgid "You have held this sector with remarkable resolve. An exceptional achievement indeed. I shall raise the matter of your promotion with Command. They already owe you a proper drink, preferably something French."
-msgstr "Vocês mantiveram este setor com notável determinação. Uma conquista excepcional, de fato. Vou levantar a questão da promoção de vocês com o Comando. Eles já devem a vocês uma boa bebida — de preferência algo francês."
+msgstr "Vocês mantiveram este setor com notável determinação. Uma conquista excepcional, de fato. Vou levantar a questão da promoção de vocês com o Comando. Eles já devem a vocês uma boa bebida - de preferência algo francês."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_05"
 msgid "We’ll agree to anything spirit-based, your lordship. Even if it tastes like petrol."
@@ -337,7 +337,7 @@ msgstr "Acho que é ainda melhor que um bom vinho. E minhas costas... Estão dor
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/outro_08"
 msgid "I shan’t trouble you any longer. Worry not, we’ll take care of it."
-msgstr "Não os incomodarei mais. Não se preocupem — cuidaremos disso."
+msgstr "Não os incomodarei mais. Não se preocupem - cuidaremos disso."
 
 msgctxt "mission/single/05-eng/1944_06_05_pegasus/tasks/01_clear"
 msgid "Take control of the Bénouville bridge"

@@ -37,7 +37,7 @@ msgstr "Sua tenacidade e coragem salvaram muitas vidas hoje. O Império Britâni
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/outro_failed"
 msgid "Operation Dynamo has not been very successful, and it remains to be seen whether we will stay in the war - or surrender."
-msgstr "A Operação Dínamo não foi muito bem-sucedida, e resta saber se ficaremos na guerra — ou nos renderemos."
+msgstr "A Operação Dínamo não foi muito bem-sucedida, e resta saber se ficaremos na guerra - ou nos renderemos."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/cutscene/intro_01"
 msgid "With all due respect, Sir, but you only won because Cliff Bastin was out half the season."
@@ -133,7 +133,7 @@ msgstr "O quê?.. Os alemães já estão aqui!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_12"
 msgid "Damn, I’ve seen this before. It looks like they’re probing our line, that means the fun is about to begin…"
-msgstr "Droga, já vi isso antes. Parece que estão sondando nossa linha — isso significa que a diversão está prestes a começar..."
+msgstr "Droga, já vi isso antes. Parece que estão sondando nossa linha - isso significa que a diversão está prestes a começar..."
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_14"
 msgid "Watch out, enemy plane incoming! Get to cover!"
@@ -185,7 +185,7 @@ msgstr "Que desperdício. Mas acho que é melhor do que deixá-los para o inimig
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_lost"
 msgid "Our defense has collapsed! Lieutenant Shaw, I am relieving you of your command, dismissed!"
-msgstr "Nossa defesa entrou em colapso! Tenente Shaw, estou retirando o seu comando — dispensado!"
+msgstr "Nossa defesa entrou em colapso! Tenente Shaw, estou retirando o seu comando - dispensado!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/part02_fallback_reminder"
 msgid "Fall back to the second line, lieutenant! Think of your men."
@@ -213,7 +213,7 @@ msgstr "Excelente, é exatamente o que precisamos agora. Este Bofors pode abater
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_06"
 msgid "More German planes incoming, reload the gun!"
-msgstr "Mais aviões alemães se aproximando — recarregue o canhão!"
+msgstr "Mais aviões alemães se aproximando - recarregue o canhão!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/dogfight_07"
 msgid "I don’t see anymore of them. Brilliant work! I bet the RAF will owe us."
@@ -249,15 +249,15 @@ msgstr "Embarcações de casa estão começando a chegar. Devemos manter nossas 
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_02"
 msgid "There’s a vessel at the mole, steady on!"
-msgstr "Há uma embarcação no cais — firme!"
+msgstr "Há uma embarcação no cais - firme!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_03"
 msgid "Another boat is at the mole, provide cover!"
-msgstr "Outro barco no cais — forneça cobertura!"
+msgstr "Outro barco no cais - forneça cobertura!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_04"
 msgid "A transport is at the mole, keep at it!"
-msgstr "Um transporte está no cais — continue assim!"
+msgstr "Um transporte está no cais - continue assim!"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/narrator/evac_boat_05"
 msgid "This is the last one! We must hold a little longer while the wounded are loaded."
@@ -313,7 +313,7 @@ msgstr "Prepare suas linhas defensivas"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/timer_sabotage"
 msgid "Vehicles sabotage, stay away"
-msgstr "Sabotagem de veículos — afaste-se"
+msgstr "Sabotagem de veículos - afaste-se"
 
 msgctxt "mission/single/05-eng/1940_06_03_dunkirk/ui/hint_airstrike"
 msgid "Royal Air Forces are ready to provide close air support. There are only <c(B29557)>2 planes available</c>, use them as a last resort."

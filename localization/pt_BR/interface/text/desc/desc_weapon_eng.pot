@@ -21,11 +21,11 @@ msgstr "Revólver Enfield No.2 Mk.I*"
 
 msgctxt "desc/weapon/flare_pistol_mk5"
 msgid "Pistol Flare 1-inch No.2 Mk.V"
-msgstr "Pistola Sinalizadora 1-inch No.2 Mk.V"
+msgstr "Pistola Sinalizadora 1 pol. No.2 Mk.V"
 
 msgctxt "desc/weapon/flare_pistol_mk5_sp"
 msgid "Pistol Flare 1-inch No.2 Mk.V"
-msgstr "Pistola Sinalizadora 1-inch No.2 Mk.V"
+msgstr "Pistola Sinalizadora 1 pol. No.2 Mk.V"
 
 msgctxt "desc/weapon/webley_mk4"
 msgid "Webley No.I Mk.IV Revolver"
@@ -157,7 +157,7 @@ msgstr "Vickers GO No.1 Mk.I"
 
 msgctxt "desc/weapon/vickers_50"
 msgid "Vickers .5-inch Mk.II"
-msgstr "Vickers .5-inch Mk.II"
+msgstr "Vickers .5 pol. Mk.II"
 
 msgctxt "desc/weapon/vickers_go_no1"
 msgid "Vickers GO No.1 Mk.I"
@@ -257,7 +257,7 @@ msgstr "40mm QF 2-pounder L/50 'Littlejohn'"
 
 msgctxt "desc/weapon/51mm_sbml_2in"
 msgid "51mm SBML 2-inch Mortar"
-msgstr "Morteiro SBML 2-inch de 51mm"
+msgstr "Morteiro SBML 2 pol. de 51mm"
 
 msgctxt "desc/weapon/57mm_qf6"
 msgid "57mm QF 6-pounder Mk.II L/43"
@@ -285,7 +285,7 @@ msgstr "QF 75mm Mk.V L/40"
 
 msgctxt "desc/weapon/76mm_qf3"
 msgid "76mm QF 3-inch howitzer Mk.I L/25"
-msgstr "Obuseiro QF 3-inch Mk.I de 76mm L/25"
+msgstr "Obuseiro QF 3 pol. Mk.I de 76mm L/25"
 
 msgctxt "desc/weapon/76mm_qf17"
 msgid "76mm QF 17-pounder Mk.I L/55"
@@ -305,7 +305,7 @@ msgstr "76mm QF 17-pounder Mk.V L/55"
 
 msgctxt "desc/weapon/76mm_landmattress"
 msgid "Projector Rocket 3-inch No.8 Mk.I"
-msgstr "Lançador de Foguetes 3-inch No.8 Mk.I"
+msgstr "Lançador de Foguetes 3 pol. No.8 Mk.I"
 
 msgctxt "desc/weapon/77mm_qf_hv"
 msgid "QF 77mm HV L/55"
@@ -313,7 +313,7 @@ msgstr "QF 77mm HV L/55"
 
 msgctxt "desc/weapon/81mm_ml_3in"
 msgid "ML 3-inch Mortar"
-msgstr "Morteiro ML 3-inch"
+msgstr "Morteiro ML 3 pol."
 
 msgctxt "desc/weapon/84mm_qf18_mk2"
 msgid "84mm QF 18-pounder Mk.II L/29.4"
@@ -341,15 +341,15 @@ msgstr "88mm QF 25-pounder Mk.II L/28"
 
 msgctxt "desc/weapon/94mm_qf3_7_how"
 msgid "94mm QF 3.7-inch howitzer L/11.8"
-msgstr "Obuseiro QF 3.7-inch de 94mm L/11.8"
+msgstr "Obuseiro QF 3.7 pol. de 94mm L/11.8"
 
 msgctxt "desc/weapon/94mm_qf3_7_cs"
 msgid "94mm QF 3.7-inch Mk.IV howitzer L/15"
-msgstr "Obuseiro QF 3.7-inch Mk.IV de 94mm L/15"
+msgstr "Obuseiro QF 3.7 pol. Mk.IV de 94mm L/15"
 
 msgctxt "desc/weapon/94mm_qf3_7_aa"
 msgid "94mm QF 3.7-inch AA L/50"
-msgstr "94mm QF 3.7-inch AA L/50"
+msgstr "94mm QF 3.7 pol. AA L/50"
 
 msgctxt "desc/weapon/95mm_qf95"
 msgid "QF 95mm L/21.5"
@@ -357,19 +357,19 @@ msgstr "QF 95mm L/21.5"
 
 msgctxt "desc/weapon/107mm_ml_42in"
 msgid "ML 4.2-inch Mortar"
-msgstr "Morteiro ML 4.2-inch"
+msgstr "Morteiro ML 4.2 pol."
 
 msgctxt "desc/weapon/114mm_bl4_5"
 msgid "114mm BL 4.5-inch medium gun L/42.8"
-msgstr "Canhão Médio BL 4.5-inch de 114mm L/42.8"
+msgstr "Canhão Médio BL 4.5 pol. de 114mm L/42.8"
 
 msgctxt "desc/weapon/114mm_qf4_5"
 msgid "114mm QF 4.5-inch howitzer L/13.2"
-msgstr "Obuseiro QF 4.5-inch de 114mm L/13.2"
+msgstr "Obuseiro QF 4.5 pol. de 114mm L/13.2"
 
 msgctxt "desc/weapon/120mm_qf4_7_mk9"
 msgid "120mm QF 4.7-inch Mk.IX Gun L/45"
-msgstr "Canhão QF 4.7-inch Mk.IX de 120mm L/45"
+msgstr "Canhão QF 4.7 pol. Mk.IX de 120mm L/45"
 
 msgctxt "desc/weapon/127mm_bl60"
 msgid "127mm BL 60-pounder L/36.8"
@@ -377,27 +377,27 @@ msgstr "127mm BL 60-pounder L/36.8"
 
 msgctxt "desc/weapon/140mm_bl5_5"
 msgid "140mm BL 5.5-inch medium gun L/30"
-msgstr "Canhão Médio BL 5.5-inch de 140mm L/30"
+msgstr "Canhão Médio BL 5.5 pol. de 140mm L/30"
 
 msgctxt "desc/weapon/152mm_bl6_mk19"
 msgid "152mm BL 6-inch Mk.XIX L/35"
-msgstr "152mm BL 6-inch Mk.XIX L/35"
+msgstr "152mm BL 6 pol. Mk.XIX L/35"
 
 msgctxt "desc/weapon/152mm_bl6_26cwt"
 msgid "152mm BL 6-inch 26cwt howitzer L/13.3"
-msgstr "Obuseiro BL 6-inch 26cwt de 152mm L/13.3"
+msgstr "Obuseiro BL 6 pol. 26cwt de 152mm L/13.3"
 
 msgctxt "desc/weapon/183mm_bl7_2"
 msgid "183mm BL 7.2-inch howitzer Mk.III L/22.4"
-msgstr "Obuseiro BL 7.2-inch Mk.III de 183mm L/22.4"
+msgstr "Obuseiro BL 7.2 pol. Mk.III de 183mm L/22.4"
 
 msgctxt "desc/weapon/183mm_bl7_2_mk6"
 msgid "183mm BL 7.2-inch howitzer Mk.VI L/33.1"
-msgstr "Obuseiro BL 7.2-inch Mk.VI de 183mm L/33.1"
+msgstr "Obuseiro BL 7.2 pol. Mk.VI de 183mm L/33.1"
 
 msgctxt "desc/weapon/203mm_bl8"
 msgid "203mm BL 8-inch howitzer Mk.VIII L/17"
-msgstr "Obuseiro BL 8-inch Mk.VIII de 203mm L/17"
+msgstr "Obuseiro BL 8 pol. Mk.VIII de 203mm L/17"
 
 msgctxt "desc/weapon/230mm_spigot_mortar"
 msgid "29mm Spigot Mortar"

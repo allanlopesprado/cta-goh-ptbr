@@ -70,11 +70,11 @@ msgstr "Linha de frente"
 
 msgctxt "mp/settings/frontlineteam#attackers"
 msgid "Team A Attackers"
-msgstr "Equipe A — Atacantes"
+msgstr "Equipe A: Atacantes"
 
 msgctxt "mp/settings/frontlineteam#defenders"
 msgid "Team B Defenders"
-msgstr "Equipe B — Defensores"
+msgstr "Equipe B: Defensores"
 
 msgctxt "mp/lobby/setup/settings.freezeTime"
 msgid "Frontline preparation time"
@@ -86,11 +86,11 @@ msgstr "Tempo para preparar as defesas e organizar o ataque"
 
 msgctxt "mp/settings/teamb#defenders"
 msgid "Team B Defenders"
-msgstr "Equipe B — Defensores"
+msgstr "Equipe B: Defensores"
 
 msgctxt "mp/settings/teama#attackers"
 msgid "Team A Attackers"
-msgstr "Equipe A — Atacantes"
+msgstr "Equipe A: Atacantes"
 
 msgctxt "actionbar/frontline_retreat"
 msgid "Retreat to the second line!"

@@ -37,11 +37,11 @@ msgstr "Canhão Bofors M1 de 40mm L/60"
 
 msgctxt "desc/weapon/50mm_rocketprojector"
 msgid "2-inch Rocket Projector"
-msgstr "Lançador de Foguetes 2-inch"
+msgstr "Lançador de Foguetes 2 pol."
 
 msgctxt "desc/weapon/50mm_rocketprojector_x4"
 msgid "2-inch Rocket Projector"
-msgstr "Lançador de Foguetes 2-inch"
+msgstr "Lançador de Foguetes 2 pol."
 
 msgctxt "desc/weapon/57mm_m1"
 msgid "57mm Gun M1 L/50"
@@ -145,7 +145,7 @@ msgstr "Obuseiro M4 de 105mm L/22.5"
 
 msgctxt "desc/weapon/107mm_m2"
 msgid "4.2-inch M2 Mortar"
-msgstr "Morteiro M2 de 4.2-inch"
+msgstr "Morteiro M2 de 4.2 pol."
 
 msgctxt "desc/weapon/114mm_m1"
 msgid "4.5-inch Gun M1 L/43"
@@ -157,11 +157,11 @@ msgstr "Lançador de Foguetes T34 (60x Foguetes de 114mm)"
 
 msgctxt "desc/weapon/127mm_hvar_4"
 msgid "4x 5-inch HVAR"
-msgstr "4x 5-inch HVAR"
+msgstr "4x 5 pol. HVAR"
 
 msgctxt "desc/weapon/127mm_hvar_10"
 msgid "10x 5-inch HVAR"
-msgstr "10x 5-inch HVAR"
+msgstr "10x 5 pol. HVAR"
 
 msgctxt "desc/weapon/155mm_gpf"
 msgid "155mm GPF L/38.2"
@@ -185,7 +185,7 @@ msgstr "155mm Schneider L/15"
 
 msgctxt "desc/weapon/203mm_m1"
 msgid "8-inch Howitzer M1 L/25"
-msgstr "Obuseiro M1 de 8-inch L/25"
+msgstr "Obuseiro M1 de 8 pol. L/25"
 
 msgctxt "desc/weapon/flaregun_anm8"
 msgid "AN-M8 Flare Pistol"
@@ -357,23 +357,23 @@ msgstr "Canhão Sem Recuo M18"
 
 msgctxt "desc/weapon/thompson_m1_20"
 msgid "M1 Thompson (Stick 20)"
-msgstr "M1 Thompson (Carregador Reto 20)"
+msgstr "M1 Thompson (Carregador Tipo Caixa 20)"
 
 msgctxt "desc/weapon/thompson_m1_30"
 msgid "M1 Thompson (Stick 30)"
-msgstr "M1 Thompson (Carregador Reto 30)"
+msgstr "M1 Thompson (Carregador Tipo Caixa 30)"
 
 msgctxt "desc/weapon/thompson_m1a1_20"
 msgid "M1A1 Thompson (Stick 20)"
-msgstr "M1A1 Thompson (Carregador Reto 20)"
+msgstr "M1A1 Thompson (Carregador Tipo Caixa 20)"
 
 msgctxt "desc/weapon/thompson_m1a1_30"
 msgid "M1A1 Thompson (Stick 30)"
-msgstr "M1A1 Thompson (Carregador Reto 30)"
+msgstr "M1A1 Thompson (Carregador Tipo Caixa 30)"
 
 msgctxt "desc/weapon/thompson_m1928_20"
 msgid "M1928 Thompson (Stick 20)"
-msgstr "M1928 Thompson (Carregador Reto 20)"
+msgstr "M1928 Thompson (Carregador Tipo Caixa 20)"
 
 msgctxt "desc/weapon/thompson_m1928_50"
 msgid "M1928 Thompson (Drum)"
@@ -381,11 +381,11 @@ msgstr "M1928 Thompson (Tambor)"
 
 msgctxt "desc/weapon/thompson_m1928a1_20"
 msgid "M1928A1 Thompson (Stick 20)"
-msgstr "M1928A1 Thompson (Carregador Reto 20)"
+msgstr "M1928A1 Thompson (Carregador Tipo Caixa 20)"
 
 msgctxt "desc/weapon/thompson_m1928a1_30"
 msgid "M1928A1 Thompson (Stick 30)"
-msgstr "M1928A1 Thompson (Carregador Reto 30)"
+msgstr "M1928A1 Thompson (Carregador Tipo Caixa 30)"
 
 msgctxt "desc/weapon/thompson_m1928a1_50"
 msgid "M1928A1 Thompson (Drum)"

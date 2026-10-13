@@ -957,7 +957,7 @@ msgstr "<c(c3baae)>Embarcação de Desembarque</c>"
 
 msgctxt "desc/entity/81mm_ml3_early"
 msgid "ML 3-inch Mortar (Early)"
-msgstr "Morteiro ML 3-inch (Inicial)"
+msgstr "Morteiro ML 3 pol. (Inicial)"
 
 msgctxt "info/special/81mm_ml3_early"
 msgid "<c(c3baae)>Medium Mortar</c>"
@@ -965,7 +965,7 @@ msgstr "<c(c3baae)>Morteiro Médio</c>"
 
 msgctxt "desc/entity/81mm_ml3"
 msgid "ML 3-inch Mortar"
-msgstr "Morteiro ML 3-inch"
+msgstr "Morteiro ML 3 pol."
 
 msgctxt "info/special/81mm_ml3"
 msgid "<c(c3baae)>Medium Mortar</c>"
@@ -977,11 +977,11 @@ msgstr "Barragem de Morteiro Médio"
 
 msgctxt "desc/squad/81mm_ml3_mortar_barrage"
 msgid "ML 3-inch Mortar"
-msgstr "Morteiro ML 3-inch"
+msgstr "Morteiro ML 3 pol."
 
 msgctxt "desc/entity/107mm_ml4_2"
 msgid "ML 4.2-inch Mortar"
-msgstr "Morteiro ML 4.2-inch"
+msgstr "Morteiro ML 4.2 pol."
 
 msgctxt "info/special/107mm_ml4_2"
 msgid "<c(c3baae)>Heavy Mortar</c>"
@@ -993,7 +993,7 @@ msgstr "Barragem de Morteiro Pesado"
 
 msgctxt "info/squad/107mm_ml4_2_mortar_barrage"
 msgid "ML 3-inch Mortar"
-msgstr "Morteiro ML 3-inch"
+msgstr "Morteiro ML 3 pol."
 
 msgctxt "desc/entity/heavy_mg_vickers_mg"
 msgid "Vickers Mk.I"
@@ -1229,7 +1229,7 @@ msgstr "<c(c3baae)>Canhão de Campo</c>"
 
 msgctxt "desc/entity/94mm_qf_how_early"
 msgid "QF 3.7-inch Howitzer (Early)"
-msgstr "Obuseiro QF 3.7-inch (Inicial)"
+msgstr "Obuseiro QF 3.7 pol. (Inicial)"
 
 msgctxt "info/special/94mm_qf_how_early"
 msgid "<c(c3baae)>Mountain Howitzer</c>"
@@ -1237,7 +1237,7 @@ msgstr "<c(c3baae)>Obuseiro de Montanha</c>"
 
 msgctxt "desc/entity/94mm_qf_how"
 msgid "QF 3.7-inch Howitzer"
-msgstr "Obuseiro QF 3.7-inch"
+msgstr "Obuseiro QF 3.7 pol."
 
 msgctxt "info/special/94mm_qf_how"
 msgid "<c(c3baae)>Mountain Howitzer</c>"
@@ -1245,7 +1245,7 @@ msgstr "<c(c3baae)>Obuseiro de Montanha</c>"
 
 msgctxt "desc/entity/94mm_qf_3_7_aa_early"
 msgid "QF 3.7-inch AA (Early)"
-msgstr "QF 3.7-inch AA (Inicial)"
+msgstr "QF 3.7 pol. AA (Inicial)"
 
 msgctxt "info/special/94mm_qf_3_7_aa_early"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -1253,7 +1253,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/94mm_qf_3_7_aa_mid"
 msgid "QF 3.7-inch AA (Mid)"
-msgstr "QF 3.7-inch AA (Intermediário)"
+msgstr "QF 3.7 pol. AA (Intermediário)"
 
 msgctxt "info/special/94mm_qf_3_7_aa_mid"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -1261,7 +1261,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/94mm_qf_3_7_aa_late"
 msgid "QF 3.7-inch AA (Late)"
-msgstr "QF 3.7-inch AA (Tardio)"
+msgstr "QF 3.7 pol. AA (Tardio)"
 
 msgctxt "info/special/94mm_qf_3_7_aa_late"
 msgid "<c(c3baae)>Heavy AA Gun</c>"
@@ -1269,7 +1269,7 @@ msgstr "<c(c3baae)>Canhão AA Pesado</c>"
 
 msgctxt "desc/entity/114mm_bl_4_5_mk1"
 msgid "BL 4.5-inch Mk.I Gun"
-msgstr "Canhão BL 4.5-inch Mk.I"
+msgstr "Canhão BL 4.5 pol. Mk.I"
 
 msgctxt "info/special/114mm_bl_4_5_mk1"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -1277,7 +1277,7 @@ msgstr "<c(c3baae)>Canhão de Campo Médio</c>"
 
 msgctxt "desc/entity/114mm_bl_4_5"
 msgid "BL 4.5-inch Mk.II Gun"
-msgstr "Canhão BL 4.5-inch Mk.II"
+msgstr "Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "info/special/114mm_bl_4_5"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -1289,7 +1289,7 @@ msgstr "Barragem de Fumaça Média"
 
 msgctxt "desc/squad/114mm_bl_4_5_smoke_barrage"
 msgid "BL 4.5-inch Mk.II Gun"
-msgstr "Canhão BL 4.5-inch Mk.II"
+msgstr "Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "desc/entity/114mm_bl_4_5_artillery_barrage"
 msgid "Medium Artillery Barrage"
@@ -1297,11 +1297,11 @@ msgstr "Barragem de Artilharia Média"
 
 msgctxt "desc/squad/114mm_bl_4_5_artillery_barrage"
 msgid "BL 4.5-inch Mk.II Gun"
-msgstr "Canhão BL 4.5-inch Mk.II"
+msgstr "Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "desc/entity/114mm_qf_how"
 msgid "QF 4.5-inch Howitzer"
-msgstr "Obuseiro QF 4.5-inch"
+msgstr "Obuseiro QF 4.5 pol."
 
 msgctxt "info/special/114mm_qf_how"
 msgid "<c(c3baae)>Medium Field Howitzer</c>"
@@ -1309,7 +1309,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Médio</c>"
 
 msgctxt "desc/entity/114mm_qf_how_wooden"
 msgid "QF 4.5-inch Howitzer"
-msgstr "Obuseiro QF 4.5-inch"
+msgstr "Obuseiro QF 4.5 pol."
 
 msgctxt "info/special/114mm_qf_how_wooden"
 msgid "<c(c3baae)>Medium Field Howitzer</c>"
@@ -1317,7 +1317,7 @@ msgstr "<c(c3baae)>Obuseiro de Campo Médio</c>"
 
 msgctxt "desc/entity/140mm_bl_5_5"
 msgid "BL 5.5-inch Mk.III Gun"
-msgstr "Canhão BL 5.5-inch Mk.III"
+msgstr "Canhão BL 5.5 pol. Mk.III"
 
 msgctxt "info/special/140mm_bl_5_5"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -1325,7 +1325,7 @@ msgstr "<c(c3baae)>Canhão de Campo Médio</c>"
 
 msgctxt "desc/entity/140mm_bl_5_5_late"
 msgid "BL 5.5-inch Mk.III Gun (Late)"
-msgstr "Canhão BL 5.5-inch Mk.III (Tardio)"
+msgstr "Canhão BL 5.5 pol. Mk.III (Tardio)"
 
 msgctxt "info/special/140mm_bl_5_5_late"
 msgid "<c(c3baae)>Medium Field Gun</c>"
@@ -1333,7 +1333,7 @@ msgstr "<c(c3baae)>Canhão de Campo Médio</c>"
 
 msgctxt "desc/entity/152mm_bl_6"
 msgid "BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "Obuseiro BL 6-inch 26-cwt Mk.I"
+msgstr "Obuseiro BL 6 pol. 26-cwt Mk.I"
 
 msgctxt "info/special/152mm_bl_6"
 msgid "<c(c3baae)>Medium Howitzer</c>"
@@ -1345,11 +1345,11 @@ msgstr "Barragem de Artilharia Pesada"
 
 msgctxt "desc/squad/152mm_bl_6_artillery_barrage"
 msgid "BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "Obuseiro BL 6-inch 26-cwt Mk.I"
+msgstr "Obuseiro BL 6 pol. 26-cwt Mk.I"
 
 msgctxt "desc/entity/152mm_bl_6_mk19"
 msgid "BL 6-inch Mk.XIX"
-msgstr "BL 6-inch Mk.XIX"
+msgstr "BL 6 pol. Mk.XIX"
 
 msgctxt "info/special/152mm_bl_6_mk19"
 msgid "<c(c3baae)>Heavy Field Gun</c>"
@@ -1365,7 +1365,7 @@ msgstr "<c(c3baae)>Canhão de Campo Pesado</c>"
 
 msgctxt "desc/entity/183mm_bl_7_2"
 msgid "BL 7.2-inch Howitzer Mk.III"
-msgstr "Obuseiro BL 7.2-inch Mk.III"
+msgstr "Obuseiro BL 7.2 pol. Mk.III"
 
 msgctxt "info/special/183mm_bl_7_2"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -1373,7 +1373,7 @@ msgstr "<c(c3baae)>Obuseiro Pesado</c>"
 
 msgctxt "desc/entity/183mm_bl_7_2_mk6"
 msgid "BL 7.2-inch Howitzer Mk.VI"
-msgstr "Obuseiro BL 7.2-inch Mk.VI"
+msgstr "Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "info/special/183mm_bl_7_2_mk6"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -1381,7 +1381,7 @@ msgstr "<c(c3baae)>Obuseiro Pesado</c>"
 
 msgctxt "desc/entity/203mm_bl_8"
 msgid "BL 8-inch Howitzer Mk.VIII"
-msgstr "Obuseiro BL 8-inch Mk.VIII"
+msgstr "Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "info/special/203mm_bl_8"
 msgid "<c(c3baae)>Heavy Howitzer</c>"
@@ -1669,7 +1669,7 @@ msgstr "<c(c3baae)>Tanque de Infantaria</c>"
 
 msgctxt "desc/entity/matilda1_50"
 msgid "Matilda I (.5-inch)"
-msgstr "Matilda I (.5-inch)"
+msgstr "Matilda I (.5 pol.)"
 
 msgctxt "info/special/matilda1_50"
 msgid "<c(c3baae)>Infantry Tank</c>"
@@ -1757,7 +1757,7 @@ msgstr "<c(c3baae)>Canhão Autopropulsado</c>"
 
 msgctxt "desc/entity/sexton_mk2"
 msgid "25-pdr SP Tracked Mk.II 'Sexton'"
-msgstr "25-pdr SP Tracked Mk.II 'Sexton'"
+msgstr "25-pdr Autopropulsado sobre Lagartas Mk.II 'Sexton'"
 
 msgctxt "info/special/sexton_mk2"
 msgid "<c(c3baae)>Self-Propelled Gun</c>"

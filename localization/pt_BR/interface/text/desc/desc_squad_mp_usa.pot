@@ -85,11 +85,11 @@ msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros Veterana"
 
 msgctxt "desc/squad/squad_ranger_assault_mid_all_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_mid_all_2(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_mg_mid_all_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (MG)"
@@ -245,11 +245,11 @@ msgstr "<c(A5A095)>(2+)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros Veterana"
 
 msgctxt "desc/squad/squad_ranger_assault_mid_off_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_mid_off_2(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_mg_mid_off_1(usa)"
 msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Ranger Assault Section (MG)"
@@ -301,7 +301,7 @@ msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros 1ª Div."
 
 msgctxt "desc/squad/squad_ranger_assault_sub_late_all(usa)"
 msgid "<c(A5A095)>(4)</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_late_all(usa)"
 msgid "<c(A5A095)>(4)</c> Ranger Assault Section (MG)"
@@ -481,19 +481,19 @@ msgstr "<c(A5A095)>(3+)</c> <c(E56042)>3.</c> 1ª DA Esquadra de Fuzileiros (Emb
 
 msgctxt "desc/squad/squad_10th_mountain_late_off_1(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 10th Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> 10th Esquadra de Fuzileiros de Montanha"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>1.</c> Esquadra de Fuzileiros da 10ª Divisão de Montanha"
 
 msgctxt "desc/squad/squad_10th_mountain_late_off_2(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 10th Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> 10th Esquadra de Fuzileiros de Montanha"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>2.</c> Esquadra de Fuzileiros da 10ª Divisão de Montanha"
 
 msgctxt "desc/squad/squad_10th_mountain_late_off_3(usa)"
 msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 10th Mountain Rifle Squad"
-msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> 10th Esquadra de Fuzileiros de Montanha"
+msgstr "<c(A5A095)>(3)</c> <c(E56042)>3.</c> Esquadra de Fuzileiros da 10ª Divisão de Montanha"
 
 msgctxt "desc/squad/squad_ranger_assault_sub_late_off(usa)"
 msgid "<c(A5A095)>(4)</c> Ranger Assault Section (Substitute)"
-msgstr "<c(A5A095)>(4)</c> Seção de Assalto Ranger (Substituto)"
+msgstr "<c(A5A095)>(4)</c> Seção de Assalto Ranger (Substituta)"
 
 msgctxt "desc/squad/squad_ranger_assault_late_off(usa)"
 msgid "<c(A5A095)>(4)</c> Ranger Assault Section (MG)"

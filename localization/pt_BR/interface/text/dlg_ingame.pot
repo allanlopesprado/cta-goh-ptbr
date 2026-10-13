@@ -656,15 +656,15 @@ msgstr "Blindagem"
 
 msgctxt "actionbar/squad/dismiss"
 msgid "Dismiss squad"
-msgstr "Dispensar esquadra"
+msgstr "Separar esquadra"
 
 msgctxt "actionbar/squad/control"
 msgid "Dismiss squad"
-msgstr "Dispensar esquadra"
+msgstr "Separar esquadra"
 
 msgctxt "actionbar/squad/control/action"
 msgid "The selected squad will be dismissed."
-msgstr "A esquadra selecionada será dispensada."
+msgstr "A esquadra selecionada será separada em soldados individuais."
 
 msgctxt "actionbar/mine_ap"
 msgid "Anti-Personnel Mine"
@@ -1089,7 +1089,7 @@ msgstr "Posição"
 
 msgctxt "hints/spawntime"
 msgid "Order units within %1% seconds, or surrender!"
-msgstr "Ordene unidades em %1% segundos ou se renda!"
+msgstr "Solicite unidades em até %1% segundos ou renda-se!"
 
 msgctxt "actionbar/map_control/docking#/topleft"
 msgid "Top Left"
@@ -1901,7 +1901,7 @@ msgstr "\n"
 
 msgctxt "mass_view/ton"
 msgid "<f(arial_hq)s(8)x.>Mass: %g ton"
-msgstr "<f(arial_hq)s(8)x.>Peso: %g ton"
+msgstr "<f(arial_hq)s(8)x.>Peso: %g toneladas"
 
 msgctxt "scenemenu/choose"
 msgid "Choose a game to save"
