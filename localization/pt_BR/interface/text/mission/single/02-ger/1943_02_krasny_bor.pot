@@ -41,7 +41,7 @@ msgstr "Hoje é o dia em que a onda vermelha encontrará o muro azul! Vocês já
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04"
 msgid "Your objective is to hold our rear headquarters at all costs, but it will also be convenient to secure our secondary key objectives: "
-msgstr "Seu objetivo é manter nosso quartel-general da retaguarda a todo custo, mas também será conveniente assegurar nossos objetivos secundários:"
+msgstr "Seu objetivo é manter nosso quartel-general da retaguarda a todo custo, mas também será conveniente assegurar nossos objetivos-chave secundários:"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/narrator/officer/04a"
 msgid "The railway station,..."
@@ -121,7 +121,7 @@ msgstr "Porque a Divisão Azul segurou a linha em Krasny Bor, o 18º Exército n
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/outro_failed"
 msgid "Your failure to hold Krasny Bor has grave consequences; the 18th army has just been cut off from the front, facing the same fate as the 6th army at Stalingrad. Thousands will succumb to injury, illness and starvation. Those that can still walk will be sent to Siberia. This is a dent in your reputation to say the least!  \n"
-msgstr "Seu fracasso em manter Krasny Bor tem graves consequências — o 18º Exército acaba de ser isolado do restante da frente, enfrentando o mesmo destino do 6º Exército em Stalingrado. Milhares sucumbirão a ferimentos, doenças e inanição. Os que ainda conseguem andar serão enviados à Sibéria. Isso é um baque para sua reputação, para dizer o mínimo!\n\n"
+msgstr "Seu fracasso em manter Krasny Bor tem graves consequências - o 18º Exército acaba de ser isolado do restante da frente, enfrentando o mesmo destino do 6º Exército em Stalingrado. Milhares sucumbirão a ferimentos, doenças e inanição. Os que ainda conseguem andar serão enviados à Sibéria. Isso é um baque para sua reputação, para dizer o mínimo!\n\n"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/place"
 msgid "250th Infantry Division \"Blue Division\""
@@ -169,7 +169,7 @@ msgstr "Pular fase de preparação"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/story"
 msgid "February 1943; the Red army goes offensive in the Leningrad region. Operation \"polar star\" aims to encircle the German 18th army. One of its goals is to take Tosno, following the road and railroad, both leading straight through Krasny Bor.\n\nKrasny Bor is at the centre of attention in this mission. The initial attack is met by the Spanish Blue Division, who have dug in a handful of AT guns and a few artillery pieces at the village. With enemies approaching from all sides, this battle will be a serious test of your improvisation skills.\n\nHold your position until it is time to counterattack!"
-msgstr "Fevereiro de 1943 — o Exército Vermelho vai à ofensiva na região de Leningrado. A Operação \"Estrela Polar\" visa cercar o 18º Exército alemão. Um de seus objetivos é tomar Tosno, seguindo a estrada e a ferrovia, ambas passando diretamente por Krasny Bor.\n\nKrasny Bor é o centro das atenções nesta missão. O ataque inicial é enfrentado pela Divisão Azul espanhola, que entrincheirou alguns canhões AT e algumas peças de artilharia na aldeia. Com inimigos se aproximando por todos os lados, esta batalha será um sério teste de suas habilidades de improvisação.\n\nMantenha sua posição até que seja hora de contra-atacar!"
+msgstr "Fevereiro de 1943 - o Exército Vermelho vai à ofensiva na região de Leningrado. A Operação \"Estrela Polar\" visa cercar o 18º Exército alemão. Um de seus objetivos é tomar Tosno, seguindo a estrada e a ferrovia, ambas passando diretamente por Krasny Bor.\n\nKrasny Bor é o centro das atenções nesta missão. O ataque inicial é enfrentado pela Divisão Azul espanhola, que entrincheirou alguns canhões AT e algumas peças de artilharia na aldeia. Com inimigos se aproximando por todos os lados, esta batalha será um sério teste de suas habilidades de improvisação.\n\nMantenha sua posição até que seja hora de contra-atacar!"
 
 msgctxt "mission/single/02-ger/1943_02_krasny_bor/task_hospital"
 msgid "Escort the trucks evacuating the hospital. At least 2 trucks must survive."

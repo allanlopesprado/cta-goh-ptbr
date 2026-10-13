@@ -35,6 +35,9 @@ Obrigado por ajudar a melhorar esta tradução PT-BR para Call to Arms - Gates o
    variáveis (`%1%`, `%s`, etc.), marcações do jogo, plurais e estrutura dos catálogos.
    A referência inglesa deve permanecer byte a byte, inclusive nas quebras de linha;
    não a edite para corrigir uma alegação histórica ou facilitar a tradução.
+   Nos textos PT-BR, não use o travessão U+2014. Prefira pontuação comum adequada
+   à frase; rótulos podem usar dois-pontos ou hífen simples. Originais e evidências
+   históricas permanecem intactos.
 5. Registre original, antes/depois, motivo, contexto e referências na proposta ou no
    manifesto de revisão. Uma decisão incerta deve continuar explícita, não ser
    apresentada como validada. Para propostas em lote, use o formato de manifesto
@@ -64,6 +67,9 @@ esse número não é a versão do jogo e não comprova compatibilidade com outra
 - [Regras contextuais de regressão](../translation/context-quality.json): protegem
   decisões por arquivo, contexto e fonte exata; não certificam automaticamente o sentido
   de todo texto novo.
+- Revisão de 13 de outubro de 2026: [ajustes aplicados](../translation/context-review-2026-10-13.json),
+  [evidências](../translation/context-evidence-2026-10-13.json) e
+  [validação técnica](../translation/context-validation-2026-10-13.json).
 
 ## Atualização da referência inglesa
 
@@ -97,6 +103,7 @@ node tools/translation-audit.mjs --check
 node tools/source-integrity.mjs --check
 node tools/catalog-metadata.mjs --check
 node tools/context-quality.mjs --check
+node tools/translation-style.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
 node tools/release-translation.mjs --check

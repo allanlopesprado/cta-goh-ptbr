@@ -75,6 +75,7 @@ jobs:
           node tools/source-integrity.mjs --check
           node tools/catalog-metadata.mjs --check
           node tools/context-quality.mjs --check
+          node tools/translation-style.mjs --check
 
       - name: Build and validate pak
         run: |

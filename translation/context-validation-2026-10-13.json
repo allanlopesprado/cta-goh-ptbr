@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.23",
+  "stage": "local-validation-before-commit",
+  "baselineCommit": "b058640a04612a84f73a362d8bf50439cd7b11bb",
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "gameTested": false,
+  "checks": {
+    "tests": {
+      "total": 111,
+      "pass": 111,
+      "fail": 0,
+      "skip": 0
+    },
+    "audit": {
+      "files": {
+        "previousEnglish": 362,
+        "portuguese": 362,
+        "currentEnglish": 362
+      },
+      "counts": {
+        "unchanged": 22030,
+        "added": 0,
+        "changed": 0,
+        "removed": 0,
+        "translatedExact": 21893,
+        "needsTranslationReview": 0
+      },
+      "addedFiles": [],
+      "removedFiles": [],
+      "changedFiles": [],
+      "issuesByType": {
+        "same-as-source-review": 3777,
+        "catalog-syntax-error": 66
+      },
+      "duplicates": 92,
+      "sourceExceptionsUsed": 1
+    },
+    "source": {
+      "files": 363,
+      "catalogs": 362,
+      "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+      "issues": []
+    },
+    "metadata": {
+      "catalogs": 362,
+      "pluralMessages": 0,
+      "issues": []
+    },
+    "style": {
+      "catalogs": 362,
+      "issues": []
+    },
+    "context": {
+      "rules": 3116,
+      "files": 159,
+      "issues": []
+    },
+    "pak": {
+      "mode": "check",
+      "files": 363,
+      "bytes": 3811651,
+      "archiveBytes": 3881125,
+      "crc32": "verified",
+      "content": "exact expected bytes",
+      "root": "default/",
+      "locale": "pt_BR",
+      "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak"
+    },
+    "release": {
+      "tag": "v1.0.23",
+      "pakSha256": "fa817df326d1b913366186265ed12fc1a62d1e09220c3c7f5352c97876151a08",
+      "pakBytes": 3881125,
+      "gameTested": false,
+      "mode": "--check"
+    },
+    "application": {
+      "appliedExactly": 931,
+      "files": 102,
+      "emDashTargets": 0,
+      "allSourceFieldsAndUnchangedTranslationsPreserved": true
+    }
+  },
+  "snapshot": {
+    "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+    "pakSha256": "fa817df326d1b913366186265ed12fc1a62d1e09220c3c7f5352c97876151a08",
+    "manifestStatus": "applied",
+    "recordedChanges": 931,
+    "recordedFileHashes": 102,
+    "englishGitDiff": "",
+    "historicalReportsUnchanged": true
+  },
+  "independentChecks": {
+    "styleTestsAdditionalCases": 7,
+    "missionSelectionsExactlyApplied": 26,
+    "validEditorialAlternativesRetained": 12,
+    "allNumericValuesBeforeAfterPreserved": true,
+    "oldContextRuleIdentitiesRetained": 2499,
+    "existingRuleTranslationsUpdated": 314,
+    "newExactRules": 617
+  },
+  "limits": [
+    "Auditoria textual e de recursos/configurações não certifica encaixe visual, áudio ou funcionamento compilado.",
+    "Problemas ou fragmentos da fonte não foram reconstruídos por suposição. Fontes históricas e traduções anteriores permanecem nos registros."
+  ]
+}

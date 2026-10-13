@@ -1417,11 +1417,11 @@ msgstr "Destacamento de MG"
 
 msgctxt "desc/squad/single_at(eng)"
 msgid "AT Rifle Team"
-msgstr "Equipe AT de Fuzil"
+msgstr "Equipe de Fuzil Antitanque"
 
 msgctxt "desc/squad/single_at_con(eng)"
 msgid "Boys AT Rifle Team"
-msgstr "Equipe AT de Fuzil Boys"
+msgstr "Equipe de Fuzil Antitanque Boys"
 
 msgctxt "desc/squad/single_at1_con(eng)"
 msgid "PIAT AT Team"
@@ -1437,11 +1437,11 @@ msgstr "Equipe AT"
 
 msgctxt "desc/squad/single_riflegrenade(eng)"
 msgid "Gren. Riflemen"
-msgstr "Granadeiros Atiradores"
+msgstr "Granadeiros de Fuzil"
 
 msgctxt "desc/squad/single_riflegrenade_con(eng)"
 msgid "Gren. Riflemen"
-msgstr "Granadeiros Atiradores"
+msgstr "Granadeiros de Fuzil"
 
 msgctxt "desc/squad/single_ap_miner(eng)"
 msgid "AP Miners"

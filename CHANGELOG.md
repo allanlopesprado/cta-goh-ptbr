@@ -1,5 +1,51 @@
 # Histórico de versões
 
+## v1.0.23
+
+Revisão contextual de 13 de outubro de 2026, comparando os 362 catálogos e
+22.030 entradas com a referência inglesa recebida em 7 de outubro.
+Esta é a versão da tradução, não do jogo.
+
+- 931 entradas ajustadas em 102 catálogos: 565 correções e padronizações
+  selecionadas, com melhorias de pontuação sobrepostas em seis dessas entradas.
+- Retiradas as 399 ocorrências de travessão U+2014 dos 372 textos que o usavam.
+  A nova regra de estilo protege essa preferência na validação e publicação.
+- Distinções entre funções de soldados, radioperadores e observadores;
+  qualificadores de fuzil antitanque e tropas de planadores preservados.
+- Unidades descritivas em polegadas localizadas sem converter calibres nominais;
+  modelos, códigos e hierarquia das patentes estrangeiras preservados.
+- Correções de combate a curta distância, percentual, concordância, instruções
+  e referentes. Mantidas as formas portuguesas válidas dos compostos militares
+  e o uso técnico de lagartas, sem troca indiscriminada por sinônimos.
+- 111 testes automatizados aprovados, regressões contextuais, integridade da
+  fonte, metadados e pacote com CRC32 e conteúdo exato conferidos.
+- Pacote com 362 catálogos PT-BR e `localization.info`: 363 arquivos,
+  3.881.125 bytes. README de instalação mantido simples e sem travessões.
+
+### Registros da revisão
+
+Original, antes/depois, decisões e cobertura em
+[context-review-2026-10-13.json](translation/context-review-2026-10-13.json).
+Evidências complementares em
+[context-evidence-2026-10-13.json](translation/context-evidence-2026-10-13.json)
+e resultados técnicos em
+[context-validation-2026-10-13.json](translation/context-validation-2026-10-13.json).
+Os relatórios das versões anteriores permanecem preservados.
+
+### Integridade do download
+
+SHA-256 de `default.pak`:
+
+```text
+fa817df326d1b913366186265ed12fc1a62d1e09220c3c7f5352c97876151a08
+```
+
+Referência inglesa original (SHA-256):
+
+```text
+dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6
+```
+
 ## v1.0.22
 
 Validação offline complementar de 8 de outubro de 2026, preservando o pacote

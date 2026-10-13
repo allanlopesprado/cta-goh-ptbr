@@ -37,7 +37,7 @@ msgstr "Scheisse! Perdi o controle da direção... os freios também falharam, m
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/01"
 msgid "Go comrades, take cover and grab any weapon you find! Death to the fascist invaders!"
-msgstr "Vamos, camaradas — abriguem-se e peguem qualquer arma que encontrarem! Morte aos invasores fascistas!"
+msgstr "Vamos, camaradas - abriguem-se e peguem qualquer arma que encontrarem! Morte aos invasores fascistas!"
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan/02"
 msgid "Onward comrades! The supply truck is ours! Scavenge everything you can from it!"
@@ -57,11 +57,11 @@ msgstr "Camarada Comandante, não acho que delataram nossa posição! Não são 
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/01"
 msgid "Welcome to Obsich, comrades. I am in charge here. The Fascists are sending a lot of their convoys through these roads nowadays, we try to target the easy ones with supplies."
-msgstr "Bem-vindos a Obsich, camaradas. Estou no comando aqui. Os fascistas estão enviando muitos de seus comboios por essas estradas hoje em dia — tentamos atacar os comboios de suprimentos mais vulneráveis."
+msgstr "Bem-vindos a Obsich, camaradas. Estou no comando aqui. Os fascistas estão enviando muitos de seus comboios por essas estradas hoje em dia - tentamos atacar os comboios de suprimentos mais vulneráveis."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/02"
 msgid "We could use your help! The Germans are doing something to our village. It has become a fortified supply nexus, they've reinforced the sector and we know nothing of our people. We fear the worst..."
-msgstr "Poderíamos usar sua ajuda! Os alemães estão fazendo algo com nossa aldeia. Ela se tornou um nó de suprimentos fortificado — eles reforçaram o setor e não sabemos nada de nosso povo. Tememos o pior..."
+msgstr "Poderíamos usar sua ajuda! Os alemães estão fazendo algo com nossa aldeia. Ela se tornou um nó de suprimentos fortificado - eles reforçaram o setor e não sabemos nada de nosso povo. Tememos o pior..."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/03"
 msgid "Agreed. Follow us! We'll take you to our hideout. "
@@ -105,7 +105,7 @@ msgstr "Um brinde, camaradas! A partir de agora, nossa aldeia pode permanecer li
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/convoy1"
 msgid "The Fascists are missing the schedule, they are in haste. Ambush the supply vehicles and let the others go, I don't think they'll be after you."
-msgstr "Os fascistas estão fora do cronograma — estão com pressa. Embosque os veículos de suprimentos e deixe os outros passar, não acho que virão atrás de você."
+msgstr "Os fascistas estão fora do cronograma - estão com pressa. Embosque os veículos de suprimentos e deixe os outros passar, não acho que virão atrás de você."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/partisan_lead/convoy2"
 msgid "Comrade, focus your attention only on the trucks!"
@@ -193,7 +193,7 @@ msgstr "Ahá, o que é isso? Podemos dar um jeito..."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/outro_completed"
 msgid "The Vitebsk gate would play an important part in the war. It enabled the partisans to disrupt supply lines more easily. Big battles were influenced by the partisans, such as the battle of Kursk. German supplies would never be safe again. Many partisans re-enlisted in the Red Army once their territory had been liberated, a feat to which they themselves had been instrumental."
-msgstr "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os partisans perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos partisans, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos partisans voltaram a se alistar no Exército Vermelho assim que seu território foi libertado — feito no qual eles próprios foram fundamentais."
+msgstr "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os partisans perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos partisans, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos partisans voltaram a se alistar no Exército Vermelho assim que seu território foi libertado - feito no qual eles próprios foram fundamentais."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/outro_failed"
 msgid "Now that the German attack has succeeded, we can no longer use our exposed base. All equipment and supplies will have to be hauled through the marshes for dozens of kilometres. Losing this battle also means we will have to share our supplies with the villagers, who are now forced to leave their homes. We will not be able to block German reinforcements for a while. We can only hope this battle didn’t make us lose another one at the front."
@@ -231,7 +231,7 @@ msgstr "Expulse os alemães de Obsich."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/task5"
 msgid "Eliminate the enemy convoys, don't let any supply vehicle get through!"
-msgstr "Elimine os comboios inimigos — não deixe nenhum veículo de suprimentos passar!"
+msgstr "Elimine os comboios inimigos - não deixe nenhum veículo de suprimentos passar!"
 
 msgctxt "mission/single/01-rus/1942_10_obsich/taskoff"
 msgid "Kill the German high-ranking officer."

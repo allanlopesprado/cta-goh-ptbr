@@ -353,7 +353,7 @@ msgstr "Capacete M1 de Coronel [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_cpt"
 msgid "M1 Helmet CPT [327 GIR]"
-msgstr "Capacete M1 CPT [327 GIR]"
+msgstr "Capacete M1 de Capitão [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_ltcol"
 msgid "M1 Helmet LTC [327 GIR]"
@@ -361,7 +361,7 @@ msgstr "Capacete M1 de Tenente-Coronel [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_maj"
 msgid "M1 Helmet MAJ [327 GIR]"
-msgstr "Capacete M1 MAJ [327 GIR]"
+msgstr "Capacete M1 de Major [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1"
 msgid "M1 Helmet Officer [327 GIR]"
@@ -377,7 +377,7 @@ msgstr "Capacete M1 de Segundo-Tenente [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT [327 GIR]"
-msgstr "Capacete M1 CPT [327 GIR]"
+msgstr "Capacete M1 de Capitão [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2"
 msgid "M1 Helmet Officer [327 GIR]"
@@ -393,7 +393,7 @@ msgstr "Capacete M1 de Segundo-Tenente [327 GIR]"
 
 msgctxt "desc/stuff/us_m1_327gir_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT [327 GIR]"
-msgstr "Capacete M1 CPT [327 GIR]"
+msgstr "Capacete M1 de Capitão [327 GIR]"
 ; ----------	head/[united_states]/U.S. - [Glider] 327GIR NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_327gir_nco"
@@ -790,7 +790,7 @@ msgstr "Capacete M1 de Coronel [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_cpt"
 msgid "M1 Helmet CPT [501 PIR]"
-msgstr "Capacete M1 CPT [501 PIR]"
+msgstr "Capacete M1 de Capitão [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_ltcol"
 msgid "M1 Helmet LTC [501 PIR]"
@@ -798,7 +798,7 @@ msgstr "Capacete M1 de Tenente-Coronel [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_maj"
 msgid "M1 Helmet MAJ [501 PIR]"
-msgstr "Capacete M1 MAJ [501 PIR]"
+msgstr "Capacete M1 de Major [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_1lt"
 msgid "M1 Helmet 1LT - Bandage [501 PIR]"
@@ -818,11 +818,11 @@ msgstr "Capacete M1 de Segundo-Tenente - Curativo [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_camo_cpt"
 msgid "M1 Helmet CPT - Bandage [501 PIR]"
-msgstr "Capacete M1 CPT - Curativo [501 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [501 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_501pir_co_b_net_cpt"
 msgid "M1 Helmet CPT - Bandage [501 PIR]"
-msgstr "Capacete M1 CPT - Curativo [501 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [501 PIR]"
 ; ----------	head/[united_states]/U.S. - [Para] 501 PIR NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_para_501pir_nco_b"
@@ -965,7 +965,7 @@ msgstr "Capacete M1 de Tenente-Coronel [502 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_502pir_co_b_maj"
 msgid "M1 Helmet MAJ [502 PIR]"
-msgstr "Capacete M1 MAJ [502 PIR]"
+msgstr "Capacete M1 de Major [502 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_1lt"
 msgid "M1 Helmet 1LT - Bandage [502 PIR]"
@@ -985,11 +985,11 @@ msgstr "Capacete M1 de Segundo-Tenente - Curativo [502 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_camo_cpt"
 msgid "M1 Helmet CPT - Bandage [502 PIR]"
-msgstr "Capacete M1 CPT - Curativo [502 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [502 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_502pir_co_b_net_cpt"
 msgid "M1 Helmet CPT - Bandage [502 PIR]"
-msgstr "Capacete M1 CPT - Curativo [502 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [502 PIR]"
 ; ----------	head/[united_states]/U.S. - [Para] 502 PIR NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_para_502pir_nco_b"
@@ -1132,7 +1132,7 @@ msgstr "Capacete M1 de Tenente-Coronel [506 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_506pir_co_b_maj"
 msgid "M1 Helmet MAJ [506 PIR]"
-msgstr "Capacete M1 MAJ [506 PIR]"
+msgstr "Capacete M1 de Major [506 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_1lt"
 msgid "M1 Helmet 1LT - Bandage [506 PIR]"
@@ -1152,11 +1152,11 @@ msgstr "Capacete M1 de Segundo-Tenente - Curativo [506 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_camo_cpt"
 msgid "M1 Helmet CPT - Bandage [506 PIR]"
-msgstr "Capacete M1 CPT - Curativo [506 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [506 PIR]"
 
 msgctxt "desc/stuff/us_m1_para_506pir_co_b_net_cpt"
 msgid "M1 Helmet CPT - Bandage [506 PIR]"
-msgstr "Capacete M1 CPT - Curativo [506 PIR]"
+msgstr "Capacete M1 de Capitão - Curativo [506 PIR]"
 ; ----------	head/[united_states]/U.S. - [Para] 506 PIR NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_para_506pir_nco_b"
@@ -1210,11 +1210,11 @@ msgstr "Capacete M1 de Segundo-Tenente - Curativo [Aerotransportado]"
 
 msgctxt "desc/stuff/us_m1_para_co_b_net_camo_cpt"
 msgid "M1 Helmet CPT - Bandage [Airborne]"
-msgstr "Capacete M1 CPT - Curativo [Aerotransportado]"
+msgstr "Capacete M1 de Capitão - Curativo [Aerotransportado]"
 
 msgctxt "desc/stuff/us_m1_para_co_b_net_cpt"
 msgid "M1 Helmet CPT - Bandage [Airborne]"
-msgstr "Capacete M1 CPT - Curativo [Aerotransportado]"
+msgstr "Capacete M1 de Capitão - Curativo [Aerotransportado]"
 ; ----------	head/[united_states]/U.S. - [Para] NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_para_nco_b_net_3"
@@ -1313,7 +1313,7 @@ msgstr "Capacete M1 de Coronel [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_cpt"
 msgid "M1 Helmet CPT [2 RBN]"
-msgstr "Capacete M1 CPT [2 RBN]"
+msgstr "Capacete M1 de Capitão [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_ltcol"
 msgid "M1 Helmet LTC [2 RBN]"
@@ -1321,7 +1321,7 @@ msgstr "Capacete M1 de Tenente-Coronel [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_maj"
 msgid "M1 Helmet MAJ [2 RBN]"
-msgstr "Capacete M1 MAJ [2 RBN]"
+msgstr "Capacete M1 de Major [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1"
 msgid "M1 Helmet Officer [2 RBN]"
@@ -1337,7 +1337,7 @@ msgstr "Capacete M1 de Segundo-Tenente [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT [2 RBN]"
-msgstr "Capacete M1 CPT [2 RBN]"
+msgstr "Capacete M1 de Capitão [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2"
 msgid "M1 Helmet Officer [2 RBN]"
@@ -1353,7 +1353,7 @@ msgstr "Capacete M1 de Segundo-Tenente [2 RBN]"
 
 msgctxt "desc/stuff/us_m1_ranger_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT [2 RBN]"
-msgstr "Capacete M1 CPT [2 RBN]"
+msgstr "Capacete M1 de Capitão [2 RBN]"
 ; ----------	head/[united_states]/U.S. - [Ranger] NCOs	---------- ;
 
 msgctxt "desc/stuff/us_m1_ranger_nco"
@@ -1605,7 +1605,7 @@ msgstr "Capacete M1 de Segundo-Tenente [1st ID]"
 
 msgctxt "desc/stuff/us_m1_1st_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT [1st ID]"
-msgstr "Capacete M1 CPT [1st ID]"
+msgstr "Capacete M1 de Capitão [1st ID]"
 
 msgctxt "desc/stuff/us_m1_1st_co_b_net_var2"
 msgid "M1 Helmet Officer [1st ID]"
@@ -1621,11 +1621,11 @@ msgstr "Capacete M1 de Segundo-Tenente [1st ID]"
 
 msgctxt "desc/stuff/us_m1_1st_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT [1st ID]"
-msgstr "Capacete M1 CPT [1st ID]"
+msgstr "Capacete M1 de Capitão [1st ID]"
 
 msgctxt "desc/stuff/us_m1_1st_co_cpt"
 msgid "M1 Helmet CPT [1st ID]"
-msgstr "Capacete M1 CPT [1st ID]"
+msgstr "Capacete M1 de Capitão [1st ID]"
 
 msgctxt "desc/stuff/us_m1_1st_co_net_var1"
 msgid "M1 Helmet Officer [1st ID]"
@@ -1752,7 +1752,7 @@ msgstr "Capacete M1 de Segundo-Tenente [3rd ID]"
 
 msgctxt "desc/stuff/us_m1_3rd_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT [3rd ID]"
-msgstr "Capacete M1 CPT [3rd ID]"
+msgstr "Capacete M1 de Capitão [3rd ID]"
 
 msgctxt "desc/stuff/us_m1_3rd_co_b_net_var2_1lt"
 msgid "M1 Helmet 1LT [3rd ID]"
@@ -1764,11 +1764,11 @@ msgstr "Capacete M1 de Segundo-Tenente [3rd ID]"
 
 msgctxt "desc/stuff/us_m1_3rd_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT [3rd ID]"
-msgstr "Capacete M1 CPT [3rd ID]"
+msgstr "Capacete M1 de Capitão [3rd ID]"
 
 msgctxt "desc/stuff/us_m1_3rd_co_cpt"
 msgid "M1 Helmet CPT [3rd ID]"
-msgstr "Capacete M1 CPT [3rd ID]"
+msgstr "Capacete M1 de Capitão [3rd ID]"
 ; ---------- head/[united_states]/U.S. - [Regular] 3rd NCOs ---------- ;
 
 msgctxt "desc/stuff/us_m1_3rd_nco"
@@ -1998,7 +1998,7 @@ msgstr "Capacete M1 de Segundo-Tenente [45th ID]"
 
 msgctxt "desc/stuff/us_m1_45th_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT [45th ID]"
-msgstr "Capacete M1 CPT [45th ID]"
+msgstr "Capacete M1 de Capitão [45th ID]"
 
 msgctxt "desc/stuff/us_m1_45th_co_b_net_var2_1lt"
 msgid "M1 Helmet 1LT [45th ID]"
@@ -2010,11 +2010,11 @@ msgstr "Capacete M1 de Segundo-Tenente [45th ID]"
 
 msgctxt "desc/stuff/us_m1_45th_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT [45th ID]"
-msgstr "Capacete M1 CPT [45th ID]"
+msgstr "Capacete M1 de Capitão [45th ID]"
 
 msgctxt "desc/stuff/us_m1_45th_co_cpt"
 msgid "M1 Helmet CPT [45th ID]"
-msgstr "Capacete M1 CPT [45th ID]"
+msgstr "Capacete M1 de Capitão [45th ID]"
 ; ---------- head/[united_states]/U.S. - [Regular] 45th NCOs ---------- ;
 
 msgctxt "desc/stuff/us_m1_45th_nco"
@@ -2096,7 +2096,7 @@ msgstr "Capacete M1 de Segundo-Tenente"
 
 msgctxt "desc/stuff/us_m1_co_b_net_var1_cpt"
 msgid "M1 Helmet CPT"
-msgstr "Capacete M1 CPT"
+msgstr "Capacete M1 de Capitão"
 
 msgctxt "desc/stuff/us_m1_co_b_net_var2"
 msgid "M1 Helmet Officer"
@@ -2112,7 +2112,7 @@ msgstr "Capacete M1 de Segundo-Tenente"
 
 msgctxt "desc/stuff/us_m1_co_b_net_var2_cpt"
 msgid "M1 Helmet CPT"
-msgstr "Capacete M1 CPT"
+msgstr "Capacete M1 de Capitão"
 
 msgctxt "desc/stuff/us_m1_co_col"
 msgid "M1 Helmet COL"
@@ -2120,7 +2120,7 @@ msgstr "Capacete M1 de Coronel"
 
 msgctxt "desc/stuff/us_m1_co_cpt"
 msgid "M1 Helmet CPT"
-msgstr "Capacete M1 CPT"
+msgstr "Capacete M1 de Capitão"
 
 msgctxt "desc/stuff/us_m1_co_gen1"
 msgid "M1 Helmet BG"
@@ -2128,7 +2128,7 @@ msgstr "Capacete M1 de General-de-Brigada"
 
 msgctxt "desc/stuff/us_m1_co_gen2"
 msgid "M1 Helmet MG"
-msgstr "Capacete M1 MG"
+msgstr "Capacete M1 de Major-General"
 
 msgctxt "desc/stuff/us_m1_co_gen3"
 msgid "M1 Helmet LTG"
@@ -2136,11 +2136,11 @@ msgstr "Capacete M1 de Tenente-General"
 
 msgctxt "desc/stuff/us_m1_co_gen4"
 msgid "M1 Helmet GEN"
-msgstr "Capacete M1 GEN"
+msgstr "Capacete M1 de General"
 
 msgctxt "desc/stuff/us_m1_co_gen4_var1"
 msgid "M1 Helmet GEN"
-msgstr "Capacete M1 GEN"
+msgstr "Capacete M1 de General"
 
 msgctxt "desc/stuff/us_m1_co_ltcol"
 msgid "M1 Helmet LTC"
@@ -2148,7 +2148,7 @@ msgstr "Capacete M1 de Tenente-Coronel"
 
 msgctxt "desc/stuff/us_m1_co_maj"
 msgid "M1 Helmet MAJ"
-msgstr "Capacete M1 MAJ"
+msgstr "Capacete M1 de Major"
 
 msgctxt "desc/stuff/us_m1_co_net_var1"
 msgid "M1 Helmet Officer"

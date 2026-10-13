@@ -254,23 +254,23 @@ msgstr "Motorista [BA]"
 
 msgctxt "desc/human/mp/eng/early/fo"
 msgid "Forward Artillery Observer Officer [BA]"
-msgstr "Oficial Observador de Artilharia Avançado [BA]"
+msgstr "Oficial Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/early/fo_radio_88"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/early/fo_radio_127"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/early/fo_radio_152"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/early/fo_radio_203"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/early/gds_at_boys"
 msgid "Guards AT Inf. [BA]"
@@ -694,7 +694,7 @@ msgstr "Motorista de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_gunner"
 msgid "Recce Carrier Gunner [BA]"
-msgstr "Atirador de Carrier de Reconhecimento [BA]"
+msgstr "Operador de Arma do Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/early/rec_carrier_rifle"
 msgid "Recce Carrier Rifleman [BA]"
@@ -986,11 +986,11 @@ msgstr "Sargento de Pelotão da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_mg"
 msgid "1st Airborne Recce MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_mg_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
@@ -1438,39 +1438,39 @@ msgstr "Tripulação [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_at_boys"
 msgid "Defense AT Inf. [BA]"
-msgstr "Defesa Infantaria Antitanque [BA]"
+msgstr "Infantaria Antitanque de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_at_boys_asst"
 msgid "Defense AT Asst. [BA]"
-msgstr "Defesa Auxiliar Antitanque [BA]"
+msgstr "Auxiliar Antitanque de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_mg"
 msgid "Defense MG Operator [BA]"
-msgstr "Defesa Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_mg_asst"
 msgid "Defense MG Asst. [BA]"
-msgstr "Defesa Auxiliar de Metralhadora [BA]"
+msgstr "Auxiliar de Metralhadora de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_rifle"
 msgid "Defense Rifleman [BA]"
-msgstr "Defesa Atirador [BA]"
+msgstr "Atirador de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_rifle_band"
 msgid "Defense Rifleman [BA]"
-msgstr "Defesa Atirador [BA]"
+msgstr "Atirador de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_sec_2ic"
 msgid "Defense Section 2IC [BA]"
-msgstr "Defesa Subcomandante da Seção [BA]"
+msgstr "Subcomandante da Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_sec_com"
 msgid "Defense Section Commander [BA]"
-msgstr "Defesa Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/def_sec_com_sgt"
 msgid "Defense Section Commander [BA]"
-msgstr "Defesa Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/mid/detach_com"
 msgid "Detachment Commander [BA]"
@@ -1486,23 +1486,23 @@ msgstr "Motorista [BA]"
 
 msgctxt "desc/human/mp/eng/mid/fo"
 msgid "Forward Artillery Observer Officer [BA]"
-msgstr "Oficial Observador de Artilharia Avançado [BA]"
+msgstr "Oficial Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/fo_radio_88"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/fo_radio_114"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/fo_radio_140"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/fo_radio_183"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/mid/medic"
 msgid "Medic [BA]"
@@ -1682,7 +1682,7 @@ msgstr "Motorista de Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_gunner"
 msgid "Recce Carrier Gunner [BA]"
-msgstr "Atirador de Carrier de Reconhecimento [BA]"
+msgstr "Operador de Arma do Carrier de Reconhecimento [BA]"
 
 msgctxt "desc/human/mp/eng/mid/rec_carrier_sec_com"
 msgid "Recce Carrier Section Commander [BA]"
@@ -2190,19 +2190,19 @@ msgstr "Sargento de Pelotão da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg"
 msgid "1st Airborne Recce MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo"
 msgid "1st Airborne Recce MG Operator [BA]"
-msgstr "Reconhecimento Operador de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Operador de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo_asst"
 msgid "1st Airborne Recce MG Asst. [BA]"
-msgstr "Reconhecimento Auxiliar de Metralhadora da 1ª Divisão Aerotransportada [BA]"
+msgstr "Auxiliar de Metralhadora de Reconhecimento da 1ª Divisão Aerotransportada [BA]"
 
 msgctxt "desc/human/mp/eng/late/1st_air_para_rec_rifle"
 msgid "1st Airborne Recce [BA]"
@@ -2878,39 +2878,39 @@ msgstr "Tripulação [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_at_piat"
 msgid "Defense AT Inf. [BA]"
-msgstr "Defesa Infantaria Antitanque [BA]"
+msgstr "Infantaria Antitanque de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_at_piat_asst"
 msgid "Defense AT Asst. [BA]"
-msgstr "Defesa Auxiliar Antitanque [BA]"
+msgstr "Auxiliar Antitanque de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_mg"
 msgid "Defense MG Operator [BA]"
-msgstr "Defesa Operador de Metralhadora [BA]"
+msgstr "Operador de Metralhadora de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_mg_asst"
 msgid "Defense MG Asst. [BA]"
-msgstr "Defesa Auxiliar de Metralhadora [BA]"
+msgstr "Auxiliar de Metralhadora de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_rifle"
 msgid "Defense Rifleman [BA]"
-msgstr "Defesa Atirador [BA]"
+msgstr "Atirador de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_rifle_band"
 msgid "Defense Rifleman [BA]"
-msgstr "Defesa Atirador [BA]"
+msgstr "Atirador de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_sec_2ic"
 msgid "Defense Section 2IC [BA]"
-msgstr "Defesa Subcomandante da Seção [BA]"
+msgstr "Subcomandante da Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_sec_com"
 msgid "Defense Section Commander [BA]"
-msgstr "Defesa Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/def_sec_com_sgt"
 msgid "Defense Section Commander [BA]"
-msgstr "Defesa Comandante de Seção [BA]"
+msgstr "Comandante de Seção de Defesa [BA]"
 
 msgctxt "desc/human/mp/eng/late/detach_com"
 msgid "Detachment Commander [BA]"
@@ -2926,23 +2926,23 @@ msgstr "Motorista [BA]"
 
 msgctxt "desc/human/mp/eng/late/fo"
 msgid "Forward Artillery Observer Officer [BA]"
-msgstr "Oficial Observador de Artilharia Avançado [BA]"
+msgstr "Oficial Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/late/fo_radio_88"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/late/fo_radio_114"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/late/fo_radio_140"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/late/fo_radio_183"
 msgid "Forward Artillery Observer Signalman [BA]"
-msgstr "Radioperador Observador de Artilharia Avançado [BA]"
+msgstr "Radioperador do Observador Avançado de Artilharia [BA]"
 
 msgctxt "desc/human/mp/eng/late/gds_ad_coy_2ic"
 msgid "Guards AD. Company 2IC [BA]"

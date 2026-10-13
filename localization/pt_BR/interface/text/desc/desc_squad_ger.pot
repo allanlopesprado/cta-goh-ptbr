@@ -69,7 +69,7 @@ msgstr "Destacamento de MG"
 
 msgctxt "desc/squad/single_riflegrenade(ger)"
 msgid "Gren. Riflemen"
-msgstr "Granadeiros Atiradores"
+msgstr "Granadeiros de Fuzil"
 
 msgctxt "desc/squad/single_scout(ger)"
 msgid "Aufklärer"
@@ -153,7 +153,7 @@ msgstr "<c(A5A095)>(4)</c> Großdeutschland Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_gd_motor_con"
 msgid "<c(A5A095)>(3+)</c> Großdeutschland Motorized Rifle squad"
-msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(3+)</c> Großdeutschland Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_gebirgsjaeger(ger)"
 msgid "Gebirgsjäger"
@@ -325,7 +325,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_regular_motor_con"
 msgid "<c(A5A095)>(2)</c> Motorized Rifle squad"
-msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_regular_motorised"
 msgid "Sd.Kfz 251 + Inf."
@@ -585,15 +585,15 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_1(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_2(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_motor_mid_all_3(ger)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Motorized Rifle Squad"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra Motorizada de Fuzis"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Esquadra Motorizada de Fuzileiros"
 
 msgctxt "desc/squad/squad_rifle_vet_mid_all(ger)"
 msgid "<c(A5A095)>(2+)</c> Veteran Rifle Squad"
