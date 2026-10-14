@@ -81,11 +81,11 @@ msgstr "Projétil HE M101 de 155mm [<c(ff1200)>HE</c>] <c(65696d)>L15</c>"
 
 msgctxt "desc/ammo/50mm_rocket_grapnel"
 msgid "2-inch Rocket, Grapnel Head"
-msgstr "Foguete de 2 polegadas com cabeça de gancho"
+msgstr "Foguete de 2 pol. com cabeça de gancho"
 
 msgctxt "desc/ammo/114mm_m8"
 msgid "4.5-inch Rockets [<c(ff1200)>HE</c>]"
-msgstr "Foguetes de 4.5 polegadas [<c(ff1200)>HE</c>]"
+msgstr "Foguetes de 4.5 pol. [<c(ff1200)>HE</c>]"
 
 msgctxt "desc/ammo/bar_mag"
 msgid ".30 cal BAR Magazine"
@@ -205,7 +205,7 @@ msgstr "Projétil de Fumaça M88 de 76mm [<c(FFFFFF)>FUMAÇA</c>] <c(65696d)>L/5
 
 msgctxt "desc/ammo/bulletusa_76x585 ap"
 msgid "3-inch AP-T, Shot M79 [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
-msgstr "Projétil AP-T M79 de 3 polegadas [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
+msgstr "Projétil AP-T M79 de 3 pol. [<c(ff6a00)>AP</c>] <c(65696d)>L/45</c>"
 
 msgctxt "desc/ammo/bulletusa_76x585 apcbche"
 msgid "3-inch APC-T, Projectile M62 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/45</c>"
@@ -217,7 +217,7 @@ msgstr "Projétil HE M42A1 de 3 pol. [<c(ff1200)>HE</c>] <c(65696d)>L/45</c>"
 
 msgctxt "desc/ammo/bulletusa_76x585 hvap"
 msgid "3-inch HVAP-T, Shot M93 [<c(48c445)>HVAP</c>] <c(65696d)>L/45</c>"
-msgstr "Projétil HVAP-T M93 de 3 polegadas [<c(48c445)>HVAP</c>] <c(65696d)>L/45</c>"
+msgstr "Projétil HVAP-T M93 de 3 pol. [<c(48c445)>HVAP</c>] <c(65696d)>L/45</c>"
 
 msgctxt "desc/ammo/bulletusa_76x585 sm"
 msgid "3-inch Smoke, Shell M88 [<c(FFFFFF)>SMOKE</c>] <c(65696d)>L/45</c>"

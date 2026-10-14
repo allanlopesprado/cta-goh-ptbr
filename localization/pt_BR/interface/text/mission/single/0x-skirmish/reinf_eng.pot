@@ -205,7 +205,7 @@ msgstr "Cruiser A13 Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3_early"
 msgid "ML 3-inch Mortar (Early)"
-msgstr "Morteiro ML 3 pol. (inicial)"
+msgstr "Morteiro ML 3 pol. (Inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikon"
 msgid "Oerlikon No.2 UM"
@@ -213,7 +213,7 @@ msgstr "Oerlikon No.2 UM"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikontow"
 msgid "Oerlikon No.2 UM (towed)"
-msgstr "Oerlikon No.2 UM (rebocado)"
+msgstr "Oerlikon No.2 UM (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf2_early"
 msgid "QF 2-pdr (Early)"
@@ -233,7 +233,7 @@ msgstr "QF 3.7 pol. AA"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aatow"
 msgid "QF 3.7-inch AA (towed)"
-msgstr "QF 3.7 pol. AA (rebocado)"
+msgstr "QF 3.7 pol. AA (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden"
 msgid "QF 4.5inch Howitzer"
@@ -241,7 +241,7 @@ msgstr "Obuseiro QF 4.5 pol."
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden_tow"
 msgid "QF 4.5inch Howitzer(towed)"
-msgstr "Obuseiro QF 4.5 pol. (rebocado)"
+msgstr "Obuseiro QF 4.5 pol. (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf40_early"
 msgid "QF 40mm Mk.III (Early)"
@@ -261,7 +261,7 @@ msgstr "QF 18-pdr Mk.V"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_how_early"
 msgid "QF 3.7-inch Howitzer (Early)"
-msgstr "Obuseiro QF 3.7 pol. (inicial)"
+msgstr "Obuseiro QF 3.7 pol. (Inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6"
 msgid "BL 6-inch 26-cwt Howitzer Mk.I"
@@ -345,7 +345,7 @@ msgstr "Sherman Ic Híbrido"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sherman2_late"
 msgid "Sherman II (Late)"
-msgstr "Sherman II (tardio)"
+msgstr "Sherman II (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/sherman5_mid"
 msgid "Sherman V"
@@ -373,7 +373,7 @@ msgstr "Churchill Mk.IV"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk4_qf75"
 msgid "Churchill Mk.IV (QF 75-pdr)"
-msgstr "Churchill Mk.IV (QF 75-pdr)"
+msgstr "Churchill Mk.IV (QF 75mm)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/churchill_mk7"
 msgid "Churchill Mk.VII"
@@ -397,7 +397,7 @@ msgstr "Achilles Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4_late"
 msgid "QF 6-pdr Mk.IV(late)"
-msgstr "QF 6-pdr Mk.IV (tardio)"
+msgstr "QF 6-pdr Mk.IV (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/57mm_qf6_mk4"
 msgid "QF 6-pdr Mk.IV"
@@ -409,7 +409,7 @@ msgstr "QF 17-pdr"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/76mm_qf17_late"
 msgid "QF 17-pdr(late)"
-msgstr "QF 17-pdr (tardio)"
+msgstr "QF 17-pdr (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3"
 msgid "ML 3-inch Mortar"
@@ -425,11 +425,11 @@ msgstr "Land Mattress"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/75mm_m1a1_eng"
 msgid "75mm M1A1 (M8 Carriage)"
-msgstr "75mm M1A1 (reparo M8)"
+msgstr "75mm M1A1 (Reparo M8)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk2_late"
 msgid "QF 25-pdr Mk.II (Late)"
-msgstr "QF 25-pdr Mk.II (tardio)"
+msgstr "QF 25-pdr Mk.II (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5"
 msgid "BL 4.5-inch Mk.II Gun"
@@ -453,7 +453,7 @@ msgstr "Canhão BL 5.5 pol. Mk.III"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_latetow"
 msgid "BL 5.5-inch Mk.III(towed)"
-msgstr "BL 5.5 pol. Mk.III(rebocado)"
+msgstr "BL 5.5 pol. Mk.III (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/7thad_sq"
 msgid "7th AD. Section"

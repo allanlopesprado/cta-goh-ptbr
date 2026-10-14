@@ -122,11 +122,11 @@ msgstr "Médico [KA]"
 
 msgctxt "desc/human/mp/rus/early/mg_crew"
 msgid "MG crew [KA]"
-msgstr "Tripulação MG [KA]"
+msgstr "Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/mg_crew_asst"
 msgid "MG crew Asst. [KA]"
-msgstr "Auxiliar de Tripulação MG [KA]"
+msgstr "Auxiliar da Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/mgun_1"
 msgid "MG Operator [KA]"
@@ -134,7 +134,7 @@ msgstr "Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/mgun_2"
 msgid "MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora [KA]"
+msgstr "Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/militia_1"
 msgid "Border Militia Squadleader [KA]"
@@ -174,7 +174,7 @@ msgstr "Soldado de Montanha Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_mg_asst"
 msgid "Mountain Trooper MG Asst. [KA]"
-msgstr "Soldado de Montanha Auxiliar de Metralhadora [KA]"
+msgstr "Soldado de Montanha Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_nco"
 msgid "Mountain Trooper Squadleader [KA]"
@@ -238,7 +238,7 @@ msgstr "Desantnik Operador de MG [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_mg_asst"
 msgid "Desantnik MG Asst. [VVS]"
-msgstr "Desantnik Auxiliar de Metralhadora [VVS]"
+msgstr "Desantnik Auxiliar de MG [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_nco"
 msgid "Desantnik Squadleader [VVS]"
@@ -390,7 +390,7 @@ msgstr "Sapador de Assalto [KA]"
 
 msgctxt "desc/human/mp/rus/late/assault-sap_3"
 msgid "Assault Sapper MG Asst. [KA]"
-msgstr "Sapador de Assalto Auxiliar de Metralhadora [KA]"
+msgstr "Sapador de Assalto Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/assault-sap_4"
 msgid "Assault Sapper [KA]"
@@ -470,7 +470,7 @@ msgstr "Marine Operador de MG da Guarda [VMF]"
 
 msgctxt "desc/human/mp/rus/late/guards_marine_mg_asst"
 msgid "Guards Marine MG Asst. [VMF]"
-msgstr "Marine Auxiliar de Metralhadora da Guarda [VMF]"
+msgstr "Marine Auxiliar de MG da Guarda [VMF]"
 
 msgctxt "desc/human/mp/rus/late/guards_marine_nco"
 msgid "Guards Marine Squadleader [VMF]"
@@ -502,11 +502,11 @@ msgstr "Operador de MG da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_mgun_2"
 msgid "Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda [KA]"
+msgstr "Auxiliar de MG da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_mgun_3"
 msgid "Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda [KA]"
+msgstr "Auxiliar de MG da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_nco"
 msgid "Guards Squadleader [KA]"
@@ -562,7 +562,7 @@ msgstr "Fuzileiro Naval [VMF]"
 
 msgctxt "desc/human/mp/rus/late/marine_mg_asst"
 msgid "Marine MG Asst. [VMF]"
-msgstr "Marine Auxiliar de Metralhadora [VMF]"
+msgstr "Marine Auxiliar de MG [VMF]"
 
 msgctxt "desc/human/mp/rus/late/marine_nco"
 msgid "Marine Squadleader [VMF]"
@@ -578,11 +578,11 @@ msgstr "Médico [KA]"
 
 msgctxt "desc/human/mp/rus/late/mg_crew"
 msgid "MG crew [KA]"
-msgstr "Tripulação MG [KA]"
+msgstr "Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/mg_crew_asst"
 msgid "MG crew Asst. [KA]"
-msgstr "Auxiliar de Tripulação MG [KA]"
+msgstr "Auxiliar da Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/mgun_1"
 msgid "MG Operator [KA]"
@@ -590,11 +590,11 @@ msgstr "Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/mgun_2"
 msgid "MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora [KA]"
+msgstr "Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/mgun_3"
 msgid "MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora [KA]"
+msgstr "Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/late/miner-ap"
 msgid "AP-Mine Engineer [KA]"
@@ -794,7 +794,7 @@ msgstr "Sapador de Assalto [KA]"
 
 msgctxt "desc/human/mp/rus/mid/assault-sap_3"
 msgid "Assault Sapper MG Asst. [KA]"
-msgstr "Sapador de Assalto Auxiliar de Metralhadora [KA]"
+msgstr "Sapador de Assalto Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/assault-sap_4"
 msgid "Assault Sapper [KA]"
@@ -866,7 +866,7 @@ msgstr "Operador de MG da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/mid/guard_5"
 msgid "Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda [KA]"
+msgstr "Auxiliar de MG da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/mid/guard_nco"
 msgid "Guards Squadleader [KA]"
@@ -902,7 +902,7 @@ msgstr "BSF Fuzileiro Naval [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_mg_asst"
 msgid "BSF Marine MG Asst. [VMF]"
-msgstr "BSF Marine Auxiliar de Metralhadora [VMF]"
+msgstr "BSF Marine Auxiliar de MG [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_senior"
 msgid "Senior BSF Marine [VMF]"
@@ -914,11 +914,11 @@ msgstr "Médico [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mg_crew"
 msgid "MG crew [KA]"
-msgstr "Tripulação MG [KA]"
+msgstr "Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mg_crew_asst"
 msgid "MG crew Asst. [KA]"
-msgstr "Auxiliar de Tripulação MG [KA]"
+msgstr "Auxiliar da Guarnição de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mgun_1"
 msgid "MG Operator [KA]"
@@ -926,7 +926,7 @@ msgstr "Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mgun_2"
 msgid "MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora [KA]"
+msgstr "Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/militia_1"
 msgid "Border Militia [KA]"
@@ -966,7 +966,7 @@ msgstr "Soldado de Montanha Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_mg_asst"
 msgid "Mountain Trooper MG Asst. [KA]"
-msgstr "Soldado de Montanha Auxiliar de Metralhadora [KA]"
+msgstr "Soldado de Montanha Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_nco"
 msgid "Mountain Trooper Squadleader [KA]"
@@ -1030,7 +1030,7 @@ msgstr "Desantnik Operador de MG [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/para_mg_asst"
 msgid "Desantnik MG Asst. [VVS]"
-msgstr "Desantnik Auxiliar de Metralhadora [VVS]"
+msgstr "Desantnik Auxiliar de MG [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/para_nco"
 msgid "Desantnik Squadleader [VVS]"
@@ -1138,7 +1138,7 @@ msgstr "Operador de MG de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_mg_asst"
 msgid "Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Cavalaria [KA]"
+msgstr "Auxiliar de MG de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_nco"
 msgid "Cavalry Squadleader [KA]"
@@ -1166,7 +1166,7 @@ msgstr "Sapador de Cavalaria Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_sap_mg_asst"
 msgid "Cavalry Sapper MG Asst. [KA]"
-msgstr "Sapador de Cavalaria Auxiliar de Metralhadora [KA]"
+msgstr "Sapador de Cavalaria Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_sap_nco"
 msgid "Cavalry Sapper Squadleader [KA]"
@@ -1178,7 +1178,7 @@ msgstr "Sapador de Reconhecimento de Cavalaria Operador de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_sap_recon_mg_asst"
 msgid "Cavalry Recon Sapper MG Asst. [KA]"
-msgstr "Sapador de Reconhecimento de Cavalaria Auxiliar de Metralhadora [KA]"
+msgstr "Sapador de Reconhecimento de Cavalaria Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/early/cav_sap_recon_nco_sa"
 msgid "Cavalry Recon Sapper Squadleader [KA]"
@@ -1206,7 +1206,7 @@ msgstr "Operador de MG Cossaco [KA]"
 
 msgctxt "desc/human/mp/rus/early/cossack_mg_asst"
 msgid "Cossack MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora Cossaco [KA]"
+msgstr "Auxiliar de MG Cossaco [KA]"
 
 msgctxt "desc/human/mp/rus/early/cossack_recon_nco"
 msgid "Cossack Recon Squadleader [KA]"
@@ -1226,7 +1226,7 @@ msgstr "Operador de MG de Reconhecimento de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_recon_mg_asst"
 msgid "Mountain Recon MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Reconhecimento de Montanha [KA]"
+msgstr "Auxiliar de MG de Reconhecimento de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/early/mountain_recon_nco"
 msgid "Mountain Recon Squadleader [KA]"
@@ -1262,7 +1262,7 @@ msgstr "Operador de MG da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_mg_asst"
 msgid "Glider MG Asst. [VVS]"
-msgstr "Auxiliar de Metralhadora da Infantaria de Planadores [VVS]"
+msgstr "Auxiliar de MG da Infantaria de Planadores [VVS]"
 
 msgctxt "desc/human/mp/rus/early/para_glider_nco"
 msgid "Glider Squadleader [VVS]"
@@ -1322,7 +1322,7 @@ msgstr "Operador de MG de Reconhecimento [KA]"
 
 msgctxt "desc/human/mp/rus/early/recon_mg_asst"
 msgid "Recon MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Reconhecimento [KA]"
+msgstr "Auxiliar de MG de Reconhecimento [KA]"
 
 msgctxt "desc/human/mp/rus/early/sapper_builder"
 msgid "Sapper Engineer [KA]"
@@ -1346,7 +1346,7 @@ msgstr "Operador de MG da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/mid/elite_guard_mg_asst"
 msgid "Elite Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda de Elite [KA]"
+msgstr "Auxiliar de MG da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/mid/elite_guard_nco"
 msgid "Elite Guards Squadleader [KA]"
@@ -1374,11 +1374,11 @@ msgstr "Desantnik Operador de MG da Guarda [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/guard_para_mg_asst"
 msgid "Guards Desantnik MG Asst. [VVS]"
-msgstr "Desantnik Auxiliar de Metralhadora da Guarda [VVS]"
+msgstr "Desantnik Auxiliar de MG da Guarda [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/guard_para_mg_asst_dt"
 msgid "Guards Desantnik MG Asst. [VVS]"
-msgstr "Desantnik Auxiliar de Metralhadora da Guarda [VVS]"
+msgstr "Desantnik Auxiliar de MG da Guarda [VVS]"
 
 msgctxt "desc/human/mp/rus/mid/guard_para_mg_dt"
 msgid "Guards Desantnik MG Operator [VVS]"
@@ -1426,7 +1426,7 @@ msgstr "Marine Operador de MG [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_reg_mg_asst"
 msgid "Marine MG Asst. [VMF]"
-msgstr "Marine Auxiliar de Metralhadora [VMF]"
+msgstr "Marine Auxiliar de MG [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/marine_reg_nco"
 msgid "Marine Squadleader [VMF]"
@@ -1454,7 +1454,7 @@ msgstr "BSF Fuzileiro Naval [VMF]"
 
 msgctxt "desc/human/mp/rus/mid/mg_asst_dt"
 msgid "MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora [KA]"
+msgstr "Auxiliar de MG [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mg_dt"
 msgid "MG Operator [KA]"
@@ -1466,7 +1466,7 @@ msgstr "Operador de MG de Cavalaria de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_cav_mg_asst"
 msgid "Mountain Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Cavalaria de Montanha [KA]"
+msgstr "Auxiliar de MG de Cavalaria de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/mid/mountain_cav_nco"
 msgid "Mountain Cavalry Squadleader [KA]"
@@ -1502,7 +1502,7 @@ msgstr "Operador de MG [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mg_asst"
 msgid "MG Asst. [NKVD]"
-msgstr "Auxiliar de Metralhadora [NKVD]"
+msgstr "Auxiliar de MG [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mountain_cav_mg"
 msgid "Mountain Cavalry MG Operator [NKVD]"
@@ -1510,7 +1510,7 @@ msgstr "Operador de MG de Cavalaria de Montanha [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mountain_cav_mg_asst"
 msgid "Mountain Cavalry MG Asst. [NKVD]"
-msgstr "Auxiliar de Metralhadora de Cavalaria de Montanha [NKVD]"
+msgstr "Auxiliar de MG de Cavalaria de Montanha [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mountain_cav_nco"
 msgid "Mountain Cavalry Squadleader [NKVD]"
@@ -1538,7 +1538,7 @@ msgstr "Operador de MG de Montanha [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mountain_mg_asst"
 msgid "Mountain MG Asst. [NKVD]"
-msgstr "Auxiliar de Metralhadora de Montanha [NKVD]"
+msgstr "Auxiliar de MG de Montanha [NKVD]"
 
 msgctxt "desc/human/mp/rus/mid/nkvd_mountain_nco"
 msgid "Mountain Squadleader [NKVD]"
@@ -1634,7 +1634,7 @@ msgstr "Operador de MG de Reconhecimento [KA]"
 
 msgctxt "desc/human/mp/rus/mid/recon_mg_asst"
 msgid "Recon MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Reconhecimento [KA]"
+msgstr "Auxiliar de MG de Reconhecimento [KA]"
 
 msgctxt "desc/human/mp/rus/mid/rifle"
 msgid "Rifleman [KA]"
@@ -1686,11 +1686,11 @@ msgstr "Operador de MG de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_mg_asst"
 msgid "Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Cavalaria [KA]"
+msgstr "Auxiliar de MG de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_mg_asst_smg"
 msgid "Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Cavalaria [KA]"
+msgstr "Auxiliar de MG de Cavalaria [KA]"
 
 msgctxt "desc/human/mp/rus/late/cav_nco"
 msgid "Cavalry Squadleader [KA]"
@@ -1750,11 +1750,11 @@ msgstr "Operador de MG da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_mg_asst"
 msgid "Elite Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda de Elite [KA]"
+msgstr "Auxiliar de MG da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_mg_asst_smg"
 msgid "Elite Guards MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Guarda de Elite [KA]"
+msgstr "Auxiliar de MG da Guarda de Elite [KA]"
 
 msgctxt "desc/human/mp/rus/late/elite_guards_nco"
 msgid "Elite Guards Squadleader [KA]"
@@ -1814,11 +1814,11 @@ msgstr "Operador de MG da Cavalaria da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_mg_asst"
 msgid "Guards Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Cavalaria da Guarda [KA]"
+msgstr "Auxiliar de MG da Cavalaria da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_mg_asst_smg"
 msgid "Guards Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora da Cavalaria da Guarda [KA]"
+msgstr "Auxiliar de MG da Cavalaria da Guarda [KA]"
 
 msgctxt "desc/human/mp/rus/late/guards_cav_nco"
 msgid "Guards Cavalry Squadleader [KA]"
@@ -1926,7 +1926,7 @@ msgstr "Operador de MG de Cavalaria de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/late/mountain_cav_mg_asst"
 msgid "Mountain Cavalry MG Asst. [KA]"
-msgstr "Auxiliar de Metralhadora de Cavalaria de Montanha [KA]"
+msgstr "Auxiliar de MG de Cavalaria de Montanha [KA]"
 
 msgctxt "desc/human/mp/rus/late/mountain_cav_nco"
 msgid "Mountain Cavalry Squadleader [KA]"

@@ -10,9 +10,52 @@
     "dialogue": "Usar português natural, preservar urgência, destinatários e instruções; não inventar referências culturais brasileiras.",
     "technical": "Preservar variáveis e estilos. Ajustes numéricos de posicionamento já existentes são permitidos, mas alterações na quantidade de marcadores exigem revisão.",
     "punctuation": "Não usar travessão U+2014 nos textos PT-BR. Usar pontuação comum adequada à frase; rótulos podem usar dois-pontos ou hífen simples. Não alterar originais ingleses nem evidências históricas para aplicar essa preferência.",
-    "status": "Revisão independente pelo inglês e comparação histórica registradas em adversarial-review-2026-10-13.json, além da passagem contextual anterior em context-review-2026-10-13.json. O glossário registra escolhas por sentido; context-quality.json protege decisões específicas e semantic-features.mjs protege características delimitadas da fonte, não substituições globais ou certificação de perfeição/fatos históricos. Leitura textual e de configurações não é teste visual ou jogável."
+    "status": "Revisão independente pelo inglês e comparação histórica registradas em adversarial-review-2026-10-13.json; a padronização local de componentes e famílias de rótulos está em label-consistency-review-2026-10-13.json. O glossário registra escolhas por sentido; context-quality.json protege decisões específicas, semantic-features.mjs protege características delimitadas da fonte e label-consistency.mjs protege convenções editoriais declaradas. Não são substituições globais nem certificação de perfeição/fatos históricos. Leitura textual e de configurações não é teste visual ou jogável. A revisão funcional e as chamadas nativas estão registradas em functional-review-2026-10-13.json, mission-context-review-2026-10-13.json e mission-contract-review-2026-10-13.json; legibilidade é triagem sem simulação de tela/áudio."
   },
   "terms": [
+    {
+      "source": "Scout [Maavoimat]",
+      "translation": "Batedor [Maavoimat]",
+      "scope": "Rótulo individual finlandês nas três épocas. Falas genéricas de reconhecimento usam batedor/batedores naturalmente, sem impor maiúsculas ou substituir automaticamente outros tipos de Scout."
+    },
+    {
+      "source": "Tankmen / Tank Crew",
+      "translation": "tripulantes de tanque / tripulação de tanque",
+      "scope": "Plural de pessoas em reforços: Tripulantes de tanque. O conjunto da tripulação continua tripulação; não confundir com guarnição de arma coletiva."
+    },
+    {
+      "source": "Over / Out em rádio",
+      "translation": "Câmbio / Encerro",
+      "scope": "Over passa a palavra e pede resposta; Out encerra sem pedir resposta. Seis terminações de Dyle conferidas por fonte exata.",
+      "exceptions": "Não aplicar a zoom out, watch out, move out ou a guerra acabou. Equivalência lexical, sem certificar protocolo histórico WWII.",
+      "evidence": [
+        "https://www.sislaer.fab.mil.br/TerminalWebCENDOC/VisualizadorHtml?codigoArquivo=39966&tipoMidia=0",
+        "https://mobilesystems.nz/blogs/blog-news/radio-etiquette-a-beginners-guide-for-professional-communication"
+      ]
+    },
+    {
+      "source": "man a gun / man a howitzer",
+      "translation": "guarnecer um canhão / guarnecer um obuseiro",
+      "scope": "Ordens para ocupar e operar peças de artilharia. Tripular continua válido para veículos; man sem objeto comprovado exige contexto."
+    },
+    {
+      "source": "Silenced Nagant pistol em Tikhvin",
+      "translation": "revólver Nagant com silenciador",
+      "scope": "Referência à arma nagant_silencer da missão, alinhada ao rótulo da UI. Não acrescentar M1895 à fala curta.",
+      "exceptions": "A legenda inglesa usa pistol e a UI usa Revolver. Alinhamento do mesmo equipamento, não equivalência global de pistol/revolver nem certificação histórica."
+    },
+    {
+      "source": "4.5in M1 Howitzer em menu_usa/114mm_m1",
+      "translation": "Canhão M1 de 4.5 pol.",
+      "scope": "Menu Cobra comprovado por evento/tag/entidade e menu Airborne harmonizado pelo mesmo identificador técnico/calibre/modelo e ficha global unívoca.",
+      "exceptions": "Airborne sem caller independente comprovado. Fonte EN preservada; não substituir todos os obuseiros M1 nem converter calibres nominais."
+    },
+    {
+      "source": "Churchill Mk.IV (QF 75-pdr) em reinf_eng",
+      "translation": "Churchill Mk.IV (QF 75mm)",
+      "scope": "Nome localizado do mesmo objeto churchill_mk4_qf75 identificado pelo menu Goodwood e pela ficha EN/PT da UI.",
+      "exceptions": "Alinhamento explícito de uma divergência interna da fonte; não regra global pdr para mm."
+    },
     {
       "source": "Pathfinder",
       "translation": "precursor paraquedista",
@@ -43,8 +86,8 @@
       "source": "MG",
       "translation": "metralhadora",
       "shortForm": "MG",
-      "scope": "MG mantido nos rótulos compactos existentes.",
-      "exceptions": "Preservar integralmente designações como MG 34, MG 42 e MG 311(f). Validar espaço antes de expandir os rótulos."
+      "scope": "MG é a forma editorial compacta nos componentes de rótulos individuais explicitamente MG Operator, MG Asst., MG Crew e MG Crew Asst.: Operador de MG, Auxiliar de MG, Guarnição de MG e Auxiliar da Guarnição de MG. Modificadores como Motorizado conservam seu sentido e posição gramatical natural.",
+      "exceptions": "Preservar integralmente modelos MG 34, MG 42 e MG 311(f), e diferenças LMG/HMG/SMG. Fontes por extenso Machine Gun/Machinegun e prosa podem usar metralhadora. A forma curta não mistura operador, auxiliar e guarnição nem comprova largura testada no jogo."
     },
     {"source": "Hull", "translation": "casco", "scope": "Posição de arma: do casco."},
     {"source": "Turret", "translation": "torreta", "scope": "Posições de arma e descrições do mesmo componente em veículos. Torre é sinônimo técnico válido; torreta é a forma editorial preferida para consistência com a interface. Não acrescentar uma torreta onde a fonte não descreve esse componente."},
@@ -58,7 +101,15 @@
     {"source": "MP / SP", "translation": "multijogador / jogador único", "scope": "Filtros/tipos de mapa e compatibilidade de mods; MP não é o recurso de pontos de mão de obra nesses contextos."},
     {"source": "2IC", "translation": "subcomandante", "scope": "Função de segundo no comando da companhia/seção indicada; não inventar patente nem interpretar como 2º comandante de lista."},
     {"source": "Stick magazine", "translation": "carregador tipo caixa", "scope": "Oposto a drum/tambor; não inferir forma reta. PPSh-41 tem contexto próprio, diferente da Thompson."},
-    {"source": "Partisan", "translation": "guerrilheiro / partisano", "scope": "Combatente irregular/resistência; não partidário político. Registro narrativo e identidade iugoslava podem justificar partisano."},
+    {
+      "source": "Partisan",
+      "translation": "guerrilheiro / partisano",
+      "scope": "Combatente irregular/resistência, não partidário político. Guerrilheiro é a forma editorial nos rótulos e referências genéricas soviéticas desta revisão. Partisans e partisano são palavras portuguesas válidas; identidade iugoslava e nomes de formações podem justificar partisano.",
+      "evidence": [
+        "https://dicionario.priberam.org/partisans",
+        "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/partis/"
+      ]
+    },
     {"source": "Ostfront / Talvisota / Liberation / Airborne / Finest Hour / Jubilee / Supporter Pack / Scorched Earth", "translation": "Preservar títulos comerciais", "scope": "Identificação de DLC/pacote; palavras comuns em fala ou descrição geográfica não seguem automaticamente essa regra."},
     {"source": "Anti-tank", "translation": "antitanque", "shortForm": "AT", "scope": "Abreviação mantida apenas nos rótulos compactos existentes; preservar modelos."},
     {"source": "Approach", "translation": "acesso / via de acesso", "scope": "Via pela qual se chega a uma posição militar."},
@@ -100,7 +151,7 @@
     {"source": "Recce Section + person role", "translation": "cargo da seção de reconhecimento", "scope": "Comandante, subcomandante e morteirista da seção indicada; Reconhecimento qualifica a seção, não deve ficar solto antes da função. Não expandir formação por analogia com outras unidades."},
     {"source": "Flare (USA 105mm/155mm/203mm 'Air')", "translation": "sinalizador (USA 105mm/155mm/203mm 'Explosão Aérea')", "scope": "Somente os três sinalizadores VT desc/ammo/flare_usa artillery_105_vt, _155_vt e _203_vt. Scripts de interação e fragmentação identificam o modo airburst. Não generalizar Air para avião, antiaéreo ou qualquer palavra-código.", "records": "translation/offline-review-2026-10-08.json#sourceEvidence"},
     {"source": "Sharp / Soft", "translation": "Duro / Suave", "scope": "Extremos da atenuação do pincel de terreno no editor, em landmanager/sharp e landmanager/soft. Manual oficial incluído na instalação, página 4. Não aplicar a nitidez de imagem ou outros controles de nome semelhante.", "records": "translation/offline-review-2026-10-08.json#sourceEvidence"},
-    {"source": "inch / pdr / pounder", "translation": "pol. ou polegadas / preservar designações pdr", "scope": "Localizar inch em rótulos descritivos, inclusive calibres nominais aprovados nesta revisão, conservando valor, modelo, ML/BL/QF e Mk. Não converter automaticamente nomes de armas para mm ou kg. Preservar 2-pdr/6-pdr/17-pdr/25-pdr como identificações de artilharia.", "evidence": ["https://collection.nam.ac.uk/detail.php?acc=1992-10-144-348", "https://tankmuseum.org/article/comets-gun/", "https://www.awm.gov.au/collection/REL%3A19319"]},
+    {"source": "inch / pdr / pounder", "translation": "pol. nos rótulos curtos; polegadas na prosa / preservar designações pdr", "scope": "Localizar inch em nomes descritivos, conservando valor nominal, modelo, ML/BL/QF e Mk. Uniformizar nomes de arma, munição, entidade, doutrina e reforço com pol.; por extenso continua válido na prosa. Não converter automaticamente armas para mm ou kg. Preservar 2-pdr/6-pdr/17-pdr/25-pdr como identificações de artilharia.", "evidence": ["https://collection.nam.ac.uk/detail.php?acc=1992-10-144-348", "https://tankmuseum.org/article/comets-gun/", "https://www.awm.gov.au/collection/REL%3A19319"]},
     {"source": "Close combat", "translation": "combate a curta distância", "scope": "Descrições de esquadras de fuzileiros britânicas/americanas em info/squad/riflemans(eng/usa): contraste entre alcance longo/médio e submetralhadoras inimigas. Não aplicar universalmente: combate desarmado ou com armas brancas pode ser corpo a corpo."},
     {"source": "Forward Artillery Observer Signalman", "translation": "radioperador do observador avançado de artilharia", "scope": "Doze papéis britânicos de comunicações com ícone signaller e eng_radio; oficial observador separado. Não transformar radioperador em um segundo observador nem converter função em patente.", "records": "translation/context-review-2026-10-13.json"},
     {"source": "AT Rifleman", "translation": "atirador com fuzil antitanque", "scope": "Cinco rótulos da referência: reforço de Kollaa, unidade defensiva de Trap, Pionier alemão mid e sapadores de assalto soviéticos mid/late. Inventários e entidades identificam Boys, PzB39 ou PTRS conforme o caso. Não acrescentar esses modelos aos rótulos nem aplicar a infantaria AT com outro armamento por analogia.", "records": "translation/adversarial-review-2026-10-13.json"},
@@ -108,7 +159,14 @@
     {"source": "SMOKE / MG on US helmets", "translation": "FUMAÇA / Major-General", "scope": "SMOKE como palavra descritiva em tags de munição, preservando WP/HE/HC/BE e códigos. MG no capacete M1 designa a patente US Major-General, não metralhadora; não converter para patente brasileira. MG34/MG42 e MG de arma seguem suas políticas próprias."},
     {"source": "Pour In / Pour Out", "translation": "Adicionar combustível / Despejar combustível", "scope": "Somente actionbar/pour_in e actionbar/pour_out: domínio de líquido comprovado por animações de recipientes e item fuel. Não é embarque/desembarque de tripulação. Os rótulos conservam destino implícito sem afirmar uma direção veículo/bidão ainda não demonstrada pelo mapeamento dos ícones.", "records": "translation/adversarial-review-2026-10-13.json"},
     {"source": "HOME / BACK / DELETE", "translation": "Preservar nomes de teclas", "scope": "Somente options/keys/keymap/key_home, key_back e key_delete. Botões de início, voltar e excluir continuam traduzidos. BACK não foi equiparado a BACKSPACE por inferência.", "records": "translation/adversarial-review-2026-10-13.json"},
-    {"source": "ford / fording", "translation": "vau / travessia a vau", "scope": "Travessia rasa de rio, como os objetivos de Glushkovo que distinguem a ponte da passagem a vau. Ford de fabricante/modelo de caminhão permanece intacto; não substituir a palavra globalmente.", "records": "translation/adversarial-review-2026-10-13.json"}
+    {"source": "ford / fording", "translation": "vau / travessia a vau", "scope": "Travessia rasa de rio, como os objetivos de Glushkovo que distinguem a ponte da passagem a vau. Ford de fabricante/modelo de caminhão permanece intacto; não substituir a palavra globalmente.", "records": "translation/adversarial-review-2026-10-13.json"},
+    {"source": "Scope / Scoped", "translation": "Mira Telescópica", "scope": "Mesmo qualificador entre parênteses nos oito nomes de armas: Nome (Mira Telescópica), sem Com. A grafia de StG 44 e os demais modelos ficam intactos.", "exceptions": "Em prosa, com mira, mira telescópica e luneta podem ser construções naturais. Não impor o formato de nome de arma a diálogo ou descrição.", "records": "translation/label-consistency-review-2026-10-13.json"},
+    {"source": "Crew de armamento coletivo", "translation": "guarnição", "scope": "MG Crew, Flak Crew e Weapon Crew nos rótulos individuais identificados, conservando função e formação. MG Crew Asst. é Auxiliar da Guarnição de MG, não o mesmo papel de MG Operator ou MG Asst.", "exceptions": "Tank Crew, Tankman, Vehicle Crew e pessoal naval mantêm decisões próprias. Crew sem objeto comprovado não recebe guarnição por analogia."},
+    {"source": "Rifleman individual", "translation": "Atirador", "scope": "Nome da função individual e dos reforços single_rifle, incluindo Svensk Volontär. Não é Rifle Squad/Section/Team, que identifica formação. AT Rifleman conserva fuzil antitanque; Sapper composto pode conservar o papel de Sapador."},
+    {"source": "Engineer em veículo", "translation": "Engenharia", "scope": "Qualificador de função dos veículos de apoio nomeados, como Sd.Kfz 2 e GAZ-AAA. Engineer de pessoa continua Engenheiro; não confundir função de veículo e cargo."},
+    {"source": "Royal Engineers Field Section", "translation": "Seção de Campo dos Engenheiros Reais", "scope": "Forma editorial uniforme nos rótulos da mesma formação, conservando Field, ordinais e Mounted quando presentes. Não expandir para Corpo nem inventar equivalência com formação brasileira."},
+    {"source": "Flare Pistol", "translation": "Pistola Sinalizadora", "scope": "Nomes curtos das pistolas, preservando modelo e variantes, inclusive Sinalizadores de Observação do OSP-30."},
+    {"source": "Qualificadores editoriais de rótulos", "translation": "Nome (Qualificador)", "scope": "Um espaço antes dos parênteses, sem espaços internos: Inicial, Intermediário, Tardio, Rebocado, Lança-chamas, Reparo M8, Suprimentos, Fita, Tambor, Tambor Duplo. Respeitar flexão como Embarcada/Apeado e Silenciado/Silenciada.", "exceptions": "Não alterar parênteses de códigos como 38(t), SmK(H), (T), (S), calibres (75) ou níveis de doutrina. Stick em carregador, granada e dinamite tem sentidos distintos."}
   ],
   "pendingDecisions": [],
   "sourceIssues": [

@@ -107,6 +107,10 @@ node tools/source-integrity.mjs --check
 node tools/catalog-metadata.mjs --check
 node tools/context-quality.mjs --check
 node tools/semantic-features.mjs --check
+node tools/label-consistency.mjs --check
+node tools/mission-context.mjs --check
+node tools/mission-contract.mjs --check
+node tools/subtitle-readability.mjs --check
 node tools/translation-style.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
@@ -129,11 +133,32 @@ CRC32 e conteúdo byte a byte e recusa links simbólicos, arquivos inesperados e
 destinos fora de `dist/`. Não inclua arquivos gerados ou não relacionados no pull request.
 
 `semantic-features.mjs --check` acrescenta verificações por característica da fonte:
-fuzil antitanque, calibres nominais em polegadas nos rótulos examinados, nomes de
-teclas físicas e domínio de transferência de combustível. Permite alternativas
-de redação nos casos aplicáveis, em vez de exigir uma frase inteira idêntica.
-Não prova a direção operacional de um recipiente nem o sentido de todos os textos.
+modelos, variantes, calibres e classes dos equipamentos examinados, fuzil
+antitanque, teclas físicas, transferência de combustível e condições específicas
+de missão. Permite alternativas de redação nos casos aplicáveis, em vez de
+exigir uma frase inteira idêntica. Não prova a direção operacional de um
+recipiente nem o sentido de todos os textos.
 Novos sentidos e mudanças de fonte continuam exigindo revisão contextual.
+
+`label-consistency.mjs --check` compara componentes de cargos e qualificadores
+dos rótulos com convenções editoriais por sentido. Scope/Scoped compartilham
+Mira Telescópica nos nomes de armas; a prosa pode usar com mira ou luneta.
+MG Operator, MG Asst. e MG Crew conservam funções distintas. Modificadores,
+gênero, modelos e códigos não recebem uma substituição global. O registro local
+está em [padronização de rótulos](../translation/label-consistency-review-2026-10-13.json).
+
+`mission-context.mjs --check` confere inventário, associações e fingerprints do
+[registro de chamadas e cenas](../translation/mission-context-review-2026-10-13.json).
+`mission-contract.mjs --check` verifica os vínculos atuais do
+[registro de objetivos e condições](../translation/mission-contract-review-2026-10-13.json).
+Esses comandos não precisam da instalação do jogo. A estrutura de gatilhos,
+ramificações e seletores não certifica a ordem real de execução; `##` não é
+tratado automaticamente como bloco desativado.
+
+`subtitle-readability.mjs --check` examina clareza técnica das associações e
+caracteres de controle. Os avisos de extensão, expansão e linhas explícitas
+são triagem editorial, não falhas de layout. Não corta textos nem insere
+quebras; tempo de leitura estimado não equivale à duração do áudio.
 
 Se alterar os catálogos ou a referência inglesa, prepare os metadados da próxima
 versão em `translation/release.json` e as notas em `CHANGELOG.md`: tag nova,

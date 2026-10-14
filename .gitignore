@@ -14,6 +14,8 @@ __pycache__/
 # (dentro de localization/ os .pot traduzidos SÃO o produto distribuível)
 *.pot
 !localization/**/*.pot
+# Catálogos sintéticos mínimos usados pelos testes offline (não entram no pacote)
+!tools/fixtures/mission-context/**/*.pot
 
 # Binários gerados (distribuídos via GitHub Releases, não no git)
 dist/

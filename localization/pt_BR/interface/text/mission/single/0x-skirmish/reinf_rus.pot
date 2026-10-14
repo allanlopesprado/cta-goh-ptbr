@@ -89,7 +89,7 @@ msgstr "Esquadra de Infantaria"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/partisans"
 msgid "Partisans"
-msgstr "Partisanos"
+msgstr "Guerrilheiros"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/paras"
 msgid "Paratroopers"
@@ -265,7 +265,7 @@ msgstr "GAZ-AAA 72-K"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/zis5eng"
 msgid "ZIS-5(Engineer)"
-msgstr "ZIS-5(Engenharia)"
+msgstr "ZIS-5 (Engenharia)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/gaz_fuel"
 msgid "GAZ-AAA(Fuel)"
@@ -273,7 +273,7 @@ msgstr "GAZ-AAA(Combustível)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/gaz_aaa_supply"
 msgid "GAZ-AAA(Supply)"
-msgstr "GAZ-AAA(Suprimentos)"
+msgstr "GAZ-AAA (Suprimentos)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/t37a"
 msgid "T-37A"
@@ -313,7 +313,7 @@ msgstr "BT-7A"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/kht26"
 msgid "KhT-26(flame)"
-msgstr "KhT-26(lança-chamas)"
+msgstr "KhT-26 (Lança-chamas)"
 
 msgctxt "mission/single/0x-skirmish/menu_rus/t60"
 msgid "T-60 M1941"

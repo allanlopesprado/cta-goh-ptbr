@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.25",
+  "stage": "local-review-no-commit-no-publication",
+  "baselineCommit": "5eae128b6d018004c728dd7d54d73e700127688c",
+  "userDecision": "Deixar os ajustes locais para conferir primeiro; testar o jogo depois.",
+  "application": {
+    "additionalChanges": 31,
+    "additionalCatalogsChanged": 16,
+    "totalLocalChanges": 518,
+    "totalLocalCatalogsChanged": 49,
+    "approvedTextsAndAfterFileHashesVerified": true
+  },
+  "coverage": {
+    "catalogs": 362,
+    "logicalAssociations": 22030,
+    "missionCatalogs": 121,
+    "missionAssociations": 5385,
+    "staticNativeEntriesRead": 195,
+    "targetedConversationScenes": 5,
+    "targetedConversationAssociations": 54,
+    "contractCandidatePairs": 2421,
+    "objectiveOrHintCandidates": 799,
+    "manualContractGroups": 11,
+    "manualContractPairs": 15,
+    "readabilityCandidates": 2542,
+    "manuallyReadReadabilityFlags": 30,
+    "clarityRefinements": 3
+  },
+  "tests": {
+    "command": "node --test tools/*.test.mjs",
+    "tests": 268,
+    "passed": 268,
+    "failed": 0,
+    "skipped": 0,
+    "exitCode": 0
+  },
+  "checks": [
+    {
+      "command": "node tools/source-integrity.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": 363,
+        "catalogs": 362,
+        "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/catalog-metadata.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "pluralMessages": 0,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/context-quality.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "rules": 3702,
+        "files": 164,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/semantic-features.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "logicalEntries": 22030,
+        "protectedEntries": 2051,
+        "counts": {
+          "nominal-inch-calibre": 183,
+          "anti-tank-rifle-role": 5,
+          "equipment-model-identity": 1550,
+          "equipment-technical-class": 365,
+          "equipment-class-grade": 251,
+          "nominal-pounder-designation": 49,
+          "explicit-metric-calibre": 479,
+          "equipment-barrel-designation": 228,
+          "equipment-nominal-bomb-weight": 3,
+          "physical-key-name": 3,
+          "fuel-transfer-domain": 2,
+          "mission-anti-tank-rifle-reference": 1,
+          "mission-control-action": 1,
+          "mission-alarm-prohibition": 1,
+          "reviewed-source-UI-class-alignment": 2,
+          "radio-out-terminator": 3,
+          "radio-over-terminator": 3,
+          "mission-remaining-counter": 1,
+          "mission-fire-damage-reference": 1,
+          "mission-after-report-unavailability": 1,
+          "mission-near-hotel-condition": 1,
+          "mission-zone-hold-action": 4,
+          "mission-zone-minimum": 4,
+          "mission-minimum-survivors": 1,
+          "mission-survival-action": 1,
+          "reviewed-source-UI-calibre-alignment": 1
+        },
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/label-consistency.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "logicalEntries": 22030,
+        "protectedEntries": 1509,
+        "counts": {
+          "inch-label-unit": 182,
+          "ammo-double": 4,
+          "flak-crew": 3,
+          "mg-operator": 283,
+          "mg-assistant": 254,
+          "mg-crew": 22,
+          "mg-crew-assistant": 21,
+          "rifleman": 483,
+          "weapon-crew": 4,
+          "supply": 22,
+          "royal-engineers-field-section": 11,
+          "m8-carriage": 5,
+          "late": 63,
+          "early": 34,
+          "vehicle-engineer": 14,
+          "mid": 25,
+          "dismounted": 5,
+          "mounted": 38,
+          "flame": 11,
+          "drum": 9,
+          "scope": 8,
+          "belt": 4,
+          "double-drum": 1,
+          "towed": 17
+        },
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/translation-style.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/translation-audit.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": {
+          "previousEnglish": 362,
+          "portuguese": 362,
+          "currentEnglish": 362
+        },
+        "counts": {
+          "unchanged": 22030,
+          "added": 0,
+          "changed": 0,
+          "removed": 0,
+          "translatedExact": 21893,
+          "needsTranslationReview": 0
+        },
+        "addedFiles": [],
+        "removedFiles": [],
+        "changedFiles": [],
+        "issuesByType": {
+          "same-as-source-review": 3775,
+          "catalog-syntax-error": 66
+        },
+        "duplicates": 92,
+        "sourceExceptionsUsed": 1
+      }
+    },
+    {
+      "command": "node tools/mission-context.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 121,
+        "associations": 5385,
+        "issues": [],
+        "steamRequired": false,
+        "scriptValidation": "Stored fingerprints and references only; raw native script availability is not required for CI."
+      }
+    },
+    {
+      "command": "node tools/subtitle-readability.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "missionCatalogs": 121,
+        "logicalMissionAssociations": 5385,
+        "selectedDialogueAssociations": 2542,
+        "uniqueDialogueSources": 2461,
+        "referencePolicy": {
+          "referenceCharactersPerSecond": 17,
+          "longTextCharacters": 300,
+          "expansionRatio": 1.6,
+          "expansionMinimumCharacters": 150,
+          "source": "https://partnerhelp.netflixstudios.com/hc/en-us/articles/215600497-Portuguese-Brazil-Timed-Text-Style-Guide",
+          "applicability": "Reading-workload reference only, not a Gates of Hell display limit."
+        },
+        "nativeCallerSelection": 2391,
+        "advisoryCounts": {
+          "long-dialogue-template": 21,
+          "multiple-explicit-lines": 6
+        },
+        "issues": [],
+        "limitations": [
+          "Candidates selected by context or verified native dialogue caller, not every message is proven a timed subtitle.",
+          "Explicit line length is not rendered width; engine wrapping, font fallback, resolution and scale are not simulated.",
+          "Reference reading seconds are a screening estimate, never audio length or actual display duration.",
+          "Variables retain template notation; their rendered length is unknown.",
+          "No truncation or automatic hard line breaks are applied."
+        ]
+      }
+    },
+    {
+      "command": "node tools/pack-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "mode": "check",
+        "files": 363,
+        "bytes": 3809094,
+        "archiveBytes": 3878568,
+        "crc32": "verified",
+        "content": "exact expected bytes",
+        "root": "default/",
+        "locale": "pt_BR",
+        "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak"
+      }
+    },
+    {
+      "command": "node tools/release-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "tag": "v1.0.25",
+        "pakSha256": "7a3335e24ae37aabe5816a54f03f1b02718a04ffa1c8fcdd59117ccb336b5b61",
+        "pakBytes": 3878568,
+        "gameTested": false,
+        "mode": "--check"
+      }
+    },
+    {
+      "command": "node tools/mission-contract.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogues": 121,
+        "associations": 5385,
+        "candidates": 2421,
+        "objectiveOrHintCandidates": 799,
+        "manualDecisionGroups": 11,
+        "manualPairs": 15,
+        "linkedCandidates": 1989,
+        "unlinkedCandidates": 432,
+        "structuralCallerLinks": 3672,
+        "proofFingerprint": "481313d217be236503aaf0401eda8bc5cbab37509b265a4442740a2be6007552",
+        "issues": [],
+        "validationLevel": "Static current-catalogue identity, coverage, public reference fingerprints and sealed native proof; not engine execution or universal semantic certification",
+        "requiresSteam": false,
+        "requiresIgnoredWorkFiles": false
+      }
+    }
+  ],
+  "wholeByteVerification": {
+    "sourceFilesUnchanged": 363,
+    "targetFilesUnchangedThisTurn": 347,
+    "newChanges": 31,
+    "newChangedFiles": 16,
+    "totalLocalChanges": 518,
+    "totalLocalChangedFiles": 49,
+    "headTargetInventory": 363,
+    "wholeTargetBytesReconstructed": true,
+    "sourceCommentsHeadersAndUnselectedFieldsPreserved": true,
+    "historicalSnapshotsUnchanged": 9
+  },
+  "independentReview": {
+    "approvedChangeIdentityCheck": true,
+    "sourceAndProtectedTokensPreserved": true,
+    "sourceAndAllUnselectedCatalogBytesPreserved": true,
+    "headersAndFieldsPreserved": true,
+    "readmeAndOlderChangelogSectionsPreserved": true,
+    "historicalReviewSnapshotsPreserved": true,
+    "pakReconstructedInMemoryAndByteIdentical": true,
+    "readabilityMissingBindingMutationReproducedAndCorrected": true,
+    "fixtureGitIgnorePortabilityCorrected": true,
+    "radioMeaningConflictDetectedAndCorrected": true
+  },
+  "package": {
+    "file": "dist/default.pak",
+    "sha256": "7a3335e24ae37aabe5816a54f03f1b02718a04ffa1c8fcdd59117ccb336b5b61",
+    "archiveBytes": 3878568,
+    "payloadBytes": 3809094,
+    "files": 363,
+    "crc32": "verified",
+    "content": "exact expected PT-BR bytes",
+    "root": "default/",
+    "reproducibility": "Independent in-memory ZIP reconstruction byte-identical"
+  },
+  "publication": {
+    "committed": false,
+    "pushed": false,
+    "published": false,
+    "installedGameChanged": false,
+    "gameExecuted": false,
+    "gameTested": false
+  },
+  "limitations": [
+    "Static native selectors and dependency branches are not actual execution, recipient proof or a total timeline.",
+    "Candidate selection across every catalog is not a universal semantic/historical certificate; manual scopes are separately counted.",
+    "Readability estimates do not certify rendered width, actual display duration or voice synchronization.",
+    "Inherited same-as-source and source syntax diagnostics remain triage inventory, not automatically untranslated messages.",
+    "Source-side model/name conflicts were retained where the exact referenced object or role was not sufficiently demonstrated."
+  ],
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "regressionCounts": {
+    "changes": 3676,
+    "retained": 26,
+    "rules": 3702
+  },
+  "verifiedArtifacts": [
+    {
+      "file": "translation/functional-review-2026-10-13.json",
+      "bytes": 101398,
+      "sha256": "8bf4bfc0bfe93e56a937a6691c80d37a4b194db83b3d342864767785a4d7ea60"
+    },
+    {
+      "file": "translation/decision-reconciliation-2026-10-13.json",
+      "bytes": 7753,
+      "sha256": "7f160c0e4fb204f85cb7d6b15104903a87047c65c7f04cb76e73662eeb80c86c"
+    },
+    {
+      "file": "translation/mission-context-review-2026-10-13.json",
+      "bytes": 7603149,
+      "sha256": "4180ba97d8fb1f479f041f7e4adb105d9c9eee1d1bad0b847a3880b533d69acd"
+    },
+    {
+      "file": "translation/mission-contract-review-2026-10-13.json",
+      "bytes": 5899999,
+      "sha256": "0b88b087b46b7aa92693bfd80faa8cfca166abe19aa2de56b196a21db5619c39"
+    },
+    {
+      "file": "translation/subtitle-readability-review-2026-10-13.json",
+      "bytes": 91791,
+      "sha256": "ca768907cd182801b1376df94f47b8df825c7099dbb677f6e116fae85ec63b40"
+    },
+    {
+      "file": "translation/context-quality.json",
+      "bytes": 2190287,
+      "sha256": "7aae2a046812f783f8073bd9c36bb9865416d78bc3ca5760d92beb3ae9f87df1"
+    },
+    {
+      "file": "translation/glossary.json",
+      "bytes": 29871,
+      "sha256": "2368ab31dd3eab3812d27881437a23b52a72eb0ac65dc741f3171e8254365e73"
+    },
+    {
+      "file": "translation/release.json",
+      "bytes": 516,
+      "sha256": "b67c9ba89a9cdf00380a62471acbce08199f3bf5c2bf4c47d8f6e5faa0c0f6a1"
+    },
+    {
+      "file": "translation/review-v1.0.25.md",
+      "bytes": 3971,
+      "sha256": "90a8ff67bb44232b04287719362218f67ba3e2860ae62d370e38c35d9884865b"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 13989,
+      "sha256": "971e492468eb3780c46655f8ab824b8c1321c4caee801ba35d58c264feac6fa9"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 726,
+      "sha256": "1a987f27d3014b3dd78fd165742a6d0172c6d7e3c609ada188203dac01f29fba"
+    },
+    {
+      "file": ".github/CONTRIBUTING.md",
+      "bytes": 13878,
+      "sha256": "d75ce05eab2acfd0fd85010dc5cffb2a4384c69b0a9bf586c4d768bcc096eb50"
+    },
+    {
+      "file": ".github/workflows/validate.yml",
+      "bytes": 1882,
+      "sha256": "e07b4f21d83a229757daf0eee6802e277dd09d26fe09f5267aa1d1cf6cfce4d2"
+    },
+    {
+      "file": ".github/workflows/release.yml",
+      "bytes": 4469,
+      "sha256": "6e4d359a3739c0eda565cf828df36fa0f11f747d0f1f1b8947529484c1827f57"
+    },
+    {
+      "file": "dist/default.pak",
+      "bytes": 3878568,
+      "sha256": "7a3335e24ae37aabe5816a54f03f1b02718a04ffa1c8fcdd59117ccb336b5b61"
+    },
+    {
+      "file": "dist/default.pak.sha256",
+      "bytes": 78,
+      "sha256": "e619186ab34b68e0c5c176d48b5bf587deba02f2d9d07615c0641c7448f1753d"
+    },
+    {
+      "file": "dist/release-notes.md",
+      "bytes": 3490,
+      "sha256": "730ddc50e5c354021c8e1085390ff8243413b47924ddf0f462b266602fffec52"
+    },
+    {
+      "file": "tools/apply-context-review.mjs",
+      "bytes": 6620,
+      "sha256": "f0ab25e44c9d08bd9c962b4fd177b269b8bfc6edf8251e4428d44082650f7640"
+    },
+    {
+      "file": "tools/apply-context-review.test.mjs",
+      "bytes": 5395,
+      "sha256": "09daef911e4628a412643222b60e16a9b4a2c1f3817b1e346e717853dcd2f959"
+    },
+    {
+      "file": "tools/catalog-metadata.mjs",
+      "bytes": 9563,
+      "sha256": "43b0038431d63213ae601c6d951763988e829337e7c4504bdaf7582ff720f920"
+    },
+    {
+      "file": "tools/catalog-metadata.test.mjs",
+      "bytes": 6576,
+      "sha256": "4ce62d4e3f7a36274c7ed7bf294bcb15015d2a34610aa667255f02c8e92eb058"
+    },
+    {
+      "file": "tools/context-quality.mjs",
+      "bytes": 4568,
+      "sha256": "60396a1100d310251a345fac82ce683868a5a2ec16fd006c0e3a0c64baecd07e"
+    },
+    {
+      "file": "tools/context-quality.test.mjs",
+      "bytes": 5910,
+      "sha256": "6d665540cc983dab84926295b948ab6275b4979462045a0a709730c6dab13f43"
+    },
+    {
+      "file": "tools/final-review-audit.test.mjs",
+      "bytes": 1682,
+      "sha256": "c0b5952f95fe234ca84d77705c18289541a0b687434ed810c92201a0f3835aa4"
+    },
+    {
+      "file": "tools/label-consistency.mjs",
+      "bytes": 12942,
+      "sha256": "f35979af2a2915374c76330b663408c405780d1495c622b8f3c06f762df0b63a"
+    },
+    {
+      "file": "tools/label-consistency.test.mjs",
+      "bytes": 18532,
+      "sha256": "882b444d42335b115ff257ffb7ecded793d5099a8538e7c8f0548002b07fcbdf"
+    },
+    {
+      "file": "tools/mission-context.mjs",
+      "bytes": 16496,
+      "sha256": "cd73d214d05b24cf16c2ef0197a267823235b34a926487d163c5533b4841923f"
+    },
+    {
+      "file": "tools/mission-context.test.mjs",
+      "bytes": 11661,
+      "sha256": "24be1253aa2750197457dc9efda03a44f153a9134f9a86d1acae552aaae4f766"
+    },
+    {
+      "file": "tools/mission-contract.mjs",
+      "bytes": 20005,
+      "sha256": "7ee99d843d3ebb10c40f2f88d5c4b5d751e353850057f2a2f7d9eeff98505b26"
+    },
+    {
+      "file": "tools/mission-contract.test.mjs",
+      "bytes": 14327,
+      "sha256": "b0f13770aa8aea4285a30a3210125e6341e5473bd4b24ec475026f45d1992084"
+    },
+    {
+      "file": "tools/pack-translation.mjs",
+      "bytes": 17848,
+      "sha256": "4352b1c8eccd53abbf6037fd40450518c44aba75f1c8041b3ae474f61f4b3796"
+    },
+    {
+      "file": "tools/pack-translation.test.mjs",
+      "bytes": 16810,
+      "sha256": "55bd88a54347ef5739a46159ba9e0c1d8da06cab8700b13b2bdc91b5d3f96a83"
+    },
+    {
+      "file": "tools/release-translation.mjs",
+      "bytes": 6472,
+      "sha256": "867ef7cd40c2577bf6761972a3c18dea9e703a7dad966ae5a5af111f4adc1f69"
+    },
+    {
+      "file": "tools/release-translation.test.mjs",
+      "bytes": 4369,
+      "sha256": "e05427945ebf3ff2056158c0bc00234e1edc90cd75edb9e2387b3a33c6e08045"
+    },
+    {
+      "file": "tools/semantic-feature-policy.mjs",
+      "bytes": 582103,
+      "sha256": "8d068433242f24cf719ef3ecea603c0efb86ef21a4640a4f98e3c8d112540adf"
+    },
+    {
+      "file": "tools/semantic-features.mjs",
+      "bytes": 12995,
+      "sha256": "801c6220d59a3c95340d5618621a64f748afa27cbe0f95c0b050b766664f39fc"
+    },
+    {
+      "file": "tools/semantic-features.test.mjs",
+      "bytes": 33796,
+      "sha256": "ee0ea14bee1258cdb503b893deef265dc599f173b7ce8156d016dac58faada43"
+    },
+    {
+      "file": "tools/source-integrity.mjs",
+      "bytes": 3892,
+      "sha256": "3a1ae5b04483adbf08ad2e48f6885e4af66802b4541c2d58df3335438a0e7bb1"
+    },
+    {
+      "file": "tools/source-integrity.test.mjs",
+      "bytes": 4878,
+      "sha256": "23908194365d0cfdf3469edd9e67be4fc6546daa55a727ffb3e9eec41917534b"
+    },
+    {
+      "file": "tools/subtitle-readability.mjs",
+      "bytes": 10330,
+      "sha256": "aafcda40e2e2e544b5ec1fdd67bef9a9a0774c3297ec7fdfb2138bbd8b312ecf"
+    },
+    {
+      "file": "tools/subtitle-readability.test.mjs",
+      "bytes": 7175,
+      "sha256": "45066dcf5f4d8cb2b100e5ca5e38716117e6a48ff40e857b53f6ea0210e81182"
+    },
+    {
+      "file": "tools/translation-audit.mjs",
+      "bytes": 20516,
+      "sha256": "f3ff75824932dc77d22ae28a08d4e0f8c14887670d9c9f4ba9cb9e43f95a3da6"
+    },
+    {
+      "file": "tools/translation-audit.test.mjs",
+      "bytes": 10937,
+      "sha256": "a58993c08165748bb939d00473423747c6a6544317e52d70142343f57cf494b4"
+    },
+    {
+      "file": "tools/translation-style.mjs",
+      "bytes": 2140,
+      "sha256": "0a6a44467f6c1dde7c503bf4631032dc7281081401198feb44d6ca9ff4fbef09"
+    },
+    {
+      "file": "tools/translation-style.test.mjs",
+      "bytes": 2405,
+      "sha256": "36714f86527b540d1b61caaf34918f5e35958219e3a597ed61b61394f6148228"
+    },
+    {
+      "file": "tools/fixtures/mission-context/localization/en/interface/text/mission/single/test/example.pot",
+      "bytes": 309,
+      "sha256": "fe5a1faaae4f16509e77aec5b449bc80c4f48a3d5292c26b6c66619c037d4235"
+    },
+    {
+      "file": "tools/fixtures/mission-context/localization/pt_BR/interface/text/mission/single/test/example.pot",
+      "bytes": 366,
+      "sha256": "ba919ba617e3cf429e9dca5bdd3b1a6fe02f506936a949b35eed21da6c6c8d2f"
+    }
+  ],
+  "repositoryState": {
+    "branch": "codex/label-consistency-local",
+    "commit": "5eae128b6d018004c728dd7d54d73e700127688c",
+    "indexChanges": false,
+    "gitDiffWhitespaceCheckPassed": true,
+    "readmeUnchanged": true,
+    "olderChangelogSectionsUnchanged": true
+  },
+  "jsonSyntaxValidation": {
+    "allTranslationJsonParsed": true
+  },
+  "sourceAndTargetProofNotes": {
+    "totalApprovedChangedMsgstrs": 518,
+    "totalApprovedChangedCatalogs": 49,
+    "additionalStageTargetHashes": "translation/functional-review-2026-10-13.json files",
+    "nativeProofFingerprint": "481313d217be236503aaf0401eda8bc5cbab37509b265a4442740a2be6007552",
+    "historicalVariantsNotCurrentErrorCount": 871
+  },
+  "closedIntegrationFindings": [
+    {
+      "type": "readability-missing-context-binding",
+      "resolution": "Resolved binding inventory now detects missing context/catalogue and source drift; regression fixtures added."
+    },
+    {
+      "type": "mission-contract-genuinely-empty-source",
+      "resolution": "EN/PT deliberately empty template accepted; nonempty source with empty PT still rejected; regression fixtures added."
+    },
+    {
+      "type": "fixture-portability",
+      "resolution": "Two synthetic fixture POTs are included by a narrow gitignore exception; no fixture enters the pak."
+    },
+    {
+      "type": "documentation-scope",
+      "resolution": "Static selectors/candidates are not labelled live emission; superseded editorial reasons removed and24 abbreviated nominal-unit labels counted."
+    }
+  ]
+}

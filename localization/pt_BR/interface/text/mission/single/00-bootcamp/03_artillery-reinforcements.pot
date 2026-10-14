@@ -37,7 +37,7 @@ msgstr "Soldaten! Bem-vindos de volta à linha de frente! Hoje aprenderão a pos
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01"
 msgid "First, use all of your soldiers to crew the Anti-Tank gun."
-msgstr "Primeiro, use todos os seus soldados para tripular o canhão antitanque."
+msgstr "Primeiro, use todos os seus soldados para guarnecer o canhão antitanque."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01b"
 msgid "Soldiers, it's time to relocate the AT gun to a new firing position near the pond. Move it!"
@@ -73,7 +73,7 @@ msgstr "Agora vamos nos familiarizar com nosso obuseiro de campanha leve padrão
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06b"
 msgid "You now possess an ammunition truck. Crew the artillery piece and drive the truck closer to resupply your howitzer!"
-msgstr "Agora você tem um caminhão de munição. Tripule a peça de artilharia e aproxime o caminhão para reabastecer o obuseiro!"
+msgstr "Agora você tem um caminhão de munição. Guarneça a peça de artilharia e aproxime o caminhão para reabastecer o obuseiro!"
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/07"
 msgid "Soviets have arrived at the village west of our location. Use the howitzer to destroy their trucks!"
@@ -133,7 +133,7 @@ msgstr "Bem-vindo ao treinamento de artilharia, Soldado.\n\nNeste tutorial, voc�
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task1"
 msgid "Crew the AT gun with all your men."
-msgstr "Tripule o canhão AT com todos os seus homens."
+msgstr "Guarneça o canhão AT com todos os seus homens."
 
 msgctxt "mission/single/00-bootcamp/03_artillery-reinforcements/task1b"
 msgid "Move your AT gun to a new location as shown."

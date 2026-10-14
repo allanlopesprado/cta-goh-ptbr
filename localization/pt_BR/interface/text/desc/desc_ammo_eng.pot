@@ -189,7 +189,7 @@ msgstr "Projétil HE Mk.X.T de 6-pdr [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/50</c
 
 msgctxt "desc/ammo/bulleteng_20_auto ap"
 msgid "20mm AP Shot Mk.IX.T belt [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
-msgstr "Projétil AP Mk.IX.T de 20mm em fita [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr "Projétil AP Mk.IX.T de 20mm em Fita [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
 
 msgctxt "desc/ammo/bulleteng_20_auto he"
 msgid "20mm HE/HE-T Shell belt [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
@@ -329,7 +329,7 @@ msgstr "Projétil de Fumaça Mk.I.D de 3.7 pol. [<c(FFFFFF)>WP</c>] <c(65696d)>L
 
 msgctxt "desc/ammo/bulleteng_94_l50 ap"
 msgid "3.7-inch AP Shot Mk.V.T [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
-msgstr "Projétil AP Mk.V.T de 3.7 polegadas [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
+msgstr "Projétil AP Mk.V.T de 3.7 pol. [<c(ff6a00)>AP</c>] <c(65696d)>L/50</c>"
 
 msgctxt "desc/ammo/bulleteng_94_l50 he"
 msgid "3.7-inch HE Shell Mk.V [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
@@ -337,7 +337,7 @@ msgstr "Projétil HE Mk.V de 3.7 pol. [<c(ff1200)>HE</c>] <c(65696d)>L/50</c>"
 
 msgctxt "desc/ammo/bulleteng_94_l50 aphe"
 msgid "3.7-inch SAP Shot Mk.IV.T [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
-msgstr "Projétil SAP Mk.IV.T de 3.7 polegadas [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
+msgstr "Projétil SAP Mk.IV.T de 3.7 pol. [<c(ff6a00)>APHE</c>] <c(65696d)>L/50</c>"
 
 msgctxt "desc/ammo/bulleteng_95 he"
 msgid "95mm HE Shell Mk.XI.D [<c(ff1200)>HE</c>] <c(65696d)>L/18</c>"

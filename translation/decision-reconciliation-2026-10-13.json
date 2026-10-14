@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "status": "current-decisions-reconciled-local",
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "baseline": {
+    "documents": 11,
+    "rows": 10601,
+    "matchingCurrentSourceRows": 10591,
+    "distinctCurrentIdentities": 5864,
+    "olderOrUnmatchedSourceRows": 10,
+    "identitiesWithHistoricalTargetVariants": 871,
+    "policy": "Historical target variants are expected after subsequent corrections; they are not automatically conflicting current approvals or translation errors."
+  },
+  "documents": [
+    {
+      "file": "translation/adversarial-review-2026-10-13.json",
+      "sha256": "d78cd45eae68f07587a7c5d8c628b05390c8cd540ab189fa60f80f6b8131d1b4",
+      "status": "applied"
+    },
+    {
+      "file": "translation/context-quality.json",
+      "sha256": "44db423a6d731780fb74daa879ab5e95761bf8d3be4a98a2acc869fb4b9bd76c",
+      "status": "applied"
+    },
+    {
+      "file": "translation/context-review-2026-10-13.json",
+      "sha256": "d0c0946a583b738f6a657fc71d86a3bcf90b6f9702be242ba93fc755b54ed07e",
+      "status": "applied"
+    },
+    {
+      "file": "translation/expression-audit-2026-10-07.json",
+      "sha256": "20d54736c9af3e64ba1c05139578d946c5f213f8411ad10c9f4df58c1ecc7a2f",
+      "status": null
+    },
+    {
+      "file": "translation/final-review-2026-10-07.json",
+      "sha256": "f64c13858bfe68a2109237ec5a902d6edc75c7f5f4fea758da330d9517e5d68e",
+      "status": "applied"
+    },
+    {
+      "file": "translation/full-review-2026-10-07.json",
+      "sha256": "255b235c1d4ef0e91f09b8e705edc9893b7757cd7a6a9772ac38f0aec903b919",
+      "status": "applied"
+    },
+    {
+      "file": "translation/glossary.json",
+      "sha256": "7d80597693581285c9b2f595b3d5f64b009160ff0a608ba33147232473499951",
+      "status": null
+    },
+    {
+      "file": "translation/label-consistency-review-2026-10-13.json",
+      "sha256": "fae31bef1f9b91752f023f2a4de03c7bcac52ceac9cc116ed0c663beeea5eeea",
+      "status": "applied"
+    },
+    {
+      "file": "translation/offline-review-2026-10-08.json",
+      "sha256": "a8dce40bd67bf7a28191ec5c801a597a5fa643f0f9dffb38fa48b44a886d3c9c",
+      "status": "applied-validated-offline"
+    },
+    {
+      "file": "translation/proactive-review-2026-10-08.json",
+      "sha256": "19b260285017c8bf5ae3531ff2c83d87043d001f36195ee299af06384bf00ef2",
+      "status": "applied-and-byte-verified"
+    },
+    {
+      "file": "translation/reviewed-2026-10-07.json",
+      "sha256": "88a0c8ee8f15310499d345d9d6be54d2a05c499f6f361472710623927e3c9573",
+      "status": null
+    }
+  ],
+  "method": "Index records by unique file/context/exact effective source; keep each historical document as a snapshot, then record current decision and before/after in functional-review. No rollback by majority/frequency.",
+  "adjudications": [
+    {
+      "family": "partisans",
+      "status": "editorial-harmonization-not-missing-translation",
+      "changedIds": [
+        16729,
+        16896,
+        16937,
+        16942,
+        16943,
+        20700,
+        21580
+      ],
+      "decision": "Guerrilheiros para este grupo genérico e referências soviéticas; Partisans/partisano são português válido, não inglês esquecido.",
+      "references": [
+        "https://dicionario.priberam.org/partisans",
+        "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/partis/"
+      ]
+    },
+    {
+      "family": "equipment-source-ui-conflicts",
+      "status": "explicit-narrow-adjudication",
+      "changedIds": [
+        16660,
+        18892,
+        19510,
+        21262
+      ],
+      "decision": "Alinhar nomes do mesmo objeto à UI nos casos listados, com graduação da prova; nenhuma correção da fonte EN.",
+      "evidence": "functional-review nativeEvidence and mission-contract rootAdjudications",
+      "limits": "Airborne M1 harmonizado pelo dicionário/identificador, sem caller independente comprovado."
+    },
+    {
+      "family": "cromwell-iv-vi",
+      "status": "retained-source-conflict",
+      "ids": [
+        20009
+      ],
+      "decision": "Cromwell IV permanece conforme fonte: há IV no mapa e VI no reforço/narração. Sucesso verifica duas armas AT inoperáveis, sem limitar atacante. A rota de falha pela perda do tanque está explicitamente desativada; não certificar exigência de VI."
+    },
+    {
+      "family": "tali-t34-84-85",
+      "status": "retained-unresolved-referent",
+      "ids": [
+        18365
+      ],
+      "decision": "T-34/84 permanece conforme EN. Há T-34/85 no mapa, mas o caller exato de reinf/t34 não foi encontrado; presença no mapa não prova o referente do menu."
+    },
+    {
+      "family": "urquhart-name-rank",
+      "status": "retained-source-identity",
+      "ids": [
+        20178,
+        5812
+      ],
+      "decision": "Major Urquhart permanece conforme fala EN. A UI usa Major-general Elliot Urquhart; não promover patente nem substituir nome por identidade histórica sem vínculo explícito."
+    },
+    {
+      "family": "generic-function-versus-ui-class",
+      "status": "retained-contextual-wording",
+      "ids": [
+        16324,
+        19748,
+        18474,
+        18475
+      ],
+      "decision": "Função mencionada numa fala/objetivo não identifica automaticamente a classe nominal da interface."
+    },
+    {
+      "family": "historical-target-variants",
+      "status": "not-an-error-count",
+      "identities": 871,
+      "decision": "871 identidades possuem redações diferentes ao longo do histórico. São versões sucessivas esperadas, não 871 inconsistências atuais nem restaurações autorizadas."
+    }
+  ],
+  "currentRegressionManifest": "translation/context-quality.json",
+  "preservedHistoricalDocuments": [
+    {
+      "file": "translation/adversarial-review-2026-10-13.json",
+      "sha256": "d78cd45eae68f07587a7c5d8c628b05390c8cd540ab189fa60f80f6b8131d1b4",
+      "status": "applied",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/context-review-2026-10-13.json",
+      "sha256": "d0c0946a583b738f6a657fc71d86a3bcf90b6f9702be242ba93fc755b54ed07e",
+      "status": "applied",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/expression-audit-2026-10-07.json",
+      "sha256": "20d54736c9af3e64ba1c05139578d946c5f213f8411ad10c9f4df58c1ecc7a2f",
+      "status": null,
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/final-review-2026-10-07.json",
+      "sha256": "f64c13858bfe68a2109237ec5a902d6edc75c7f5f4fea758da330d9517e5d68e",
+      "status": "applied",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/full-review-2026-10-07.json",
+      "sha256": "255b235c1d4ef0e91f09b8e705edc9893b7757cd7a6a9772ac38f0aec903b919",
+      "status": "applied",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/label-consistency-review-2026-10-13.json",
+      "sha256": "fae31bef1f9b91752f023f2a4de03c7bcac52ceac9cc116ed0c663beeea5eeea",
+      "status": "applied",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/offline-review-2026-10-08.json",
+      "sha256": "a8dce40bd67bf7a28191ec5c801a597a5fa643f0f9dffb38fa48b44a886d3c9c",
+      "status": "applied-validated-offline",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/proactive-review-2026-10-08.json",
+      "sha256": "19b260285017c8bf5ae3531ff2c83d87043d001f36195ee299af06384bf00ef2",
+      "status": "applied-and-byte-verified",
+      "unchangedVerified": true
+    },
+    {
+      "file": "translation/reviewed-2026-10-07.json",
+      "sha256": "88a0c8ee8f15310499d345d9d6be54d2a05c499f6f361472710623927e3c9573",
+      "status": null,
+      "unchangedVerified": true
+    }
+  ]
+}

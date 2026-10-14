@@ -1,0 +1,1490 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.25",
+  "status": "screened-and-editorially-reviewed-local",
+  "policy": {
+    "referenceCharactersPerSecond": 17,
+    "longTextCharacters": 300,
+    "expansionRatio": 1.6,
+    "expansionMinimumCharacters": 150,
+    "source": "https://partnerhelp.netflixstudios.com/hc/en-us/articles/215600497-Portuguese-Brazil-Timed-Text-Style-Guide",
+    "applicability": "Reading-workload reference only, not a Gates of Hell display limit."
+  },
+  "policyScope": "The 17 characters/second reference estimates reading workload only; no cinema width/two-line rule or metric-conversion guidance is imposed on game subtitles.",
+  "coverage": {
+    "catalogs": 362,
+    "missionCatalogs": 121,
+    "logicalMissionAssociations": 5385,
+    "selectedDialogueAssociations": 2542,
+    "uniqueDialogueSources": 2461,
+    "nativeCallerSelection": 2391,
+    "manuallyReadFlaggedAssociations": 30,
+    "refinedAssociations": 3
+  },
+  "baselineAdvisoryCounts": {
+    "long-dialogue-template": 24,
+    "multiple-explicit-lines": 6
+  },
+  "currentAdvisoryCounts": {
+    "long-dialogue-template": 21,
+    "multiple-explicit-lines": 6
+  },
+  "issues": [],
+  "sourceAndTargetFingerprints": [
+    {
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "englishSha256": "cbca355709dc727c81c78d9793b4f1b5ad2cc97a7ec6e41bc9e28b8b85c3796b",
+      "portugueseSha256": "a41ebc52b7c1efa6b598fc1870506957c3ad98483b9d89dd1f8ef46dcd209aa8"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/02_vehicle-control.pot",
+      "englishSha256": "3a84b031e43081a2b0e37ff24159aab7a3369b0f37cbbe53e3e8abc492ea6900",
+      "portugueseSha256": "370ad95c06c0b51bd5296a86a18c03a7c5904052d2839d4d9fa8f446be56fd3e"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "englishSha256": "e7f767d99947f107df52d1ae95fa64a275d2071735c6dba748ee3764a1cd745b",
+      "portugueseSha256": "dffcf302f740f54c122ea87ef4d2746ab52ce86de5cdfd18562599f95cc39bab"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/04_reinforcements-offmap-support.pot",
+      "englishSha256": "16ee8c0db15a37889cd8f9c790817a9f39494c6110bb5a61c3075d18b9bd3e7c",
+      "portugueseSha256": "02f66e834604d7bb395be8bd76d45250ac2dd724e0caed4cdf6e8b6e5e2f3497"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "englishSha256": "a0e3fbfb1e96d3d79d648cd6531c9e19852433c6ac01bb8d352110741dc4df8c",
+      "portugueseSha256": "2e7a2cb3a4174682be96a7a458e8d2252acc985dfdd23233ee7a11a795cfc982"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "englishSha256": "f687c13b55e8e9b075febc4749ed8623ef9f963ef562a8a6e07452cafb4910b0",
+      "portugueseSha256": "3c3d713ab7911a1a04dc1210106699939beac85305aed72e1922ba6a4881d5fd"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/campaign.pot",
+      "englishSha256": "80075ea54db352bee82bed834b56c182a233e99f99b5bc24cd8ad367ea2d307f",
+      "portugueseSha256": "469c5781121d8cd5cc2fcb28453fada8dc48dd2ccd2e3b288615933c0e795be2"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1941_11_typhoon.pot",
+      "englishSha256": "1238314e622aed5c849c7409519ff7ae3fbb7348088e637b0f03e9d0fc7a7061",
+      "portugueseSha256": "8b7fbdc22b0a2edd5518e7debc4060bedf4d3e4bcea33f115912c56cd8288fd4"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1941_12_tikhvin.pot",
+      "englishSha256": "37aa8739f6f6c59ef9b81e7f9d5ce941cf6aeb96765130bd61e1a8a9351a2ebb",
+      "portugueseSha256": "00b2afaace053e850da5491f189baa1dea6ce1855e9ed2ce0af9b24d362cac05"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_05_kerch.pot",
+      "englishSha256": "42c4de444fd53240d436c07f5f46fe3e64f96f63ccf12bf4c4ddf1c70f5d136c",
+      "portugueseSha256": "632d7cddf95898b0b4273fb92969a4f9b4c45f9fd64436af2d0362ca497c7e79"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_09_pavlovs_house.pot",
+      "englishSha256": "320b2a5150ca085548ac7246c89da4c5718731b4ac0e30daaa22f73a1e9a62d3",
+      "portugueseSha256": "d5351c4deca3d977ba926b971f3e56398f7fab1eb5824fe5f154674aca763f46"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "englishSha256": "2410ccf0765564a892b0b9dc906c6d3c3d8d55268105455e3084a062d00be702",
+      "portugueseSha256": "e417d3a5017238fb85242cbdeb4fa755cb8ad39ed32db675a6370a07c7da685a"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_12_winterstorm.pot",
+      "englishSha256": "c3e0eaf6cdd10b46d12b05d33ba64faf2565895b92cbe3a374baa970c8026e44",
+      "portugueseSha256": "384a1bead1f74b7419886aa64501a786d0c2b2dad088f9240afacbd223e51673"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_07_ponyri.pot",
+      "englishSha256": "4d0b4f1fd865ae3a794cbe42e50810b2cf777784fc07036d798fe7a6b727e34d",
+      "portugueseSha256": "66802477687e2bf3a3b4105eb32b8bdca64626353e4b7f896b4d1ed1889853e8"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "englishSha256": "c5cf426e2ba4fe95d498dcaf7f438fd7f6178d208b4b134f96c41ba89870ca18",
+      "portugueseSha256": "4787deaa79bb08a6dfae53006593512ebf2df1ccb4339973c606ca276d5a3e9f"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1944_10_courland.pot",
+      "englishSha256": "a1a420c50bf6b0c8c12c2e2efec3959bd6bc8b38cf2a5230cf9cbe24f66875ef",
+      "portugueseSha256": "5c883abd4a27ff41ebcdc4f8cc7aced63ee43d207508f391df1514129a83ac6d"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1945_04_konigsberg.pot",
+      "englishSha256": "608fca20a11a1dfa68ab8c458d74b70d148b1f95cb50e5f2263897c064a000dd",
+      "portugueseSha256": "8f5a4f323777b44e216e9b85daacdc040252e2dc7e38cafca85043cd9768f82a"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/campaign.pot",
+      "englishSha256": "207df54dc65745d1ee8c8d02690bfe86017ed626d7605803f8aee0e3d1c32626",
+      "portugueseSha256": "ca7578c0b40ee31a6348665ccade499f7ed30c26f7a1963d3e560a7bbf549480"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus_skirmish/campaign.pot",
+      "englishSha256": "039177ede83c1da87646d6053b3b7ff6a0e31fb0a99cddbae5263455a6f8acfa",
+      "portugueseSha256": "fc5938f0bfc2a8550944c22a7dd09887ed11b8d9fea4ad33ba6f98dd51d25762"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1941_10_glushkovo.pot",
+      "englishSha256": "ec379d86507b0ed08e06941e568333ba4d5d5a594e1eec270c71ca998fc1c355",
+      "portugueseSha256": "054514ce791288a6cf475e5d5ebb1cdd0297ef43f7f6bd794deed10cf960417b"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_01_vyazma.pot",
+      "englishSha256": "5fad74c59fd78c5e5ee1727ac6eb9fd2afde3dd95c077b6bceadb908147f9f28",
+      "portugueseSha256": "ec5fa384cc729bd65c7c3ea8734567bb91aef789a1fa1d0c77297de48b5a314c"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_06_sevastopol.pot",
+      "englishSha256": "50783c4e03381eab37c7763a8e16f46bbe3f548b960c479a651e356f6526755f",
+      "portugueseSha256": "6d638852b3f671d537fb7f353a718fb447b01af5eacf4522f71aa187291098a9"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_09_elbrus.pot",
+      "englishSha256": "820fb7ec1fd1f3a03bb1fd7f4fe9373425325e23b2892fe641d91a5ab4671208",
+      "portugueseSha256": "6e5b0d381bf96fc5dc51ae5daee13557decb3cb4af0f67aca27dfe25eb5db2b6"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_02_krasny_bor.pot",
+      "englishSha256": "1f655e2846578fd23b37a0d479f24900b4c9bc8e1dfb5475ac398639b71a2b29",
+      "portugueseSha256": "9777047804e8fcae66dfd8f4b2e68577e9854e6e84fc38e2d47c625b0f4ae2c7"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_07_petrovka.pot",
+      "englishSha256": "61b3d68463f48659afc9497cf2ab67d68214d52b0af1abde135fca29d4967f6e",
+      "portugueseSha256": "b24c20c65e6644a423d9adc2839386e7dd39d733140c06b7c47b8382dee23a0b"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_11_wotan.pot",
+      "englishSha256": "287fc08c5f07945194a784cbb4b1e2e46d6eb972f1d4e357d0c3895ce122b956",
+      "portugueseSha256": "10f31ddde2d9191b12bc604fe02ecee154eef724d68c405e6438f77d2184af09"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1944_03_narva.pot",
+      "englishSha256": "b04056fc1e8615b682180d9acaf54f4b3623e0d513e87dab08391dec8f762f1b",
+      "portugueseSha256": "baf9964c5b886825a3b85e3998a111332d47451ac922e986a02309d589744e34"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1944_09_yugoslavia.pot",
+      "englishSha256": "88b1db6a40e62aef5ee3638923423d339b84920b3c603bfe78fd6c84e47497e9",
+      "portugueseSha256": "f4362c21ef8b992d85f9f646b511eee81afcb28012d5476e88d69371a617c9dd"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1945_03_spring-awakening.pot",
+      "englishSha256": "9f987bbd66d42a603dbf5e09b3e70ed8d6be3cefbcb9e7dd415fa1922ac401f4",
+      "portugueseSha256": "b843e9b2eceea98ea15a579312293565f60a40de2353b18c450c6b9062e8842c"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/campaign.pot",
+      "englishSha256": "90f3739e9a9018d9d260d07e139cff0ca4a186edc331c5c884d717f5c5ab6990",
+      "portugueseSha256": "b38e2cb4a73a05a71f7e2a603c9a74f4ff51213887e38a4d6d42528018e7342b"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger_skirmish/campaign.pot",
+      "englishSha256": "7d5945fc1e5fbda80b9f1ad8ce331c1b38a603993d83c37dbc2b3c48d0f74b7f",
+      "portugueseSha256": "3b89bc19d337fd28f4de9ffb089283fac0fb1964334c807c1ee0c88748c77dfd"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_06_saint_lo_hills.pot",
+      "englishSha256": "43e21c10d9abeb158451437763cb00c1bdf9666f9388357468f29dd9e3b3340c",
+      "portugueseSha256": "b2cade7511feb88bdc226a994adc35f77260d110b260697870b75b11d53cc184"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_08_07_luttich.pot",
+      "englishSha256": "aa667925f616da9bb6f05cc412236e7ed33df3b9eeb7f46f10b0f2bd32b2e427",
+      "portugueseSha256": "2ddff99a50030e59c6ccc1cc0a79d1cd0bfb24fae94fe50f2a446a53293c7b5d"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_08_19_falaise_escape.pot",
+      "englishSha256": "78fda9e3d1f3228a36c9ab501e8d1ed1c12c7d24d16e3c2a1676906810c4d1d7",
+      "portugueseSha256": "eb1b359ed4f8abce816207baff7b6b1cc8db8d4acc50e0865ad066e59a7ac09f"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_12_samree.pot",
+      "englishSha256": "71b64ffe2bfcd42fbce3db7cd160e76bf7eccc164f2f6c8de6bc6cdf644c78ea",
+      "portugueseSha256": "b0df3160b311a3a2f59b612cb23d4339ad27b903c11ce7bd11923f1da3b17691"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1945_01_thirimont.pot",
+      "englishSha256": "50fb2613bf5b163912eeef1354cdbb23b424c48d83a8ffb9ad53620011f59297",
+      "portugueseSha256": "d60fb407bbf2714e92f2eda5f568d471240779382f9c1c47b360a8d237660bfe"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1945_04_ruhr_pocket.pot",
+      "englishSha256": "d7d52a269de70ccfbfc8839991b5afa4e769fc49e0898b92b16c423556df6cce",
+      "portugueseSha256": "bb018681ccb0fa2cfb1280a561fbaffb1c8c80b4be409d5e7cee112b46945e13"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/campaign.pot",
+      "englishSha256": "9a552fdcb91816899305ef85dd0358ef14c1c44240e858424a0b9264508c638d",
+      "portugueseSha256": "3c8320ec3f7a8496f98c72b8f836fd345a7fde28e0c9bf6f4f18e803f57ec624"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_kollaa.pot",
+      "englishSha256": "980d26643ec2b54eab97094a005462eb68d82974747e50342c137c4e405765fc",
+      "portugueseSha256": "a7dee70d797a22fffec8f10f88ac45c1b8adf3b1e32f615f214cea845ed29a21"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_summa.pot",
+      "englishSha256": "d8eff57e453c546706f98513f3ac018a37b96d512dec920a86139b0cdac1065d",
+      "portugueseSha256": "cdd582fab5ffaa9d6e4a2113a0a93abf2d46253966f4273629a1c9d90178a121"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1940_01_raate_road.pot",
+      "englishSha256": "c334fb732382a14954f9eca75dd29c1bf21331b382c88b557a0eefc485c5ab62",
+      "portugueseSha256": "70af270108f4da84b4ea7c933dea8fd95e35100e136e4d29793c8717356d7e3d"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1941_08_ino_station.pot",
+      "englishSha256": "7fe527fed762b2d60528019d4de08817ea9888e1d40fbfa919d4da0a96d7c42e",
+      "portugueseSha256": "b520a4fd02b16d543b1e0ac36616200824cab89ca0f297be54de6a46527e1b3a"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1941_08_porlampi.pot",
+      "englishSha256": "9b5b7725a3ccf6caba5f38b9d3bd1ab21444fa3623d82a2dcca1aaca22043b8a",
+      "portugueseSha256": "f1d28f8ff49d16f9521c9030ff6c5c8b9e76140cf6a99c1b2d272e9206f277aa"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_06_tali-ilhantala.pot",
+      "englishSha256": "4d6b7da0dd2283bd3efd2245e7ba83da109888cb656515c4749ea8c1608d6a5f",
+      "portugueseSha256": "8867b9a972c5d8669763c3a4249ddbaa4ec10fa63e5c9f7306dd2493a54ebd21"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1944_10_tornio.pot",
+      "englishSha256": "26907ed729672b21f0b4c0cfdb85ebb6936174b20d5004db9135508698e5a773",
+      "portugueseSha256": "31699ed1a0dbb6c3d37d425bd233f70aad67178ca15cf3d78c7ea37091ba7c50"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/campaign.pot",
+      "englishSha256": "cc0040d88d8f95a844d3905486ed099f9adf45ccfad198ffc9aff55b23148d6e",
+      "portugueseSha256": "25afaca5d41c0016af28360f439c63f1f9c1a5bca7db0a05aec6f0ae1113c580"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin_skirmish/campaign.pot",
+      "englishSha256": "f721245d7f114a59442020101dbcc40b3f6c55fc33f465136a45116227cb6001",
+      "portugueseSha256": "0d89fc9e685b0a0486d1f8cef7361fad585e3670578f445b5e2fd7cbb019b4d6"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "englishSha256": "03935848a0ca2677b74c6269d9d8bdc95986c5d15b16e9087bde5d2abe42e80f",
+      "portugueseSha256": "cc6ce9a9cee282f69aaf9a248b89ace142195751d6ffb2b947bc1947b85d0211"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_07_hedgerow_hell.pot",
+      "englishSha256": "05a82bdb0f9cada151849cddbafc3c0118cd9488f1350dd4b37726d6bca4926c",
+      "portugueseSha256": "95385a3bd1dd2afe3387acb3fc7ed8171f79f1d6f3f3ba07d7bc0d937f721736"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_07_skirmish_operation_cobra.pot",
+      "englishSha256": "45362dbcb9b28e892bf88b338cafba1e560c09e73fd32544ad2040d579cf928e",
+      "portugueseSha256": "638292e64a764930e66288e9128fece5b8a3e9f4da24b23161b9ede646d3cd6b"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_08_mortain.pot",
+      "englishSha256": "40b3bc2dfe0597b4acda6cc7209633fc34e4aaaf4448f09dd100adf06e7693af",
+      "portugueseSha256": "b9bb43d5b5591f1b5c8becb6a863c054d9cf7835f02510844a223bc323c14f00"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_08_skirmish_falaise_pocket.pot",
+      "englishSha256": "91e4438ba9610c143e1c7739efba8b57c25749457f8990e19b966daaa61961ae",
+      "portugueseSha256": "e219596335091ace77877141800f4082b76d6c63cd57dcf02787a00b6716ca10"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_10_skirmish_hurtgen_forest.pot",
+      "englishSha256": "8b21211e56b0e72609ce79e6056fa6787613ef10b8bd8024fc7a3ff6e1e82019",
+      "portugueseSha256": "df297a520f735a43387b6b150fe5aef7da54eb6f9718624fa46afa4d7f48316c"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
+      "englishSha256": "cb3a413c472b5e260c8d802d0b3e7064b416180a8f49f90e03fb8a3c6f73e9d2",
+      "portugueseSha256": "60e03993978a2ba85558d75cf2b522c018f8e0b59b76f8a8b3c8677763505050"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_hotton.pot",
+      "englishSha256": "1499d83d5c743023e0ae7f093f6569affa1ba1dce11eb7823fb5c19212f25858",
+      "portugueseSha256": "74c3a52c47b4bfbc6ef09671595c18ba8f79631fb67c7203b003f994ee4e78b9"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1944_12_skirmish_bulge.pot",
+      "englishSha256": "3a2a372d0361ea3fba31363d8a581865b436f53c491ffa3c391f993798ed9eed",
+      "portugueseSha256": "f54c80feffeb8ecd756c6e65ce2a0c0b53ac1a7ce3684bbbe5466f5d5984fb53"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/1945_03_cologne.pot",
+      "englishSha256": "3b0d7d4e31cd6afc99f78108a6c5c33d2057b8cf1ffa8e7275988c5bedbfb599",
+      "portugueseSha256": "44fe4899c4c27e267378eafba3f211bb0e9a0fe6948fda5dce5f67474dc8797b"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/campaign.pot",
+      "englishSha256": "64966b033b141e67c60efd5214b152a4bd301d3a0fa71808cbda4e6d0017e3dc",
+      "portugueseSha256": "6a9ad7fd943a9014530774c3fb4744cccd1279c4d2e3f2325371c6d0460d6ee4"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/common.pot",
+      "englishSha256": "f81a61ee7fcd637b5ea34d3dc196ae46fab9877127107a1ca9576e8037508cd3",
+      "portugueseSha256": "6b92aaeb833b0d79b2cff9336d09b7354352a7d3a39e4d60c173a214f93f7ead"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "englishSha256": "bb0e284efe8f1a3fe97a327953c40cc6c2aca906c32bc94de799bd9ec763bcaa",
+      "portugueseSha256": "c715d6f1492ebf75969a6e8405d531c1c703b6e75722c6b357abeae4754b7cec"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_01_pathfinders.pot",
+      "englishSha256": "888b2ea46db44ee6ae99a99b3e60fff9bbd36f8f406f1a1c190ef219fbb01ff0",
+      "portugueseSha256": "766b6891ea11cc3a1f13836989444ed99c7d999606889587729fd10950859e5e"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "englishSha256": "cb72eb2b1931902a94d9def71b55a5b6f96757f774b8d6b2c1e99b5396325ef4",
+      "portugueseSha256": "7faf436b042fc301bf25c90aaa29c8f7b60b8f3888b23bc141d914a2cf6f21c6"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_03_brecourt_manor.pot",
+      "englishSha256": "0aa2038cc7639c32ecce841cb063743b9f60b1786a8ce989bce858301b4d7d32",
+      "portugueseSha256": "d8f399014a4bc92781a1a269899233df46cd006541a4c1d90ca154cd340678e2"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_04_la-fiere_bridge.pot",
+      "englishSha256": "857376d20f2edcfcf6608fab3a0dc0c97e37804caf6778c621b54d08866de989",
+      "portugueseSha256": "d88242693467313f1703c77c462615160cd438a46975e17a2cf6f1d0906d6d84"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "englishSha256": "e1ecd8cb5bff0d27ef076a8864b7d7cdd10e87fe6230cb931c7518a2e3504c80",
+      "portugueseSha256": "912b2ae8b407920f2962dca1114e6581a08018ed5292217fd68e7b4da65d0343"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_06_bloody_gulch.pot",
+      "englishSha256": "c7adbdd53e261b611656f21de6c61258713ac8116e07f9f661391f277f1923c8",
+      "portugueseSha256": "c5427f31b0b0c792dbe26e91e3cd1521a079db33c20df3506ca441bc8bbfee30"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_09_01_nijmegen.pot",
+      "englishSha256": "25e228089966f21eea62bfca8199ced1d179379296d809aed4d0e96ce8fefabc",
+      "portugueseSha256": "2a064f49a9d8d31e30509ac7f2fd5d5e608a57bda824826b6d8343abacd5b80f"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_09_02_veghel.pot",
+      "englishSha256": "6725777279d908d79784b61db642af9875820bfb4f3871b007269a46295f573f",
+      "portugueseSha256": "bd135841ff4e449beec61123487dc84d2373d82be31502a8dd9c9420a2106880"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_01_noville.pot",
+      "englishSha256": "090399c46dda35f2b1978570bfe98be4f99493499b355d201f9fc7e604e608f2",
+      "portugueseSha256": "dfed4a3d4b2d78e0c79b9950f29481d56d9336741b741baa12a8734bb2eb270b"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_02_elsenborn.pot",
+      "englishSha256": "1fca8b6f6bd20d9728c98507ef1c4d82eb321646997347ed2c318f9e0cbcbf50",
+      "portugueseSha256": "87484498df2e22a3ba5c913a17fed213c8cff21e8a79a3e9e8d81821adf0e9ed"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "englishSha256": "395a200d3dff962ceb01ac4f54cbf2dc5565d56e6c321f06917c4f8d7f348797",
+      "portugueseSha256": "1ebc29de0886f4e07a651c65a987463fe9e5f8be522ebe262d1b05b44e907f9a"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1945_04_30_elbe.pot",
+      "englishSha256": "2fa59ae983ffe96b32fe51d34b8e9cca70fcb663faacbb518e168f5399662179",
+      "portugueseSha256": "78b03568da3d51b369ed91d5e23d86ca95f81d0a06840544db16ba72b1d2da9f"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/campaign.pot",
+      "englishSha256": "7eb272b215ad43d064b6b3e8365ae9751aede03ae8a631206be793cf92d1cb55",
+      "portugueseSha256": "e025c931bf5c70f3d96e83fcc27d8e1926313a3151f6fa9bcf55f811af85c72c"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/common.pot",
+      "englishSha256": "539ad61dc9512fe09552312f73ae222e8eb60fa866c90b80db2534e35c8a0e93",
+      "portugueseSha256": "b67a1ebca47a1a94347755f48d169d545e6d1757a23f6b017c7c947564174b5a"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "englishSha256": "716fe76eeab1a0512764403b0f1dd48c6760230c219dd4241ecbcf4e4276c0f0",
+      "portugueseSha256": "40b96a977219f2e8b62af27cc272ed7523e452efe121f7203039ad3cce0689dc"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "englishSha256": "3e1847403c721a922d39711bee3f5446cc64abe1b543ced6da0683cff589c63c",
+      "portugueseSha256": "87afd24d6d267f1d142a4d21e44f239f3ba3d4977d053505f4a895f57d3409ca"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_20_arras_skirmish.pot",
+      "englishSha256": "30abce53d150d403ed7dea7b732daf023a1f0dd942775f4385059999bdb157d0",
+      "portugueseSha256": "5e1eecd32fdbf9858fa78bd9d140290bc8f1a65958efed7575fe1f4926a1fc4a"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_06_03_dunkirk.pot",
+      "englishSha256": "79e2ff0cdf8c66f45eedb4d73c28737909fd6870efd4f7fb11a62b5140af5828",
+      "portugueseSha256": "fe2f7f8dd109dd527fd16514bf6c084d1dd599b06906be5f8a0dc09ab9019350"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "englishSha256": "a153d617ccdddc3cbceab1c583b65a42d36a9b21b0e3b682186fc5250dad02b9",
+      "portugueseSha256": "8aae6dd82dbed993b8bbaabaf0fb1ce6b6e737ddbdee207ae539e12b73fbc3fd"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_13_villers-bocage_skirmish.pot",
+      "englishSha256": "9f9562183b586a7859a36bb82e6b268c4c1223cd5a4277afba44da0b8245f78f",
+      "portugueseSha256": "f3d1e86a1ea8ce9e3d053587741bad9664ad35d770f30186b88bb92914615ddc"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "englishSha256": "df8d5aea69e0e04388ac78fada3974841895c2ac1f383aa593bfe339c233bfff",
+      "portugueseSha256": "5075b6e11387636580238fe6204d09c244aa8f8a2b1f7bb51f38662f2af6198b"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "englishSha256": "faddc988c8de1f61b4304678eb1beced8e5a295e7c7a43531ad26c4f431c4d2d",
+      "portugueseSha256": "1bd2f7f3e92a79d1ab3f1becf57cf5c84fe5a4f5f40b97500b9782739d132936"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_marketgarden_skirmish.pot",
+      "englishSha256": "f9344eef95fcda1d0419594d11dfe3600a24f804b4ec7e639d0742c20ea4e49b",
+      "portugueseSha256": "391eb37187bdd2a8ab7033188ed423a198035461b301c0a7b911c285c1ab98c0"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "englishSha256": "4b6f03a740819168c98df03976edb85e34a27024216a26a0c5d668294c73454b",
+      "portugueseSha256": "38075eb62b1fb90754323df44d4ad3ebe9751e9af222e7109c3805204f6ff54b"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "englishSha256": "e5bfe342ba750a9e6c8bd88426d72baa5b477e6d5f4f1f85aac910a51194d1e4",
+      "portugueseSha256": "08d5de696dc170937da75a3588d0c2a07c776940ee9e4b11a4bad54541239287"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/campaign.pot",
+      "englishSha256": "0e872e623f283146afc2cf7ea0ec7c72b4c2fe19e77034e8afa4ed1a79133181",
+      "portugueseSha256": "ff43dd828a0cd3ac80cdba5cc048240676f304f49a2675e622ec6e13b095f280"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/common.pot",
+      "englishSha256": "a8a5e9821cb83bf9c9f54bcaa8887b57cf73ce0102434b9cfb8884601c25b148",
+      "portugueseSha256": "089cbed4973339a70c225fa4e5e01875b8bbcc6f4b60c9562e1267338ad981fd"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1940_05_arras.pot",
+      "englishSha256": "aee3f4dc8dc8fcadc5cf20592999acafbf0b3953a19710d3b44238d6197330a3",
+      "portugueseSha256": "0289c629aeb2b65d3cce07a518ade65abbf2fc5bb94241ae65963b6f2174ff3b"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1940_06_st_valery_en_caux.pot",
+      "englishSha256": "f37fc3dd03d7d033b1142de516d2d5d173fa9ee9498e3969cccdec19d6808931",
+      "portugueseSha256": "fe9eddf4662b679c8b6b69bc8163fb1961649cae63f68297b0252b38e0ec986b"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_06_swordbeach.pot",
+      "englishSha256": "931ea497326578fa0215e53345cc7272976ca7c4426d06d3ebdb61e044c6a80b",
+      "portugueseSha256": "caabbe8a005be9bf3f9fddecffabc34da0401e5b8488ec9a1223b468305834f7"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_06_tilly_sur_seulles.pot",
+      "englishSha256": "65dd9c7d6d23ef30cb5bcb812e581bab6ec54aca751b4b09b889d53d800b087d",
+      "portugueseSha256": "a1b050a4d1790bb89580c5b6ca3b7e6de375630284506e910b42dc594d14c760"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_09_koevering.pot",
+      "englishSha256": "91fcf7c6a2eaf227c737f5cbae9a1739df2adf13a1de5a001d7723103ee2016b",
+      "portugueseSha256": "b28e3bdeb722c4c79bf3fd8e1954bfee47e0ec4727e97512f6b00903a892dbb8"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/1944_10_woensdrecht.pot",
+      "englishSha256": "91007ede7bb27ce6b64231c46192c167c6f7e3eb5c440f282c6e845c32f54828",
+      "portugueseSha256": "631f8d9ef36ec935636c57b4b2741fc713522916ff6330d51aaaf107350b6799"
+    },
+    {
+      "file": "interface/text/mission/single/051-ger_finesthour/campaign.pot",
+      "englishSha256": "f1192207fa3c7d903d62e448ba22b5bc8f1c4535c34f8ee7b8f387fcb6eb4a04",
+      "portugueseSha256": "48d450affd9fad47881ef6db52e5a264c99b803d1ecc85277a8f69d00e595585"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1941_12_feodosia.pot",
+      "englishSha256": "e2150e273e992673d6ecb93cf195fd85fd3525a174938dd9dd125fad2ecc2b42",
+      "portugueseSha256": "6f545b220112fec26a30e751fee7b1d387ed30e87edc655fc0cad7e8d620c2e8"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1944_03_trap.pot",
+      "englishSha256": "8cca693a70946d883cb077efee6c4da47838fa46ce6f6ab0d1aea218d9680da3",
+      "portugueseSha256": "5b589c876ee9ac150b0a81dc33d5b1fb6162c1197400fdbf620954403e54da1b"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1945_04_yugoslavia.pot",
+      "englishSha256": "b74f6934e6ae2a93080d2ca7972eafd68e6c426e60fe3b440eefb314244fe3eb",
+      "portugueseSha256": "ceb9e7a36869f8aa868db39bddfc40192cff8d946bebba0e4306c4b319efc8b0"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/campaign.pot",
+      "englishSha256": "a9a1ebb12352728b8c9f9beed75b12f31487c618a2cf07599306e1f505fdb456",
+      "portugueseSha256": "757e8e7606a41ec1c8ad3993b5b3ea49b04281929b911508c515b297f314911e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/_common.pot",
+      "englishSha256": "6576ba40b376c026e2616a3e1fab3f3c9f925f6a261272e5aee494e32e767683",
+      "portugueseSha256": "53cb81efd4469e03a1d719f79d71ddf315891907288e42af1247c055effdc39e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/_reinf_ger.pot",
+      "englishSha256": "45c64850aaa85364b14ec4b2d03f55be4273b2ace50c7635fa94b4a33336f9c7",
+      "portugueseSha256": "968170e1f3fbeb683d1527602733472f953a7f24099b2f90268b1d59e238072e"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1940_02-fin_honkaniemi.pot",
+      "englishSha256": "a9c5fb2cc45c6e774893d375d9c8bdfe12c772c5ae4eb8341c7780ab9cdcb34e",
+      "portugueseSha256": "999f2eee67c5bf2e179f70dd8569f5d75012dcc22604bc15d45de3cf60fca8e6"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_07-fin_petrozavodsk.pot",
+      "englishSha256": "56b0be01b768f4260909c790045a82a14281959ecc1d2364d73357c3a4aa513e",
+      "portugueseSha256": "ec97f590f3f6f4adb83a74e3052ce29749d4681ac1938bae5f717d5d23fc7618"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_07-rus_smolensk.pot",
+      "englishSha256": "95b80b221da10cd94457391fc6470dfb71763ecaf0e0bf9030a355b6c13027ea",
+      "portugueseSha256": "6607dee14f0352362475ef4fe7fe00a476df21c9333e273590c155adf4189562"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_08-fin_polar_fox_alakurtti.pot",
+      "englishSha256": "676f1f2d6e8878261d3222be723d19b9bf40c1ea7b46d35c114612e0cd178396",
+      "portugueseSha256": "f40110b625d17353ba328be3d5a7ed827d2754b42481097a42b0a760a77a3f5d"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1941_11-ger_moscow.pot",
+      "englishSha256": "c20a0e0b33ab8c0522e629bc4c5b05ca7b341c00174ecaead6e92c3347991b61",
+      "portugueseSha256": "cfc327eeaa5a734ddda160c8b70050b030ccb905bf61d317e67c97ba14aede48"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1942_10-rus_stalingrad_volga.pot",
+      "englishSha256": "3575ed75f11f5ac14f14de71c71127da1ecc68995c5fe5465165e66b80cbcfda",
+      "portugueseSha256": "33e1a664e340abeb46b5423f6369f39e30fe237cf69309691569867e0aa11df1"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1942_11-ger_mamayev_kurgan.pot",
+      "englishSha256": "31082104b26ac8371dae11d6b4ae7a1f9f04aaeccd263652c17c611516f9a52e",
+      "portugueseSha256": "e097f5b8430dbddb3b394a8405d9ba32f5f57888fc8c479f775495020a3c4129"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1943_02-ger_kharkov.pot",
+      "englishSha256": "0097a7615cd1a1785af6fe56225fed2f3526d48e8bede0e2494dd8a98e0823bc",
+      "portugueseSha256": "24bb4fbef003b1423a2f2c10d09711266875d97bd3f39d1741319a6271acf0e8"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1944_07-fin_ilomantsi.pot",
+      "englishSha256": "d9e9a70952f1032dab69e87b94ec2883d5aa65a8706d69f68510a05dff06e30c",
+      "portugueseSha256": "003c9b46a45157c617cc7f63c19547d8166ff906d131e3a1c3c009782392602f"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1944_07-rus_op_bagration.pot",
+      "englishSha256": "fe371e5bd332a3608de5dbce99161532edd3212405af04d6152e6db51bdd48d4",
+      "portugueseSha256": "333f648ac05e814f496fadf8ac35a6dafcdafaaf8c095eaab661c185f83ca2f4"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1945_04-rus_seelow_heights.pot",
+      "englishSha256": "db01645634a0f59b197b71fb0a9fc6a42ecd4f18b4d5965fe032bb5de2e84a43",
+      "portugueseSha256": "f81d88d74ef420bac28e2c9e3f731f8a358e9cd06f57eb4f231c726269d82964"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/1945-04-ger_berlin.pot",
+      "englishSha256": "95740ac5825907d996c9f646d328d4b159fc0b724f58e08576b786fa37be97cc",
+      "portugueseSha256": "82dfa0d16ef1b08dfdb69879f5c0703881a78f6d1eb04aefb4f8ff9dae6329cb"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/campaign.pot",
+      "englishSha256": "01ec348dac256a61e752fc899d2c48c3b1cb50f45f148810c5553a47de6b0b31",
+      "portugueseSha256": "2bea3d93e941d6833ce79d16815b8a580ea8a61e185222f8ffb9a3edbe0beaa2"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/common.pot",
+      "englishSha256": "418314a520231658f7c72346b3e6deafc4fc26a060bb8de700cc07b9c32c2b9c",
+      "portugueseSha256": "b582d91241a5feabc0d8e553624f7af345b60ee5b42b7bc3e5ee379712ac62bb"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "englishSha256": "84428294244f199922caf06c11efcc9a4a6bbf39c95f16569eb245ed9ab06e1b",
+      "portugueseSha256": "0b3387d75caa9c6e97c6c38cfbe878457194f6a2eb5f15df9c39a61247830979"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_fin.pot",
+      "englishSha256": "328260f3eab88c00fd8b28b9d217a2b6dcdc17f232735ee92a344a8717fb3224",
+      "portugueseSha256": "497e9c311f2c288a83a7b3dc36d8179999335a626c808136d066880b7293e312"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_ger.pot",
+      "englishSha256": "223f74c3cd88bd82e3026b79cec951ee6ad62e3e355ae93ef3cf153b648887a5",
+      "portugueseSha256": "80831cc50e6994fa463acace0f3f9428b688525e01daf28be0141fb0b79a22c4"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_rus.pot",
+      "englishSha256": "c424cd9989db273a5bc4fc44c796c625a04c4906d0390d683cccfa958bef04c8",
+      "portugueseSha256": "2375fcf45920ee415f34e96be48becd61a164b770fdefa41fa62abdc9da33b18"
+    },
+    {
+      "file": "interface/text/mission/single/common.pot",
+      "englishSha256": "6027b199efb10412ad5d3c344bba2a36199765f937ea4ffcffcc65a7dc3707bf",
+      "portugueseSha256": "0fdff78f72f1add53540c398e8c08fcc584271b71578ee05a957afcc38ce57a4"
+    },
+    {
+      "file": "interface/text/mission/single/errors_helper.pot",
+      "englishSha256": "2ab51611390820febf1736ca27232e7f92354bc191ac0a51f68c04561545fa02",
+      "portugueseSha256": "9076877db67bf6d7d1084ad47ce1ca0c88bcdb1598a108719643f14ab5e4cd97"
+    },
+    {
+      "file": "interface/text/mission/single/test_scenario.pot",
+      "englishSha256": "6ed10123aba10abde7ee104c17a497e963fe8730819edf04f2f8e5544c3aff11",
+      "portugueseSha256": "3bae1916913cbbbec41f3fbd79d51086a8b9e2a5e19552991798a897e82a21a0"
+    }
+  ],
+  "nativeLedger": {
+    "file": "translation/mission-context-review-2026-10-13.json",
+    "sha256": "4180ba97d8fb1f479f041f7e4adb105d9c9eee1d1bad0b847a3880b533d69acd"
+  },
+  "decisions": [
+    {
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/scene/07",
+      "source": "Buildings and other objects block the line of sight of units. You can see the enemy tank because other friendly units are actively fighting it. But no enemy unit is currently able to see your soldier. Because of this, you can easily flank the enemy tank without being detected.",
+      "translation": "Edifícios e outros objetos bloqueiam a linha de visão das unidades. Você pode ver o tanque inimigo porque outras unidades aliadas estão ativamente combatendo-o. Mas nenhuma unidade inimiga consegue ver seu soldado no momento. Por isso, você pode flanquear o tanque inimigo facilmente sem ser detectado.",
+      "sourceHash": "afb5c78ad9579acca7d70c4e60d886e84678767001d16b80f1bbce8fa76c48fc",
+      "translationHash": "a912a368f9387836d15fc17fa59c8b5cbe8845357088bf0aa968dfdb0b189e31",
+      "beforeCharacters": 302,
+      "currentMetrics": {
+        "sourceCharacters": 277,
+        "translationCharacters": 302,
+        "expansionRatio": 1.09,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 302,
+        "readingSecondsAtReferenceRate": 17.76,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/02_vehicle-control.pot",
+      "context": "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/03",
+      "source": "Your tank is immobilised, because the track was broken. We will deal with it later. The first order of business is eliminating the enemy threat. Engage enemy tanks with AP shells. The tank will automatically load the correct shell type for its target, but you can control ammo selection manually in third person or direct control.",
+      "translation": "Seu tanque está imobilizado porque a esteira foi danificada. Cuidaremos disso depois. A prioridade é eliminar a ameaça inimiga. Ataque os tanques inimigos com projéteis AP. O tanque carregará automaticamente o tipo de projétil adequado ao alvo, mas você pode selecionar a munição manualmente no modo de terceira pessoa ou no Controle Direto.",
+      "sourceHash": "eb05118b937f5935ca961fb48c29fbb074699e35ba93d37243e82b33094c37f7",
+      "translationHash": "75093594672420edc1446ca20421837b008de0b0186f48eca0e9c4b4ff6885ec",
+      "beforeCharacters": 341,
+      "currentMetrics": {
+        "sourceCharacters": 330,
+        "translationCharacters": 341,
+        "expansionRatio": 1.033,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 341,
+        "readingSecondsAtReferenceRate": 20.06,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/02_vehicle-control.pot",
+      "context": "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/04",
+      "source": "Your tank is equipped with 5 repair kits. Each repair kit will repair one vehicle component, then it is consumed. To begin the repair, select the tank and click on the \"repair\" button. A crew will automatically disembark and repair the tank's damaged components in order of priority. You can also manually disembark a crew member, select the repair button, and click on the tank.",
+      "translation": "Seu tanque está equipado com 5 kits de reparo. Cada kit repara um componente do veículo e então é consumido. Para iniciar o reparo, selecione o tanque e clique no botão \"reparar\". Um tripulante desembarcará automaticamente e reparará os componentes danificados em ordem de prioridade. Você também pode desembarcar um tripulante manualmente, selecionar o botão de reparo e clicar no tanque.",
+      "sourceHash": "a83366ced93068d202d8c6fa74076672e4c16ad16c3793b824061848cfb1c586",
+      "translationHash": "9c08ad1fb4786c0e96f13d95a33c784ec265d0ca429cf6a9ad7c64fdc61c6749",
+      "beforeCharacters": 389,
+      "currentMetrics": {
+        "sourceCharacters": 379,
+        "translationCharacters": 389,
+        "expansionRatio": 1.026,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 389,
+        "readingSecondsAtReferenceRate": 22.88,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/02_vehicle-control.pot",
+      "context": "mission/single/00-bootcamp/02_vehicle-control/narrator/scene/08",
+      "source": "Enemy infantry are most easily dealt with using High Explosive (HE) shells and with the tank's secondary armament. However, it may be inconvenient if enemy armor arrives and your tank has to spend valuable time switching to AP shells to engage it. For this reason, there is a button to \"lock\" the vehicle to only use the currently selected shell type and to not switch to other shells on its own.",
+      "translation": "A infantaria inimiga é mais facilmente eliminada com projéteis explosivos (HE) e com o armamento secundário do tanque. No entanto, pode ser inconveniente se blindados inimigos chegarem e o tanque tiver que gastar tempo valioso trocando para projéteis AP para enfrentá-los. Por isso, há um botão para \"travar\" o veículo no tipo de projétil selecionado, impedindo que ele troque de munição por conta própria.",
+      "sourceHash": "2d1b301f273a238f7463aa6c1d1c07e14731491f009c052f0db98666526a4810",
+      "translationHash": "c47ac83de5e2019c9eb6c603e19c563cd3d7025bc5ca28fbd038b82470897887",
+      "beforeCharacters": 406,
+      "currentMetrics": {
+        "sourceCharacters": 396,
+        "translationCharacters": 406,
+        "expansionRatio": 1.025,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 406,
+        "readingSecondsAtReferenceRate": 23.88,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/fuel",
+      "source": "There are 2 ways you can refuel a vehicle: automatically, by driving a refueling supply truck close to it, or manually, with fuel cans. To use fuel cans, collect them into your soldier's inventory, and while holding them, clicking on a fuel source like fuel trucks and big barrels to fill the empty can with fuel. When the can is full, you can \"pour out\" the fuel contents into the empty vehicle.",
+      "translation": "Há 2 formas de abastecer um veículo: automaticamente, aproximando um caminhão de abastecimento, ou manualmente, com jerricãs. Para usar jerricãs, coloque-os no inventário do soldado e, com um deles nas mãos, clique em uma fonte de combustível, como caminhões de combustível ou grandes barris, para encher o jerricã vazio. Quando estiver cheio, despeje o combustível no veículo sem combustível.",
+      "sourceHash": "cca8c785dd66ba2c97042589b25646e5d9426c1274d8a2bcb4222841bdbf438c",
+      "translationHash": "89e6d2d13b08378e64aa0bdce9fff3f1d4dd2697f239773cb02851318abd9d7f",
+      "beforeCharacters": 393,
+      "currentMetrics": {
+        "sourceCharacters": 396,
+        "translationCharacters": 393,
+        "expansionRatio": 0.992,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 393,
+        "readingSecondsAtReferenceRate": 23.12,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/grenade",
+      "source": "You can throw grenades to eliminate targets behind cover. For the most effective use of grenades, you can 'cook' them in direct control mode (select a single soldier and press the direct control button on the bottom left of the interface or press the hotkey 'E' by default). Direct control allows you to micro-control one unit with WASD movement and mouse aiming/shooting.",
+      "translation": "Você pode atirar granadas para eliminar alvos atrás de cobertura. Para o uso mais eficaz, pode ativar a granada e adiar o arremesso ('cook') no modo de controle direto (selecione um soldado e pressione o botão de controle direto no canto inferior esquerdo da interface ou pressione a tecla 'E' por padrão). O controle direto permite microcontrolar uma unidade com movimento WASD e mira/tiro pelo mouse.",
+      "sourceHash": "780d7761ae90cefb6de7259476b0d5e41fa537a0633b88a99e96c13b5c8df974",
+      "translationHash": "d3db9eba2ae9d6bd5ac1c0919ba06233e6a8b0f7aa0714876cb5240d583a3cad",
+      "beforeCharacters": 402,
+      "currentMetrics": {
+        "sourceCharacters": 372,
+        "translationCharacters": 402,
+        "expansionRatio": 1.081,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 402,
+        "readingSecondsAtReferenceRate": 23.65,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/pak",
+      "source": "You will need to manually shoot the targets in direct control. Press \"E\" by default to switch to direct control with the selected unit. Press \"T\" by default to toggle \"Classic\" and \"Third Person\" modes. Note that the longer you aim at a target, the more accurate your shot will be.",
+      "translation": "Atire nos alvos manualmente no Controle Direto. Com a unidade selecionada, pressione \"E\" (padrão) para entrar nesse modo e \"T\" (padrão) para alternar entre \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo mirar no alvo, mais preciso será o tiro.",
+      "sourceHash": "02fa836c0d0ea748b49980a04b0ff3850e24bea4724fa8456d27538472ae2fd0",
+      "translationHash": "ffc8a9125408270bec6ba96876264eb4539ca344e23a8a6f564bcdc13941146f",
+      "beforeCharacters": 303,
+      "currentMetrics": {
+        "sourceCharacters": 281,
+        "translationCharacters": 246,
+        "expansionRatio": 0.875,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 246,
+        "readingSecondsAtReferenceRate": 14.47,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "refined-for-clarity",
+      "reason": "Reduzir repetição de controle direto e por padrão, mantendo seleção da unidade, teclas E/T padrão, ambos os modos e relação entre tempo de mira e precisão. Não inserir quebra de linha nem alegar encaixe na tela."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/repair",
+      "source": "Different components of vehicles can be damaged on the battlefield (tracks, engine, gun, turret, body, etc.). You will need repair kits to repair these components. You can find them in most vehicle's inventory. Repair kits are a single-use item. If multiple components are broken, you will need a repair kit for each component. Take a repair kit from the vehicle into your soldier's inventory, then with the soldier selected, press the repair button in the bottom right corner of the interface (Wrench icon). Lastly, click on the vehicle to order your soldier to repair it.",
+      "translation": "Diferentes componentes de veículos podem ser danificados no campo de batalha (esteiras, motor, canhão, torre, casco, etc.). Você precisará de kits de reparo para consertar esses componentes. Eles podem ser encontrados no inventário da maioria dos veículos. Kits de reparo são de uso único. Se vários componentes estiverem danificados, você precisará de um kit para cada um. Pegue um kit de reparo do veículo para o inventário do soldado, então com o soldado selecionado, pressione o botão de reparo no canto inferior direito da interface (ícone de chave inglesa). Por último, clique no veículo para ordenar ao soldado que o repare.",
+      "sourceHash": "2f0af87d5f1e4d54d04d48807c71d21af725ca390c22010322653d98c299296f",
+      "translationHash": "3b187428cf9ecf3085298153104e01d08710adc886a4de43c44a793ff1e1fcdf",
+      "beforeCharacters": 631,
+      "currentMetrics": {
+        "sourceCharacters": 573,
+        "translationCharacters": 631,
+        "expansionRatio": 1.101,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 631,
+        "readingSecondsAtReferenceRate": 37.12,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/sandbag",
+      "source": "Get to cover behind the sandbags and get ready to fire. Select your soldiers, and hover the cursor close to the sandbag. A silhouette previews the position of your soldiers behind cover. Utilize cover as much as possible to increase the survivability and accuracy of your soldiers.",
+      "translation": "Procure cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos. A silhueta indica onde eles ficarão. Use cobertura sempre que possível para aumentar suas chances de sobrevivência e sua precisão.",
+      "sourceHash": "f39ece2b32fc3da22b046c27748b7e561bec88192ab7b2e95d71ed0e6436344a",
+      "translationHash": "397f4a0dd194fcf8a351abd5927fecad53e326327a698f410a105a5a4087f113",
+      "beforeCharacters": 301,
+      "currentMetrics": {
+        "sourceCharacters": 281,
+        "translationCharacters": 257,
+        "expansionRatio": 0.915,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 257,
+        "readingSecondsAtReferenceRate": 15.12,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "refined-for-clarity",
+      "reason": "Prévia da posição torna-se indicação de onde os soldados ficarão. Preservar sacos de areia, seleção, passagem do cursor, cobertura e benefícios de sobrevivência/precisão, sem instruir um clique que a fonte não pede."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/tripod2",
+      "source": "Now you have to mount the machinegun. To do so, crew the tripod and open the tripod’s inventory by selecting it and hitting the hotkey 'I' by default. Double click on the machinegun in the inventory to mount it. Now shoot all the targets in the firing range. You will notice mounted weapons are more accurate and have less recoil.",
+      "translation": "Agora você deve montar a metralhadora. Para isso, tripule o tripé e abra seu inventário selecionando-o e pressionando a tecla 'I' (padrão). Dê duplo clique na metralhadora no inventário para montá-la. Agora atire em todos os alvos no estande de tiro. Você notará que armas montadas são mais precisas e têm menos recuo.",
+      "sourceHash": "6b625942348aae6a18b1076f9073eca901cd7e2eb48cc57f75ac98aab6cb6075",
+      "translationHash": "02346f1f56bd2f7aa6f4b3412d279e56faecfbceed7dfceb8695a24bad825118",
+      "beforeCharacters": 318,
+      "currentMetrics": {
+        "sourceCharacters": 330,
+        "translationCharacters": 318,
+        "expansionRatio": 0.964,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 318,
+        "readingSecondsAtReferenceRate": 18.71,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/officer/pak2",
+      "source": "The 3.7cm PaK Light Anti-Tank Gun fires various types of ammunition. To penetrate and destroy armored targets, use Armor Piercing (AP) and Armor Piercing Composite Rigid (APCR) rounds. To penetrate the thicker plates in front of you, use APCR. Against angled armor APCR it will ricochet off instead of penetrating. AP shells are more effective in this case.",
+      "translation": "O canhão antitanque leve 3.7cm PaK dispara vários tipos de munição. Para penetrar e destruir alvos blindados, use projéteis Perfurantes de Blindagem (AP) e Perfurantes Compostos Rígidos (APCR). Para penetrar as placas mais espessas à sua frente, use APCR. Contra blindagem inclinada, o APCR ricocheteia em vez de penetrar. Os projéteis AP são mais eficazes nesse caso.",
+      "sourceHash": "61f9a602039aebd6246e6e889dc89618bc4a94d8fc498820e33d7b4f3c63a9c0",
+      "translationHash": "acb29d8308900477d5fcf528e66aaa252b9a9bd16e881b0d7399bc49d0c4384c",
+      "beforeCharacters": 368,
+      "currentMetrics": {
+        "sourceCharacters": 357,
+        "translationCharacters": 368,
+        "expansionRatio": 1.031,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 368,
+        "readingSecondsAtReferenceRate": 21.65,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/officer/targets2",
+      "source": "The Wehrmacht counts with the finest weaponry available to any infantryman. A variety of automatic and precision weapons are available on the tables. Some are more effective for short-range fights and others favor long-distance engagements. Use your preferred armament against the next set of targets!",
+      "translation": "A Wehrmacht conta com o melhor armamento disponível para qualquer soldado de infantaria. Uma variedade de armas automáticas e de precisão está disponível sobre as mesas. Algumas são mais eficazes em combates de curto alcance, outras favorecem engajamentos a longa distância. Use seu armamento preferido contra o próximo conjunto de alvos!",
+      "sourceHash": "5f303c89e2b8aeba714b34118cbd3c4bc5f7144d088e6edb856fd7cc492b5bae",
+      "translationHash": "4b316fdc6b566882cfda2d023aafd9e0b8f34ab17f938c96b73896b92ad2cf7a",
+      "beforeCharacters": 338,
+      "currentMetrics": {
+        "sourceCharacters": 301,
+        "translationCharacters": 338,
+        "expansionRatio": 1.123,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 338,
+        "readingSecondsAtReferenceRate": 19.88,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "context": "mission/single/00-bootcamp/2-combat/narrator/hints/foxhole",
+      "source": "When the terrain will not give you cover, you should dig your own entrenchments. Soldiers require a foxhole shovel to dig. There is a \"fortifications\" submenu on the bottom right where you can choose what to build. Engineers can erect a wider range of items.",
+      "translation": "Quando o terreno não oferecer cobertura, você deve cavar suas próprias posições defensivas. Soldados precisam de uma pá para cavar abrigos individuais. Há um submenu de \"fortificações\" no canto inferior direito onde você pode escolher o que construir. Engenheiros podem erguer uma gama mais ampla de itens.",
+      "sourceHash": "20b570451bc7a4941b9ded6d2b0bf2c9edd8de35fd7fa48186f83453369aa505",
+      "translationHash": "f5f3433530f15f73bac6eba9727069ff25bacad1ab01b67436dd9324ef7b4811",
+      "beforeCharacters": 306,
+      "currentMetrics": {
+        "sourceCharacters": 258,
+        "translationCharacters": 306,
+        "expansionRatio": 1.186,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 306,
+        "readingSecondsAtReferenceRate": 18,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "context": "mission/single/00-bootcamp/2-combat/narrator/hints/medic",
+      "source": "Medics are one of the most valuable assets on the battlefield. They are the only ones who can treat bleeding soldiers. While having a medic selected, hover over an injured soldier and you will be prompted to treat him. Bear in mind, bleeding soldiers will die if left unattended for too long...",
+      "translation": "Os médicos estão entre os recursos mais valiosos no campo de batalha. São os únicos que podem tratar soldados sangrando. Com um médico selecionado, passe o cursor sobre um soldado ferido e você será solicitado a tratá-lo. Lembre-se, soldados sangrando morrerão se ficarem sem atendimento por tempo demais...",
+      "sourceHash": "52b675872743800ecdb0098f44569c697077c61a1001e9f0e618c45d220e8053",
+      "translationHash": "de8722d83dcc82d6101c982d298e1a9804e8c1bf0abefb102a16b3e521085368",
+      "beforeCharacters": 307,
+      "currentMetrics": {
+        "sourceCharacters": 294,
+        "translationCharacters": 307,
+        "expansionRatio": 1.044,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 307,
+        "readingSecondsAtReferenceRate": 18.06,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "context": "mission/single/00-bootcamp/2-combat/narrator/hints/plantmines",
+      "source": "To mine an area, click the \"AT Mine\" or \"AP Mine\" icons in the \"Items\" menu. Point to the area by left-clicking anywhere on the map. Holding shift and point will queue planting mines in various locations. Holding the left-click and dragging the cursor allows placing a number of mines in a line. Your soldier will start mining from his location in the direction of the click. It takes a soldier a few moments to plant each mine, AT-mines take longer to plant for example.",
+      "translation": "Para minar uma área, clique nos ícones \"Mina AT\" ou \"Mina AP\" no menu \"Itens\". Aponte para a área clicando com o botão esquerdo no mapa. Segurar Shift e clicar irá enfileirar o plantio de minas em vários locais. Segurar o clique esquerdo e arrastar o cursor permite posicionar várias minas em linha. Seu soldado começará a minar a partir de sua localização na direção do clique. Leva alguns momentos para plantar cada mina; minas AT levam mais tempo.",
+      "sourceHash": "ca14dbb5bc24d1d554d5db55abe36ceaaae76495930e0a53a4d69ea3c0add825",
+      "translationHash": "17964e2095a13f1e12e50ca0d6248e479d6ab088abbff247b55b13e0a8b7ef9b",
+      "beforeCharacters": 450,
+      "currentMetrics": {
+        "sourceCharacters": 471,
+        "translationCharacters": 450,
+        "expansionRatio": 0.955,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 450,
+        "readingSecondsAtReferenceRate": 26.47,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_05_kerch.pot",
+      "context": "mission/single/01-rus/1942_05_kerch/narrator/officer03/part2_05",
+      "source": "Great job, you regained control of the defense line. There is no time to waste. The main German forces can be here at any moment. Distribute the troops along the defense line. Try to make the surviving guns and tanks operational, the Germans will press us without mercy.",
+      "translation": "Ótimo trabalho - você reconquistou o controle da linha de defesa. Não há tempo a perder. As forças alemãs principais podem chegar a qualquer momento. Distribua as tropas ao longo da linha de defesa. Tente colocar os canhões e tanques sobreviventes em operação - os alemães nos pressionarão sem misericórdia.",
+      "sourceHash": "7268e878b42b1be55aef2353c5145d2b80f33729b480a3889e64230e6bfcd386",
+      "translationHash": "0577b1b173715d0b7c4738923da3b42facca68de2f15cd7227bd957b12a264a9",
+      "beforeCharacters": 307,
+      "currentMetrics": {
+        "sourceCharacters": 270,
+        "translationCharacters": 307,
+        "expansionRatio": 1.137,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 307,
+        "readingSecondsAtReferenceRate": 18.06,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_12_winterstorm.pot",
+      "context": "mission/single/01-rus/1942_12_winterstorm/narration/hint/angling",
+      "source": "Angled armor is extremely effective against lower caliber shells. While large calibers have better overmatching, the Panzer III's 50mm shells will have a very hard time penetrating your T-34's armor if you angle it correctly.",
+      "translation": "A blindagem posicionada em ângulo é extremamente eficaz contra projéteis de menor calibre. Embora calibres maiores sejam mais eficazes para superar a blindagem por efeito de overmatching, os projéteis de 50mm do Panzer III terão muita dificuldade para penetrar a blindagem do T-34 se você posicionar o tanque no ângulo correto.",
+      "sourceHash": "7862fe9d16eda6d39e07c54d0dc58b6a689a98069834bed62e31a9328fd55ae2",
+      "translationHash": "e4f9881a62dc3296408479802181e414bfad059e4c9e81c13fe5ece24b61f6e6",
+      "beforeCharacters": 327,
+      "currentMetrics": {
+        "sourceCharacters": 225,
+        "translationCharacters": 327,
+        "expansionRatio": 1.453,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 327,
+        "readingSecondsAtReferenceRate": 19.24,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_09_elbrus.pot",
+      "context": "mission/single/02-ger/1942_09_elbrus/pl_officer/p2_08",
+      "source": "You have a good supply of mines at your disposal. Mine the four slopes in this sector, and prepare defensive positions. Choose the best defensive positions. We know that the Soviets can attack from 4 possible directions. Place the machine gun points among the stones, to control possible attack directions. Don't let the Soviets take over the Shelter!",
+      "translation": "Você tem um bom estoque de minas à sua disposição. Mine as quatro encostas deste setor e prepare posições defensivas. Escolha as melhores posições defensivas. Sabemos que os soviéticos podem atacar de 4 direções possíveis. Posicione as metralhadoras entre as pedras para controlar as direções de ataque possíveis. Não deixe os soviéticos tomarem o Abrigo!",
+      "sourceHash": "7ef29494414b23bbce5ef67cf4588624751115e6f6fa7ccfb6c8183ec8a82cfa",
+      "translationHash": "2738de1c7dde4fc80b3ab89f2c02c7bb1f537a7fb24c9f2a0dcad824e8de253c",
+      "beforeCharacters": 355,
+      "currentMetrics": {
+        "sourceCharacters": 351,
+        "translationCharacters": 355,
+        "expansionRatio": 1.011,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 355,
+        "readingSecondsAtReferenceRate": 20.88,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1943_11_wotan.pot",
+      "context": "mission/single/02-ger/1943_11_wotan/narrator/officer/2",
+      "source": "Your task is to hold this industrial position at all costs. Expect attacks from all sides! Luckily the poor weather keeps enemy attack aircraft grounded. No reinforcements are available, but we have a solid line of defense at your disposal. You are our only hope in stopping the Red tide!",
+      "translation": "Sua missão é manter esta posição industrial a todo custo. Espere ataques de todos os lados! Felizmente o mau tempo mantém as aeronaves de ataque inimigas em terra. Não há reforços disponíveis, mas temos uma sólida linha de defesa à sua disposição. Você é nossa única esperança para conter a maré vermelha!",
+      "sourceHash": "dc3b64d6d6942c7365bf17dae39da7bff3e66d53401f43ee49493f407c7e554b",
+      "translationHash": "64f3ad5336b06709a3df5f292072425eec659b8c04270d51e2abc09ae7b7a103",
+      "beforeCharacters": 305,
+      "currentMetrics": {
+        "sourceCharacters": 288,
+        "translationCharacters": 305,
+        "expansionRatio": 1.059,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 305,
+        "readingSecondsAtReferenceRate": 17.94,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_kollaa.pot",
+      "context": "mission/single/03-fin/1939_12_kollaa/officer_artillery_01",
+      "source": "Watch out! Ivan has brought his artillery emplacements! They will be very dangerous for our engineers out in the open. We have to destroy them as fast as possible! I am providing you with a captured Soviet armoured vehicle for this purpose. Use it to raid the enemy's rear and destroy this artillery battery.",
+      "translation": "Cuidado! Ivan trouxe suas peças de artilharia! Serão muito perigosas para nossos engenheiros a céu aberto. Temos que destruí-las o mais rápido possível! Estou fornecendo a você um veículo blindado soviético capturado para essa finalidade. Use-o para atacar a retaguarda inimiga e destruir esta bateria de artilharia.",
+      "sourceHash": "bc918dc6235c104d45d6683cc366f7ae534ccbbc12cfeabfeb232fb4cc0ff05d",
+      "translationHash": "378820e0a05584de427f9cc88e99c7bcd7a6dfb17bcec5a1dd4eaf395b7f9ad5",
+      "beforeCharacters": 316,
+      "currentMetrics": {
+        "sourceCharacters": 308,
+        "translationCharacters": 316,
+        "expansionRatio": 1.026,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 316,
+        "readingSecondsAtReferenceRate": 18.59,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04",
+      "source": "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out.",
+      "translation": "Cabo Crosby, você comanda a equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Avise-me quando estiver pronto para a evacuação e enviarei um caminhão para os feridos. Não posso enviá-lo agora: o céu está perigoso demais. Encerro.",
+      "sourceHash": "80d16a51edf56a9e600edc8e7cd16e7fa042b3df3b36c41b64a185433c051296",
+      "translationHash": "807ec1c6d5d97698fffe56e413cc5fe31356c7ca393f6359bbd494b0f2158546",
+      "beforeCharacters": 301,
+      "currentMetrics": {
+        "sourceCharacters": 275,
+        "translationCharacters": 280,
+        "expansionRatio": 1.018,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 280,
+        "readingSecondsAtReferenceRate": 16.47,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "refined-for-clarity",
+      "reason": "Report me é informar que está pronto: Avise-me evita o calque Me reporte. Preservar Cabo Crosby, Williams, equipe médica, feridos, promessa condicional do caminhão e impedimento atual por ameaça no céu. A terminação Out encerra a transmissão sem pedir resposta: Encerro, sem acrescentar Câmbio. Evidência lexical do fornecedor Mobile Systems e equivalência Câmbio/Over no MCA 100-16/2025; não certifica protocolo histórico WWII."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part03_03_allround",
+      "source": "We still have a royal ace up our sleeve, though. I am granting you access to a 6-inch howitzer for counter artillery combat. We only have one, so please be careful with this old lady. The Jerries will most likely open fire in response after a single shot, that’s why you have to put the Morris carrier to good use. Change your position after every shot.",
+      "translation": "Ainda temos um ás na manga. Estou lhe concedendo acesso a um obuseiro de 6 polegadas para fogo de contrabateria. Só temos um, então seja cuidadoso com esta velha senhora. Os alemães provavelmente vão abrir fogo em resposta após um único tiro - é por isso que você deve usar o veículo de transporte Morris com sabedoria. Mude de posição após cada tiro.",
+      "sourceHash": "5af717ecc0a450bc205de86ae7d098ad032369eb659684b8001f144bb8c9f1e7",
+      "translationHash": "a852c0e0310a83bb1c238c6a671881be1c70bbd7f671c5d46a1574d54283cdc4",
+      "beforeCharacters": 351,
+      "currentMetrics": {
+        "sourceCharacters": 353,
+        "translationCharacters": 351,
+        "expansionRatio": 0.994,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 351,
+        "readingSecondsAtReferenceRate": 20.65,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_15",
+      "source": "Course I didn’t. I’m not daft enough to leave a good pub for the bloody savannah. Bought a lion’s head off some merchant before I sailed home. Gave the gun bearer a solid tip and called it a day. What’s the point, really? Chasing animals to prove something a bunch of dead men once wrote in a book?",
+      "translation": "Claro que não. Não sou bobo o suficiente para deixar um bom pub pela maldita savana. Comprei uma cabeça de leão de um comerciante antes de zarpar para casa. Dei uma boa gorjeta ao carregador e dei o assunto por encerrado. Qual é o sentido, afinal? Perseguir animais para provar algo que um bando de mortos escreveu num livro?",
+      "sourceHash": "091fa671703c34007d2cd2994a8af345251fea45f57930644e7d4f22e1fcdeb6",
+      "translationHash": "1aaf4fa3a2343dc6367038f63c30912d61ffe5b74a58c834da25124c581bc03a",
+      "beforeCharacters": 325,
+      "currentMetrics": {
+        "sourceCharacters": 298,
+        "translationCharacters": 325,
+        "expansionRatio": 1.091,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 325,
+        "readingSecondsAtReferenceRate": 19.12,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/cutscene/civilians_04",
+      "source": "Ah, oui, oui, of course! Here small depot, but les Boches, they take it away. Dominique, mon voisin, he is résistant, watch the depot, oui? Now he is in the stable… Eh… West… Big box! Box en bois, comprendre? Wood box! He have eyes like un faucon and moustache… Long, very long, jusqu’à Marseille! Good luck, les Anglais, merci!",
+      "translation": "Ah, oui, oui, claro! Tinha um pequeno depósito aqui, mas les Boches levaram tudo. Dominique, mon voisin, é um résistant - vigiava o depósito, oui? Agora está no estábulo... Eh... Oeste... Caixa grande! Caixa en bois, comprendre? Caixa de madeira! Ele tem olhos como un faucon e bigode... Comprido, muito comprido, jusqu’à Marseille! Boa sorte, les Anglais, merci!",
+      "sourceHash": "585544529e879092ea53a78ec01e36e4e873d03f7369f947274ee90a16257e81",
+      "translationHash": "ea2d98aea1f0b96cf0224d7021c682d6c6d4b459813aadbd58de7f35f90b307c",
+      "beforeCharacters": 363,
+      "currentMetrics": {
+        "sourceCharacters": 328,
+        "translationCharacters": 363,
+        "expansionRatio": 1.107,
+        "explicitLines": 1,
+        "longestExplicitLineCharacters": 363,
+        "readingSecondsAtReferenceRate": 21.35,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "long-dialogue-template"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Conteúdo longo também no original ou necessário para tutorial, contexto militar e condições. Conservar requisitos, entidades e voz; sem corte automático nem confirmação de encaixe/tempo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_take_body",
+      "source": "To carry the dead body,\n\nclick <c(B29557)>Take</c> action in <c(B29557)>Item Options</c> on the control panel. \n\nTo drop the body, select any weapon at your unit.",
+      "translation": "Para carregar o cadáver,\n\nclique em <c(B29557)>Pegar</c> nas <c(B29557)>Opções de Item</c> no painel de controle.\n\nPara largar o corpo, selecione qualquer arma da sua unidade.",
+      "sourceHash": "8c70958bddf940a6c442ec58520678d73bb402852d41ddcc5331586ee196f0f4",
+      "translationHash": "89c50aee23bb868ca559b78819bbf27cca4417a877ad718246195d5b51a59dda",
+      "beforeCharacters": 145,
+      "currentMetrics": {
+        "sourceCharacters": 132,
+        "translationCharacters": 145,
+        "expansionRatio": 1.098,
+        "explicitLines": 5,
+        "longestExplicitLineCharacters": 60,
+        "readingSecondsAtReferenceRate": 8.53,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_knifes",
+      "source": "Use <c(B29557)>throwing knifes</c> to eliminate enemies silently. \n\nYou can throw them more effectively in <c(B29557)>direct control</c>.",
+      "translation": "Use <c(B29557)>facas de arremesso</c> para eliminar inimigos silenciosamente. \n\nVocê pode arremessá-las com mais eficácia em <c(B29557)>controle direto</c>.",
+      "sourceHash": "3c7cd0f774336d5339f8c75280b2df01714856333cc8b0a3df3265b6bd4ce700",
+      "translationHash": "475df66e3af5dc0c2ba57e6dc9078903e723bfa3e61ec566e3ca473bd13626e0",
+      "beforeCharacters": 126,
+      "currentMetrics": {
+        "sourceCharacters": 107,
+        "translationCharacters": 126,
+        "expansionRatio": 1.178,
+        "explicitLines": 3,
+        "longestExplicitLineCharacters": 63,
+        "readingSecondsAtReferenceRate": 7.41,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_side_quest",
+      "source": "Optional activities will not be available after reporting to HQ. \n\nTo report to HQ, click on the specific button in the reinforcements tab. This button is shown when you're near to the hotel building.",
+      "translation": "As atividades opcionais não estarão disponíveis após você se apresentar ao QG. \n\nPara se apresentar ao QG, clique no botão correspondente na aba de reforços. Esse botão aparece quando você está perto do hotel.",
+      "sourceHash": "f97bac261a84f7202f0c79f90dcf89046c65679277913911ac46f8194d289218",
+      "translationHash": "d8dc0a23d11f936a67160a6e87ec131b226ce0360944e6a7d1e6cf117e0b8836",
+      "beforeCharacters": 209,
+      "currentMetrics": {
+        "sourceCharacters": 200,
+        "translationCharacters": 209,
+        "expansionRatio": 1.045,
+        "explicitLines": 3,
+        "longestExplicitLineCharacters": 128,
+        "readingSecondsAtReferenceRate": 12.29,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_refuel_02",
+      "source": "To <c(B29557)>fill the canister</c>, put it in your character's hands. \n\nYou can do this by double-clicking on the item in the inventory. \n\nWhile the canister is in your hand, <c(B29557)>hover over any vehicle</c>. \n\nA can icon will appear. Right-click to fill the canister.",
+      "translation": "Para <c(B29557)>encher o galão</c>, coloque-o nas mãos do personagem. \n\nVocê pode fazer isso clicando duas vezes no item no inventário. \n\nEnquanto o galão estiver em suas mãos, <c(B29557)>passe o mouse sobre qualquer veículo</c>. \n\nUm ícone de galão aparecerá. Clique com o botão direito para enchê-lo.",
+      "sourceHash": "4bb971a84316ddaf8d4c0a9f479e8a61c95d3fc2f3de466df6faa05cd6b53a59",
+      "translationHash": "e62d2a488e564df54b09c5f9e58962db2e9246882eaeb422ce622ad02eb766c9",
+      "beforeCharacters": 272,
+      "currentMetrics": {
+        "sourceCharacters": 244,
+        "translationCharacters": 272,
+        "expansionRatio": 1.115,
+        "explicitLines": 7,
+        "longestExplicitLineCharacters": 77,
+        "readingSecondsAtReferenceRate": 16,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_refuel_03",
+      "source": "To <c(B29557)>refuel the tractor from a canister</c>, \n\nhover over the tractor while the character is carrying a canister full of gas. A funnel icon will appear. \n\nClick the right mouse button and the character will transfer the gas.",
+      "translation": "Para <c(B29557)>abastecer o trator com o galão</c>, \n\npasse o mouse sobre o trator enquanto o personagem carrega um galão cheio de combustível. Um ícone de funil aparecerá. \n\nClique com o botão direito e o personagem transferirá o combustível.",
+      "sourceHash": "feaa65cf61a92a062742cd4d65ac98bf0c16806dcd6559e81644046285bba616",
+      "translationHash": "5ebcbbfe678ad60b88fcd100db0cea41e70b38144fa6997cf4c38ca43474f491",
+      "beforeCharacters": 228,
+      "currentMetrics": {
+        "sourceCharacters": 218,
+        "translationCharacters": 228,
+        "expansionRatio": 1.046,
+        "explicitLines": 5,
+        "longestExplicitLineCharacters": 119,
+        "readingSecondsAtReferenceRate": 13.41,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/ui/hint_part01_choice",
+      "source": "You can select either <c(B29557)>Stealth</c> or <c(B29557)>Combat</c> approach for this mission phase.\n\nClick at one of the options at the <c(B29557)>reinforcements tab</c>.",
+      "translation": "Você pode escolher a abordagem <c(B29557)>Furtiva</c> ou <c(B29557)>Combate</c> para esta fase da missão.\n\nClique em uma das opções na <c(B29557)>aba de reforços</c>.",
+      "sourceHash": "34fd79bfecc9bf23ce55ff322450178c9b8e34e21e32fcf374412970a3079f23",
+      "translationHash": "16b1b7035997601c2c21ec35cba3e083793f00417bcc7961b436956e27b8ee7e",
+      "beforeCharacters": 121,
+      "currentMetrics": {
+        "sourceCharacters": 128,
+        "translationCharacters": 121,
+        "expansionRatio": 0.945,
+        "explicitLines": 3,
+        "longestExplicitLineCharacters": 75,
+        "readingSecondsAtReferenceRate": 7.12,
+        "confirmedDisplaySeconds": null,
+        "templateCharactersPerConfirmedSecond": null,
+        "variableSubstitutions": [],
+        "advisory": [
+          "multiple-explicit-lines"
+        ],
+        "issues": [],
+        "screenFitVerified": false,
+        "audioSyncVerified": false
+      },
+      "status": "retained-after-source-reading",
+      "reason": "Instrução estruturada com parágrafos explícitos. Preservar disposição e requisitos; mais de duas linhas não demonstra falha na janela do jogo."
+    }
+  ],
+  "screenFitVerified": false,
+  "audioSyncVerified": false,
+  "limitations": [
+    "Candidates selected by context or verified native dialogue caller, not every message is proven a timed subtitle.",
+    "Explicit line length is not rendered width; engine wrapping, font fallback, resolution and scale are not simulated.",
+    "Reference reading seconds are a screening estimate, never audio length or actual display duration.",
+    "Variables retain template notation; their rendered length is unknown.",
+    "No truncation or automatic hard line breaks are applied."
+  ]
+}

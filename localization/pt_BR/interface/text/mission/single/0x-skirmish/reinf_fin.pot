@@ -169,11 +169,11 @@ msgstr "Ford 3-Ton(Combustível)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_ammo"
 msgid "Ford 3-Ton(Supply)"
-msgstr "Ford 3-Ton(Suprimentos)"
+msgstr "Ford 3-Ton (Suprimentos)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ford_3ton_eng"
 msgid "Ford(Engineer)"
-msgstr "Ford(Engenharia)"
+msgstr "Ford (Engenharia)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/heavy_mg_maxim_m1910_30"
 msgid "Maxim M/09-09"
@@ -193,7 +193,7 @@ msgstr "76 RK/27"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ds39_stand_fin"
 msgid "DS-39/VKT Stand"
-msgstr "DS-39/VKT (suporte)"
+msgstr "DS-39/VKT (Suporte)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/20mm_itk35"
 msgid "20 ItK/35 Breda"
@@ -253,7 +253,7 @@ msgstr "47 PstK/39"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32_tow"
 msgid "45 PstK/32(towed)"
-msgstr "45 PstK/32(Rebocado)"
+msgstr "45 PstK/32 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_m1902"
 msgid "76mm M1902"
@@ -277,7 +277,7 @@ msgstr "203 H/17"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin"
 msgid "Stu 40 G (Late)"
-msgstr "Stu 40 G (tardio)"
+msgstr "Stu 40 G (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ba10_fin"
 msgid "BAF C"
@@ -329,7 +329,7 @@ msgstr "Hotchkiss H39"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/kht130_fin"
 msgid "KhT-130(Flame)"
-msgstr "KhT-130(Lança-Chamas)"
+msgstr "KhT-130 (Lança-chamas)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t26_33_fin"
 msgid "T-26B"
@@ -353,7 +353,7 @@ msgstr "76mm F-22 M1936"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/75mm_k40_tow"
 msgid "75 K/40(towed)"
-msgstr "75 K/40(Rebocado)"
+msgstr "75 K/40 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/75mm_k40"
 msgid "75 K/40"
@@ -361,7 +361,7 @@ msgstr "75 K/40"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_f22_tow"
 msgid "76mm-F-22(towed)"
-msgstr "76mm-F-22(Rebocado)"
+msgstr "76mm-F-22 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k36"
 msgid "76 K/36"
@@ -369,7 +369,7 @@ msgstr "76 K/36"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k36_tow"
 msgid "76 K/36(towed)"
-msgstr "76 K/36(Rebocado)"
+msgstr "76 K/36 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_30_40"
 msgid "76 K/02-30/40"
@@ -385,11 +385,11 @@ msgstr "Sd.Kfz10(PaK 38)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_30_40_tow"
 msgid "76 K/02(towed)"
-msgstr "76 K/02(Rebocado)"
+msgstr "76 K/02 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/50mm_pak38_tow"
 msgid "5cm PaK38(towed)"
-msgstr "5cm PaK38(Rebocado)"
+msgstr "5cm PaK38 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/50mm_pak38"
 msgid "5cm PaK38"
@@ -417,7 +417,7 @@ msgstr "Pz II Ausf.C"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/88mm_flak18_tow"
 msgid "8.8cm FlaK18(tow)"
-msgstr "8.8cm FlaK18 (rebocado)"
+msgstr "8.8cm FlaK18 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/105mm_lefh18"
 msgid "10.5cm LeFH 18"
@@ -429,11 +429,11 @@ msgstr "122mm A-19 M1931/3"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/122mm_a19_tow"
 msgid "122mm A-19(towed)"
-msgstr "122mm A-19(Rebocado)"
+msgstr "122mm A-19 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/75mm_itk37_tow"
 msgid "75ItK/37(towed)"
-msgstr "75ItK/37(Rebocado)"
+msgstr "75ItK/37 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/107mm_k10"
 msgid "107 K/10"
@@ -441,7 +441,7 @@ msgstr "107 K/10"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/107mm_k10_tow"
 msgid "107 K/10(towed)"
-msgstr "107 K/10(Rebocado)"
+msgstr "107 K/10 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/105mm_h33"
 msgid "105 H/33"
@@ -545,15 +545,15 @@ msgstr "76 ItK/31"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_itk31tow"
 msgid "76 ItK/31(towed)"
-msgstr "76 ItK/31(Rebocado)"
+msgstr "76 ItK/31 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/76mm_k02_late"
 msgid "76 K/02 (Late)"
-msgstr "76 K/02 (tardio)"
+msgstr "76 K/02 (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/45mm_pstk32_mid"
 msgid "45 PstK/32 (Mid)"
-msgstr "45 PstK/32 (intermediário)"
+msgstr "45 PstK/32 (Intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/ba10m_fin"
 msgid "BAF C"
@@ -561,27 +561,27 @@ msgstr "BAF C"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t26_33_fin_mid"
 msgid "T-26B (Mid)"
-msgstr "T-26B (intermediário)"
+msgstr "T-26B (Intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t26e_mid"
 msgid "T-26E (Mid)"
-msgstr "T-26E (intermediário)"
+msgstr "T-26E (Intermediário)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t28e_fin_late"
 msgid "T-28E (Late)"
-msgstr "T-28E (tardio)"
+msgstr "T-28E (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/t3476_41_fin_late"
 msgid "T-34B (Late)"
-msgstr "T-34B (tardio)"
+msgstr "T-34B (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/kv1_40e_fin_late"
 msgid "KV-1B (Late)"
-msgstr "KV-1B (tardio)"
+msgstr "KV-1B (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/kv1_42_fin_late"
 msgid "KV-1A (Late)"
-msgstr "KV-1A (tardio)"
+msgstr "KV-1A (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_fin/stug3g_fin_early"
 msgid "Stu 40 G"

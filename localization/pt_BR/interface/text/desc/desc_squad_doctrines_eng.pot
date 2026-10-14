@@ -85,7 +85,7 @@ msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "desc/squad/doctrine_typhoon_mk1b_light"
 msgid "<c(B29557)>( I )</c> Typhoon Ib 250lb Bomb"
-msgstr "<c(B29557)>( I )</c> Typhoon Ib 250lb Bomba"
+msgstr "<c(B29557)>( I )</c> Typhoon Ib Bomba 250lb"
 
 msgctxt "desc/squad/doctrine_squad_carrier_late_irr"
 msgid "<c(B29557)>( I )</c> Carrier Section"
@@ -113,7 +113,7 @@ msgstr "<c(B29557)>( II )</c> Churchill Mk.V CS"
 
 msgctxt "desc/squad/doctrine_typhoon_mk1b_heavy"
 msgid "<c(B29557)>( III )</c> Typhoon Ib 500lb Bomb"
-msgstr "<c(B29557)>( III )</c> Typhoon Ib 500lb Bomba"
+msgstr "<c(B29557)>( III )</c> Typhoon Ib Bomba 500lb"
 
 msgctxt "desc/squad/doctrine_76mm_land_mattress"
 msgid "<c(B29557)>( III )</c> Land Mattress"
@@ -233,7 +233,7 @@ msgstr "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "desc/squad/doctrine_hurribomber_mk2c_light"
 msgid "<c(B29557)>( I )</c> Hurribomber IIc 250lb Bomb"
-msgstr "<c(B29557)>( I )</c> Hurribomber IIc 250lb Bomba"
+msgstr "<c(B29557)>( I )</c> Hurribomber IIc Bomba 250lb"
 
 msgctxt "desc/squad/doctrine_squad_carrier_mid_irr"
 msgid "<c(B29557)>( I )</c> Carrier Section"
@@ -257,7 +257,7 @@ msgstr "<c(B29557)>( II )</c> QF 18/25-pdr Mk.I"
 
 msgctxt "desc/squad/doctrine_hurribomber_mk2c_heavy"
 msgid "<c(B29557)>( III )</c> Hurribomber IIc 500lb Bomb"
-msgstr "<c(B29557)>( III )</c> Hurribomber IIc 500lb Bomba"
+msgstr "<c(B29557)>( III )</c> Hurribomber IIc Bomba 500lb"
 
 msgctxt "desc/squad/doctrine_76mm_qf17_25"
 msgid "<c(B29557)>( III )</c> QF 17/25-pdr 'Pheasant'"
@@ -373,7 +373,7 @@ msgstr "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "desc/squad/doctrine_blenheim_mk1_eng_light"
 msgid "<c(B29557)>( I )</c> Blenheim Mk.I 250lb Bomb"
-msgstr "<c(B29557)>( I )</c> Blenheim Mk.I 250lb Bomba"
+msgstr "<c(B29557)>( I )</c> Blenheim Mk.I Bomba 250lb"
 
 msgctxt "desc/squad/doctrine_vickers_mk6"
 msgid "<c(B29557)>( I )</c> Light Tank Mk.VIb"
@@ -397,7 +397,7 @@ msgstr "<c(B29557)>( II )</c> QF 18-pdr Mk.IV"
 
 msgctxt "desc/squad/doctrine_blenheim_mk1_eng_heavy"
 msgid "<c(B29557)>( III )</c> Blenheim Mk.I 500lb Bomb"
-msgstr "<c(B29557)>( III )</c> Blenheim Mk.I 500lb Bomba"
+msgstr "<c(B29557)>( III )</c> Blenheim Mk.I Bomba 500lb"
 
 msgctxt "desc/squad/doctrine_152mm_bl_6_mk19"
 msgid "<c(B29557)>( III )</c> BL 6-inch Mk.XIX"

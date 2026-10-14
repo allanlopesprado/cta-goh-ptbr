@@ -217,7 +217,7 @@ msgstr "75mm M1A1"
 
 msgctxt "mission/single/04-usa/menu_usa/107mm_m2"
 msgid "4.2-inch Mortar M2"
-msgstr "Morteiro M2 de 4.2 polegadas"
+msgstr "Morteiro M2 de 4.2 pol."
 
 msgctxt "mission/single/04-usa/menu_usa/m10_gmc"
 msgid "M10 Wolverine"
@@ -233,11 +233,11 @@ msgstr "M18 'Hellcat'"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a1_75_late"
 msgid "M4A1 (Late)"
-msgstr "M4A1 (tardio)"
+msgstr "M4A1 (Tardio)"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a3_75_late"
 msgid "M4A3 (Late)"
-msgstr "M4A3 (tardio)"
+msgstr "M4A3 (Tardio)"
 
 msgctxt "mission/single/04-usa/menu_usa/m4a3_75w_e4_5"
 msgid "M4A3(75)W 'E4-5'"
@@ -301,7 +301,7 @@ msgstr "155mm 'Long Tom'"
 
 msgctxt "mission/single/04-usa/menu_usa/114mm_m1"
 msgid "4.5in M1 Howitzer"
-msgstr "Obuseiro M1 de 4.5 polegadas"
+msgstr "Canhão M1 de 4.5 pol."
 
 msgctxt "mission/single/04-usa/menu_usa/155mm_m1"
 msgid "155mm Howitzer M1"
@@ -309,7 +309,7 @@ msgstr "Obuseiro M1 de 155mm"
 
 msgctxt "mission/single/04-usa/menu_usa/203mm_m1"
 msgid "8in Howitzer M1"
-msgstr "Obuseiro M1 de 8 polegadas"
+msgstr "Obuseiro M1 de 8 pol."
 
 msgctxt "mission/single/04-usa/menu_usa/m12_gmc"
 msgid "155mm GMC M12"
