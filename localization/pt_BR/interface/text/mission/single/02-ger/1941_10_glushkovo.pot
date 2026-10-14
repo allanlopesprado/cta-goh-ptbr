@@ -33,7 +33,7 @@ msgstr "Excelente trabalho, soldados. Esta posição elevada não será mais uma
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearford"
 msgid "Very good. It looks like the fording area has been cleared of hostile troops."
-msgstr "Muito bem. Parece que a área de travessia foi limpa de tropas hostis."
+msgstr "Muito bem. Parece que a área de travessia a vau foi limpa de tropas hostis."
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearglushkovo"
 msgid "A fine display of tactical excellence, soldiers. The village has been neutralized."
@@ -181,7 +181,7 @@ msgstr "Libere a ponte sobre o Dnieper"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/task1_2"
 msgid "Clear the Dnieper fording area"
-msgstr "Libere a área de travessia do Dnieper"
+msgstr "Libere a área de travessia a vau do Dnieper"
 
 msgctxt "mission/single/02-ger/1941_10_glushkovo/task2"
 msgid "Clear out the Soviet elevated position"

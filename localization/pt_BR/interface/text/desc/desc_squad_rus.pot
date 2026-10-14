@@ -342,7 +342,7 @@ msgstr "<c(A5A095)>(2)</c> Esquadra de Fuzileiros"
 
 msgctxt "desc/squad/squad_cav_sap_recon_early_all(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Recon Sapper Squad"
-msgstr "<c(A5A095)>(3)</c> Esquadra de Sapadores e Reconhecimento de Cavalaria"
+msgstr "<c(A5A095)>(3)</c> Esquadra de Sapadores de Reconhecimento de Cavalaria"
 
 msgctxt "desc/squad/squad_cav_early_all(rus)"
 msgid "<c(A5A095)>(3)</c> Cavalry Rifle Squad"
@@ -482,7 +482,7 @@ msgstr "<c(A5A095)>(3+)</c> Esquadra de Fuzileiros da Guarda de Elite"
 
 msgctxt "desc/squad/squad_penal_mid_def(rus)"
 msgid "<c(A5A095)>(1)</c> Penal Rifle Squad"
-msgstr "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Batalhão Penal"
+msgstr "<c(A5A095)>(1)</c> Esquadra Penal de Fuzileiros"
 
 msgctxt "desc/squad/squad_nkvd_recon_mid_def(rus)"
 msgid "<c(A5A095)>(2)</c> NKVD Recon Squad"

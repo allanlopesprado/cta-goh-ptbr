@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "tag": "v1.0.23",
-  "title": "v1.0.23 - Revisão contextual e padronização PT-BR",
+  "tag": "v1.0.24",
+  "title": "v1.0.24 - Correções de sentido e validação PT-BR",
   "sourceReferenceDate": "2026-10-07",
   "sourceManifest": "translation/source-manifest.json",
   "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
   "gameVersion": null,
   "gameTested": false,
-  "pakSha256": "fa817df326d1b913366186265ed12fc1a62d1e09220c3c7f5352c97876151a08",
-  "pakBytes": 3881125,
+  "pakSha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+  "pakBytes": 3881968,
   "pakFiles": 363,
   "changelog": "CHANGELOG.md"
 }

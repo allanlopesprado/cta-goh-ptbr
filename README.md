@@ -37,6 +37,7 @@ Se encontrar um erro, informe a versão do jogo, a versão da tradução e, se p
 
 - [Notas e arquivos da versão mais recente](https://github.com/allanlopesprado/cta-goh-ptbr/releases/latest)
 - [Histórico de alterações](CHANGELOG.md)
+- [Exemplos das correções e decisões de contexto](translation/review-v1.0.24.md)
 - [Contribuir com a tradução e documentação técnica](.github/CONTRIBUTING.md)
 
 Projeto não oficial, sem vínculo com os desenvolvedores do jogo. [Aviso legal](.github/LEGAL_NOTICE.md).

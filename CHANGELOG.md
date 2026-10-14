@@ -1,5 +1,56 @@
 # Histórico de versões
 
+## v1.0.24
+
+Segunda revisão textual de 13 de outubro de 2026, com leitura iniciada pelo
+inglês, comparação de todas as variantes contextuais e verificação dos membros
+dos grupos repetidos. Cobertura: 362 catálogos e 22.030 associações lógicas.
+Esta é a versão da tradução, não do jogo.
+
+- 134 ajustes em 41 catálogos, entre correções de sentido, omissões,
+  qualificadores, gramática e refinamentos de clareza delimitados.
+- Funções com fuzil antitanque, guarnição Flak e metralhador distinguidas;
+  rótulos de munição deixam de identificar seus objetos como armas.
+- 52 rótulos com inch localizados, conservando calibres nominais, modelos,
+  variantes e códigos. Ordens e nomes dos equipamentos relacionados alinhados.
+- Alternativas de reforço, origem de coluna inimiga, alvo de clique ferroviário,
+  condições, escopo de esquadra e teclas físicas recuperados.
+- Transferência de combustível não é embarque/desembarque. Fragmento The Mayo
+  preservado sem atribuir patente não demonstrada; inferências e questões do
+  próprio inglês registradas separadamente.
+- Histórico v1.0.19 a v1.0.23 comparado: 88.040 associações entre versões,
+  247 candidatos julgados e nenhuma restauração automática. Leitura manual
+  antiga não integral, com limites explícitos no relatório.
+- 130 testes automatizados aprovados; 3.243 decisões contextuais e 186 entradas
+  com características delimitadas da fonte protegidas. A CI verifica esses casos
+  antes de construir ou publicar o pacote, sem certificar toda a semântica.
+- Preferência de pontuação mantida: sem U+2014 nos textos PT-BR. Referência
+  inglesa e registros das versões anteriores intactos.
+- Pacote com 362 catálogos PT-BR e `localization.info`: 363 arquivos,
+  3.881.968 bytes, conteúdo e CRC32 conferidos. Teste do pacote novo no jogo
+  reservado ao usuário, conforme combinado.
+
+### Exemplos e registros
+
+[Exemplos legíveis de antes/depois](translation/review-v1.0.24.md),
+[originais, decisões e cobertura](translation/adversarial-review-2026-10-13.json)
+e [validação técnica](translation/adversarial-validation-2026-10-13.json).
+O README mantém o foco em download e instalação.
+
+### Integridade do download
+
+SHA-256 de `default.pak`:
+
+```text
+ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53
+```
+
+Referência inglesa original (SHA-256):
+
+```text
+dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6
+```
+
 ## v1.0.23
 
 Revisão contextual de 13 de outubro de 2026, comparando os 362 catálogos e

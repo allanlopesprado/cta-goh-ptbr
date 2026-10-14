@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.24",
+  "stage": "local-validation-before-commit",
+  "baselineCommit": "09c7943b27f70d778a25ea32384ee01fee6a1d6b",
+  "scope": "Validação local dos arquivos selecionados para publicação. A aprovação da CI e a conferência do download público são executadas após o commit; não são antecipadas neste registro.",
+  "source": {
+    "referenceDate": "2026-10-07",
+    "packageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+    "packageRehashed": true,
+    "files": 363,
+    "catalogs": 362,
+    "byteIntegrity": "source-integrity.mjs --check aprovado"
+  },
+  "review": {
+    "catalogs": 362,
+    "logicalAssociations": 22030,
+    "changes": 134,
+    "changedCatalogs": 41,
+    "manifest": "translation/adversarial-review-2026-10-13.json",
+    "method": "Leitura iniciada pelo EN em grupos/templates e comparação de cada variante contextual e membro. Cobertura por arquivo não é certificação histórica integral nem leitura individual repetida de cada string idêntica."
+  },
+  "tests": {
+    "command": "node --test tools/*.test.mjs",
+    "tests": 130,
+    "passed": 130,
+    "failed": 0,
+    "cancelled": 0,
+    "skipped": 0,
+    "exitCode": 0
+  },
+  "checks": [
+    {
+      "command": "node tools/translation-audit.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": {
+          "previousEnglish": 362,
+          "portuguese": 362,
+          "currentEnglish": 362
+        },
+        "counts": {
+          "unchanged": 22030,
+          "added": 0,
+          "changed": 0,
+          "removed": 0,
+          "translatedExact": 21893,
+          "needsTranslationReview": 0
+        },
+        "addedFiles": [],
+        "removedFiles": [],
+        "changedFiles": [],
+        "issuesByType": {
+          "same-as-source-review": 3776,
+          "catalog-syntax-error": 66
+        },
+        "duplicates": 92,
+        "sourceExceptionsUsed": 1
+      }
+    },
+    {
+      "command": "node tools/source-integrity.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": 363,
+        "catalogs": 362,
+        "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/catalog-metadata.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "pluralMessages": 0,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/context-quality.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "rules": 3243,
+        "files": 163,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/semantic-features.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "logicalEntries": 22030,
+        "protectedEntries": 186,
+        "counts": {
+          "nominal-inch-calibre": 176,
+          "anti-tank-rifle-role": 5,
+          "physical-key-name": 3,
+          "fuel-transfer-domain": 2
+        },
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/translation-style.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "issues": []
+      }
+    },
+    {
+      "command": "node .translation-work/adversarial-v24/prepare.mjs verify",
+      "exitCode": 0,
+      "summary": {
+        "appliedExactly": 134,
+        "files": 41,
+        "sourceFieldsAndUnchangedTranslationsPreserved": true
+      }
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "approved"
+    },
+    {
+      "command": "node tools/pack-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "mode": "check",
+        "files": 363,
+        "bytes": 3812494,
+        "archiveBytes": 3881968,
+        "crc32": "verified",
+        "content": "exact expected bytes",
+        "root": "default/",
+        "locale": "pt_BR",
+        "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak"
+      }
+    },
+    {
+      "command": "node tools/release-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "tag": "v1.0.24",
+        "pakSha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+        "pakBytes": 3881968,
+        "gameTested": false,
+        "mode": "--check"
+      }
+    },
+    {
+      "command": "node tools/release-translation.mjs --prepare v1.0.24",
+      "exitCode": 0,
+      "summary": {
+        "tag": "v1.0.24",
+        "pakSha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+        "pakBytes": 3881968,
+        "gameTested": false,
+        "mode": "--prepare"
+      }
+    }
+  ],
+  "preservation": {
+    "englishCatalogsByteIdentical": true,
+    "englishSourceFieldsUnchanged": true,
+    "unselectedPortugueseTargetsUnchanged": true,
+    "appliedChangesVerifiedExactly": 134,
+    "afterHashesVerified": 41,
+    "previousReportsUnmodified": true,
+    "sourceManifestsUnmodified": true,
+    "proof": "prepare.mjs verify usa fonte, antes/depois e SHA-256 dos arquivos selecionados. source-integrity.mjs verifica bytes de todo o EN. git diff --name-only não contém localization/en, source manifests nem relatórios históricos."
+  },
+  "independentQa": {
+    "result": "Nenhum bloqueador substantivo identificado.",
+    "englishFilesComparedToBaseline": 363,
+    "englishBytesIdentical": true,
+    "portugueseReconstructedFromBaselineAndManifest": true,
+    "exactChanges": 134,
+    "exactChangedCatalogs": 41,
+    "historicalJsonReportsCompared": 16,
+    "historicalGitContentIdentical": true,
+    "historicalCheckoutEol": "Diferenças LF/CRLF de checkout explicadas por core.autocrlf=true, sem alteração de conteúdo Git.",
+    "coveragePartitions": 8,
+    "coverageCatalogs": 362,
+    "coverageAssociations": 22030,
+    "overlappingFiles": 0,
+    "unaccountedFiles": 0,
+    "independentArchiveReader": "Python zipfile: CRC de todos os membros e bytes de todos os 363 arquivos conferidos separadamente do verificador Node.",
+    "ambiguousM114ChangeApplied": false
+  },
+  "qualityGates": {
+    "contextRules": 3243,
+    "contextCatalogs": 163,
+    "sourceFeatureEntries": 186,
+    "features": {
+      "nominal-inch-calibre": 176,
+      "anti-tank-rifle-role": 5,
+      "physical-key-name": 3,
+      "fuel-transfer-domain": 2
+    },
+    "scope": "Características delimitadas, não certificado semântico geral. Rótulos de tecla são separados de ações de menu; combustível não prova direção entre veículo e recipiente.",
+    "ptTargetEmDashCount": 0,
+    "inheritedAuditDiagnostics": {
+      "sameAsSourceCandidates": 3776,
+      "catalogSyntaxWarnings": 66,
+      "duplicates": 92,
+      "sourceExceptionsUsed": 1,
+      "explanation": "Diagnósticos herdados de triagem incluem nomes, códigos, fontes vazias e formato legado. Não são tratados como 3.776 frases inglesas esquecidas. O audit não apontou associação nova, tradução a rever por mudança de fonte nem marcador incompatível."
+    }
+  },
+  "package": {
+    "path": "dist/default.pak",
+    "files": 363,
+    "catalogs": 362,
+    "localizationInfo": true,
+    "root": "default/",
+    "locale": "pt_BR",
+    "archiveBytes": 3881968,
+    "payloadBytes": 3812494,
+    "sha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+    "crc32": "verified for every file",
+    "content": "exact expected bytes",
+    "reproducibility": {
+      "rebuilt": true,
+      "beforeSha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+      "afterSha256": "ba067bc1f3e640ace7970d3c6bd52d99cc122340a761b2ed8def2e52ae3a9a53",
+      "deterministicDosDate": "2000-01-01T00:00:00"
+    },
+    "releaseMetadataAndChangelogMatch": true,
+    "checksumAndReleaseNotesPrepared": true
+  },
+  "historicalComparison": {
+    "versions": [
+      "v1.0.19",
+      "v1.0.20",
+      "v1.0.21",
+      "v1.0.22",
+      "v1.0.23"
+    ],
+    "adjacentIdentityComparisons": 88040,
+    "changedAssociationResults": 5836,
+    "candidatesJudged": 247,
+    "confirmedRegressionsAmongExaminedCandidates": 0,
+    "restorations": 0,
+    "limit": "A leitura manual dos deltas antigos não foi integral. Nenhuma regressão comprovada nos candidatos examinados não significa ausência absoluta de regressões."
+  },
+  "game": {
+    "gameTested": false,
+    "installationChanged": false,
+    "gameplayExecuted": false,
+    "userDecision": "Publicar arquivos; usuário testa o jogo depois.",
+    "observation": "Uma captura parcial da v1.0.23 não é teste desta versão nem validação completa de layout."
+  }
+}
