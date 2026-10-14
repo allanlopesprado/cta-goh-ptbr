@@ -473,15 +473,15 @@ msgstr "Cartuchos em Fita de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum"
 msgid "7.92mm Drum (double)"
-msgstr "Tambor (duplo) de 7.92mm"
+msgstr "Tambor (Duplo) de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum ap"
 msgid "7.92mm SmK Drum (double)"
-msgstr "Tambor (duplo) SmK de 7.92mm"
+msgstr "Tambor (Duplo) SmK de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger doubledrum ap2"
 msgid "7.92mm SmK(H) Drum (double)"
-msgstr "Tambor (duplo) SmK(H) de 7.92mm"
+msgstr "Tambor (Duplo) SmK(H) de 7.92mm"
 
 msgctxt "desc/ammo/mgun_ger drum"
 msgid "7.92mm Drum-fed Rounds"
@@ -601,7 +601,7 @@ msgstr "Cartuchos em Fita de 7.92mm"
 
 msgctxt "desc/stuff/mgun_ger doubledrum"
 msgid "7.92mm Drum-Fed Rounds (double)"
-msgstr "Cartuchos em Tambor (duplo) de 7.92mm"
+msgstr "Cartuchos em Tambor (Duplo) de 7.92mm"
 
 msgctxt "desc/stuff/mgun_ger"
 msgid "7.92mm Belt-Fed Rounds"

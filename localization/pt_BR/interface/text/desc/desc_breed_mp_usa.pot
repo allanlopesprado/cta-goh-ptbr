@@ -422,11 +422,11 @@ msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82�
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_asst"
 msgid "82nd Glider MG Crew Asst. [USAGF]"
-msgstr "Auxiliar de Tripulação de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar da Guarnição de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_crew"
 msgid "82nd Glider MG Crew [USAGF]"
-msgstr "Tripulação de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Guarnição de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
@@ -486,11 +486,11 @@ msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_mg_asst"
 msgid "82nd Airborne MG Crew Asst. [USAGF]"
-msgstr "Auxiliar de Tripulação de Metralhadora da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar da Guarnição de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_mg_crew"
 msgid "82nd Airborne MG Crew [USAGF]"
-msgstr "Tripulação de MG da 82ª Aerotransportada [USAGF]"
+msgstr "Guarnição de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
@@ -994,11 +994,11 @@ msgstr "Médico [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/mg_crew"
 msgid "MG Crew [USAGF]"
-msgstr "Tripulação MG [USAGF]"
+msgstr "Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/mg_crew_asst"
 msgid "MG Crew Asst. [USAGF]"
-msgstr "Auxiliar de Tripulação MG [USAGF]"
+msgstr "Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/mp_carbine"
 msgid "Military Police Rifleman [USAGF]"
@@ -1138,11 +1138,11 @@ msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
-msgstr "Ranger Tripulação MG [USAGF]"
+msgstr "Ranger Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_mg_crew_asst"
 msgid "Ranger MG Crew Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Tripulação MG [USAGF]"
+msgstr "Ranger Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/mid/ranger_platoon_com"
 msgid "Ranger Platoon Commander [USAGF]"
@@ -1838,7 +1838,7 @@ msgstr "Oficial Executivo de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_crew"
 msgid "82nd Airborne Weapon Crew [USAGF]"
-msgstr "Tripulação de Arma da 82ª Aerotransportada [USAGF]"
+msgstr "Guarnição de Arma da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_demo"
 msgid "82nd Airborne Demolition Inf. [USAGF]"
@@ -1930,7 +1930,7 @@ msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg"
 msgid "82nd Glider MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg_ammo"
 msgid "82nd Glider MG Ammo Bearer [USAGF]"
@@ -1938,7 +1938,7 @@ msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82�
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_mg_asst"
 msgid "82nd Glider MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
@@ -2042,7 +2042,7 @@ msgstr "Oficial Executivo de Companhia da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_crew"
 msgid "82nd Airborne Weapon Crew [USAGF]"
-msgstr "Tripulação de Arma da 82ª Aerotransportada [USAGF]"
+msgstr "Guarnição de Arma da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_demo"
 msgid "82nd Airborne Demolition Inf. [USAGF]"
@@ -2118,7 +2118,7 @@ msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg"
 msgid "82nd Glider MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_ammo"
 msgid "82nd Glider MG Ammo Bearer [USAGF]"
@@ -2126,7 +2126,7 @@ msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 82�
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_asst"
 msgid "82nd Glider MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da Infantaria de Planadores da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_carbine"
 msgid "82nd Glider Pioneer [USAGF]"
@@ -2186,7 +2186,7 @@ msgstr "Médico da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg"
 msgid "82nd Airborne MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da 82ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg_ammo"
 msgid "82nd Airborne MG Ammo Bearer [USAGF]"
@@ -2194,7 +2194,7 @@ msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_mg_asst"
 msgid "82nd Airborne MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
@@ -2270,7 +2270,7 @@ msgstr "Médico da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg"
 msgid "82nd Airborne MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da 82ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg_ammo"
 msgid "82nd Airborne MG Ammo Bearer [USAGF]"
@@ -2278,7 +2278,7 @@ msgstr "Portador de Munição de Metralhadora da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_mg_asst"
 msgid "82nd Airborne MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da 82ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da 82ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/82nd_pathfinder_carbine"
 msgid "82nd Airborne Pathfinder [USAGF]"
@@ -2414,7 +2414,7 @@ msgstr "Oficial Executivo de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_crew"
 msgid "101st Airborne Weapon Crew [USAGF]"
-msgstr "Tripulação de Arma da 101ª Aerotransportada [USAGF]"
+msgstr "Guarnição de Arma da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_demo"
 msgid "101st Airborne Demolition Inf. [USAGF]"
@@ -2506,7 +2506,7 @@ msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg"
 msgid "101st Glider MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg_ammo"
 msgid "101st Glider MG Ammo Bearer [USAGF]"
@@ -2514,7 +2514,7 @@ msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 101
 
 msgctxt "desc/human/mp/usa/late/101st_glider_mg_asst"
 msgid "101st Glider MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_glider_pio_carbine"
 msgid "101st Glider Pioneer [USAGF]"
@@ -2618,7 +2618,7 @@ msgstr "Oficial Executivo de Companhia da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_crew"
 msgid "101st Airborne Weapon Crew [USAGF]"
-msgstr "Tripulação de Arma da 101ª Aerotransportada [USAGF]"
+msgstr "Guarnição de Arma da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_demo"
 msgid "101st Airborne Demolition Inf. [USAGF]"
@@ -2694,7 +2694,7 @@ msgstr "Auxiliar do Atirador de Fuzil Automático da Infantaria de Planadores da
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg"
 msgid "101st Glider MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_ammo"
 msgid "101st Glider MG Ammo Bearer [USAGF]"
@@ -2702,7 +2702,7 @@ msgstr "Portador de Munição de Metralhadora da Infantaria de Planadores da 101
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_asst"
 msgid "101st Glider MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da Infantaria de Planadores da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_carbine"
 msgid "101st Glider Pioneer [USAGF]"
@@ -2762,7 +2762,7 @@ msgstr "Médico da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg"
 msgid "101st Airborne MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da 101ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg_ammo"
 msgid "101st Airborne MG Ammo Bearer [USAGF]"
@@ -2770,7 +2770,7 @@ msgstr "Portador de Munição de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_mg_asst"
 msgid "101st Airborne MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da 101ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_carbine"
 msgid "101st Airborne Pathfinder [USAGF]"
@@ -2846,7 +2846,7 @@ msgstr "Médico da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg"
 msgid "101st Airborne MG Operator [USAGF]"
-msgstr "Operador de Metralhadora da 101ª Aerotransportada [USAGF]"
+msgstr "Operador de MG da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg_ammo"
 msgid "101st Airborne MG Ammo Bearer [USAGF]"
@@ -2854,7 +2854,7 @@ msgstr "Portador de Munição de Metralhadora da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_mg_asst"
 msgid "101st Airborne MG Asst. [USAGF]"
-msgstr "Auxiliar de Metralhadora da 101ª Aerotransportada [USAGF]"
+msgstr "Auxiliar de MG da 101ª Aerotransportada [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/101st_pathfinder_carbine"
 msgid "101st Airborne Pathfinder [USAGF]"
@@ -4334,11 +4334,11 @@ msgstr "Médico [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_mg_crew"
 msgid "MG Crew [USAGF]"
-msgstr "Tripulação MG [USAGF]"
+msgstr "Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_mg_crew_asst"
 msgid "MG Crew Asst. [USAGF]"
-msgstr "Auxiliar de Tripulação MG [USAGF]"
+msgstr "Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/late_platoon_com"
 msgid "Platoon Commander [USAGF]"
@@ -4510,11 +4510,11 @@ msgstr "Médico [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mg_crew"
 msgid "MG Crew [USAGF]"
-msgstr "Tripulação MG [USAGF]"
+msgstr "Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mg_crew_asst"
 msgid "MG Crew Asst. [USAGF]"
-msgstr "Auxiliar de Tripulação MG [USAGF]"
+msgstr "Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_at_asst"
 msgid "Mountain AT Asst. [USAGF]"
@@ -4570,7 +4570,7 @@ msgstr "Auxiliar do Líder de Esquadra de Engenheiros das Tropas de Montanha [US
 
 msgctxt "desc/human/mp/usa/late/mountain_mg"
 msgid "Mountain MG Operator [USAGF]"
-msgstr "Operador de Metralhadora das Tropas de Montanha [USAGF]"
+msgstr "Operador de MG das Tropas de Montanha [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/mountain_mg_ammo"
 msgid "Mountain MG Ammo Bearer [USAGF]"
@@ -4862,11 +4862,11 @@ msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
-msgstr "Ranger Tripulação MG [USAGF]"
+msgstr "Ranger Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_mg_crew_asst"
 msgid "Ranger MG Crew Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Tripulação MG [USAGF]"
+msgstr "Ranger Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_late_platoon_com"
 msgid "Ranger Platoon Commander [USAGF]"
@@ -4914,11 +4914,11 @@ msgstr "Ranger Portador de Munição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_mg_crew"
 msgid "Ranger MG Crew [USAGF]"
-msgstr "Ranger Tripulação MG [USAGF]"
+msgstr "Ranger Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_mg_crew_asst"
 msgid "Ranger MG Crew Asst. [USAGF]"
-msgstr "Ranger Auxiliar de Tripulação MG [USAGF]"
+msgstr "Ranger Auxiliar da Guarnição de MG [USAGF]"
 
 msgctxt "desc/human/mp/usa/late/ranger_platoon_com"
 msgid "Ranger Platoon Commander [USAGF]"

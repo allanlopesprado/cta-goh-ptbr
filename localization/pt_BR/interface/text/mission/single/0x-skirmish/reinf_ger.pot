@@ -117,7 +117,7 @@ msgstr "Caixa de Munição"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_art_ammo"
 msgid "Opel Blitz(Supply)"
-msgstr "Opel Blitz(Suprimentos)"
+msgstr "Opel Blitz (Suprimentos)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_fuel"
 msgid "Opel Blitz(Fuel)"
@@ -133,7 +133,7 @@ msgstr "Equipe de Engenharia"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/blitz3_6_engineering"
 msgid "Opel(Engineer)"
-msgstr "Opel(Engenharia)"
+msgstr "Opel (Engenharia)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/sdkfz10_pak38"
 msgid "Sd.Kfz 10 PaK 38"
@@ -205,7 +205,7 @@ msgstr "21cm Morser 18"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/210mm_morser18_tow"
 msgid "21cm Morser(towed)"
-msgstr "21cm Morser(Rebocado)"
+msgstr "21cm Morser (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/150mm_nebelwerfer41"
 msgid "Nebelwerfer 41"
@@ -349,7 +349,7 @@ msgstr "2.8cm sPzB 41"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/88mm_flak36"
 msgid "8.8cm FlaK36(towed)"
-msgstr "8.8cm FlaK36(Rebocado)"
+msgstr "8.8cm FlaK36 (Rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/75mm_pak40"
 msgid "7.5cm PaK 40"
@@ -413,7 +413,7 @@ msgstr "StuG III Ausf.G"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/stug3g_late"
 msgid "StuG III.G(Late)"
-msgstr "StuG III.G (tardio)"
+msgstr "StuG III.G (Tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_ger/panzer4g"
 msgid "Pz.Kpfw IV Ausf.G"

@@ -62,7 +62,7 @@ msgstr "Engenheiro Operador de MG 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg_asst"
 msgid "1st AD. Engineer MG Asst. [PSZ]"
-msgstr "Auxiliar de Metralhadora Engenheiro 1ª DA. [PSZ]"
+msgstr "Auxiliar de MG Engenheiro 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_ap"
 msgid "1st AD. Engineer AP Miner [PSZ]"
@@ -94,7 +94,7 @@ msgstr "Operador de MG 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mg_asst"
 msgid "1st AD. MG Asst. [PSZ]"
-msgstr "Auxiliar de Metralhadora 1ª DA. [PSZ]"
+msgstr "Auxiliar de MG 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg"
 msgid "1st AD. Motor MG Operator [PSZ]"
@@ -102,7 +102,7 @@ msgstr "Operador de MG Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg_asst"
 msgid "1st AD. Motor MG Asst. [PSZ]"
-msgstr "Auxiliar de Metralhadora Motorizado 1ª DA. [PSZ]"
+msgstr "Auxiliar de MG Motorizado 1ª DA. [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat"
 msgid "1st AD. Motor AT Inf. [PSZ]"
@@ -270,11 +270,11 @@ msgstr "Engenheiro Lança-chamas da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_mg"
 msgid "1st Parachute Engineer MG Operator [PSZ]"
-msgstr "Engenheiro Operador de Metralhadora da 1ª Brigada Paraquedista Polonesa [PSZ]"
+msgstr "Engenheiro Operador de MG da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_mg_asst"
 msgid "1st Parachute Engineer MG Asst. [PSZ]"
-msgstr "Engenheiro Auxiliar de Metralhadora da 1ª Brigada Paraquedista Polonesa [PSZ]"
+msgstr "Engenheiro Auxiliar de MG da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_eng_piat"
 msgid "1st Parachute Engineer AT Inf. [PSZ]"
@@ -306,15 +306,15 @@ msgstr "Médico da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mg"
 msgid "1st Parachute MG Operator [PSZ]"
-msgstr "Operador de Metralhadora da 1ª Brigada Paraquedista Polonesa [PSZ]"
+msgstr "Operador de MG da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mg_asst"
 msgid "1st Parachute MG Asst. [PSZ]"
-msgstr "Auxiliar de Metralhadora da 1ª Brigada Paraquedista Polonesa [PSZ]"
+msgstr "Auxiliar de MG da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mg_asst_smg"
 msgid "1st Parachute MG Asst. [PSZ]"
-msgstr "Auxiliar de Metralhadora da 1ª Brigada Paraquedista Polonesa [PSZ]"
+msgstr "Auxiliar de MG da 1ª Brigada Paraquedista Polonesa [PSZ]"
 
 msgctxt "desc/human/mp/pol/late/1st_para_mortar"
 msgid "1st Parachute Mortarman [PSZ]"

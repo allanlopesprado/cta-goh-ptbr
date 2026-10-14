@@ -1,0 +1,2627 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.25",
+  "status": "applied-local",
+  "baselineCommit": "5eae128b6d018004c728dd7d54d73e700127688c",
+  "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+  "application": {
+    "changes": 31,
+    "files": 16,
+    "published": false,
+    "committed": false,
+    "gameTested": false,
+    "plannedAfterHashesVerified": true
+  },
+  "scope": {
+    "catalogs": 362,
+    "logicalAssociations": 22030,
+    "missionCatalogs": 121,
+    "missionLogicalAssociations": 5385,
+    "globalChecks": "Every catalog checked technically; manual semantics and native contracts are separately scoped in linked ledgers, not certified for every entry."
+  },
+  "methods": {
+    "identity": "file + msgctxt + exact effective English source and sourceSignature; never by line/context alone",
+    "conversations": "Static branches, callers, speaker candidates and dependencies; no inferred total runtime order",
+    "contracts": "Source/objective/UI/native conditions with separately graded evidence",
+    "readability": "All flagged candidates read against EN; no automatic truncation or film-layout limits",
+    "historical": "11 prior decision documents indexed by current source identity; historical variants do not imply current errors"
+  },
+  "changes": [
+    {
+      "id": 19579,
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_19",
+      "source": "Understood, Lieutenant. Lorry’s on the way, it’s three minutes away. Good work, lads. Out.",
+      "before": "Entendido, Tenente. O caminhão está a caminho, três minutos. Bom trabalho, rapazes. Câmbio e encerro.",
+      "after": "Entendido, Tenente. O caminhão está a caminho, três minutos. Bom trabalho, rapazes. Encerro.",
+      "reason": "Out encerra sem pedir resposta; Câmbio e encerro mistura solicitação de resposta e encerramento. Usar Encerro, preservando destinatário, caminhão e intervalo de três minutos. Equivalência lexical, não certificação histórica de rádio.",
+      "classification": "radio-ending-meaning",
+      "status": "applied"
+    },
+    {
+      "id": 19573,
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_13",
+      "source": "Copy that, sending help to you. Out.",
+      "before": "Entendido, enviando ajuda. Câmbio final.",
+      "after": "Entendido, enviando ajuda. Encerro.",
+      "reason": "Câmbio final já comunica encerramento; uniformizar editorialmente em Encerro para a mesma terminação Out das falas de Dyle. Não mudar o conteúdo da mensagem.",
+      "classification": "editorial-radio-ending-consistency",
+      "status": "applied"
+    },
+    {
+      "id": 16729,
+      "file": "interface/text/mission/single/01-rus/1941_12_tikhvin.pot",
+      "context": "mission/single/01-rus/1941_12_tikhvin/task_sec1_completed",
+      "source": "Free the allied Partisans.",
+      "before": "Liberte os partisans aliados.",
+      "after": "Liberte os guerrilheiros aliados.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 16896,
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "context": "mission/single/01-rus/1942_10_obsich/narrator/ger_officer",
+      "source": "Upon arrival to the village, I want the prisoners dealt with and the men gathered for a sweep of the marshes. The Command wants us to rat out a problematic partisan group.",
+      "before": "Ao chegarmos à aldeia, quero que resolvam a questão dos prisioneiros e reúnam os homens para uma varredura nos pântanos. O Comando quer que localizemos um grupo de partisans problemático.",
+      "after": "Ao chegarmos à aldeia, quero que resolvam a questão dos prisioneiros e reúnam os homens para uma varredura nos pântanos. O Comando quer que localizemos um grupo de guerrilheiros problemático.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 16937,
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "context": "mission/single/01-rus/1942_10_obsich/outro_completed",
+      "source": "The Vitebsk gate would play an important part in the war. It enabled the partisans to disrupt supply lines more easily. Big battles were influenced by the partisans, such as the battle of Kursk. German supplies would never be safe again. Many partisans re-enlisted in the Red Army once their territory had been liberated, a feat to which they themselves had been instrumental.",
+      "before": "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os partisans perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos partisans, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos partisans voltaram a se alistar no Exército Vermelho assim que seu território foi libertado - feito no qual eles próprios foram fundamentais.",
+      "after": "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os guerrilheiros perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos guerrilheiros, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos guerrilheiros voltaram a se alistar no Exército Vermelho assim que seu território foi libertado - feito no qual eles próprios foram fundamentais.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 16942,
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "context": "mission/single/01-rus/1942_10_obsich/task1",
+      "source": "Assist the partisans in eliminating the German convoy.",
+      "before": "Auxilie os partisans na eliminação do comboio alemão.",
+      "after": "Auxilie os guerrilheiros na eliminação do comboio alemão.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 16943,
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "context": "mission/single/01-rus/1942_10_obsich/task2",
+      "source": "Follow the partisans to their dugout.",
+      "before": "Siga os partisans até seu abrigo.",
+      "after": "Siga os guerrilheiros até seu abrigo.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 20700,
+      "file": "interface/text/mission/single/06-bonus/1944_03_trap.pot",
+      "context": "mission/single/06-bonus/1944_03_trap/narrator/officer/intro_05",
+      "source": "I'll tell you what's going on. Partisans in German uniforms are taking our comrades prisoner.",
+      "before": "Vou dizer o que está acontecendo. Partisans em uniformes alemães estão fazendo nossos camaradas prisioneiros.",
+      "after": "Vou dizer o que está acontecendo. Guerrilheiros em uniformes alemães estão fazendo nossos camaradas prisioneiros.",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Partisans é palavra portuguesa válida. Guerrilheiros foi escolhido para manter a nomenclatura dos irregulares soviéticos e do grupo descrito, sem classificar a forma anterior como tradução ausente.",
+      "status": "applied"
+    },
+    {
+      "id": 17124,
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "context": "mission/single/01-rus/1943_11_kiev/reinf_tankmen",
+      "source": "Tankmen",
+      "before": "Tripulação de tanque",
+      "after": "Tripulantes de tanque",
+      "classification": "editorial-person-versus-collective-label",
+      "reason": "Tankmen é plural de pessoas. Tripulantes de tanque se aproxima dos nomes individuais Tankman; Tripulação de tanque é correto para Tank Crew coletivo, mas distinguir as duas fontes ajuda a identificação. Nenhum soldado/blindado real foi identificado por script nesta subauditoria.",
+      "status": "applied"
+    },
+    {
+      "id": 17821,
+      "file": "interface/text/mission/single/02-ger/1945_03_spring-awakening.pot",
+      "context": "mission/single/02-ger/1945_03_spring-awakening/reinf_crew",
+      "source": "Tankmen",
+      "before": "Tripulação de tanque",
+      "after": "Tripulantes de tanque",
+      "classification": "editorial-person-versus-collective-label",
+      "reason": "Tankmen é plural de pessoas. Tripulantes de tanque se aproxima dos nomes individuais Tankman; Tripulação de tanque é correto para Tank Crew coletivo, mas distinguir as duas fontes ajuda a identificação. Nenhum soldado/blindado real foi identificado por script nesta subauditoria.",
+      "status": "applied"
+    },
+    {
+      "id": 16390,
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "context": "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/01",
+      "source": "First, use all of your soldiers to crew the Anti-Tank gun.",
+      "before": "Primeiro, use todos os seus soldados para tripular o canhão antitanque.",
+      "after": "Primeiro, use todos os seus soldados para guarnecer o canhão antitanque.",
+      "classification": "editorial-weapon-crew-verb",
+      "reason": "A fonte ordena crew de canhão/obuseiro, não tripular veículo. Guarnecer é coerente com Guarnição para armamento coletivo e mantém todos os operadores/homens e a ação. Não alterar Tripular de tanques, rádio-veículo ou Grille autopropulsado.",
+      "status": "applied"
+    },
+    {
+      "id": 16399,
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "context": "mission/single/00-bootcamp/03_artillery-reinforcements/narrator/ger_officer/06b",
+      "source": "You now possess an ammunition truck. Crew the artillery piece and drive the truck closer to resupply your howitzer!",
+      "before": "Agora você tem um caminhão de munição. Tripule a peça de artilharia e aproxime o caminhão para reabastecer o obuseiro!",
+      "after": "Agora você tem um caminhão de munição. Guarneça a peça de artilharia e aproxime o caminhão para reabastecer o obuseiro!",
+      "classification": "editorial-weapon-crew-verb",
+      "reason": "A fonte ordena crew de canhão/obuseiro, não tripular veículo. Guarnecer é coerente com Guarnição para armamento coletivo e mantém todos os operadores/homens e a ação. Não alterar Tripular de tanques, rádio-veículo ou Grille autopropulsado.",
+      "status": "applied"
+    },
+    {
+      "id": 16413,
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "context": "mission/single/00-bootcamp/03_artillery-reinforcements/task1",
+      "source": "Crew the AT gun with all your men.",
+      "before": "Tripule o canhão AT com todos os seus homens.",
+      "after": "Guarneça o canhão AT com todos os seus homens.",
+      "classification": "editorial-weapon-crew-verb",
+      "reason": "A fonte ordena crew de canhão/obuseiro, não tripular veículo. Guarnecer é coerente com Guarnição para armamento coletivo e mantém todos os operadores/homens e a ação. Não alterar Tripular de tanques, rádio-veículo ou Grille autopropulsado.",
+      "status": "applied"
+    },
+    {
+      "id": 16502,
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/officer/pak1",
+      "source": "This is the Cannon range. Here we will show you how to engage enemy armored targets with a variety of projectiles. Crew the 3.7cm PaK anti-tank gun with your soldiers to begin the ballistics briefing!",
+      "before": "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar alvos blindados inimigos com uma variedade de projéteis. Tripule o canhão antitanque PaK de 3,7 cm com seus soldados para iniciar o briefing de balística!",
+      "after": "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar alvos blindados inimigos com uma variedade de projéteis. Guarneça o canhão antitanque PaK de 3,7 cm com seus soldados para iniciar o briefing de balística!",
+      "classification": "editorial-weapon-crew-verb",
+      "reason": "A fonte ordena crew de canhão/obuseiro, não tripular veículo. Guarnecer é coerente com Guarnição para armamento coletivo e mantém todos os operadores/homens e a ação. Não alterar Tripular de tanques, rádio-veículo ou Grille autopropulsado.",
+      "status": "applied"
+    },
+    {
+      "id": 19399,
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_03_bastogne/task_secret01_comp",
+      "source": "(Secret Objective #1): Repair and crew the damaged howitzer!",
+      "before": "(Objetivo Secreto nº 1): Repare e tripule o obuseiro danificado!",
+      "after": "(Objetivo Secreto nº 1): Repare e guarneça o obuseiro danificado!",
+      "classification": "editorial-weapon-crew-verb",
+      "reason": "A fonte ordena crew de canhão/obuseiro, não tripular veículo. Guarnecer é coerente com Guarnição para armamento coletivo e mantém todos os operadores/homens e a ação. Não alterar Tripular de tanques, rádio-veículo ou Grille autopropulsado.",
+      "status": "applied"
+    },
+    {
+      "id": 18304,
+      "file": "interface/text/mission/single/03-fin/1941_08_ino_station.pot",
+      "context": "mission/single/03-fin/1941_08_ino_station/story",
+      "source": " The Finnish army is advancing towards Leningrad. At Ino station, Soviet troops are stranded because the railroad is blocked by a sabotaged locomotive. Among the stranded units are two railway guns and crew. They are supposed to withdraw from the front, but their movement orders have arrived too late. Then, the Finns arrive, and the station becomes the scene of a bitter struggle.\n\n In this mission, you will be in charge of the attack. Use your tactical skill to break the Soviet defensive perimeter. Make sure you take those railway guns intact, we could use them very well!",
+      "before": " O exército finlandês está avançando em direção a Leningrado. Na estação Ino, tropas soviéticas estão encalhadas porque a ferrovia está bloqueada por uma locomotiva sabotada. Entre as unidades encalhadas estão dois canhões ferroviários e suas tripulações. Deveriam se retirar da frente, mas suas ordens de movimento chegaram tarde demais. Então, os finlandeses chegam, e a estação torna-se palco de uma luta intensa.\n\nNesta missão, você estará encarregado do ataque. Use sua habilidade tática para romper o perímetro defensivo soviético. Certifique-se de capturar esses canhões ferroviários intactos - poderíamos utilizá-los muito bem!",
+      "after": " O exército finlandês está avançando em direção a Leningrado. Na estação Ino, tropas soviéticas estão encalhadas porque a ferrovia está bloqueada por uma locomotiva sabotada. Entre as unidades encalhadas estão dois canhões ferroviários e suas guarnições. Deveriam se retirar da frente, mas suas ordens de movimento chegaram tarde demais. Então, os finlandeses chegam, e a estação torna-se palco de uma luta intensa.\n\nNesta missão, você estará encarregado do ataque. Use sua habilidade tática para romper o perímetro defensivo soviético. Certifique-se de capturar esses canhões ferroviários intactos - poderíamos utilizá-los muito bem!",
+      "classification": "editorial-weapon-crew-collective",
+      "reason": "Crew explicitamente dos dois canhões ferroviários: guarnições é a escolha de domínio de armamento, sem converter a tripulação de um veículo nem inferir outro escalão.",
+      "status": "applied"
+    },
+    {
+      "id": 21580,
+      "file": "interface/text/mission/single/0x-skirmish/reinf_rus.pot",
+      "context": "mission/single/0x-skirmish/menu_rus/partisans",
+      "source": "Partisans",
+      "before": "Partisanos",
+      "after": "Guerrilheiros",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Reforço soviético Partisans, em contraste com indivíduos Partisan/Guerrilheiro e esquadras de Guerrilheiros no mesmo catálogo nacional. Partisanos é forma portuguesa válida; proposta de familiaridade com os nomes de unidade, não erro semântico.",
+      "status": "applied"
+    },
+    {
+      "id": 842,
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "context": "desc/human/mp/fin/early/scout",
+      "source": "Scout [Maavoimat]",
+      "before": "Explorador [Maavoimat]",
+      "after": "Batedor [Maavoimat]",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Scout individual finlandês usa Batedor, coerente com Scout Squadleader/Scout Section e com batedores nas falas. Explorador era sinônimo válido; não é correção histórica nem identificação de um ator mencionado.",
+      "status": "applied"
+    },
+    {
+      "id": 938,
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "context": "desc/human/mp/fin/late/scout",
+      "source": "Scout [Maavoimat]",
+      "before": "Explorador [Maavoimat]",
+      "after": "Batedor [Maavoimat]",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Scout individual finlandês usa Batedor, coerente com Scout Squadleader/Scout Section e com batedores nas falas. Explorador era sinônimo válido; não é correção histórica nem identificação de um ator mencionado.",
+      "status": "applied"
+    },
+    {
+      "id": 1019,
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "context": "desc/human/mp/fin/mid/scout",
+      "source": "Scout [Maavoimat]",
+      "before": "Explorador [Maavoimat]",
+      "after": "Batedor [Maavoimat]",
+      "classification": "editorial-ui-reference-alignment",
+      "reason": "Scout individual finlandês usa Batedor, coerente com Scout Squadleader/Scout Section e com batedores nas falas. Explorador era sinônimo válido; não é correção histórica nem identificação de um ator mencionado.",
+      "status": "applied"
+    },
+    {
+      "id": 18892,
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "context": "mission/single/04-usa/menu_usa/114mm_m1",
+      "source": "4.5in M1 Howitzer",
+      "before": "Obuseiro M1 de 4.5 polegadas",
+      "after": "Canhão M1 de 4.5 pol.",
+      "classification": "source-ui-nomenclature-alignment",
+      "reason": "O menu inglês chama Howitzer; a ficha da mesma entidade 114mm_m1 usa Gun/Canhão. A cadeia menu-evento-tag-entidade em Cobra confirma o objeto. Alinhar nomenclatura exibida, sem alterar referência inglesa ou certificar classificação histórica.",
+      "status": "applied"
+    },
+    {
+      "id": 19510,
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "context": "mission/single/041-usa_airborne/menu_usa/114mm_m1",
+      "source": "4.5in M1 Howitzer",
+      "before": "Obuseiro M1 de 4.5 polegadas",
+      "after": "Canhão M1 de 4.5 pol.",
+      "classification": "source-ui-nomenclature-alignment",
+      "reason": "Mesmo identificador técnico 114mm_m1, mesmo calibre/modelo da fonte e contraparte global unívoca Canhão M1 de 4.5 pol. Harmonização editorial de dicionário; o caller independente Airborne não foi comprovado.",
+      "status": "applied"
+    },
+    {
+      "id": 18894,
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "context": "mission/single/04-usa/menu_usa/203mm_m1",
+      "source": "8in Howitzer M1",
+      "before": "Obuseiro M1 de 8 polegadas",
+      "after": "Obuseiro M1 de 8 pol.",
+      "classification": "editorial-short-nominal-unit",
+      "reason": "Rótulo curto usa pol. como a UI da mesma peça; conservar valor nominal, modelo e classe.",
+      "status": "applied"
+    },
+    {
+      "id": 19512,
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "context": "mission/single/041-usa_airborne/menu_usa/203mm_m1",
+      "source": "8in Howitzer M1",
+      "before": "Obuseiro M1 de 8 polegadas",
+      "after": "Obuseiro M1 de 8 pol.",
+      "classification": "editorial-short-nominal-unit",
+      "reason": "Rótulo curto usa pol. como a UI da mesma peça; conservar valor nominal, modelo e classe.",
+      "status": "applied"
+    },
+    {
+      "id": 19682,
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/doctrine_allround",
+      "source": "All-Round: BL 6-inch howitzer",
+      "before": "Versátil: Obuseiro BL de 6 polegadas",
+      "after": "Versátil: Obuseiro BL de 6 pol.",
+      "classification": "editorial-short-nominal-unit",
+      "reason": "Rótulo curto usa pol. como a UI da mesma peça; conservar valor nominal, modelo e classe.",
+      "status": "applied"
+    },
+    {
+      "id": 16660,
+      "file": "interface/text/mission/single/01-rus/1941_12_tikhvin.pot",
+      "context": "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/06",
+      "source": "Try to remain stealthy. Do not get too close to sleeping Germans or raise suspicion. You should use the silenced Nagant pistol to take out enemies quietly.",
+      "before": "Tente permanecer furtivo. Não se aproxime demais de alemães dormindo nem levante suspeitas. Use a pistola Nagant com silenciador para eliminar inimigos discretamente.",
+      "after": "Tente permanecer furtivo. Não se aproxime demais de alemães dormindo nem levante suspeitas. Use o revólver Nagant com silenciador para eliminar inimigos discretamente.",
+      "classification": "source-ui-nomenclature-alignment",
+      "reason": "Fonte da fala usa pistol; rótulo exibido de arma é Nagant M1895 Revolver (Silenced)/Revólver Nagant M1895 (Silenciado). PT é fiel à fala inglesa. Inventário nativo e caller confirmam item/contexto. Proposta alinha nomenclatura UI, sem inserir M1895 na fala curta nem declarar fonte historicamente incorreta.",
+      "status": "applied"
+    },
+    {
+      "id": 21262,
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/churchill_mk4_qf75",
+      "source": "Churchill Mk.IV (QF 75-pdr)",
+      "before": "Churchill Mk.IV (QF 75-pdr)",
+      "after": "Churchill Mk.IV (QF 75mm)",
+      "classification": "source-ui-nominal-unit-alignment",
+      "reason": "Caller de Goodwood liga exatamente este menu à entidade churchill_mk4_qf75, cujo nome EN/PT usa QF 75mm. Corrigir a unidade no nome localizado do mesmo objeto, não converter todas as designações pdr para mm. Fonte inglesa preservada.",
+      "status": "applied"
+    },
+    {
+      "id": 20018,
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/ui/obj_progress_offensive",
+      "source": "<c(B29557)>[Doctrine objective]</c>: %1% more Enemies to eliminate using Fire Damage",
+      "before": "<c(B29557)>[Objetivo de doutrina]</c>: %1% Inimigos a mais para eliminar com Dano de Fogo",
+      "after": "<c(B29557)>[Objetivo de doutrina]</c>: %1% Inimigos restantes a eliminar com Dano de Fogo",
+      "classification": "editorial-objective-counter-clarity",
+      "reason": "O contador começa em 20 e diminui com eliminações por fogo. Restantes a eliminar esclarece more sem alterar número, variável, tipo de dano ou condição; a mais para eliminar era tradução válida.",
+      "status": "applied"
+    },
+    {
+      "id": 16489,
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/pak",
+      "source": "You will need to manually shoot the targets in direct control. Press \"E\" by default to switch to direct control with the selected unit. Press \"T\" by default to toggle \"Classic\" and \"Third Person\" modes. Note that the longer you aim at a target, the more accurate your shot will be.",
+      "before": "Você precisará atirar manualmente nos alvos no controle direto. Pressione \"E\" por padrão para alternar para controle direto com a unidade selecionada. Pressione \"T\" por padrão para alternar entre os modos \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo você mirar em um alvo, mais preciso será o tiro.",
+      "after": "Atire nos alvos manualmente no Controle Direto. Com a unidade selecionada, pressione \"E\" (padrão) para entrar nesse modo e \"T\" (padrão) para alternar entre \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo mirar no alvo, mais preciso será o tiro.",
+      "classification": "editorial-dialogue-readability",
+      "reason": "Reduzir repetição de controle direto e por padrão, mantendo seleção da unidade, teclas E/T padrão, ambos os modos e relação entre tempo de mira e precisão. Não inserir quebra de linha nem alegar encaixe na tela.",
+      "status": "applied"
+    },
+    {
+      "id": 16492,
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/hints/sandbag",
+      "source": "Get to cover behind the sandbags and get ready to fire. Select your soldiers, and hover the cursor close to the sandbag. A silhouette previews the position of your soldiers behind cover. Utilize cover as much as possible to increase the survivability and accuracy of your soldiers.",
+      "before": "Vá para a cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos de areia. Uma silhueta mostra a prévia da posição dos soldados atrás da cobertura. Use cobertura sempre que possível para aumentar a sobrevivência e a precisão dos soldados.",
+      "after": "Procure cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos. A silhueta indica onde eles ficarão. Use cobertura sempre que possível para aumentar suas chances de sobrevivência e sua precisão.",
+      "classification": "editorial-dialogue-readability",
+      "reason": "Prévia da posição torna-se indicação de onde os soldados ficarão. Preservar sacos de areia, seleção, passagem do cursor, cobertura e benefícios de sobrevivência/precisão, sem instruir um clique que a fonte não pede.",
+      "status": "applied"
+    },
+    {
+      "id": 19564,
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04",
+      "source": "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out.",
+      "before": "Cabo Crosby, você está no comando da equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Me reporte quando estiver pronto para evacuação e enviarei um caminhão para os feridos. Não posso fazer isso agora - o céu está perigoso demais. Câmbio e encerro.",
+      "after": "Cabo Crosby, você comanda a equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Avise-me quando estiver pronto para a evacuação e enviarei um caminhão para os feridos. Não posso enviá-lo agora: o céu está perigoso demais. Encerro.",
+      "classification": "dialogue-readability-and-radio-ending-meaning",
+      "reason": "Report me é informar que está pronto: Avise-me evita o calque Me reporte. Preservar Cabo Crosby, Williams, equipe médica, feridos, promessa condicional do caminhão e impedimento atual por ameaça no céu. A terminação Out encerra a transmissão sem pedir resposta: Encerro, sem acrescentar Câmbio. Evidência lexical do fornecedor Mobile Systems e equivalência Câmbio/Over no MCA 100-16/2025; não certifica protocolo histórico WWII.",
+      "status": "applied"
+    }
+  ],
+  "files": [
+    {
+      "file": "interface/text/mission/single/01-rus/1941_12_tikhvin.pot",
+      "sourceSha256": "37aa8739f6f6c59ef9b81e7f9d5ce941cf6aeb96765130bd61e1a8a9351a2ebb",
+      "translationBeforeSha256": "f41bbf5715f9bb4cc3177ae96db29d6040fcf2276ca382b1e981664b5a29e4f7",
+      "plannedAfterSha256": "00b2afaace053e850da5491f189baa1dea6ce1855e9ed2ce0af9b24d362cac05",
+      "changes": 2,
+      "translationAfterSha256": "00b2afaace053e850da5491f189baa1dea6ce1855e9ed2ce0af9b24d362cac05"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_10_obsich.pot",
+      "sourceSha256": "2410ccf0765564a892b0b9dc906c6d3c3d8d55268105455e3084a062d00be702",
+      "translationBeforeSha256": "e25ff4dec1c37a3831325614dc11b1e38becf542a99ed2108c9ee9532147ad2c",
+      "plannedAfterSha256": "e417d3a5017238fb85242cbdeb4fa755cb8ad39ed32db675a6370a07c7da685a",
+      "changes": 4,
+      "translationAfterSha256": "e417d3a5017238fb85242cbdeb4fa755cb8ad39ed32db675a6370a07c7da685a"
+    },
+    {
+      "file": "interface/text/mission/single/06-bonus/1944_03_trap.pot",
+      "sourceSha256": "8cca693a70946d883cb077efee6c4da47838fa46ce6f6ab0d1aea218d9680da3",
+      "translationBeforeSha256": "513ca26ca7a575dfcee256db62acee5a7dad5a45a80bbb7caf056f010d492b1e",
+      "plannedAfterSha256": "5b589c876ee9ac150b0a81dc33d5b1fb6162c1197400fdbf620954403e54da1b",
+      "changes": 1,
+      "translationAfterSha256": "5b589c876ee9ac150b0a81dc33d5b1fb6162c1197400fdbf620954403e54da1b"
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_11_kiev.pot",
+      "sourceSha256": "c5cf426e2ba4fe95d498dcaf7f438fd7f6178d208b4b134f96c41ba89870ca18",
+      "translationBeforeSha256": "d0d8b11c07904b30a2c1702b20e7200ba532018c092526bfb47f7123851e4588",
+      "plannedAfterSha256": "4787deaa79bb08a6dfae53006593512ebf2df1ccb4339973c606ca276d5a3e9f",
+      "changes": 1,
+      "translationAfterSha256": "4787deaa79bb08a6dfae53006593512ebf2df1ccb4339973c606ca276d5a3e9f"
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1945_03_spring-awakening.pot",
+      "sourceSha256": "9f987bbd66d42a603dbf5e09b3e70ed8d6be3cefbcb9e7dd415fa1922ac401f4",
+      "translationBeforeSha256": "d32f5926a128a395c41935df1f34193ee94d7d1adcbaf8d51599b8f556cb2fa3",
+      "plannedAfterSha256": "b843e9b2eceea98ea15a579312293565f60a40de2353b18c450c6b9062e8842c",
+      "changes": 1,
+      "translationAfterSha256": "b843e9b2eceea98ea15a579312293565f60a40de2353b18c450c6b9062e8842c"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/03_artillery-reinforcements.pot",
+      "sourceSha256": "e7f767d99947f107df52d1ae95fa64a275d2071735c6dba748ee3764a1cd745b",
+      "translationBeforeSha256": "b7c35c3b8ed040e876f6319dc7e0d599ee6c2d297a2ecd942791f6ca34f040d7",
+      "plannedAfterSha256": "dffcf302f740f54c122ea87ef4d2746ab52ce86de5cdfd18562599f95cc39bab",
+      "changes": 3,
+      "translationAfterSha256": "dffcf302f740f54c122ea87ef4d2746ab52ce86de5cdfd18562599f95cc39bab"
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "sourceSha256": "a0e3fbfb1e96d3d79d648cd6531c9e19852433c6ac01bb8d352110741dc4df8c",
+      "translationBeforeSha256": "712c88f3d57b9a2b9f337723ccf9fca4790b2b24c37f0bddf90e45ef3885201a",
+      "plannedAfterSha256": "2e7a2cb3a4174682be96a7a458e8d2252acc985dfdd23233ee7a11a795cfc982",
+      "changes": 3,
+      "translationAfterSha256": "2e7a2cb3a4174682be96a7a458e8d2252acc985dfdd23233ee7a11a795cfc982"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_03_bastogne.pot",
+      "sourceSha256": "395a200d3dff962ceb01ac4f54cbf2dc5565d56e6c321f06917c4f8d7f348797",
+      "translationBeforeSha256": "80e67e75c70e24e4ce647cfe61f57f2595564d62a6d9a57938e1053a9b4ad3a2",
+      "plannedAfterSha256": "1ebc29de0886f4e07a651c65a987463fe9e5f8be522ebe262d1b05b44e907f9a",
+      "changes": 1,
+      "translationAfterSha256": "1ebc29de0886f4e07a651c65a987463fe9e5f8be522ebe262d1b05b44e907f9a"
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1941_08_ino_station.pot",
+      "sourceSha256": "7fe527fed762b2d60528019d4de08817ea9888e1d40fbfa919d4da0a96d7c42e",
+      "translationBeforeSha256": "056c060149f292e1826fc2c04f9c9e89cb5e349afe97e427bd936b52867aac94",
+      "plannedAfterSha256": "b520a4fd02b16d543b1e0ac36616200824cab89ca0f297be54de6a46527e1b3a",
+      "changes": 1,
+      "translationAfterSha256": "b520a4fd02b16d543b1e0ac36616200824cab89ca0f297be54de6a46527e1b3a"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_rus.pot",
+      "sourceSha256": "c424cd9989db273a5bc4fc44c796c625a04c4906d0390d683cccfa958bef04c8",
+      "translationBeforeSha256": "13b8a417fafd2ad883409fddc032fb852e9ccd365f643a8f6f4893bc804465af",
+      "plannedAfterSha256": "2375fcf45920ee415f34e96be48becd61a164b770fdefa41fa62abdc9da33b18",
+      "changes": 1,
+      "translationAfterSha256": "2375fcf45920ee415f34e96be48becd61a164b770fdefa41fa62abdc9da33b18"
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_fin.pot",
+      "sourceSha256": "8e4e627e03bb1bf3c354e553c6c0e27fb305c7b6182def62d2938609b6f4d5e5",
+      "translationBeforeSha256": "7d4c4de1b0d71b2a564d66374923b624fbc98897b750f65419a7cbaa6b629a0b",
+      "plannedAfterSha256": "1a4a683b61cb45f349757d648a5eb1d753c56f9bbf330ec8209aac7ef14552ed",
+      "changes": 3,
+      "translationAfterSha256": "1a4a683b61cb45f349757d648a5eb1d753c56f9bbf330ec8209aac7ef14552ed"
+    },
+    {
+      "file": "interface/text/mission/single/04-usa/reinf_usa.pot",
+      "sourceSha256": "bb0e284efe8f1a3fe97a327953c40cc6c2aca906c32bc94de799bd9ec763bcaa",
+      "translationBeforeSha256": "2d60e92a4d05cade985357fc32338438d604b865aa026f5d9c498c7bd5b53ce9",
+      "plannedAfterSha256": "c715d6f1492ebf75969a6e8405d531c1c703b6e75722c6b357abeae4754b7cec",
+      "changes": 2,
+      "translationAfterSha256": "c715d6f1492ebf75969a6e8405d531c1c703b6e75722c6b357abeae4754b7cec"
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/reinf_usa.pot",
+      "sourceSha256": "716fe76eeab1a0512764403b0f1dd48c6760230c219dd4241ecbcf4e4276c0f0",
+      "translationBeforeSha256": "97a5ff092f6bdc23849aa04ce25045662ac22ffd61d81bc4b5dce7ac9e4e3a6a",
+      "plannedAfterSha256": "40b96a977219f2e8b62af27cc272ed7523e452efe121f7203039ad3cce0689dc",
+      "changes": 2,
+      "translationAfterSha256": "40b96a977219f2e8b62af27cc272ed7523e452efe121f7203039ad3cce0689dc"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "sourceSha256": "3e1847403c721a922d39711bee3f5446cc64abe1b543ced6da0683cff589c63c",
+      "translationBeforeSha256": "129d133f66e9f85df45acb26a5a829cc462fab62856ab4f5d6bc63ffe9f02c87",
+      "plannedAfterSha256": "87afd24d6d267f1d142a4d21e44f239f3ba3d4977d053505f4a895f57d3409ca",
+      "changes": 4,
+      "translationAfterSha256": "87afd24d6d267f1d142a4d21e44f239f3ba3d4977d053505f4a895f57d3409ca"
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "sourceSha256": "84428294244f199922caf06c11efcc9a4a6bbf39c95f16569eb245ed9ab06e1b",
+      "translationBeforeSha256": "18e3904fd08490c402b248c1fc1898a49eaa07953ede33f63dbaa65546e31dcf",
+      "plannedAfterSha256": "0b3387d75caa9c6e97c6c38cfbe878457194f6a2eb5f15df9c39a61247830979",
+      "changes": 1,
+      "translationAfterSha256": "0b3387d75caa9c6e97c6c38cfbe878457194f6a2eb5f15df9c39a61247830979"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "sourceSha256": "df8d5aea69e0e04388ac78fada3974841895c2ac1f383aa593bfe339c233bfff",
+      "translationBeforeSha256": "688218ed082375675805a6bd6a871e3e91e02a1d9c3eb9fe2f55296411f0d36a",
+      "plannedAfterSha256": "5075b6e11387636580238fe6204d09c244aa8f8a2b1f7bb51f38662f2af6198b",
+      "changes": 1,
+      "translationAfterSha256": "5075b6e11387636580238fe6204d09c244aa8f8a2b1f7bb51f38662f2af6198b"
+    }
+  ],
+  "retainedDecisions": [
+    {
+      "id": 16324,
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/14",
+      "source": "Fortunately, we are prepared for this. Take command of the AT rifleman, and turn that armored car into Swiss cheese!",
+      "translation": "Felizmente, estamos preparados para isso. Assuma o comando do soldado com o fuzil antitanque e transforme aquele blindado em queijo suíço!",
+      "status": "retained",
+      "reason": "A função genérica soldado com fuzil antitanque continua correta; o ator possui PzB39 e a classe AT Inf. [Heer]. Não impor outra classe nominal."
+    },
+    {
+      "id": 19748,
+      "file": "interface/text/mission/single/05-eng/1940_06_03_dunkirk.pot",
+      "context": "mission/single/05-eng/1940_06_03_dunkirk/narrator/part01_07",
+      "source": "They’re most likely either on the beach or on their way home. I’m afraid some of your riflemen have to learn on the fly. This evacuation has been a total mess from the beginning.",
+      "translation": "Provavelmente estão na praia ou a caminho para casa. Receio que alguns de seus fuzileiros terão de aprender na prática. Esta evacuação foi uma bagunça total desde o início.",
+      "status": "retained",
+      "reason": "Fuzileiros é denominação genérica válida do grupo; não forçar Atirador apenas por existir Rifleman na interface."
+    },
+    {
+      "id": 18474,
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/v2/mission_mguns",
+      "source": "Eliminate the machine gunners on the cliff",
+      "translation": "Elimine os atiradores de metralhadora no penhasco",
+      "status": "retained",
+      "reason": "Objetivo verifica a operabilidade de metralhadoras; não comprova classe nominal MG Operator dos soldados."
+    },
+    {
+      "id": 18475,
+      "file": "interface/text/mission/single/04-usa/1944_06_pointe_du_hoc.pot",
+      "context": "mission/single/04-usa/1944_06_pointe_du_hoc/v2/objective_progress_02_mguns",
+      "source": "Remaining machine gunners on the cliff: %1%",
+      "translation": "Atiradores de metralhadora restantes no penhasco: %1%",
+      "status": "retained",
+      "reason": "Mesmo contador de metralhadores do penhasco; manter função genérica, variável e plural."
+    },
+    {
+      "id": 18655,
+      "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
+      "context": "mission/single/04-usa/1944_12_hill400/narrator/03",
+      "source": "Knock it off! Those M12s are here to blow the hell out of the Germans. Alright Soldiers, scout hill 400 and give us some coordinates for bombardment.",
+      "translation": "Chega! Esses M12s estão aqui para destruir os alemães. Certo, soldados - reconheçam o Morro 400 e nos deem coordenadas para bombardeio.",
+      "status": "retained",
+      "reason": "M12s identifica a artilharia autopropulsada m12_gmc da cena, não a espingarda M12. Conservar forma curta."
+    },
+    {
+      "id": 20009,
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/ui/task04_defensive",
+      "source": "<c(B29557)>[Defensive Doctrine]</c> Eliminate enemy AT guns using the Cromwell IV",
+      "translation": "<c(B29557)>[Doutrina Defensiva]</c> Elimine canhões AT inimigos usando o Cromwell IV",
+      "status": "retained",
+      "reason": "Cromwell IV permanece conforme fonte: há IV no mapa e VI no reforço/narração. Sucesso verifica duas armas AT inoperáveis, sem limitar atacante. A rota de falha pela perda do tanque está explicitamente desativada; não certificar exigência de VI."
+    },
+    {
+      "id": 18365,
+      "file": "interface/text/mission/single/03-fin/1944_06_tali-ilhantala.pot",
+      "context": "mission/single/03-fin/1944_06_tali-ilhantala/reinf/t34",
+      "source": "T-34/84",
+      "translation": "T-34/84",
+      "status": "retained",
+      "reason": "T-34/84 permanece conforme EN. Há T-34/85 no mapa, mas o caller exato de reinf/t34 não foi encontrado; presença no mapa não prova o referente do menu."
+    },
+    {
+      "id": 20178,
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_01",
+      "source": "I need to report to Major Urquhart about my return. He should be at HQ, in the hotel.",
+      "translation": "Preciso reportar ao Major Urquhart sobre meu retorno. Ele deve estar no QG, no hotel.",
+      "status": "retained",
+      "reason": "Major Urquhart permanece conforme fala EN. A UI usa Major-general Elliot Urquhart; não promover patente nem substituir nome por identidade histórica sem vínculo explícito."
+    },
+    {
+      "id": 5812,
+      "file": "interface/text/desc/desc_breed_special_eng.pot",
+      "context": "desc/human/narrator/eng-oosterbek-urquhart",
+      "source": "Maj. Gen Elliot Urquhart",
+      "translation": "Major-general Elliot Urquhart",
+      "status": "retained",
+      "reason": "Nome e patente próprios da ficha EN conservados; não substituir Elliot por Roy por analogia histórica."
+    }
+  ],
+  "nativeEvidence": [
+    {
+      "key": "nagant-tikhvin",
+      "evidenceLevel": "same-mission-inventory-and-speech-caller",
+      "missionIds": [
+        16660
+      ],
+      "uiIds": [
+        11834
+      ],
+      "limits": [
+        "O caller não contém um ponteiro explícito do substantivo Nagant ao inventário do jogador.",
+        "pattern pistol é classe funcional do motor, não prova de funcionamento histórico."
+      ],
+      "native": [
+        {
+          "archive": "map/single.pak",
+          "entry": "single/01-rus/1941_12_tikhvin/0.mi",
+          "bytes": 863148,
+          "sha256": "f550faefeabef25630e8b824d990d0f96b26341e75c63fd1b5b31be998915f29",
+          "totalLines": 36465,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 19430,
+              "text": "\t\t\t{item 0xc009 {cell 0 3}{user \"mgun\"}}"
+            },
+            {
+              "line": 19431,
+              "text": "\t\t}"
+            },
+            {
+              "line": 19432,
+              "text": "\t}"
+            },
+            {
+              "line": 19433,
+              "text": "\t{Inventory 0x8105"
+            },
+            {
+              "line": 19434,
+              "text": "\t\t{box"
+            },
+            {
+              "line": 19435,
+              "text": "\t\t\t{clear}"
+            },
+            {
+              "line": 19436,
+              "text": "\t\t\t{item 0x8106 {cell 0 0}}"
+            },
+            {
+              "line": 19437,
+              "text": "\t\t\t{item \"knife_rus\" {cell 5 0}}"
+            },
+            {
+              "line": 19438,
+              "text": "\t\t\t{item \"bandage_rus\" {cell 5 1}}"
+            },
+            {
+              "line": 19439,
+              "text": "\t\t\t{item \"knife_rus\" {cell 0 2}}"
+            },
+            {
+              "line": 19440,
+              "text": "\t\t\t{item \"satchel_charge_rus\" {cell 3 2}}"
+            },
+            {
+              "line": 19441,
+              "text": "\t\t\t{item \"satchel_charge_rus\" {cell 0 3}}"
+            },
+            {
+              "line": 19442,
+              "text": "\t\t\t{item \"molotov_cocktail\" \"grenade\" {cell 3 5}}"
+            },
+            {
+              "line": 19443,
+              "text": "\t\t\t{item \"molotov_cocktail\" \"grenade\" {cell 0 6}}"
+            },
+            {
+              "line": 19444,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 6 4}}"
+            },
+            {
+              "line": 19445,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 7 4}}"
+            },
+            {
+              "line": 19446,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 7 1}}"
+            },
+            {
+              "line": 19447,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 6 2}}"
+            },
+            {
+              "line": 19448,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 3 6}}"
+            },
+            {
+              "line": 19449,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 4 6}}"
+            },
+            {
+              "line": 19450,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 5 6}}"
+            },
+            {
+              "line": 19451,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 6 6}}"
+            },
+            {
+              "line": 19452,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 35 {cell 7 6}}"
+            },
+            {
+              "line": 19453,
+              "text": "\t\t\t{item \"ppsh_stick\" \"ammo\" 33 {cell 0 7}}"
+            },
+            {
+              "line": 19454,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 7 3}}"
+            },
+            {
+              "line": 19455,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 1 7}}"
+            },
+            {
+              "line": 19456,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 2 7}}"
+            },
+            {
+              "line": 19457,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 1 8}}"
+            },
+            {
+              "line": 19458,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 2 8}}"
+            },
+            {
+              "line": 19459,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 3 8}}"
+            },
+            {
+              "line": 19460,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 4 8}}"
+            },
+            {
+              "line": 19461,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 5 8}}"
+            },
+            {
+              "line": 19462,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 6 8}}"
+            },
+            {
+              "line": 19463,
+              "text": "\t\t\t{item \"revolver_clip\" \"ammo\" 7 {cell 7 8}}"
+            },
+            {
+              "line": 19464,
+              "text": "\t\t\t{item \"nagant_silencer\" filled {cell 0 9}}"
+            },
+            {
+              "line": 19465,
+              "text": "\t\t\t{item \"rdg1_smoke\" \"grenade\" {cell 3 9}}"
+            },
+            {
+              "line": 19466,
+              "text": "\t\t\t{item \"soviet_ushanka\" {cell 5 9}{user \"head\"}}"
+            },
+            {
+              "line": 19467,
+              "text": "\t\t}"
+            },
+            {
+              "line": 19468,
+              "text": "\t}"
+            },
+            {
+              "line": 19469,
+              "text": "\t{Inventory 0xc00c"
+            },
+            {
+              "line": 19470,
+              "text": "\t\t{box"
+            },
+            {
+              "line": 19471,
+              "text": "\t\t\t{clear}"
+            },
+            {
+              "line": 19472,
+              "text": "\t\t\t{item 0xc00d {cell 0 0}}"
+            },
+            {
+              "line": 25010,
+              "text": "\t\t\t\t\t\t{name \"mission/task_new\"}"
+            },
+            {
+              "line": 25011,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 25012,
+              "text": "\t\t\t\t\t{\"task\""
+            },
+            {
+              "line": 25013,
+              "text": "\t\t\t\t\t\t{name \"sec1\"}"
+            },
+            {
+              "line": 25014,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 25015,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 25016,
+              "text": "\t\t\t\t\t\t{time 5}"
+            },
+            {
+              "line": 25017,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 25018,
+              "text": "\t\t\t\t\t{\"talk\""
+            },
+            {
+              "line": 25019,
+              "text": "\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 25020,
+              "text": "\t\t\t\t\t\t\t{tag narrator_assistant}"
+            },
+            {
+              "line": 25021,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 25022,
+              "text": "\t\t\t\t\t\t{text \"$/speech/narrator_assistant/06\"}"
+            },
+            {
+              "line": 25023,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 25024,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 25025,
+              "text": "\t\t\t\t\t\t{time 2}"
+            },
+            {
+              "line": 25026,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 25027,
+              "text": "\t\t\t\t\t{\"entity_state\""
+            },
+            {
+              "line": 25028,
+              "text": "\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 25029,
+              "text": "\t\t\t\t\t\t\t{source advanced}"
+            },
+            {
+              "line": 25030,
+              "text": "\t\t\t\t\t\t\t{ignore_captured_by_user 0}"
+            }
+          ]
+        },
+        {
+          "archive": "gamelogic.pak",
+          "entry": "set/stuff/pistol/nagant_silencer",
+          "bytes": 416,
+          "sha256": "a7e1ed030705ccf49d846dc19127171a1dff09215c7d2b4161f615f3ea0c7b47",
+          "totalLines": 18,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 1,
+              "text": "{from \"pattern pistol\""
+            },
+            {
+              "line": 2,
+              "text": "\t{tag \"silenced\"}"
+            },
+            {
+              "line": 3,
+              "text": "\t{inventory {size 3 1}}"
+            },
+            {
+              "line": 4,
+              "text": "\t{filling \"ammo revolver_clip\" 7}"
+            },
+            {
+              "line": 5,
+              "text": "\t{entity \"nagant_silencer\"}"
+            },
+            {
+              "line": 6,
+              "text": "\t{fireSound \"smallarms/s1/d1/Shared/Surpressed_Pistol/\"}"
+            },
+            {
+              "line": 7,
+              "text": "\t{fireSoundclose \"smallarms/s1/3p/Shared/Surpressed_Pistol/\"}"
+            },
+            {
+              "line": 8,
+              "text": "\t{reloadSound \"nagant\"}"
+            },
+            {
+              "line": 9,
+              "text": "\t{calibre 7.62}"
+            },
+            {
+              "line": 10,
+              "text": "\t{mass 1.2}"
+            },
+            {
+              "line": 11,
+              "text": ""
+            },
+            {
+              "line": 12,
+              "text": "\t(\"reload time\" seconds(5.5))"
+            },
+            {
+              "line": 13,
+              "text": "\t;(\"human health\" damage(200))"
+            },
+            {
+              "line": 14,
+              "text": ""
+            },
+            {
+              "line": 15,
+              "text": "\t(\"velocity\" mps(272))"
+            },
+            {
+              "line": 16,
+              "text": "\t(\"human health\" damage(120))"
+            },
+            {
+              "line": 17,
+              "text": "}"
+            },
+            {
+              "line": 18,
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "m12-hill400",
+      "evidenceLevel": "same-scene-artillery-entities-reinforcement-and-speech-caller",
+      "missionIds": [
+        18655
+      ],
+      "uiIds": [
+        11363
+      ],
+      "limits": [
+        "Não completar uma forma curta correta com a designação longa da UI sem necessidade."
+      ],
+      "native": [
+        {
+          "archive": "dlc3.pak",
+          "entry": "map/single/04-usa/1944_12_hill400/0.mi",
+          "bytes": 1036621,
+          "sha256": "160d00b9040185444218ed2ec23861817ec996910ea60812dadbf05b08fecc57",
+          "totalLines": 38994,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 90,
+              "text": "\t\t{LastItem \"thompson_m1a1_30\"}"
+            },
+            {
+              "line": 91,
+              "text": "\t}"
+            },
+            {
+              "line": 92,
+              "text": "\t{Entity \"thompson_m1a1_30\" 0xd001"
+            },
+            {
+              "line": 93,
+              "text": "\t\t{Extender \"stuff\""
+            },
+            {
+              "line": 94,
+              "text": "\t\t\t{Item \"thompson_m1a1_30\" filled 30}"
+            },
+            {
+              "line": 95,
+              "text": "\t\t}"
+            },
+            {
+              "line": 96,
+              "text": "\t}"
+            },
+            {
+              "line": 97,
+              "text": "\t{Entity \"m12_gmc\" 0xb000"
+            },
+            {
+              "line": 98,
+              "text": "\t\t{Position -4900.23 -5579.36 255.69}"
+            },
+            {
+              "line": 99,
+              "text": "\t\t{xform zl 99.33 y 6.79 zw -40.44}"
+            },
+            {
+              "line": 100,
+              "text": "\t\t{SpawnedInFog}"
+            },
+            {
+              "line": 101,
+              "text": "\t\t{Impregnability harmless}"
+            },
+            {
+              "line": 102,
+              "text": "\t\t{Extender \"detail\""
+            },
+            {
+              "line": 103,
+              "text": "\t\t\t{random}"
+            },
+            {
+              "line": 104,
+              "text": "\t\t}"
+            },
+            {
+              "line": 10999,
+              "text": "\t{Tags \"foxhole_spawned\" 0x20f8}"
+            },
+            {
+              "line": 11000,
+              "text": "\t{Tags \"foxhole_spawned\" 0x20fe}"
+            },
+            {
+              "line": 11001,
+              "text": "\t{Tags \"foxhole_spawned\" 0x2102}"
+            },
+            {
+              "line": 11002,
+              "text": "\t{Tags \"gerflag\" 0x4621}"
+            },
+            {
+              "line": 11003,
+              "text": "\t{Tags \"hidden\" \"usaflag\" 0xc2}"
+            },
+            {
+              "line": 11004,
+              "text": "\t{Tags \"hidden\" \"usaflag\" 0xc3}"
+            },
+            {
+              "line": 11005,
+              "text": "\t{Tags \"hidden\" \"usaflag\" 0xc4}"
+            },
+            {
+              "line": 11006,
+              "text": "\t{Tags \"m12\" \"m12_w60\" 0xb000}"
+            },
+            {
+              "line": 11007,
+              "text": "\t{Tags \"m12\" \"m12_w56\" 0xb015}"
+            },
+            {
+              "line": 11008,
+              "text": "\t{Tags \"m12\" \"m12_w44\" 0xb020}"
+            },
+            {
+              "line": 11009,
+              "text": "\t{Tags \"m12\" \"m12_w64\" 0xf00a}"
+            },
+            {
+              "line": 11010,
+              "text": "\t{Tags \"m12\" \"m12_w67\" 0xf015}"
+            },
+            {
+              "line": 11011,
+              "text": "\t{Tags \"hidden\" \"narrator\" 0xf016}"
+            },
+            {
+              "line": 11012,
+              "text": "\t{Tags \"crosshair\" 0x8000}"
+            },
+            {
+              "line": 11013,
+              "text": "\t{Tags \"hidden\" \"r_rangers\" 0xa002}"
+            },
+            {
+              "line": 11014,
+              "text": "\t{Tags \"hidden\" \"r_rangers\" 0x9002}"
+            },
+            {
+              "line": 11015,
+              "text": "\t{Tags \"hidden\" \"r_rangers\" 0xb021}"
+            },
+            {
+              "line": 11016,
+              "text": "\t{Tags \"hidden\" \"r_rangers\" 0xf017}"
+            },
+            {
+              "line": 11017,
+              "text": "\t{Tags \"hidden\" \"r_rangers\" 0x9800}"
+            },
+            {
+              "line": 27408,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 27409,
+              "text": "\t\t\t\t{point taskaa}"
+            },
+            {
+              "line": 27410,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 27411,
+              "text": "\t\t}"
+            },
+            {
+              "line": 27412,
+              "text": "\t\t{reinforcements"
+            },
+            {
+              "line": 27413,
+              "text": "\t\t\t{scoreTotal 0}"
+            },
+            {
+              "line": 27414,
+              "text": "\t\t\t{scoreCurrent 0}"
+            },
+            {
+              "line": 27415,
+              "text": "\t\t\t{\"m12\""
+            },
+            {
+              "line": 27416,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 27417,
+              "text": "\t\t\t\t{text \"$/reinf_m12\"}"
+            },
+            {
+              "line": 27418,
+              "text": "\t\t\t\t{image m12_gmc}"
+            },
+            {
+              "line": 27419,
+              "text": "\t\t\t\t{hint \"\"}"
+            },
+            {
+              "line": 27420,
+              "text": "\t\t\t\t{count 20}"
+            },
+            {
+              "line": 27421,
+              "text": "\t\t\t\t{score 25}"
+            },
+            {
+              "line": 27422,
+              "text": "\t\t\t\t{delay 30}"
+            },
+            {
+              "line": 27423,
+              "text": "\t\t\t\t{eventStart \"m12_fire\"}"
+            },
+            {
+              "line": 27424,
+              "text": "\t\t\t\t{waypoint \"0\"}"
+            },
+            {
+              "line": 27425,
+              "text": "\t\t\t\t{previewEntity crosshair}"
+            },
+            {
+              "line": 33580,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 33581,
+              "text": "\t\t\t\t\t\t{time 6}"
+            },
+            {
+              "line": 33582,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 33583,
+              "text": "\t\t\t\t\t{\"talk\""
+            },
+            {
+              "line": 33584,
+              "text": "\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 33585,
+              "text": "\t\t\t\t\t\t\t{tag narrator}"
+            },
+            {
+              "line": 33586,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 33587,
+              "text": "\t\t\t\t\t\t{text \"$/narrator/03\"}"
+            },
+            {
+              "line": 33588,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 33589,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 33590,
+              "text": "\t\t\t\t\t\t{time 8}"
+            },
+            {
+              "line": 33591,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 33592,
+              "text": "\t\t\t\t\t{\"talk\""
+            },
+            {
+              "line": 33593,
+              "text": "\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 33594,
+              "text": "\t\t\t\t\t\t\t{tag narrator}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "m1-114mm-class",
+      "evidenceLevel": "exact-menu-event-tag-entity-chain-confirmed-for-04-usa",
+      "missionIds": [
+        18892,
+        19510
+      ],
+      "uiIds": [
+        11193,
+        11896
+      ],
+      "limits": [
+        "A cadeia nativa foi confirmada para o menu 04-usa; a entrada de menu 041-usa_airborne compartilha o identificador, mas seu caller não foi comprovado separadamente.",
+        "Comentário de stuff diz howitzer; pattern gun é categoria do motor e não resolve classificação histórica.",
+        "Pesquisa em fonte primária do Exército dos EUA retornou M1 4.5-inch Gun; PDF completo não acessível ao navegador. A decisão de tradução se sustenta principalmente no vínculo local com a UI."
+      ],
+      "native": [
+        {
+          "archive": "dlc3.pak",
+          "entry": "map/single/04-usa/1944_07_skirmish_operation_cobra/0.mi",
+          "bytes": 1798409,
+          "sha256": "b8240c20a02b851cbd535991061c7c721b0ea456e42bf2805a83bfe14311f638",
+          "totalLines": 77423,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 11960,
+              "text": "\t\t{NameId 28 95}"
+            },
+            {
+              "line": 11961,
+              "text": "\t\t{LastItem \"m1_carbine\"}"
+            },
+            {
+              "line": 11962,
+              "text": "\t}"
+            },
+            {
+              "line": 11963,
+              "text": "\t{Entity \"114mm_m1\" 0x807f"
+            },
+            {
+              "line": 11964,
+              "text": "\t\t{Position -376.01 10775.6}"
+            },
+            {
+              "line": 11965,
+              "text": "\t\t{xform zl 66.55 y 1.02 zw -162.42}"
+            },
+            {
+              "line": 11966,
+              "text": "\t\t{SpawnedInFog}"
+            },
+            {
+              "line": 11967,
+              "text": "\t\t{Placer"
+            },
+            {
+              "line": 11968,
+              "text": "\t\t\t{State \"driver1\" {Disable}}"
+            },
+            {
+              "line": 11969,
+              "text": "\t\t\t{State \"driver2\" {Disable}}"
+            },
+            {
+              "line": 11970,
+              "text": "\t\t\t{State \"driver3\" {Disable}}"
+            },
+            {
+              "line": 11971,
+              "text": "\t\t\t{State \"driver4\" {Disable}}"
+            },
+            {
+              "line": 11972,
+              "text": "\t\t\t{State \"driver5\" {Disable}}"
+            },
+            {
+              "line": 11973,
+              "text": "\t\t\t{State \"seat1\" {Disable}}"
+            },
+            {
+              "line": 17115,
+              "text": "\t{Tags \"player\" 0xc093}"
+            },
+            {
+              "line": 17116,
+              "text": "\t{Tags \"player\" 0xc094}"
+            },
+            {
+              "line": 17117,
+              "text": "\t{Tags \"hidden\" \"reinf_155mm_m1\" \"d_4\" \"d_2\" 0x903a}"
+            },
+            {
+              "line": 17118,
+              "text": "\t{Tags \"player\" 0xc08f}"
+            },
+            {
+              "line": 17119,
+              "text": "\t{Tags \"player\" 0xc091}"
+            },
+            {
+              "line": 17120,
+              "text": "\t{Tags \"player\" 0xc099}"
+            },
+            {
+              "line": 17121,
+              "text": "\t{Tags \"hidden\" \"reinf_114mm_m1\" \"d_4\" 0x807f}"
+            },
+            {
+              "line": 17122,
+              "text": "\t{Tags \"hidden\" \"reinf_203mm_m1\" \"d_3\" 0x80c0}"
+            },
+            {
+              "line": 17123,
+              "text": "\t{Tags \"hidden\" \"reinf_longtom\" \"d_3\" 0xc000}"
+            },
+            {
+              "line": 17124,
+              "text": "\t{Tags \"hidden\" \"reinf_75mm_m1a1\" \"d_4\" 0x80ca}"
+            },
+            {
+              "line": 17125,
+              "text": "\t{Tags \"hidden\" \"m21_mortar_carrier\" \"d_3\" 0xa089}"
+            },
+            {
+              "line": 38635,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 38636,
+              "text": "\t\t\t{\"114mm_m1\""
+            },
+            {
+              "line": 38637,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 38638,
+              "text": "\t\t\t\t{text \"mission/single/04-usa/menu_usa/114mm_m1\"}"
+            },
+            {
+              "line": 38639,
+              "text": "\t\t\t\t{image \"114mm_m1\"}"
+            },
+            {
+              "line": 38640,
+              "text": "\t\t\t\t{hint \"mission/single/04-usa/menu_usa/hint\"}"
+            },
+            {
+              "line": 38641,
+              "text": "\t\t\t\t{count -1}"
+            },
+            {
+              "line": 38642,
+              "text": "\t\t\t\t{score 750}"
+            },
+            {
+              "line": 38643,
+              "text": "\t\t\t\t{delay 30}"
+            },
+            {
+              "line": 38644,
+              "text": "\t\t\t\t{eventStart \"re-sup_114mm_m1\"}"
+            },
+            {
+              "line": 38645,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 65950,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65951,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 65952,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 65953,
+              "text": "\t\t\t{\"reinf_player/114mm_m1\""
+            },
+            {
+              "line": 65954,
+              "text": "\t\t\t\t{condition"
+            },
+            {
+              "line": 65955,
+              "text": "\t\t\t\t\t{terms"
+            },
+            {
+              "line": 65956,
+              "text": "\t\t\t\t\t\t{\"1.event\""
+            },
+            {
+              "line": 65957,
+              "text": "\t\t\t\t\t\t\t{id \"re-sup_114mm_m1\"}"
+            },
+            {
+              "line": 65958,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65959,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65960,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 65961,
+              "text": "\t\t\t\t{actions"
+            },
+            {
+              "line": 65962,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 65963,
+              "text": "\t\t\t\t\t\t{time 0.1}"
+            },
+            {
+              "line": 65964,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65965,
+              "text": "\t\t\t\t\t{## \"sound\""
+            },
+            {
+              "line": 65966,
+              "text": "\t\t\t\t\t\t{name \"gui/multi/money\"}"
+            },
+            {
+              "line": 65967,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65968,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 65969,
+              "text": "\t\t\t\t\t\t{time 1.9}"
+            },
+            {
+              "line": 65970,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65971,
+              "text": "\t\t\t\t\t{\"event\""
+            },
+            {
+              "line": 65972,
+              "text": "\t\t\t\t\t\t{event \"re-sup_114mm_m1\"}"
+            },
+            {
+              "line": 65973,
+              "text": "\t\t\t\t\t\t{mode reset}"
+            },
+            {
+              "line": 65974,
+              "text": "\t\t\t\t\t\t{delay 0}"
+            },
+            {
+              "line": 65975,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 65976,
+              "text": "\t\t\t\t\t{\"waypoint\""
+            },
+            {
+              "line": 65977,
+              "text": "\t\t\t\t\t\t{who"
+            },
+            {
+              "line": 65978,
+              "text": "\t\t\t\t\t\t\t{type actor}"
+            },
+            {
+              "line": 65979,
+              "text": "\t\t\t\t\t\t\t{actors"
+            },
+            {
+              "line": 65980,
+              "text": "\t\t\t\t\t\t\t\t{source advanced}"
+            },
+            {
+              "line": 65981,
+              "text": "\t\t\t\t\t\t\t\t{ignore_captured_by_user 0}"
+            },
+            {
+              "line": 65982,
+              "text": "\t\t\t\t\t\t\t\t{group"
+            },
+            {
+              "line": 65983,
+              "text": "\t\t\t\t\t\t\t\t\t{select"
+            },
+            {
+              "line": 65984,
+              "text": "\t\t\t\t\t\t\t\t\t\t{tag"
+            },
+            {
+              "line": 65985,
+              "text": "\t\t\t\t\t\t\t\t\t\t\t{tag reinf_114mm_m1}"
+            },
+            {
+              "line": 65986,
+              "text": "\t\t\t\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65987,
+              "text": "\t\t\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65988,
+              "text": "\t\t\t\t\t\t\t\t\t{include"
+            },
+            {
+              "line": 65989,
+              "text": "\t\t\t\t\t\t\t\t\t\t{state"
+            },
+            {
+              "line": 65990,
+              "text": "\t\t\t\t\t\t\t\t\t\t\t{state inactive}"
+            },
+            {
+              "line": 65991,
+              "text": "\t\t\t\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65992,
+              "text": "\t\t\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65993,
+              "text": "\t\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65994,
+              "text": "\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 65995,
+              "text": "\t\t\t\t\t\t}"
+            }
+          ]
+        },
+        {
+          "archive": "gamelogic.pak",
+          "entry": "set/stuff/gun/114mm_m1",
+          "bytes": 1053,
+          "sha256": "0b3e5d973dbaaef18e6d2abe5c841a0bb87febad58115a5749eb7ad1e874adef",
+          "totalLines": 30,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 1,
+              "text": ";_________________________________________"
+            },
+            {
+              "line": 2,
+              "text": "; US medium field howitzer"
+            },
+            {
+              "line": 3,
+              "text": ";========================================="
+            },
+            {
+              "line": 4,
+              "text": ""
+            },
+            {
+              "line": 5,
+              "text": ""
+            },
+            {
+              "line": 6,
+              "text": "{from \"pattern gun\"\t\t\t; L/43 \"4.5-inch M1\""
+            },
+            {
+              "line": 7,
+              "text": "\t{filling \"bulleteng_114\"}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "tali-t34-numeric",
+      "evidenceLevel": "candidate-native-entity-only-no-display-caller",
+      "missionIds": [
+        18365
+      ],
+      "uiIds": [
+        10261
+      ],
+      "limits": [
+        "A presença de um T-34/85 no mapa não prova qual objeto, menu antigo ou texto inativo o rótulo T-34/84 identifica."
+      ],
+      "native": [
+        {
+          "archive": "dlc1.pak",
+          "entry": "map/single/03-fin/1944_06_tali-ilhantala/0.mi",
+          "bytes": 704818,
+          "sha256": "22744223487766ad008d6ac2c134256920d0d6b7f7009bd6d18513809998ea36",
+          "totalLines": 28746,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 3488,
+              "text": "\t\t{MID 206}"
+            },
+            {
+              "line": 3489,
+              "text": "\t}"
+            },
+            {
+              "line": 3490,
+              "text": "\t{Entity \"t3485_44_fin\" 0x8028"
+            },
+            {
+              "line": 3491,
+              "text": "\t\t{Position 2262.68 -10286.6 109.95}"
+            },
+            {
+              "line": 3492,
+              "text": "\t\t{xform zl 32.89 y 9.12 zw 55.24}"
+            },
+            {
+              "line": 3493,
+              "text": "\t\t{SpawnedInFog}"
+            },
+            {
+              "line": 3494,
+              "text": "\t\t{Volume \"detail5\""
+            },
+            {
+              "line": 3495,
+              "text": "\t\t\t{disabled}"
+            },
+            {
+              "line": 3496,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3497,
+              "text": "\t\t{Extender \"enumerator\""
+            },
+            {
+              "line": 7215,
+              "text": "\t\t{MID 475}"
+            },
+            {
+              "line": 7216,
+              "text": "\t}"
+            },
+            {
+              "line": 7217,
+              "text": "\t{Entity \"t3485_44_fin\" 0x808d"
+            },
+            {
+              "line": 7218,
+              "text": "\t\t{Position 4541.61 7442.37 96.24}"
+            },
+            {
+              "line": 7219,
+              "text": "\t\t{xform zl 162.37 y 2.19 zw 24.36}"
+            },
+            {
+              "line": 7220,
+              "text": "\t\t{Volume \"detail3\""
+            },
+            {
+              "line": 7221,
+              "text": "\t\t\t{disabled}"
+            },
+            {
+              "line": 7222,
+              "text": "\t\t}"
+            },
+            {
+              "line": 7223,
+              "text": "\t\t{Volume \"detail5\""
+            },
+            {
+              "line": 7224,
+              "text": "\t\t\t{disabled}"
+            },
+            {
+              "line": 9113,
+              "text": "\t{Tags \"crosshair_strike\" \"pointer\" 0xe006}"
+            },
+            {
+              "line": 9114,
+              "text": "\t{Tags \"hidden\" \"r_stug\" 0x8025}"
+            },
+            {
+              "line": 9115,
+              "text": "\t{Tags \"hidden\" \"r_t3485\" 0x8028}"
+            },
+            {
+              "line": 9116,
+              "text": "\t{Tags \"hidden\" \"r_l62\" 0x8029}"
+            },
+            {
+              "line": 9117,
+              "text": "\t{Tags \"hidden\" \"r_ammo\" 0x802a}"
+            },
+            {
+              "line": 24175,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 24176,
+              "text": "\t\t\t\t\t{\"sound\""
+            },
+            {
+              "line": 24177,
+              "text": "\t\t\t\t\t\t{name \"interface/task_complete\"}"
+            },
+            {
+              "line": 24178,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 24179,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 24180,
+              "text": "\t\t\t\t\t\t{time 5}"
+            },
+            {
+              "line": 24181,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 24182,
+              "text": "\t\t\t\t\t{\"waypoint\""
+            },
+            {
+              "line": 24183,
+              "text": "\t\t\t\t\t\t{who"
+            },
+            {
+              "line": 24184,
+              "text": "\t\t\t\t\t\t\t{type actor}"
+            },
+            {
+              "line": 24185,
+              "text": "\t\t\t\t\t\t\t{actors"
+            },
+            {
+              "line": 24186,
+              "text": "\t\t\t\t\t\t\t\t{tag r_t3485}"
+            },
+            {
+              "line": 24187,
+              "text": "\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 24188,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 24189,
+              "text": "\t\t\t\t\t\t{action"
+            },
+            {
+              "line": 24190,
+              "text": "\t\t\t\t\t\t\t{type start}"
+            },
+            {
+              "line": 24191,
+              "text": "\t\t\t\t\t\t\t{waypoint \"854\"}"
+            },
+            {
+              "line": 24192,
+              "text": "\t\t\t\t\t\t\t{clone}"
+            },
+            {
+              "line": 24193,
+              "text": "\t\t\t\t\t\t\t{approach \"safe teleport & rotate\"}"
+            },
+            {
+              "line": 24194,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 24195,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 24196,
+              "text": "\t\t\t\t\t{\"talk\""
+            },
+            {
+              "line": 24197,
+              "text": "\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 24198,
+              "text": "\t\t\t\t\t\t\t{tag narrator_officer}"
+            },
+            {
+              "line": 24199,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 24200,
+              "text": "\t\t\t\t\t\t{text \"$/narrator/officer/07\"}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "urquhart-rank",
+      "evidenceLevel": "same-mission-actor-template-and-speech-caller-without-mentioned-target-pointer",
+      "missionIds": [
+        20178
+      ],
+      "uiIds": [
+        5812
+      ],
+      "limits": [
+        "Sobrenome, campanha e presença do ator formam candidato forte; ainda não são vínculo explícito do alvo da fala.",
+        "skin uk_para_pistol_maj é recurso visual, não autoridade para corrigir patente."
+      ],
+      "native": [
+        {
+          "archive": "_dlc7.pak",
+          "entry": "map/single/05-eng/1944_09_20_oosterbeek/0.mi",
+          "bytes": 1332628,
+          "sha256": "8f2e1f4e82d9d1bf8212823bd95adc82026e02eb60303f54ab019d105f1760c9",
+          "totalLines": 57720,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 3410,
+              "text": "\t\t{FsmState \"stand_noaim\"}"
+            },
+            {
+              "line": 3411,
+              "text": "\t}"
+            },
+            {
+              "line": 3412,
+              "text": "\t{Entity \"pointer\" 0x8086"
+            },
+            {
+              "line": 3413,
+              "text": "\t\t{Position -5515.1 1544.62 26.98}"
+            },
+            {
+              "line": 3414,
+              "text": "\t}"
+            },
+            {
+              "line": 3415,
+              "text": "\t{Human \"narrator/eng-oosterbek-urquhart\" 0x8087"
+            },
+            {
+              "line": 3416,
+              "text": "\t\t{Position -3999.26 14931}"
+            },
+            {
+              "line": 3417,
+              "text": "\t\t{xform zl -88.89}"
+            },
+            {
+              "line": 3418,
+              "text": "\t\t{SpawnedInFog}"
+            },
+            {
+              "line": 3419,
+              "text": "\t\t{Volume \"ram\""
+            },
+            {
+              "line": 3420,
+              "text": "\t\t\t{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}{blockcamera 0}}"
+            },
+            {
+              "line": 3421,
+              "text": "\t\t\t{disabled}"
+            },
+            {
+              "line": 3422,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3423,
+              "text": "\t\t{Extender \"vitality\""
+            },
+            {
+              "line": 3424,
+              "text": "\t\t\t{Veterancy 3}"
+            },
+            {
+              "line": 3425,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3426,
+              "text": "\t\t{Player 1}"
+            },
+            {
+              "line": 3427,
+              "text": "\t\t{MID 158}"
+            },
+            {
+              "line": 3428,
+              "text": "\t\t{Weaponry"
+            },
+            {
+              "line": 3429,
+              "text": "\t\t\t{State"
+            },
+            {
+              "line": 3430,
+              "text": "\t\t\t\t{AccuracyByMotion"
+            },
+            {
+              "line": 3431,
+              "text": "\t\t\t\t\t{value 0.998616}"
+            },
+            {
+              "line": 3432,
+              "text": "\t\t\t\t\t{prevposition -4004.67 14920.9 14.1809}"
+            },
+            {
+              "line": 3433,
+              "text": "\t\t\t\t\t{prevdirection -0.693265 -0.71179 -0.11287}"
+            },
+            {
+              "line": 3434,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 3435,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 3436,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3437,
+              "text": "\t\t{NameId 13 44}"
+            },
+            {
+              "line": 3438,
+              "text": "\t\t{FsmState \"stand_noaim\"}"
+            },
+            {
+              "line": 3439,
+              "text": "\t}"
+            },
+            {
+              "line": 3440,
+              "text": "\t{Entity \"sten_mk5\" 0x8088"
+            },
+            {
+              "line": 3441,
+              "text": "\t\t{Extender \"stuff\""
+            },
+            {
+              "line": 3442,
+              "text": "\t\t\t{Item \"sten_mk5\" filling \"sten_mag\" \"eng_smg\" \"ammo\" 32 32}"
+            },
+            {
+              "line": 3443,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3444,
+              "text": "\t}"
+            },
+            {
+              "line": 3445,
+              "text": "\t{Human \"narrator/eng-oosterbek-urquhart\" 0x808a"
+            },
+            {
+              "line": 3446,
+              "text": "\t\t{Position -5413.97 1463.46}"
+            },
+            {
+              "line": 3447,
+              "text": "\t\t{xform zl 55.62}"
+            },
+            {
+              "line": 3448,
+              "text": "\t\t{SpawnedInFog}"
+            },
+            {
+              "line": 3449,
+              "text": "\t\t{Volume \"ram\""
+            },
+            {
+              "line": 3450,
+              "text": "\t\t\t{able {visible 0}{bullet 0}{throwing 0}{obstacle 0}{contact 0}{contact_ground 0}{blast 0}{select 0}{touch 0}{blockcamera 0}}"
+            },
+            {
+              "line": 3451,
+              "text": "\t\t\t{disabled}"
+            },
+            {
+              "line": 3452,
+              "text": "\t\t}"
+            },
+            {
+              "line": 3453,
+              "text": "\t\t{Simulation {Able 0}}"
+            },
+            {
+              "line": 3454,
+              "text": "\t\t{Impregnability full}"
+            },
+            {
+              "line": 3455,
+              "text": "\t\t{Extender \"vitality\""
+            },
+            {
+              "line": 36012,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 36013,
+              "text": "\t\t\t\t\t{\"delay\""
+            },
+            {
+              "line": 36014,
+              "text": "\t\t\t\t\t\t{time 2}"
+            },
+            {
+              "line": 36015,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 36016,
+              "text": "\t\t\t\t\t{\"if\""
+            },
+            {
+              "line": 36017,
+              "text": "\t\t\t\t\t\t{condition"
+            },
+            {
+              "line": 36018,
+              "text": "\t\t\t\t\t\t\t{type event}"
+            },
+            {
+              "line": 36019,
+              "text": "\t\t\t\t\t\t\t{id \"[scenario]/[part03]/overview_running\"}"
+            },
+            {
+              "line": 36020,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 36021,
+              "text": "\t\t\t\t\t\t{\"talk\""
+            },
+            {
+              "line": 36022,
+              "text": "\t\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 36023,
+              "text": "\t\t\t\t\t\t\t\t{tag narrator_pol_officer}"
+            },
+            {
+              "line": 36024,
+              "text": "\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 36025,
+              "text": "\t\t\t\t\t\t\t{text \"$/narrator/part03_01\"}"
+            },
+            {
+              "line": 36026,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 36027,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 36028,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 36029,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 36030,
+              "text": "\t\t\t{\"[scenario]/[part03]/[overview]/cam02\""
+            },
+            {
+              "line": 36031,
+              "text": "\t\t\t\t{condition"
+            },
+            {
+              "line": 36032,
+              "text": "\t\t\t\t\t{expression \"1 & !2\"}"
+            },
+            {
+              "line": 36033,
+              "text": "\t\t\t\t\t{terms"
+            },
+            {
+              "line": 36034,
+              "text": "\t\t\t\t\t\t{\"1.event\""
+            },
+            {
+              "line": 36035,
+              "text": "\t\t\t\t\t\t\t{id \"[scenario]/[part03]/[overview]/cam02\"}"
+            }
+          ]
+        },
+        {
+          "archive": "gamelogic.pak",
+          "entry": "set/breed/narrator/eng-oosterbek-urquhart.set",
+          "bytes": 1305,
+          "sha256": "1d7cc68d132c94f8c58c374cd6e33391749ffde41f063f4541edb2f825a63ef8",
+          "totalLines": 84,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 1,
+              "text": "{breed"
+            },
+            {
+              "line": 2,
+              "text": "\t{behaviour soldier}"
+            },
+            {
+              "line": 3,
+              "text": "\t{hero}"
+            },
+            {
+              "line": 4,
+              "text": "\t{skin \"uk_para_pistol_maj\"}"
+            },
+            {
+              "line": 5,
+              "text": "\t{portrait narrator_eng_urquhart}"
+            },
+            {
+              "line": 6,
+              "text": "\t{icon smg}"
+            },
+            {
+              "line": 7,
+              "text": "\t{icon_priority 10}"
+            },
+            {
+              "line": 8,
+              "text": "\t{tags \"soldier\"}"
+            },
+            {
+              "line": 9,
+              "text": "\t{nationality eng_officer}"
+            },
+            {
+              "line": 10,
+              "text": "\t{armors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "pointe-machinegunners",
+      "evidenceLevel": "objective-caller-and-static-mg-operability-condition",
+      "missionIds": [
+        18474,
+        18475
+      ],
+      "uiIds": [],
+      "limits": [
+        "A palavra machinegunner na fala não garante classe de soldado MG Operator na UI."
+      ],
+      "native": [
+        {
+          "archive": "dlc3.pak",
+          "entry": "map/single/04-usa/1944_06_pointe_du_hoc/0.mi",
+          "bytes": 1496286,
+          "sha256": "a3e0568806d3c535ed7c87b106d2118e7dc0a772bccb4da2bea7dede9121f4ba",
+          "totalLines": 60290,
+          "excerptOnly": true,
+          "lines": [
+            {
+              "line": 33655,
+              "text": "\t\t}"
+            },
+            {
+              "line": 33656,
+              "text": "\t\t{tasks"
+            },
+            {
+              "line": 33657,
+              "text": "\t\t\t{\"01_beach\""
+            },
+            {
+              "line": 33658,
+              "text": "\t\t\t\t{desc \"$/mission_battery\"}"
+            },
+            {
+              "line": 33659,
+              "text": "\t\t\t\t{primary}"
+            },
+            {
+              "line": 33660,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 33661,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 33662,
+              "text": "\t\t\t{\"02_mguns\""
+            },
+            {
+              "line": 33663,
+              "text": "\t\t\t\t{desc \"$/v2/mission_mguns\"}"
+            },
+            {
+              "line": 33664,
+              "text": "\t\t\t\t{primary}"
+            },
+            {
+              "line": 33665,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 33666,
+              "text": "\t\t\t\t{point task02_link}"
+            },
+            {
+              "line": 33667,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 33668,
+              "text": "\t\t\t{\"03_climb\""
+            },
+            {
+              "line": 33669,
+              "text": "\t\t\t\t{desc \"$/mission_beach\"}"
+            },
+            {
+              "line": 33670,
+              "text": "\t\t\t\t{primary}"
+            },
+            {
+              "line": 33671,
+              "text": "\t\t\t\t{state hidden}"
+            },
+            {
+              "line": 33672,
+              "text": "\t\t\t\t{point task03_link}"
+            },
+            {
+              "line": 34234,
+              "text": "\t\t\t{\"[events]/[part1]/mgun_01_not_operatable\""
+            },
+            {
+              "line": 34235,
+              "text": "\t\t\t\t{condition"
+            },
+            {
+              "line": 34236,
+              "text": "\t\t\t\t\t{terms"
+            },
+            {
+              "line": 34237,
+              "text": "\t\t\t\t\t\t{\"1.entities\""
+            },
+            {
+              "line": 34238,
+              "text": "\t\t\t\t\t\t\t{selector"
+            },
+            {
+              "line": 34239,
+              "text": "\t\t\t\t\t\t\t\t{tag enemy_beach_mgun_lafette}"
+            },
+            {
+              "line": 34240,
+              "text": "\t\t\t\t\t\t\t\t{player \"2\"}"
+            },
+            {
+              "line": 34241,
+              "text": "\t\t\t\t\t\t\t\t{state operatable}"
+            },
+            {
+              "line": 34242,
+              "text": "\t\t\t\t\t\t\t}"
+            },
+            {
+              "line": 34243,
+              "text": "\t\t\t\t\t\t\t{count"
+            },
+            {
+              "line": 34247,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 34248,
+              "text": "\t\t\t\t\t\t{\"2.task\""
+            },
+            {
+              "line": 34249,
+              "text": "\t\t\t\t\t\t\t{name \"02_mguns\"}"
+            },
+            {
+              "line": 34250,
+              "text": "\t\t\t\t\t\t\t{state shown}"
+            },
+            {
+              "line": 34251,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 34252,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 34253,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 34254,
+              "text": "\t\t\t\t{actions"
+            },
+            {
+              "line": 34255,
+              "text": "\t\t\t\t\t{\"event\""
+            },
+            {
+              "line": 34256,
+              "text": "\t\t\t\t\t\t{event \"[part1]/mgun_01_not_operatable\"}"
+            },
+            {
+              "line": 34257,
+              "text": "\t\t\t\t\t\t{mode set}"
+            },
+            {
+              "line": 34258,
+              "text": "\t\t\t\t\t\t{delay 0}"
+            },
+            {
+              "line": 34259,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 34260,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 34261,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 35400,
+              "text": "\t\t\t\t\t\t\t{state shown}"
+            },
+            {
+              "line": 35401,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 35402,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 35403,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 35404,
+              "text": "\t\t\t\t{actions"
+            },
+            {
+              "line": 35405,
+              "text": "\t\t\t\t\t{\"objective_progress\""
+            },
+            {
+              "line": 35406,
+              "text": "\t\t\t\t\t\t{set 4}"
+            },
+            {
+              "line": 35407,
+              "text": "\t\t\t\t\t\t{add 0}"
+            },
+            {
+              "line": 35408,
+              "text": "\t\t\t\t\t\t{title \"$/v2/objective_progress_02_mguns\"}"
+            },
+            {
+              "line": 35409,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 35410,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 35411,
+              "text": "\t\t\t}"
+            },
+            {
+              "line": 35412,
+              "text": "\t\t\t{\"[scene]/[objective_progress]/02_mguns_dec_01\""
+            },
+            {
+              "line": 35413,
+              "text": "\t\t\t\t{condition"
+            },
+            {
+              "line": 35414,
+              "text": "\t\t\t\t\t{terms"
+            },
+            {
+              "line": 35415,
+              "text": "\t\t\t\t\t\t{\"1.task\""
+            },
+            {
+              "line": 35416,
+              "text": "\t\t\t\t\t\t\t{name \"02_mguns\"}"
+            },
+            {
+              "line": 35417,
+              "text": "\t\t\t\t\t\t\t{state shown}"
+            },
+            {
+              "line": 35418,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 35419,
+              "text": "\t\t\t\t\t\t{\"2.event\""
+            },
+            {
+              "line": 35420,
+              "text": "\t\t\t\t\t\t\t{id \"[part1]/mgun_01_not_operatable\"}"
+            },
+            {
+              "line": 35421,
+              "text": "\t\t\t\t\t\t}"
+            },
+            {
+              "line": 35422,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 35423,
+              "text": "\t\t\t\t}"
+            },
+            {
+              "line": 35424,
+              "text": "\t\t\t\t{actions"
+            },
+            {
+              "line": 35425,
+              "text": "\t\t\t\t\t{\"objective_progress\""
+            },
+            {
+              "line": 35426,
+              "text": "\t\t\t\t\t\t{set 0}"
+            },
+            {
+              "line": 35427,
+              "text": "\t\t\t\t\t\t{add -1}"
+            },
+            {
+              "line": 35428,
+              "text": "\t\t\t\t\t\t{title \"\"}"
+            },
+            {
+              "line": 35429,
+              "text": "\t\t\t\t\t}"
+            },
+            {
+              "line": 35430,
+              "text": "\t\t\t\t}"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "radioReview": {
+    "pairs": [
+      {
+        "id": 19564,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04",
+        "source": "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out.",
+        "translation": "Cabo Crosby, você comanda a equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Avise-me quando estiver pronto para a evacuação e enviarei um caminhão para os feridos. Não posso enviá-lo agora: o céu está perigoso demais. Encerro.",
+        "decision": "adjusted-ending"
+      },
+      {
+        "id": 19571,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_11",
+        "source": "Williams, we heard gunfire. What’s going on? Over.",
+        "translation": "Williams, ouvimos tiros. O que está acontecendo? Câmbio.",
+        "decision": "retained-correct-response-request"
+      },
+      {
+        "id": 19572,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_12",
+        "source": "Light German infantry approaching from multiple directions. We’ve found wounded, Crosby and his team are treating ‘em. Over.",
+        "translation": "Infantaria leve alemã se aproximando de várias direções. Encontramos feridos; Crosby e sua equipe estão tratando deles. Câmbio.",
+        "decision": "retained-correct-response-request"
+      },
+      {
+        "id": 19573,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_13",
+        "source": "Copy that, sending help to you. Out.",
+        "translation": "Entendido, enviando ajuda. Encerro.",
+        "decision": "adjusted-ending"
+      },
+      {
+        "id": 19578,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_18",
+        "source": "Captain, this is Williams. We’re ready for an evacuation. The skies are clear at the moment, over.",
+        "translation": "Capitão, aqui é Williams. Estamos prontos para evacuação. Os céus estão limpos no momento. Câmbio.",
+        "decision": "retained-correct-response-request"
+      },
+      {
+        "id": 19579,
+        "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+        "context": "mission/single/05-eng/1940_05_13_dyle/narrator/part01_19",
+        "source": "Understood, Lieutenant. Lorry’s on the way, it’s three minutes away. Good work, lads. Out.",
+        "translation": "Entendido, Tenente. O caminhão está a caminho, três minutos. Bom trabalho, rapazes. Encerro.",
+        "decision": "adjusted-ending"
+      }
+    ],
+    "references": [
+      {
+        "url": "https://www.sislaer.fab.mil.br/TerminalWebCENDOC/VisualizadorHtml?codigoArquivo=39966&tipoMidia=0",
+        "title": "MCA 100-16/2025, DECEA",
+        "access": "HTTP200 HTML text actually read; extracted page14, lines675-677",
+        "sha256": "1aac755913044a98c777d673ac17ae42c2f3d6e54c99d9877b0859a46371a890",
+        "bytes": 5075436,
+        "support": "Câmbio corresponde a Over e espera resposta.",
+        "limits": "Equivalência lexical; restrições modernas de VHF não aplicadas ao jogo WWII."
+      },
+      {
+        "url": "https://mobilesystems.nz/blogs/blog-news/radio-etiquette-a-beginners-guide-for-professional-communication",
+        "title": "Radio Etiquette, Mobile Systems Limited",
+        "access": "Full public HTML page opened; Essential Radio Lingo and Prowords, lines702-703",
+        "support": "Documentação first-party do fornecedor: Over pede resposta e Out termina sem resposta.",
+        "limits": "Documentação de uso comercial, não norma militar/governamental nem certificação de protocolo WWII."
+      }
+    ],
+    "unreadMilitaryPdfsNotUsed": "Army PDF timed out and Marines PDF returned403; no claim of full document reading."
+  },
+  "linkedReviews": [
+    "translation/mission-context-review-2026-10-13.json",
+    "translation/mission-contract-review-2026-10-13.json",
+    "translation/subtitle-readability-review-2026-10-13.json",
+    "translation/decision-reconciliation-2026-10-13.json"
+  ],
+  "limitations": [
+    "No gameplay, rendered width, audio sync, emitter execution or historical completeness certified.",
+    "Original English bytes and prior review snapshots retained.",
+    "Source/UI conflicts corrected only in listed, evidence-graded targets; unresolved referents are retained individually."
+  ]
+}

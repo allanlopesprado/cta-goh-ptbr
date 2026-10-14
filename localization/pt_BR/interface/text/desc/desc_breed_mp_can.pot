@@ -78,7 +78,7 @@ msgstr "Operador de MG de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_mg_asst"
 msgid "Defense MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora de Defesa [CA]"
+msgstr "Auxiliar de MG de Defesa [CA]"
 
 msgctxt "desc/human/mp/can/late/def_rifle"
 msgid "Defense Rifleman [CA]"
@@ -122,11 +122,11 @@ msgstr "Operador de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mg_asst"
 msgid "MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora [CA]"
+msgstr "Auxiliar de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mg_crew"
 msgid "MG Crew [CA]"
-msgstr "Tripulação de MG [CA]"
+msgstr "Guarnição de MG [CA]"
 
 msgctxt "desc/human/mp/can/late/mot_mg"
 msgid "Motor MG Operator [CA]"
@@ -218,15 +218,15 @@ msgstr "Médico do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg"
 msgid "1st Parachute MG Operator [CA]"
-msgstr "Operador de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
+msgstr "Operador de MG do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
+msgstr "Auxiliar de MG do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mg_asst_smg"
 msgid "1st Parachute MG Asst. [CA]"
-msgstr "Auxiliar de Metralhadora do 1º Batalhão Paraquedista Canadense [CA]"
+msgstr "Auxiliar de MG do 1º Batalhão Paraquedista Canadense [CA]"
 
 msgctxt "desc/human/mp/can/late/para_mortar"
 msgid "1st Parachute Mortarman [CA]"

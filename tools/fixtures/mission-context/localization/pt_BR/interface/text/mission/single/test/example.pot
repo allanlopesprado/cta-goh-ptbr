@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Language: pt_BR\n"
+
+msgctxt "mission/single/test/example/narrator/one"
+msgid "One soldier."
+msgstr "Um soldado."
+
+msgctxt "mission/single/test/example/narrator/legacy"
+msgid "First legacy sentence."
+msgstr "Primeira frase legada."
+
+msgctxt "mission/single/test/example/narrator/legacy"
+msgid "Second legacy sentence."
+msgstr "Segunda frase legada."

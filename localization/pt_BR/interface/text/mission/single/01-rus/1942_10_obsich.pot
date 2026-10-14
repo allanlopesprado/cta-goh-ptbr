@@ -29,7 +29,7 @@ msgstr "Inquebrável"
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/ger_officer"
 msgid "Upon arrival to the village, I want the prisoners dealt with and the men gathered for a sweep of the marshes. The Command wants us to rat out a problematic partisan group."
-msgstr "Ao chegarmos à aldeia, quero que resolvam a questão dos prisioneiros e reúnam os homens para uma varredura nos pântanos. O Comando quer que localizemos um grupo de partisans problemático."
+msgstr "Ao chegarmos à aldeia, quero que resolvam a questão dos prisioneiros e reúnam os homens para uma varredura nos pântanos. O Comando quer que localizemos um grupo de guerrilheiros problemático."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/narrator/ger_soldier"
 msgid "Scheisse! I lost control of the steering... the brakes are also down god damn it!!"
@@ -193,7 +193,7 @@ msgstr "Ahá, o que é isso? Podemos dar um jeito..."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/outro_completed"
 msgid "The Vitebsk gate would play an important part in the war. It enabled the partisans to disrupt supply lines more easily. Big battles were influenced by the partisans, such as the battle of Kursk. German supplies would never be safe again. Many partisans re-enlisted in the Red Army once their territory had been liberated, a feat to which they themselves had been instrumental."
-msgstr "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os partisans perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos partisans, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos partisans voltaram a se alistar no Exército Vermelho assim que seu território foi libertado - feito no qual eles próprios foram fundamentais."
+msgstr "O corredor de Vitebsk desempenharia um papel importante na guerra. Ele permitia que os guerrilheiros perturbassem as linhas de suprimento com mais facilidade. Grandes batalhas foram influenciadas pelos guerrilheiros, como a Batalha de Kursk. Os suprimentos alemães nunca mais estariam seguros. Muitos guerrilheiros voltaram a se alistar no Exército Vermelho assim que seu território foi libertado - feito no qual eles próprios foram fundamentais."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/outro_failed"
 msgid "Now that the German attack has succeeded, we can no longer use our exposed base. All equipment and supplies will have to be hauled through the marshes for dozens of kilometres. Losing this battle also means we will have to share our supplies with the villagers, who are now forced to leave their homes. We will not be able to block German reinforcements for a while. We can only hope this battle didn’t make us lose another one at the front."
@@ -215,11 +215,11 @@ msgstr "Comboios de valiosos prisioneiros de guerra soviéticos são transportad
 
 msgctxt "mission/single/01-rus/1942_10_obsich/task1"
 msgid "Assist the partisans in eliminating the German convoy."
-msgstr "Auxilie os partisans na eliminação do comboio alemão."
+msgstr "Auxilie os guerrilheiros na eliminação do comboio alemão."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/task2"
 msgid "Follow the partisans to their dugout."
-msgstr "Siga os partisans até seu abrigo."
+msgstr "Siga os guerrilheiros até seu abrigo."
 
 msgctxt "mission/single/01-rus/1942_10_obsich/task3"
 msgid "Defend the camp!"

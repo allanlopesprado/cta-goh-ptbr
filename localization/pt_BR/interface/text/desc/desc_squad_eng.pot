@@ -137,7 +137,7 @@ msgstr "<c(A5A095)>(2)</c> Seção Motorizada de Reconhecimento (Apeada)"
 
 msgctxt "desc/squad/squad_r_eng_early_def(eng)"
 msgid "<c(A5A095)>(2)</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_carrier_early_def(eng)"
 msgid "<c(A5A095)>(2)</c> Carrier Section"
@@ -285,7 +285,7 @@ msgstr "<c(A5A095)>(2)</c> Seção Motorizada de Reconhecimento (Apeada)"
 
 msgctxt "desc/squad/squad_r_eng_mot_early_off(eng)"
 msgid "<c(A5A095)>(2)</c> Royal Engineers Field Section (Mounted)"
-msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Royal Engineers (Embarcada)"
+msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Engenheiros Reais (Embarcada)"
 
 msgctxt "desc/squad/squad_mot_scout_carrier_early_off(eng)"
 msgid "<c(A5A095)>(2)</c> Motor Scout Section"
@@ -429,15 +429,15 @@ msgstr "<c(A5A095)>(2)</c> Seção de Carriers"
 
 msgctxt "desc/squad/squad_r_eng_mid_def_1(eng)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_r_eng_mid_def_2(eng)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_r_eng_mid_con(eng)"
 msgid "<c(A5A095)>(2)</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_recce_assault_mid_def(eng)"
 msgid "<c(A5A095)>(2)</c> Recce Assault Section"
@@ -761,11 +761,11 @@ msgstr "<c(A5A095)>(2)</c> Seção de Fuzileiros [1944]"
 
 msgctxt "desc/squad/squad_r_eng_late_def_1(eng)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_r_eng_late_def_2(eng)"
 msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Royal Engineers Field Section"
-msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Seção de Campo dos Royal Engineers"
+msgstr "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Seção de Campo dos Engenheiros Reais"
 
 msgctxt "desc/squad/squad_r_eng_late_con(eng)"
 msgid "<c(A5A095)>(2)</c> Royal Engineers Field Section [1944]"
@@ -1405,7 +1405,7 @@ msgstr "Crusader Mk.II CS"
 
 msgctxt "desc/squad/single_rifle(eng)"
 msgid "Rifleman"
-msgstr "Fuzileiro"
+msgstr "Atirador"
 
 msgctxt "desc/squad/single_smg(eng)"
 msgid "SMG Inf."

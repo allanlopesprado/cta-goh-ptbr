@@ -1,5 +1,57 @@
 # Histórico de versões
 
+## v1.0.25
+
+Revisão textual de 13 de outubro de 2026, com padronização de rótulos,
+referências de equipamento e clareza das instruções.
+Esta é a versão da tradução, não do jogo.
+
+- 518 ajustes em 49 catálogos: os 487 da padronização de rótulos e 31
+  complementares de contexto e clareza. Refinamentos editoriais são
+  distinguidos de correções de sentido nas decisões por entrada.
+- Scope/Scoped alinhados em Mira Telescópica; mesma forma de Pistola Sinalizadora,
+  Engenharia para veículos, Suprimentos e qualificadores de variantes.
+- 324 componentes de funções MG uniformizados sem misturar Operador, Auxiliar
+  e Guarnição. Modificadores e formações preservados; guarnições de armamentos
+  distinguidas dos rótulos de tripulantes de veículos.
+- 24 rótulos com polegadas por extenso alinhados em pol., conservando calibre
+  nominal, código e modelo. Reforços e doutrinas cruzados com o nome da peça.
+- Maiúsculas, espaçamento e ordem de rótulos alinhados. Códigos como 38(t),
+  SmK(H), (T), Mk., pdr e valores de bombas permanecem intactos.
+- 31 ajustes complementares: referências a guerrilheiros, batedores
+  finlandeses, tripulantes de tanque, guarnições de artilharia e unidades
+  nominais abreviadas. Partisans/partisano são português válido; a mudança
+  para guerrilheiros é editorial nos contextos listados.
+- Nomes localizados de Nagant, M1 de 4.5 pol. e Churchill QF 75mm alinhados
+  à interface por vínculos explicitamente graduados. Fonte inglesa intacta;
+  Cromwell IV/VI, T-34/84 e patente de Urquhart não corrigidos por suposição.
+- Três instruções extensas refinadas sem cortar requisitos ou inserir
+  quebras. Em seis terminações de rádio de Dyle, Over/Câmbio permanece
+  distinto de Out/Encerro; três encerramentos ajustados.
+- Validação estrutural dos 121 catálogos de missão contra chamadas dos
+  recursos nativos, com ramificações, locutores candidatos e blocos
+  explicitamente desativados. Dependências não são ordem de execução.
+- 3.702 decisões contextuais protegidas e 1.509 entradas com convenções
+  editoriais de rótulos. Novas proteções semânticas conferem modelos,
+  variantes, classes, calibres e condições delimitadas de missão.
+- 268 testes automatizados aprovados e 2.051 entradas com características
+  delimitadas da fonte protegidas. Os novos checks de cenas, objetivos e
+  legibilidade também rodam na CI, sem exigir a instalação do jogo.
+- Reconstrução do conjunto aprovado contra a v1.0.24: somente os 518
+  ajustes, com inglês, campos de origem e demais textos intactos.
+- Pacote com 363 arquivos, 3.878.568 bytes, CRC32 e conteúdo conferidos.
+  A instalação do jogo permaneceu intacta. Teste no jogo não foi realizado.
+
+[Exemplos de antes/depois](translation/review-v1.0.25.md),
+[decisões por fonte e contexto](translation/label-consistency-review-2026-10-13.json)
+e [revisão funcional complementar](translation/functional-review-2026-10-13.json),
+com [validação final](translation/functional-validation-2026-10-13.json).
+
+SHA-256 do pacote:
+`7a3335e24ae37aabe5816a54f03f1b02718a04ffa1c8fcdd59117ccb336b5b61`.
+Referência inglesa:
+`dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6`.
+
 ## v1.0.24
 
 Segunda revisão textual de 13 de outubro de 2026, com leitura iniciada pelo

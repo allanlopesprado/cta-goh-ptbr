@@ -76,6 +76,10 @@ jobs:
           node tools/catalog-metadata.mjs --check
           node tools/context-quality.mjs --check
           node tools/semantic-features.mjs --check
+          node tools/label-consistency.mjs --check
+          node tools/mission-context.mjs --check
+          node tools/mission-contract.mjs --check
+          node tools/subtitle-readability.mjs --check
           node tools/translation-style.mjs --check
 
       - name: Build and validate pak

@@ -40,6 +40,18 @@ jobs:
       - name: Check audited source meaning features
         run: node tools/semantic-features.mjs --check
 
+      - name: Check contextual label terminology and qualifier style
+        run: node tools/label-consistency.mjs --check
+
+      - name: Check native mission reference ledger without requiring the game
+        run: node tools/mission-context.mjs --check
+
+      - name: Check source-bound mission contract decisions
+        run: node tools/mission-contract.mjs --check
+
+      - name: Screen dialogue readability without modifying text
+        run: node tools/subtitle-readability.mjs --check
+
       - name: Check PT-BR punctuation policy
         run: node tools/translation-style.mjs --check
 

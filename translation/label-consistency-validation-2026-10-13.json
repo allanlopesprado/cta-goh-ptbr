@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "release": "v1.0.25",
+  "stage": "local-review-no-commit-no-publication",
+  "baselineCommit": "5eae128b6d018004c728dd7d54d73e700127688c",
+  "userDecision": "Deixar os ajustes locais para conferir primeiro.",
+  "application": {
+    "changes": 487,
+    "catalogsChanged": 40,
+    "manifest": "translation/label-consistency-review-2026-10-13.json",
+    "exactAfterHashesVerified": 40,
+    "mgComponentOnlyChangesVerified": 324,
+    "numericSequencesPreserved": true
+  },
+  "scope": {
+    "catalogsScanned": 362,
+    "logicalAssociationsScanned": 22030,
+    "method": "Cruzamento de fontes, componentes e variantes de rótulos, com decisões pelo objeto/função. Comparação de grupos não equivale a nova leitura semântica integral de toda a prosa.",
+    "visibleLabelGrouping": {
+      "labelEntries": 11626,
+      "sourceGroups": 5665,
+      "repeatedSourceGroups": 2153,
+      "variantGroupsBefore": 16,
+      "variantGroupsAfter": 0,
+      "scope": "Descrições curtas abaixo de 180 caracteres e menus de escaramuça no recorte documentado. Marcações de apresentação e espaços normalizados somente na comparação, não nos originais."
+    },
+    "judgment": "Os ajustes são editoriais, terminológicos e de apresentação; não são 487 erros semânticos comprovados."
+  },
+  "tests": {
+    "command": "node --test tools/*.test.mjs",
+    "tests": 163,
+    "passed": 163,
+    "failed": 0,
+    "skipped": 0,
+    "exitCode": 0,
+    "newLabelTests": 32,
+    "newNumericScopeTests": 1
+  },
+  "checks": [
+    {
+      "command": "node tools/translation-audit.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": {
+          "previousEnglish": 362,
+          "portuguese": 362,
+          "currentEnglish": 362
+        },
+        "counts": {
+          "unchanged": 22030,
+          "added": 0,
+          "changed": 0,
+          "removed": 0,
+          "translatedExact": 21893,
+          "needsTranslationReview": 0
+        },
+        "addedFiles": [],
+        "removedFiles": [],
+        "changedFiles": [],
+        "issuesByType": {
+          "same-as-source-review": 3776,
+          "catalog-syntax-error": 66
+        },
+        "duplicates": 92,
+        "sourceExceptionsUsed": 1
+      }
+    },
+    {
+      "command": "node tools/source-integrity.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "files": 363,
+        "catalogs": 362,
+        "sourcePackageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/catalog-metadata.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "pluralMessages": 0,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/context-quality.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "rules": 3675,
+        "files": 164,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/label-consistency.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "logicalEntries": 22030,
+        "protectedEntries": 1504,
+        "counts": {
+          "inch-label-unit": 177,
+          "ammo-double": 4,
+          "flak-crew": 3,
+          "mg-operator": 283,
+          "mg-assistant": 254,
+          "mg-crew": 22,
+          "mg-crew-assistant": 21,
+          "rifleman": 483,
+          "weapon-crew": 4,
+          "supply": 22,
+          "royal-engineers-field-section": 11,
+          "m8-carriage": 5,
+          "late": 63,
+          "early": 34,
+          "vehicle-engineer": 14,
+          "mid": 25,
+          "dismounted": 5,
+          "mounted": 38,
+          "flame": 11,
+          "drum": 9,
+          "scope": 8,
+          "belt": 4,
+          "double-drum": 1,
+          "towed": 17
+        },
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/semantic-features.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "logicalEntries": 22030,
+        "protectedEntries": 189,
+        "counts": {
+          "nominal-inch-calibre": 179,
+          "anti-tank-rifle-role": 5,
+          "physical-key-name": 3,
+          "fuel-transfer-domain": 2
+        },
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/translation-style.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "catalogs": 362,
+        "issues": []
+      }
+    },
+    {
+      "command": "node tools/pack-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "mode": "check",
+        "files": 363,
+        "bytes": 3809235,
+        "archiveBytes": 3878709,
+        "crc32": "verified",
+        "content": "exact expected bytes",
+        "root": "default/",
+        "locale": "pt_BR",
+        "output": "C:\\Users\\allan\\Downloads\\cta-goh-ptbr\\dist\\default.pak"
+      }
+    },
+    {
+      "command": "node tools/release-translation.mjs --check",
+      "exitCode": 0,
+      "summary": {
+        "tag": "v1.0.25",
+        "pakSha256": "3187a90bf4aec47df089705ebd1bbcda179f2f74174f2fb49791f76fc8de2e5b",
+        "pakBytes": 3878709,
+        "gameTested": false,
+        "mode": "--check"
+      }
+    },
+    {
+      "command": "git diff --check",
+      "exitCode": 0,
+      "result": "approved"
+    },
+    {
+      "command": "node tools/release-translation.mjs --prepare v1.0.25",
+      "exitCode": 0,
+      "summary": {
+        "tag": "v1.0.25",
+        "pakSha256": "3187a90bf4aec47df089705ebd1bbcda179f2f74174f2fb49791f76fc8de2e5b",
+        "pakBytes": 3878709,
+        "gameTested": false,
+        "mode": "--prepare"
+      }
+    }
+  ],
+  "contextualRules": {
+    "rules": 3675,
+    "files": 164,
+    "updatedRules": 55,
+    "addedRules": 432,
+    "distinctChangedIdentities": 3649,
+    "retainedSentinels": 26
+  },
+  "labelGate": {
+    "protectedEntries": 1504,
+    "issues": 0,
+    "scope": "Convenções declaradas para qualificadores, notação e componentes de cargos; não tradução automática nem certificado de sentido, gênero ou modelos.",
+    "qa": "Antes da aplicação, uma segunda leitura identificou falsos positivos para modificador Motorizado, coletivo Team, papel composto Sapper e Engineer em contexto humano. As regras e fixtures foram corrigidas preservando as traduções legítimas.",
+    "independentExtraSyntheticFixtures": 28
+  },
+  "semanticGate": {
+    "protectedEntries": 189,
+    "nominalCalibreOccurrences": 179,
+    "sourceSelectedAdditionalLabels": 3,
+    "issues": 0,
+    "scope": "Proteção dos números/calibres nominais independente da convenção editorial pol."
+  },
+  "independentQa": {
+    "englishFilesByteIdenticalToBaseline": 363,
+    "historicalEvidenceFilesGitContentUnchanged": 16,
+    "approvedMsgstrSpansReconstructedIndependently": 487,
+    "reconstructedCatalogFilesByteIdentical": 40,
+    "otherPortugueseFilesUntouched": 323,
+    "sourceFieldsHeadersCommentsUnselectedTargetsPreserved": true,
+    "method": "Leitor independente reconstruiu os bytes a partir do Git e das substituições de msgstr, sem usar planCatalogChanges ou o helper de aplicação. LF/CRLF de checkout dos registros históricos comparados como conteúdo Git.",
+    "packageCrcAndExpectedContentChecked": true
+  },
+  "source": {
+    "packageSha256": "dc5d9f6c9b3f3d47092802ed69c85e4b0c7f6071e60d552e7c54d8bb64c61dd6",
+    "sourceReferenceDate": "2026-10-07",
+    "files": 363,
+    "catalogs": 362,
+    "sourceManifestAndFingerprintsUnmodified": true
+  },
+  "package": {
+    "path": "dist/default.pak",
+    "files": 363,
+    "catalogs": 362,
+    "root": "default/",
+    "locale": "pt_BR",
+    "archiveBytes": 3878709,
+    "payloadBytes": 3809235,
+    "sha256": "3187a90bf4aec47df089705ebd1bbcda179f2f74174f2fb49791f76fc8de2e5b",
+    "crc32": "all members verified",
+    "content": "exact expected PT tree bytes",
+    "rebuiltReproducibly": true,
+    "beforeSha256": "3187a90bf4aec47df089705ebd1bbcda179f2f74174f2fb49791f76fc8de2e5b",
+    "afterSha256": "3187a90bf4aec47df089705ebd1bbcda179f2f74174f2fb49791f76fc8de2e5b",
+    "releaseMetadataAndChangelogMatch": true
+  },
+  "inheritedDiagnostics": {
+    "sameAsSourceCandidates": 3776,
+    "syntaxDiagnostics": 66,
+    "explanation": "Nomes/códigos e peculiaridades da fonte/forma legada continuam como triagem herdada. O audit aprovou a associação e os marcadores; esses totais não são uma lista de frases sem tradução nem certificação de perfeição."
+  },
+  "publication": {
+    "commitCreated": false,
+    "pushed": false,
+    "pullRequestCreated": false,
+    "tagCreated": false,
+    "releasePublished": false,
+    "githubActionsExecuted": false,
+    "localReleaseMetadataPrepared": true,
+    "workflowsEditedLocally": true
+  },
+  "game": {
+    "gameTested": false,
+    "installationChanged": false,
+    "gameplayExecuted": false
+  }
+}

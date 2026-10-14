@@ -213,7 +213,7 @@ msgstr "Tenente Williams, seu objetivo é assegurar a área caso os alemães dec
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_04"
 msgid "Corporal Crosby, you’re in charge of the medical team. Search for survivors and provide assistance. Williams, cover the medics at all costs. Report me when you’re ready for evacuation and I’ll send a lorry for the wounded. I can’t do it right now, the skies are too hot. Out."
-msgstr "Cabo Crosby, você está no comando da equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Me reporte quando estiver pronto para evacuação e enviarei um caminhão para os feridos. Não posso fazer isso agora - o céu está perigoso demais. Câmbio e encerro."
+msgstr "Cabo Crosby, você comanda a equipe médica. Procure sobreviventes e preste assistência. Williams, proteja os médicos a todo custo. Avise-me quando estiver pronto para a evacuação e enviarei um caminhão para os feridos. Não posso enviá-lo agora: o céu está perigoso demais. Encerro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_05"
 msgid "Gosh… No one warned about the smell… Look at ‘em… They’re all… Burnt… I feel so sick."
@@ -249,7 +249,7 @@ msgstr "Infantaria leve alemã se aproximando de várias direções. Encontramos
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_13"
 msgid "Copy that, sending help to you. Out."
-msgstr "Entendido, enviando ajuda. Câmbio final."
+msgstr "Entendido, enviando ajuda. Encerro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_14"
 msgid "Enemy vehicle coming from the north, take it down!"
@@ -273,7 +273,7 @@ msgstr "Capitão, aqui é Williams. Estamos prontos para evacuação. Os céus e
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_19"
 msgid "Understood, Lieutenant. Lorry’s on the way, it’s three minutes away. Good work, lads. Out."
-msgstr "Entendido, Tenente. O caminhão está a caminho, três minutos. Bom trabalho, rapazes. Câmbio e encerro."
+msgstr "Entendido, Tenente. O caminhão está a caminho, três minutos. Bom trabalho, rapazes. Encerro."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/narrator/part01_21"
 msgid "Lorry is ready! Crosby, get the wounded into it, now!"
@@ -649,7 +649,7 @@ msgstr "Ordene às suas unidades aliadas que iniciem um assalto às posições i
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_allround"
 msgid "<c(B29557)>[All-Round]</c> BL 6-inch howitzer"
-msgstr "<c(B29557)>[Versátil]</c> Obuseiro BL de 6 polegadas"
+msgstr "<c(B29557)>[Versátil]</c> Obuseiro BL de 6 pol."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_defensive"
 msgid "<c(B29557)>[Defensive]</c> Light Tank Mk. VIb"
@@ -685,7 +685,7 @@ msgstr "Selecione sua Doutrina para a missão.\nIsso afeta a lista de unidades d
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_allround"
 msgid "All-Round: BL 6-inch howitzer"
-msgstr "Versátil: Obuseiro BL de 6 polegadas"
+msgstr "Versátil: Obuseiro BL de 6 pol."
 
 msgctxt "mission/single/05-eng/1940_05_13_dyle/doctrine_defensive"
 msgid "Defensive: Light Tank Mk. VIb"

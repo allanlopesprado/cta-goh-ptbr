@@ -3,11 +3,88 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {parseCatalog, effectiveSource, sourceSignature, matchCatalogTranslation} from './translation-audit.mjs';
 import {catalogPath} from './apply-context-review.mjs';
+import {reviewedSemanticContracts} from './semantic-feature-policy.mjs';
+
+const contractKey = ({file, context}) => JSON.stringify([file, context]);
+export function semanticVisibleText(value) {
+ return value.replace(/<[^>]*>/g, '').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+}
+
+// Exact decimal arithmetic; never round one nominal calibre into another.
+function metricAmount(value, unit) {
+ const [whole = '0', fraction = ''] = value.replace(',', '.').split('.');
+ return {value: BigInt((whole || '0') + fraction) * (unit.toLowerCase() === 'cm' ? 10n : 1n), scale: 10n ** BigInt(fraction.length)};
+}
+function sameMetric(left, right) {
+ return left.value * right.scale === right.value * left.scale;
+}
+function sameNominal(left, right) {
+ const leftParts = left.split('/'), rightParts = right.split('/');
+ return leftParts.length === rightParts.length && leftParts.every((part, index) => sameMetric(metricAmount(part, 'mm'), metricAmount(rightParts[index], 'mm')));
+}
+export function semanticModelPattern(value) {
+ const escape = part => part.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+ const normalized = semanticVisibleText(value);
+ const parts = /^no\./.test(normalized)
+  ? '(?:no\\.?|n\\.?[º°]?\\.?)\\s*' + escape(normalized.replace(/^no\.\s*/, ''))
+  : normalized.split(/[ -]+/).map(escape).join('[\\s-]*');
+ return new RegExp('(?<![\\p{L}\\p{N}])' + parts + '(?![\\p{L}\\p{N}])', 'iu');
+}
+
+export function checkSemanticContracts(pair, contracts = reviewedSemanticContracts) {
+ const matches = contracts.filter(contract => contract.file === pair.file && contract.context === pair.context);
+ if (!matches.length) return {features: [], issues: []};
+ const fail = (type, detail, contractId) => ({file: pair.file, context: pair.context, type, detail, contractId});
+ const contract = matches.find(candidate => candidate.source === pair.source);
+ if (!contract) return {features: ['semantic-contract-source-binding'], issues: [fail('semantic-contract-source-drift', 'A fonte deste contexto protegido mudou: revisar o contrato antes de certificar a tradução.', matches[0].id)]};
+ const visible = semanticVisibleText(pair.translation), features = [], issues = [];
+ const metricTargets = [...visible.matchAll(/(?<![\d.,])(\d+(?:[.,]\d+)?|[.,]\d+)[ -]*(mm|cm)\b/giu)].map(match => metricAmount(match[1], match[2]));
+ const barrelTargets = [...visible.matchAll(/\bl\s*\/\s*(\d+(?:[.,]\d+)?)\b/giu)].map(match => match[1]);
+ const poundTargets = [...visible.matchAll(/(?<![\d.,/])(\d+(?:[.,]\d+)?(?:\/\d+(?:[.,]\d+)?)?)[ -]*(pdr|pounder|lb|libras?)\b/giu)].map(match => ({value: match[1], unit: match[2]}));
+ for (const requirement of contract.requirements) {
+  features.push(requirement.feature);
+  let passed;
+  if (requirement.kind === 'model') {
+   passed = semanticModelPattern(requirement.value).test(visible);
+  } else if (requirement.kind === 'metric-calibre') {
+   const expected = metricAmount(requirement.value, requirement.unit), at = metricTargets.findIndex(target => sameMetric(expected, target));
+   passed = at !== -1;
+   if (passed) metricTargets.splice(at, 1);
+  } else if (requirement.kind === 'barrel-ratio') {
+   const at = barrelTargets.findIndex(value => sameNominal(requirement.value, value));
+   passed = at !== -1;
+   if (passed) barrelTargets.splice(at, 1);
+  } else if (requirement.kind === 'nominal-pound') {
+   const allowedUnits = requirement.unit === 'lb' ? ['lb', 'libra', 'libras'] : ['pdr', 'pounder', 'libra', 'libras'];
+   const at = poundTargets.findIndex(target => allowedUnits.includes(target.unit) && sameNominal(requirement.value, target.value));
+   passed = at !== -1;
+   if (passed) poundTargets.splice(at, 1);
+  } else if (requirement.kind === 'text') {
+   const test = pattern => new RegExp(pattern, 'iu').test(visible);
+   passed = (requirement.allOf || []).every(test) && (!requirement.anyOf?.length || requirement.anyOf.some(test)) && !(requirement.noneOf || []).some(test);
+  } else throw new Error('Unknown semantic requirement: ' + requirement.kind);
+  if (!passed) issues.push(fail(requirement.feature, requirement.detail || 'Preservar a característica semântica auditada: ' + (requirement.value || requirement.feature) + '.', contract.id));
+ }
+ return {features: [...new Set(features)], issues};
+}
+
+function indexContracts(contracts) {
+ const index = new Map();
+ for (const contract of contracts) {
+  const key = contractKey(contract), candidates = index.get(key) || [];
+  if (candidates.some(candidate => candidate.source === contract.source)) throw new Error('Duplicate semantic contract: ' + contract.id);
+  candidates.push(contract); index.set(key, candidates);
+ }
+ return index;
+}
+const reviewedContractIndex = indexContracts(reviewedSemanticContracts);
 
 // Narrow source-driven safeguards, not a translator or a semantic certificate.
 // They allow alternative PT wording but protect specific audited distinctions.
 export function checkSemanticFeatures({file, context, source, translation}) {
  const issues = [], features = [];
+ const contract = checkSemanticContracts({file, context, source, translation}, reviewedContractIndex.get(contractKey({file, context})) || []);
+ features.push(...contract.features); issues.push(...contract.issues);
  const fail = (type, detail) => issues.push({file, context, type, detail});
  if (/\bAT Rifleman\b/.test(source)) {
   features.push('anti-tank-rifle-role');
@@ -24,7 +101,14 @@ export function checkSemanticFeatures({file, context, source, translation}) {
   if (!translation.trim() || /\b(?:embarcar|desembarcar|embarque|desembarque)\b/iu.test(translation))
    fail('fuel-transfer-domain', 'Não usar rótulos de embarque/desembarque na ação de líquido. Esta regra não certifica outros verbos nem a direção do recipiente.');
  }
- const itemDescription = /^interface\/text\/desc\//.test(file) || /^mission\/single\/0x-skirmish\/menu_eng\//.test(context) || context === 'mission/single/05-eng/1944_07_18_caen_goodwood/doctrine_offensive';
+ const additionalNominalLabel = (
+  /^interface\/text\/mission\/single\/(?:04-usa|041-usa_airborne)\/reinf_usa\.pot$/.test(file) &&
+  /^mission\/single\/(?:04-usa|041-usa_airborne)\/menu_usa\/(?:107mm_m2|114mm_m1|203mm_m1)$/.test(context)
+ ) || (
+  file === 'interface/text/mission/single/05-eng/1940_05_13_dyle.pot' &&
+  context === 'mission/single/05-eng/1940_05_13_dyle/ui/reinf_doc_allround'
+ );
+ const itemDescription = /^interface\/text\/desc\//.test(file) || /^mission\/single\/0x-skirmish\/menu_eng\//.test(context) || context === 'mission/single/05-eng/1944_07_18_caen_goodwood/doctrine_offensive' || additionalNominalLabel;
  if (itemDescription) {
   const nominal = value => {
    const [integer = '', fraction = ''] = value.replace(',', '.').split('.');
@@ -33,14 +117,15 @@ export function checkSemanticFeatures({file, context, source, translation}) {
    return whole + (decimals ? '.' + decimals : '');
   };
   const targets = [...translation.matchAll(/(?<![\d.,])(\d+(?:[.,]\d+)?|[.,]\d+)\s+(?:pol\.(?!\w)|polegadas?\b)/giu)].map(m => nominal(m[1]));
-  for (const match of source.matchAll(/(?<![\d.])(\d+(?:\.\d+)?|\.\d+)[ -]?inch(?:es)?\b/gi)) {
+  const inchPattern = additionalNominalLabel ? /(?<![\d.])(\d+(?:\.\d+)?|\.\d+)[ -]?(?:inch(?:es)?|in)\b/gi : /(?<![\d.])(\d+(?:\.\d+)?|\.\d+)[ -]?inch(?:es)?\b/gi;
+  for (const match of source.matchAll(inchPattern)) {
    features.push('nominal-inch-calibre');
    const at = targets.indexOf(nominal(match[1]));
    if (at === -1)
     fail('nominal-inch-calibre', 'Preservar o calibre nominal ' + match[1] + ' em pol. ou polegadas, sem conversão.');
    else targets.splice(at, 1);
   }
-  if (features.includes('nominal-inch-calibre') && /(?:\binch|\dinch)(?:es)?\b/i.test(translation))
+  if (features.includes('nominal-inch-calibre') && (/(?:\binch|\dinch)(?:es)?\b/i.test(translation) || (additionalNominalLabel && /\d(?:\.\d+)?[ -]?in\b/i.test(translation))))
    fail('untranslated-inch-unit', 'A unidade descritiva inch deve ser localizada; códigos de modelo permanecem intactos.');
  }
  return {features, issues};
@@ -69,10 +154,14 @@ export function checkCatalogSemanticFeatures(englishText, portugueseText, file) 
    throw new Error('Semantic feature plural forms require explicit review: ' + file + ': ' + entry.msgctxt);
   issues.push(...checkSemanticFeatures({file, context: entry.msgctxt, source, translation: target.translations.msgstr || ''}).issues);
  }
+ for (const contract of reviewedSemanticContracts.filter(contract => contract.file === file)) {
+  if (!en.some(entry => entry.msgctxt === contract.context))
+   issues.push({file, context: contract.context, type: 'semantic-contract-context-missing', detail: 'O contexto de um contrato auditado desapareceu da fonte: revisar a proteção.', contractId: contract.id});
+ }
  return {logicalEntries, protectedEntries, counts, issues};
 }
 
-export function checkSemanticRoot(repo) {
+export function checkSemanticRoot(repo, {requireCompletePolicy = true} = {}) {
  const englishRoot = path.resolve(repo, 'localization/en'), targetRoot = path.resolve(repo, 'localization/pt_BR');
  const files = [], normalize = value => process.platform === 'win32' ? value.toLowerCase() : value;
  function walk(folder, relative = '') {
@@ -98,6 +187,11 @@ export function checkSemanticRoot(repo) {
   logicalEntries += result.logicalEntries; protectedEntries += result.protectedEntries;
   for (const [feature, count] of Object.entries(result.counts)) counts[feature] = (counts[feature] || 0) + count;
   issues.push(...result.issues);
+ }
+ if (requireCompletePolicy) {
+  for (const file of new Set(reviewedSemanticContracts.map(contract => contract.file))) {
+   if (!files.includes(file)) issues.push({file, context: '', type: 'semantic-contract-catalog-missing', detail: 'O catálogo de um contrato auditado desapareceu da fonte: revisar a proteção.'});
+  }
  }
  return {catalogs: files.length, logicalEntries, protectedEntries, counts, issues};
 }

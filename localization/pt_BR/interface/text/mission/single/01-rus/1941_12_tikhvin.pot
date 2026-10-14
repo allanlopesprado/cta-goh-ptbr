@@ -83,7 +83,7 @@ msgstr "Há vários caminhos que levam ao segundo trenó a hélice. Será necess
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/06"
 msgid "Try to remain stealthy. Do not get too close to sleeping Germans or raise suspicion. You should use the silenced Nagant pistol to take out enemies quietly."
-msgstr "Tente permanecer furtivo. Não se aproxime demais de alemães dormindo nem levante suspeitas. Use a pistola Nagant com silenciador para eliminar inimigos discretamente."
+msgstr "Tente permanecer furtivo. Não se aproxime demais de alemães dormindo nem levante suspeitas. Use o revólver Nagant com silenciador para eliminar inimigos discretamente."
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/speech/narrator_assistant/07"
 msgid "A high-ranking officer is performing an inspection. He may carry documents. You must wait for the right time to ambush him."
@@ -359,4 +359,4 @@ msgstr "Objetivo Secreto nº 1"
 
 msgctxt "mission/single/01-rus/1941_12_tikhvin/task_sec1_completed"
 msgid "Free the allied Partisans."
-msgstr "Liberte os partisans aliados."
+msgstr "Liberte os guerrilheiros aliados."

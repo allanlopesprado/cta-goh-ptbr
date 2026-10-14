@@ -66,7 +66,7 @@ msgstr "Você pode sempre abrir o menu de Objetivos da Missão usando o botão n
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/pak"
 msgid "You will need to manually shoot the targets in direct control. Press \"E\" by default to switch to direct control with the selected unit. Press \"T\" by default to toggle \"Classic\" and \"Third Person\" modes. Note that the longer you aim at a target, the more accurate your shot will be."
-msgstr "Você precisará atirar manualmente nos alvos no controle direto. Pressione \"E\" por padrão para alternar para controle direto com a unidade selecionada. Pressione \"T\" por padrão para alternar entre os modos \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo você mirar em um alvo, mais preciso será o tiro."
+msgstr "Atire nos alvos manualmente no Controle Direto. Com a unidade selecionada, pressione \"E\" (padrão) para entrar nesse modo e \"T\" (padrão) para alternar entre \"Clássico\" e \"Terceira Pessoa\". Quanto mais tempo mirar no alvo, mais preciso será o tiro."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/reinf"
 msgid "You now have control of three more soldiers."
@@ -78,7 +78,7 @@ msgstr "Diferentes componentes de veículos podem ser danificados no campo de ba
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/sandbag"
 msgid "Get to cover behind the sandbags and get ready to fire. Select your soldiers, and hover the cursor close to the sandbag. A silhouette previews the position of your soldiers behind cover. Utilize cover as much as possible to increase the survivability and accuracy of your soldiers."
-msgstr "Vá para a cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos de areia. Uma silhueta mostra a prévia da posição dos soldados atrás da cobertura. Use cobertura sempre que possível para aumentar a sobrevivência e a precisão dos soldados."
+msgstr "Procure cobertura atrás dos sacos de areia e prepare-se para atirar. Selecione seus soldados e passe o cursor perto dos sacos. A silhueta indica onde eles ficarão. Use cobertura sempre que possível para aumentar suas chances de sobrevivência e sua precisão."
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/hints/spec"
 msgid "Do not leave the hideout area before completing the task. If you leave the hideout, new targets will not appear."
@@ -118,7 +118,7 @@ msgstr "Este é o campo de tiro de MG e Morteiro. Armas de apoio à infantaria s
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak1"
 msgid "This is the Cannon range. Here we will show you how to engage enemy armored targets with a variety of projectiles. Crew the 3.7cm PaK anti-tank gun with your soldiers to begin the ballistics briefing!"
-msgstr "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar alvos blindados inimigos com uma variedade de projéteis. Tripule o canhão antitanque PaK de 3,7 cm com seus soldados para iniciar o briefing de balística!"
+msgstr "Este é o campo de tiro de artilharia. Aqui mostraremos como enfrentar alvos blindados inimigos com uma variedade de projéteis. Guarneça o canhão antitanque PaK de 3,7 cm com seus soldados para iniciar o briefing de balística!"
 
 msgctxt "mission/single/00-bootcamp/1-training/narrator/officer/pak2"
 msgid "The 3.7cm PaK Light Anti-Tank Gun fires various types of ammunition. To penetrate and destroy armored targets, use Armor Piercing (AP) and Armor Piercing Composite Rigid (APCR) rounds. To penetrate the thicker plates in front of you, use APCR. Against angled armor APCR it will ricochet off instead of penetrating. AP shells are more effective in this case."
