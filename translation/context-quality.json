@@ -3,11 +3,11 @@
   "status": "applied",
   "baselineCommit": "acda3f7d1008d38cfdf9e0544462a4a8196fbd7b",
   "policy": "Casos de regressão vinculados a arquivo, contexto e fonte exata. Correções aplicadas e retenções contextuais não são equivalências globais nem certificação semântica automática do corpus.",
-  "changeCount": 3090,
+  "changeCount": 3217,
   "retainedSentinelCount": 26,
-  "regressionRuleCount": 3116,
-  "latestReview": "translation/context-review-2026-10-13.json",
-  "ruleCountingPolicy": "changeCount é o número de identidades distintas com ajustes na união dos registros proativo, offline e contextual de 2026-10-13; os outros casos são sentinelas de retenção. A identidade inclui arquivo, contexto e fonte exata. Esses números não indicam posições na lista rules.",
+  "regressionRuleCount": 3243,
+  "latestReview": "translation/adversarial-review-2026-10-13.json",
+  "ruleCountingPolicy": "changeCount é o número de identidades distintas com ajustes na união dos registros proativo, offline, contextual e adversarial de 2026-10-13; os outros casos são sentinelas de retenção. A identidade inclui arquivo, contexto e fonte exata. Esses números não indicam posições na lista rules.",
   "rules": [
     {
       "file": "interface/text/announcements/cu6.pot",
@@ -34,8 +34,8 @@
       "file": "interface/text/desc/desc_ammo_eng.pot",
       "context": "desc/ammo/eng_revolver_clip_38",
       "source": ".38 Revolver Mk.IIz Clip",
-      "translation": "Clipe .38 Revolver Mk.IIz",
-      "reason": "Naturalize the translated ammunition noun before qualifiers/model and relate the nominal calibre with de. Keep type/model codes, capacities, tags and values unchanged; this is syntax, not a ballistic or container reclassification. The sequence .38 Revolver Mk.IIz is the nominal ammunition designation; retain it intact and move only the generic clip head."
+      "translation": "Clipe .38 Revólver Mk.IIz",
+      "reason": "Naturalize the translated ammunition noun before qualifiers/model and relate the nominal calibre with de. Keep type/model codes, capacities, tags and values unchanged; this is syntax, not a ballistic or container reclassification. The sequence .38 Revolver Mk.IIz is the nominal ammunition designation; retain it intact and move only the generic clip head. Revisão v1.0.24: Revolver é categoria da arma e não nome de modelo. A forma PT requer acento, como os demais rótulos de revólver do mesmo bucket."
     },
     {
       "file": "interface/text/desc/desc_ammo_eng.pot",
@@ -12253,8 +12253,8 @@
       "file": "interface/text/desc/desc_squad_rus.pot",
       "context": "desc/squad/squad_penal_mid_def(rus)",
       "source": "<c(A5A095)>(1)</c> Penal Rifle Squad",
-      "translation": "<c(A5A095)>(1)</c> Esquadra de Fuzileiros de Batalhão Penal",
-      "reason": "Escolha editorial para formação Rifle Squad: fuzileiros são o pessoal da esquadra, fuzis são as armas. Não se aplica a Rifleman humano nem a AT/Anti-tank Rifle, cujo foco explícito é fuzil antitanque."
+      "translation": "<c(A5A095)>(1)</c> Esquadra Penal de Fuzileiros",
+      "reason": "Escolha editorial para formação Rifle Squad: fuzileiros são o pessoal da esquadra, fuzis são as armas. Não se aplica a Rifleman humano nem a AT/Anti-tank Rifle, cujo foco explícito é fuzil antitanque. Revisão v1.0.24: Penal Rifle Squad é uma esquadra penal de fuzileiros; a fonte não especifica Batalhão. O PT acrescenta esse escalão sem indicação no registro ou na composição nativa consultada. Outros textos ingleses distinguem explicitamente Penal Battalion, portanto essa palavra só deve aparecer quando sustentada pela fonte/contexto."
     },
     {
       "file": "interface/text/desc/desc_squad_rus.pot",
@@ -13828,8 +13828,8 @@
       "file": "interface/text/dlg_frontend.pot",
       "context": "options/video/alphatocoverage#desc",
       "source": "Enables soft edges on leaves and blending effect on semi-transparent objects. May reduce performance noticeably if used in combination with MSAA. To improve performance, use 'soft alpha' together with FXAA.",
-      "translation": "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho com MSAA. Para melhorar o desempenho, use 'Alpha suave' junto com FXAA.",
-      "reason": "A recomendação remete à opção Soft alpha; explicitar o nome real do ajuste em vez de omiti-lo da instrução."
+      "translation": "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho de forma perceptível se usado em conjunto com MSAA. Para melhorar o desempenho, use 'Alpha suave' junto com FXAA.",
+      "reason": "A recomendação remete à opção Soft alpha; explicitar o nome real do ajuste em vez de omiti-lo da instrução. Revisão v1.0.24: Restitui o impacto perceptível e a condição explícita de combinar este efeito com MSAA, sem mudar a recomendação de FXAA."
     },
     {
       "file": "interface/text/dlg_frontend.pot",
@@ -15249,8 +15249,8 @@
       "file": "interface/text/mission/single/02-ger-west/1944_08_19_falaise_escape.pot",
       "context": "mission/single/02-ger-west/1944_08_19_falaise_escape/story",
       "source": " August 1944. The German counterattack at Mortain has failed to achieve its goals, and the allies are breaking out of the bridgehead. The threat of encirclement is real; but even now, Hitler demands new counter attacks in the direction of Avranches. A few days later he finally approves a retreat east. But around Falaise the remnants of no less than 14 divisions, including yours, are being pushed back into a pocket, and the few roads east from Falaise are constantly under attack by allied aircraft and artillery. High command has ordered a breakout by night.\n\n In this mission, the plan for you and the 3rd Fallschirmjäger Division is to break out of the encirclement in small groups. You will command one group, and you are to infiltrate and push through the allied lines, while creating some big distractions to get their attention. Your first assignment is to find a way for the division to cross the river Dives. Once you have found a suitable place to cross, report to 3rd FJ division command, after which further instructions will be issued.\n\nGood luck!",
-      "translation": " Agosto de 1944. O contra-ataque alemão em Mortain falhou em alcançar seus objetivos, e os aliados estão avançando para fora da cabeça de ponte. A ameaça de cerco é real; mas mesmo agora, Hitler exige novos contra-ataques na direção de Avranches. Alguns dias depois ele finalmente aprova uma retirada a leste. Mas ao redor de Falaise os remanescentes de não menos de 14 divisões, incluindo a sua, estão sendo empurrados de volta para um bolsão, e as poucas estradas a leste de Falaise estão constantemente sob ataque de aeronaves e artilharia aliadas. O alto comando ordenou uma fuga noturna.\n\nNesta missão, o plano para você e a 3ª Divisão Fallschirmjäger é escapar do cerco em pequenos grupos. Você comandará um grupo, devendo se infiltrar e avançar pelas linhas aliadas enquanto cria grandes distrações para chamar sua atenção. Sua primeira missão é encontrar um caminho para que a divisão cruce o rio Dives. Depois de encontrar um local adequado para cruzar, reporte-se ao comando da 3ª FJ, após o qual novas instruções serão emitidas.\n\nBoa sorte!",
-      "reason": "Breaking out of the bridgehead é sair da própria cabeça de ponte e expandir o avanço; romper a cabeça de ponte sugere atacar/destruir essa posição. Preserva a ameaça de cerco alemão e todos os dados históricos da fonte."
+      "translation": " Agosto de 1944. O contra-ataque alemão em Mortain falhou em alcançar seus objetivos, e os aliados estão avançando para fora da cabeça de ponte. A ameaça de cerco é real; mas mesmo agora, Hitler exige novos contra-ataques na direção de Avranches. Alguns dias depois ele finalmente aprova uma retirada a leste. Mas ao redor de Falaise os remanescentes de não menos de 14 divisões, incluindo a sua, estão sendo empurrados de volta para um bolsão, e as poucas estradas a leste de Falaise estão constantemente sob ataque de aeronaves e artilharia aliadas. O alto comando ordenou uma fuga noturna.\n\nNesta missão, o plano para você e a 3ª Divisão Fallschirmjäger é escapar do cerco em pequenos grupos. Você comandará um grupo, devendo se infiltrar e avançar pelas linhas aliadas enquanto cria grandes distrações para chamar sua atenção. Sua primeira missão é encontrar um caminho para que a divisão cruze o rio Dives. Depois de encontrar um local adequado para cruzar, reporte-se ao comando da 3ª FJ, após o qual novas instruções serão emitidas.\n\nBoa sorte!",
+      "reason": "Breaking out of the bridgehead é sair da própria cabeça de ponte e expandir o avanço; romper a cabeça de ponte sugere atacar/destruir essa posição. Preserva a ameaça de cerco alemão e todos os dados históricos da fonte. Revisão v1.0.24: Cruce não é a forma portuguesa de cruzar neste subjuntivo; cruze corrige o erro de conjugação/grafia sem alterar o rio, a divisão ou a condição de encontrar passagem."
     },
     {
       "file": "interface/text/mission/single/02-ger-west/1944_12_samree.pot",
@@ -21038,8 +21038,8 @@
       "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
       "context": "mission/single/04-usa/1944_12_hill400/narrator/04",
       "source": "Listen Up!! I want that hill taken by nightfall, let's go! Reinforcements and Artillery are at your disposal. Rangers lead the way!",
-      "translation": "Escutem!! Quero aquele morro tomado antes do anoitecer - vamos! Reforços e artilharia estão à sua disposição. Rangers abrem o caminho!",
-      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores."
+      "translation": "Escutem!! Quero aquele morro tomado até o anoitecer - vamos! Reforços e artilharia estão à sua disposição. Rangers abrem o caminho!",
+      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores. Revisão v1.0.24: By nightfall estabelece o anoitecer como prazo-limite. Até o anoitecer é a formulação temporal exata; antes do anoitecer é ligeiramente mais restritiva. Refinamento de prazo, sem afirmar cronômetro ou condição de falha não demonstrados."
     },
     {
       "file": "interface/text/mission/single/04-usa/1944_12_hill400.pot",
@@ -21605,8 +21605,8 @@
       "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
       "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part03_ally_mgun_crew_dead",
       "source": "Someone man this HMG, that machinegunner is down!",
-      "translation": "Alguém opere esta metralhadora pesada - aquele atirador foi abatido!",
-      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores."
+      "translation": "Alguém opere esta metralhadora pesada - aquele metralhador foi abatido!",
+      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores. Revisão v1.0.24: Machinegunner é função de metralhador, não atirador genérico; conservar papel da baixa."
     },
     {
       "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
@@ -21836,8 +21836,8 @@
       "file": "interface/text/mission/single/0x-skirmish/1944_07-fin_ilomantsi.pot",
       "context": "mission/single/03-fin_skirmish/1944_07-fin_ilomantsi/story",
       "source": "Karelian Front, Svir–Petrozavodsk offensive. On the Soviet side, an offensive seems to build it's obvious what's coming let's be ahead of them!\n\nGoals:\n - Stop the enemy attack before it starts.\n - Use Motti tactics to defeat the enemy.",
-      "translation": "Frente Careliana, ofensiva Svir-Petrozavodsk. Do lado soviético, uma ofensiva está sendo montada - é óbvio o que está vindo, vamos nos adiantar!\n\nObjetivos:\n - Pare o ataque inimigo antes que comece.\n - Use táticas Motti para derrotar o inimigo.",
-      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores."
+      "translation": "Frente Careliana, ofensiva Svir-Petrozavodsk. Do lado soviético, uma ofensiva parece estar sendo montada - é óbvio o que está vindo, vamos nos adiantar!\n\nObjetivos:\n - Pare o ataque inimigo antes que comece.\n - Use táticas Motti para derrotar o inimigo.",
+      "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores. Revisão v1.0.24: seems to build exprime uma avaliação provável, não uma certeza; preservar a modalidade da informação do briefing."
     },
     {
       "file": "interface/text/mission_finesthour.pot",
@@ -21887,6 +21887,895 @@
       "source": "\"Good men and bad men alike are capable of weakness. The difference is simply that a bad man will be proud all his life of one good deed – while an honest man is hardly aware of his good acts, but remembers a single sin for years on end...\"\n\n<s(18)e(shadow)b+c(dacba2)>Vasily Grossman",
       "translation": "\"Homens bons e maus são igualmente capazes de fraqueza. A diferença é simplesmente que um homem mau se orgulha a vida inteira de um único bom ato - enquanto um homem honesto mal percebe seus bons atos, mas se lembra de um único pecado por anos a fio...\"\n\n<s(18)e(shadow)b+c(dacba2)>Vasily Grossman",
       "reason": "Revisão contextual de 2026-10-13: Preferência editorial do usuário: retirar U+2014 dos textos PT-BR sem alterar conteúdo, modelos, números ou marcadores."
+    },
+    {
+      "file": "interface/text/announcements/announcement.pot",
+      "context": "announce_discord",
+      "source": "\n\nFrom Barbedwire Studios and Digitalmindsoft, \n\nWe want to thank all the participants in the CtA - Gates of Hell: Ostfront beta test\n\n for all your feedback and the playtime invested.\n\nJoin our Discord. Our goal is to build a strong community around our game\n\nSee you in the battlefield, commanders!",
+      "translation": "\n\nDa Barbedwire Studios e da Digitalmindsoft,\n\nAgradecemos a todos os participantes do beta teste de CtA - Gates of Hell: Ostfront\n\n por todo o feedback e pelo tempo investido.\n\nJunte-se ao nosso Discord. Nosso objetivo é construir uma comunidade forte em torno do nosso jogo.\n\nNos vemos no campo de batalha, comandantes!",
+      "reason": "Revisão v1.0.24: A despedida promete reencontro no campo de batalha; Até o campo de batalha não exprime essa despedida em português."
+    },
+    {
+      "file": "interface/text/announcements/autumn2025.pot",
+      "context": "announce_autumn2025",
+      "source": "Welcome back to the battlefield, Soldiers. New update 60 inbound!\n\nWe have optimized <c(f5d167)>MULTIPLAYER</c> memory consumption and loading times, more <c(f5d167)>ANIMATION</c> improvements, new features to control your vehicle's <c(f5d167)>REVERSE</c> motion, and more!.\n\n Thank you for your continued support.",
+      "translation": "Bem-vindos de volta ao campo de batalha, Soldados. A nova atualização 60 está chegando!\n\nOtimizamos o consumo de memória e os tempos de carregamento do <c(f5d167)>MULTIJOGADOR</c>. Também há mais melhorias de <c(f5d167)>ANIMAÇÃO</c>, novos recursos para controlar o movimento de <c(f5d167)>RÉ</c> do seu veículo, e muito mais!\n\n Obrigado pelo apoio contínuo.",
+      "reason": "Revisão v1.0.24: A lista de novidades fica presa ao verbo Otimizamos, deixando mais melhorias e novos recursos como objetos sem ligação gramatical. A proposta só separa a otimização da lista de novidades."
+    },
+    {
+      "file": "interface/text/announcements/pvp.pot",
+      "context": "announce_pvp",
+      "source": "Play more, wait less.\n\n Jump into Ranked PvP 1v1 & 2v2 or Casual queues with quick MMR-matched opponents. No more dead lobbies. No more getting kicked. Just nonstop games.\n\n Join our Discord Now! Go to -  <c(f5d167)>Channels & Roles- Ranked PvP role</c> - and join in on the fun!",
+      "translation": "Jogue mais, espere menos.\n\n Entre na fila de PvP Ranqueado 1v1 e 2v2 ou nas filas Casuais com oponentes rapidamente pareados por MMR. Nada de lobbies vazios. Nada de ser expulso. Apenas jogos ininterruptos.\n\n Junte-se ao nosso Discord agora! Acesse - <c(f5d167)>Canais e Cargos - cargo Ranked PvP</c> - e participe da diversão!",
+      "reason": "Revisão v1.0.24: É um caminho de navegação do Discord, não descrição genérica de funções. A interface oficial PT-BR chama a guia Canais e Cargos; Ranked PvP é o nome do cargo indicado pela fonte e deve continuar reconhecível no servidor."
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_rus.pot",
+      "context": "desc/stuff/hmgun_rus",
+      "source": "12.7-mm Heavy MG",
+      "translation": "Munição 12.7mm para MG Pesada",
+      "reason": "Revisão v1.0.24: O rótulo descreve o objeto de inventário de munição, não a arma. O EN é metonímico; explicitar Munição evita trocar a função do objeto. Correção contextual sustentada por configuração nativa direta."
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "context": "desc/stuff/hmgun_usa",
+      "source": ".50 cal Heavy MG",
+      "translation": "Munição .50 cal para Metralhadora Pesada",
+      "reason": "Revisão v1.0.24: Objeto de munição .50 foi rotulado como metralhadora. O EN usa a arma como abreviação, mas a configuração de inventário comprova função de munição."
+    },
+    {
+      "file": "interface/text/desc/desc_ammo_usa.pot",
+      "context": "desc/stuff/mgun_usa",
+      "source": ".30 cal Medum MG",
+      "translation": "Munição .30 cal para Metralhadora Média",
+      "reason": "Revisão v1.0.24: O rótulo de munição médio calibre foi traduzido como arma. A família nativa mgun_usa belt é munição em fita; explicitar Munição resolve a ambiguidade da fonte."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_airborne_ger.pot",
+      "context": "desc/human/mp/ger/late/lw_flak_nco",
+      "source": "Flak crew Squadleader [Luftwaffe]",
+      "translation": "Líder de Esquadra da Guarnição Flak [Luftwaffe]",
+      "reason": "Revisão v1.0.24: Squadleader identifica líder de esquadra, mas o PT troca o escalão por equipe e omite crew. A chave nco e a tag crew confirmam uma função de liderança da guarnição; conservar o escalão da fonte sem atribuir patente brasileira."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_ger.pot",
+      "context": "desc/human/mp/ger/mid/pioneer_at",
+      "source": "Pionier AT Rifleman [Heer]",
+      "translation": "Atirador Pioneiro com Fuzil Antitanque [Heer]",
+      "reason": "Revisão v1.0.24: AT Rifleman é atirador equipado com fuzil antitanque. O PT atual deixa apenas função AT, sem a classe de arma explicitada na fonte; o inventário confirma PzB39 e munição de fuzil AT. Não acrescentar modelo ao rótulo."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_rus.pot",
+      "context": "desc/human/mp/rus/late/assault-sap_atr",
+      "source": "Assault Sapper AT Rifleman [KA]",
+      "translation": "Sapador de Assalto com Fuzil Antitanque [KA]",
+      "reason": "Revisão v1.0.24: AT Rifleman indica fuzil antitanque, distinto de Assault Sapper AT Inf. O PT atual omite essa arma e combina AT/Atirador em ordem confusa. Inventário PTRS e munição de fuzil AT sustentam o descritor, sem inventar modelo na tradução."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_rus.pot",
+      "context": "desc/human/mp/rus/mid/assault-sap_atr",
+      "source": "Assault Sapper AT Rifleman [KA]",
+      "translation": "Sapador de Assalto com Fuzil Antitanque [KA]",
+      "reason": "Revisão v1.0.24: AT Rifleman indica fuzil antitanque, distinto de Assault Sapper AT Inf. O PT atual omite essa arma e combina AT/Atirador em ordem confusa. Inventário PTRS e munição de fuzil AT sustentam o descritor, sem inventar modelo na tradução."
+    },
+    {
+      "file": "interface/text/desc/desc_breed_mp_rus.pot",
+      "context": "desc/human/mp/rus/mid/penal_smg",
+      "source": "Penal SMG inf. [KA]",
+      "translation": "Inf. SMG Penal [KA]",
+      "reason": "Revisão v1.0.24: A fonte qualifica o combatente como Penal, mas não especifica Batalhão. O PT acrescenta esse escalão. Configuração nativa identifica um soldado penal com PPSh41, sem declaração de batalhão; retirar a expansão preserva o nível de detalhe da fonte."
+    },
+    {
+      "file": "interface/text/desc/desc_gear_rus.pot",
+      "context": "desc/stuff/rgd33_smoke_ammo",
+      "source": "RGD M/43 (Ammo paradrop)",
+      "translation": "RGD M/43 (Lançamento Aéreo de Munição)",
+      "reason": "Revisão v1.0.24: Paradrop explicita entrega aérea. Lançamento sozinho omite o modo de entrega do apoio sinalizado pelo item."
+    },
+    {
+      "file": "interface/text/desc/desc_gear_rus.pot",
+      "context": "desc/stuff/rgd33_smoke_weapons",
+      "source": "RGD M/43 (Weapons paradrop)",
+      "translation": "RGD M/43 (Lançamento Aéreo de Armas)",
+      "reason": "Revisão v1.0.24: Paradrop explicita entrega aérea. A distinção entre armas e munição está preservada, mas o modo aéreo foi omitido."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_squad_eng_signaller_183_late(eng)",
+      "source": "<c(B29557)>( III )</c> 7.2-inch Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 7.2 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_107mm_ml4_2_late",
+      "source": "<c(B29557)>( II )</c> ML 4.2-inch Mortar",
+      "translation": "<c(B29557)>( II )</c> Morteiro ML 4.2 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_94mm_qf_3_7_aa_late",
+      "source": "<c(B29557)>( II )</c> QF 3.7-inch AA (Late)",
+      "translation": "<c(B29557)>( II )</c> QF 3.7 pol. AA (Tardio)",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_140mm_bl_5_5_late",
+      "source": "<c(B29557)>( III )</c> BL 5.5-inch Mk.III Gun",
+      "translation": "<c(B29557)>( III )</c> Canhão BL 5.5 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_183mm_bl_7_2_late",
+      "source": "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_183mm_bl_7_2_mk6_late",
+      "source": "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_bl_4_5_late",
+      "source": "<c(B29557)>( III )</c> BL 4.5-inch Mk.II Gun",
+      "translation": "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.II",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_squad_eng_signaller_183_mid(eng)",
+      "source": "<c(B29557)>( III )</c> 7.2-inch Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 7.2 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_152mm_bl_6_mid",
+      "source": "<c(B29557)>( III )</c> BL 6-inch 26-cwt Howitzer Mk.I",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 6 pol. 26-cwt Mk.I",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_107mm_ml4_2_mid",
+      "source": "<c(B29557)>( II )</c> ML 4.2-inch Mortar",
+      "translation": "<c(B29557)>( II )</c> Morteiro ML 4.2 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_94mm_qf_3_7_aa_mid",
+      "source": "<c(B29557)>( III )</c> QF 3.7-inch AA",
+      "translation": "<c(B29557)>( III )</c> QF 3.7 pol. AA",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_140mm_bl_5_5_mid",
+      "source": "<c(B29557)>( III )</c> BL 5.5-inch Mk.III Gun",
+      "translation": "<c(B29557)>( III )</c> Canhão BL 5.5 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_203mm_bl_8_mid",
+      "source": "<c(B29557)>( III )</c> BL 8-inch Howitzer Mk.VIII",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_183mm_bl_7_2_mk6_mid",
+      "source": "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_qf_how_mid",
+      "source": "<c(B29557)>( II )</c> QF 4.5-inch Howitzer",
+      "translation": "<c(B29557)>( II )</c> Obuseiro QF 4.5 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_bl_4_5_mid",
+      "source": "<c(B29557)>( III )</c> BL 4.5-inch Mk.II Gun",
+      "translation": "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.II",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_183mm_bl_7_2_mid",
+      "source": "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.III",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_mortar_carrier_mk1",
+      "source": "<c(B29557)>( I )</c> 2-inch Mortar Carrier Mk.I",
+      "translation": "<c(B29557)>( I )</c> Porta-Morteiro de 2 pol. Mk.I",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_squad_eng_signaller_203_early(eng)",
+      "source": "<c(B29557)>( III )</c> 8-inch Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_152mm_bl_6_early",
+      "source": "<c(B29557)>( III )</c> BL 6-inch 26-cwt Howitzer Mk.I",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 6 pol. 26-cwt Mk.I",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_94mm_qf_3_7_aa_early",
+      "source": "<c(B29557)>( III )</c> QF 3.7-inch AA",
+      "translation": "<c(B29557)>( III )</c> QF 3.7 pol. AA",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_qf_how_wooden",
+      "source": "<c(B29557)>( III )</c> QF 4.5-inch Howitzer",
+      "translation": "<c(B29557)>( III )</c> Obuseiro QF 4.5 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_203mm_bl_8_early",
+      "source": "<c(B29557)>( III )</c> BL 8-inch Howitzer Mk.VIII",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_152mm_bl_6_mk19",
+      "source": "<c(B29557)>( III )</c> BL 6-inch Mk.XIX",
+      "translation": "<c(B29557)>( III )</c> BL 6 pol. Mk.XIX",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_qf_how_early",
+      "source": "<c(B29557)>( III )</c> QF 4.5-inch Howitzer",
+      "translation": "<c(B29557)>( III )</c> Obuseiro QF 4.5 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_114mm_bl_4_5_mk1",
+      "source": "<c(B29557)>( III )</c> BL 4.5-inch Mk.I Gun",
+      "translation": "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.I",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_eng.pot",
+      "context": "desc/squad/doctrine_183mm_bl_7_2_early",
+      "source": "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.III",
+      "translation": "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_squad_usa_signaller_203_mid(usa)",
+      "source": "<c(B29557)>( III )</c> 8-inch Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_107mm_m2_mid",
+      "source": "<c(B29557)>( II )</c> 4.2-inch Mortar M2",
+      "translation": "<c(B29557)>( II )</c> Morteiro M2 de 4.2 polegadas",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_203mm_m1_mid",
+      "source": "<c(B29557)>( III )</c> 8-inch Howitzer M1",
+      "translation": "<c(B29557)>( III )</c> Obuseiro M1 de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_m10_gmc_mid",
+      "source": "<c(B29557)>( II )</c> 3-inch GMC M10",
+      "translation": "<c(B29557)>( II )</c> 3 pol. GMC M10",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_squad_usa_signaller_240_mid(usa)",
+      "source": "<c(B29557)>( III )</c> 8-inch Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_107mm_m2_late",
+      "source": "<c(B29557)>( II )</c> 4.2-inch Mortar M2",
+      "translation": "<c(B29557)>( II )</c> Morteiro M2 de 4.2 polegadas",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_203mm_m1_late",
+      "source": "<c(B29557)>( III )</c> 8-inch Howitzer M1",
+      "translation": "<c(B29557)>( III )</c> Obuseiro M1 de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_doctrines_usa.pot",
+      "context": "desc/squad/doctrine_squad_usa_signaller_203_vt_late(usa)",
+      "source": "<c(B29557)>( III )</c> 8-inch VT Artillery Signaller",
+      "translation": "<c(B29557)>( III )</c> Sinaleiro de Artilharia VT de 8 pol.",
+      "reason": "Revisão v1.0.24: Inch permanece em inglês como descritor de calibre/diâmetro nominal. Localizar a unidade para pol. conservando valor, modelo, BL/ML/QF, Mk., VT, qualidade e marcação; não converter para mm nem alterar a designação pdr/cwt. Além da unidade, ordenar o rótulo pelo português e pelos nomes correspondentes de veículos/armas; manter modelos e qualificadores."
+    },
+    {
+      "file": "interface/text/desc/desc_squad_rus.pot",
+      "context": "desc/squad/squad_cav_sap_recon_early_all(rus)",
+      "source": "<c(A5A095)>(3)</c> Cavalry Recon Sapper Squad",
+      "translation": "<c(A5A095)>(3)</c> Esquadra de Sapadores de Reconhecimento de Cavalaria",
+      "reason": "Revisão v1.0.24: Recon modifica Sapper na fonte: sapadores de reconhecimento de cavalaria. A conjunção e no PT sugere componentes distintos de sapadores e reconhecimento. Os quatro tipos da composição nativa são cav_sap_recon e o rótulo de seu líder já conserva a relação correta."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/actions/lock_ammo#desc",
+      "source": "Toggle whether a vehicle can or cannot automatically switch its cannon shell type depending on its target. Automatic ammo switching is ON by default.",
+      "translation": "Alterna se um veículo pode ou não mudar automaticamente o tipo de projétil do canhão dependendo do alvo. A troca automática está ATIVADA por padrão.",
+      "reason": "Revisão v1.0.24: Cannon é o escopo explícito da troca/trava de projéteis. O PT omite o canhão e pode ampliar a ação a toda a munição da unidade. Não se inverte Locked/Unlocked apesar do nome da chave."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember9",
+      "source": "Select squad member 9",
+      "translation": "Selecionar membro 9 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/video/clip_distance#desc",
+      "source": "How far you can see in the game. Reducing this value can slightly improve performance, but may reduce the situational awareness from short-sightedness.",
+      "translation": "A distância de visão no jogo. Reduzir este valor pode melhorar levemente o desempenho, mas pode reduzir a consciência situacional por limitar o alcance de visão.",
+      "reason": "Revisão v1.0.24: A fonte informa um efeito possível e causado pelo alcance de visão reduzido; o PT atual transforma-o em consequência certa e omite a causa."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember1",
+      "source": "Select squad member 1",
+      "translation": "Selecionar membro 1 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/video/_ssao#desc",
+      "source": "Enables Screen Space Ambient Occlusion, which adds shadows in cavities and other occluded areas, making the lighting look more realistic. May reduce performance noticeably.",
+      "translation": "Habilita SSAO, que adiciona sombras em cavidades e áreas ocluídas, tornando a iluminação mais realista. Pode reduzir o desempenho de forma perceptível.",
+      "reason": "Revisão v1.0.24: Noticeably qualifica a magnitude perceptível do impacto no desempenho; a ressalva genérica atual perde essa informação técnica."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember10",
+      "source": "Select squad member 10",
+      "translation": "Selecionar membro 10 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "announce_upgrade_text",
+      "source": "We hope you were enjoying Call to Arms so far!\n\nIt's a great time to upgrade your free edition to one of the full version packages. Experience the singleplayer campaigns in solo or coop with your friends, play user generated content via Steam Workshop, fight custom battles in editor, mod your game from ground up, get your multiplayer units unlocked instantly and receive access to new factions (once available). Of course, there are also some extra goodies waiting for you. For more information, please check the product pages.\n\nHave fun!",
+      "translation": "Esperamos que você esteja aproveitando Call to Arms!\n\nÉ uma ótima hora para atualizar sua edição gratuita para uma das versões completas. Experimente as campanhas no modo solo ou cooperativo com amigos, jogue conteúdo da comunidade via Steam Workshop, crie batalhas personalizadas no editor, modifique o jogo do zero, desbloqueie unidades multiplayer instantaneamente e acesse novas facções (quando estiverem disponíveis). Há também extras esperando por você. Para mais informações, confira as páginas do produto.\n\nDivirta-se!",
+      "reason": "Revisão v1.0.24: A edição gratuita é o ponto de partida explícito da oferta; o PT a omitiu. Corrige também a ligação gramatical entre campanhas e modo cooperativo, sem alterar os benefícios anunciados."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "feedback_text2",
+      "source": "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Silver Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n",
+      "translation": "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Prata. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n",
+      "reason": "Revisão v1.0.24: O pedido nice review perdeu seu qualificativo. Boa avaliação conserva o pedido favorável sem adicionar classificação em estrelas ou nota específica."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember3",
+      "source": "Select squad member 3",
+      "translation": "Selecionar membro 3 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember4",
+      "source": "Select squad member 4",
+      "translation": "Selecionar membro 4 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember2",
+      "source": "Select squad member 2",
+      "translation": "Selecionar membro 2 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember5",
+      "source": "Select squad member 5",
+      "translation": "Selecionar membro 5 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember6",
+      "source": "Select squad member 6",
+      "translation": "Selecionar membro 6 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember7",
+      "source": "Select squad member 7",
+      "translation": "Selecionar membro 7 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember8",
+      "source": "Select squad member 8",
+      "translation": "Selecionar membro 8 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember11",
+      "source": "Select squad member 11",
+      "translation": "Selecionar membro 11 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/control_manual/squadmember12",
+      "source": "Select squad member 12",
+      "translation": "Selecionar membro 12 da esquadra",
+      "reason": "Revisão v1.0.24: A instrução perdeu o objeto squad. O número continua identificando o membro, não a esquadra; repor da esquadra preserva esse referente."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/actions/smoke_decoy#desc",
+      "source": "Launch a smoke screen of a selected vehicle with this ability.",
+      "translation": "Lança uma cortina de fumaça do veículo selecionado que tenha essa habilidade.",
+      "reason": "Revisão v1.0.24: A fonte restringe a ação aos veículos equipados com essa habilidade. O PT atual omite a condição e parece aplicar a qualquer veículo."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/keymap/key_back",
+      "source": "BACK",
+      "translation": "BACK",
+      "reason": "Revisão v1.0.24: O contexto keymap identifica uma tecla física, não a ação de ir ao início, excluir ou voltar. Preservar o rótulo literal da fonte evita confundi-lo com os botões de menu homônimos."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/keymap/key_home",
+      "source": "HOME",
+      "translation": "HOME",
+      "reason": "Revisão v1.0.24: O contexto keymap identifica uma tecla física, não a ação de ir ao início, excluir ou voltar. Preservar o rótulo literal da fonte evita confundi-lo com os botões de menu homônimos."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "options/keys/keymap/key_delete",
+      "source": "DELETE",
+      "translation": "DELETE",
+      "reason": "Revisão v1.0.24: O contexto keymap identifica uma tecla física, não a ação de ir ao início, excluir ou voltar. Preservar o rótulo literal da fonte evita confundi-lo com os botões de menu homônimos."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "user_statistics/ranked/stat/max_infantry",
+      "source": "Highest infantry kills",
+      "translation": "Maior número de unidades de infantaria eliminadas",
+      "reason": "Revisão v1.0.24: Número requer um referente contável; número de infantaria eliminada deixa o rótulo da métrica gramaticalmente defeituoso. Unidades não muda a distinção máximo/total."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "announce_sale_text",
+      "source": "Call to Arms is currently on Sale!\n\nToday you can upgrade your package at a great price.\nEnjoy instant unit unlock, Singleplayer and Cooperative content, Workshop support and much more!",
+      "translation": "Call to Arms está em promoção!\n\nHoje você pode atualizar por um ótimo preço.\nAproveite desbloqueio instantâneo de unidades, conteúdo solo e cooperativo, Workshop e muito mais!",
+      "reason": "Revisão v1.0.24: Instant é um benefício explícito da oferta, contrastando com desbloqueio progressivo; foi omitido."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "feedback_text",
+      "source": "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Bronze Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n",
+      "translation": "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Bronze. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n",
+      "reason": "Revisão v1.0.24: O pedido nice review perdeu seu qualificativo. Boa avaliação conserva o pedido favorável sem adicionar classificação em estrelas ou nota específica."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "feedback_text3",
+      "source": "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Gold Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n",
+      "translation": "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Ouro. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n",
+      "reason": "Revisão v1.0.24: O pedido nice review perdeu seu qualificativo. Boa avaliação conserva o pedido favorável sem adicionar classificação em estrelas ou nota específica."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/hint_difficulty_easy",
+      "source": "Easy Difficulty: \n• Greatly reduces enemy infantry health \n• Greatly reduces enemy weapon accuracy for all units \n• Reduces enemy rate of throwing grenades \n• Greatly increases player infantry health \n• Increases friendly AI infantry health",
+      "translation": "Dificuldade Fácil: \n• Reduz muito a saúde da infantaria inimiga \n• Reduz muito a precisão das armas inimigas de todas as unidades \n• Reduz a frequência com que os inimigos lançam granadas \n• Aumenta muito a saúde da infantaria do jogador \n• Aumenta a saúde da infantaria IA aliada",
+      "reason": "Revisão v1.0.24: As notas distinguem saúde da infantaria de precisão das armas de todas as unidades. O PT atual perde esse escopo; em Fácil também perde o sujeito inimigo da redução de granadas."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/hint_difficulty_normal",
+      "source": "Normal Difficulty: \n• Reduces enemy infantry health \n• Reduces enemy weapon accuracy for all units \n• All other stats are at standard values",
+      "translation": "Dificuldade Normal: \n• Reduz a saúde da infantaria inimiga \n• Reduz a precisão das armas inimigas de todas as unidades \n• Todos os outros atributos em valores padrão",
+      "reason": "Revisão v1.0.24: As notas distinguem saúde da infantaria de precisão das armas de todas as unidades. O PT atual perde esse escopo; em Fácil também perde o sujeito inimigo da redução de granadas."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/dynamic_campaign/hint_difficulty_hard",
+      "source": "Hard Difficulty: \n• Reduces enemy infantry health \n• Slightly reduces enemy weapon accuracy for all units \n• All other stats are at standard values",
+      "translation": "Dificuldade Difícil: \n• Reduz a saúde da infantaria inimiga \n• Reduz levemente a precisão das armas inimigas de todas as unidades \n• Todos os outros atributos em valores padrão",
+      "reason": "Revisão v1.0.24: As notas distinguem saúde da infantaria de precisão das armas de todas as unidades. O PT atual perde esse escopo; em Fácil também perde o sujeito inimigo da redução de granadas."
+    },
+    {
+      "file": "interface/text/dlg_frontend.pot",
+      "context": "main_menu2/steam_startup_cta",
+      "source": "Your steam account does not have a paid edition of Call to Arms, which is necessary to to run Call to Arms - Gates of Hell.\nUninstall any existing Call to Arms versions on Steam to eliminate any legacy free products and purchase the basic edition or higher.\nYou will need to remove the legacy free version to be able to make the purchase.",
+      "translation": "Sua conta Steam não possui uma edição paga de Call to Arms, necessária para executar Call to Arms - Gates of Hell.\nDesinstale quaisquer versões de Call to Arms presentes no Steam para eliminar produtos gratuitos legados e adquira a edição básica ou superior.\nVocê precisará remover a versão gratuita legada para poder fazer a compra.",
+      "reason": "Revisão v1.0.24: Any existing Call to Arms versions foi reduzido a versões anteriores sem indicar o produto nem a razão da remoção. Preserva-se a instrução da fonte, sem validar sua atualidade comercial."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/ammo/lock_ammo/action",
+      "source": "Cannon Shell Type Unlocked",
+      "translation": "Tipo de Projétil do Canhão Desbloqueado",
+      "reason": "Revisão v1.0.24: Cannon é o escopo explícito da troca/trava de projéteis. O PT omite o canhão e pode ampliar a ação a toda a munição da unidade. Não se inverte Locked/Unlocked apesar do nome da chave."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/ammo/lock_ammo/usage",
+      "source": "Unit will automatically switch cannon shell type depending on its target",
+      "translation": "A unidade mudará automaticamente o tipo de projétil do canhão conforme o alvo",
+      "reason": "Revisão v1.0.24: Cannon é o escopo explícito da troca/trava de projéteis. O PT omite o canhão e pode ampliar a ação a toda a munição da unidade. Não se inverte Locked/Unlocked apesar do nome da chave."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/ammo/unlock_ammo/action",
+      "source": "Cannon Shell Type Locked",
+      "translation": "Tipo de Projétil do Canhão Bloqueado",
+      "reason": "Revisão v1.0.24: Cannon é o escopo explícito da troca/trava de projéteis. O PT omite o canhão e pode ampliar a ação a toda a munição da unidade. Não se inverte Locked/Unlocked apesar do nome da chave."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/ammo/unlock_ammo/usage",
+      "source": "Unit is locked to current cannon shell type until unlocked or out of current type of ammo",
+      "translation": "A unidade está bloqueada no tipo de projétil do canhão atual até ser desbloqueada ou ficar sem munição desse tipo.",
+      "reason": "Revisão v1.0.24: Cannon é o escopo explícito da troca/trava de projéteis. O PT omite o canhão e pode ampliar a ação a toda a munição da unidade. Não se inverte Locked/Unlocked apesar do nome da chave."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/pour_in",
+      "source": "Pour In",
+      "translation": "Adicionar combustível",
+      "reason": "Revisão v1.0.24: Ações de despejar líquido, não de embarque/desembarque de pessoas. A proposta é uma adaptação funcional neutra: in = adicionar ao recipiente implícito, out = despejar para fora, sem inventar objeto de origem ou destino."
+    },
+    {
+      "file": "interface/text/dlg_ingame.pot",
+      "context": "actionbar/pour_out",
+      "source": "Pour Out",
+      "translation": "Despejar combustível",
+      "reason": "Revisão v1.0.24: Ações de despejar líquido, não de embarque/desembarque de pessoas. A proposta é uma adaptação funcional neutra: in = adicionar ao recipiente implícito, out = despejar para fora, sem inventar objeto de origem ou destino."
+    },
+    {
+      "file": "interface/text/dlg_mp.pot",
+      "context": "mp/gs/chat/to_lobby_hint",
+      "source": "Messages will be visible in both game and main rooms.",
+      "translation": "As mensagens ficarão visíveis tanto na sala de jogo quanto na sala principal.",
+      "reason": "Revisão v1.0.24: Both game and main rooms identifica duas salas de chat. No jogo perde o primeiro endpoint sala e pode ser confundido com mensagens durante a partida."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/01_inf-control.pot",
+      "context": "mission/single/00-bootcamp/01_inf-control/narrator/ger_officer/11",
+      "source": "Damn it! There's a soviet tank ambushing us from the other side of the farm! Get behind it and destroy it with the AT grenades that you have acquired.",
+      "translation": "Droga! Há um tanque soviético nos emboscando do outro lado da fazenda! Posicionem-se atrás dele e destruam-no com as granadas antitanque que vocês adquiriram.",
+      "reason": "Revisão v1.0.24: A ordem inglesa manda ficar atrás do tanque antes de usar as granadas AT; contornar o tanque não explicita a posição final atrás dele e pode orientar um flanqueamento lateral apenas."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/1-training.pot",
+      "context": "mission/single/00-bootcamp/1-training/narrator/officer/targets1",
+      "source": "Shoot at the targets, soldiers! Steady your aim for as long as possible to get the most accurate shots.",
+      "translation": "Atirem nos alvos, soldados! Mantenham a mira pelo maior tempo possível para obter os tiros mais precisos.",
+      "reason": "Revisão v1.0.24: as long as possible pede manter a mira pelo maior tempo possível para maximizar a precisão, não apenas por tempo suficiente. Preserva o critério temporal explícito da instrução."
+    },
+    {
+      "file": "interface/text/mission/single/00-bootcamp/2-combat.pot",
+      "context": "mission/single/00-bootcamp/2-combat/narrator/officer/village",
+      "source": "I need you to take your half of the squad and flank the village from the north. Get those bastards from the side and grenade them out of their festering stinkholes. We will keep them spotted and have their guns pointed this way!",
+      "translation": "Preciso que você leve sua metade da esquadra e flanqueie a aldeia pelo norte. Pegue esses bastardos pelo lado e os expulse com granadas de seus buracos fedorentos. Nós os manteremos à vista e manteremos as armas deles apontadas para cá!",
+      "reason": "Revisão v1.0.24: À vista explicita detecção/observação contínua de keep spotted. Marcados pode ser metáfora legítima, mas também sugerir marcação ativa; refinamento de clareza, não prova de mecânica inventada."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1941_11_typhoon.pot",
+      "context": "mission/single/01-rus/1941_11_typhoon/narrator/officer/fail",
+      "source": "You had been ordered to not let the Germans inside the village! There is no room for cowards and traitors in our Red Army!",
+      "translation": "Você recebeu ordens para não deixar os alemães entrarem na aldeia! Não há lugar para covardes e traidores no nosso Exército Vermelho!",
+      "reason": "Revisão v1.0.24: A passiva foi ordenado a é pouco idiomática neste contexto de instrução militar; recebeu ordens para transmite a ordem pessoal com naturalidade, preservando a proibição e os destinatários."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1942_05_kerch.pot",
+      "context": "mission/single/01-rus/1942_05_kerch/task_03",
+      "source": "Protect the retreating convoy from the enemy",
+      "translation": "Proteja o comboio em retirada contra o inimigo",
+      "reason": "Revisão v1.0.24: A formulação contra o inimigo evita que do inimigo seja lido como qualificação do comboio/retirada. O contexto confirma comboio aliado; refinamento de desambiguação, sem afirmar que a leitura portuguesa protetiva original fosse impossível."
+    },
+    {
+      "file": "interface/text/mission/single/01-rus/1943_07_ponyri.pot",
+      "context": "mission/single/01-rus/1943_07_ponyri/narrator/03",
+      "source": "We've been ordered to lay as many mines as possible in preparation for the fascist attack. Get to work, soldiers!",
+      "translation": "Recebemos ordens para assentar o maior número possível de minas em preparação para o ataque fascista. Ao trabalho, soldados!",
+      "reason": "Revisão v1.0.24: A passiva fomos ordenados a é um decalque pouco idiomático; recebemos ordens para conserva a ordem militar, a quantidade máxima e a finalidade de preparação."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1941_10_glushkovo.pot",
+      "context": "mission/single/02-ger/1941_10_glushkovo/narrator/officer/clearford",
+      "source": "Very good. It looks like the fording area has been cleared of hostile troops.",
+      "translation": "Muito bem. Parece que a área de travessia a vau foi limpa de tropas hostis.",
+      "reason": "Revisão v1.0.24: fording especifica travessia pelo leito do rio em trecho raso, não qualquer travessia. O arquivo diferencia acesso à ponte de área de fording; recupera o qualificador que identifica o segundo ponto estratégico."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1941_10_glushkovo.pot",
+      "context": "mission/single/02-ger/1941_10_glushkovo/task1_2",
+      "source": "Clear the Dnieper fording area",
+      "translation": "Libere a área de travessia a vau do Dnieper",
+      "reason": "Revisão v1.0.24: O objetivo distingue a área de fording da ponte do outro objetivo. Acrescenta a vau para preservar o tipo de travessia especificado pelo inglês e evitar confluir os dois referentes."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1942_01_vyazma.pot",
+      "context": "mission/single/02-ger/1942_01_vyazma/narrator/leutnant/03",
+      "source": "The Mayo",
+      "translation": "The Mayo",
+      "reason": "Revisão v1.0.24: A fonte contém apenas o fragmento opaco The Mayo; O major afirma uma patente sem sustentação. Preservar literalmente o fragmento remove essa interpretação inventada, sem afirmar que seja nome próprio ou tradução plenamente resolvida."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger/1945_03_spring-awakening.pot",
+      "context": "mission/single/02-ger/1945_03_spring-awakening/narrator/officer/10",
+      "source": "We've been ordered to take all the valuable supplies and hold off any Soviet counterattacks. Our original starting position cannot fall to the enemy under any circumstance!",
+      "translation": "Recebemos ordens para pegar todos os suprimentos valiosos e conter quaisquer contra-ataques soviéticos. Nossa posição de partida original não pode cair para o inimigo sob nenhuma circunstância!",
+      "reason": "Revisão v1.0.24: Substitui uma passiva pouco idiomática por recebemos ordens para, preservando a ordem militar, os suprimentos valiosos, quaisquer contra-ataques e a proibição absoluta de perder a posição original."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_06_saint_lo_hills.pot",
+      "context": "mission/single/02-ger-west/1944_06_saint_lo_hills/narrator/arty",
+      "source": "Enemy artillery inbound! Keep your heads down, Fallschirmjäger!",
+      "translation": "Fogo de artilharia inimigo chegando! Mantenham as cabeças baixas, Fallschirmjäger!",
+      "reason": "Revisão v1.0.24: O aviso manda abaixar as cabeças e pertence à sequência de bombardeio das sebes, não à chegada de novas peças. Fogo de artilharia torna explícito o referente, evitando ler a metonímia como reforços inimigos; é refinamento de clareza contextual."
+    },
+    {
+      "file": "interface/text/mission/single/02-ger-west/1944_12_samree.pot",
+      "context": "mission/single/02-ger-west/1944_12_samree/narrator/reinf2",
+      "source": "A large enemy column is approaching from Dochamps towards Samrée! Get ready to hold them back!",
+      "translation": "Uma grande coluna inimiga está vindo de Dochamps em direção a Samrée! Prepare-se para contê-los!",
+      "reason": "Revisão v1.0.24: From Dochamps indica origem da coluna. Aproximando-se de Dochamps transforma essa cidade em destino; vindo de preserva origem e direção a Samrée."
+    },
+    {
+      "file": "interface/text/mission/single/03-fin/1939_12_summa.pot",
+      "context": "mission/single/03-fin/1939_12_summa/outro_failed",
+      "source": "All that is now left to defend Finland is an unfinished second fortified line, which is much less of a defence than the Mannerheim line was. The Soviets race toward Helsinki and it looks like we’ve been dealt a knock- out punch. All we can do is surrender. This is not how it’s supposed to end!",
+      "translation": "Tudo o que sobra para defender a Finlândia é uma segunda linha fortificada inacabada, muito menos eficaz do que a Linha Mannerheim. Os soviéticos correm em direção a Helsinki e parece que levamos um nocaute. Tudo o que podemos fazer é nos render. Não é assim que isso deveria terminar!",
+      "reason": "Revisão v1.0.24: A fonte especifica uma segunda linha fortificada ainda inacabada. Linha de defesa conserva a função, mas omite a característica fortificada; restaurá-la sem alterar a condição, comparação com Mannerheim ou resultado."
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_02_sainte_mere_eglise/hint/avoidaa",
+      "source": "Keep away from German AA guns until you regroup with your Commander! Search the area north of the church as indicated.",
+      "translation": "Fique longe dos canhões antiaéreos alemães até se reunir com seu Comandante! Vasculhe a área ao norte da igreja conforme indicado.",
+      "reason": "Revisão v1.0.24: Search the area manda procurar dentro daquela área, não procurar a própria área como em Procure a área. O comando serve para encontrar o comandante ao norte da igreja."
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_06_05_carentan.pot",
+      "context": "mission/single/041-usa_airborne/1944_06_05_carentan/narrator06",
+      "source": "Look alive! A fresh squad here to join the fight.",
+      "translation": "Atenção! Uma esquadra recém-chegada para reforçar a luta.",
+      "reason": "Revisão v1.0.24: Squad identifica uma esquadra que chega como reforço. Unidade generaliza o escalão e poderia identificar qualquer tipo de unidade, inclusive veículo ou indivíduo."
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_01_noville.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry03",
+      "source": "The attack damaged much of our equipment. We need to repair everything we can. We are also low on ammo. Scrounge up any supplies you can find.",
+      "translation": "O ataque danificou muito de nosso equipamento. Precisamos reparar tudo que pudermos. Também estamos com pouca munição. Reúna quaisquer suprimentos que puder encontrar.",
+      "reason": "Revisão v1.0.24: Scrounge up pede reunir/obter suprimentos para recompor equipamento e munição. Procure ... que encontrar troca a coleta pela busca e ainda liga a busca a objetos já encontrados."
+    },
+    {
+      "file": "interface/text/mission/single/041-usa_airborne/1944_12_01_noville.pot",
+      "context": "mission/single/041-usa_airborne/1944_12_01_noville/story",
+      "source": "  Just three days ago, a German surprise offensive smashed through the allied lines in the Ardennes. Initially, they advance rapidly. They aim to take Antwerp. The German 5th army has orders to cross the Meuse River at Dinant and Namur, without which a push to Antwerp is simply out of the question.\n\n  To get to those bridges, they will need to take Bastogne. The 2nd Panzer Division intends to pass through Noville to outflank the Bastogne defenders from the north.\n\n However, in Noville, a small force from the 10th armored division blocks their way. The first battalion of the 506th PIR moves forward to reinforce them.\n\n Good luck!",
+      "translation": "  Apenas três dias atrás, uma ofensiva surpresa alemã rompeu as linhas aliadas nas Ardenas. Inicialmente, eles avançam rapidamente. Seu objetivo é tomar Antuérpia. O 5º Exército alemão tem ordens de cruzar o Rio Mosa em Dinant e Namur; sem essa travessia, um avanço até Antuérpia está simplesmente fora de questão.\n\n  Para chegar àquelas pontes, precisarão tomar Bastogne. A 2ª Divisão Panzer pretende passar por Noville para flanquear os defensores de Bastogne pelo norte.\n\n No entanto, em Noville, uma pequena força da 10ª Divisão Blindada bloqueia seu caminho. O primeiro batalhão do 506º PIR avança para reforçá-los.\n\n Boa sorte!",
+      "reason": "Revisão v1.0.24: Without which retoma a travessia do Mosa como condição do avanço. Sem o qual pode retomar Rio Mosa e faz parecer que a condição é a existência do rio, não cruzá-lo. Separar as orações e pontuar o referente explícito da condição, sem alterar travessia, cidades ou modalidade."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1940_05_13_dyle.pot",
+      "context": "mission/single/05-eng/1940_05_13_dyle/narrator/preparation_17",
+      "source": "So… Where was I? Ah, right. One night at that pub, me and my guide were watching the sunset, sipping Pombe… You should’ve seen those sunsets, Stuey. So bloody beautiful, I almost wrote a poem. For someone I’ll tell you about in a second…",
+      "translation": "Então... Onde eu estava? Ah, certo. Uma noite naquele pub, eu e meu guia assistíamos ao pôr do sol, sorvendo Pombe... Você deveria ter visto aqueles pores do sol, Stuey. Tão lindos que quase escrevi um poema. Para alguém de quem vou te falar em um instante...",
+      "reason": "Revisão v1.0.24: alguém que vou te falar: referente sobre quem falar, não objeto indireto incorreto; em um instante preserva in a second"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/story",
+      "source": "To protect the invasion against German flanking attacks, a couple of bridges East of the beaches must be secured. \n\n This task has been assigned to the British 6th Airborne Brigade. They are to seize the bridge over the Caen canal and the nearby bridge over the Orne river. \n\nMonths of training proved to be invaluable as the pilot landed the glider right at the bridge over the Orne canal. \n\n Time to spring into action! First, chase the Germans out and secure Bénouville Bridge.",
+      "translation": "Para proteger a invasão contra ataques de flanco alemães, duas pontes a leste das praias devem ser asseguradas.\n\nEsta missão foi atribuída à 6ª Brigada Aerotransportada Britânica. Eles devem capturar a ponte sobre o Canal de Caen e a ponte próxima sobre o Rio Orne.\n\nMeses de treinamento se provaram inestimáveis quando o piloto pousou o planador diretamente na ponte sobre o Canal de Orne.\n\nHora de entrar em ação! Primeiro, expulse os alemães e assegure a Ponte de Bénouville.",
+      "reason": "Revisão v1.0.24: A couple of bridges é especificado depois como ponte CanalCaen + ponte rioOrne: repor duas nãoalgumas"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_06_05_pegasus.pot",
+      "context": "mission/single/05-eng/1944_06_05_pegasus/narrator/part04_pl_reinf",
+      "source": "A squad from another landing zone has arrived. We’ve expected the ground forces but they will work for now too. I reckon they’ve just increased our chances of holding this bridge.",
+      "translation": "Uma seção de outra zona de pouso chegou. Esperávamos as forças terrestres, mas estes também servem por ora. Acho que acabaram de aumentar nossas chances de manter esta ponte.",
+      "reason": "Revisão v1.0.24: Restituir too como também. O plural estes pode retomar os soldados da seção; não foi classificado como erro automático de gênero. Não impor referente singular por uma falsa regra de concordância."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_07_18_caen_goodwood.pot",
+      "context": "mission/single/05-eng/1944_07_18_caen_goodwood/doctrine_offensive",
+      "source": "Offensive: Churchill “Crocodile” + BL 5.5-inch Mk.III",
+      "translation": "Ofensiva: Churchill 'Crocodile' + BL 5.5 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Calibre nominal5.5inch residual inglês; preserve5.5 convertunitonly"
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/cutscene/morning_06",
+      "source": "This is going to be not easy for us but I am sure we will do it. The Corps has some delay but they are not that far from us. I suggest discussing the details in the HQ if you have any by far.",
+      "translation": "Não vai ser fácil, mas tenho certeza de que conseguiremos. O Corpo tem algum atraso, mas não está tão longe de nós. Sugiro discutirmos no QG os detalhes que você tiver.",
+      "reason": "Revisão v1.0.24: Retirar tempo livre inventado. Any retoma details pela relação linguística mais próxima; by far é defeituoso na fonte. Preservar a condição de haver detalhes sem fixar já/até agora por suposição. Inferência contextual conservadora, com limite explícito; nenhum áudio foi transcrito para certificar a intenção do autor."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_17_arnhem.pot",
+      "context": "mission/single/05-eng/1944_09_17_arnhem/narrator/resistance_02",
+      "source": "How can we assist you? We know every corner of this city and could help you either on the battlefield or go look for some ammunition and weapons.",
+      "translation": "Como podemos ajudá-los? Conhecemos cada canto desta cidade e poderíamos ajudá-los no campo de batalha ou saindo em busca de munição e armas.",
+      "reason": "Revisão v1.0.24: Either/or da escolha de ajuda tornou-se tanto/quanto, prometendo ambos onde há duas opções de reforço mutuamente distintas."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1944_09_20_oosterbeek.pot",
+      "context": "mission/single/05-eng/1944_09_20_oosterbeek/narrator/part03_tractor_refuelled",
+      "source": "Should be enough fuel for now.",
+      "translation": "Deve haver combustível suficiente por agora.",
+      "reason": "Revisão v1.0.24: Should be enough é expectativa de suficiência, não afirmação categórica."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/narrator/part02_gun_destroyed_02",
+      "source": "Both guns have been destroyed! We should get some reinforcements from our landing zone very soon.",
+      "translation": "Ambos os canhões destruídos! Em breve devemos receber reforços da nossa zona de pouso.",
+      "reason": "Revisão v1.0.24: Should get exprime previsão de reforços; atual afirma a chegada categoricamente."
+    },
+    {
+      "file": "interface/text/mission/single/05-eng/1945_03_24_varsity.pot",
+      "context": "mission/single/05-eng/1945_03_24_varsity/ui/hint_switch",
+      "source": "You can change the direction of a <c(B29557)>railway switch</c> by selecting an infantry unit and right-clicking on the switch.",
+      "translation": "Você pode mudar a direção de uma <c(B29557)>chave ferroviária</c> selecionando uma unidade de infantaria e clicando com o botão direito sobre a chave.",
+      "reason": "Revisão v1.0.24: O clique direito é na chave ferroviária; pronome ela após unidade de infantaria cria alvo ambíguo e pode levar a clicar na unidade."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/81mm_ml3_early",
+      "source": "ML 3-inch Mortar (Early)",
+      "translation": "Morteiro ML 3 pol. (inicial)",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aa",
+      "source": "QF 3.7-inch AA",
+      "translation": "QF 3.7 pol. AA",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aatow",
+      "source": "QF 3.7-inch AA (towed)",
+      "translation": "QF 3.7 pol. AA (rebocado)",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden",
+      "source": "QF 4.5inch Howitzer",
+      "translation": "Obuseiro QF 4.5 pol.",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden_tow",
+      "source": "QF 4.5inch Howitzer(towed)",
+      "translation": "Obuseiro QF 4.5 pol. (rebocado)",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/94mm_qf_how_early",
+      "source": "QF 3.7-inch Howitzer (Early)",
+      "translation": "Obuseiro QF 3.7 pol. (inicial)",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/152mm_bl_6",
+      "source": "BL 6-inch 26-cwt Howitzer Mk.I",
+      "translation": "Obuseiro BL 6 pol. 26-cwt Mk.I",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/152mm_bl_6_mk19",
+      "source": "BL 6-Inch Mk. XIX Gun",
+      "translation": "Canhão BL 6 pol. Mk. XIX",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/203mm_bl_8",
+      "source": "BL 8-inch Howitzer Mk.VIII",
+      "translation": "Obuseiro BL 8 pol. Mk.VIII",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/81mm_ml3",
+      "source": "ML 3-inch Mortar",
+      "translation": "Morteiro ML 3 pol.",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/107mm_ml4_2",
+      "source": "ML 4.2-inch Mortar",
+      "translation": "Morteiro ML 4.2 pol.",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5",
+      "source": "BL 4.5-inch Mk.II Gun",
+      "translation": "Canhão BL 4.5 pol. Mk.II",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5_mk1",
+      "source": "BL 4.5-inch Mk.I Gun",
+      "translation": "Canhão BL 4.5 pol. Mk.I",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/183mm_bl_7_2_mk6",
+      "source": "BL 7.2-inch Howitzer Mk.VI",
+      "translation": "Obuseiro BL 7.2 pol. Mk.VI",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_late",
+      "source": "BL 5.5-inch Mk.III Gun",
+      "translation": "Canhão BL 5.5 pol. Mk.III",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
+    },
+    {
+      "file": "interface/text/mission/single/0x-skirmish/reinf_eng.pot",
+      "context": "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_latetow",
+      "source": "BL 5.5-inch Mk.III(towed)",
+      "translation": "BL 5.5 pol. Mk.III(rebocado)",
+      "reason": "Revisão v1.0.24: Localizar inch como pol. no mesmo rótulo de artilharia dos reforços, sem converter o calibre nominal nem mudar modelo, variante, pdr ou cwt."
     }
   ]
 }

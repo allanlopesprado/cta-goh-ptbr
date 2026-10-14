@@ -37,6 +37,9 @@ jobs:
       - name: Check contextual translation decisions
         run: node tools/context-quality.mjs --check
 
+      - name: Check audited source meaning features
+        run: node tools/semantic-features.mjs --check
+
       - name: Check PT-BR punctuation policy
         run: node tools/translation-style.mjs --check
 

@@ -45,7 +45,7 @@ msgstr "Agora que os empurramos de volta, podemos reconstruir nossas defesas."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator_desobry03"
 msgid "The attack damaged much of our equipment. We need to repair everything we can. We are also low on ammo. Scrounge up any supplies you can find."
-msgstr "O ataque danificou muito de nosso equipamento. Precisamos reparar tudo que pudermos. Também estamos com pouca munição. Procure quaisquer suprimentos que encontrar."
+msgstr "O ataque danificou muito de nosso equipamento. Precisamos reparar tudo que pudermos. Também estamos com pouca munição. Reúna quaisquer suprimentos que puder encontrar."
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/narrator04"
 msgid "You heard what the Major said. Let's get to work! We need to rebuild our defense line before Jerry attacks again!"
@@ -120,7 +120,7 @@ msgstr "101ª Divisão Aerotransportada \"Screaming Eagles\""
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/story"
 msgid "  Just three days ago, a German surprise offensive smashed through the allied lines in the Ardennes. Initially, they advance rapidly. They aim to take Antwerp. The German 5th army has orders to cross the Meuse River at Dinant and Namur, without which a push to Antwerp is simply out of the question.\n\n  To get to those bridges, they will need to take Bastogne. The 2nd Panzer Division intends to pass through Noville to outflank the Bastogne defenders from the north.\n\n However, in Noville, a small force from the 10th armored division blocks their way. The first battalion of the 506th PIR moves forward to reinforce them.\n\n Good luck!"
-msgstr "  Apenas três dias atrás, uma ofensiva surpresa alemã rompeu as linhas aliadas nas Ardenas. Inicialmente, eles avançam rapidamente. Seu objetivo é tomar Antuérpia. O 5º Exército alemão tem ordens de cruzar o Rio Mosa em Dinant e Namur, sem o qual um avanço até Antuérpia está simplesmente fora de questão.\n\n  Para chegar àquelas pontes, precisarão tomar Bastogne. A 2ª Divisão Panzer pretende passar por Noville para flanquear os defensores de Bastogne pelo norte.\n\n No entanto, em Noville, uma pequena força da 10ª Divisão Blindada bloqueia seu caminho. O primeiro batalhão do 506º PIR avança para reforçá-los.\n\n Boa sorte!"
+msgstr "  Apenas três dias atrás, uma ofensiva surpresa alemã rompeu as linhas aliadas nas Ardenas. Inicialmente, eles avançam rapidamente. Seu objetivo é tomar Antuérpia. O 5º Exército alemão tem ordens de cruzar o Rio Mosa em Dinant e Namur; sem essa travessia, um avanço até Antuérpia está simplesmente fora de questão.\n\n  Para chegar àquelas pontes, precisarão tomar Bastogne. A 2ª Divisão Panzer pretende passar por Noville para flanquear os defensores de Bastogne pelo norte.\n\n No entanto, em Noville, uma pequena força da 10ª Divisão Blindada bloqueia seu caminho. O primeiro batalhão do 506º PIR avança para reforçá-los.\n\n Boa sorte!"
 
 msgctxt "mission/single/041-usa_airborne/1944_12_01_noville/task01"
 msgid "Clear Noville of the Germans!"

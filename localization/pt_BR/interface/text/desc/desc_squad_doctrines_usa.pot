@@ -45,7 +45,7 @@ msgstr "<c(B29557)>( II )</c> 105mm HMC M7"
 
 msgctxt "desc/squad/doctrine_squad_usa_signaller_203_mid(usa)"
 msgid "<c(B29557)>( III )</c> 8-inch Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 8-inch Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol."
 
 msgctxt "desc/squad/doctrine_3x_m4_75_early_armor_mid"
 msgid "<c(B29557)>( III )</c> 3x M4 (Early) Up-armored"
@@ -73,7 +73,7 @@ msgstr "<c(B29557)>( I )</c> 75mm HMC T30"
 
 msgctxt "desc/squad/doctrine_107mm_m2_mid"
 msgid "<c(B29557)>( II )</c> 4.2-inch Mortar M2"
-msgstr "<c(B29557)>( II )</c> 4.2-inch Morteiro M2"
+msgstr "<c(B29557)>( II )</c> Morteiro M2 de 4.2 polegadas"
 
 msgctxt "desc/squad/doctrine_76mm_m5_m1_mid"
 msgid "<c(B29557)>( II )</c> 76mm M5 AT Gun"
@@ -89,7 +89,7 @@ msgstr "<c(B29557)>( III )</c> 90mm M1A1"
 
 msgctxt "desc/squad/doctrine_203mm_m1_mid"
 msgid "<c(B29557)>( III )</c> 8-inch Howitzer M1"
-msgstr "<c(B29557)>( III )</c> 8-inch Obuseiro M1"
+msgstr "<c(B29557)>( III )</c> Obuseiro M1 de 8 pol."
 
 msgctxt "desc/squad/doctrine_155mm_m1a1_longtom_mid"
 msgid "<c(B29557)>( III )</c> 155mm M1A1 Long Tom"
@@ -113,7 +113,7 @@ msgstr "<c(B29557)>( I )</c> P47 250lb Bomba"
 
 msgctxt "desc/squad/doctrine_m10_gmc_mid"
 msgid "<c(B29557)>( II )</c> 3-inch GMC M10"
-msgstr "<c(B29557)>( II )</c> 3-inch GMC M10"
+msgstr "<c(B29557)>( II )</c> 3 pol. GMC M10"
 
 msgctxt "desc/squad/doctrine_105mm_m3_mid"
 msgid "<c(B29557)>( II )</c> 105mm Howitzer M3"
@@ -157,7 +157,7 @@ msgstr "<c(B29557)>( II )</c> 105mm Sinaleiro de Artilharia"
 
 msgctxt "desc/squad/doctrine_squad_usa_signaller_240_mid(usa)"
 msgid "<c(B29557)>( III )</c> 8-inch Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 8-inch Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol."
 
 msgctxt "desc/squad/doctrine_3x_m4a1_75_mid_armor_mid"
 msgid "<c(B29557)>( III )</c> 3x M4A1 (Mid) Up-armored"
@@ -225,7 +225,7 @@ msgstr "<c(B29557)>( I )</c> 75mm GMC M3A1"
 
 msgctxt "desc/squad/doctrine_107mm_m2_late"
 msgid "<c(B29557)>( II )</c> 4.2-inch Mortar M2"
-msgstr "<c(B29557)>( II )</c> 4.2-inch Morteiro M2"
+msgstr "<c(B29557)>( II )</c> Morteiro M2 de 4.2 polegadas"
 
 msgctxt "desc/squad/doctrine_90mm_m2_late"
 msgid "<c(B29557)>( II )</c> 90mm M1A1"
@@ -241,7 +241,7 @@ msgstr "<c(B29557)>( III )</c> 90mm GMC M36B1"
 
 msgctxt "desc/squad/doctrine_203mm_m1_late"
 msgid "<c(B29557)>( III )</c> 8-inch Howitzer M1"
-msgstr "<c(B29557)>( III )</c> 8-inch Obuseiro M1"
+msgstr "<c(B29557)>( III )</c> Obuseiro M1 de 8 pol."
 
 msgctxt "desc/squad/doctrine_155mm_m1a1_longtom_late"
 msgid "<c(B29557)>( III )</c> 155mm M1A1 Long Tom"
@@ -317,7 +317,7 @@ msgstr "<c(B29557)>( II )</c> M4A3(76)W HVSS 'Mod. de Campo'"
 
 msgctxt "desc/squad/doctrine_squad_usa_signaller_203_vt_late(usa)"
 msgid "<c(B29557)>( III )</c> 8-inch VT Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 8-inch VT Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia VT de 8 pol."
 
 msgctxt "desc/squad/doctrine_155mm_m1_late"
 msgid "<c(B29557)>( III )</c> 155mm Howitzer M1"

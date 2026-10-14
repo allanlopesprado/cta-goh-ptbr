@@ -22,11 +22,11 @@ msgstr "Troca de Munição Desbloqueada"
 
 msgctxt "actionbar/ammo/lock_ammo/action"
 msgid "Cannon Shell Type Unlocked"
-msgstr "Tipo de Projétil Desbloqueado"
+msgstr "Tipo de Projétil do Canhão Desbloqueado"
 
 msgctxt "actionbar/ammo/lock_ammo/usage"
 msgid "Unit will automatically switch cannon shell type depending on its target"
-msgstr "A unidade mudará automaticamente o tipo de projétil conforme o alvo"
+msgstr "A unidade mudará automaticamente o tipo de projétil do canhão conforme o alvo"
 
 msgctxt "actionbar/ammo/unlock_ammo"
 msgid "Ammo Switching Locked"
@@ -34,11 +34,11 @@ msgstr "Troca de Munição Bloqueada"
 
 msgctxt "actionbar/ammo/unlock_ammo/action"
 msgid "Cannon Shell Type Locked"
-msgstr "Tipo de Projétil Bloqueado"
+msgstr "Tipo de Projétil do Canhão Bloqueado"
 
 msgctxt "actionbar/ammo/unlock_ammo/usage"
 msgid "Unit is locked to current cannon shell type until unlocked or out of current type of ammo"
-msgstr "A unidade está bloqueada no tipo de projétil atual até ser desbloqueada ou ficar sem munição desse tipo."
+msgstr "A unidade está bloqueada no tipo de projétil do canhão atual até ser desbloqueada ou ficar sem munição desse tipo."
 
 msgctxt "actionbar/engine_toggle"
 msgid "Toggle Engine on/off"
@@ -74,11 +74,11 @@ msgstr "Atacar"
 
 msgctxt "actionbar/pour_in"
 msgid "Pour In"
-msgstr "Embarcar"
+msgstr "Adicionar combustível"
 
 msgctxt "actionbar/pour_out"
 msgid "Pour Out"
-msgstr "Desembarcar"
+msgstr "Despejar combustível"
 
 msgctxt "actionbar/human/stand"
 msgid ""

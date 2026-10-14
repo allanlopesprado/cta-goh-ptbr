@@ -3210,7 +3210,7 @@ msgstr "Chat geral"
 
 msgctxt "mp/gs/chat/to_lobby_hint"
 msgid "Messages will be visible in both game and main rooms."
-msgstr "Mensagens visíveis no jogo e na sala principal."
+msgstr "As mensagens ficarão visíveis tanto na sala de jogo quanto na sala principal."
 
 msgctxt "mp/gs/chat/to_session"
 msgid "Game room"

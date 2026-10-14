@@ -37,7 +37,7 @@ msgstr "<c(B29557)>( II )</c> 25-pdr SP Sexton Mk.II"
 
 msgctxt "desc/squad/doctrine_squad_eng_signaller_183_late(eng)"
 msgid "<c(B29557)>( III )</c> 7.2-inch Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 7.2-inch Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 7.2 pol."
 
 msgctxt "desc/squad/doctrine_sherman1c_tulip_hybrid"
 msgid "<c(B29557)>( III )</c> Sherman Ic (Hybrid) 'Tulip'"
@@ -61,11 +61,11 @@ msgstr "<c(B29557)>( I )</c> 75mm M1A1 (Reparo M8)"
 
 msgctxt "desc/squad/doctrine_107mm_ml4_2_late"
 msgid "<c(B29557)>( II )</c> ML 4.2-inch Mortar"
-msgstr "<c(B29557)>( II )</c> ML 4.2-inch Morteiro"
+msgstr "<c(B29557)>( II )</c> Morteiro ML 4.2 pol."
 
 msgctxt "desc/squad/doctrine_94mm_qf_3_7_aa_late"
 msgid "<c(B29557)>( II )</c> QF 3.7-inch AA (Late)"
-msgstr "<c(B29557)>( II )</c> QF 3.7-inch AA (Tardio)"
+msgstr "<c(B29557)>( II )</c> QF 3.7 pol. AA (Tardio)"
 
 msgctxt "desc/squad/doctrine_sherman5_late_tulip"
 msgid "<c(B29557)>( II )</c> Sherman V (Late) 'Tulip'"
@@ -77,11 +77,11 @@ msgstr "<c(B29557)>( III )</c> 2x Valentine 17-pdr Mk.I 'Archer'"
 
 msgctxt "desc/squad/doctrine_140mm_bl_5_5_late"
 msgid "<c(B29557)>( III )</c> BL 5.5-inch Mk.III Gun"
-msgstr "<c(B29557)>( III )</c> Canhão BL 5.5-inch Mk.III"
+msgstr "<c(B29557)>( III )</c> Canhão BL 5.5 pol. Mk.III"
 
 msgctxt "desc/squad/doctrine_183mm_bl_7_2_late"
 msgid "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI"
-msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.VI"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "desc/squad/doctrine_typhoon_mk1b_light"
 msgid "<c(B29557)>( I )</c> Typhoon Ib 250lb Bomb"
@@ -121,7 +121,7 @@ msgstr "<c(B29557)>( III )</c> Land Mattress"
 
 msgctxt "desc/squad/doctrine_183mm_bl_7_2_mk6_late"
 msgid "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI"
-msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.VI"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "desc/squad/doctrine_typhoon_mk1b_recon"
 msgid "<c(B29557)>( I )</c> Typhoon Ib Recon Plane"
@@ -157,7 +157,7 @@ msgstr "<c(B29557)>( III )</c> 2x Sherman Ic"
 
 msgctxt "desc/squad/doctrine_114mm_bl_4_5_late"
 msgid "<c(B29557)>( III )</c> BL 4.5-inch Mk.II Gun"
-msgstr "<c(B29557)>( III )</c> Canhão BL 4.5-inch Mk.II"
+msgstr "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "desc/squad/doctrine_squad_1st_airland_support_mid_all(eng)"
 msgid "<c(B29557)>( I )</c> 1st Airlanding Support Section"
@@ -185,11 +185,11 @@ msgstr "<c(B29557)>( II )</c> Valentine 25-pdr Mk.I 'Bishop'"
 
 msgctxt "desc/squad/doctrine_squad_eng_signaller_183_mid(eng)"
 msgid "<c(B29557)>( III )</c> 7.2-inch Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 7.2-inch Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 7.2 pol."
 
 msgctxt "desc/squad/doctrine_152mm_bl_6_mid"
 msgid "<c(B29557)>( III )</c> BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "<c(B29557)>( III )</c> BL 6-inch 26-cwt Obuseiro Mk.I"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 6 pol. 26-cwt Mk.I"
 
 msgctxt "desc/squad/doctrine_155mm_m1a1_longtom_eng_mid"
 msgid "<c(B29557)>( III )</c> 155mm Gun M1A1 'Long Tom'"
@@ -213,7 +213,7 @@ msgstr "<c(B29557)>( II )</c> QF 6-pdr Mk.IV"
 
 msgctxt "desc/squad/doctrine_107mm_ml4_2_mid"
 msgid "<c(B29557)>( II )</c> ML 4.2-inch Mortar"
-msgstr "<c(B29557)>( II )</c> ML 4.2-inch Morteiro"
+msgstr "<c(B29557)>( II )</c> Morteiro ML 4.2 pol."
 
 msgctxt "desc/squad/doctrine_sherman3_early"
 msgid "<c(B29557)>( II )</c> Sherman III (Early)"
@@ -221,15 +221,15 @@ msgstr "<c(B29557)>( II )</c> Sherman III (Inicial)"
 
 msgctxt "desc/squad/doctrine_94mm_qf_3_7_aa_mid"
 msgid "<c(B29557)>( III )</c> QF 3.7-inch AA"
-msgstr "<c(B29557)>( III )</c> QF 3.7-inch AA"
+msgstr "<c(B29557)>( III )</c> QF 3.7 pol. AA"
 
 msgctxt "desc/squad/doctrine_140mm_bl_5_5_mid"
 msgid "<c(B29557)>( III )</c> BL 5.5-inch Mk.III Gun"
-msgstr "<c(B29557)>( III )</c> Canhão BL 5.5-inch Mk.III"
+msgstr "<c(B29557)>( III )</c> Canhão BL 5.5 pol. Mk.III"
 
 msgctxt "desc/squad/doctrine_203mm_bl_8_mid"
 msgid "<c(B29557)>( III )</c> BL 8-inch Howitzer Mk.VIII"
-msgstr "<c(B29557)>( III )</c> BL 8-inch Obuseiro Mk.VIII"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "desc/squad/doctrine_hurribomber_mk2c_light"
 msgid "<c(B29557)>( I )</c> Hurribomber IIc 250lb Bomb"
@@ -265,7 +265,7 @@ msgstr "<c(B29557)>( III )</c> QF 17/25-pdr 'Pheasant'"
 
 msgctxt "desc/squad/doctrine_183mm_bl_7_2_mk6_mid"
 msgid "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.VI"
-msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.VI"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "desc/squad/doctrine_blenheim_mk1_eng_recon_mid"
 msgid "<c(B29557)>( I )</c> Blenheim Mk.I Recon Plane"
@@ -289,7 +289,7 @@ msgstr "<c(B29557)>( II )</c> Churchill Mk.IV"
 
 msgctxt "desc/squad/doctrine_114mm_qf_how_mid"
 msgid "<c(B29557)>( II )</c> QF 4.5-inch Howitzer"
-msgstr "<c(B29557)>( II )</c> QF 4.5-inch Obuseiro"
+msgstr "<c(B29557)>( II )</c> Obuseiro QF 4.5 pol."
 
 msgctxt "desc/squad/doctrine_squad_sas_mid(eng)"
 msgid "<c(B29557)>( III )</c> SAS Section"
@@ -297,11 +297,11 @@ msgstr "<c(B29557)>( III )</c> Seção SAS"
 
 msgctxt "desc/squad/doctrine_114mm_bl_4_5_mid"
 msgid "<c(B29557)>( III )</c> BL 4.5-inch Mk.II Gun"
-msgstr "<c(B29557)>( III )</c> Canhão BL 4.5-inch Mk.II"
+msgstr "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "desc/squad/doctrine_183mm_bl_7_2_mid"
 msgid "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.III"
-msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.III"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.III"
 
 msgctxt "desc/squad/doctrine_squad_carrier_early_all"
 msgid "<c(B29557)>( I )</c> Carrier Section"
@@ -309,7 +309,7 @@ msgstr "<c(B29557)>( I )</c> Seção de Carriers"
 
 msgctxt "desc/squad/doctrine_mortar_carrier_mk1"
 msgid "<c(B29557)>( I )</c> 2-inch Mortar Carrier Mk.I"
-msgstr "<c(B29557)>( I )</c> 2-inch Porta-Morteiro Mk.I"
+msgstr "<c(B29557)>( I )</c> Porta-Morteiro de 2 pol. Mk.I"
 
 msgctxt "desc/squad/doctrine_cruiser_mk1_cs"
 msgid "<c(B29557)>( I )</c> Cruiser Mk.I CS"
@@ -329,11 +329,11 @@ msgstr "<c(B29557)>( II )</c> Matilda II Mk.I"
 
 msgctxt "desc/squad/doctrine_squad_eng_signaller_203_early(eng)"
 msgid "<c(B29557)>( III )</c> 8-inch Artillery Signaller"
-msgstr "<c(B29557)>( III )</c> 8-inch Sinaleiro de Artilharia"
+msgstr "<c(B29557)>( III )</c> Sinaleiro de Artilharia de 8 pol."
 
 msgctxt "desc/squad/doctrine_152mm_bl_6_early"
 msgid "<c(B29557)>( III )</c> BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "<c(B29557)>( III )</c> BL 6-inch 26-cwt Obuseiro Mk.I"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 6 pol. 26-cwt Mk.I"
 
 msgctxt "desc/squad/doctrine_squad_r_eng_early_def(eng)"
 msgid "<c(B29557)>( I )</c> Royal Engineers Field Section"
@@ -361,15 +361,15 @@ msgstr "<c(B29557)>( II )</c> QF 18/25-pdr Mk.I"
 
 msgctxt "desc/squad/doctrine_94mm_qf_3_7_aa_early"
 msgid "<c(B29557)>( III )</c> QF 3.7-inch AA"
-msgstr "<c(B29557)>( III )</c> QF 3.7-inch AA"
+msgstr "<c(B29557)>( III )</c> QF 3.7 pol. AA"
 
 msgctxt "desc/squad/doctrine_114mm_qf_how_wooden"
 msgid "<c(B29557)>( III )</c> QF 4.5-inch Howitzer"
-msgstr "<c(B29557)>( III )</c> QF 4.5-inch Obuseiro"
+msgstr "<c(B29557)>( III )</c> Obuseiro QF 4.5 pol."
 
 msgctxt "desc/squad/doctrine_203mm_bl_8_early"
 msgid "<c(B29557)>( III )</c> BL 8-inch Howitzer Mk.VIII"
-msgstr "<c(B29557)>( III )</c> BL 8-inch Obuseiro Mk.VIII"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "desc/squad/doctrine_blenheim_mk1_eng_light"
 msgid "<c(B29557)>( I )</c> Blenheim Mk.I 250lb Bomb"
@@ -401,7 +401,7 @@ msgstr "<c(B29557)>( III )</c> Blenheim Mk.I 500lb Bomba"
 
 msgctxt "desc/squad/doctrine_152mm_bl_6_mk19"
 msgid "<c(B29557)>( III )</c> BL 6-inch Mk.XIX"
-msgstr "<c(B29557)>( III )</c> BL 6-inch Mk.XIX"
+msgstr "<c(B29557)>( III )</c> BL 6 pol. Mk.XIX"
 
 msgctxt "desc/squad/doctrine_blenheim_mk1_eng_recon_early"
 msgid "<c(B29557)>( I )</c> Blenheim Mk.I Recon Plane"
@@ -429,12 +429,12 @@ msgstr "<c(B29557)>( II )</c> QF 18-pdr Mk.IV"
 
 msgctxt "desc/squad/doctrine_114mm_qf_how_early"
 msgid "<c(B29557)>( III )</c> QF 4.5-inch Howitzer"
-msgstr "<c(B29557)>( III )</c> QF 4.5-inch Obuseiro"
+msgstr "<c(B29557)>( III )</c> Obuseiro QF 4.5 pol."
 
 msgctxt "desc/squad/doctrine_114mm_bl_4_5_mk1"
 msgid "<c(B29557)>( III )</c> BL 4.5-inch Mk.I Gun"
-msgstr "<c(B29557)>( III )</c> Canhão BL 4.5-inch Mk.I"
+msgstr "<c(B29557)>( III )</c> Canhão BL 4.5 pol. Mk.I"
 
 msgctxt "desc/squad/doctrine_183mm_bl_7_2_early"
 msgid "<c(B29557)>( III )</c> BL 7.2-inch Howitzer Mk.III"
-msgstr "<c(B29557)>( III )</c> BL 7.2-inch Obuseiro Mk.III"
+msgstr "<c(B29557)>( III )</c> Obuseiro BL 7.2 pol. Mk.III"

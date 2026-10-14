@@ -21,7 +21,7 @@ msgstr "Alternar troca de munição"
 
 msgctxt "options/keys/actions/lock_ammo#desc"
 msgid "Toggle whether a vehicle can or cannot automatically switch its cannon shell type depending on its target. Automatic ammo switching is ON by default."
-msgstr "Alterna se um veículo pode ou não mudar automaticamente o tipo de projétil dependendo do alvo. A troca automática está ATIVADA por padrão."
+msgstr "Alterna se um veículo pode ou não mudar automaticamente o tipo de projétil do canhão dependendo do alvo. A troca automática está ATIVADA por padrão."
 
 msgctxt "options/keys/interface/toggle_objectives"
 msgid "Objectives"
@@ -397,7 +397,7 @@ msgstr "CONTROLES DE MULTIJOGADOR"
 
 msgctxt "options/keys/control_manual/squadmember9"
 msgid "Select squad member 9"
-msgstr "Selecionar membro 9"
+msgstr "Selecionar membro 9 da esquadra"
 
 msgctxt "options/game/selection_circle/start_radius#desc"
 msgid "<c(bcb8b1)>Size with which the circle will start."
@@ -1363,7 +1363,7 @@ msgstr "O antialiasing aproximado rápido (FXAA) torna as bordas dos modelos mai
 
 msgctxt "options/video/clip_distance#desc"
 msgid "How far you can see in the game. Reducing this value can slightly improve performance, but may reduce the situational awareness from short-sightedness."
-msgstr "A distância de visão no jogo. Reduzir este valor pode melhorar levemente o desempenho, mas reduz a consciência situacional."
+msgstr "A distância de visão no jogo. Reduzir este valor pode melhorar levemente o desempenho, mas pode reduzir a consciência situacional por limitar o alcance de visão."
 
 msgctxt "options/video/bumptype#/parallax"
 msgid "Ultra"
@@ -1535,7 +1535,7 @@ msgstr "Centralizar câmera na unidade selecionada."
 
 msgctxt "options/keys/control_manual/squadmember1"
 msgid "Select squad member 1"
-msgstr "Selecionar membro 1"
+msgstr "Selecionar membro 1 da esquadra"
 
 msgctxt "options/video/dof#desc"
 msgid "Simulates a camera focus by blurring the parts of the scene which aren't in focus, creating a film-like quality. May reduce performance."
@@ -1651,7 +1651,7 @@ msgstr "Nome do servidor"
 
 msgctxt "options/video/_ssao#desc"
 msgid "Enables Screen Space Ambient Occlusion, which adds shadows in cavities and other occluded areas, making the lighting look more realistic. May reduce performance noticeably."
-msgstr "Habilita SSAO, que adiciona sombras em cavidades e áreas ocluídas, tornando a iluminação mais realista. Pode reduzir o desempenho."
+msgstr "Habilita SSAO, que adiciona sombras em cavidades e áreas ocluídas, tornando a iluminação mais realista. Pode reduzir o desempenho de forma perceptível."
 
 msgctxt "main_menu2/singleplayer/save_load_game/title_load"
 msgid "LOAD GAME"
@@ -1711,7 +1711,7 @@ msgstr "Distância de visão"
 
 msgctxt "options/video/alphatocoverage#desc"
 msgid "Enables soft edges on leaves and blending effect on semi-transparent objects. May reduce performance noticeably if used in combination with MSAA. To improve performance, use 'soft alpha' together with FXAA."
-msgstr "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho com MSAA. Para melhorar o desempenho, use 'Alpha suave' junto com FXAA."
+msgstr "Habilita bordas suaves em folhas e efeito de mistura em objetos semitransparentes. Pode reduzir o desempenho de forma perceptível se usado em conjunto com MSAA. Para melhorar o desempenho, use 'Alpha suave' junto com FXAA."
 
 msgctxt "options/keys/actions/toggle_attack"
 msgid "Change fire mode"
@@ -2015,7 +2015,7 @@ msgstr "Altera a qualidade (taxa de amostragem) das amostras de áudio. Reduzir 
 
 msgctxt "options/keys/control_manual/squadmember10"
 msgid "Select squad member 10"
-msgstr "Selecionar membro 10"
+msgstr "Selecionar membro 10 da esquadra"
 
 msgctxt "user_statistics/faction/stat/experience"
 msgid "Experience"
@@ -2240,7 +2240,7 @@ msgstr "Fala"
 
 msgctxt "announce_upgrade_text"
 msgid "We hope you were enjoying Call to Arms so far!\n\nIt's a great time to upgrade your free edition to one of the full version packages. Experience the singleplayer campaigns in solo or coop with your friends, play user generated content via Steam Workshop, fight custom battles in editor, mod your game from ground up, get your multiplayer units unlocked instantly and receive access to new factions (once available). Of course, there are also some extra goodies waiting for you. For more information, please check the product pages.\n\nHave fun!"
-msgstr "Esperamos que você esteja aproveitando Call to Arms!\n\nÉ uma ótima hora para atualizar para uma das versões completas. Experimente as campanhas solo ou cooperativo com amigos, jogue conteúdo da comunidade via Steam Workshop, crie batalhas personalizadas no editor, modifique o jogo do zero, desbloqueie unidades multiplayer instantaneamente e acesse novas facções (quando estiverem disponíveis). Há também extras esperando por você. Para mais informações, confira as páginas do produto.\n\nDivirta-se!"
+msgstr "Esperamos que você esteja aproveitando Call to Arms!\n\nÉ uma ótima hora para atualizar sua edição gratuita para uma das versões completas. Experimente as campanhas no modo solo ou cooperativo com amigos, jogue conteúdo da comunidade via Steam Workshop, crie batalhas personalizadas no editor, modifique o jogo do zero, desbloqueie unidades multiplayer instantaneamente e acesse novas facções (quando estiverem disponíveis). Há também extras esperando por você. Para mais informações, confira as páginas do produto.\n\nDivirta-se!"
 
 msgctxt "options/audio/volume/narrator#desc"
 msgid "Volume of soldiers' and narrator's speech during battle."
@@ -2434,7 +2434,7 @@ msgstr "A mira automática em veículos trava o cursor no veículo mais próximo
 
 msgctxt "feedback_text2"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Silver Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Prata. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Prata. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "options/game/slow_down_while_inventory_exchange"
 msgid "Slow down during inventory exchange"
@@ -2618,7 +2618,7 @@ msgstr "F7"
 
 msgctxt "options/keys/control_manual/squadmember3"
 msgid "Select squad member 3"
-msgstr "Selecionar membro 3"
+msgstr "Selecionar membro 3 da esquadra"
 
 msgctxt "options/game/multiplayer/message_chatwheel/7"
 msgid "Let's move in!"
@@ -2850,7 +2850,7 @@ msgstr "Tecla '%1%' já está atribuída a '%2%'"
 
 msgctxt "options/keys/control_manual/squadmember4"
 msgid "Select squad member 4"
-msgstr "Selecionar membro 4"
+msgstr "Selecionar membro 4 da esquadra"
 
 msgctxt "options/keys/control_manual/weapon6"
 msgid "Weapon 6"
@@ -3066,11 +3066,11 @@ msgstr "Ativar modo de visão"
 
 msgctxt "options/keys/control_manual/squadmember2"
 msgid "Select squad member 2"
-msgstr "Selecionar membro 2"
+msgstr "Selecionar membro 2 da esquadra"
 
 msgctxt "options/keys/control_manual/squadmember5"
 msgid "Select squad member 5"
-msgstr "Selecionar membro 5"
+msgstr "Selecionar membro 5 da esquadra"
 
 msgctxt "options/keys/control_camera/increase_view"
 msgid "Pitch up"
@@ -3090,7 +3090,7 @@ msgstr "Exibir menu do jogo."
 
 msgctxt "options/keys/control_manual/squadmember6"
 msgid "Select squad member 6"
-msgstr "Selecionar membro 6"
+msgstr "Selecionar membro 6 da esquadra"
 
 msgctxt "user_statistics/ranked/stat/total_kdman"
 msgid "Total K/D ratio"
@@ -3102,7 +3102,7 @@ msgstr "Mapa"
 
 msgctxt "options/keys/control_manual/squadmember7"
 msgid "Select squad member 7"
-msgstr "Selecionar membro 7"
+msgstr "Selecionar membro 7 da esquadra"
 
 msgctxt "options/keys/control_camera/zoom_in"
 msgid "Zoom in"
@@ -3110,7 +3110,7 @@ msgstr "Aproximar"
 
 msgctxt "options/keys/control_manual/squadmember8"
 msgid "Select squad member 8"
-msgstr "Selecionar membro 8"
+msgstr "Selecionar membro 8 da esquadra"
 
 msgctxt "options/keys/keymap/key_scroll"
 msgid "SCROLL LOCK"
@@ -3118,11 +3118,11 @@ msgstr "SCROLL LOCK"
 
 msgctxt "options/keys/control_manual/squadmember11"
 msgid "Select squad member 11"
-msgstr "Selecionar membro 11"
+msgstr "Selecionar membro 11 da esquadra"
 
 msgctxt "options/keys/control_manual/squadmember12"
 msgid "Select squad member 12"
-msgstr "Selecionar membro 12"
+msgstr "Selecionar membro 12 da esquadra"
 
 msgctxt "main_menu2/library/soldiers/perks/mechanic"
 msgid "Mechanic"
@@ -3234,7 +3234,7 @@ msgstr "Cortina de fumaça"
 
 msgctxt "options/keys/actions/smoke_decoy#desc"
 msgid "Launch a smoke screen of a selected vehicle with this ability."
-msgstr "Lança uma cortina de fumaça do veículo selecionado."
+msgstr "Lança uma cortina de fumaça do veículo selecionado que tenha essa habilidade."
 
 msgctxt "options/keys/keymap/key_5"
 msgid "5"
@@ -3622,7 +3622,7 @@ msgstr "Lute contra IA e prepare-se para batalhas online"
 
 msgctxt "options/keys/keymap/key_back"
 msgid "BACK"
-msgstr "VOLTAR"
+msgstr "BACK"
 
 msgctxt "main_menu2/singleplayer/hardcore"
 msgid "HARDCORE REALISM"
@@ -3924,7 +3924,7 @@ msgstr "ESCARAMUÇA"
 
 msgctxt "options/keys/keymap/key_home"
 msgid "HOME"
-msgstr "INÍCIO"
+msgstr "HOME"
 
 msgctxt "main_menu2/singleplayer/save_load_replay/hint/load"
 msgid "Load replay"
@@ -3952,7 +3952,7 @@ msgstr "INSERT"
 
 msgctxt "options/keys/keymap/key_delete"
 msgid "DELETE"
-msgstr "EXCLUIR"
+msgstr "DELETE"
 
 msgctxt "user_statistics/faction/stat/gameswon"
 msgid "Games won"
@@ -4864,7 +4864,7 @@ msgstr "ESCARAMUÇA LOCAL"
 
 msgctxt "user_statistics/ranked/stat/max_infantry"
 msgid "Highest infantry kills"
-msgstr "Maior número de infantaria eliminada"
+msgstr "Maior número de unidades de infantaria eliminadas"
 
 msgctxt "user_statistics/title"
 msgid "%1%"
@@ -5616,7 +5616,7 @@ msgstr "Obrigado por possuir a Edição Deluxe de Call to Arms!\n\nQue tal atual
 
 msgctxt "announce_sale_text"
 msgid "Call to Arms is currently on Sale!\n\nToday you can upgrade your package at a great price.\nEnjoy instant unit unlock, Singleplayer and Cooperative content, Workshop support and much more!"
-msgstr "Call to Arms está em promoção!\n\nHoje você pode atualizar por um ótimo preço.\nAproveite desbloqueio de unidades, conteúdo solo e cooperativo, Workshop e muito mais!"
+msgstr "Call to Arms está em promoção!\n\nHoje você pode atualizar por um ótimo preço.\nAproveite desbloqueio instantâneo de unidades, conteúdo solo e cooperativo, Workshop e muito mais!"
 
 msgctxt "announce_sale_xmas_text"
 msgid "Happy Holidays!\n\nAll Call to Arms upgrade packages and in-game items are currently on sale at a fantastic price. It's a perfect time to make yourself or friends a well deserved little present.\n\nHave fun and enjoy the time with your loved ones!"
@@ -5628,11 +5628,11 @@ msgstr "CAROS JOGADORES!"
 
 msgctxt "feedback_text"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Bronze Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Bronze. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Bronze. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "feedback_text3"
 msgid "Dear Soldier,\n\nThank you for your participation in Call to Arms. As a token of our gratitude for all of your contributions, we hereby award you the Gold Star. Congratulations!\n\nAs an independent developer studio, your opinion is what matters to us the most. In case you haven't done so yet, please consider leaving us a nice review. We want to hear your valuable feedback and thoughts on what you enjoy most about the game. Keep in mind, the more people who can find out about the game, the better we can make it for everyone.\n\nThank you, and good luck on the battlefield!\n"
-msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Ouro. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
+msgstr "Caro Soldado,\n\nObrigado por sua participação em Call to Arms. Como reconhecimento, concedemos a você a Estrela de Ouro. Parabéns!\n\nComo estúdio independente, sua opinião é o que mais importa para nós. Se ainda não o fez, considere deixar uma boa avaliação. Queremos seu feedback sobre o que você mais aprecia no jogo. Lembre-se: quanto mais pessoas conhecerem o jogo, melhor poderemos torná-lo para todos.\n\nObrigado e boa sorte no campo de batalha!\n"
 
 msgctxt "copyright_string"
 msgid "<s(8)c(120 120 120)f(arial_hq)>(C) 2014-2020 Digitalmindsoft e.K & Barbedwire Studios"
@@ -5800,15 +5800,15 @@ msgstr "A dificuldade ajusta: \n• Saúde da infantaria do jogador e IA aliada 
 
 msgctxt "main_menu2/dynamic_campaign/hint_difficulty_easy"
 msgid "Easy Difficulty: \n• Greatly reduces enemy infantry health \n• Greatly reduces enemy weapon accuracy for all units \n• Reduces enemy rate of throwing grenades \n• Greatly increases player infantry health \n• Increases friendly AI infantry health"
-msgstr "Dificuldade Fácil: \n• Reduz muito a saúde da infantaria inimiga \n• Reduz muito a precisão das armas inimigas \n• Reduz a frequência de lançamento de granadas \n• Aumenta muito a saúde da infantaria do jogador \n• Aumenta a saúde da infantaria IA aliada"
+msgstr "Dificuldade Fácil: \n• Reduz muito a saúde da infantaria inimiga \n• Reduz muito a precisão das armas inimigas de todas as unidades \n• Reduz a frequência com que os inimigos lançam granadas \n• Aumenta muito a saúde da infantaria do jogador \n• Aumenta a saúde da infantaria IA aliada"
 
 msgctxt "main_menu2/dynamic_campaign/hint_difficulty_normal"
 msgid "Normal Difficulty: \n• Reduces enemy infantry health \n• Reduces enemy weapon accuracy for all units \n• All other stats are at standard values"
-msgstr "Dificuldade Normal: \n• Reduz a saúde da infantaria inimiga \n• Reduz a precisão das armas inimigas \n• Todos os outros atributos em valores padrão"
+msgstr "Dificuldade Normal: \n• Reduz a saúde da infantaria inimiga \n• Reduz a precisão das armas inimigas de todas as unidades \n• Todos os outros atributos em valores padrão"
 
 msgctxt "main_menu2/dynamic_campaign/hint_difficulty_hard"
 msgid "Hard Difficulty: \n• Reduces enemy infantry health \n• Slightly reduces enemy weapon accuracy for all units \n• All other stats are at standard values"
-msgstr "Dificuldade Difícil: \n• Reduz a saúde da infantaria inimiga \n• Reduz levemente a precisão das armas inimigas \n• Todos os outros atributos em valores padrão"
+msgstr "Dificuldade Difícil: \n• Reduz a saúde da infantaria inimiga \n• Reduz levemente a precisão das armas inimigas de todas as unidades \n• Todos os outros atributos em valores padrão"
 
 msgctxt "main_menu2/dynamic_campaign/hint_difficulty_heroic"
 msgid "Hardcore Difficulty: \n• Slightly reduces enemy infantry health \n• All other stats are at standard values"
@@ -6146,7 +6146,7 @@ msgstr "Recompensa:"
 
 msgctxt "main_menu2/steam_startup_cta"
 msgid "Your steam account does not have a paid edition of Call to Arms, which is necessary to to run Call to Arms - Gates of Hell.\nUninstall any existing Call to Arms versions on Steam to eliminate any legacy free products and purchase the basic edition or higher.\nYou will need to remove the legacy free version to be able to make the purchase."
-msgstr "Sua conta Steam não possui uma edição paga de Call to Arms, necessária para executar Call to Arms - Gates of Hell.\nDesinstale versões anteriores no Steam e adquira a edição básica ou superior.\nVocê precisará remover a versão gratuita legada para poder fazer a compra."
+msgstr "Sua conta Steam não possui uma edição paga de Call to Arms, necessária para executar Call to Arms - Gates of Hell.\nDesinstale quaisquer versões de Call to Arms presentes no Steam para eliminar produtos gratuitos legados e adquira a edição básica ou superior.\nVocê precisará remover a versão gratuita legada para poder fazer a compra."
 
 msgctxt "options/game/show_scene_actor_buttons"
 msgid "Show selection icons"

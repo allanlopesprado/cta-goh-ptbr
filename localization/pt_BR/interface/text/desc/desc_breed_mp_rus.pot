@@ -402,7 +402,7 @@ msgstr "Sapador de Assalto Inf. AT [KA]"
 
 msgctxt "desc/human/mp/rus/late/assault-sap_atr"
 msgid "Assault Sapper AT Rifleman [KA]"
-msgstr "Sapador de Assalto AT Atirador [KA]"
+msgstr "Sapador de Assalto com Fuzil Antitanque [KA]"
 
 msgctxt "desc/human/mp/rus/late/assault-sap_sl"
 msgid "Assault Sapper Squadleader [KA]"
@@ -806,7 +806,7 @@ msgstr "Sapador de Assalto Inf. AT [KA]"
 
 msgctxt "desc/human/mp/rus/mid/assault-sap_atr"
 msgid "Assault Sapper AT Rifleman [KA]"
-msgstr "Sapador de Assalto AT Atirador [KA]"
+msgstr "Sapador de Assalto com Fuzil Antitanque [KA]"
 
 msgctxt "desc/human/mp/rus/mid/assault-sap_sl"
 msgid "Assault Sapper Squadleader [KA]"
@@ -1626,7 +1626,7 @@ msgstr "Penal Atirador [KA]"
 
 msgctxt "desc/human/mp/rus/mid/penal_smg"
 msgid "Penal SMG inf. [KA]"
-msgstr "Inf. SMG de Batalhão Penal [KA]"
+msgstr "Inf. SMG Penal [KA]"
 
 msgctxt "desc/human/mp/rus/mid/recon_mg"
 msgid "Recon MG Operator [KA]"

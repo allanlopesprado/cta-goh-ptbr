@@ -121,7 +121,7 @@ msgstr "Um canhão abatido! Vamos ao próximo!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_gun_destroyed_02"
 msgid "Both guns have been destroyed! We should get some reinforcements from our landing zone very soon."
-msgstr "Ambos os canhões destruídos! Em breve receberemos reforços da nossa zona de pouso."
+msgstr "Ambos os canhões destruídos! Em breve devemos receber reforços da nossa zona de pouso."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part02_pl_see_88"
 msgid "Heads up, there is an 88’ to the north of us at the railway station! Try to avoid its field of view for now."
@@ -209,7 +209,7 @@ msgstr "Todos! Recuem!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part03_ally_mgun_crew_dead"
 msgid "Someone man this HMG, that machinegunner is down!"
-msgstr "Alguém opere esta metralhadora pesada - aquele atirador foi abatido!"
+msgstr "Alguém opere esta metralhadora pesada - aquele metralhador foi abatido!"
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/narrator/part03_armor_01"
 msgid "Watch out, enemy tank from the east!"
@@ -445,7 +445,7 @@ msgstr "Ao dirigir a locomotiva, você pode <c(B29557)>acoplá-la a outros vagõ
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/ui/hint_switch"
 msgid "You can change the direction of a <c(B29557)>railway switch</c> by selecting an infantry unit and right-clicking on the switch."
-msgstr "Você pode mudar a direção de uma <c(B29557)>chave ferroviária</c> selecionando uma unidade de infantaria e clicando com o botão direito sobre ela."
+msgstr "Você pode mudar a direção de uma <c(B29557)>chave ferroviária</c> selecionando uma unidade de infantaria e clicando com o botão direito sobre a chave."
 
 msgctxt "mission/single/05-eng/1945_03_24_varsity/ui/scenario_tankman_text"
 msgid "At the same time. 2km from Issel bridge."

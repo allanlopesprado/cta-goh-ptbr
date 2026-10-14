@@ -205,7 +205,7 @@ msgstr "Cruiser A13 Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3_early"
 msgid "ML 3-inch Mortar (Early)"
-msgstr "Morteiro ML 3-inch (inicial)"
+msgstr "Morteiro ML 3 pol. (inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/20mm_oerlikon"
 msgid "Oerlikon No.2 UM"
@@ -229,19 +229,19 @@ msgstr "MGMC M16"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aa"
 msgid "QF 3.7-inch AA"
-msgstr "QF 3.7-inch AA"
+msgstr "QF 3.7 pol. AA"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_3_7_aatow"
 msgid "QF 3.7-inch AA (towed)"
-msgstr "QF 3.7-inch AA (rebocado)"
+msgstr "QF 3.7 pol. AA (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden"
 msgid "QF 4.5inch Howitzer"
-msgstr "Obuseiro QF 4.5inch"
+msgstr "Obuseiro QF 4.5 pol."
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_qf_how_wooden_tow"
 msgid "QF 4.5inch Howitzer(towed)"
-msgstr "Obuseiro QF 4.5inch (rebocado)"
+msgstr "Obuseiro QF 4.5 pol. (rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/40mm_qf40_early"
 msgid "QF 40mm Mk.III (Early)"
@@ -261,15 +261,15 @@ msgstr "QF 18-pdr Mk.V"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/94mm_qf_how_early"
 msgid "QF 3.7-inch Howitzer (Early)"
-msgstr "Obuseiro QF 3.7-inch (inicial)"
+msgstr "Obuseiro QF 3.7 pol. (inicial)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6"
 msgid "BL 6-inch 26-cwt Howitzer Mk.I"
-msgstr "Obuseiro BL 6-inch 26-cwt Mk.I"
+msgstr "Obuseiro BL 6 pol. 26-cwt Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/152mm_bl_6_mk19"
 msgid "BL 6-Inch Mk. XIX Gun"
-msgstr "Canhão BL 6-Inch Mk. XIX"
+msgstr "Canhão BL 6 pol. Mk. XIX"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/88mm_qf25_mk1_4p"
 msgid "QF 25-pdr Mk.I"
@@ -277,7 +277,7 @@ msgstr "QF 25-pdr Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/203mm_bl_8"
 msgid "BL 8-inch Howitzer Mk.VIII"
-msgstr "Obuseiro BL 8-inch Mk.VIII"
+msgstr "Obuseiro BL 8 pol. Mk.VIII"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/m18_hellcat"
 msgid "M18 'Hellcat'"
@@ -413,11 +413,11 @@ msgstr "QF 17-pdr (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/81mm_ml3"
 msgid "ML 3-inch Mortar"
-msgstr "Morteiro ML 3-inch"
+msgstr "Morteiro ML 3 pol."
 
 msgctxt "mission/single/0x-skirmish/menu_eng/107mm_ml4_2"
 msgid "ML 4.2-inch Mortar"
-msgstr "Morteiro ML 4.2-inch"
+msgstr "Morteiro ML 4.2 pol."
 
 msgctxt "mission/single/0x-skirmish/menu_eng/76mm_land_mattress"
 msgid "Land Mattress"
@@ -433,11 +433,11 @@ msgstr "QF 25-pdr Mk.II (tardio)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5"
 msgid "BL 4.5-inch Mk.II Gun"
-msgstr "Canhão BL 4.5-inch Mk.II"
+msgstr "Canhão BL 4.5 pol. Mk.II"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/114mm_bl_4_5_mk1"
 msgid "BL 4.5-inch Mk.I Gun"
-msgstr "Canhão BL 4.5-inch Mk.I"
+msgstr "Canhão BL 4.5 pol. Mk.I"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/155mm_m1a1_longtom_eng"
 msgid "155mm Gun M1A1 'Long Tom'"
@@ -445,15 +445,15 @@ msgstr "Canhão M1A1 'Long Tom' de 155mm"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/183mm_bl_7_2_mk6"
 msgid "BL 7.2-inch Howitzer Mk.VI"
-msgstr "Obuseiro BL 7.2-inch Mk.VI"
+msgstr "Obuseiro BL 7.2 pol. Mk.VI"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_late"
 msgid "BL 5.5-inch Mk.III Gun"
-msgstr "Canhão BL 5.5-inch Mk.III"
+msgstr "Canhão BL 5.5 pol. Mk.III"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/140mm_bl_5_5_latetow"
 msgid "BL 5.5-inch Mk.III(towed)"
-msgstr "BL 5.5-inch Mk.III(rebocado)"
+msgstr "BL 5.5 pol. Mk.III(rebocado)"
 
 msgctxt "mission/single/0x-skirmish/menu_eng/7thad_sq"
 msgid "7th AD. Section"

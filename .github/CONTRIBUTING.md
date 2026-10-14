@@ -70,6 +70,9 @@ esse número não é a versão do jogo e não comprova compatibilidade com outra
 - Revisão de 13 de outubro de 2026: [ajustes aplicados](../translation/context-review-2026-10-13.json),
   [evidências](../translation/context-evidence-2026-10-13.json) e
   [validação técnica](../translation/context-validation-2026-10-13.json).
+- Segunda passagem de 13 de outubro de 2026: [exemplos legíveis](../translation/review-v1.0.24.md),
+  [comparação pelo inglês e histórico](../translation/adversarial-review-2026-10-13.json)
+  e [validação do pacote](../translation/adversarial-validation-2026-10-13.json).
 
 ## Atualização da referência inglesa
 
@@ -103,6 +106,7 @@ node tools/translation-audit.mjs --check
 node tools/source-integrity.mjs --check
 node tools/catalog-metadata.mjs --check
 node tools/context-quality.mjs --check
+node tools/semantic-features.mjs --check
 node tools/translation-style.mjs --check
 node tools/pack-translation.mjs --build
 node tools/pack-translation.mjs --check
@@ -123,6 +127,13 @@ release. O pacote contém somente `default/localization.info` e os catálogos PT
 inglês, relatórios e ferramentas ficam fora dele. O empacotador confere inventário,
 CRC32 e conteúdo byte a byte e recusa links simbólicos, arquivos inesperados e
 destinos fora de `dist/`. Não inclua arquivos gerados ou não relacionados no pull request.
+
+`semantic-features.mjs --check` acrescenta verificações por característica da fonte:
+fuzil antitanque, calibres nominais em polegadas nos rótulos examinados, nomes de
+teclas físicas e domínio de transferência de combustível. Permite alternativas
+de redação nos casos aplicáveis, em vez de exigir uma frase inteira idêntica.
+Não prova a direção operacional de um recipiente nem o sentido de todos os textos.
+Novos sentidos e mudanças de fonte continuam exigindo revisão contextual.
 
 Se alterar os catálogos ou a referência inglesa, prepare os metadados da próxima
 versão em `translation/release.json` e as notas em `CHANGELOG.md`: tag nova,
